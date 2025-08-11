@@ -1,0 +1,36 @@
+# --- Hugo build output (ignored when deploying via Actions) ---
+public/
+docs/
+
+# --- Hugo cache & locks ---
+resources/_gen/
+.hugo_build.lock
+hugo_stats.json
+
+# --- Hugo Modules (remove this ignore if you vendor modules) ---
+_vendor/
+
+# --- Tooling caches ---
+.cache/
+.parcel-cache/
+.pnpm-store/
+dist/
+
+# --- Node ---
+node_modules/
+npm-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# --- Env files (keep secrets out of git) ---
+.env
+.env.*
+
+# --- OS / editor cruft ---
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+.idea/
+.vscode/
+
