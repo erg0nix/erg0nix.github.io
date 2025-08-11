@@ -22,7 +22,7 @@ cool stuff i've found and want to remember
 <div class="bookmark-col">
 
 ## random
-- [lofi.cafe](https://https://www.lofi.cafe/) - online lofi café
+- [lofi.cafe](https://www.lofi.cafe/) - online lofi café
 - [radio garden](https://radio.garden/) - world radio stations
 - [windy](https://windy.com/) - weather visualization
 
