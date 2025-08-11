@@ -1,7 +1,7 @@
 baseURL = 'https://erg0nix.github.io/'
 languageCode = 'en-us'
 title = 'erg0nix'
-publishDir = 'docs'
+publishDir = 'public'
 
 [markup.goldmark.renderer]
 unsafe = true
