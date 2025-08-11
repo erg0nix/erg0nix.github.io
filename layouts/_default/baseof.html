@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+{{ partial "head.html" . }}
+<body>
+  <nav class="mobile-nav">
+    <a href="/projects">~/projects</a>
+    <a href="/blog">~/blog</a>
+    <a href="/bookmarks">~/bookmarks</a>
+  </nav>
+
+  <div class="layout">
+    <aside class="sidebar">
+      <div class="profile">
+        <div class="profile-text">
+          <h1><a href="/">{{ .Site.Title }}</a></h1>
+          <div class="status">
+            <span class="status-indicator">●</span> online
+          </div>
+        </div>
+        <img src="/avatar.png" alt="avatar" class="avatar">
+      </div>
+      
+      <nav class="nav">
+        <a href="/projects">~/projects</a>
+        <a href="/blog">~/blog</a>
+        <a href="/bookmarks">~/bookmarks</a>
+      </nav>
+      
+      <div class="info">
+        <h3>system info</h3>
+        <p>location: earth norway</p>
+        <p>shell: zsh but fish seem nice</p>
+        <p>editor: neovim</p>
+        <p>core: melted</p>
+        <p>uptime: {{ now.Format "2006" }} - present</p>
+      </div>
+    </aside>
+    
+    <main class="content">
+      {{ block "main" . }}{{ end }}
+      
+      <div class="mobile-info">
+        <h3>system info</h3>
+        <p>location: earth norway</p>
+        <p>shell: zsh but fish seem nice</p>
+        <p>editor: neovim</p>
+        <p>core: melted</p>
+        <p>uptime: {{ now.Format "2006" }} - present</p>
+      </div>
+    </main>
+  </div>
+</body>
+</html>

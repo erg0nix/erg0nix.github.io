@@ -1,0 +1,22 @@
+{{ define "main" }}
+<div class="blog-list">
+  <div class="posts-header">
+    <h1>~/blog</h1>
+    <a href="/index.xml" target="_blank" class="rss-button">RSS</a>
+  </div>
+  <p class="breadcrumb"><a href="/">← back</a></p>
+  
+  <div class="posts">
+    {{ range .Pages }}
+    <article class="post-item">
+      <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+      <time>{{ .Date.Format "2006-01-02" }}</time>
+      {{ if .Summary }}
+      <p>{{ .Summary }}</p>
+      <a href="{{ .RelPermalink }}" class="read-more">read more →</a>
+      {{ end }}
+    </article>
+    {{ end }}
+  </div>
+</div>
+{{ end }}

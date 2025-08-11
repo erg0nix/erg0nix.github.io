@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on erg0nix</title>
+    <link>http://localhost:1313/blog/</link>
+    <description>Recent content in Blogs on erg0nix</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 15 Jan 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/blog/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>hello world</title>
+      <link>http://localhost:1313/blog/hello-world/</link>
+      <pubDate>Wed, 15 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/blog/hello-world/</guid>
+      <description>&lt;p&gt;so I finally got around to setting up this site. been thinking about personal websites and the &lt;a href=&#34;https://indieweb.org/&#34;&gt;indie web&lt;/a&gt; lately.&lt;/p&gt;&#xA;&lt;h2 id=&#34;why-a-personal-website&#34;&gt;why a personal website?&lt;/h2&gt;&#xA;&lt;p&gt;social media platforms come and go, and some stay way longer than you wanted and all your friends and family is on there, so you cannot just drop it, but you really want to. your content gets buried in algorithms, ads, and noise. but a personal site is yours. you control how it looks, what you write or post.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
