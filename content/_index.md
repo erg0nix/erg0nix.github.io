@@ -8,7 +8,7 @@ draft: false
 
 backend developer based in oslo, norway.
 
-I play tennis and throw javelin. love indie games and occasionally triple a games. into retro tech. wish I was better at embedded programming and hardware, not just software.
+I play tennis and can throw a javelin. love indie games and occasionally triple a games. into retro tech. wish I was better at embedded programming and hardware, not just software.
 
 at work I do kotlin with ktor. at home I write golang and python, dabbling in rust for cli tools. 
 
