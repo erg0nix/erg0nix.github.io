@@ -18,13 +18,19 @@ cool stuff i've found and want to remember
 - [charmbracelet](https://charm.sh/) - cli tools and libraries
 - [godot](https://godotengine.org/) - game engine
 
+
+## channels
+- [EmergentGarden](https://www.youtube.com/@EmergentGarden) - EmergentGarden
+- [Mecha](https://www.youtube.com/@mechasystems) - Mecha
+
 </div>
 <div class="bookmark-col">
 
 ## random
 - [lofi.cafe](https://www.lofi.cafe/) - online lofi café
 - [radio garden](https://radio.garden/) - world radio stations
-- [windy](https://windy.com/) - weather visualization
+- [ventusky](https://ventusky.com/) - weather visualization
+- [marine traffic](https://www.marinetraffic.com/) - Marine traffic
 
 </div>
 </div>
