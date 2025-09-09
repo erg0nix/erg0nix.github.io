@@ -1,0 +1,165 @@
+{
+  "generated_at": "2025-09-09T23:06:07.385300Z",
+  "items": [
+    {
+      "id": "815c3d9920f4fb31be30efdd2d15531bb64df0a6",
+      "title": "How to use the GitHub and JFrog integration for secure, traceable builds from commit to production",
+      "link": "https://github.blog/enterprise-software/devsecops/how-to-use-the-github-and-jfrog-integration-for-secure-traceable-builds-from-commit-to-production/",
+      "source": "GitHub Blog",
+      "summary": "Connect commits to artifacts without switching tools. The post How to use the GitHub and JFrog integration for secure, traceable builds from commit to production appeared first on The GitHub Blog.",
+      "published": "2025-09-09T22:00:00Z"
+    },
+    {
+      "id": "639b104e14371d578e8f084d74dea2e6a43cb901",
+      "title": "A new experimental Go API for JSON",
+      "link": "https://go.dev/blog/jsonv2-exp",
+      "source": "Go Blog",
+      "summary": "Go 1.25 introduces experimental support for encoding/json/jsontext and encoding/json/v2 packages.",
+      "published": "2025-09-09T00:00:00Z"
+    },
+    {
+      "id": "7547035b948acf575f837b731c9f5d6a905e4a73",
+      "title": "How to debug a web app with Playwright MCP and GitHub Copilot",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-to-debug-a-web-app-with-playwright-mcp-and-github-copilot/",
+      "source": "GitHub Blog",
+      "summary": "Reproduce and debug web app issues with ease using the Playwright MCP server and GitHub Copilot. The post How to debug a web app with Playwright MCP and GitHub Copilot appeared first on The GitHub Blog.",
+      "published": "2025-09-05T16:00:00Z"
+    },
+    {
+      "id": "7abd4ce3e1b96282a5cd0b1b52ebd4d1757d9b23",
+      "title": "GitHub is enabling broader access for developers in Syria following new government trade rules",
+      "link": "https://github.blog/company/github-is-enabling-broader-access-for-developers-in-syria-following-new-government-trade-rules/",
+      "source": "GitHub Blog",
+      "summary": "With the relaxation of sanctions and export controls on Syria, GitHub will once again be broadly available to Syrian developers. The post GitHub is enabling broader access for developers in Syria following new government trade rules appeared first on The GitHub Blog.",
+      "published": "2025-09-05T06:00:00Z"
+    },
+    {
+      "id": "780e99b783411f05087b2f73d464c44fad51c773",
+      "title": "Building smarter interactions with MCP elicitation: From clunky tool calls to seamless user experiences",
+      "link": "https://github.blog/ai-and-ml/github-copilot/building-smarter-interactions-with-mcp-elicitation-from-clunky-tool-calls-to-seamless-user-experiences/",
+      "source": "GitHub Blog",
+      "summary": "Explore how MCP elicitation transforms AI tool interactions by gathering missing information upfront. The post Building smarter interactions with MCP elicitation: From clunky tool calls to seamless user experiences appeared first on The GitHub Blog.",
+      "published": "2025-09-04T16:00:00Z"
+    },
+    {
+      "id": "11c01cfa8c154112016e09b648b39eabb1edef75",
+      "title": "5 tips for writing better custom instructions for Copilot",
+      "link": "https://github.blog/ai-and-ml/github-copilot/5-tips-for-writing-better-custom-instructions-for-copilot/",
+      "source": "GitHub Blog",
+      "summary": "This guide offers five essential tips for writing effective GitHub Copilot custom instructions, covering project overview, tech stack, coding guidelines, structure, and resources, to help developers get better code suggestions. The post 5 tips for writing better custom instructions for Copilot...",
+      "published": "2025-09-03T16:00:00Z"
+    },
+    {
+      "id": "18207bc75a8df8ee0720dcb1b8d2a183fd8bf52c",
+      "title": "Spec-driven development with AI: Get started with a new open source toolkit",
+      "link": "https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/",
+      "source": "GitHub Blog",
+      "summary": "Developers can use their AI tool of choice for spec-driven development with this open source toolkit. The post Spec-driven development with AI: Get started with a new open source toolkit appeared first on The GitHub Blog.",
+      "published": "2025-09-02T16:48:03Z"
+    },
+    {
+      "id": "ba655fc543fed3b849e98b9f764f1aebbef663dc",
+      "title": "Under the hood: Exploring the AI models powering GitHub Copilot",
+      "link": "https://github.blog/ai-and-ml/github-copilot/under-the-hood-exploring-the-ai-models-powering-github-copilot/",
+      "source": "GitHub Blog",
+      "summary": "Learn how GitHub Copilot’s evolving models and infrastructure center developer choice and power agentic workflows. The post Under the hood: Exploring the AI models powering GitHub Copilot appeared first on The GitHub Blog.",
+      "published": "2025-08-29T16:14:42Z"
+    },
+    {
+      "id": "317c39a4d03820706770db86c3746867987801cc",
+      "title": "How GitHub Models can help open source maintainers focus on what matters",
+      "link": "https://github.blog/open-source/maintainers/how-github-models-can-help-open-source-maintainers-focus-on-what-matters/",
+      "source": "GitHub Blog",
+      "summary": "Learn how GitHub Models helps open source maintainers automate repetitive tasks like issue triage, duplicate detection, and contributor onboarding — saving hours each week. The post How GitHub Models can help open source maintainers focus on what matters appeared first on The GitHub Blog.",
+      "published": "2025-08-28T19:02:44Z"
+    },
+    {
+      "id": "6ad7f93d352ba72727f26aa7b7b50dc672622c0e",
+      "title": "How we accelerated Secret Protection engineering with Copilot",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-we-accelerated-secret-protection-engineering-with-copilot/",
+      "source": "GitHub Blog",
+      "summary": "Learn how the Secret Protection engineering team collaborated with GitHub Copilot coding agent to expand validity check coverage. The post How we accelerated Secret Protection engineering with Copilot appeared first on The GitHub Blog.",
+      "published": "2025-08-28T17:08:51Z"
+    },
+    {
+      "id": "a88ce715593028221f9d9a0b9316b42692adb7d8",
+      "title": "How to use GitHub Copilot on github.com: A power user’s guide",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-to-use-github-copilot-on-github-com-a-power-users-guide/",
+      "source": "GitHub Blog",
+      "summary": "Explore how to use GitHub Copilot on github.com to automate tasks, assign agents, prototype ideas, and streamline your entire workflow — all without an IDE. The post How to use GitHub Copilot on github.com: A power user’s guide appeared first on The GitHub Blog.",
+      "published": "2025-08-27T16:00:00Z"
+    },
+    {
+      "id": "6b8800a031bd9a738f21d97ce03a973790b851bb",
+      "title": "Testing Time (and other asynchronicities)",
+      "link": "https://go.dev/blog/testing-time",
+      "source": "Go Blog",
+      "summary": "A discussion of testing asyncronous code and an exploration of the `testing/synctest` package. Based on the GopherCon Europe 2025 talk with the same title.",
+      "published": "2025-08-26T00:00:00Z"
+    },
+    {
+      "id": "93a4321ca0483c4e1eef1583bd0e6243d804afee",
+      "title": "Container-aware GOMAXPROCS",
+      "link": "https://go.dev/blog/container-aware-gomaxprocs",
+      "source": "Go Blog",
+      "summary": "New GOMAXPROCS defaults in Go 1.25 improve behavior in containers.",
+      "published": "2025-08-20T00:00:00Z"
+    },
+    {
+      "id": "3dad62e4d720afaf62e83261ae120b9bd85e61c0",
+      "title": "Go 1.25 is released",
+      "link": "https://go.dev/blog/go1.25",
+      "source": "Go Blog",
+      "summary": "Go 1.25 adds container-aware GOMAXPROCS, testing/synctest package, experimental GC, experimental encoding/json/v2, and more.",
+      "published": "2025-08-12T00:00:00Z"
+    },
+    {
+      "id": "5cbf3debdc909225754e8de963d3d9d90767391a",
+      "title": "The FIPS 140-3 Go Cryptographic Module",
+      "link": "https://go.dev/blog/fips140",
+      "source": "Go Blog",
+      "summary": "Go now has a built-in, native FIPS 140-3 compliant mode.",
+      "published": "2025-07-15T00:00:00Z"
+    },
+    {
+      "id": "3a21f756f4be9e526e3eb8ecdc26996d7e5a5c9d",
+      "title": "Generic interfaces",
+      "link": "https://go.dev/blog/generic-interfaces",
+      "source": "Go Blog",
+      "summary": "Adding type parameters to interface types is surprisingly powerful",
+      "published": "2025-07-07T00:00:00Z"
+    },
+    {
+      "id": "e23210b0a95e13611ac28e812af3cea7e594aadb",
+      "title": "[ On | No ] syntactic support for error handling",
+      "link": "https://go.dev/blog/error-syntax",
+      "source": "Go Blog",
+      "summary": "Go team plans around error handling support",
+      "published": "2025-06-03T00:00:00Z"
+    },
+    {
+      "id": "b8de36a9f2b23cdd3ea092668ff5cbf6a75f24c2",
+      "title": "Go Cryptography Security Audit",
+      "link": "https://go.dev/blog/tob-crypto-audit",
+      "source": "Go Blog",
+      "summary": "Go's cryptography libraries underwent an audit by Trail of Bits.",
+      "published": "2025-05-19T00:00:00Z"
+    },
+    {
+      "id": "2bc80a1e6600bf493f8a48f3bf1afe40a8ceb8b8",
+      "title": "More predictable benchmarking with testing.B.Loop",
+      "link": "https://go.dev/blog/testing-b-loop",
+      "source": "Go Blog",
+      "summary": "Better benchmark looping in Go 1.24.",
+      "published": "2025-04-02T00:00:00Z"
+    },
+    {
+      "id": "e05eee6deda7377e21e39a880df0c8f34d37b27c",
+      "title": "Goodbye core types - Hello Go as we know and love it!",
+      "link": "https://go.dev/blog/coretypes",
+      "source": "Go Blog",
+      "summary": "Go 1.25 simplifies the language spec by removing the notion of core types",
+      "published": "2025-03-26T00:00:00Z"
+    }
+  ]
+}

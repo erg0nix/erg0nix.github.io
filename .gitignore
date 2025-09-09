@@ -26,6 +26,11 @@ pnpm-debug.log*
 .env
 .env.*
 
+# --- Python ---
+venv/
+__pycache__/
+*.pyc
+
 # --- OS / editor cruft ---
 .DS_Store
 Thumbs.db

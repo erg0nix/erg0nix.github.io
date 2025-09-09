@@ -1,0 +1,7 @@
+[[feeds]]
+name = "GitHub Blog"
+url = "https://github.blog/feed/"
+
+[[feeds]]
+name = "Go Blog"
+url = "https://go.dev/blog/feed.atom"
