@@ -14,10 +14,10 @@ cool stuff i've found and want to remember
 
 ## dev tools
 - [neovim](https://neovim.io/) - better vim
-- [claude code](https://claude.ai/code) - AI coding assistant
-- [charmbracelet](https://charm.sh/) - cli tools and libraries
 - [godot](https://godotengine.org/) - game engine
 
+## Bros
+- [eksi.dev](https://eksi.dev)
 
 ## channels
 - [EmergentGarden](https://www.youtube.com/@EmergentGarden) - EmergentGarden
@@ -31,6 +31,9 @@ cool stuff i've found and want to remember
 - [radio garden](https://radio.garden/) - world radio stations
 - [ventusky](https://ventusky.com/) - weather visualization
 - [marine traffic](https://www.marinetraffic.com/) - Marine traffic
+
+## Cool stuff
+- [Vimm's Lair](https://vimm.net)
 
 </div>
 </div>
