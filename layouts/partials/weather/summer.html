@@ -1,0 +1,60 @@
+<!-- Summer floating particles effects -->
+<style>
+  /* Summer effect (light particles) - GPU-optimized transform-based */
+  html.weather-summer body::before,
+  html.weather-summer body::after {
+    content: "";
+    position: fixed;
+    inset: -50dvh 0 0 0;
+    height: 200dvh;
+    width: 100%;
+    pointer-events: none;
+    z-index: 0;
+    background-repeat: repeat;
+    will-change: transform;
+    contain: paint;
+    backface-visibility: hidden;
+    transform: translate3d(0,0,0);
+  }
+  
+  /* small/medium particles - gentle float */
+  html.weather-summer body::before {
+    opacity: 0.1;
+    background-image:
+      radial-gradient(1px 1px at 25px 30px, #fbbf24, transparent),
+      radial-gradient(1.5px 1.5px at 125px 20px, #f59e0b, transparent),
+      radial-gradient(1px 1px at 225px 40px, #fcd34d, transparent),
+      radial-gradient(2px 2px at 65px 35px, #f59e0b, transparent),
+      radial-gradient(1.5px 1.5px at 165px 25px, #fcd34d, transparent),
+      radial-gradient(2px 2px at 275px 45px, #fbbf24, transparent);
+    background-size: 340px 50px, 340px 50px, 340px 50px, 340px 70px, 340px 70px, 340px 70px;
+    animation: summerFloatA 19s ease-in-out infinite;
+  }
+  
+  /* larger particles - slow drift */
+  html.weather-summer body::after {
+    opacity: 0.08;
+    background-image:
+      radial-gradient(2.5px 2.5px at 45px 40px, #fcd34d, transparent),
+      radial-gradient(2px 2px at 185px 30px, #f59e0b, transparent),
+      radial-gradient(2.5px 2.5px at 305px 20px, #fbbf24, transparent),
+      radial-gradient(1.5px 1.5px at 85px 25px, #fbbf24, transparent),
+      radial-gradient(2px 2px at 195px 35px, #f59e0b, transparent);
+    background-size: 340px 90px, 340px 90px, 340px 90px, 340px 60px, 340px 60px;
+    animation: summerFloatB 31s ease-in-out infinite;
+  }
+
+  @keyframes summerFloatA {
+    0%, 100% { transform: translate3d(0,-50dvh,0) rotate(0deg); }
+    25% { transform: translate3d(0,-45dvh,0) rotate(45deg); }
+    50% { transform: translate3d(0,-25dvh,0) rotate(90deg); }
+    75% { transform: translate3d(0,-10dvh,0) rotate(135deg); }
+  }
+  
+  @keyframes summerFloatB {
+    0%, 100% { transform: translate3d(0,-50dvh,0) rotate(0deg); }
+    25% { transform: translate3d(0,-40dvh,0) rotate(-30deg); }
+    50% { transform: translate3d(0,-20dvh,0) rotate(60deg); }
+    75% { transform: translate3d(0,-5dvh,0) rotate(-90deg); }
+  }
+</style>

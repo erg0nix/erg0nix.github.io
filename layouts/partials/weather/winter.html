@@ -1,0 +1,87 @@
+<!-- Winter snow effects -->
+<style>
+  /* Snow effect (winter) - GPU-optimized transform-based */
+  html.weather-snow body::before,
+  html.weather-snow body::after {
+    content: "";
+    position: fixed;
+    inset: -50dvh 0 0 0;
+    height: 200dvh;
+    width: 100%;
+    pointer-events: none;
+    z-index: 0;
+    background-repeat: repeat;
+    will-change: transform;
+    contain: paint;
+    backface-visibility: hidden;
+    transform: translate3d(0,0,0);
+  }
+  
+  /* mixed size flakes - fast layer */
+  html.weather-snow body::before {
+    opacity: 0.25;
+    background-image:
+      radial-gradient(1px 1px at 45px 12px, #ffffff, transparent),
+      radial-gradient(2px 2px at 25px 15px, #ffffff, transparent),
+      radial-gradient(1px 1px at 185px 38px, #f0f8ff, transparent),
+      radial-gradient(3px 3px at 120px 35px, #f0f8ff, transparent),
+      radial-gradient(1px 1px at 275px 22px, #e6f3ff, transparent),
+      radial-gradient(2px 2px at 215px 8px, #e6f3ff, transparent);
+    background-size: 320px 50px, 350px 70px, 320px 50px, 350px 70px, 320px 50px, 350px 70px;
+    animation: snowDriftA 8s linear infinite;
+  }
+  
+  /* larger flakes - slow layer */
+  html.weather-snow body::after {
+    opacity: 0.15;
+    background-image:
+      radial-gradient(4px 4px at 60px 20px, #f8f8ff, transparent),
+      radial-gradient(5px 5px at 35px 30px, #ffffff, transparent),
+      radial-gradient(4px 4px at 180px 22px, #e6f3ff, transparent),
+      radial-gradient(3px 3px at 310px 28px, #ffffff, transparent);
+    background-size: 350px 90px, 350px 90px, 350px 90px, 350px 70px;
+    animation: snowDriftB 18s linear infinite;
+  }
+
+  @keyframes snowDriftA {
+    from { transform: translate3d(0,-50dvh,0); }
+    to   { transform: translate3d(0,0,0); }
+  }
+  
+  @keyframes snowDriftB {
+    from { transform: translate3d(0,-50dvh,0); }
+    to   { transform: translate3d(0,0,0); }
+  }
+
+  /* Falling snowflake emojis for winter */
+  .snowflakes-layer {
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    z-index: 1;
+    contain: layout style paint;
+  }
+
+  .snowflake {
+    position: absolute;
+    top: -10dvh;
+    will-change: transform;
+    transform: translate3d(0, -10dvh, 0);
+    filter: drop-shadow(0 2px 1px rgba(0,0,0,.15));
+    font-size: var(--size, 20px);
+    animation: snowflake-fall var(--fall, 15s) linear var(--delay, 0s) 1 both;
+    opacity: var(--opacity, .8);
+  }
+
+  @keyframes snowflake-fall {
+    0%   { transform: translate3d(var(--xStart, 0vw), -10dvh, 0) rotate(0deg); }
+    25%  { transform: translate3d(calc(var(--xStart, 0vw) + var(--amp, 15px)), 25dvh, 0) rotate(90deg); }
+    50%  { transform: translate3d(calc(var(--xStart, 0vw) - var(--amp, 15px)), 50dvh, 0) rotate(180deg); }
+    75%  { transform: translate3d(calc(var(--xStart, 0vw) + var(--amp, 15px)), 75dvh, 0) rotate(270deg); }
+    100% { transform: translate3d(calc(var(--xStart, 0vw) + var(--drift, 0px)), 110dvh, 0) rotate(360deg); }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .snowflakes-layer, .snowflake { animation: none !important; display: none !important; }
+  }
+</style>

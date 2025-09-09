@@ -27,6 +27,7 @@
       overflow-x: hidden;
     }
     
+    /* Weather effects - will be dynamically set by season */
     body::before {
       content: '';
       position: fixed;
@@ -34,21 +35,7 @@
       left: 0;
       width: 100%;
       height: 100vh;
-      background: 
-        radial-gradient(3px 3px at 15px 25px, #ffffff, transparent),
-        radial-gradient(4px 4px at 73px 68px, #f0f8ff, transparent),
-        radial-gradient(2px 2px at 125px 19px, #e6f3ff, transparent),
-        radial-gradient(5px 5px at 47px 92px, #ffffff, transparent),
-        radial-gradient(3px 3px at 184px 44px, #f8f8ff, transparent),
-        radial-gradient(4px 4px at 93px 127px, #ffffff, transparent),
-        radial-gradient(2px 2px at 167px 83px, #f5f5f5, transparent),
-        radial-gradient(3px 3px at 38px 156px, #ffffff, transparent),
-        radial-gradient(4px 4px at 142px 17px, #e0e6ff, transparent),
-        radial-gradient(2px 2px at 78px 191px, #f0f0f0, transparent);
       background-repeat: repeat;
-      background-size: 220px 180px;
-      -webkit-animation: snow 12s linear infinite;
-      animation: snow 12s linear infinite;
       opacity: 0.15;
       pointer-events: none;
       z-index: -1;
@@ -65,15 +52,259 @@
       50% { background-position: 100% 50%; }
       100% { background-position: 0% 50%; }
     }
-    
-    @-webkit-keyframes snow {
-      0% { background-position: 0 -220px; }
-      100% { background-position: 0 calc(100vh + 220px); }
+
+    .layout {
+      display: flex;
+      min-height: 100vh;
+      max-width: 1000px;
+      margin: 0 auto;
     }
     
-    @keyframes snow {
-      0% { background-position: 0 -220px; }
-      100% { background-position: 0 calc(100vh + 220px); }
+    .sidebar {
+      width: 280px;
+      padding: 45px 20px 40px 20px;
+      position: static;
+      height: auto;
+    }
+
+    .content {
+      width: 720px;
+      padding: 40px;
+      flex: 1;
+    }
+    
+    .profile {
+      display: flex;
+      align-items: flex-start;
+      gap: 15px;
+      margin-bottom: 30px;
+    }
+    html.weather-rain body::before,
+    html.weather-rain body::after {
+      content: "";
+      position: fixed;
+      inset: -50dvh 0 0 0;
+      height: 200dvh;
+      width: 100%;
+      pointer-events: none;
+      z-index: 0;
+      background-repeat: repeat;
+      will-change: transform;
+      contain: paint;
+      backface-visibility: hidden;
+      transform: translate3d(0,0,0);
+    }
+    
+    /* fine rain - fast layer */
+    html.weather-rain body::before {
+      opacity: 0.25;
+      background-image:
+        radial-gradient(1px 8px at 23px 17px, #7dd3fc, transparent),
+        radial-gradient(1px 6px at 142px 8px, #38bdf8, transparent),
+        radial-gradient(1px 9px at 251px 19px, #0ea5e9, transparent),
+        radial-gradient(1px 7px at 334px 12px, #7dd3fc, transparent),
+        radial-gradient(1px 10px at 45px 23px, #38bdf8, transparent),
+        radial-gradient(1px 8px at 167px 29px, #0ea5e9, transparent);
+      background-size: 400px 60px, 400px 60px, 400px 60px, 400px 60px, 400px 80px, 400px 80px;
+      animation: rainMoveA 6s linear infinite;
+    }
+    
+    /* depth rain - slow layer */
+    html.weather-rain body::after {
+      opacity: 0.15;
+      background-image:
+        radial-gradient(1px 9px at 56px 27px, #7dd3fc, transparent),
+        radial-gradient(1px 7px at 187px 39px, #38bdf8, transparent),
+        radial-gradient(1px 8px at 323px 8px, #0ea5e9, transparent),
+        radial-gradient(1px 10px at 112px 45px, #7dd3fc, transparent),
+        radial-gradient(1px 11px at 78px 16px, #38bdf8, transparent);
+      background-size: 400px 70px, 400px 70px, 400px 70px, 400px 70px, 400px 100px;
+      animation: rainMoveB 9s linear infinite;
+    }
+    
+    @keyframes rainMoveA {
+      from { transform: translate3d(0,-50dvh,0); }
+      to   { transform: translate3d(0,0,0); }
+    }
+    
+    @keyframes rainMoveB {
+      from { transform: translate3d(0,-50dvh,0); }
+      to   { transform: translate3d(0,0,0); }
+    }
+    
+    /* Summer effect (light particles) - GPU-optimized transform-based */
+    html.weather-summer body::before,
+    html.weather-summer body::after {
+      content: "";
+      position: fixed;
+      inset: -50dvh 0 0 0;
+      height: 200dvh;
+      width: 100%;
+      pointer-events: none;
+      z-index: 0;
+      background-repeat: repeat;
+      will-change: transform;
+      contain: paint;
+      backface-visibility: hidden;
+      transform: translate3d(0,0,0);
+    }
+    
+    /* small/medium particles - gentle float */
+    html.weather-summer body::before {
+      opacity: 0.1;
+      background-image:
+        radial-gradient(1px 1px at 25px 30px, #fbbf24, transparent),
+        radial-gradient(1.5px 1.5px at 125px 20px, #f59e0b, transparent),
+        radial-gradient(1px 1px at 225px 40px, #fcd34d, transparent),
+        radial-gradient(2px 2px at 65px 35px, #f59e0b, transparent),
+        radial-gradient(1.5px 1.5px at 165px 25px, #fcd34d, transparent),
+        radial-gradient(2px 2px at 275px 45px, #fbbf24, transparent);
+      background-size: 340px 50px, 340px 50px, 340px 50px, 340px 70px, 340px 70px, 340px 70px;
+      animation: summerFloatA 19s ease-in-out infinite;
+    }
+    
+    /* larger particles - slow drift */
+    html.weather-summer body::after {
+      opacity: 0.08;
+      background-image:
+        radial-gradient(2.5px 2.5px at 45px 40px, #fcd34d, transparent),
+        radial-gradient(2px 2px at 185px 30px, #f59e0b, transparent),
+        radial-gradient(2.5px 2.5px at 305px 20px, #fbbf24, transparent),
+        radial-gradient(1.5px 1.5px at 85px 25px, #fbbf24, transparent),
+        radial-gradient(2px 2px at 195px 35px, #f59e0b, transparent);
+      background-size: 340px 90px, 340px 90px, 340px 90px, 340px 60px, 340px 60px;
+      animation: summerFloatB 31s ease-in-out infinite;
+    }
+    
+    @keyframes summerFloatA {
+      0%, 100% { transform: translate3d(0,-50dvh,0) rotate(0deg); }
+      25% { transform: translate3d(0,-45dvh,0) rotate(45deg); }
+      50% { transform: translate3d(0,-25dvh,0) rotate(90deg); }
+      75% { transform: translate3d(0,-10dvh,0) rotate(135deg); }
+    }
+    
+    @keyframes summerFloatB {
+      0%, 100% { transform: translate3d(0,-50dvh,0) rotate(0deg); }
+      25% { transform: translate3d(0,-40dvh,0) rotate(-30deg); }
+      50% { transform: translate3d(0,-20dvh,0) rotate(60deg); }
+      75% { transform: translate3d(0,-5dvh,0) rotate(-90deg); }
+    }
+    
+    /* Spring effect (petals) - GPU-optimized transform-based */
+    html.weather-spring body::before,
+    html.weather-spring body::after {
+      content: "";
+      position: fixed;
+      inset: -50dvh 0 0 0;
+      height: 200dvh;
+      width: 100%;
+      pointer-events: none;
+      z-index: 0;
+      background-repeat: repeat;
+      will-change: transform;
+      contain: paint;
+      backface-visibility: hidden;
+      transform: translate3d(0,0,0);
+    }
+    
+    /* small/medium petals - gentle drift */
+    html.weather-spring body::before {
+      opacity: 0.15;
+      background-image:
+        radial-gradient(2px 3px at 30px 20px, #fda4af, transparent),
+        radial-gradient(3px 2px at 130px 40px, #fb7185, transparent),
+        radial-gradient(2px 2px at 230px 15px, #fce7f3, transparent),
+        radial-gradient(3px 4px at 70px 25px, #fb7185, transparent),
+        radial-gradient(4px 3px at 170px 18px, #fce7f3, transparent),
+        radial-gradient(3px 3px at 280px 42px, #fda4af, transparent);
+      background-size: 360px 55px, 360px 55px, 360px 55px, 360px 75px, 360px 75px, 360px 75px;
+      animation: petalsDriftA 13s ease-in-out infinite;
+    }
+    
+    /* larger petals - slow fall */
+    html.weather-spring body::after {
+      opacity: 0.1;
+      background-image:
+        radial-gradient(4px 5px at 40px 32px, #fce7f3, transparent),
+        radial-gradient(5px 4px at 190px 28px, #fb7185, transparent),
+        radial-gradient(4px 4px at 310px 12px, #fda4af, transparent),
+        radial-gradient(3px 3px at 90px 22px, #fda4af, transparent),
+        radial-gradient(2px 4px at 200px 38px, #fb7185, transparent);
+      background-size: 360px 95px, 360px 95px, 360px 95px, 360px 65px, 360px 65px;
+      animation: petalsDriftB 23s ease-in-out infinite;
+    }
+    
+    @keyframes petalsDriftA {
+      0% { transform: translate3d(0,-50dvh,0) rotate(0deg); }
+      25% { transform: translate3d(0,-35dvh,0) rotate(5deg); }
+      50% { transform: translate3d(0,-20dvh,0) rotate(-3deg); }
+      75% { transform: translate3d(0,-5dvh,0) rotate(4deg); }
+      100% { transform: translate3d(0,0,0) rotate(0deg); }
+    }
+    
+    @keyframes petalsDriftB {
+      0% { transform: translate3d(0,-50dvh,0) rotate(0deg); }
+      25% { transform: translate3d(0,-40dvh,0) rotate(-6deg); }
+      50% { transform: translate3d(0,-25dvh,0) rotate(4deg); }
+      75% { transform: translate3d(0,-10dvh,0) rotate(-3deg); }
+      100% { transform: translate3d(0,0,0) rotate(0deg); }
+    }
+    
+    @-webkit-keyframes gradient {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+    
+    @keyframes gradient {
+      0% { background-position: 0% 50%; }
+      50% { background-position: 100% 50%; }
+      100% { background-position: 0% 50%; }
+    }
+    
+    /* Disable the big background gradient animation when weather is active */
+    html[class*="weather-"] body {
+      animation: none;
+    }
+    
+    /* Respect reduced motion */
+    @media (prefers-reduced-motion: reduce) {
+      [class*="weather-"] body::before,
+      [class*="weather-"] body::after { 
+        animation: none !important; 
+      }
+    }
+    
+    /* Falling leaves for autumn */
+    .leaves-layer {
+      position: fixed;
+      inset: 0;
+      pointer-events: none;
+      z-index: 1;
+      contain: layout style paint;
+    }
+
+    .leaf {
+      position: absolute;
+      top: -10dvh;
+      will-change: transform;
+      transform: translate3d(0, -10dvh, 0);
+      filter: drop-shadow(0 2px 1px rgba(0,0,0,.25));
+      font-size: var(--size, 20px);
+      animation: leaf-fall var(--fall, 12s) linear var(--delay, 0s) 1 both;
+      opacity: var(--opacity, .9);
+    }
+
+    @keyframes leaf-fall {
+      0%   { transform: translate3d(var(--xStart, 0vw), -10dvh, 0) rotate(0deg); }
+      25%  { transform: translate3d(calc(var(--xStart, 0vw) + var(--amp, 20px)), 25dvh, 0) rotate(90deg); }
+      50%  { transform: translate3d(calc(var(--xStart, 0vw) - var(--amp, 20px)), 50dvh, 0) rotate(180deg); }
+      75%  { transform: translate3d(calc(var(--xStart, 0vw) + var(--amp, 20px)), 75dvh, 0) rotate(270deg); }
+      100% { transform: translate3d(calc(var(--xStart, 0vw) + var(--drift, 0px)), 110dvh, 0) rotate(360deg); }
+    }
+
+    @media (prefers-reduced-motion: reduce) {
+      .leaves-layer, .leaf { animation: none !important; display: none !important; }
     }
     
     .layout {
@@ -495,4 +726,95 @@
       }
     }
   </style>
+  
+  <!-- Seasonal Weather Effects -->
+  {{ partial "weather/winter.html" . }}
+  {{ partial "weather/autumn.html" . }}
+  {{ partial "weather/summer.html" . }}
+  {{ partial "weather/spring.html" . }}
+  
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      // Determine current season based on date
+      function getCurrentSeason() {
+        const now = new Date();
+        const month = now.getMonth() + 1; // getMonth() returns 0-11
+        
+        // Northern hemisphere seasons (adjust if needed)
+        if (month >= 12 || month <= 2) {
+          return 'winter'; // Dec, Jan, Feb
+        } else if (month >= 3 && month <= 5) {
+          return 'spring'; // Mar, Apr, May
+        } else if (month >= 6 && month <= 8) {
+          return 'summer'; // Jun, Jul, Aug
+        } else {
+          return 'autumn'; // Sep, Oct, Nov
+        }
+      }
+      
+      // Apply weather class based on season
+      function applySeasonalWeather() {
+        const season = getCurrentSeason();
+        const html = document.documentElement;
+        
+        // Remove any existing weather classes
+        html.classList.remove('weather-snow', 'weather-rain', 'weather-summer', 'weather-spring');
+        
+        // Apply the appropriate weather class
+        switch(season) {
+          case 'winter':
+            html.classList.add('weather-snow');
+            break;
+          case 'spring':
+            html.classList.add('weather-spring');
+            break;
+          case 'summer':
+            html.classList.add('weather-summer');
+            break;
+          case 'autumn':
+            html.classList.add('weather-rain');
+            break;
+          default:
+            html.classList.add('weather-rain'); // fallback to rain
+        }
+        
+      }
+      
+      // Apply seasonal weather on page load
+      applySeasonalWeather();
+      
+      // All weather effects are now CSS-only
+      
+      // Optional: Allow manual override via localStorage
+      const manualSeason = localStorage.getItem('manualSeason');
+      if (manualSeason && ['winter', 'spring', 'summer', 'autumn'].includes(manualSeason)) {
+        const html = document.documentElement;
+        html.classList.remove('weather-snow', 'weather-rain', 'weather-summer', 'weather-spring');
+        html.classList.add(`weather-${manualSeason === 'autumn' ? 'rain' : manualSeason === 'winter' ? 'snow' : manualSeason}`);
+        
+      }
+    });
+    
+
+    // Debug function to manually set season (can be called from browser console)
+    window.setSeason = function(season) {
+      if (['winter', 'spring', 'summer', 'autumn'].includes(season)) {
+        localStorage.setItem('manualSeason', season);
+        
+        // Apply new season
+        const html = document.documentElement;
+        html.classList.remove('weather-snow', 'weather-rain', 'weather-summer', 'weather-spring');
+        html.classList.add(`weather-${season === 'autumn' ? 'rain' : season === 'winter' ? 'snow' : season}`);
+        
+      } else {
+        console.log('Valid seasons: winter, spring, summer, autumn');
+      }
+    };
+    
+    // Debug function to clear manual override
+    window.clearSeasonOverride = function() {
+      localStorage.removeItem('manualSeason');
+      location.reload();
+    };
+  </script>
 </head>

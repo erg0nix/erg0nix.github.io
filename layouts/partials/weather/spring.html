@@ -1,0 +1,62 @@
+<!-- Spring cherry blossom petals effects -->
+<style>
+  /* Spring effect (petals) - GPU-optimized transform-based */
+  html.weather-spring body::before,
+  html.weather-spring body::after {
+    content: "";
+    position: fixed;
+    inset: -50dvh 0 0 0;
+    height: 200dvh;
+    width: 100%;
+    pointer-events: none;
+    z-index: 0;
+    background-repeat: repeat;
+    will-change: transform;
+    contain: paint;
+    backface-visibility: hidden;
+    transform: translate3d(0,0,0);
+  }
+  
+  /* small/medium petals - gentle drift */
+  html.weather-spring body::before {
+    opacity: 0.15;
+    background-image:
+      radial-gradient(2px 3px at 30px 20px, #fda4af, transparent),
+      radial-gradient(3px 2px at 130px 40px, #fb7185, transparent),
+      radial-gradient(2px 2px at 230px 15px, #fce7f3, transparent),
+      radial-gradient(3px 4px at 70px 25px, #fb7185, transparent),
+      radial-gradient(4px 3px at 170px 18px, #fce7f3, transparent),
+      radial-gradient(3px 3px at 280px 42px, #fda4af, transparent);
+    background-size: 360px 55px, 360px 55px, 360px 55px, 360px 75px, 360px 75px, 360px 75px;
+    animation: petalsDriftA 13s ease-in-out infinite;
+  }
+  
+  /* larger petals - slow fall */
+  html.weather-spring body::after {
+    opacity: 0.1;
+    background-image:
+      radial-gradient(4px 5px at 40px 32px, #fce7f3, transparent),
+      radial-gradient(5px 4px at 190px 28px, #fb7185, transparent),
+      radial-gradient(4px 4px at 310px 12px, #fda4af, transparent),
+      radial-gradient(3px 3px at 90px 22px, #fda4af, transparent),
+      radial-gradient(2px 4px at 200px 38px, #fb7185, transparent);
+    background-size: 360px 95px, 360px 95px, 360px 95px, 360px 65px, 360px 65px;
+    animation: petalsDriftB 23s ease-in-out infinite;
+  }
+
+  @keyframes petalsDriftA {
+    0% { transform: translate3d(0,-50dvh,0) rotate(0deg); }
+    25% { transform: translate3d(0,-35dvh,0) rotate(5deg); }
+    50% { transform: translate3d(0,-20dvh,0) rotate(-3deg); }
+    75% { transform: translate3d(0,-5dvh,0) rotate(4deg); }
+    100% { transform: translate3d(0,0,0) rotate(0deg); }
+  }
+  
+  @keyframes petalsDriftB {
+    0% { transform: translate3d(0,-50dvh,0) rotate(0deg); }
+    25% { transform: translate3d(0,-40dvh,0) rotate(-6deg); }
+    50% { transform: translate3d(0,-25dvh,0) rotate(4deg); }
+    75% { transform: translate3d(0,-10dvh,0) rotate(-3deg); }
+    100% { transform: translate3d(0,0,0) rotate(0deg); }
+  }
+</style>

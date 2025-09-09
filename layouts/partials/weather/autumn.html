@@ -1,0 +1,89 @@
+<!-- Autumn rain and falling leaves effects -->
+<style>
+  /* Rain effect (autumn) - GPU-optimized transform-based */
+  html.weather-rain body::before,
+  html.weather-rain body::after {
+    content: "";
+    position: fixed;
+    inset: -50dvh 0 0 0;
+    height: 200dvh;
+    width: 100%;
+    pointer-events: none;
+    z-index: 0;
+    background-repeat: repeat;
+    will-change: transform;
+    contain: paint;
+    backface-visibility: hidden;
+    transform: translate3d(0,0,0);
+  }
+  
+  /* fine rain - fast layer */
+  html.weather-rain body::before {
+    opacity: 0.25;
+    background-image:
+      radial-gradient(1px 8px at 23px 17px, #7dd3fc, transparent),
+      radial-gradient(1px 6px at 142px 8px, #38bdf8, transparent),
+      radial-gradient(1px 9px at 251px 19px, #0ea5e9, transparent),
+      radial-gradient(1px 7px at 334px 12px, #7dd3fc, transparent),
+      radial-gradient(1px 10px at 45px 23px, #38bdf8, transparent),
+      radial-gradient(1px 8px at 167px 29px, #0ea5e9, transparent);
+    background-size: 400px 60px, 400px 60px, 400px 60px, 400px 60px, 400px 80px, 400px 80px;
+    animation: rainMoveA 6s linear infinite;
+  }
+  
+  /* depth rain - slow layer */
+  html.weather-rain body::after {
+    opacity: 0.15;
+    background-image:
+      radial-gradient(1px 9px at 56px 27px, #7dd3fc, transparent),
+      radial-gradient(1px 7px at 187px 39px, #38bdf8, transparent),
+      radial-gradient(1px 8px at 323px 8px, #0ea5e9, transparent),
+      radial-gradient(1px 10px at 112px 45px, #7dd3fc, transparent),
+      radial-gradient(1px 11px at 78px 16px, #38bdf8, transparent);
+    background-size: 400px 70px, 400px 70px, 400px 70px, 400px 70px, 400px 100px;
+    animation: rainMoveB 9s linear infinite;
+  }
+
+  @keyframes rainMoveA {
+    from { transform: translate3d(0,-50dvh,0); }
+    to   { transform: translate3d(0,0,0); }
+  }
+  
+  @keyframes rainMoveB {
+    from { transform: translate3d(0,-50dvh,0); }
+    to   { transform: translate3d(0,0,0); }
+  }
+
+  /* Falling leaves for autumn */
+  .leaves-layer {
+    position: fixed;
+    inset: 0;
+    pointer-events: none;
+    z-index: 1;
+    contain: layout style paint;
+  }
+
+  .leaf {
+    position: absolute;
+    top: -10dvh;
+    will-change: transform;
+    transform: translate3d(0, -10dvh, 0);
+    filter: drop-shadow(0 2px 1px rgba(0,0,0,.25));
+    font-size: var(--size, 20px);
+    animation: leaf-fall var(--fall, 12s) linear var(--delay, 0s) 1 both;
+    opacity: var(--opacity, .9);
+  }
+
+  @keyframes leaf-fall {
+    0%   { transform: translate3d(var(--xStart, 0vw), -10dvh, 0) rotate(0deg); }
+    25%  { transform: translate3d(calc(var(--xStart, 0vw) + var(--amp, 20px)), 25dvh, 0) rotate(90deg); }
+    50%  { transform: translate3d(calc(var(--xStart, 0vw) - var(--amp, 20px)), 50dvh, 0) rotate(180deg); }
+    75%  { transform: translate3d(calc(var(--xStart, 0vw) + var(--amp, 20px)), 75dvh, 0) rotate(270deg); }
+    100% { transform: translate3d(calc(var(--xStart, 0vw) + var(--drift, 0px)), 110dvh, 0) rotate(360deg); }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .leaves-layer, .leaf { animation: none !important; display: none !important; }
+  }
+</style>
+
