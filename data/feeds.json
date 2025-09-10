@@ -1,5 +1,5 @@
 {
-  "generated_at": "2025-09-10T06:32:20.215645Z",
+  "generated_at": "2025-09-10T06:44:55.315952Z",
   "items": [
     {
       "id": "815c3d9920f4fb31be30efdd2d15531bb64df0a6",
@@ -7,7 +7,8 @@
       "link": "https://github.blog/enterprise-software/devsecops/how-to-use-the-github-and-jfrog-integration-for-secure-traceable-builds-from-commit-to-production/",
       "source": "GitHub Blog",
       "summary": "Connect commits to artifacts without switching tools. The post How to use the GitHub and JFrog integration for secure, traceable builds from commit to production appeared first on The GitHub Blog.",
-      "published": "2025-09-09T22:00:00Z"
+      "published": "2025-09-09T22:00:00Z",
+      "image": "https://github.blog/wp-content/uploads/2025/09/jfrog1.png?resize=1024%2C658"
     },
     {
       "id": "639b104e14371d578e8f084d74dea2e6a43cb901",
@@ -15,7 +16,8 @@
       "link": "https://go.dev/blog/jsonv2-exp",
       "source": "Go Blog",
       "summary": "Go 1.25 introduces experimental support for encoding/json/jsontext and encoding/json/v2 packages.",
-      "published": "2025-09-09T00:00:00Z"
+      "published": "2025-09-09T00:00:00Z",
+      "image": "https://go.dev/blog/jsonv2-exp/api.png"
     },
     {
       "id": "7547035b948acf575f837b731c9f5d6a905e4a73",
@@ -23,7 +25,8 @@
       "link": "https://github.blog/ai-and-ml/github-copilot/how-to-debug-a-web-app-with-playwright-mcp-and-github-copilot/",
       "source": "GitHub Blog",
       "summary": "Reproduce and debug web app issues with ease using the Playwright MCP server and GitHub Copilot. The post How to debug a web app with Playwright MCP and GitHub Copilot appeared first on The GitHub Blog.",
-      "published": "2025-09-05T16:00:00Z"
+      "published": "2025-09-05T16:00:00Z",
+      "image": "https://github.blog/wp-content/uploads/2025/09/image.png?resize=1024%2C816"
     },
     {
       "id": "7abd4ce3e1b96282a5cd0b1b52ebd4d1757d9b23",
@@ -39,7 +42,8 @@
       "link": "https://github.blog/ai-and-ml/github-copilot/building-smarter-interactions-with-mcp-elicitation-from-clunky-tool-calls-to-seamless-user-experiences/",
       "source": "GitHub Blog",
       "summary": "Explore how MCP elicitation transforms AI tool interactions by gathering missing information upfront. The post Building smarter interactions with MCP elicitation: From clunky tool calls to seamless user experiences appeared first on The GitHub Blog.",
-      "published": "2025-09-04T16:00:00Z"
+      "published": "2025-09-04T16:00:00Z",
+      "image": "https://github.blog/wp-content/uploads/2025/09/image1.png?resize=1024%2C576"
     },
     {
       "id": "11c01cfa8c154112016e09b648b39eabb1edef75",
@@ -79,7 +83,8 @@
       "link": "https://github.blog/ai-and-ml/github-copilot/how-we-accelerated-secret-protection-engineering-with-copilot/",
       "source": "GitHub Blog",
       "summary": "Learn how the Secret Protection engineering team collaborated with GitHub Copilot coding agent to expand validity check coverage. The post How we accelerated Secret Protection engineering with Copilot appeared first on The GitHub Blog.",
-      "published": "2025-08-28T17:08:51Z"
+      "published": "2025-08-28T17:08:51Z",
+      "image": "https://github.blog/wp-content/uploads/2025/08/validation_copilot_workflow.png?resize=1024%2C294"
     },
     {
       "id": "a88ce715593028221f9d9a0b9316b42692adb7d8",

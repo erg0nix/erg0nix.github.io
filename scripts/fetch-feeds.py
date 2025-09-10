@@ -13,7 +13,8 @@ import feedparser
 from datetime import datetime
 from pathlib import Path
 from html import unescape
-from urllib.parse import urlparse
+from urllib.parse import urlparse, urljoin
+from bs4 import BeautifulSoup
 
 def load_feeds_config(config_path="feeds.toml"):
     """Load feed configuration from TOML file."""
@@ -76,6 +77,38 @@ def parse_date(entry):
     
     return date_str
 
+def extract_image(entry, feed_url):
+    """Extract the first image from RSS entry content."""
+    image_url = None
+    
+    # Look for images in content:encoded first, then description
+    content = ""
+    if hasattr(entry, 'content') and entry.content:
+        content = entry.content[0].value
+    elif hasattr(entry, 'description'):
+        content = entry.description
+    
+    if content:
+        try:
+            soup = BeautifulSoup(content, 'html.parser')
+            img_tag = soup.find('img')
+            if img_tag and img_tag.get('src'):
+                src = img_tag.get('src')
+                # Convert relative URLs to absolute
+                if src.startswith('//'):
+                    src = 'https:' + src
+                elif src.startswith('/'):
+                    base_url = '/'.join(feed_url.split('/')[:3])
+                    src = base_url + src
+                elif not src.startswith('http'):
+                    src = urljoin(feed_url, src)
+                image_url = src
+        except Exception as e:
+            # If HTML parsing fails, continue without image
+            pass
+    
+    return image_url
+
 def fetch_feed(feed_config):
     """Fetch and parse a single RSS feed."""
     try:
@@ -117,6 +150,9 @@ def fetch_feed(feed_config):
             # Parse date
             published = parse_date(entry)
             
+            # Extract image
+            image = extract_image(entry, feed_config['url'])
+            
             item = {
                 'id': item_id,
                 'title': title,
@@ -128,6 +164,8 @@ def fetch_feed(feed_config):
                 item['summary'] = summary
             if published:
                 item['published'] = published
+            if image:
+                item['image'] = image
                 
             items.append(item)
         

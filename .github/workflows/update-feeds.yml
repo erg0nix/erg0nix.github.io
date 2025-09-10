@@ -5,6 +5,13 @@ on:
     # Run daily at 6 AM UTC
     - cron: '0 6 * * *'
   
+  # Run when feeds config is updated
+  push:
+    paths:
+      - 'feeds.toml'
+      - 'scripts/fetch-feeds.py'
+      - '.github/workflows/update-feeds.yml'
+  
   # Allow manual triggering
   workflow_dispatch:
 
@@ -26,7 +33,7 @@ jobs:
           python-version: '3.x'
           
       - name: Install Python dependencies
-        run: pip install requests feedparser toml
+        run: pip install requests feedparser toml beautifulsoup4
         
       - name: Fetch RSS feeds
         run: python scripts/fetch-feeds.py
