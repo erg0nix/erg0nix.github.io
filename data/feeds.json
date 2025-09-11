@@ -1,6 +1,15 @@
 {
-  "generated_at": "2025-09-10T06:51:56.158325Z",
+  "generated_at": "2025-09-11T06:32:45.048664Z",
   "items": [
+    {
+      "id": "f152fe076f1db209132ae906bff6da5818218b3e",
+      "title": "Your guide to GitHub Universe 2025: The schedule just launched!",
+      "link": "https://github.blog/news-insights/company-news/your-guide-to-github-universe-2025-the-schedule-just-launched/",
+      "source": "GitHub Blog",
+      "summary": "Create your own agenda of favorites, sign up for one-on-on mentoring sessions, and register if you haven’t already. We’ll see you there! The post Your guide to GitHub Universe 2025: The schedule just launched! appeared first on The GitHub Blog.",
+      "published": "2025-09-10T20:52:28Z",
+      "image": "https://github.blog/wp-content/uploads/2025/09/table1-1.png?resize=1024%2C538"
+    },
     {
       "id": "815c3d9920f4fb31be30efdd2d15531bb64df0a6",
       "title": "How to use the GitHub and JFrog integration for secure, traceable builds from commit to production",
@@ -85,14 +94,6 @@
       "summary": "Learn how the Secret Protection engineering team collaborated with GitHub Copilot coding agent to expand validity check coverage. The post How we accelerated Secret Protection engineering with Copilot appeared first on The GitHub Blog.",
       "published": "2025-08-28T17:08:51Z",
       "image": "https://github.blog/wp-content/uploads/2025/08/validation_copilot_workflow.png?resize=1024%2C294"
-    },
-    {
-      "id": "a88ce715593028221f9d9a0b9316b42692adb7d8",
-      "title": "How to use GitHub Copilot on github.com: A power user’s guide",
-      "link": "https://github.blog/ai-and-ml/github-copilot/how-to-use-github-copilot-on-github-com-a-power-users-guide/",
-      "source": "GitHub Blog",
-      "summary": "Explore how to use GitHub Copilot on github.com to automate tasks, assign agents, prototype ideas, and streamline your entire workflow — all without an IDE. The post How to use GitHub Copilot on github.com: A power user’s guide appeared first on The GitHub Blog.",
-      "published": "2025-08-27T16:00:00Z"
     },
     {
       "id": "6b8800a031bd9a738f21d97ce03a973790b851bb",
