@@ -1,6 +1,22 @@
 {
-  "generated_at": "2025-09-11T06:32:45.048664Z",
+  "generated_at": "2025-09-12T06:32:21.461919Z",
   "items": [
+    {
+      "id": "d3d828c6d92ede3cdf29f104b70d7ecaff5be19e",
+      "title": "GitHub Availability Report: August 2025",
+      "link": "https://github.blog/news-insights/company-news/github-availability-report-august-2025/",
+      "source": "GitHub Blog",
+      "summary": "In August, we experienced three incidents that resulted in degraded performance across GitHub services. The post GitHub Availability Report: August 2025 appeared first on The GitHub Blog.",
+      "published": "2025-09-11T19:53:44Z"
+    },
+    {
+      "id": "9bd9881a1c148b4be444b17ae044ae822c0c99cc",
+      "title": "GitHub Copilot coding agent 101: Getting started with agentic workflows on GitHub",
+      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-coding-agent-101-getting-started-with-agentic-workflows-on-github/",
+      "source": "GitHub Blog",
+      "summary": "Delegate it a task, and coding agent can independently write, run, and test code. Here’s how you can make the most of it. The post GitHub Copilot coding agent 101: Getting started with agentic workflows on GitHub appeared first on The GitHub Blog.",
+      "published": "2025-09-11T16:00:00Z"
+    },
     {
       "id": "f152fe076f1db209132ae906bff6da5818218b3e",
       "title": "Your guide to GitHub Universe 2025: The schedule just launched!",
@@ -77,23 +93,6 @@
       "source": "GitHub Blog",
       "summary": "Learn how GitHub Copilot’s evolving models and infrastructure center developer choice and power agentic workflows. The post Under the hood: Exploring the AI models powering GitHub Copilot appeared first on The GitHub Blog.",
       "published": "2025-08-29T16:14:42Z"
-    },
-    {
-      "id": "317c39a4d03820706770db86c3746867987801cc",
-      "title": "How GitHub Models can help open source maintainers focus on what matters",
-      "link": "https://github.blog/open-source/maintainers/how-github-models-can-help-open-source-maintainers-focus-on-what-matters/",
-      "source": "GitHub Blog",
-      "summary": "Learn how GitHub Models helps open source maintainers automate repetitive tasks like issue triage, duplicate detection, and contributor onboarding — saving hours each week. The post How GitHub Models can help open source maintainers focus on what matters appeared first on The GitHub Blog.",
-      "published": "2025-08-28T19:02:44Z"
-    },
-    {
-      "id": "6ad7f93d352ba72727f26aa7b7b50dc672622c0e",
-      "title": "How we accelerated Secret Protection engineering with Copilot",
-      "link": "https://github.blog/ai-and-ml/github-copilot/how-we-accelerated-secret-protection-engineering-with-copilot/",
-      "source": "GitHub Blog",
-      "summary": "Learn how the Secret Protection engineering team collaborated with GitHub Copilot coding agent to expand validity check coverage. The post How we accelerated Secret Protection engineering with Copilot appeared first on The GitHub Blog.",
-      "published": "2025-08-28T17:08:51Z",
-      "image": "https://github.blog/wp-content/uploads/2025/08/validation_copilot_workflow.png?resize=1024%2C294"
     },
     {
       "id": "6b8800a031bd9a738f21d97ce03a973790b851bb",
