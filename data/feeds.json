@@ -1,6 +1,14 @@
 {
-  "generated_at": "2025-09-12T06:32:21.461919Z",
+  "generated_at": "2025-09-13T06:28:27.498228Z",
   "items": [
+    {
+      "id": "1ef749b17ae3e96d0b96aa9862c83496dc01ce69",
+      "title": "Building personal apps with open source and AI",
+      "link": "https://github.blog/open-source/maintainers/building-personal-apps-with-open-source-and-ai/",
+      "source": "GitHub Blog",
+      "summary": "Hear about the personal tools we use to improve our workflows (and how to get started building your own) on this episode of the GitHub Podcast. The post Building personal apps with open source and AI appeared first on The GitHub Blog.",
+      "published": "2025-09-12T16:00:00Z"
+    },
     {
       "id": "d3d828c6d92ede3cdf29f104b70d7ecaff5be19e",
       "title": "GitHub Availability Report: August 2025",
@@ -85,14 +93,6 @@
       "source": "GitHub Blog",
       "summary": "Developers can use their AI tool of choice for spec-driven development with this open source toolkit. The post Spec-driven development with AI: Get started with a new open source toolkit appeared first on The GitHub Blog.",
       "published": "2025-09-02T16:48:03Z"
-    },
-    {
-      "id": "ba655fc543fed3b849e98b9f764f1aebbef663dc",
-      "title": "Under the hood: Exploring the AI models powering GitHub Copilot",
-      "link": "https://github.blog/ai-and-ml/github-copilot/under-the-hood-exploring-the-ai-models-powering-github-copilot/",
-      "source": "GitHub Blog",
-      "summary": "Learn how GitHub Copilot’s evolving models and infrastructure center developer choice and power agentic workflows. The post Under the hood: Exploring the AI models powering GitHub Copilot appeared first on The GitHub Blog.",
-      "published": "2025-08-29T16:14:42Z"
     },
     {
       "id": "6b8800a031bd9a738f21d97ce03a973790b851bb",
