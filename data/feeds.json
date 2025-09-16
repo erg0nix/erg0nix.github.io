@@ -1,6 +1,14 @@
 {
-  "generated_at": "2025-09-15T06:34:47.127333Z",
+  "generated_at": "2025-09-16T06:33:13.257067Z",
   "items": [
+    {
+      "id": "f71618d4a9863daba68834e932060fc530e4e890",
+      "title": "Post-quantum security for SSH access on GitHub",
+      "link": "https://github.blog/engineering/platform-security/post-quantum-security-for-ssh-access-on-github/",
+      "source": "GitHub Blog",
+      "summary": "GitHub is introducing post-quantum secure key exchange methods for SSH access to better protect Git data in transit. The post Post-quantum security for SSH access on GitHub appeared first on The GitHub Blog.",
+      "published": "2025-09-15T16:00:00Z"
+    },
     {
       "id": "1ef749b17ae3e96d0b96aa9862c83496dc01ce69",
       "title": "Building personal apps with open source and AI",
@@ -85,14 +93,6 @@
       "source": "GitHub Blog",
       "summary": "This guide offers five essential tips for writing effective GitHub Copilot custom instructions, covering project overview, tech stack, coding guidelines, structure, and resources, to help developers get better code suggestions. The post 5 tips for writing better custom instructions for Copilot...",
       "published": "2025-09-03T16:00:00Z"
-    },
-    {
-      "id": "18207bc75a8df8ee0720dcb1b8d2a183fd8bf52c",
-      "title": "Spec-driven development with AI: Get started with a new open source toolkit",
-      "link": "https://github.blog/ai-and-ml/generative-ai/spec-driven-development-with-ai-get-started-with-a-new-open-source-toolkit/",
-      "source": "GitHub Blog",
-      "summary": "Developers can use their AI tool of choice for spec-driven development with this open source toolkit. The post Spec-driven development with AI: Get started with a new open source toolkit appeared first on The GitHub Blog.",
-      "published": "2025-09-02T16:48:03Z"
     },
     {
       "id": "6b8800a031bd9a738f21d97ce03a973790b851bb",
