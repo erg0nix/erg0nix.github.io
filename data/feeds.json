@@ -1,6 +1,63 @@
 {
-  "generated_at": "2025-09-16T06:33:13.257067Z",
+  "generated_at": "2025-09-16T16:39:34.082984Z",
   "items": [
+    {
+      "id": "067b30c724d8e4a271f62b75972707cc63591ddb",
+      "title": "Meet the GitHub MCP Registry: The fastest way to discover MCP Servers",
+      "link": "https://github.blog/ai-and-ml/github-copilot/meet-the-github-mcp-registry-the-fastest-way-to-discover-mcp-servers/",
+      "source": "GitHub Blog",
+      "summary": "This is your new home base for discovering MCP servers. Learn how we’re working with the broader community on MCP publication and discovery. The post Meet the GitHub MCP Registry: The fastest way to discover MCP Servers appeared first on The GitHub Blog.",
+      "published": "2025-09-16T16:27:54Z",
+      "image": "https://github.blog/wp-content/uploads/2025/09/mcp2.jpg?resize=1024%2C538"
+    },
+    {
+      "id": "5933ecd9195f3c5a43b377a2cf5f28dab5728b5a",
+      "title": "Ingrid (30) med ny jobb i «Norges teknologi­hovedstad»",
+      "link": "https://www.kode24.no/artikkel/ingrid-30-med-ny-jobb-i-norges-teknologihovedstad/245444",
+      "source": "Kode24",
+      "summary": "Ingrid Marie Johansen går til Computas i Trondheim, i det selskapet får gigantkontrakt.",
+      "published": "2025-09-16T11:29:43Z"
+    },
+    {
+      "id": "62ff5bd4e2ebbbc153f4ee7292c538cbcf83a25f",
+      "title": "Varnish Software: – Vi er uenige om bruken av varemerker",
+      "link": "https://www.kode24.no/artikkel/varnish-software-vi-er-uenige-om-bruken-av-varemerker/245426",
+      "source": "Kode24",
+      "summary": "– Det Varnish Software ville ha var en varemerke-policy tilsvarende det FreeBSD, PostgreSQL og Linux har, sier Per Buer. Men Varnish Cache bytter heller navn.",
+      "published": "2025-09-16T09:43:27Z"
+    },
+    {
+      "id": "b99b0131c66d8f9bd3f8d044f6c0a2d1bec56dfd",
+      "title": "Ville gjøre CVE uavhengig – men nå vil USA ha mer kontroll",
+      "link": "https://www.kode24.no/artikkel/ville-gjore-cve-uavhengig-men-na-vil-usa-ha-mer-kontroll/245300",
+      "source": "Kode24",
+      "summary": "Den amerikanske sårbarhetsdatabasen CVE risikerte først å forsvinne – nå brygger det opp til en kamp om hvem som skal kontrollere den.",
+      "published": "2025-09-16T09:07:42Z"
+    },
+    {
+      "id": "955064cd000fd5105387ba9ccb631fb62baa01e2",
+      "title": "Varnish bytter navn, mot sin vilje",
+      "link": "https://www.kode24.no/artikkel/varnish-bytter-navn-mot-sin-vilje/245403",
+      "source": "Kode24",
+      "summary": "FOSS-prosjektet med norske røtter hevder de ikke kommer til enighet med Varnish Software-selskapet.",
+      "published": "2025-09-16T07:52:07Z"
+    },
+    {
+      "id": "d22ac2b1b187707b1538862c6fb3ab9225ccf24b",
+      "title": "Er Norge for rikt til å digitalisere seg raskt?",
+      "link": "https://www.kode24.no/artikkel/er-norge-for-rikt-til-a-digitalisere-seg-raskt/245306",
+      "source": "Kode24",
+      "summary": "– Vi har en strategi. Vi har mål. Men vi bygger fortsatt i siloer, skriver Erik Schradi, som ber oss se til det hundre prosent digitaliserte landet Estland.",
+      "published": "2025-09-16T03:00:00Z"
+    },
+    {
+      "id": "b5b3e74991c32c3b5cbe7cf03a7a338e26edb205",
+      "title": "It's survey time! How has Go has been working out for you?",
+      "link": "https://go.dev/blog/survey2025-announce",
+      "source": "Go Blog",
+      "summary": "Help shape the future of Go",
+      "published": "2025-09-16T00:00:00Z"
+    },
     {
       "id": "f71618d4a9863daba68834e932060fc530e4e890",
       "title": "Post-quantum security for SSH access on GitHub",
@@ -10,12 +67,100 @@
       "published": "2025-09-15T16:00:00Z"
     },
     {
+      "id": "ab3de667428a9a75b988ccbe2302a1d5da3fceb9",
+      "title": "Advarer mot AI-gigantene: – Vi mister kontroll, bremser verdiskaping",
+      "link": "https://www.kode24.no/artikkel/advarer-mot-ai-gigantene-vi-mister-kontroll-bremser-verdiskaping/245309",
+      "source": "Kode24",
+      "summary": "– Overlater vi utviklingen til et fåtall globale selskaper, risikerer vi en digital bronsealder der teknologien er lukket, kostbar og formet av andre, skriver Tore André Rosander.",
+      "published": "2025-09-15T11:01:43Z"
+    },
+    {
+      "id": "89aedd56ca4d210103cb7181908f07bda00fc23d",
+      "title": "Rapport om blant annet AI i skolen full av AI-skapte falske kilder",
+      "link": "https://www.kode24.no/artikkel/rapport-om-blant-annet-ai-i-skolen-full-av-ai-skapte-falske-kilder/245257",
+      "source": "Kode24",
+      "summary": "I en rapport om modernisering av utdanningssystemet oppfordres det til \"etisk\" AI-bruk – men mange av kildene i rapporten mistenkes å være laget av AI.",
+      "published": "2025-09-15T08:43:30Z"
+    },
+    {
+      "id": "3e963e1c3d42a90d76067a8f77efb4516c513ad5",
+      "title": "Frifor-appen ansetter startup-utvikler",
+      "link": "https://www.kode24.no/artikkel/frifor-appen-ansetter-startup-utvikler/245274",
+      "source": "Kode24",
+      "summary": "– Utrolig motiverende å kunne være med å bygge et helt selskap fra bunnen av, spesielt når det løser et reelt problem som jeg selv er opptatt av, sier Arne Molland.",
+      "published": "2025-09-15T08:25:18Z"
+    },
+    {
+      "id": "e87851a6efc8019c64096cf4198ebfba41edf88d",
+      "title": "Norske Manager­League fyller 20 år, med 220.000 linjer Perl",
+      "link": "https://www.kode24.no/artikkel/norske-managerleague-fyller-20-ar-med-220000-linjer-perl/245094",
+      "source": "Kode24",
+      "summary": "Christian Lassem har koda på fotballsimulatorens Perl-kode i over 20 år. – Jeg tror egentlig ikke jeg liker det spesielt godt.",
+      "published": "2025-09-15T03:00:00Z"
+    },
+    {
+      "id": "02d6f34519eadf97190a4b9401b03cfe881e4c54",
+      "title": "Slipper bot i Slack vs. Teams-krangel",
+      "link": "https://www.kode24.no/artikkel/slipper-bot-i-slack-vs-teams-krangel/245246",
+      "source": "Kode24",
+      "summary": "Tvisten er løst ved at Microsoft nå øker prisforskjellen på Office med Teams.",
+      "published": "2025-09-15T02:55:00Z"
+    },
+    {
+      "id": "0dcdee06a0861f6261d3bdd4af57d0722145e1a9",
+      "title": "Spill Doom i ren SQL",
+      "link": "https://www.kode24.no/artikkel/spill-doom-i-ren-sql/245204",
+      "source": "Kode24",
+      "summary": "DOOMQL, rulletrapp-mysterier, lær deg hieroglyfer, jule-Lego, nettsider som ser ut som et OS og mye mer i ukens Lørdagsgodt!",
+      "published": "2025-09-13T03:00:00Z"
+    },
+    {
       "id": "1ef749b17ae3e96d0b96aa9862c83496dc01ce69",
       "title": "Building personal apps with open source and AI",
       "link": "https://github.blog/open-source/maintainers/building-personal-apps-with-open-source-and-ai/",
       "source": "GitHub Blog",
       "summary": "Hear about the personal tools we use to improve our workflows (and how to get started building your own) on this episode of the GitHub Podcast. The post Building personal apps with open source and AI appeared first on The GitHub Blog.",
       "published": "2025-09-12T16:00:00Z"
+    },
+    {
+      "id": "f8926aed1215c5eaf0fd5a0ef2ba353742f769e2",
+      "title": "Gjør umulige tilstander umulige: Domene-modellering med sterke typer",
+      "link": "https://www.kode24.no/artikkel/gjor-umulige-tilstander-umulige-domene-modellering-med-sterke-typer/244055",
+      "source": "Kode24",
+      "summary": "– Mange programvarefeil skyldes ikke vanskelige algoritmer, men at systemene tillater tilstander som egentlig ikke gir mening, skriver Christian Ekrem i Enso.",
+      "published": "2025-09-12T11:26:16Z"
+    },
+    {
+      "id": "8df8294e08a5405bb47919e299e5f99f4a8c0134",
+      "title": "Styled-components er død – Sanity gir den nytt liv",
+      "link": "https://www.kode24.no/artikkel/styled-components-er-dod-sanity-gir-den-nytt-liv/245160",
+      "source": "Kode24",
+      "summary": "– Ikke bruk det til nye prosjekter, sa styled-components-skaperen før sommeren. Da måtte norske Sanity ta grep.",
+      "published": "2025-09-12T10:16:17Z"
+    },
+    {
+      "id": "b3ad57191c75843ac71875b09a713bfad5157f83",
+      "title": "Kartverket ansetter tre utviklere rett fra studiet",
+      "link": "https://www.kode24.no/artikkel/kartverket-ansetter-tre-utviklere-rett-fra-studiet/245165",
+      "source": "Kode24",
+      "summary": "– Fint å ha kontor i Hønefoss og slippe byen hvor det er mye folk og støy.",
+      "published": "2025-09-12T08:39:46Z"
+    },
+    {
+      "id": "c3af671a1b1295b3ee796d49724aa7af3ae28f33",
+      "title": "Microsoft opensourcer 6502 BASIC, av Bill Gates",
+      "link": "https://www.kode24.no/artikkel/microsoft-opensourcer-6502-basic-av-bill-gates/245014",
+      "source": "Kode24",
+      "summary": "Kildekoden til Microsoft BASIC for 6502 ligger nå på GitHub – i 100 prosent Assembly, koda av selveste Bill Gates og Ric Weiland.",
+      "published": "2025-09-12T07:34:25Z"
+    },
+    {
+      "id": "860bdade998b92640cf18df9ae9bb5f8ddb9ee78",
+      "title": "Vibbekoding kan gi enda flere sider med dårlig tilgjengelighet",
+      "link": "https://www.kode24.no/artikkel/vibbekoding-kan-gi-enda-flere-sider-med-darlig-tilgjengelighet/245102",
+      "source": "Kode24",
+      "summary": "AI-assistentene lager ofte nettsider og web-apper med dårlig tilgjengelighet. Hvorfor ikke heller la AI-en hjelpe deg med tilgjengeligheten? spør Kurt i ukens nyhetsbrev.",
+      "published": "2025-09-12T03:00:00Z"
     },
     {
       "id": "d3d828c6d92ede3cdf29f104b70d7ecaff5be19e",
@@ -32,6 +177,38 @@
       "source": "GitHub Blog",
       "summary": "Delegate it a task, and coding agent can independently write, run, and test code. Here’s how you can make the most of it. The post GitHub Copilot coding agent 101: Getting started with agentic workflows on GitHub appeared first on The GitHub Blog.",
       "published": "2025-09-11T16:00:00Z"
+    },
+    {
+      "id": "3197e0a4291621e6054caa23684fec2a25a8bac7",
+      "title": "BankID hevder kritikken ikke bidro til spill-sletting",
+      "link": "https://www.kode24.no/artikkel/bankid-hevder-kritikken-ikke-bidro-til-spill-sletting/245127",
+      "source": "Kode24",
+      "summary": "– Mottagelsen har vært svært positiv, mener Stø, og mener det var helt andre grunner til at de sletta det hemmelige spillet.",
+      "published": "2025-09-11T12:33:33Z"
+    },
+    {
+      "id": "90c200bc65349003fea8d58e0c1394f10c5fed0c",
+      "title": "Sofie Staal får ny jobb, med eks-Shortcut-er",
+      "link": "https://www.kode24.no/artikkel/sofie-staal-far-ny-jobb-med-eks-shortcut-er/245111",
+      "source": "Kode24",
+      "summary": "– Nå skal jeg igjen være innovativ med Sigurd fra Shortcut, det er litt surrealistisk, sier Shortcut-varsler og fersk Boitano-ansatt Sofie Staal.",
+      "published": "2025-09-11T11:52:40Z"
+    },
+    {
+      "id": "d5a841144210d50f6cec84fe00cbf62732f0bbf3",
+      "title": "Visual Studio 2026 med mer AI og nytt design",
+      "link": "https://www.kode24.no/artikkel/visual-studio-2026-med-mer-ai-og-nytt-design/245072",
+      "source": "Kode24",
+      "summary": "Microsoft har lansert en forhåndsvisningsversjon av Visual Studio 2026 – den første store oppdateringen siden 2021.",
+      "published": "2025-09-11T09:26:44Z"
+    },
+    {
+      "id": "b910be6f3a399d54ff87f881cf973a73a41ef36a",
+      "title": "BankID fjerner det hemmelige spillet",
+      "link": "https://www.kode24.no/artikkel/bankid-fjerner-det-hemmelige-spillet/245064",
+      "source": "Kode24",
+      "summary": "Noen mente påskeegget i BankID-appen var skandaløst, og nå forsvinner hele spillet.",
+      "published": "2025-09-11T07:22:31Z"
     },
     {
       "id": "f152fe076f1db209132ae906bff6da5818218b3e",
@@ -85,14 +262,6 @@
       "summary": "Explore how MCP elicitation transforms AI tool interactions by gathering missing information upfront. The post Building smarter interactions with MCP elicitation: From clunky tool calls to seamless user experiences appeared first on The GitHub Blog.",
       "published": "2025-09-04T16:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2025/09/image1.png?resize=1024%2C576"
-    },
-    {
-      "id": "11c01cfa8c154112016e09b648b39eabb1edef75",
-      "title": "5 tips for writing better custom instructions for Copilot",
-      "link": "https://github.blog/ai-and-ml/github-copilot/5-tips-for-writing-better-custom-instructions-for-copilot/",
-      "source": "GitHub Blog",
-      "summary": "This guide offers five essential tips for writing effective GitHub Copilot custom instructions, covering project overview, tech stack, coding guidelines, structure, and resources, to help developers get better code suggestions. The post 5 tips for writing better custom instructions for Copilot...",
-      "published": "2025-09-03T16:00:00Z"
     },
     {
       "id": "6b8800a031bd9a738f21d97ce03a973790b851bb",
@@ -157,14 +326,6 @@
       "source": "Go Blog",
       "summary": "Better benchmark looping in Go 1.24.",
       "published": "2025-04-02T00:00:00Z"
-    },
-    {
-      "id": "e05eee6deda7377e21e39a880df0c8f34d37b27c",
-      "title": "Goodbye core types - Hello Go as we know and love it!",
-      "link": "https://go.dev/blog/coretypes",
-      "source": "Go Blog",
-      "summary": "Go 1.25 simplifies the language spec by removing the notion of core types",
-      "published": "2025-03-26T00:00:00Z"
     }
   ]
 }
