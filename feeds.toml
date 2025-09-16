@@ -5,3 +5,7 @@ url = "https://github.blog/feed/"
 [[feeds]]
 name = "Go Blog"
 url = "https://go.dev/blog/feed.atom"
+
+[[feeds]]
+name = "Kode24"
+url = "https://rss.kode24.no"
