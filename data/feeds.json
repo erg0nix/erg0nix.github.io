@@ -1,6 +1,14 @@
 {
-  "generated_at": "2025-09-16T16:39:34.082984Z",
+  "generated_at": "2025-09-17T06:33:14.603228Z",
   "items": [
+    {
+      "id": "ce205e285ed9b6dfabc8a7dd15bf0c3a766a50bd",
+      "title": "Uu-tilsynet advarer mot AI-bruk: «Risikerer ond sirkel»",
+      "link": "https://www.kode24.no/artikkel/uu-tilsynet-advarer-mot-ai-bruk-risikerer-ond-sirkel/245358",
+      "source": "Kode24",
+      "summary": "– Utilgjengelig kode inn, utilgjengelig kode ut, skriver Jan Beniamin Kwiek i Uu-tilsynet. Sånn bryter du sirkelen.",
+      "published": "2025-09-17T03:00:00Z"
+    },
     {
       "id": "067b30c724d8e4a271f62b75972707cc63591ddb",
       "title": "Meet the GitHub MCP Registry: The fastest way to discover MCP Servers",
@@ -201,14 +209,6 @@
       "source": "Kode24",
       "summary": "Microsoft har lansert en forhåndsvisningsversjon av Visual Studio 2026 – den første store oppdateringen siden 2021.",
       "published": "2025-09-11T09:26:44Z"
-    },
-    {
-      "id": "b910be6f3a399d54ff87f881cf973a73a41ef36a",
-      "title": "BankID fjerner det hemmelige spillet",
-      "link": "https://www.kode24.no/artikkel/bankid-fjerner-det-hemmelige-spillet/245064",
-      "source": "Kode24",
-      "summary": "Noen mente påskeegget i BankID-appen var skandaløst, og nå forsvinner hele spillet.",
-      "published": "2025-09-11T07:22:31Z"
     },
     {
       "id": "f152fe076f1db209132ae906bff6da5818218b3e",
