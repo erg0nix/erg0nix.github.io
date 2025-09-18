@@ -1,6 +1,46 @@
 {
-  "generated_at": "2025-09-17T06:33:14.603228Z",
+  "generated_at": "2025-09-18T06:32:41.692985Z",
   "items": [
+    {
+      "id": "f33fb034f76604522cdf436773f227889e0adba0",
+      "title": "Domeneshop skrur opp prisene igjen – Miss Group får skylda",
+      "link": "https://www.kode24.no/artikkel/domeneshop-skrur-opp-prisene-igjen-miss-group-far-skylda/245558",
+      "source": "Kode24",
+      "summary": "Etter 20 år har Domeneshop-kunde Kirill Miazine fått nok. – Til syvende og sist er det ikke vi som bestemmer, sier kundeservice om deres nye eier.",
+      "published": "2025-09-18T03:00:00Z"
+    },
+    {
+      "id": "93533491723aacfd73c89c2bdb6445b29abef1e1",
+      "title": "AP2: Googles nye protokoll lar AI shoppe for deg",
+      "link": "https://www.kode24.no/artikkel/ap2-googles-nye-protokoll-lar-ai-shoppe-for-deg/245556",
+      "source": "Kode24",
+      "summary": "Google har i samarbeid med mer enn 60 tech-selskaper lansert Agent Payments Protocol (AP2), et åpent rammeverk for hvordan AI-agenter kan betale for varer og tjenester på dine vegne.",
+      "published": "2025-09-17T12:23:05Z"
+    },
+    {
+      "id": "d030e55f2dfc0d3b42cc78c740a965396549a2ea",
+      "title": "Med Java 25 har Java endelig blitt raskere",
+      "link": "https://www.kode24.no/artikkel/med-java-25-har-java-endelig-blitt-raskere/245525",
+      "source": "Kode24",
+      "summary": "Oracle har lansert den nyeste LTS-versjonen av Java. Her er noen av nyhetene.",
+      "published": "2025-09-17T10:49:13Z"
+    },
+    {
+      "id": "ebacace0f6c39da7bc04c1baebd848e3cfcf5387",
+      "title": "Avis skrev at nordmann var sikta for overgrep, fordi AI tok feil",
+      "link": "https://www.kode24.no/artikkel/avis-skrev-at-nordmann-var-sikta-for-overgrep-fordi-ai-tok-feil/245537",
+      "source": "Kode24",
+      "summary": "Rana No sjekka ikke om AI-en hadde rett, melder Medier24. Det burde de ha gjort, viser også kode24s test.",
+      "published": "2025-09-17T08:47:23Z"
+    },
+    {
+      "id": "1044d88350ed2d78afb79777cc438f857ce7c6ee",
+      "title": "kode24 fyller 7 år, og feirer med trafikkrekord",
+      "link": "https://www.kode24.no/artikkel/kode24-fyller-7-ar-og-feirer-med-trafikkrekord/245521",
+      "source": "Kode24",
+      "summary": "Vi har 39 prosent flere lesere i år enn i fjor – hva synes du vi bør gjøre for å få enda flere?",
+      "published": "2025-09-17T07:52:05Z"
+    },
     {
       "id": "ce205e285ed9b6dfabc8a7dd15bf0c3a766a50bd",
       "title": "Uu-tilsynet advarer mot AI-bruk: «Risikerer ond sirkel»",
@@ -155,22 +195,6 @@
       "published": "2025-09-12T08:39:46Z"
     },
     {
-      "id": "c3af671a1b1295b3ee796d49724aa7af3ae28f33",
-      "title": "Microsoft opensourcer 6502 BASIC, av Bill Gates",
-      "link": "https://www.kode24.no/artikkel/microsoft-opensourcer-6502-basic-av-bill-gates/245014",
-      "source": "Kode24",
-      "summary": "Kildekoden til Microsoft BASIC for 6502 ligger nå på GitHub – i 100 prosent Assembly, koda av selveste Bill Gates og Ric Weiland.",
-      "published": "2025-09-12T07:34:25Z"
-    },
-    {
-      "id": "860bdade998b92640cf18df9ae9bb5f8ddb9ee78",
-      "title": "Vibbekoding kan gi enda flere sider med dårlig tilgjengelighet",
-      "link": "https://www.kode24.no/artikkel/vibbekoding-kan-gi-enda-flere-sider-med-darlig-tilgjengelighet/245102",
-      "source": "Kode24",
-      "summary": "AI-assistentene lager ofte nettsider og web-apper med dårlig tilgjengelighet. Hvorfor ikke heller la AI-en hjelpe deg med tilgjengeligheten? spør Kurt i ukens nyhetsbrev.",
-      "published": "2025-09-12T03:00:00Z"
-    },
-    {
       "id": "d3d828c6d92ede3cdf29f104b70d7ecaff5be19e",
       "title": "GitHub Availability Report: August 2025",
       "link": "https://github.blog/news-insights/company-news/github-availability-report-august-2025/",
@@ -185,30 +209,6 @@
       "source": "GitHub Blog",
       "summary": "Delegate it a task, and coding agent can independently write, run, and test code. Here’s how you can make the most of it. The post GitHub Copilot coding agent 101: Getting started with agentic workflows on GitHub appeared first on The GitHub Blog.",
       "published": "2025-09-11T16:00:00Z"
-    },
-    {
-      "id": "3197e0a4291621e6054caa23684fec2a25a8bac7",
-      "title": "BankID hevder kritikken ikke bidro til spill-sletting",
-      "link": "https://www.kode24.no/artikkel/bankid-hevder-kritikken-ikke-bidro-til-spill-sletting/245127",
-      "source": "Kode24",
-      "summary": "– Mottagelsen har vært svært positiv, mener Stø, og mener det var helt andre grunner til at de sletta det hemmelige spillet.",
-      "published": "2025-09-11T12:33:33Z"
-    },
-    {
-      "id": "90c200bc65349003fea8d58e0c1394f10c5fed0c",
-      "title": "Sofie Staal får ny jobb, med eks-Shortcut-er",
-      "link": "https://www.kode24.no/artikkel/sofie-staal-far-ny-jobb-med-eks-shortcut-er/245111",
-      "source": "Kode24",
-      "summary": "– Nå skal jeg igjen være innovativ med Sigurd fra Shortcut, det er litt surrealistisk, sier Shortcut-varsler og fersk Boitano-ansatt Sofie Staal.",
-      "published": "2025-09-11T11:52:40Z"
-    },
-    {
-      "id": "d5a841144210d50f6cec84fe00cbf62732f0bbf3",
-      "title": "Visual Studio 2026 med mer AI og nytt design",
-      "link": "https://www.kode24.no/artikkel/visual-studio-2026-med-mer-ai-og-nytt-design/245072",
-      "source": "Kode24",
-      "summary": "Microsoft har lansert en forhåndsvisningsversjon av Visual Studio 2026 – den første store oppdateringen siden 2021.",
-      "published": "2025-09-11T09:26:44Z"
     },
     {
       "id": "f152fe076f1db209132ae906bff6da5818218b3e",
