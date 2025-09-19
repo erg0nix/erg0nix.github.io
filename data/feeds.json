@@ -1,6 +1,39 @@
 {
-  "generated_at": "2025-09-18T06:32:41.692985Z",
+  "generated_at": "2025-09-19T06:32:46.385614Z",
   "items": [
+    {
+      "id": "a177db1d850840b3c247199562d092c33c4af091",
+      "title": "– Våpen dreper ikke folk, og AI gjør ikke feil",
+      "link": "https://www.kode24.no/artikkel/vapen-dreper-ikke-folk-og-ai-gjor-ikke-feil/245633",
+      "source": "Kode24",
+      "summary": "– Men har du ikke våpen, dreper du ikke folk med det. Og lar du ikke AI gjøre jobben, får du ikke AI-skapte feil, skriver Ole Petter i ukas nyhetsbrev.",
+      "published": "2025-09-19T03:00:00Z"
+    },
+    {
+      "id": "a47a24e9f8317da993b21558a8d715dc94741a2c",
+      "title": "5 ways to integrate GitHub Copilot coding agent into your workflow",
+      "link": "https://github.blog/ai-and-ml/github-copilot/5-ways-to-integrate-github-copilot-coding-agent-into-your-workflow/",
+      "source": "GitHub Blog",
+      "summary": "Already know the basics of GitHub Copilot coding agent? Here are five ways to offload chores, tackle tech debt, and keep your workflow moving fast. The post 5 ways to integrate GitHub Copilot coding agent into your workflow appeared first on The GitHub Blog.",
+      "published": "2025-09-18T16:00:00Z",
+      "image": "https://github.blog/wp-content/uploads/2025/09/playwright.gif"
+    },
+    {
+      "id": "0cabf09e186e51e35ccb0fe72815fac5a7919c88",
+      "title": "Vivaldi 7.6 lar deg bestemme mer selv",
+      "link": "https://www.kode24.no/artikkel/vivaldi-76-lar-deg-bestemme-mer-selv/245617",
+      "source": "Kode24",
+      "summary": "Jon von Tetzchners korstog mot AI-nettlesere fortsetter – nå lanseres er ny versjon av Vivaldi med enda bedre muligheter for personlig tilpasning.",
+      "published": "2025-09-18T10:57:51Z"
+    },
+    {
+      "id": "e6e0b527aafbe0def13f45d52dc9ebcc80533dcf",
+      "title": "Spår at du snart får AI i brød­risteren",
+      "link": "https://www.kode24.no/artikkel/spar-at-du-snart-far-ai-i-brodristeren/245591",
+      "source": "Kode24",
+      "summary": "Bare i år vil det bli brukt 15 tusen milliarder kroner på på AI, og snart vil AI finne veien til de mest uventede steder – inkludert brødristeren din, spår Gartner.",
+      "published": "2025-09-18T08:19:34Z"
+    },
     {
       "id": "f33fb034f76604522cdf436773f227889e0adba0",
       "title": "Domeneshop skrur opp prisene igjen – Miss Group får skylda",
@@ -8,6 +41,14 @@
       "source": "Kode24",
       "summary": "Etter 20 år har Domeneshop-kunde Kirill Miazine fått nok. – Til syvende og sist er det ikke vi som bestemmer, sier kundeservice om deres nye eier.",
       "published": "2025-09-18T03:00:00Z"
+    },
+    {
+      "id": "c7d53a53ff54cec81ca48b80a474ad105590aae0",
+      "title": "Adrian er første data engineer på Boitanos Oslo-kontor",
+      "link": "https://www.kode24.no/artikkel/adrian-er-forste-data-engineer-pa-boitanos-oslo-kontor/245453",
+      "source": "Kode24",
+      "summary": "– Før man kan begynne å bruke AI, må man få orden på dataen, sier Adrian Langseth.",
+      "published": "2025-09-18T02:55:00Z"
     },
     {
       "id": "93533491723aacfd73c89c2bdb6445b29abef1e1",
@@ -155,44 +196,12 @@
       "published": "2025-09-15T02:55:00Z"
     },
     {
-      "id": "0dcdee06a0861f6261d3bdd4af57d0722145e1a9",
-      "title": "Spill Doom i ren SQL",
-      "link": "https://www.kode24.no/artikkel/spill-doom-i-ren-sql/245204",
-      "source": "Kode24",
-      "summary": "DOOMQL, rulletrapp-mysterier, lær deg hieroglyfer, jule-Lego, nettsider som ser ut som et OS og mye mer i ukens Lørdagsgodt!",
-      "published": "2025-09-13T03:00:00Z"
-    },
-    {
       "id": "1ef749b17ae3e96d0b96aa9862c83496dc01ce69",
       "title": "Building personal apps with open source and AI",
       "link": "https://github.blog/open-source/maintainers/building-personal-apps-with-open-source-and-ai/",
       "source": "GitHub Blog",
       "summary": "Hear about the personal tools we use to improve our workflows (and how to get started building your own) on this episode of the GitHub Podcast. The post Building personal apps with open source and AI appeared first on The GitHub Blog.",
       "published": "2025-09-12T16:00:00Z"
-    },
-    {
-      "id": "f8926aed1215c5eaf0fd5a0ef2ba353742f769e2",
-      "title": "Gjør umulige tilstander umulige: Domene-modellering med sterke typer",
-      "link": "https://www.kode24.no/artikkel/gjor-umulige-tilstander-umulige-domene-modellering-med-sterke-typer/244055",
-      "source": "Kode24",
-      "summary": "– Mange programvarefeil skyldes ikke vanskelige algoritmer, men at systemene tillater tilstander som egentlig ikke gir mening, skriver Christian Ekrem i Enso.",
-      "published": "2025-09-12T11:26:16Z"
-    },
-    {
-      "id": "8df8294e08a5405bb47919e299e5f99f4a8c0134",
-      "title": "Styled-components er død – Sanity gir den nytt liv",
-      "link": "https://www.kode24.no/artikkel/styled-components-er-dod-sanity-gir-den-nytt-liv/245160",
-      "source": "Kode24",
-      "summary": "– Ikke bruk det til nye prosjekter, sa styled-components-skaperen før sommeren. Da måtte norske Sanity ta grep.",
-      "published": "2025-09-12T10:16:17Z"
-    },
-    {
-      "id": "b3ad57191c75843ac71875b09a713bfad5157f83",
-      "title": "Kartverket ansetter tre utviklere rett fra studiet",
-      "link": "https://www.kode24.no/artikkel/kartverket-ansetter-tre-utviklere-rett-fra-studiet/245165",
-      "source": "Kode24",
-      "summary": "– Fint å ha kontor i Hønefoss og slippe byen hvor det er mye folk og støy.",
-      "published": "2025-09-12T08:39:46Z"
     },
     {
       "id": "d3d828c6d92ede3cdf29f104b70d7ecaff5be19e",
@@ -253,15 +262,6 @@
       "source": "GitHub Blog",
       "summary": "With the relaxation of sanctions and export controls on Syria, GitHub will once again be broadly available to Syrian developers. The post GitHub is enabling broader access for developers in Syria following new government trade rules appeared first on The GitHub Blog.",
       "published": "2025-09-05T06:00:00Z"
-    },
-    {
-      "id": "780e99b783411f05087b2f73d464c44fad51c773",
-      "title": "Building smarter interactions with MCP elicitation: From clunky tool calls to seamless user experiences",
-      "link": "https://github.blog/ai-and-ml/github-copilot/building-smarter-interactions-with-mcp-elicitation-from-clunky-tool-calls-to-seamless-user-experiences/",
-      "source": "GitHub Blog",
-      "summary": "Explore how MCP elicitation transforms AI tool interactions by gathering missing information upfront. The post Building smarter interactions with MCP elicitation: From clunky tool calls to seamless user experiences appeared first on The GitHub Blog.",
-      "published": "2025-09-04T16:00:00Z",
-      "image": "https://github.blog/wp-content/uploads/2025/09/image1.png?resize=1024%2C576"
     },
     {
       "id": "6b8800a031bd9a738f21d97ce03a973790b851bb",
