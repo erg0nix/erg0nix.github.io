@@ -1,6 +1,62 @@
 {
-  "generated_at": "2025-09-19T06:32:46.385614Z",
+  "generated_at": "2025-09-20T06:30:05.365241Z",
   "items": [
+    {
+      "id": "36788dca6c3a90a61acddbe9e5c4ef32d3dc8f63",
+      "title": "Lite plass? Bygg en hjemmekontor-kapsel!",
+      "link": "https://www.kode24.no/artikkel/lite-plass-bygg-en-hjemmekontor-kapsel/245717",
+      "source": "Kode24",
+      "summary": "Vanvittige LED-skjermer til filmproduksjon, Ølhunden Berit, plassbesparende hjemmekontor, hvorfor Cloudflare gikk ned, AI-overvåking og Metas nye briller i ukens Lørdagsgodt!",
+      "published": "2025-09-20T03:00:00Z"
+    },
+    {
+      "id": "63f84a9dce3578cdf55658a74c200c29a117ed1b",
+      "title": "– Slutt med alle anima­sjonene!",
+      "link": "https://www.kode24.no/artikkel/slutt-med-alle-animasjonene/245743",
+      "source": "Kode24",
+      "summary": "Animasjoner som skader brukeropplevelsen, VG-valg med Astro, Sanity redder Styled Components og de 100 ferskeste tingene i CSS, i ukens Forrige uke!",
+      "published": "2025-09-19T12:14:00Z"
+    },
+    {
+      "id": "8e403527e47ab526d03597ac905b1c4aef35c52f",
+      "title": "Kodeklubb vraker Slack etter «utpressing»",
+      "link": "https://www.kode24.no/artikkel/kodeklubb-vraker-slack-etter-utpressing/245721",
+      "source": "Kode24",
+      "summary": "Trua med å slette alt om kodeklubben ikke betalte 50.000 dollar innen uka. – Vi gjorde en feil, sier Slack nå, men klubben bytter likevel plattform.",
+      "published": "2025-09-19T10:55:55Z"
+    },
+    {
+      "id": "cbcc2307cda3300f583a9d48cd93b0cf4359730a",
+      "title": "UX-er og eks-Unge Høyre-politiker (27) til NITO",
+      "link": "https://www.kode24.no/artikkel/ux-er-og-eks-unge-hoyre-politiker-27-til-nito/245689",
+      "source": "Kode24",
+      "summary": "– Får være tett på de to områdene jeg engasjerer meg mest i: politikk og teknologi, sier Emma Erlandsen.",
+      "published": "2025-09-19T10:02:00Z"
+    },
+    {
+      "id": "60d83c74712f2049acf4239ba7d3f251dc7eebdb",
+      "title": "Nå blir Chrome full av AI",
+      "link": "https://www.kode24.no/artikkel/na-blir-chrome-full-av-ai/245658",
+      "source": "Kode24",
+      "summary": "Gemini AI er integrert overalt i nettleseren i det som skal være Googles største oppdatering av Chrome noensinne.",
+      "published": "2025-09-19T08:38:38Z"
+    },
+    {
+      "id": "5fd85a281628f090a92844379c207f5ec57a0ef7",
+      "title": "reMarkable nedbemanner",
+      "link": "https://www.kode24.no/artikkel/remarkable-nedbemanner/245656",
+      "source": "Kode24",
+      "summary": "Selskapet med over 550 ansatte må kutte 10 prosent av personalkostnadene, melder Shifter.",
+      "published": "2025-09-19T07:12:00Z"
+    },
+    {
+      "id": "8c911e8039d06fc8cb4c25390234165087ded9ad",
+      "title": "Cobrief vant pris, slo Evigr og Odins.ai",
+      "link": "https://www.kode24.no/artikkel/cobrief-vant-pris-slo-evigr-og-odinsai/245671",
+      "source": "Kode24",
+      "summary": "Anbudsverktøyet Cobrief stakk av med seieren i Virkes Innovasjonspris.",
+      "published": "2025-09-19T07:10:00Z"
+    },
     {
       "id": "a177db1d850840b3c247199562d092c33c4af091",
       "title": "– Våpen dreper ikke folk, og AI gjør ikke feil",
@@ -124,22 +180,6 @@
       "published": "2025-09-16T09:07:42Z"
     },
     {
-      "id": "955064cd000fd5105387ba9ccb631fb62baa01e2",
-      "title": "Varnish bytter navn, mot sin vilje",
-      "link": "https://www.kode24.no/artikkel/varnish-bytter-navn-mot-sin-vilje/245403",
-      "source": "Kode24",
-      "summary": "FOSS-prosjektet med norske røtter hevder de ikke kommer til enighet med Varnish Software-selskapet.",
-      "published": "2025-09-16T07:52:07Z"
-    },
-    {
-      "id": "d22ac2b1b187707b1538862c6fb3ab9225ccf24b",
-      "title": "Er Norge for rikt til å digitalisere seg raskt?",
-      "link": "https://www.kode24.no/artikkel/er-norge-for-rikt-til-a-digitalisere-seg-raskt/245306",
-      "source": "Kode24",
-      "summary": "– Vi har en strategi. Vi har mål. Men vi bygger fortsatt i siloer, skriver Erik Schradi, som ber oss se til det hundre prosent digitaliserte landet Estland.",
-      "published": "2025-09-16T03:00:00Z"
-    },
-    {
       "id": "b5b3e74991c32c3b5cbe7cf03a7a338e26edb205",
       "title": "It's survey time! How has Go has been working out for you?",
       "link": "https://go.dev/blog/survey2025-announce",
@@ -154,46 +194,6 @@
       "source": "GitHub Blog",
       "summary": "GitHub is introducing post-quantum secure key exchange methods for SSH access to better protect Git data in transit. The post Post-quantum security for SSH access on GitHub appeared first on The GitHub Blog.",
       "published": "2025-09-15T16:00:00Z"
-    },
-    {
-      "id": "ab3de667428a9a75b988ccbe2302a1d5da3fceb9",
-      "title": "Advarer mot AI-gigantene: – Vi mister kontroll, bremser verdiskaping",
-      "link": "https://www.kode24.no/artikkel/advarer-mot-ai-gigantene-vi-mister-kontroll-bremser-verdiskaping/245309",
-      "source": "Kode24",
-      "summary": "– Overlater vi utviklingen til et fåtall globale selskaper, risikerer vi en digital bronsealder der teknologien er lukket, kostbar og formet av andre, skriver Tore André Rosander.",
-      "published": "2025-09-15T11:01:43Z"
-    },
-    {
-      "id": "89aedd56ca4d210103cb7181908f07bda00fc23d",
-      "title": "Rapport om blant annet AI i skolen full av AI-skapte falske kilder",
-      "link": "https://www.kode24.no/artikkel/rapport-om-blant-annet-ai-i-skolen-full-av-ai-skapte-falske-kilder/245257",
-      "source": "Kode24",
-      "summary": "I en rapport om modernisering av utdanningssystemet oppfordres det til \"etisk\" AI-bruk – men mange av kildene i rapporten mistenkes å være laget av AI.",
-      "published": "2025-09-15T08:43:30Z"
-    },
-    {
-      "id": "3e963e1c3d42a90d76067a8f77efb4516c513ad5",
-      "title": "Frifor-appen ansetter startup-utvikler",
-      "link": "https://www.kode24.no/artikkel/frifor-appen-ansetter-startup-utvikler/245274",
-      "source": "Kode24",
-      "summary": "– Utrolig motiverende å kunne være med å bygge et helt selskap fra bunnen av, spesielt når det løser et reelt problem som jeg selv er opptatt av, sier Arne Molland.",
-      "published": "2025-09-15T08:25:18Z"
-    },
-    {
-      "id": "e87851a6efc8019c64096cf4198ebfba41edf88d",
-      "title": "Norske Manager­League fyller 20 år, med 220.000 linjer Perl",
-      "link": "https://www.kode24.no/artikkel/norske-managerleague-fyller-20-ar-med-220000-linjer-perl/245094",
-      "source": "Kode24",
-      "summary": "Christian Lassem har koda på fotballsimulatorens Perl-kode i over 20 år. – Jeg tror egentlig ikke jeg liker det spesielt godt.",
-      "published": "2025-09-15T03:00:00Z"
-    },
-    {
-      "id": "02d6f34519eadf97190a4b9401b03cfe881e4c54",
-      "title": "Slipper bot i Slack vs. Teams-krangel",
-      "link": "https://www.kode24.no/artikkel/slipper-bot-i-slack-vs-teams-krangel/245246",
-      "source": "Kode24",
-      "summary": "Tvisten er løst ved at Microsoft nå øker prisforskjellen på Office med Teams.",
-      "published": "2025-09-15T02:55:00Z"
     },
     {
       "id": "1ef749b17ae3e96d0b96aa9862c83496dc01ce69",
@@ -268,7 +268,7 @@
       "title": "Testing Time (and other asynchronicities)",
       "link": "https://go.dev/blog/testing-time",
       "source": "Go Blog",
-      "summary": "A discussion of testing asyncronous code and an exploration of the `testing/synctest` package. Based on the GopherCon Europe 2025 talk with the same title.",
+      "summary": "A discussion of testing asynchronous code and an exploration of the `testing/synctest` package. Based on the GopherCon Europe 2025 talk with the same title.",
       "published": "2025-08-26T00:00:00Z"
     },
     {
