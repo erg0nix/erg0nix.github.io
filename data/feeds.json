@@ -1,6 +1,64 @@
 {
-  "generated_at": "2025-09-22T06:34:43.718671Z",
+  "generated_at": "2025-09-23T06:33:19.676757Z",
   "items": [
+    {
+      "id": "f7213df064f60fd26773a1ffd37d28f437448335",
+      "title": "Alle snakker om OpenCode: «Det skjønner jeg godt!»",
+      "link": "https://www.kode24.no/artikkel/alle-snakker-om-opencode-det-skjonner-jeg-godt/245418",
+      "source": "Kode24",
+      "summary": "En ny åpen kildekode-basert AI-assistent har tatt utviklerverdenen med storm. Vi har prøvd den.",
+      "published": "2025-09-23T03:00:00Z"
+    },
+    {
+      "id": "49a3c8e656d5b39d9c1c8ebd3cf4b9030e0862c8",
+      "title": "Our plan for a more secure npm supply chain",
+      "link": "https://github.blog/security/supply-chain-security/our-plan-for-a-more-secure-npm-supply-chain/",
+      "source": "GitHub Blog",
+      "summary": "Addressing a surge in package registry attacks, GitHub is strengthening npm's security with stricter authentication, granular tokens, and enhanced trusted publishing to restore trust in the open source ecosystem. The post Our plan for a more secure npm supply chain appeared first on The GitHub Blog.",
+      "published": "2025-09-23T00:29:50Z"
+    },
+    {
+      "id": "d1f7afe99079b1479c8a0475c429fbdbfa9d839d",
+      "title": "Gartner positions GitHub as a Leader in the 2025 Magic Quadrant for AI Code Assistants for the second year in a row",
+      "link": "https://github.blog/ai-and-ml/github-copilot/gartner-positions-github-as-a-leader-in-the-2025-magic-quadrant-for-ai-code-assistants-for-the-second-year-in-a-row/",
+      "source": "GitHub Blog",
+      "summary": "Our commitment is to empower every developer and stay true to our north star by building an open, secure, and AI-powered platform that defines the future of software development. The post Gartner positions GitHub as a Leader in the 2025 Magic Quadrant for AI Code Assistants for the second year in a...",
+      "published": "2025-09-22T18:24:17Z",
+      "image": "https://github.blog/wp-content/uploads/2025/09/MQ.png?resize=937%2C1024"
+    },
+    {
+      "id": "14fb16a0f2e8274e7180d7c46f0b1ee465e01dab",
+      "title": "What’s next for Git? 20 years in, the community is still pushing forward",
+      "link": "https://github.blog/open-source/whats-next-for-git-20-years-in-the-community-is-still-pushing-forward/",
+      "source": "GitHub Blog",
+      "summary": "Git Merge 2025 isn’t just about celebrating 20 years of Git - it’s about what comes next. In this post, we’re highlighting some of the talks and speakers shaping Git’s future, from performance wins and new backends to surprising use cases and the impact of AI coding agents. The post What’s next for...",
+      "published": "2025-09-22T16:33:00Z",
+      "image": "https://github.blog/wp-content/uploads/2025/09/git-first-commit.png?resize=1024%2C216"
+    },
+    {
+      "id": "0c6b23ecb8c6a8f682d6cf5a78fcfdd2c8b835c5",
+      "title": "eBay kjøper norske Tise",
+      "link": "https://www.kode24.no/artikkel/ebay-kjoper-norske-tise/245854",
+      "source": "Kode24",
+      "summary": "Appen for gjenbruk blir kjøpt opp av den amerikanske giganten.",
+      "published": "2025-09-22T13:00:14Z"
+    },
+    {
+      "id": "f9a8d914fa61eeed399860f009801b5dea68e370",
+      "title": "Varsler høye strømpriser i Norden etter datasenter-boom",
+      "link": "https://www.kode24.no/artikkel/varsler-hoye-strompriser-i-norden-etter-datasenter-boom/245833",
+      "source": "Kode24",
+      "summary": "Strømforbruket til datasentre i Norden kan firedobles de neste åra.",
+      "published": "2025-09-22T11:24:05Z"
+    },
+    {
+      "id": "451acffafc48a7fdd12dace7a1222dccdf704530",
+      "title": "EU vil bli kvitt unødvendige cookie-bannere",
+      "link": "https://www.kode24.no/artikkel/eu-vil-bli-kvitt-unodvendige-cookie-bannere/245779",
+      "source": "Kode24",
+      "summary": "EU-kommisjonen vurderer regelendringer for å redusere mengden cookie-bannere.",
+      "published": "2025-09-22T08:34:40Z"
+    },
     {
       "id": "ad846c7ac55136ea27336a27af1c49807b6d11b4",
       "title": "Mener utviklere er for godt vant: «Ta mer ansvar!»",
@@ -8,6 +66,22 @@
       "source": "Kode24",
       "summary": "– Spør deg selv: Hva skjer om denne tredjeparts-tjenesten blir utilgjengelig? skriver Simen A. W. Olsen, som slår et slag for å løse mer selv.",
       "published": "2025-09-22T03:00:00Z"
+    },
+    {
+      "id": "67519fe6a5817e6f615529c21a1b23d142631946",
+      "title": "Store problemer i flytrafikken etter dataangrep",
+      "link": "https://www.kode24.no/artikkel/store-problemer-i-flytrafikken-etter-dataangrep/245798",
+      "source": "Kode24",
+      "summary": "EUs cybersikkerhetsbyrå sa mandag at typen av løsepengevirus er identifisert.",
+      "published": "2025-09-22T02:55:00Z"
+    },
+    {
+      "id": "b12659aef38fbadc17080ea85f6254605edb494d",
+      "title": "USAs tek-bransje må betale én million for å ansette utlendinger",
+      "link": "https://www.kode24.no/artikkel/usas-tek-bransje-ma-betale-en-million-for-a-ansette-utlendinger/245777",
+      "source": "Kode24",
+      "summary": "Giganter som Microsoft, Meta og Amazon ber sine utenlandske arbeidere returnere øyeblikkelig, etter Donald Trumps nye regler.",
+      "published": "2025-09-22T02:50:00Z"
     },
     {
       "id": "36788dca6c3a90a61acddbe9e5c4ef32d3dc8f63",
@@ -123,38 +197,6 @@
       "published": "2025-09-17T12:23:05Z"
     },
     {
-      "id": "d030e55f2dfc0d3b42cc78c740a965396549a2ea",
-      "title": "Med Java 25 har Java endelig blitt raskere",
-      "link": "https://www.kode24.no/artikkel/med-java-25-har-java-endelig-blitt-raskere/245525",
-      "source": "Kode24",
-      "summary": "Oracle har lansert den nyeste LTS-versjonen av Java. Her er noen av nyhetene.",
-      "published": "2025-09-17T10:49:13Z"
-    },
-    {
-      "id": "ebacace0f6c39da7bc04c1baebd848e3cfcf5387",
-      "title": "Avis skrev at nordmann var sikta for overgrep, fordi AI tok feil",
-      "link": "https://www.kode24.no/artikkel/avis-skrev-at-nordmann-var-sikta-for-overgrep-fordi-ai-tok-feil/245537",
-      "source": "Kode24",
-      "summary": "Rana No sjekka ikke om AI-en hadde rett, melder Medier24. Det burde de ha gjort, viser også kode24s test.",
-      "published": "2025-09-17T08:47:23Z"
-    },
-    {
-      "id": "1044d88350ed2d78afb79777cc438f857ce7c6ee",
-      "title": "kode24 fyller 7 år, og feirer med trafikkrekord",
-      "link": "https://www.kode24.no/artikkel/kode24-fyller-7-ar-og-feirer-med-trafikkrekord/245521",
-      "source": "Kode24",
-      "summary": "Vi har 39 prosent flere lesere i år enn i fjor – hva synes du vi bør gjøre for å få enda flere?",
-      "published": "2025-09-17T07:52:05Z"
-    },
-    {
-      "id": "ce205e285ed9b6dfabc8a7dd15bf0c3a766a50bd",
-      "title": "Uu-tilsynet advarer mot AI-bruk: «Risikerer ond sirkel»",
-      "link": "https://www.kode24.no/artikkel/uu-tilsynet-advarer-mot-ai-bruk-risikerer-ond-sirkel/245358",
-      "source": "Kode24",
-      "summary": "– Utilgjengelig kode inn, utilgjengelig kode ut, skriver Jan Beniamin Kwiek i Uu-tilsynet. Sånn bryter du sirkelen.",
-      "published": "2025-09-17T03:00:00Z"
-    },
-    {
       "id": "067b30c724d8e4a271f62b75972707cc63591ddb",
       "title": "Meet the GitHub MCP Registry: The fastest way to discover MCP Servers",
       "link": "https://github.blog/ai-and-ml/github-copilot/meet-the-github-mcp-registry-the-fastest-way-to-discover-mcp-servers/",
@@ -162,22 +204,6 @@
       "summary": "This is your new home base for discovering MCP servers. Learn how we’re working with the broader community on MCP publication and discovery. The post Meet the GitHub MCP Registry: The fastest way to discover MCP Servers appeared first on The GitHub Blog.",
       "published": "2025-09-16T16:27:54Z",
       "image": "https://github.blog/wp-content/uploads/2025/09/mcp2.jpg?resize=1024%2C538"
-    },
-    {
-      "id": "5933ecd9195f3c5a43b377a2cf5f28dab5728b5a",
-      "title": "Ingrid (30) med ny jobb i «Norges teknologi­hovedstad»",
-      "link": "https://www.kode24.no/artikkel/ingrid-30-med-ny-jobb-i-norges-teknologihovedstad/245444",
-      "source": "Kode24",
-      "summary": "Ingrid Marie Johansen går til Computas i Trondheim, i det selskapet får gigantkontrakt.",
-      "published": "2025-09-16T11:29:43Z"
-    },
-    {
-      "id": "62ff5bd4e2ebbbc153f4ee7292c538cbcf83a25f",
-      "title": "Varnish Software: – Vi er uenige om bruken av varemerker",
-      "link": "https://www.kode24.no/artikkel/varnish-software-vi-er-uenige-om-bruken-av-varemerker/245426",
-      "source": "Kode24",
-      "summary": "– Det Varnish Software ville ha var en varemerke-policy tilsvarende det FreeBSD, PostgreSQL og Linux har, sier Per Buer. Men Varnish Cache bytter heller navn.",
-      "published": "2025-09-16T09:43:27Z"
     },
     {
       "id": "b5b3e74991c32c3b5cbe7cf03a7a338e26edb205",
@@ -229,15 +255,6 @@
       "image": "https://github.blog/wp-content/uploads/2025/09/table1-1.png?resize=1024%2C538"
     },
     {
-      "id": "815c3d9920f4fb31be30efdd2d15531bb64df0a6",
-      "title": "How to use the GitHub and JFrog integration for secure, traceable builds from commit to production",
-      "link": "https://github.blog/enterprise-software/devsecops/how-to-use-the-github-and-jfrog-integration-for-secure-traceable-builds-from-commit-to-production/",
-      "source": "GitHub Blog",
-      "summary": "Connect commits to artifacts without switching tools. The post How to use the GitHub and JFrog integration for secure, traceable builds from commit to production appeared first on The GitHub Blog.",
-      "published": "2025-09-09T22:00:00Z",
-      "image": "https://github.blog/wp-content/uploads/2025/09/jfrog1.png?resize=1024%2C658"
-    },
-    {
       "id": "639b104e14371d578e8f084d74dea2e6a43cb901",
       "title": "A new experimental Go API for JSON",
       "link": "https://go.dev/blog/jsonv2-exp",
@@ -245,23 +262,6 @@
       "summary": "Go 1.25 introduces experimental support for encoding/json/jsontext and encoding/json/v2 packages.",
       "published": "2025-09-09T00:00:00Z",
       "image": "https://go.dev/blog/jsonv2-exp/api.png"
-    },
-    {
-      "id": "7547035b948acf575f837b731c9f5d6a905e4a73",
-      "title": "How to debug a web app with Playwright MCP and GitHub Copilot",
-      "link": "https://github.blog/ai-and-ml/github-copilot/how-to-debug-a-web-app-with-playwright-mcp-and-github-copilot/",
-      "source": "GitHub Blog",
-      "summary": "Reproduce and debug web app issues with ease using the Playwright MCP server and GitHub Copilot. The post How to debug a web app with Playwright MCP and GitHub Copilot appeared first on The GitHub Blog.",
-      "published": "2025-09-05T16:00:00Z",
-      "image": "https://github.blog/wp-content/uploads/2025/09/image.png?resize=1024%2C816"
-    },
-    {
-      "id": "7abd4ce3e1b96282a5cd0b1b52ebd4d1757d9b23",
-      "title": "GitHub is enabling broader access for developers in Syria following new government trade rules",
-      "link": "https://github.blog/company/github-is-enabling-broader-access-for-developers-in-syria-following-new-government-trade-rules/",
-      "source": "GitHub Blog",
-      "summary": "With the relaxation of sanctions and export controls on Syria, GitHub will once again be broadly available to Syrian developers. The post GitHub is enabling broader access for developers in Syria following new government trade rules appeared first on The GitHub Blog.",
-      "published": "2025-09-05T06:00:00Z"
     },
     {
       "id": "6b8800a031bd9a738f21d97ce03a973790b851bb",
