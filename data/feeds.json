@@ -1,6 +1,55 @@
 {
-  "generated_at": "2025-09-23T06:33:19.676757Z",
+  "generated_at": "2025-09-24T06:32:54.134823Z",
   "items": [
+    {
+      "id": "49338741fa1638a1f3c42c898f98b1c595dd155c",
+      "title": "– Vi trenger flere arenaer som styrker kvinnelige utviklere",
+      "link": "https://www.kode24.no/artikkel/vi-trenger-flere-arenaer-som-styrker-kvinnelige-utviklere/245915",
+      "source": "Kode24",
+      "summary": "– Hvis vi skal beholde kvinnelige teknologer, må vi skape rom der de kan vokse faglig og bygge trygghet, skriver CTO Lana Vu i Netlife.",
+      "published": "2025-09-24T03:00:00Z"
+    },
+    {
+      "id": "4a27a533d5e56b524717c9b755cadec82c679db5",
+      "title": "Gir ut 673 sider med logger mellom Tromsø og ChatGPT",
+      "link": "https://www.kode24.no/artikkel/gir-ut-673-sider-med-logger-mellom-tromso-og-chatgpt/245935",
+      "source": "Kode24",
+      "summary": "Tromsø nekta først å gi innsyn, men nå er det offentlig hvordan skandalerapporten ble skrevet.",
+      "published": "2025-09-23T13:13:56Z"
+    },
+    {
+      "id": "1999547054673d7529b5218853b03e51fced3e2c",
+      "title": "A step-by-step guide to modernizing Java projects with GitHub Copilot agent mode",
+      "link": "https://github.blog/ai-and-ml/github-copilot/a-step-by-step-guide-to-modernizing-java-projects-with-github-copilot-agent-mode/",
+      "source": "GitHub Blog",
+      "summary": "Learn how to use GitHub Copilot agent mode to modernize legacy Java projects with guided upgrades, automated fixes, and cloud-ready migrations. The post A step-by-step guide to modernizing Java projects with GitHub Copilot agent mode appeared first on The GitHub Blog.",
+      "published": "2025-09-23T13:00:00Z",
+      "image": "https://github.blog/wp-content/uploads/2025/09/flow-chart.png?resize=1024%2C495"
+    },
+    {
+      "id": "237b18cae6bd7b7d1260a29ca4352ec7acb7987a",
+      "title": "Olaf er ny sjef for Trumf-utviklerne: «En drøm!»",
+      "link": "https://www.kode24.no/artikkel/olaf-er-ny-sjef-for-trumf-utviklerne-en-drom/245881",
+      "source": "Kode24",
+      "summary": "– Det vi skal prøve å få til her er utrolig spennende, sier Olaf Berge.",
+      "published": "2025-09-23T10:55:01Z"
+    },
+    {
+      "id": "4ee7c0e21cb108ef6747d877c8b07760305fa5de",
+      "title": "«Back to office» stopper opp i USA",
+      "link": "https://www.kode24.no/artikkel/back-to-office-stopper-opp-i-usa/245879",
+      "source": "Kode24",
+      "summary": "Mellomlederne vil ikke tvinge hverken seg selv eller sine ansatte tilbake på kontoret.",
+      "published": "2025-09-23T09:17:49Z"
+    },
+    {
+      "id": "3326718613aaba7902c3b016abf9c81c2ffba278",
+      "title": "WebAssembly 3.0 er klar, etter åtte års arbeid",
+      "link": "https://www.kode24.no/artikkel/webassembly-30-er-klar-etter-atte-ars-arbeid/245813",
+      "source": "Kode24",
+      "summary": "Nye funksjoner i Wasm 3.0 gjør det enklere å kompilere til Webassembly fra enda flere språk enn før.",
+      "published": "2025-09-23T08:09:45Z"
+    },
     {
       "id": "f7213df064f60fd26773a1ffd37d28f437448335",
       "title": "Alle snakker om OpenCode: «Det skjønner jeg godt!»",
@@ -8,6 +57,14 @@
       "source": "Kode24",
       "summary": "En ny åpen kildekode-basert AI-assistent har tatt utviklerverdenen med storm. Vi har prøvd den.",
       "published": "2025-09-23T03:00:00Z"
+    },
+    {
+      "id": "26d2cbb3de6332683f83ded857ea507db23703a0",
+      "title": "Nvidia investerer 100 milliarder dollar i OpenAI",
+      "link": "https://www.kode24.no/artikkel/nvidia-investerer-100-milliarder-dollar-i-openai/245872",
+      "source": "Kode24",
+      "summary": "Målet er opptrening og drift av OpenAIs modeller «på veien mot superintelligens».",
+      "published": "2025-09-23T02:55:00Z"
     },
     {
       "id": "49a3c8e656d5b39d9c1c8ebd3cf4b9030e0862c8",
@@ -140,14 +197,6 @@
       "published": "2025-09-19T07:10:00Z"
     },
     {
-      "id": "a177db1d850840b3c247199562d092c33c4af091",
-      "title": "– Våpen dreper ikke folk, og AI gjør ikke feil",
-      "link": "https://www.kode24.no/artikkel/vapen-dreper-ikke-folk-og-ai-gjor-ikke-feil/245633",
-      "source": "Kode24",
-      "summary": "– Men har du ikke våpen, dreper du ikke folk med det. Og lar du ikke AI gjøre jobben, får du ikke AI-skapte feil, skriver Ole Petter i ukas nyhetsbrev.",
-      "published": "2025-09-19T03:00:00Z"
-    },
-    {
       "id": "a47a24e9f8317da993b21558a8d715dc94741a2c",
       "title": "5 ways to integrate GitHub Copilot coding agent into your workflow",
       "link": "https://github.blog/ai-and-ml/github-copilot/5-ways-to-integrate-github-copilot-coding-agent-into-your-workflow/",
@@ -155,46 +204,6 @@
       "summary": "Already know the basics of GitHub Copilot coding agent? Here are five ways to offload chores, tackle tech debt, and keep your workflow moving fast. The post 5 ways to integrate GitHub Copilot coding agent into your workflow appeared first on The GitHub Blog.",
       "published": "2025-09-18T16:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2025/09/playwright.gif"
-    },
-    {
-      "id": "0cabf09e186e51e35ccb0fe72815fac5a7919c88",
-      "title": "Vivaldi 7.6 lar deg bestemme mer selv",
-      "link": "https://www.kode24.no/artikkel/vivaldi-76-lar-deg-bestemme-mer-selv/245617",
-      "source": "Kode24",
-      "summary": "Jon von Tetzchners korstog mot AI-nettlesere fortsetter – nå lanseres er ny versjon av Vivaldi med enda bedre muligheter for personlig tilpasning.",
-      "published": "2025-09-18T10:57:51Z"
-    },
-    {
-      "id": "e6e0b527aafbe0def13f45d52dc9ebcc80533dcf",
-      "title": "Spår at du snart får AI i brød­risteren",
-      "link": "https://www.kode24.no/artikkel/spar-at-du-snart-far-ai-i-brodristeren/245591",
-      "source": "Kode24",
-      "summary": "Bare i år vil det bli brukt 15 tusen milliarder kroner på på AI, og snart vil AI finne veien til de mest uventede steder – inkludert brødristeren din, spår Gartner.",
-      "published": "2025-09-18T08:19:34Z"
-    },
-    {
-      "id": "f33fb034f76604522cdf436773f227889e0adba0",
-      "title": "Domeneshop skrur opp prisene igjen – Miss Group får skylda",
-      "link": "https://www.kode24.no/artikkel/domeneshop-skrur-opp-prisene-igjen-miss-group-far-skylda/245558",
-      "source": "Kode24",
-      "summary": "Etter 20 år har Domeneshop-kunde Kirill Miazine fått nok. – Til syvende og sist er det ikke vi som bestemmer, sier kundeservice om deres nye eier.",
-      "published": "2025-09-18T03:00:00Z"
-    },
-    {
-      "id": "c7d53a53ff54cec81ca48b80a474ad105590aae0",
-      "title": "Adrian er første data engineer på Boitanos Oslo-kontor",
-      "link": "https://www.kode24.no/artikkel/adrian-er-forste-data-engineer-pa-boitanos-oslo-kontor/245453",
-      "source": "Kode24",
-      "summary": "– Før man kan begynne å bruke AI, må man få orden på dataen, sier Adrian Langseth.",
-      "published": "2025-09-18T02:55:00Z"
-    },
-    {
-      "id": "93533491723aacfd73c89c2bdb6445b29abef1e1",
-      "title": "AP2: Googles nye protokoll lar AI shoppe for deg",
-      "link": "https://www.kode24.no/artikkel/ap2-googles-nye-protokoll-lar-ai-shoppe-for-deg/245556",
-      "source": "Kode24",
-      "summary": "Google har i samarbeid med mer enn 60 tech-selskaper lansert Agent Payments Protocol (AP2), et åpent rammeverk for hvordan AI-agenter kan betale for varer og tjenester på dine vegne.",
-      "published": "2025-09-17T12:23:05Z"
     },
     {
       "id": "067b30c724d8e4a271f62b75972707cc63591ddb",
@@ -244,15 +253,6 @@
       "source": "GitHub Blog",
       "summary": "Delegate it a task, and coding agent can independently write, run, and test code. Here’s how you can make the most of it. The post GitHub Copilot coding agent 101: Getting started with agentic workflows on GitHub appeared first on The GitHub Blog.",
       "published": "2025-09-11T16:00:00Z"
-    },
-    {
-      "id": "f152fe076f1db209132ae906bff6da5818218b3e",
-      "title": "Your guide to GitHub Universe 2025: The schedule just launched!",
-      "link": "https://github.blog/news-insights/company-news/your-guide-to-github-universe-2025-the-schedule-just-launched/",
-      "source": "GitHub Blog",
-      "summary": "Create your own agenda of favorites, sign up for one-on-on mentoring sessions, and register if you haven’t already. We’ll see you there! The post Your guide to GitHub Universe 2025: The schedule just launched! appeared first on The GitHub Blog.",
-      "published": "2025-09-10T20:52:28Z",
-      "image": "https://github.blog/wp-content/uploads/2025/09/table1-1.png?resize=1024%2C538"
     },
     {
       "id": "639b104e14371d578e8f084d74dea2e6a43cb901",
