@@ -1,6 +1,55 @@
 {
-  "generated_at": "2025-09-24T06:32:54.134823Z",
+  "generated_at": "2025-09-25T06:33:29.112251Z",
   "items": [
+    {
+      "id": "00e4c86ea958dab610c1a3150c99b160c3f5adfe",
+      "title": "Lovspeilet.no viser deg hva politikerne gjør, med usynlig AI",
+      "link": "https://www.kode24.no/artikkel/lovspeiletno-viser-deg-hva-politikerne-gjor-med-usynlig-ai/245789",
+      "source": "Kode24",
+      "summary": "– AI har et enormt potensial som usynlig infrastruktur, skriver Sigve Røkenes.",
+      "published": "2025-09-25T03:00:00Z"
+    },
+    {
+      "id": "5d69085d1a21e09dfdf61b8264791b4239080c19",
+      "title": "GitHub Copilot gets smarter at finding your code: Inside our new embedding model",
+      "link": "https://github.blog/news-insights/product-news/copilot-new-embedding-model-vs-code/",
+      "source": "GitHub Blog",
+      "summary": "Learn about a new Copilot embedding model that makes code search in VS Code faster, lighter on memory, and far more accurate. The post GitHub Copilot gets smarter at finding your code: Inside our new embedding model appeared first on The GitHub Blog.",
+      "published": "2025-09-24T20:24:18Z",
+      "image": "https://github.blog/wp-content/uploads/2025/09/All_1200x630-1.png?resize=1024%2C538"
+    },
+    {
+      "id": "66c2ecb6cd2fd29de98c563d24bd1d228f06bbff",
+      "title": "Using AI to map hope for refugees with UNHCR, the UN Refugee Agency",
+      "link": "https://github.blog/open-source/social-impact/using-ai-to-map-hope-for-refugees-with-unhcr-the-un-refugee-agency/",
+      "source": "GitHub Blog",
+      "summary": "With the help of GitHub, UNHCR turned drone imagery into maps — helping refugees in Kakuma and Kalobeyei build sustainable, powered communities. The post Using AI to map hope for refugees with UNHCR, the UN Refugee Agency appeared first on The GitHub Blog.",
+      "published": "2025-09-24T16:12:47Z"
+    },
+    {
+      "id": "fcbae356e4f3bedfe8ae1ded5e516afb4b2339b0",
+      "title": "Få kontroll på package.json",
+      "link": "https://www.kode24.no/artikkel/fa-kontroll-pa-packagejson/245991",
+      "source": "Kode24",
+      "summary": "Middleware i React Router, tips for å takle avhengigheter, automatisk valg av modell i VS Code og retningslinjer for web-grensesnitt i ukas ForrigeUke.",
+      "published": "2025-09-24T10:36:52Z"
+    },
+    {
+      "id": "46cfa91a3bfee96bd4728f7e6bd37fefd50f55d1",
+      "title": "AI-koding på mobil flopper",
+      "link": "https://www.kode24.no/artikkel/ai-koding-pa-mobil-flopper/245963",
+      "source": "Kode24",
+      "summary": "Ingen vibbekoding-apper på mobilen har suksess.",
+      "published": "2025-09-24T08:35:04Z"
+    },
+    {
+      "id": "898bb9d2ee1be6204935598d74bcca1d3e2467a3",
+      "title": "Stor økning i nordmenns AI-bruk",
+      "link": "https://www.kode24.no/artikkel/stor-okning-i-nordmenns-ai-bruk/245979",
+      "source": "Kode24",
+      "summary": "8 av 10 nordmenn mellom 16 og 24 år har brukt AI-tjenester den siste tida.",
+      "published": "2025-09-24T08:30:00Z"
+    },
     {
       "id": "49338741fa1638a1f3c42c898f98b1c595dd155c",
       "title": "– Vi trenger flere arenaer som styrker kvinnelige utviklere",
@@ -8,6 +57,14 @@
       "source": "Kode24",
       "summary": "– Hvis vi skal beholde kvinnelige teknologer, må vi skape rom der de kan vokse faglig og bygge trygghet, skriver CTO Lana Vu i Netlife.",
       "published": "2025-09-24T03:00:00Z"
+    },
+    {
+      "id": "5a63facebeb439b98ffa574bb663888bca5184ec",
+      "title": "Nå trener LinkedIn AI på dine data – sånn skrur du det av",
+      "link": "https://www.kode24.no/artikkel/na-trener-linkedin-ai-pa-dine-data-sann-skrur-du-det-av/245946",
+      "source": "Kode24",
+      "summary": "Datatilsynet advarer 1,3 millioner nordmenn på LinkedIn om at de selv må skru av bryteren.",
+      "published": "2025-09-24T02:50:00Z"
     },
     {
       "id": "4a27a533d5e56b524717c9b755cadec82c679db5",
@@ -157,46 +214,6 @@
       "published": "2025-09-19T12:14:00Z"
     },
     {
-      "id": "8e403527e47ab526d03597ac905b1c4aef35c52f",
-      "title": "Kodeklubb vraker Slack etter «utpressing»",
-      "link": "https://www.kode24.no/artikkel/kodeklubb-vraker-slack-etter-utpressing/245721",
-      "source": "Kode24",
-      "summary": "Trua med å slette alt om kodeklubben ikke betalte 50.000 dollar innen uka. – Vi gjorde en feil, sier Slack nå, men klubben bytter likevel plattform.",
-      "published": "2025-09-19T10:55:55Z"
-    },
-    {
-      "id": "cbcc2307cda3300f583a9d48cd93b0cf4359730a",
-      "title": "UX-er og eks-Unge Høyre-politiker (27) til NITO",
-      "link": "https://www.kode24.no/artikkel/ux-er-og-eks-unge-hoyre-politiker-27-til-nito/245689",
-      "source": "Kode24",
-      "summary": "– Får være tett på de to områdene jeg engasjerer meg mest i: politikk og teknologi, sier Emma Erlandsen.",
-      "published": "2025-09-19T10:02:00Z"
-    },
-    {
-      "id": "60d83c74712f2049acf4239ba7d3f251dc7eebdb",
-      "title": "Nå blir Chrome full av AI",
-      "link": "https://www.kode24.no/artikkel/na-blir-chrome-full-av-ai/245658",
-      "source": "Kode24",
-      "summary": "Gemini AI er integrert overalt i nettleseren i det som skal være Googles største oppdatering av Chrome noensinne.",
-      "published": "2025-09-19T08:38:38Z"
-    },
-    {
-      "id": "5fd85a281628f090a92844379c207f5ec57a0ef7",
-      "title": "reMarkable nedbemanner",
-      "link": "https://www.kode24.no/artikkel/remarkable-nedbemanner/245656",
-      "source": "Kode24",
-      "summary": "Selskapet med over 550 ansatte må kutte 10 prosent av personalkostnadene, melder Shifter.",
-      "published": "2025-09-19T07:12:00Z"
-    },
-    {
-      "id": "8c911e8039d06fc8cb4c25390234165087ded9ad",
-      "title": "Cobrief vant pris, slo Evigr og Odins.ai",
-      "link": "https://www.kode24.no/artikkel/cobrief-vant-pris-slo-evigr-og-odinsai/245671",
-      "source": "Kode24",
-      "summary": "Anbudsverktøyet Cobrief stakk av med seieren i Virkes Innovasjonspris.",
-      "published": "2025-09-19T07:10:00Z"
-    },
-    {
       "id": "a47a24e9f8317da993b21558a8d715dc94741a2c",
       "title": "5 ways to integrate GitHub Copilot coding agent into your workflow",
       "link": "https://github.blog/ai-and-ml/github-copilot/5-ways-to-integrate-github-copilot-coding-agent-into-your-workflow/",
@@ -237,22 +254,6 @@
       "source": "GitHub Blog",
       "summary": "Hear about the personal tools we use to improve our workflows (and how to get started building your own) on this episode of the GitHub Podcast. The post Building personal apps with open source and AI appeared first on The GitHub Blog.",
       "published": "2025-09-12T16:00:00Z"
-    },
-    {
-      "id": "d3d828c6d92ede3cdf29f104b70d7ecaff5be19e",
-      "title": "GitHub Availability Report: August 2025",
-      "link": "https://github.blog/news-insights/company-news/github-availability-report-august-2025/",
-      "source": "GitHub Blog",
-      "summary": "In August, we experienced three incidents that resulted in degraded performance across GitHub services. The post GitHub Availability Report: August 2025 appeared first on The GitHub Blog.",
-      "published": "2025-09-11T19:53:44Z"
-    },
-    {
-      "id": "9bd9881a1c148b4be444b17ae044ae822c0c99cc",
-      "title": "GitHub Copilot coding agent 101: Getting started with agentic workflows on GitHub",
-      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-coding-agent-101-getting-started-with-agentic-workflows-on-github/",
-      "source": "GitHub Blog",
-      "summary": "Delegate it a task, and coding agent can independently write, run, and test code. Here’s how you can make the most of it. The post GitHub Copilot coding agent 101: Getting started with agentic workflows on GitHub appeared first on The GitHub Blog.",
-      "published": "2025-09-11T16:00:00Z"
     },
     {
       "id": "639b104e14371d578e8f084d74dea2e6a43cb901",
