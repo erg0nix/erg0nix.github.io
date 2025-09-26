@@ -1,6 +1,46 @@
 {
-  "generated_at": "2025-09-25T06:33:29.112251Z",
+  "generated_at": "2025-09-26T06:32:24.430976Z",
   "items": [
+    {
+      "id": "90ad5b91db3bba4c0f1464a08543ce4606a24ed3",
+      "title": "1 av 4 menn synes det prates for mye om kvinner",
+      "link": "https://www.kode24.no/artikkel/1-av-4-menn-synes-det-prates-for-mye-om-kvinner/246089",
+      "source": "Kode24",
+      "summary": "– Det er vanskelig for majoriteten å sette seg inn i minoriteten. Det ser vi også i våre siste tall, skriver Ole Petter i ukas nyhetsbrev.",
+      "published": "2025-09-26T03:00:00Z"
+    },
+    {
+      "id": "f1fcac2c661742dfddb113855f97f3f2349eb43b",
+      "title": "Building beyond the browser: Keeley Hammond on Electron, open source, and the future of maintainership",
+      "link": "https://github.blog/open-source/maintainers/building-beyond-the-browser-keeley-hammond-on-electron-open-source-and-the-future-of-maintainership/",
+      "source": "GitHub Blog",
+      "summary": "Learn what it really takes to sustain one of the web’s most widely used frameworks on this episode of the GitHub Podcast. The post Building beyond the browser: Keeley Hammond on Electron, open source, and the future of maintainership appeared first on The GitHub Blog.",
+      "published": "2025-09-25T17:05:48Z"
+    },
+    {
+      "id": "bf5660e7204e3cb8ea2bca2b4e9b0d071aad3d14",
+      "title": "Hver fjerde nordmann tar sjanser på nett",
+      "link": "https://www.kode24.no/artikkel/hver-fjerde-nordmann-tar-sjanser-pa-nett/246094",
+      "source": "Kode24",
+      "summary": "– Flere unge tar risiko, fordi de er trygge, noen ganger for trygge, på egen kunnskap, sier NorSIS om den nye rapporten.",
+      "published": "2025-09-25T12:08:14Z"
+    },
+    {
+      "id": "d5fc16a93d09ca53c5b00ca0d5862ac84e8f34a5",
+      "title": "Rekordstort DDoS-angrep, fra 404.000 rutere og TV-bokser",
+      "link": "https://www.kode24.no/artikkel/rekordstort-ddos-angrep-fra-404000-rutere-og-tv-bokser/246062",
+      "source": "Kode24",
+      "summary": "Cloudflare stoppa et rekordstort angrep mot europeisk infrastruktur.",
+      "published": "2025-09-25T10:12:00Z"
+    },
+    {
+      "id": "0d988c56f2aba8130966941c8d75a173258c20df",
+      "title": "Her er kode24s nye journalister: «Superstas!»",
+      "link": "https://www.kode24.no/artikkel/her-er-kode24s-nye-journalister-superstas/246064",
+      "source": "Kode24",
+      "summary": "kode24 ansetter Silje Rognsvåg (38) og Heather Eliassen (32). – Med disse stjernesigneringene skal vi løfte journalistikken vår.",
+      "published": "2025-09-25T08:39:02Z"
+    },
     {
       "id": "00e4c86ea958dab610c1a3150c99b160c3f5adfe",
       "title": "Lovspeilet.no viser deg hva politikerne gjør, med usynlig AI",
@@ -8,6 +48,22 @@
       "source": "Kode24",
       "summary": "– AI har et enormt potensial som usynlig infrastruktur, skriver Sigve Røkenes.",
       "published": "2025-09-25T03:00:00Z"
+    },
+    {
+      "id": "ae5eb01aa255c80b057d25bc2a593e9e26888a1c",
+      "title": "Massiv AI-skepsis blant norske folk",
+      "link": "https://www.kode24.no/artikkel/massiv-ai-skepsis-blant-norske-folk/246050",
+      "source": "Kode24",
+      "summary": "– Det er en stor bekymring for teknologiens negative konsekvenser, sier forsker Dag Slettemeås ved Sifo.",
+      "published": "2025-09-25T02:55:00Z"
+    },
+    {
+      "id": "617447f31f7e368dc6abe4b38289c8540b33df69",
+      "title": "Tromsø til ChatGPT: «Vær prosjekt­leder!»",
+      "link": "https://www.kode24.no/artikkel/tromso-til-chatgpt-vaer-prosjektleder/246035",
+      "source": "Kode24",
+      "summary": "Chatloggene viser nøyaktig hva Tromsø kommune bak AI-en om.",
+      "published": "2025-09-25T02:50:00Z"
     },
     {
       "id": "5d69085d1a21e09dfdf61b8264791b4239080c19",
@@ -166,54 +222,6 @@
       "published": "2025-09-22T11:24:05Z"
     },
     {
-      "id": "451acffafc48a7fdd12dace7a1222dccdf704530",
-      "title": "EU vil bli kvitt unødvendige cookie-bannere",
-      "link": "https://www.kode24.no/artikkel/eu-vil-bli-kvitt-unodvendige-cookie-bannere/245779",
-      "source": "Kode24",
-      "summary": "EU-kommisjonen vurderer regelendringer for å redusere mengden cookie-bannere.",
-      "published": "2025-09-22T08:34:40Z"
-    },
-    {
-      "id": "ad846c7ac55136ea27336a27af1c49807b6d11b4",
-      "title": "Mener utviklere er for godt vant: «Ta mer ansvar!»",
-      "link": "https://www.kode24.no/artikkel/mener-utviklere-er-for-godt-vant-ta-mer-ansvar/245462",
-      "source": "Kode24",
-      "summary": "– Spør deg selv: Hva skjer om denne tredjeparts-tjenesten blir utilgjengelig? skriver Simen A. W. Olsen, som slår et slag for å løse mer selv.",
-      "published": "2025-09-22T03:00:00Z"
-    },
-    {
-      "id": "67519fe6a5817e6f615529c21a1b23d142631946",
-      "title": "Store problemer i flytrafikken etter dataangrep",
-      "link": "https://www.kode24.no/artikkel/store-problemer-i-flytrafikken-etter-dataangrep/245798",
-      "source": "Kode24",
-      "summary": "EUs cybersikkerhetsbyrå sa mandag at typen av løsepengevirus er identifisert.",
-      "published": "2025-09-22T02:55:00Z"
-    },
-    {
-      "id": "b12659aef38fbadc17080ea85f6254605edb494d",
-      "title": "USAs tek-bransje må betale én million for å ansette utlendinger",
-      "link": "https://www.kode24.no/artikkel/usas-tek-bransje-ma-betale-en-million-for-a-ansette-utlendinger/245777",
-      "source": "Kode24",
-      "summary": "Giganter som Microsoft, Meta og Amazon ber sine utenlandske arbeidere returnere øyeblikkelig, etter Donald Trumps nye regler.",
-      "published": "2025-09-22T02:50:00Z"
-    },
-    {
-      "id": "36788dca6c3a90a61acddbe9e5c4ef32d3dc8f63",
-      "title": "Lite plass? Bygg en hjemmekontor-kapsel!",
-      "link": "https://www.kode24.no/artikkel/lite-plass-bygg-en-hjemmekontor-kapsel/245717",
-      "source": "Kode24",
-      "summary": "Vanvittige LED-skjermer til filmproduksjon, Ølhunden Berit, plassbesparende hjemmekontor, hvorfor Cloudflare gikk ned, AI-overvåking og Metas nye briller i ukens Lørdagsgodt!",
-      "published": "2025-09-20T03:00:00Z"
-    },
-    {
-      "id": "63f84a9dce3578cdf55658a74c200c29a117ed1b",
-      "title": "– Slutt med alle anima­sjonene!",
-      "link": "https://www.kode24.no/artikkel/slutt-med-alle-animasjonene/245743",
-      "source": "Kode24",
-      "summary": "Animasjoner som skader brukeropplevelsen, VG-valg med Astro, Sanity redder Styled Components og de 100 ferskeste tingene i CSS, i ukens Forrige uke!",
-      "published": "2025-09-19T12:14:00Z"
-    },
-    {
       "id": "a47a24e9f8317da993b21558a8d715dc94741a2c",
       "title": "5 ways to integrate GitHub Copilot coding agent into your workflow",
       "link": "https://github.blog/ai-and-ml/github-copilot/5-ways-to-integrate-github-copilot-coding-agent-into-your-workflow/",
@@ -246,14 +254,6 @@
       "source": "GitHub Blog",
       "summary": "GitHub is introducing post-quantum secure key exchange methods for SSH access to better protect Git data in transit. The post Post-quantum security for SSH access on GitHub appeared first on The GitHub Blog.",
       "published": "2025-09-15T16:00:00Z"
-    },
-    {
-      "id": "1ef749b17ae3e96d0b96aa9862c83496dc01ce69",
-      "title": "Building personal apps with open source and AI",
-      "link": "https://github.blog/open-source/maintainers/building-personal-apps-with-open-source-and-ai/",
-      "source": "GitHub Blog",
-      "summary": "Hear about the personal tools we use to improve our workflows (and how to get started building your own) on this episode of the GitHub Podcast. The post Building personal apps with open source and AI appeared first on The GitHub Blog.",
-      "published": "2025-09-12T16:00:00Z"
     },
     {
       "id": "639b104e14371d578e8f084d74dea2e6a43cb901",
