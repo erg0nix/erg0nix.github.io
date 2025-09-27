@@ -1,6 +1,54 @@
 {
-  "generated_at": "2025-09-26T06:32:24.430976Z",
+  "generated_at": "2025-09-27T06:28:33.176102Z",
   "items": [
+    {
+      "id": "624fe66f0f0913b224bcd74ffe1b71e74bc61035",
+      "title": "Her er nye Raspberry Pi 500+",
+      "link": "https://www.kode24.no/artikkel/her-er-nye-raspberry-pi-500/246232",
+      "source": "Kode24",
+      "summary": "AI-bobla sprekker, nye Raspberry Pi imponerer og gamle dataspill er selvfølgelig bedre, i ukas Lørdagsgodt.",
+      "published": "2025-09-27T03:00:00Z"
+    },
+    {
+      "id": "12cb6d25557b383c3518677a0d539eac3bc42195",
+      "title": "How GitHub protects developers from copyright enforcement overreach",
+      "link": "https://github.blog/news-insights/policy-news-and-insights/how-github-protects-developers-from-copyright-enforcement-overreach/",
+      "source": "GitHub Blog",
+      "summary": "Why the U.S. Supreme Court case Cox v. Sony matters for developers and sharing updates to our Transparency Center and Acceptable Use Policies. The post How GitHub protects developers from copyright enforcement overreach appeared first on The GitHub Blog.",
+      "published": "2025-09-26T17:06:17Z"
+    },
+    {
+      "id": "038e20334af8d2730710f0bd10bbacfa988de64d",
+      "title": "Kicking off Cybersecurity Awareness Month 2025: Researcher Spotlights and Enhanced Incentives",
+      "link": "https://github.blog/security/vulnerability-research/kicking-off-cybersecurity-awareness-month-2025-researcher-spotlights-and-enhanced-incentives/",
+      "source": "GitHub Blog",
+      "summary": "For this year’s Cybersecurity Awareness Month, GitHub’s Bug Bounty team is excited to offer some additional incentives to security researchers! The post Kicking off Cybersecurity Awareness Month 2025: Researcher Spotlights and Enhanced Incentives appeared first on The GitHub Blog.",
+      "published": "2025-09-26T15:00:00Z"
+    },
+    {
+      "id": "7c3b96f49a8a90211b85f1baca93c065608a5dd4",
+      "title": "Ragnhild (28) til Knowit: «Imponerte oss fra første stund»",
+      "link": "https://www.kode24.no/artikkel/ragnhild-28-til-knowit-imponerte-oss-fra-forste-stund/246204",
+      "source": "Kode24",
+      "summary": "Ragnhild Bratli skilter med «energi, utstråling og solid kunnskap».",
+      "published": "2025-09-26T10:54:25Z"
+    },
+    {
+      "id": "bd216addab72bba967bd9b5bd99766c8dc3ddfe2",
+      "title": "Cloudflare lanserer epost-tjeneste for utviklere",
+      "link": "https://www.kode24.no/artikkel/cloudflare-lanserer-epost-tjeneste-for-utviklere/246136",
+      "source": "Kode24",
+      "summary": "Sier det er et smertepunkt for mange utviklere i dag, og hevder deres løsning er bedre integrert i utviklerflyten.",
+      "published": "2025-09-26T09:04:24Z"
+    },
+    {
+      "id": "002ce231e308bfd21463ae533990d0ba925dd39f",
+      "title": "Tise vil ikke si hva eBay-oppkjøp betyr for de ansatte",
+      "link": "https://www.kode24.no/artikkel/tise-vil-ikke-si-hva-ebay-oppkjop-betyr-for-de-ansatte/246124",
+      "source": "Kode24",
+      "summary": "– Vi forventer flere forbedringer fremover, drevet av eBays globale ekspertise, sier gründer Eirik Frøyland Rime.",
+      "published": "2025-09-26T07:15:20Z"
+    },
     {
       "id": "90ad5b91db3bba4c0f1464a08543ce4606a24ed3",
       "title": "1 av 4 menn synes det prates for mye om kvinner",
@@ -8,6 +56,15 @@
       "source": "Kode24",
       "summary": "– Det er vanskelig for majoriteten å sette seg inn i minoriteten. Det ser vi også i våre siste tall, skriver Ole Petter i ukas nyhetsbrev.",
       "published": "2025-09-26T03:00:00Z"
+    },
+    {
+      "id": "57ecc16f936f3b31542341b521c5c27fb57352ab",
+      "title": "Flight Recorder in Go 1.25",
+      "link": "https://go.dev/blog/flight-recorder",
+      "source": "Go Blog",
+      "summary": "Go 1.25 introduces a new tool in the diagnostic toolbox, flight recording.",
+      "published": "2025-09-26T00:00:00Z",
+      "image": "https://go.dev/blog/flight-recorder/flight_recorder_1.png"
     },
     {
       "id": "f1fcac2c661742dfddb113855f97f3f2349eb43b",
@@ -164,22 +221,6 @@
       "published": "2025-09-23T08:09:45Z"
     },
     {
-      "id": "f7213df064f60fd26773a1ffd37d28f437448335",
-      "title": "Alle snakker om OpenCode: «Det skjønner jeg godt!»",
-      "link": "https://www.kode24.no/artikkel/alle-snakker-om-opencode-det-skjonner-jeg-godt/245418",
-      "source": "Kode24",
-      "summary": "En ny åpen kildekode-basert AI-assistent har tatt utviklerverdenen med storm. Vi har prøvd den.",
-      "published": "2025-09-23T03:00:00Z"
-    },
-    {
-      "id": "26d2cbb3de6332683f83ded857ea507db23703a0",
-      "title": "Nvidia investerer 100 milliarder dollar i OpenAI",
-      "link": "https://www.kode24.no/artikkel/nvidia-investerer-100-milliarder-dollar-i-openai/245872",
-      "source": "Kode24",
-      "summary": "Målet er opptrening og drift av OpenAIs modeller «på veien mot superintelligens».",
-      "published": "2025-09-23T02:55:00Z"
-    },
-    {
       "id": "49a3c8e656d5b39d9c1c8ebd3cf4b9030e0862c8",
       "title": "Our plan for a more secure npm supply chain",
       "link": "https://github.blog/security/supply-chain-security/our-plan-for-a-more-secure-npm-supply-chain/",
@@ -206,22 +247,6 @@
       "image": "https://github.blog/wp-content/uploads/2025/09/git-first-commit.png?resize=1024%2C216"
     },
     {
-      "id": "0c6b23ecb8c6a8f682d6cf5a78fcfdd2c8b835c5",
-      "title": "eBay kjøper norske Tise",
-      "link": "https://www.kode24.no/artikkel/ebay-kjoper-norske-tise/245854",
-      "source": "Kode24",
-      "summary": "Appen for gjenbruk blir kjøpt opp av den amerikanske giganten.",
-      "published": "2025-09-22T13:00:14Z"
-    },
-    {
-      "id": "f9a8d914fa61eeed399860f009801b5dea68e370",
-      "title": "Varsler høye strømpriser i Norden etter datasenter-boom",
-      "link": "https://www.kode24.no/artikkel/varsler-hoye-strompriser-i-norden-etter-datasenter-boom/245833",
-      "source": "Kode24",
-      "summary": "Strømforbruket til datasentre i Norden kan firedobles de neste åra.",
-      "published": "2025-09-22T11:24:05Z"
-    },
-    {
       "id": "a47a24e9f8317da993b21558a8d715dc94741a2c",
       "title": "5 ways to integrate GitHub Copilot coding agent into your workflow",
       "link": "https://github.blog/ai-and-ml/github-copilot/5-ways-to-integrate-github-copilot-coding-agent-into-your-workflow/",
@@ -231,29 +256,12 @@
       "image": "https://github.blog/wp-content/uploads/2025/09/playwright.gif"
     },
     {
-      "id": "067b30c724d8e4a271f62b75972707cc63591ddb",
-      "title": "Meet the GitHub MCP Registry: The fastest way to discover MCP Servers",
-      "link": "https://github.blog/ai-and-ml/github-copilot/meet-the-github-mcp-registry-the-fastest-way-to-discover-mcp-servers/",
-      "source": "GitHub Blog",
-      "summary": "This is your new home base for discovering MCP servers. Learn how we’re working with the broader community on MCP publication and discovery. The post Meet the GitHub MCP Registry: The fastest way to discover MCP Servers appeared first on The GitHub Blog.",
-      "published": "2025-09-16T16:27:54Z",
-      "image": "https://github.blog/wp-content/uploads/2025/09/mcp2.jpg?resize=1024%2C538"
-    },
-    {
       "id": "b5b3e74991c32c3b5cbe7cf03a7a338e26edb205",
       "title": "It's survey time! How has Go has been working out for you?",
       "link": "https://go.dev/blog/survey2025-announce",
       "source": "Go Blog",
       "summary": "Help shape the future of Go",
       "published": "2025-09-16T00:00:00Z"
-    },
-    {
-      "id": "f71618d4a9863daba68834e932060fc530e4e890",
-      "title": "Post-quantum security for SSH access on GitHub",
-      "link": "https://github.blog/engineering/platform-security/post-quantum-security-for-ssh-access-on-github/",
-      "source": "GitHub Blog",
-      "summary": "GitHub is introducing post-quantum secure key exchange methods for SSH access to better protect Git data in transit. The post Post-quantum security for SSH access on GitHub appeared first on The GitHub Blog.",
-      "published": "2025-09-15T16:00:00Z"
     },
     {
       "id": "639b104e14371d578e8f084d74dea2e6a43cb901",
@@ -319,14 +327,6 @@
       "source": "Go Blog",
       "summary": "Go's cryptography libraries underwent an audit by Trail of Bits.",
       "published": "2025-05-19T00:00:00Z"
-    },
-    {
-      "id": "2bc80a1e6600bf493f8a48f3bf1afe40a8ceb8b8",
-      "title": "More predictable benchmarking with testing.B.Loop",
-      "link": "https://go.dev/blog/testing-b-loop",
-      "source": "Go Blog",
-      "summary": "Better benchmark looping in Go 1.24.",
-      "published": "2025-04-02T00:00:00Z"
     }
   ]
 }
