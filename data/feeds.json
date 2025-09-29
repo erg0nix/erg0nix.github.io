@@ -1,6 +1,14 @@
 {
-  "generated_at": "2025-09-28T06:30:33.673777Z",
+  "generated_at": "2025-09-29T06:35:05.853301Z",
   "items": [
+    {
+      "id": "13a3360774eb7246397827878380983ab6a99a5a",
+      "title": "Ruter på iOS 26: «Når Apple tar valg, må man forholde seg til det»",
+      "link": "https://www.kode24.no/artikkel/ruter-pa-ios-26-nar-apple-tar-valg-ma-man-forholde-seg-til-det/246138",
+      "source": "Kode24",
+      "summary": "– Man må balansere det man får fra plattformen med Ruters visuelle virkemidler og personlighet, skriver Petter Klingen Wright om overgangen.",
+      "published": "2025-09-29T03:00:00Z"
+    },
     {
       "id": "624fe66f0f0913b224bcd74ffe1b71e74bc61035",
       "title": "Her er nye Raspberry Pi 500+",
@@ -211,14 +219,6 @@
       "source": "Kode24",
       "summary": "Mellomlederne vil ikke tvinge hverken seg selv eller sine ansatte tilbake på kontoret.",
       "published": "2025-09-23T09:17:49Z"
-    },
-    {
-      "id": "3326718613aaba7902c3b016abf9c81c2ffba278",
-      "title": "WebAssembly 3.0 er klar, etter åtte års arbeid",
-      "link": "https://www.kode24.no/artikkel/webassembly-30-er-klar-etter-atte-ars-arbeid/245813",
-      "source": "Kode24",
-      "summary": "Nye funksjoner i Wasm 3.0 gjør det enklere å kompilere til Webassembly fra enda flere språk enn før.",
-      "published": "2025-09-23T08:09:45Z"
     },
     {
       "id": "49a3c8e656d5b39d9c1c8ebd3cf4b9030e0862c8",
