@@ -3,10 +3,6 @@ title: "Bookmarks"
 draft: false
 ---
 
-# ~/bookmarks
-
-<p class="breadcrumb"><a href="/">← back</a></p>
-
 cool stuff i've found and want to remember
 
 <div class="bookmark-grid">

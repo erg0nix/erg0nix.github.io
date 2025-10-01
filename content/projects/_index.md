@@ -3,10 +3,6 @@ title: "Projects"
 draft: false
 ---
 
-# ~/projects
-
-<p class="breadcrumb"><a href="/">← back</a></p>
-
 stuff I've built or worked on. most of my side projects are private repos, but here are the public ones.
 
 ## active

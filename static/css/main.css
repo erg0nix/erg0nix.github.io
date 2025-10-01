@@ -181,7 +181,7 @@ html[class*="weather-"] body {
 .status-cursor {
   width: 8px;
   height: 12px;
-  background: #f38ba8;
+  background: #ff6600;
   animation: blink 1s infinite;
   margin-left: 4px;
 }
@@ -227,7 +227,7 @@ html[class*="weather-"] body {
 }
 
 .window-title {
-  color: #f38ba8;
+  color: #ff6600;
   font-size: 14px;
   font-family: 'JetBrains Mono', 'Courier New', monospace;
   font-weight: 600;
@@ -236,7 +236,7 @@ html[class*="weather-"] body {
 }
 
 .window-controls {
-  color: #f38ba8;
+  color: #ff6600;
   font-size: 12px;
   letter-spacing: 4px;
 }
