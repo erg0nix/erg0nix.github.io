@@ -1,57 +1,95 @@
 <!-- Autumn rain and falling leaves effects -->
 <style>
-  /* Rain effect (autumn) - GPU-optimized transform-based */
-  html.weather-rain body::before,
-  html.weather-rain body::after {
-    content: "";
+  /* Realistic rain effect (autumn) */
+  html.weather-rain .rain {
     position: fixed;
-    inset: -50dvh 0 0 0;
-    height: 200dvh;
+    left: 0;
     width: 100%;
-    pointer-events: none;
+    height: 100%;
     z-index: -2;
-    background-repeat: repeat;
-    will-change: transform;
-    contain: paint;
-    backface-visibility: hidden;
-    transform: translate3d(0,0,0);
-  }
-  
-  /* fine rain - fast layer */
-  html.weather-rain body::before {
-    opacity: 0.25;
-    background-image:
-      radial-gradient(1px 8px at 23px 17px, #7dd3fc, transparent),
-      radial-gradient(1px 6px at 142px 8px, #38bdf8, transparent),
-      radial-gradient(1px 9px at 251px 19px, #0ea5e9, transparent),
-      radial-gradient(1px 7px at 334px 12px, #7dd3fc, transparent),
-      radial-gradient(1px 10px at 45px 23px, #38bdf8, transparent),
-      radial-gradient(1px 8px at 167px 29px, #0ea5e9, transparent);
-    background-size: 400px 60px, 400px 60px, 400px 60px, 400px 60px, 400px 80px, 400px 80px;
-    animation: rainMoveA 6s linear infinite;
-  }
-  
-  /* depth rain - slow layer */
-  html.weather-rain body::after {
-    opacity: 0.15;
-    background-image:
-      radial-gradient(1px 9px at 56px 27px, #7dd3fc, transparent),
-      radial-gradient(1px 7px at 187px 39px, #38bdf8, transparent),
-      radial-gradient(1px 8px at 323px 8px, #0ea5e9, transparent),
-      radial-gradient(1px 10px at 112px 45px, #7dd3fc, transparent),
-      radial-gradient(1px 11px at 78px 16px, #38bdf8, transparent);
-    background-size: 400px 70px, 400px 70px, 400px 70px, 400px 70px, 400px 100px;
-    animation: rainMoveB 9s linear infinite;
+    pointer-events: none;
   }
 
-  @keyframes rainMoveA {
-    from { transform: translate3d(0,-50dvh,0); }
-    to   { transform: translate3d(0,0,0); }
+  html.weather-rain .rain.back-row {
+    z-index: -3;
+    opacity: 0.3;
   }
-  
-  @keyframes rainMoveB {
-    from { transform: translate3d(0,-50dvh,0); }
-    to   { transform: translate3d(0,0,0); }
+
+  .drop {
+    position: absolute;
+    bottom: 100%;
+    width: 15px;
+    height: 60px;
+    pointer-events: none;
+    animation: drop linear infinite;
+  }
+
+  @keyframes drop {
+    0% {
+      transform: translateY(0vh);
+    }
+    75% {
+      transform: translateY(100vh);
+    }
+    100% {
+      transform: translateY(100vh);
+    }
+  }
+
+  .stem {
+    width: 1px;
+    height: 60%;
+    margin-left: 7px;
+    background: linear-gradient(to bottom, rgba(125, 211, 252, 0), rgba(125, 211, 252, 0.6));
+    animation: stem linear infinite;
+  }
+
+  @keyframes stem {
+    0% {
+      opacity: 1;
+    }
+    65% {
+      opacity: 1;
+    }
+    75% {
+      opacity: 0;
+    }
+    100% {
+      opacity: 0;
+    }
+  }
+
+  .splat {
+    width: 15px;
+    height: 10px;
+    border-top: 2px dotted rgba(125, 211, 252, 0.5);
+    border-radius: 50%;
+    opacity: 1;
+    transform: scale(0);
+    animation: splat linear infinite;
+  }
+
+  @keyframes splat {
+    0% {
+      opacity: 1;
+      transform: scale(0);
+    }
+    80% {
+      opacity: 1;
+      transform: scale(0);
+    }
+    90% {
+      opacity: 0.5;
+      transform: scale(1);
+    }
+    100% {
+      opacity: 0;
+      transform: scale(1.5);
+    }
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    .rain, .drop { animation: none !important; display: none !important; }
   }
 
   /* Falling leaves for autumn */
@@ -87,10 +125,60 @@
   }
 </style>
 
+<!-- Rain layers for autumn -->
+<div class="rain front-row" aria-hidden="true"></div>
+<div class="rain back-row" aria-hidden="true"></div>
+
 <!-- Falling leaves layer for autumn -->
 <div class="leaves-layer" aria-hidden="true"></div>
 
 <script>
+  // Realistic rain effect for autumn
+  function makeItRain() {
+    const rainElements = document.querySelectorAll('.rain');
+    rainElements.forEach(rain => rain.innerHTML = '');
+
+    var increment = 0;
+    var drops = "";
+    var backDrops = "";
+
+    // Adjust density based on screen width
+    const isMobile = window.innerWidth <= 768;
+    const maxDrops = isMobile ? 50 : 100; // Half density on mobile
+
+    while (increment < maxDrops) {
+      var randoHundo = Math.floor(Math.random() * (98 - 1 + 1) + 1);
+      var randoFiver = Math.floor(Math.random() * (5 - 2 + 1) + 2);
+      increment += randoFiver;
+
+      const duration = '1.' + randoHundo;
+      const delay = '0.' + randoHundo;
+
+      drops += `<div class="drop" style="left: ${increment}%; bottom: ${(randoFiver + randoFiver - 1 + 100)}%; animation-delay: ${delay}s; animation-duration: ${duration}s;"><div class="stem" style="animation-delay: ${delay}s; animation-duration: ${duration}s;"></div><div class="splat" style="animation-delay: ${delay}s; animation-duration: ${duration}s;"></div></div>`;
+      backDrops += `<div class="drop" style="right: ${increment}%; bottom: ${(randoFiver + randoFiver - 1 + 100)}%; animation-delay: ${delay}s; animation-duration: ${duration}s;"><div class="stem" style="animation-delay: ${delay}s; animation-duration: ${duration}s;"></div><div class="splat" style="animation-delay: ${delay}s; animation-duration: ${duration}s;"></div></div>`;
+    }
+
+    const frontRow = document.querySelector('.rain.front-row');
+    const backRow = document.querySelector('.rain.back-row');
+    if (frontRow) frontRow.innerHTML = drops;
+    if (backRow) backRow.innerHTML = backDrops;
+  }
+
+  function checkRain() {
+    const html = document.documentElement;
+    if (html.classList.contains("weather-rain")) {
+      makeItRain();
+    } else {
+      const rainElements = document.querySelectorAll('.rain');
+      rainElements.forEach(rain => rain.innerHTML = '');
+    }
+  }
+
+  // Watch for season changes
+  const rainObs = new MutationObserver(checkRain);
+  rainObs.observe(document.documentElement, { attributes: true, attributeFilter: ["class"] });
+  checkRain(); // Initial check
+
   // Falling leaves for autumn
   (function () {
     const EMOJIS = ["🍂","🍁","🍃"];
