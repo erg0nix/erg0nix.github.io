@@ -2,32 +2,34 @@
 <section class="terminal-window">
   <div class="window-header">
     <span class="window-title">~/blog</span>
-    <div class="window-controls">
-      <a href="/index.xml" target="_blank" class="rss-button">RSS</a>
-      <span style="margin-left: 8px;">● ● ●</span>
-    </div>
+    <div class="window-controls">● ● ●</div>
   </div>
   <div class="window-content">
     <nav class="breadcrumb"><a href="/">← back</a></nav>
 
-    <div class="blog-posts">
+    <div class="content-list">
       {{ range .Pages }}
-      <article class="post-item">
-        <header class="post-header">
-          <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-          <time>{{ .Date.Format "2006-01-02" }}</time>
-        </header>
-        {{ if .Summary }}
-        <p class="post-summary">{{ .Summary }}</p>
-        <footer class="post-footer">
-          <a href="{{ .RelPermalink }}" class="read-more">read more →</a>
-        </footer>
-        {{ end }}
+      <article class="content-item">
+        <div class="content-item-content">
+          <div class="content-item-text">
+            <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+            <div class="content-item-meta">
+              <time>{{ .Date.Format "2006-01-02" }}</time>
+            </div>
+            {{ if .Summary }}
+            <p class="content-summary">{{ .Summary }}</p>
+            <footer class="post-footer">
+              <a href="{{ .RelPermalink }}" class="read-more">read more →</a>
+            </footer>
+            {{ end }}
+          </div>
+        </div>
       </article>
       {{ end }}
     </div>
     <div class="vim-status-line">
       <span class="status-mode">NORMAL</span>
+      <a href="/index.xml" target="_blank" class="status-mode rss-mode">RSS</a>
       <span class="status-file">~/blog</span>
       <div class="status-spacer"></div>
       <span class="status-position">{{ len .Pages }} posts</span>

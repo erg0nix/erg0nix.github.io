@@ -42,7 +42,7 @@ document.addEventListener('DOMContentLoaded', function() {
 
     pageItems.forEach(item => {
       const article = document.createElement('article');
-      article.className = 'feed-item';
+      article.className = 'content-item';
 
       let metaHtml = '';
       if (item.published) {
@@ -54,14 +54,14 @@ document.addEventListener('DOMContentLoaded', function() {
       }
 
       article.innerHTML = `
-        <div class="feed-item-content">
-          ${item.image ? `<div class="feed-item-image">
+        <div class="content-item-content">
+          ${item.image ? `<div class="content-item-image">
             <img src="${item.image}" alt="${item.title}" loading="lazy">
           </div>` : ''}
-          <div class="feed-item-text">
+          <div class="content-item-text">
             <h2><a href="${item.link}" target="_blank" rel="noopener">${item.title}</a></h2>
-            <div class="feed-item-meta">${metaHtml}</div>
-            ${item.summary ? `<p class="feed-summary">${item.summary}</p>` : ''}
+            <div class="content-item-meta">${metaHtml}</div>
+            ${item.summary ? `<p class="content-summary">${item.summary}</p>` : ''}
           </div>
         </div>
       `;
