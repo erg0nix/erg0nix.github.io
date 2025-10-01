@@ -1,0 +1,540 @@
+/* ===== BASE STYLES ===== */
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: 'Courier New', monospace;
+  margin: 0;
+  background-color: #16213e !important;
+  background: #16213e;
+  background: -webkit-linear-gradient(315deg, #0a0a0a 0%, #1a1a2e 25%, #16213e 50%, #0f3460 75%, #0a0a0a 100%);
+  background: linear-gradient(135deg, #0a0a0a 0%, #1a1a2e 25%, #16213e 50%, #0f3460 75%, #0a0a0a 100%);
+  background-size: 400% 400%;
+  -webkit-animation: gradient 15s ease infinite;
+  animation: gradient 15s ease infinite;
+  color: #c9d1d9;
+  font-size: 16px;
+  line-height: 1.6;
+  position: relative;
+  overflow-x: hidden;
+}
+
+/* Weather effects - will be dynamically set by season */
+body::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100vh;
+  background-repeat: repeat;
+  opacity: 0.15;
+  pointer-events: none;
+  z-index: -1;
+}
+
+/* Disable the big background gradient animation when weather is active */
+html[class*="weather-"] body {
+  animation: none;
+}
+
+/* ===== KEYFRAMES ===== */
+@-webkit-keyframes gradient {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+@keyframes gradient {
+  0% { background-position: 0% 50%; }
+  50% { background-position: 100% 50%; }
+  100% { background-position: 0% 50%; }
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}
+
+/* ===== LAYOUT ===== */
+.layout {
+  display: flex;
+  min-height: 100vh;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+.sidebar {
+  width: 280px;
+  padding: 0px 20px 20px 20px;
+  position: static;
+  height: auto;
+}
+
+.content {
+  width: 720px;
+  flex: 1;
+}
+
+/* ===== PROFILE SECTION ===== */
+.profile {
+  display: flex;
+  align-items: flex-start;
+  gap: 15px;
+  margin-bottom: 20px;
+}
+
+.profile-text h1 {
+  margin: 0 0 10px 0;
+  font-size: 18px;
+}
+
+.avatar {
+  width: 48px;
+  height: 48px;
+  image-rendering: pixelated;
+  image-rendering: -moz-crisp-edges;
+  image-rendering: crisp-edges;
+  flex-shrink: 0;
+  margin-top: 5px;
+}
+
+.profile h1 a {
+  color: #58a6ff;
+  text-decoration: none;
+}
+
+.profile h1 a:hover {
+  text-decoration: underline;
+}
+
+.status {
+  color: #7c3aed;
+  font-size: 12px;
+  margin-bottom: 20px;
+}
+
+.status-indicator {
+  color: #3fb950;
+  animation: pulse 2s infinite;
+}
+
+/* ===== NAVIGATION ===== */
+.nav {
+  display: flex;
+  flex-direction: column;
+  gap: 2px;
+  margin-bottom: 20px;
+}
+
+.nav h3 {
+  color: #f0f6fc;
+  font-size: 12px;
+  margin: 0 0 10px 0;
+  text-transform: uppercase;
+}
+
+.nav a {
+  color: #8b949e;
+  text-decoration: none;
+  padding: 3px 0;
+  font-size: 13px;
+}
+
+.nav a:hover {
+  color: #58a6ff;
+}
+
+/* ===== SYSTEM INFO ===== */
+.info {
+  padding-top: 10px;
+}
+
+.info h3 {
+  color: #f0f6fc;
+  font-size: 12px;
+  margin: 0 0 10px 0;
+  text-transform: uppercase;
+}
+
+.info p {
+  margin: 5px 0;
+  font-size: 12px;
+  color: #8b949e;
+}
+
+/* ===== SEASONAL IMAGE ===== */
+.seasonal-image {
+  margin-top: 20px;
+  padding-top: 20px;
+}
+
+.seasonal-image img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  border-radius: 8px;
+  border: 1px solid #30363d;
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.seasonal-image img:hover {
+  transform: translateY(-2px);
+  box-shadow: 0 6px 12px rgba(0, 0, 0, 0.4);
+}
+
+/* ===== TYPOGRAPHY ===== */
+h1, h2, h3 {
+  color: #f0f6fc;
+}
+
+a {
+  color: #58a6ff;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* ===== CONTENT SECTIONS ===== */
+.about h1 {
+  margin-top: 0;
+  margin-bottom: 5px;
+}
+
+.subtitle {
+  color: #8b949e;
+  display: block;
+  margin-bottom: 30px;
+}
+
+.blog-list h1,
+.blog-post h1 {
+  margin-top: 0;
+}
+
+.post-item {
+  margin-bottom: 30px;
+  padding-bottom: 20px;
+}
+
+.post-item h2 {
+  margin: 0 0 5px 0;
+  font-size: 18px;
+}
+
+.post-item time {
+  color: #8b949e;
+  font-size: 12px;
+}
+
+.post-header {
+  margin-bottom: 30px;
+}
+
+.post-header time {
+  color: #8b949e;
+  font-size: 12px;
+}
+
+.post-footer {
+  margin-top: 40px;
+  padding-top: 20px;
+}
+
+.read-more {
+  font-size: 12px;
+  display: inline-block;
+  margin-top: 10px;
+}
+
+.breadcrumb {
+  margin: 0 0 20px 0;
+}
+
+/* ===== POSTS HEADER ===== */
+.posts-header {
+  display: flex;
+  align-items: baseline;
+  gap: 15px;
+}
+
+.posts-header h1,
+.posts-header h2 {
+  margin: 0;
+}
+
+.rss-button {
+  background: linear-gradient(135deg, #ff8800 0%, #ff6600 100%);
+  color: #fff;
+  padding: 2px 12px;
+  border-radius: 12px;
+  text-decoration: none;
+  font-size: 12px;
+  font-weight: bold;
+  text-transform: uppercase;
+  transition: all 0.2s ease;
+  letter-spacing: 0.5px;
+}
+
+.rss-button:hover {
+  background: linear-gradient(135deg, #ffaa22 0%, #e55a00 100%);
+  color: #fff;
+}
+
+/* ===== CONTACT & SOCIAL ===== */
+
+.contact h2 {
+  margin: 0;
+  margin-bottom: 10px;
+  font-size: 16px;
+}
+
+.socials {
+  display: flex;
+  gap: 15px;
+}
+
+.socials a {
+  display: flex;
+  align-items: center;
+  gap: 6px;
+  text-decoration: none;
+}
+
+.socials svg {
+  flex-shrink: 0;
+}
+
+/* ===== RECENT POSTS ===== */
+
+.recent-posts h2 {
+  font-size: 16px;
+}
+
+.post-link {
+  padding: 8px 0;
+}
+
+.post-link time {
+  color: #8b949e;
+  font-size: 12px;
+  margin-left: 10px;
+}
+
+/* ===== SECTIONS ===== */
+.section h1 {
+  margin-top: 0;
+}
+
+.section h2 {
+  font-size: 14px;
+  text-transform: uppercase;
+  margin: 30px 0 20px 0;
+}
+
+.section h2:first-of-type {
+  margin-top: 20px;
+}
+
+.section p strong {
+  font-size: 16px;
+}
+
+.section p em {
+  color: #8b949e;
+  font-size: 12px;
+  font-style: normal;
+}
+
+.section p {
+  margin: 0 0 20px 0;
+}
+
+/* ===== BOOKMARKS ===== */
+.bookmark-grid {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: 40px;
+  margin-top: 30px;
+}
+
+.bookmark-col h2 {
+  font-size: 14px;
+  text-transform: uppercase;
+  margin: 0 0 15px 0;
+}
+
+.bookmark-col h2:not(:first-child) {
+  margin-top: 30px;
+}
+
+.bookmark-col ul {
+  margin: 0 0 30px 0;
+  padding: 0;
+  list-style: none;
+}
+
+.bookmark-col li {
+  margin-bottom: 8px;
+}
+
+/* ===== ERROR PAGE ===== */
+.error-page {
+  text-align: center;
+  padding: 60px 20px;
+}
+
+.error-page h1 {
+  font-size: 72px;
+  margin: 0 0 20px 0;
+  color: #f85149;
+}
+
+.error-page p {
+  font-size: 16px;
+  margin: 0 0 15px 0;
+}
+
+.error-nav {
+  margin-top: 40px;
+  display: flex;
+  gap: 20px;
+  justify-content: center;
+}
+
+.error-nav a {
+  padding: 8px 16px;
+  text-decoration: none;
+}
+
+/* ===== CODE BLOCKS ===== */
+pre {
+  background: #21262d;
+  border: 1px solid #30363d;
+  border-radius: 6px;
+  padding: 16px;
+  overflow-x: auto;
+  font-family: 'Courier New', monospace;
+  font-size: 13px;
+  line-height: 1.45;
+  margin: 16px 0;
+}
+
+code {
+  font-family: 'Courier New', monospace;
+  font-size: 13px;
+  background: #21262d;
+  padding: 2px 4px;
+  border-radius: 3px;
+  color: #f0f6fc;
+}
+
+pre code {
+  background: none;
+  padding: 0;
+  border-radius: 0;
+  font-size: 13px;
+}
+
+/* ===== MOBILE NAVIGATION (HIDDEN ON DESKTOP) ===== */
+.mobile-nav,
+.mobile-info {
+  display: none;
+}
+
+/* ===== WEATHER EFFECTS (Base styles) ===== */
+/* Weather effects are now defined in individual weather partials */
+
+/* ===== MOBILE RESPONSIVE ===== */
+@media (max-width: 768px) {
+  .layout {
+    flex-direction: column;
+  }
+
+  .sidebar {
+    display: none;
+  }
+
+  .content {
+    width: 100%;
+  }
+
+  .home h1 {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-top: 0;
+  }
+
+  .home h1::after {
+    content: "";
+    background: url("/avatar.png") no-repeat center;
+    background-size: contain;
+    width: 48px;
+    height: 48px;
+    image-rendering: pixelated;
+    image-rendering: -moz-crisp-edges;
+    image-rendering: crisp-edges;
+    margin-top: 5px;
+  }
+
+  .mobile-nav {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 20px;
+    padding: 10px 20px;
+    flex-wrap: wrap;
+      margin-bottom: 10px;
+      line-height: 1;
+  }
+
+  .mobile-nav a {
+    color: #8b949e;
+    text-decoration: none;
+    font-size: 13px;
+  }
+
+  .mobile-nav a:hover {
+    color: #58a6ff;
+  }
+
+  .mobile-home {
+    color: #58a6ff !important;
+    font-size: 18px !important;
+    font-weight: normal !important;
+  }
+
+  .mobile-home:hover {
+    text-decoration: underline !important;
+  }
+
+  .mobile-info {
+    display: block;
+    margin-top: 40px;
+    padding-top: 20px;
+    border-top: 1px solid #30363d;
+  }
+
+  .mobile-info h3 {
+    color: #f0f6fc;
+    font-size: 12px;
+    margin: 0 0 10px 0;
+    text-transform: uppercase;
+  }
+
+  .mobile-info p {
+    margin: 5px 0;
+    font-size: 12px;
+    color: #8b949e;
+  }
+
+  .bookmark-grid {
+    grid-template-columns: 1fr;
+    gap: 20px;
+  }
+}

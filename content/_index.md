@@ -13,6 +13,3 @@ I play tennis and can throw a javelin. love indie games and occasionally triple 
 at work I do kotlin with ktor. at home I write golang and python, dabbling in rust for cli tools. 
 
 I use arch on my desktop, mac laptop at work. most of my side projects are private on github, but check out the public ones.
-
-<img src="/halloween-festival.gif" alt="Halloween Festival" style="max-width: 100%; height: auto;" />
-

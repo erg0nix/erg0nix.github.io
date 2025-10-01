@@ -9,7 +9,7 @@
     height: 200dvh;
     width: 100%;
     pointer-events: none;
-    z-index: 0;
+    z-index: -2;
     background-repeat: repeat;
     will-change: transform;
     contain: paint;
@@ -86,4 +86,81 @@
     .leaves-layer, .leaf { animation: none !important; display: none !important; }
   }
 </style>
+
+<!-- Falling leaves layer for autumn -->
+<div class="leaves-layer" aria-hidden="true"></div>
+
+<script>
+  // Falling leaves for autumn
+  (function () {
+    const EMOJIS = ["🍂","🍁","🍃"];
+    let layer = null;
+    let intervalId = null;
+
+    function rand(min, max) { return Math.random() * (max - min) + min; }
+    function pick(arr) { return arr[(Math.random() * arr.length) | 0]; }
+
+    function makeLeaf() {
+      if (!layer) return;
+      const MAX_ONSCREEN = 16;
+      if (layer.childElementCount > MAX_ONSCREEN) return;
+
+      const el = document.createElement("span");
+      el.className = "leaf";
+      el.textContent = pick(EMOJIS);
+
+      const size = rand(14, 28);
+      const xStart = rand(0, 100);
+      const amp = rand(12, 36);
+      const drift = rand(-80, 120);
+      const fall = rand(9, 16);
+      const delay = rand(0, 4);
+      const opacity = rand(0.6, 1);
+
+      el.style.setProperty("--size", `${size}px`);
+      el.style.setProperty("--xStart", `${xStart}vw`);
+      el.style.setProperty("--amp", `${amp}px`);
+      el.style.setProperty("--drift", `${drift}px`);
+      el.style.setProperty("--fall", `${fall}s`);
+      el.style.setProperty("--delay", `${delay}s`);
+      el.style.setProperty("--opacity", opacity.toFixed(2));
+      el.style.left = `calc(${xStart}vw - ${size/2}px)`;
+
+      el.addEventListener("animationend", () => el.remove(), { once: true });
+      layer.appendChild(el);
+    }
+
+    function startLeaves() {
+      layer = document.querySelector(".leaves-layer");
+      if (!layer) return;
+      if (intervalId) return;
+      intervalId = setInterval(() => {
+        if (Math.random() < 0.7) makeLeaf();
+      }, 600);
+    }
+
+    function stopLeaves() {
+      if (intervalId) clearInterval(intervalId);
+      intervalId = null;
+      if (layer) layer.innerHTML = "";
+    }
+
+    function checkLeaves() {
+      const html = document.documentElement;
+      if (html.classList.contains("weather-rain")) {
+        startLeaves();
+      } else {
+        stopLeaves();
+      }
+    }
+
+    // Watch for season changes
+    const obs = new MutationObserver(checkLeaves);
+    obs.observe(document.documentElement, { attributes: true, attributeFilter: ["class"] });
+    checkLeaves(); // Initial check
+
+    window.startLeaves = startLeaves;
+    window.stopLeaves = stopLeaves;
+  })();
+</script>
 
