@@ -2,57 +2,95 @@
 <html lang="{{ .Site.LanguageCode }}">
 {{ partial "head.html" . }}
 <body>
-  <div class="layout">
-    <nav class="mobile-nav">
-      <a href="/">~/home</a>
-      <a href="/projects">~/projects</a>
-      <a href="/blog">~/blog</a>
-      <a href="/feed">~/feed</a>
-      <a href="/bookmarks">~/bookmarks</a>
-      <a href="https://erg0nix.atabook.org/" target="_blank" rel="noopener">~/guestbook</a>
-    </nav>
+  <header class="main-header">
+    <a href="/" class="site-title">ERG0NIX.DEV</a>
+  </header>
+
+  <div class="site-container">
     <aside class="sidebar">
-      <section class="profile">
-        <div class="profile-text">
-          <h1><a href="/">{{ .Site.Title }}</a></h1>
-          <div class="status">
-            <span class="status-indicator">●</span> online
+      <section class="terminal-window">
+        <div class="window-header">
+          <span class="window-title">profile</span>
+          <div class="window-controls">• • •</div>
+        </div>
+        <div class="window-content">
+          <div class="profile-info">
+            <div class="profile-text">
+              <h2><a href="/">{{ .Site.Title }}</a></h2>
+              <div class="status">
+                <span class="status-indicator">●</span> online
+              </div>
+            </div>
+            <img src="/avatar.png" alt="avatar" class="avatar">
           </div>
         </div>
-        <img src="/avatar.png" alt="avatar" class="avatar">
       </section>
 
-      <nav class="nav">
-        <h3>navigation</h3>
-        <a href="/projects">~/projects</a>
-        <a href="/blog">~/blog</a>
-        <a href="/feed">~/feed</a>
-        <a href="/bookmarks">~/bookmarks</a>
-        <a href="https://erg0nix.atabook.org/" target="_blank" rel="noopener">~/guestbook</a>
+      <nav class="terminal-window">
+        <div class="window-header">
+          <span class="window-title">navigation</span>
+          <div class="window-controls">● ● ●</div>
+        </div>
+        <div class="window-content">
+          <div class="nav-links">
+            <a href="/projects">~/projects</a>
+            <a href="/blog">~/blog</a>
+            <a href="/feed">~/feed</a>
+            <a href="/bookmarks">~/bookmarks</a>
+            <a href="https://erg0nix.atabook.org/" target="_blank" rel="noopener">~/guestbook</a>
+          </div>
+        </div>
       </nav>
 
-      <section class="info">
-        <h3>system info</h3>
-        <p>location: earth norway</p>
-        <p>shell: zsh but fish seem nice</p>
-        <p>editor: neovim</p>
-        <p>core: melted</p>
-        <p>uptime: {{ now.Format "2006" }} - present</p>
+      <section class="terminal-window">
+        <div class="window-header">
+          <span class="window-title">system info</span>
+          <div class="window-controls">■ ● ▲</div>
+        </div>
+        <div class="window-content">
+          <ul class="system-list">
+            <li>location: earth norway</li>
+            <li>shell: zsh but fish seem nice</li>
+            <li>editor: neovim</li>
+            <li>core: melted</li>
+            <li>uptime: {{ now.Format "2006" }} - present</li>
+          </ul>
+        </div>
       </section>
-
     </aside>
-    
-    <main class="content">
+
+    <main class="main-content">
+      {{ if or .IsHome (eq .Kind "section") }}
       {{ block "main" . }}{{ end }}
-      
-      <div class="mobile-info">
-        <h3>system info</h3>
-        <p>location: earth norway</p>
-        <p>shell: zsh but fish seem nice</p>
-        <p>editor: neovim</p>
-        <p>core: melted</p>
-        <p>uptime: {{ now.Format "2006" }} - present</p>
-      </div>
+      {{ else }}
+      <article class="page-content terminal-window">
+        <div class="window-header">
+          <span class="window-title">{{ .Title | default "~" }}</span>
+          <div class="window-controls">● ● ●</div>
+        </div>
+        <div class="window-content main-window-content">
+          {{ block "main" . }}{{ end }}
+          <div class="vim-status-line">
+            <span class="status-mode">NORMAL</span>
+            <span class="status-file">{{ .Title | default "~" }}</span>
+            <div class="status-spacer"></div>
+            <span class="status-position">{{ .Page.WordCount }} words</span>
+            <div class="status-cursor"></div>
+          </div>
+        </div>
+      </article>
+      {{ end }}
+
+      <footer class="mobile-footer">
+        <section class="mobile-system-info">
+          <h3>system info</h3>
+          <p>location: earth norway</p>
+          <p>shell: zsh but fish seem nice</p>
+          <p>editor: neovim</p>
+          <p>core: melted</p>
+          <p>uptime: {{ now.Format "2006" }} - present</p>
+        </section>
+      </footer>
     </main>
   </div>
 </body>

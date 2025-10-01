@@ -1,17 +1,17 @@
 {{ define "main" }}
 <article class="blog-post">
   <header class="post-header">
+    <nav class="breadcrumb"><a href="/blog">← back</a></nav>
     <h1>{{ .Title }}</h1>
-    <p class="breadcrumb"><a href="/blog">← back</a></p>
     <time>{{ .Date.Format "2006-01-02" }}</time>
   </header>
-  
+
   <div class="post-content">
     {{ .Content }}
   </div>
-  
+
   <footer class="post-footer">
-    <a href="/blog">← back to blog</a>
+    <nav><a href="/blog">← back to blog</a></nav>
   </footer>
 </article>
 {{ end }}
