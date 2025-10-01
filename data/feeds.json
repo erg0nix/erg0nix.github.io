@@ -1,6 +1,47 @@
 {
-  "generated_at": "2025-09-30T06:33:53.616488Z",
+  "generated_at": "2025-10-01T06:33:27.673665Z",
   "items": [
+    {
+      "id": "f764d037e86d787cae1aef16bb81faf593bfa05d",
+      "title": "– Fjernarbeid fungerer, helt til vi skal løse problemer sammen",
+      "link": "https://www.kode24.no/artikkel/fjernarbeid-fungerer-helt-til-vi-skal-lose-problemer-sammen/246395",
+      "source": "Kode24",
+      "summary": "– I 2025 har vi fortsatt ikke teknologi tilgjengelig som lar oss snakke naturlig sammen over nett, skriver Vegard Iglebæk og Nils Arve Sandberg.",
+      "published": "2025-10-01T03:00:00Z"
+    },
+    {
+      "id": "273c9b020e34791dd0e4cae9ea940471ca3b38e2",
+      "title": "Spec-driven development: Using Markdown as a programming language when building with AI",
+      "link": "https://github.blog/ai-and-ml/generative-ai/spec-driven-development-using-markdown-as-a-programming-language-when-building-with-ai/",
+      "source": "GitHub Blog",
+      "summary": "I coded my latest app entirely in Markdown and let GitHub Copilot compile it into Go. This resulted in cleaner specs, faster iteration, and no more context loss. ✨ The post Spec-driven development: Using Markdown as a programming language when building with AI appeared first on The GitHub Blog.",
+      "published": "2025-09-30T19:07:46Z",
+      "image": "https://github.blog/wp-content/uploads/2025/09/image-2.png?resize=1024%2C516"
+    },
+    {
+      "id": "88a9560e8692cd1b06e93ff62ba76bf0b10c7725",
+      "title": "Claude Sonet 4.5 er lansert",
+      "link": "https://www.kode24.no/artikkel/claude-sonet-45-er-lansert/246388",
+      "source": "Kode24",
+      "summary": "Hevder det skal være den beste kodemodellen i verden. Men ikke alle er enig.",
+      "published": "2025-09-30T11:01:19Z"
+    },
+    {
+      "id": "1ee58bbd1bcb91a59becdfc9a1487005ff4d7797",
+      "title": "Utviklere raser mot Vercel-sjefen etter Netanyahu-selfie",
+      "link": "https://www.kode24.no/artikkel/utviklere-raser-mot-vercel-sjefen-etter-netanyahu-selfie/246411",
+      "source": "Kode24",
+      "summary": "– Likte diskusjonen min med statsminister Netanyahu, skrev CEO i Vercel, Guillermo Rauch. Det gjorde ikke alle andre.",
+      "published": "2025-09-30T09:36:41Z"
+    },
+    {
+      "id": "6036e3b1dd57a1a3e44048b3d85b02aabe7f6cdb",
+      "title": "YouTube betaler 220 millioner til Trump",
+      "link": "https://www.kode24.no/artikkel/youtube-betaler-220-millioner-til-trump/246398",
+      "source": "Kode24",
+      "summary": "Donald Trump gikk til sak fordi kontoen ble sperret etter stormingen av Kongressen.",
+      "published": "2025-09-30T07:48:34Z"
+    },
     {
       "id": "5de1c77669e4ceda14dae0fa0f3384978b55364c",
       "title": "Skremt av AI-optimismen: «Går kaldt nedover ryggen min»",
@@ -172,14 +213,6 @@
       "published": "2025-09-25T02:55:00Z"
     },
     {
-      "id": "617447f31f7e368dc6abe4b38289c8540b33df69",
-      "title": "Tromsø til ChatGPT: «Vær prosjekt­leder!»",
-      "link": "https://www.kode24.no/artikkel/tromso-til-chatgpt-vaer-prosjektleder/246035",
-      "source": "Kode24",
-      "summary": "Chatloggene viser nøyaktig hva Tromsø kommune bak AI-en om.",
-      "published": "2025-09-25T02:50:00Z"
-    },
-    {
       "id": "5d69085d1a21e09dfdf61b8264791b4239080c19",
       "title": "GitHub Copilot gets smarter at finding your code: Inside our new embedding model",
       "link": "https://github.blog/news-insights/product-news/copilot-new-embedding-model-vs-code/",
@@ -195,30 +228,6 @@
       "source": "GitHub Blog",
       "summary": "With the help of GitHub, UNHCR turned drone imagery into maps — helping refugees in Kakuma and Kalobeyei build sustainable, powered communities. The post Using AI to map hope for refugees with UNHCR, the UN Refugee Agency appeared first on The GitHub Blog.",
       "published": "2025-09-24T16:12:47Z"
-    },
-    {
-      "id": "fcbae356e4f3bedfe8ae1ded5e516afb4b2339b0",
-      "title": "Få kontroll på package.json",
-      "link": "https://www.kode24.no/artikkel/fa-kontroll-pa-packagejson/245991",
-      "source": "Kode24",
-      "summary": "Middleware i React Router, tips for å takle avhengigheter, automatisk valg av modell i VS Code og retningslinjer for web-grensesnitt i ukas ForrigeUke.",
-      "published": "2025-09-24T10:36:52Z"
-    },
-    {
-      "id": "46cfa91a3bfee96bd4728f7e6bd37fefd50f55d1",
-      "title": "AI-koding på mobil flopper",
-      "link": "https://www.kode24.no/artikkel/ai-koding-pa-mobil-flopper/245963",
-      "source": "Kode24",
-      "summary": "Ingen vibbekoding-apper på mobilen har suksess.",
-      "published": "2025-09-24T08:35:04Z"
-    },
-    {
-      "id": "898bb9d2ee1be6204935598d74bcca1d3e2467a3",
-      "title": "Stor økning i nordmenns AI-bruk",
-      "link": "https://www.kode24.no/artikkel/stor-okning-i-nordmenns-ai-bruk/245979",
-      "source": "Kode24",
-      "summary": "8 av 10 nordmenn mellom 16 og 24 år har brukt AI-tjenester den siste tida.",
-      "published": "2025-09-24T08:30:00Z"
     },
     {
       "id": "1999547054673d7529b5218853b03e51fced3e2c",
@@ -245,15 +254,6 @@
       "summary": "Our commitment is to empower every developer and stay true to our north star by building an open, secure, and AI-powered platform that defines the future of software development. The post Gartner positions GitHub as a Leader in the 2025 Magic Quadrant for AI Code Assistants for the second year in a...",
       "published": "2025-09-22T18:24:17Z",
       "image": "https://github.blog/wp-content/uploads/2025/09/MQ.png?resize=937%2C1024"
-    },
-    {
-      "id": "14fb16a0f2e8274e7180d7c46f0b1ee465e01dab",
-      "title": "What’s next for Git? 20 years in, the community is still pushing forward",
-      "link": "https://github.blog/open-source/whats-next-for-git-20-years-in-the-community-is-still-pushing-forward/",
-      "source": "GitHub Blog",
-      "summary": "Git Merge 2025 isn’t just about celebrating 20 years of Git - it’s about what comes next. In this post, we’re highlighting some of the talks and speakers shaping Git’s future, from performance wins and new backends to surprising use cases and the impact of AI coding agents. The post What’s next for...",
-      "published": "2025-09-22T16:33:00Z",
-      "image": "https://github.blog/wp-content/uploads/2025/09/git-first-commit.png?resize=1024%2C216"
     },
     {
       "id": "b5b3e74991c32c3b5cbe7cf03a7a338e26edb205",
