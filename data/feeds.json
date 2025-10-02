@@ -1,6 +1,46 @@
 {
-  "generated_at": "2025-10-01T06:33:27.673665Z",
+  "generated_at": "2025-10-02T06:32:12.395542Z",
   "items": [
+    {
+      "id": "22100374109e95dc1d3cd18d5eea35a06d3db583",
+      "title": "Hver femte utvikler tvinges på kontoret",
+      "link": "https://www.kode24.no/artikkel/hver-femte-utvikler-tvinges-pa-kontoret/246007",
+      "source": "Kode24",
+      "summary": "Hjemmekontor-andelen holder seg ganske stabil, men ikke alle får det som de vil. – Kan få uheldige konsekvenser, advarer STAMI-forsker.",
+      "published": "2025-10-02T03:00:00Z"
+    },
+    {
+      "id": "8c62531ca47ce798198df63aaab8b09f88910942",
+      "title": "Chrome DevTools MCP: «Lekende lett!»",
+      "link": "https://www.kode24.no/artikkel/chrome-devtools-mcp-lekende-lett/246525",
+      "source": "Kode24",
+      "summary": "Chrome DevTools MCP gir helt nye AI-muligheter, mens emojier skaper tilgjengelighets-trøbbel, i ukas ForrigeUke.",
+      "published": "2025-10-01T11:06:42Z"
+    },
+    {
+      "id": "5ba697a50ceeff4a27be52f58b8a8892a9cd5fb3",
+      "title": "7 av 10 nord­menn vil ha strenge AI-lover",
+      "link": "https://www.kode24.no/artikkel/7-av-10-nordmenn-vil-ha-strenge-ai-lover/246513",
+      "source": "Kode24",
+      "summary": "– Undersøkelsen viser at nordmenn oppfatter KI som et kraftig verktøy, som kan være nyttig, men som også innebærer en risiko, sier Nkom.",
+      "published": "2025-10-01T09:04:26Z"
+    },
+    {
+      "id": "5f0dfb23c3c396e0c29aadc4227d1f27d10d0a11",
+      "title": "– AI er ikke juks, snarvei eller erstatning for utviklere",
+      "link": "https://www.kode24.no/artikkel/ai-er-ikke-juks-snarvei-eller-erstatning-for-utviklere/246465",
+      "source": "Kode24",
+      "summary": "– De som avfeier det hele fordi de har sett skranglete vibbekoding på sosiale medier, retter kritikken i feil retning, skriver Christian Hjellestad, som gjør \"vibe engineering\".",
+      "published": "2025-10-01T08:30:51Z"
+    },
+    {
+      "id": "41773d169a397212bb2324b004e07531bbd825c9",
+      "title": "OpenAI lanserer Sora 2: AI-videoer med lyd, fysikk og deepfakes",
+      "link": "https://www.kode24.no/artikkel/openai-lanserer-sora-2-ai-videoer-med-lyd-fysikk-og-deepfakes/246472",
+      "source": "Kode24",
+      "summary": "Det er mulig en formulering ala «Gud hjelpe oss alle» er på sin plass.",
+      "published": "2025-10-01T07:27:15Z"
+    },
     {
       "id": "f764d037e86d787cae1aef16bb81faf593bfa05d",
       "title": "– Fjernarbeid fungerer, helt til vi skal løse problemer sammen",
@@ -171,46 +211,6 @@
       "source": "GitHub Blog",
       "summary": "Learn what it really takes to sustain one of the web’s most widely used frameworks on this episode of the GitHub Podcast. The post Building beyond the browser: Keeley Hammond on Electron, open source, and the future of maintainership appeared first on The GitHub Blog.",
       "published": "2025-09-25T17:05:48Z"
-    },
-    {
-      "id": "bf5660e7204e3cb8ea2bca2b4e9b0d071aad3d14",
-      "title": "Hver fjerde nordmann tar sjanser på nett",
-      "link": "https://www.kode24.no/artikkel/hver-fjerde-nordmann-tar-sjanser-pa-nett/246094",
-      "source": "Kode24",
-      "summary": "– Flere unge tar risiko, fordi de er trygge, noen ganger for trygge, på egen kunnskap, sier NorSIS om den nye rapporten.",
-      "published": "2025-09-25T12:08:14Z"
-    },
-    {
-      "id": "d5fc16a93d09ca53c5b00ca0d5862ac84e8f34a5",
-      "title": "Rekordstort DDoS-angrep, fra 404.000 rutere og TV-bokser",
-      "link": "https://www.kode24.no/artikkel/rekordstort-ddos-angrep-fra-404000-rutere-og-tv-bokser/246062",
-      "source": "Kode24",
-      "summary": "Cloudflare stoppa et rekordstort angrep mot europeisk infrastruktur.",
-      "published": "2025-09-25T10:12:00Z"
-    },
-    {
-      "id": "0d988c56f2aba8130966941c8d75a173258c20df",
-      "title": "Her er kode24s nye journalister: «Superstas!»",
-      "link": "https://www.kode24.no/artikkel/her-er-kode24s-nye-journalister-superstas/246064",
-      "source": "Kode24",
-      "summary": "kode24 ansetter Silje Rognsvåg (38) og Heather Eliassen (32). – Med disse stjernesigneringene skal vi løfte journalistikken vår.",
-      "published": "2025-09-25T08:39:02Z"
-    },
-    {
-      "id": "00e4c86ea958dab610c1a3150c99b160c3f5adfe",
-      "title": "Lovspeilet.no viser deg hva politikerne gjør, med usynlig AI",
-      "link": "https://www.kode24.no/artikkel/lovspeiletno-viser-deg-hva-politikerne-gjor-med-usynlig-ai/245789",
-      "source": "Kode24",
-      "summary": "– AI har et enormt potensial som usynlig infrastruktur, skriver Sigve Røkenes.",
-      "published": "2025-09-25T03:00:00Z"
-    },
-    {
-      "id": "ae5eb01aa255c80b057d25bc2a593e9e26888a1c",
-      "title": "Massiv AI-skepsis blant norske folk",
-      "link": "https://www.kode24.no/artikkel/massiv-ai-skepsis-blant-norske-folk/246050",
-      "source": "Kode24",
-      "summary": "– Det er en stor bekymring for teknologiens negative konsekvenser, sier forsker Dag Slettemeås ved Sifo.",
-      "published": "2025-09-25T02:55:00Z"
     },
     {
       "id": "5d69085d1a21e09dfdf61b8264791b4239080c19",
