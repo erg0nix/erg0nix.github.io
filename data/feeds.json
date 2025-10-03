@@ -1,6 +1,54 @@
 {
-  "generated_at": "2025-10-02T06:32:12.395542Z",
+  "generated_at": "2025-10-03T06:31:51.947098Z",
   "items": [
+    {
+      "id": "c911e79f683cbf3cf6eee1ddc7693cb1e53be6b3",
+      "title": "– Kode­maskiner er de første som ryker",
+      "link": "https://www.kode24.no/artikkel/kodemaskiner-er-de-forste-som-ryker/246646",
+      "source": "Kode24",
+      "summary": "– Sjefen din kan kjøpe mye billigere kodemaskiner enn deg, skriver Ole Petter, og advarer mot hjemmekontor-ekstremisme.",
+      "published": "2025-10-03T03:00:00Z"
+    },
+    {
+      "id": "0d50552c97126b9a90a772ca464897907b482e90",
+      "title": "How we automated accessibility compliance in five hours with GitHub Copilot",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-we-automated-accessibility-compliance-in-five-hours-with-github-copilot/",
+      "source": "GitHub Blog",
+      "summary": "See how we turned weekly accessibility grade signals into an automated, accountable remediation workflow—powered by GitHub Copilot and cross‑functional collaboration. The post How we automated accessibility compliance in five hours with GitHub Copilot appeared first on The GitHub Blog.",
+      "published": "2025-10-02T19:19:14Z"
+    },
+    {
+      "id": "4db5c5f49a5be6f07ddfcbe693a737a3a865efee",
+      "title": "Funcom nedbemanner",
+      "link": "https://www.kode24.no/artikkel/funcom-nedbemanner/246632",
+      "source": "Kode24",
+      "summary": "Selskapet har ikke opplyst hvor mange ansatte som vil bli sagt opp.",
+      "published": "2025-10-02T09:23:50Z"
+    },
+    {
+      "id": "ae058bf2fee6e86a63e861105c51f9b22acfb09c",
+      "title": "Micro-frontends og web-komponenter skapte kaos",
+      "link": "https://www.kode24.no/artikkel/micro-frontends-og-web-komponenter-skapte-kaos/245960",
+      "source": "Kode24",
+      "summary": "Designsystemet til Statnett skapte konflikter, men Mathias Eek fant løsningen i syntaks-treet. – Kanskje svaret på ditt neste store problem ligger skjult der, også.",
+      "published": "2025-10-02T08:48:25Z"
+    },
+    {
+      "id": "33018b54a3cc91b30303378c652539d7f781e30d",
+      "title": "Hva skjer med kode24-timen?",
+      "link": "https://www.kode24.no/artikkel/hva-skjer-med-kode24-timen/246567",
+      "source": "Kode24",
+      "summary": "Vi vet ikke helt! Men vil gjerne ha innspill.",
+      "published": "2025-10-02T07:26:10Z"
+    },
+    {
+      "id": "9a8b35793eaa6c3123f72ec92ddd8830542ad4bf",
+      "title": "Oracle-sjefen tar kontroll over stadig flere medier i USA",
+      "link": "https://www.kode24.no/artikkel/oracle-sjefen-tar-kontroll-over-stadig-flere-medier-i-usa/246581",
+      "source": "Kode24",
+      "summary": "Larry Ellison og sønnen er nå i ferd med å ta kontroll over et Trump-vennlig medieimperium som inkluderer CBS, Paramount, Warner, CNN og deler av Tiktok.",
+      "published": "2025-10-02T06:40:00Z"
+    },
     {
       "id": "22100374109e95dc1d3cd18d5eea35a06d3db583",
       "title": "Hver femte utvikler tvinges på kontoret",
@@ -140,14 +188,6 @@
       "published": "2025-09-29T03:00:00Z"
     },
     {
-      "id": "624fe66f0f0913b224bcd74ffe1b71e74bc61035",
-      "title": "Her er nye Raspberry Pi 500+",
-      "link": "https://www.kode24.no/artikkel/her-er-nye-raspberry-pi-500/246232",
-      "source": "Kode24",
-      "summary": "AI-bobla sprekker, nye Raspberry Pi imponerer og gamle dataspill er selvfølgelig bedre, i ukas Lørdagsgodt.",
-      "published": "2025-09-27T03:00:00Z"
-    },
-    {
       "id": "12cb6d25557b383c3518677a0d539eac3bc42195",
       "title": "How GitHub protects developers from copyright enforcement overreach",
       "link": "https://github.blog/news-insights/policy-news-and-insights/how-github-protects-developers-from-copyright-enforcement-overreach/",
@@ -162,38 +202,6 @@
       "source": "GitHub Blog",
       "summary": "For this year’s Cybersecurity Awareness Month, GitHub’s Bug Bounty team is excited to offer some additional incentives to security researchers! The post Kicking off Cybersecurity Awareness Month 2025: Researcher spotlights and enhanced incentives appeared first on The GitHub Blog.",
       "published": "2025-09-26T15:00:00Z"
-    },
-    {
-      "id": "7c3b96f49a8a90211b85f1baca93c065608a5dd4",
-      "title": "Ragnhild (28) til Knowit: «Imponerte oss fra første stund»",
-      "link": "https://www.kode24.no/artikkel/ragnhild-28-til-knowit-imponerte-oss-fra-forste-stund/246204",
-      "source": "Kode24",
-      "summary": "Ragnhild Bratli skilter med «energi, utstråling og solid kunnskap».",
-      "published": "2025-09-26T10:54:25Z"
-    },
-    {
-      "id": "bd216addab72bba967bd9b5bd99766c8dc3ddfe2",
-      "title": "Cloudflare lanserer epost-tjeneste for utviklere",
-      "link": "https://www.kode24.no/artikkel/cloudflare-lanserer-epost-tjeneste-for-utviklere/246136",
-      "source": "Kode24",
-      "summary": "Sier det er et smertepunkt for mange utviklere i dag, og hevder deres løsning er bedre integrert i utviklerflyten.",
-      "published": "2025-09-26T09:04:24Z"
-    },
-    {
-      "id": "002ce231e308bfd21463ae533990d0ba925dd39f",
-      "title": "Tise vil ikke si hva eBay-oppkjøp betyr for de ansatte",
-      "link": "https://www.kode24.no/artikkel/tise-vil-ikke-si-hva-ebay-oppkjop-betyr-for-de-ansatte/246124",
-      "source": "Kode24",
-      "summary": "– Vi forventer flere forbedringer fremover, drevet av eBays globale ekspertise, sier gründer Eirik Frøyland Rime.",
-      "published": "2025-09-26T07:15:20Z"
-    },
-    {
-      "id": "90ad5b91db3bba4c0f1464a08543ce4606a24ed3",
-      "title": "1 av 4 menn synes det prates for mye om kvinner",
-      "link": "https://www.kode24.no/artikkel/1-av-4-menn-synes-det-prates-for-mye-om-kvinner/246089",
-      "source": "Kode24",
-      "summary": "– Det er vanskelig for majoriteten å sette seg inn i minoriteten. Det ser vi også i våre siste tall, skriver Ole Petter i ukas nyhetsbrev.",
-      "published": "2025-09-26T03:00:00Z"
     },
     {
       "id": "57ecc16f936f3b31542341b521c5c27fb57352ab",
@@ -245,15 +253,6 @@
       "source": "GitHub Blog",
       "summary": "Addressing a surge in package registry attacks, GitHub is strengthening npm's security with stricter authentication, granular tokens, and enhanced trusted publishing to restore trust in the open source ecosystem. The post Our plan for a more secure npm supply chain appeared first on The GitHub Blog.",
       "published": "2025-09-23T00:29:50Z"
-    },
-    {
-      "id": "d1f7afe99079b1479c8a0475c429fbdbfa9d839d",
-      "title": "Gartner positions GitHub as a Leader in the 2025 Magic Quadrant for AI Code Assistants for the second year in a row",
-      "link": "https://github.blog/ai-and-ml/github-copilot/gartner-positions-github-as-a-leader-in-the-2025-magic-quadrant-for-ai-code-assistants-for-the-second-year-in-a-row/",
-      "source": "GitHub Blog",
-      "summary": "Our commitment is to empower every developer and stay true to our north star by building an open, secure, and AI-powered platform that defines the future of software development. The post Gartner positions GitHub as a Leader in the 2025 Magic Quadrant for AI Code Assistants for the second year in a...",
-      "published": "2025-09-22T18:24:17Z",
-      "image": "https://github.blog/wp-content/uploads/2025/09/MQ.png?resize=937%2C1024"
     },
     {
       "id": "b5b3e74991c32c3b5cbe7cf03a7a338e26edb205",
