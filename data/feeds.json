@@ -1,6 +1,38 @@
 {
-  "generated_at": "2025-10-03T06:31:51.947098Z",
+  "generated_at": "2025-10-04T06:29:40.955471Z",
   "items": [
+    {
+      "id": "281db79ceeaf34943fcc1e04139049bdd594b08e",
+      "title": "Se en iPhone Air bli skåret opp, brent og maltraktert",
+      "link": "https://www.kode24.no/artikkel/se-en-iphone-air-bli-skaret-opp-brent-og-maltraktert/246735",
+      "source": "Kode24",
+      "summary": "Inni den nye iPhone-en, årets jule-AT-AT-Lego, nødladeren for storm eller krig og UFO-er i helgas Lørdagsgodt.",
+      "published": "2025-10-04T03:00:00Z"
+    },
+    {
+      "id": "180304228389522413eb5cb773bc9227c1d46767",
+      "title": "Demo Time: Kjør presenta­sjoner rett fra VS Code",
+      "link": "https://www.kode24.no/artikkel/demo-time-kjor-presentasjoner-rett-fra-vs-code/244105",
+      "source": "Kode24",
+      "summary": "Å nei, du har blitt bedt om å holde en presentasjon! Ta det med ro – med Demo Time kan du droppe PowerPoint og heller kjøre presentasjoner direkte fra VS Code.",
+      "published": "2025-10-03T09:43:26Z"
+    },
+    {
+      "id": "ddd16b03da6ce1c586382233fab1fbca0b5e82c2",
+      "title": "19-åring tilstod alt overfor ChatGPT",
+      "link": "https://www.kode24.no/artikkel/19-aring-tilstod-alt-overfor-chatgpt/246694",
+      "source": "Kode24",
+      "summary": "\"How fucked am i bro\" spurte amerikaneren etter å ha ramponert masse biler.",
+      "published": "2025-10-03T07:54:37Z"
+    },
+    {
+      "id": "edd3d2c5cb5534139831e22d7dba2ab26b5e0cb7",
+      "title": "Mange bekymret over 15-årsgrense for sosiale medier",
+      "link": "https://www.kode24.no/artikkel/mange-bekymret-over-15-arsgrense-for-sosiale-medier/246678",
+      "source": "Kode24",
+      "summary": "Har fått et ras av høringssvar, blant annet bekymringer rundt personvernet fra Datatilsynet.",
+      "published": "2025-10-03T06:20:44Z"
+    },
     {
       "id": "c911e79f683cbf3cf6eee1ddc7693cb1e53be6b3",
       "title": "– Kode­maskiner er de første som ryker",
@@ -8,14 +40,6 @@
       "source": "Kode24",
       "summary": "– Sjefen din kan kjøpe mye billigere kodemaskiner enn deg, skriver Ole Petter, og advarer mot hjemmekontor-ekstremisme.",
       "published": "2025-10-03T03:00:00Z"
-    },
-    {
-      "id": "0d50552c97126b9a90a772ca464897907b482e90",
-      "title": "How we automated accessibility compliance in five hours with GitHub Copilot",
-      "link": "https://github.blog/ai-and-ml/github-copilot/how-we-automated-accessibility-compliance-in-five-hours-with-github-copilot/",
-      "source": "GitHub Blog",
-      "summary": "See how we turned weekly accessibility grade signals into an automated, accountable remediation workflow—powered by GitHub Copilot and cross‑functional collaboration. The post How we automated accessibility compliance in five hours with GitHub Copilot appeared first on The GitHub Blog.",
-      "published": "2025-10-02T19:19:14Z"
     },
     {
       "id": "4db5c5f49a5be6f07ddfcbe693a737a3a865efee",
@@ -156,38 +180,6 @@
       "published": "2025-09-29T12:26:42Z"
     },
     {
-      "id": "5e496a63b1475687f765e115605c7e538c589ca5",
-      "title": "To fra Kongsberg til STACQ: – Høy kompetanse, høy lønn",
-      "link": "https://www.kode24.no/artikkel/to-fra-kongsberg-til-stacq-hoy-kompetanse-hoy-lonn/246325",
-      "source": "Kode24",
-      "summary": "Trine Ødegård Olsen og Lars Rudolfsen er nye embedded-konsulenter hos STACQ.",
-      "published": "2025-09-29T12:10:37Z"
-    },
-    {
-      "id": "a0c419ba587a42fd2bb641e1456faa543bf5165a",
-      "title": "Se promptene bak Lovable, Cursor, Windsurf",
-      "link": "https://www.kode24.no/artikkel/se-promptene-bak-lovable-cursor-windsurf/246244",
-      "source": "Kode24",
-      "summary": "GitHub-repoet \"System Prompts and Models of AI Tools\" avslører hemmelighetene.",
-      "published": "2025-09-29T08:03:31Z"
-    },
-    {
-      "id": "5918079ea4562e98debeafc6fc1a9e3afc40a006",
-      "title": "Nordmenn får utvida støtte for Windows 10",
-      "link": "https://www.kode24.no/artikkel/nordmenn-far-utvida-stotte-for-windows-10/246282",
-      "source": "Kode24",
-      "summary": "EU/EØS sørga for at Microsoft fjerna krav om betaling.",
-      "published": "2025-09-29T07:30:00Z"
-    },
-    {
-      "id": "13a3360774eb7246397827878380983ab6a99a5a",
-      "title": "Ruter på iOS 26: «Når Apple tar valg, må man forholde seg til det»",
-      "link": "https://www.kode24.no/artikkel/ruter-pa-ios-26-nar-apple-tar-valg-ma-man-forholde-seg-til-det/246138",
-      "source": "Kode24",
-      "summary": "– Man må balansere det man får fra plattformen med Ruters visuelle virkemidler og personlighet, skriver Petter Klingen Wright om overgangen.",
-      "published": "2025-09-29T03:00:00Z"
-    },
-    {
       "id": "12cb6d25557b383c3518677a0d539eac3bc42195",
       "title": "How GitHub protects developers from copyright enforcement overreach",
       "link": "https://github.blog/news-insights/policy-news-and-insights/how-github-protects-developers-from-copyright-enforcement-overreach/",
@@ -253,6 +245,15 @@
       "source": "GitHub Blog",
       "summary": "Addressing a surge in package registry attacks, GitHub is strengthening npm's security with stricter authentication, granular tokens, and enhanced trusted publishing to restore trust in the open source ecosystem. The post Our plan for a more secure npm supply chain appeared first on The GitHub Blog.",
       "published": "2025-09-23T00:29:50Z"
+    },
+    {
+      "id": "d1f7afe99079b1479c8a0475c429fbdbfa9d839d",
+      "title": "Gartner positions GitHub as a Leader in the 2025 Magic Quadrant for AI Code Assistants for the second year in a row",
+      "link": "https://github.blog/ai-and-ml/github-copilot/gartner-positions-github-as-a-leader-in-the-2025-magic-quadrant-for-ai-code-assistants-for-the-second-year-in-a-row/",
+      "source": "GitHub Blog",
+      "summary": "Our commitment is to empower every developer and stay true to our north star by building an open, secure, and AI-powered platform that defines the future of software development. The post Gartner positions GitHub as a Leader in the 2025 Magic Quadrant for AI Code Assistants for the second year in a...",
+      "published": "2025-09-22T18:24:17Z",
+      "image": "https://github.blog/wp-content/uploads/2025/09/MQ.png?resize=937%2C1024"
     },
     {
       "id": "b5b3e74991c32c3b5cbe7cf03a7a338e26edb205",
