@@ -1,6 +1,14 @@
 {
-  "generated_at": "2025-10-05T06:29:25.506538Z",
+  "generated_at": "2025-10-06T06:33:57.927628Z",
   "items": [
+    {
+      "id": "c5f01582f9f97b687c493e1647c81062a67895ed",
+      "title": "Frustrert av AI-press på jobb: «Kata­strofe som venter på å skje»",
+      "link": "https://www.kode24.no/artikkel/frustrert-av-ai-press-pa-jobb-katastrofe-som-venter-pa-a-skje/246710",
+      "source": "Kode24",
+      "summary": "– Det finnes ikke den oppgave som ikke skal løses med en språkmodell. Men som utvikler, vet jeg jo at dette er regelrett tull.",
+      "published": "2025-10-06T03:00:00Z"
+    },
     {
       "id": "281db79ceeaf34943fcc1e04139049bdd594b08e",
       "title": "Se en iPhone Air bli skåret opp, brent og maltraktert",
@@ -170,14 +178,6 @@
       "summary": "Learn to debug and fix your CodeQL queries. The post CodeQL zero to hero part 5: Debugging queries appeared first on The GitHub Blog.",
       "published": "2025-09-29T15:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2025/09/image1_7a2639.png?resize=982%2C210"
-    },
-    {
-      "id": "6fea5f2431a590592eb04133900dbcf38111f230",
-      "title": "kode24 med ny forside",
-      "link": "https://www.kode24.no/artikkel/kode24-med-ny-forside/246270",
-      "source": "Kode24",
-      "summary": "Ser du noen feil? Meld fra her!",
-      "published": "2025-09-29T12:26:42Z"
     },
     {
       "id": "12cb6d25557b383c3518677a0d539eac3bc42195",
