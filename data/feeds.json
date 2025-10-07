@@ -1,6 +1,39 @@
 {
-  "generated_at": "2025-10-06T06:33:57.927628Z",
+  "generated_at": "2025-10-07T06:32:50.337433Z",
   "items": [
+    {
+      "id": "c6a1ce41386214812363746cd2c8ddaad4f2de54",
+      "title": "Ber NRK kutte Microsoft, Google, Amazon",
+      "link": "https://www.kode24.no/artikkel/ber-nrk-kutte-microsoft-google-amazon/246776",
+      "source": "Kode24",
+      "summary": "NTL NRK ber lederne følge egne etiske regler. – Det er veldig mange grunner til at NRKs valg av leverandører er viktig, mener Henrik Seip.",
+      "published": "2025-10-07T03:00:00Z"
+    },
+    {
+      "id": "2c47fb88a071500a3e3e5f47a11836f2e1265d2a",
+      "title": "The developer role is evolving. Here’s how to stay ahead.",
+      "link": "https://github.blog/ai-and-ml/the-developer-role-is-evolving-heres-how-to-stay-ahead/",
+      "source": "GitHub Blog",
+      "summary": "AI is changing how software gets built. Explore the skills you need to keep up and stand out. The post The developer role is evolving. Here’s how to stay ahead. appeared first on The GitHub Blog.",
+      "published": "2025-10-06T20:12:49Z",
+      "image": "https://github.blog/wp-content/uploads/2025/10/image1.png?resize=1024%2C538"
+    },
+    {
+      "id": "e1ab976ecfc1700bb4b7dd6c959d7a91133d35fc",
+      "title": "Delta Consulting ansetter tre seniorer: – Ser stadig større etterspørsel",
+      "link": "https://www.kode24.no/artikkel/delta-consulting-ansetter-tre-seniorer-ser-stadig-storre-ettersporsel/246667",
+      "source": "Kode24",
+      "summary": "Chris André Forberg, Andreas Rodtwitt og Marius Haugen har ny jobb.",
+      "published": "2025-10-06T13:00:11Z"
+    },
+    {
+      "id": "ca4721567c8e552049a928ea90cd012db6db6a73",
+      "title": "Microsoft bremser samarbeid med Israel",
+      "link": "https://www.kode24.no/artikkel/microsoft-bremser-samarbeid-med-israel/246754",
+      "source": "Kode24",
+      "summary": "– Vi tilbyr ikke teknologi for å legge til rette for masseovervåking av sivile.",
+      "published": "2025-10-06T07:18:17Z"
+    },
     {
       "id": "c5f01582f9f97b687c493e1647c81062a67895ed",
       "title": "Frustrert av AI-press på jobb: «Kata­strofe som venter på å skje»",
@@ -147,30 +180,6 @@
       "published": "2025-09-30T11:01:19Z"
     },
     {
-      "id": "1ee58bbd1bcb91a59becdfc9a1487005ff4d7797",
-      "title": "Utviklere raser mot Vercel-sjefen etter Netanyahu-selfie",
-      "link": "https://www.kode24.no/artikkel/utviklere-raser-mot-vercel-sjefen-etter-netanyahu-selfie/246411",
-      "source": "Kode24",
-      "summary": "– Likte diskusjonen min med statsminister Netanyahu, skrev CEO i Vercel, Guillermo Rauch. Det gjorde ikke alle andre.",
-      "published": "2025-09-30T09:36:41Z"
-    },
-    {
-      "id": "6036e3b1dd57a1a3e44048b3d85b02aabe7f6cdb",
-      "title": "YouTube betaler 220 millioner til Trump",
-      "link": "https://www.kode24.no/artikkel/youtube-betaler-220-millioner-til-trump/246398",
-      "source": "Kode24",
-      "summary": "Donald Trump gikk til sak fordi kontoen ble sperret etter stormingen av Kongressen.",
-      "published": "2025-09-30T07:48:34Z"
-    },
-    {
-      "id": "5de1c77669e4ceda14dae0fa0f3384978b55364c",
-      "title": "Skremt av AI-optimismen: «Går kaldt nedover ryggen min»",
-      "link": "https://www.kode24.no/artikkel/skremt-av-ai-optimismen-gar-kaldt-nedover-ryggen-min/246300",
-      "source": "Kode24",
-      "summary": "– Jeg savner diskusjoner blant utviklere om hva vi nå står ovenfor, skriver Arja Sivapiragasam.",
-      "published": "2025-09-30T03:00:00Z"
-    },
-    {
       "id": "1e8f752a074b631c7ed81a5dc0a661285058a844",
       "title": "CodeQL zero to hero part 5: Debugging queries",
       "link": "https://github.blog/security/vulnerability-research/codeql-zero-to-hero-part-5-debugging-queries/",
@@ -245,15 +254,6 @@
       "source": "GitHub Blog",
       "summary": "Addressing a surge in package registry attacks, GitHub is strengthening npm's security with stricter authentication, granular tokens, and enhanced trusted publishing to restore trust in the open source ecosystem. The post Our plan for a more secure npm supply chain appeared first on The GitHub Blog.",
       "published": "2025-09-23T00:29:50Z"
-    },
-    {
-      "id": "d1f7afe99079b1479c8a0475c429fbdbfa9d839d",
-      "title": "Gartner positions GitHub as a Leader in the 2025 Magic Quadrant for AI Code Assistants for the second year in a row",
-      "link": "https://github.blog/ai-and-ml/github-copilot/gartner-positions-github-as-a-leader-in-the-2025-magic-quadrant-for-ai-code-assistants-for-the-second-year-in-a-row/",
-      "source": "GitHub Blog",
-      "summary": "Our commitment is to empower every developer and stay true to our north star by building an open, secure, and AI-powered platform that defines the future of software development. The post Gartner positions GitHub as a Leader in the 2025 Magic Quadrant for AI Code Assistants for the second year in a...",
-      "published": "2025-09-22T18:24:17Z",
-      "image": "https://github.blog/wp-content/uploads/2025/09/MQ.png?resize=937%2C1024"
     },
     {
       "id": "b5b3e74991c32c3b5cbe7cf03a7a338e26edb205",
