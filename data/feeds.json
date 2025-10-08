@@ -1,6 +1,62 @@
 {
-  "generated_at": "2025-10-07T06:32:50.337433Z",
+  "generated_at": "2025-10-08T06:33:43.152825Z",
   "items": [
+    {
+      "id": "2404bd22090c6f4a4a1b1c047e35ad0955b8d910",
+      "title": "– Rollen som code monkey er død",
+      "link": "https://www.kode24.no/artikkel/rollen-som-code-monkey-er-dod/246912",
+      "source": "Kode24",
+      "summary": "– Jeg tror vi må endre hvordan vi kommuniserer og tenker på det vi gjør, skriver Anders Njøs Slinde om AI-inntoget.",
+      "published": "2025-10-08T03:00:00Z"
+    },
+    {
+      "id": "0d50552c97126b9a90a772ca464897907b482e90",
+      "title": "How GitHub Copilot enabled accessibility governance process improvements in record time",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-we-automated-accessibility-compliance-in-five-hours-with-github-copilot/",
+      "source": "GitHub Blog",
+      "summary": "See how we turned weekly accessibility grade signals into an automated, accountable remediation workflow—powered by GitHub Copilot and cross‑functional collaboration. The post How GitHub Copilot enabled accessibility governance process improvements in record time appeared first on The GitHub Blog.",
+      "published": "2025-10-07T17:00:00Z"
+    },
+    {
+      "id": "b16558be2de9016f0a238797c68b6e942350f348",
+      "title": "How a top bug bounty researcher got their start in security",
+      "link": "https://github.blog/security/how-a-top-bug-bounty-researcher-got-their-start-in-security/",
+      "source": "GitHub Blog",
+      "summary": "For this year’s Cybersecurity Awareness Month, the GitHub Bug Bounty team is excited to feature another spotlight on a talented security researcher — @xiridium! The post How a top bug bounty researcher got their start in security appeared first on The GitHub Blog.",
+      "published": "2025-10-07T16:00:00Z"
+    },
+    {
+      "id": "c1c09d18d1d8ba8c9a5530fef3cd9340658e43f4",
+      "title": "De 3 største nyhetene fra React-lanseringen",
+      "link": "https://www.kode24.no/artikkel/de-3-storste-nyhetene-fra-react-lanseringen/246887",
+      "source": "Kode24",
+      "summary": "Sånn bruker du Reacts nye Activity-komponent, useEffectEvent og Performance Tracks.",
+      "published": "2025-10-07T11:46:28Z"
+    },
+    {
+      "id": "da57067908cc5e89f281870df60d8e90e9da148d",
+      "title": "Tar ned skoleskyss-system etter etisk hack",
+      "link": "https://www.kode24.no/artikkel/tar-ned-skoleskyss-system-etter-etisk-hack/246856",
+      "source": "Kode24",
+      "summary": "Fødsels- og personnummer til skoleelever i Nordland kan ha ligget åpent for andre.",
+      "published": "2025-10-07T10:25:40Z"
+    },
+    {
+      "id": "84d2c2db32e2bb35e5f2a9509926a94cf731f4e0",
+      "title": "ChatGPT lanserer apper – men ikke for nordmenn",
+      "link": "https://www.kode24.no/artikkel/chatgpt-lanserer-apper-men-ikke-for-nordmenn/246845",
+      "source": "Kode24",
+      "summary": "OpenAI ber utviklere hive seg på nyheten, men lar deg ikke rulle ut appene eller la nordmenn bruke dem ennå.",
+      "published": "2025-10-07T08:04:06Z"
+    },
+    {
+      "id": "5aac461b4bd5e3620e4c96f81fbb3e4b5251de2f",
+      "title": "Google tapte mot Epic i høyesterett",
+      "link": "https://www.kode24.no/artikkel/google-tapte-mot-epic-i-hoyesterett/246835",
+      "source": "Kode24",
+      "summary": "Fikk ikke gjennomslag for å slippe endringer i appbutikken etter Fortnite-krangelen.",
+      "published": "2025-10-07T06:27:08Z"
+    },
     {
       "id": "c6a1ce41386214812363746cd2c8ddaad4f2de54",
       "title": "Ber NRK kutte Microsoft, Google, Amazon",
@@ -131,38 +187,6 @@
       "published": "2025-10-01T11:06:42Z"
     },
     {
-      "id": "5ba697a50ceeff4a27be52f58b8a8892a9cd5fb3",
-      "title": "7 av 10 nord­menn vil ha strenge AI-lover",
-      "link": "https://www.kode24.no/artikkel/7-av-10-nordmenn-vil-ha-strenge-ai-lover/246513",
-      "source": "Kode24",
-      "summary": "– Undersøkelsen viser at nordmenn oppfatter KI som et kraftig verktøy, som kan være nyttig, men som også innebærer en risiko, sier Nkom.",
-      "published": "2025-10-01T09:04:26Z"
-    },
-    {
-      "id": "5f0dfb23c3c396e0c29aadc4227d1f27d10d0a11",
-      "title": "– AI er ikke juks, snarvei eller erstatning for utviklere",
-      "link": "https://www.kode24.no/artikkel/ai-er-ikke-juks-snarvei-eller-erstatning-for-utviklere/246465",
-      "source": "Kode24",
-      "summary": "– De som avfeier det hele fordi de har sett skranglete vibbekoding på sosiale medier, retter kritikken i feil retning, skriver Christian Hjellestad, som gjør \"vibe engineering\".",
-      "published": "2025-10-01T08:30:51Z"
-    },
-    {
-      "id": "41773d169a397212bb2324b004e07531bbd825c9",
-      "title": "OpenAI lanserer Sora 2: AI-videoer med lyd, fysikk og deepfakes",
-      "link": "https://www.kode24.no/artikkel/openai-lanserer-sora-2-ai-videoer-med-lyd-fysikk-og-deepfakes/246472",
-      "source": "Kode24",
-      "summary": "Det er mulig en formulering ala «Gud hjelpe oss alle» er på sin plass.",
-      "published": "2025-10-01T07:27:15Z"
-    },
-    {
-      "id": "f764d037e86d787cae1aef16bb81faf593bfa05d",
-      "title": "– Fjernarbeid fungerer, helt til vi skal løse problemer sammen",
-      "link": "https://www.kode24.no/artikkel/fjernarbeid-fungerer-helt-til-vi-skal-lose-problemer-sammen/246395",
-      "source": "Kode24",
-      "summary": "– I 2025 har vi fortsatt ikke teknologi tilgjengelig som lar oss snakke naturlig sammen over nett, skriver Vegard Iglebæk og Nils Arve Sandberg.",
-      "published": "2025-10-01T03:00:00Z"
-    },
-    {
       "id": "273c9b020e34791dd0e4cae9ea940471ca3b38e2",
       "title": "Spec-driven development: Using Markdown as a programming language when building with AI",
       "link": "https://github.blog/ai-and-ml/generative-ai/spec-driven-development-using-markdown-as-a-programming-language-when-building-with-ai/",
@@ -170,14 +194,6 @@
       "summary": "I coded my latest app entirely in Markdown and let GitHub Copilot compile it into Go. This resulted in cleaner specs, faster iteration, and no more context loss. ✨ The post Spec-driven development: Using Markdown as a programming language when building with AI appeared first on The GitHub Blog.",
       "published": "2025-09-30T19:07:46Z",
       "image": "https://github.blog/wp-content/uploads/2025/09/image-2.png?resize=1024%2C516"
-    },
-    {
-      "id": "88a9560e8692cd1b06e93ff62ba76bf0b10c7725",
-      "title": "Claude Sonet 4.5 er lansert",
-      "link": "https://www.kode24.no/artikkel/claude-sonet-45-er-lansert/246388",
-      "source": "Kode24",
-      "summary": "Hevder det skal være den beste kodemodellen i verden. Men ikke alle er enig.",
-      "published": "2025-09-30T11:01:19Z"
     },
     {
       "id": "1e8f752a074b631c7ed81a5dc0a661285058a844",
@@ -237,23 +253,6 @@
       "source": "GitHub Blog",
       "summary": "With the help of GitHub, UNHCR turned drone imagery into maps — helping refugees in Kakuma and Kalobeyei build sustainable, powered communities. The post Using AI to map hope for refugees with UNHCR, the UN Refugee Agency appeared first on The GitHub Blog.",
       "published": "2025-09-24T16:12:47Z"
-    },
-    {
-      "id": "1999547054673d7529b5218853b03e51fced3e2c",
-      "title": "A step-by-step guide to modernizing Java projects with GitHub Copilot agent mode",
-      "link": "https://github.blog/ai-and-ml/github-copilot/a-step-by-step-guide-to-modernizing-java-projects-with-github-copilot-agent-mode/",
-      "source": "GitHub Blog",
-      "summary": "Learn how to use GitHub Copilot agent mode to modernize legacy Java projects with guided upgrades, automated fixes, and cloud-ready migrations. The post A step-by-step guide to modernizing Java projects with GitHub Copilot agent mode appeared first on The GitHub Blog.",
-      "published": "2025-09-23T13:00:00Z",
-      "image": "https://github.blog/wp-content/uploads/2025/09/flow-chart.png?resize=1024%2C495"
-    },
-    {
-      "id": "49a3c8e656d5b39d9c1c8ebd3cf4b9030e0862c8",
-      "title": "Our plan for a more secure npm supply chain",
-      "link": "https://github.blog/security/supply-chain-security/our-plan-for-a-more-secure-npm-supply-chain/",
-      "source": "GitHub Blog",
-      "summary": "Addressing a surge in package registry attacks, GitHub is strengthening npm's security with stricter authentication, granular tokens, and enhanced trusted publishing to restore trust in the open source ecosystem. The post Our plan for a more secure npm supply chain appeared first on The GitHub Blog.",
-      "published": "2025-09-23T00:29:50Z"
     },
     {
       "id": "b5b3e74991c32c3b5cbe7cf03a7a338e26edb205",
