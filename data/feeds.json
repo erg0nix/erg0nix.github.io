@@ -1,6 +1,47 @@
 {
-  "generated_at": "2025-10-08T06:33:43.152825Z",
+  "generated_at": "2025-10-09T06:34:01.876085Z",
   "items": [
+    {
+      "id": "ef31c0e932b5233d76445965e09d117609877031",
+      "title": "– Vi utdanner stadig flere inn i arbeids­ledighet",
+      "link": "https://www.kode24.no/artikkel/vi-utdanner-stadig-flere-inn-i-arbeidsledighet/246812",
+      "source": "Kode24",
+      "summary": "Etter 200 avslag lager Miriam Moe heller sin egen app. – For meg ble det en mer meningsfull søknad enn de 200 jeg sendte.",
+      "published": "2025-10-09T03:00:00Z"
+    },
+    {
+      "id": "df302e6e5d888fcc37022ea4226330b2661199aa",
+      "title": "GitHub Availability Report: September 2025",
+      "link": "https://github.blog/news-insights/company-news/github-availability-report-september-2025/",
+      "source": "GitHub Blog",
+      "summary": "In September, we experienced three incidents that resulted in degraded performance across GitHub services. The post GitHub Availability Report: September 2025 appeared first on The GitHub Blog.",
+      "published": "2025-10-09T02:19:28Z"
+    },
+    {
+      "id": "aeff330eb9fc52608689aac90a657cf7d486fbfe",
+      "title": "Completing urgent fixes anywhere with GitHub Copilot coding agent and mobile",
+      "link": "https://github.blog/developer-skills/github/completing-urgent-fixes-anywhere-with-github-copilot-coding-agent-and-mobile/",
+      "source": "GitHub Blog",
+      "summary": "Unlock the full potential of the GitHub platform. See how Copilot coding agent and GitHub Mobile combine to help you tackle development tasks and urgent fixes, no matter where you are. The post Completing urgent fixes anywhere with GitHub Copilot coding agent and mobile appeared first on The GitHub...",
+      "published": "2025-10-08T16:00:00Z",
+      "image": "https://github.blog/wp-content/uploads/2025/10/01-copilot-pr-fix.jpeg?resize=472%2C1024"
+    },
+    {
+      "id": "9cc7662fd84afde7d73f3c0181f211da5b451017",
+      "title": "Nye React Foundation skiller React fra Meta",
+      "link": "https://www.kode24.no/artikkel/nye-react-foundation-skiller-react-fra-meta/246978",
+      "source": "Kode24",
+      "summary": "– Overgangen til et nøytralt hjem er det naturlige neste steget, mener Linux Foundation, som får ansvaret sammen med blant annet, nettopp, Meta.",
+      "published": "2025-10-08T11:37:34Z"
+    },
+    {
+      "id": "89b5a5c1b2943d836737a08a324a73853dd9b21f",
+      "title": "AI-generert musikk spilles på norsk radio",
+      "link": "https://www.kode24.no/artikkel/ai-generert-musikk-spilles-pa-norsk-radio/246795",
+      "source": "Kode24",
+      "summary": "Radio Haugaland spiller AI-musikk, mens Tono ønsker flere rettssaker: – Vi er opptatt av at det kommer noen dommer snart.",
+      "published": "2025-10-08T08:49:20Z"
+    },
     {
       "id": "2404bd22090c6f4a4a1b1c047e35ad0955b8d910",
       "title": "– Rollen som code monkey er død",
@@ -163,30 +204,6 @@
       "published": "2025-10-02T07:26:10Z"
     },
     {
-      "id": "9a8b35793eaa6c3123f72ec92ddd8830542ad4bf",
-      "title": "Oracle-sjefen tar kontroll over stadig flere medier i USA",
-      "link": "https://www.kode24.no/artikkel/oracle-sjefen-tar-kontroll-over-stadig-flere-medier-i-usa/246581",
-      "source": "Kode24",
-      "summary": "Larry Ellison og sønnen er nå i ferd med å ta kontroll over et Trump-vennlig medieimperium som inkluderer CBS, Paramount, Warner, CNN og deler av Tiktok.",
-      "published": "2025-10-02T06:40:00Z"
-    },
-    {
-      "id": "22100374109e95dc1d3cd18d5eea35a06d3db583",
-      "title": "Hver femte utvikler tvinges på kontoret",
-      "link": "https://www.kode24.no/artikkel/hver-femte-utvikler-tvinges-pa-kontoret/246007",
-      "source": "Kode24",
-      "summary": "Hjemmekontor-andelen holder seg ganske stabil, men ikke alle får det som de vil. – Kan få uheldige konsekvenser, advarer STAMI-forsker.",
-      "published": "2025-10-02T03:00:00Z"
-    },
-    {
-      "id": "8c62531ca47ce798198df63aaab8b09f88910942",
-      "title": "Chrome DevTools MCP: «Lekende lett!»",
-      "link": "https://www.kode24.no/artikkel/chrome-devtools-mcp-lekende-lett/246525",
-      "source": "Kode24",
-      "summary": "Chrome DevTools MCP gir helt nye AI-muligheter, mens emojier skaper tilgjengelighets-trøbbel, i ukas ForrigeUke.",
-      "published": "2025-10-01T11:06:42Z"
-    },
-    {
       "id": "273c9b020e34791dd0e4cae9ea940471ca3b38e2",
       "title": "Spec-driven development: Using Markdown as a programming language when building with AI",
       "link": "https://github.blog/ai-and-ml/generative-ai/spec-driven-development-using-markdown-as-a-programming-language-when-building-with-ai/",
@@ -236,23 +253,6 @@
       "source": "GitHub Blog",
       "summary": "Learn what it really takes to sustain one of the web’s most widely used frameworks on this episode of the GitHub Podcast. The post Building beyond the browser: Keeley Hammond on Electron, open source, and the future of maintainership appeared first on The GitHub Blog.",
       "published": "2025-09-25T17:05:48Z"
-    },
-    {
-      "id": "5d69085d1a21e09dfdf61b8264791b4239080c19",
-      "title": "GitHub Copilot gets smarter at finding your code: Inside our new embedding model",
-      "link": "https://github.blog/news-insights/product-news/copilot-new-embedding-model-vs-code/",
-      "source": "GitHub Blog",
-      "summary": "Learn about a new Copilot embedding model that makes code search in VS Code faster, lighter on memory, and far more accurate. The post GitHub Copilot gets smarter at finding your code: Inside our new embedding model appeared first on The GitHub Blog.",
-      "published": "2025-09-24T20:24:18Z",
-      "image": "https://github.blog/wp-content/uploads/2025/09/All_1200x630-1.png?resize=1024%2C538"
-    },
-    {
-      "id": "66c2ecb6cd2fd29de98c563d24bd1d228f06bbff",
-      "title": "Using AI to map hope for refugees with UNHCR, the UN Refugee Agency",
-      "link": "https://github.blog/open-source/social-impact/using-ai-to-map-hope-for-refugees-with-unhcr-the-un-refugee-agency/",
-      "source": "GitHub Blog",
-      "summary": "With the help of GitHub, UNHCR turned drone imagery into maps — helping refugees in Kakuma and Kalobeyei build sustainable, powered communities. The post Using AI to map hope for refugees with UNHCR, the UN Refugee Agency appeared first on The GitHub Blog.",
-      "published": "2025-09-24T16:12:47Z"
     },
     {
       "id": "b5b3e74991c32c3b5cbe7cf03a7a338e26edb205",
