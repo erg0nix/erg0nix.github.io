@@ -1,6 +1,47 @@
 {
-  "generated_at": "2025-10-09T06:34:01.876085Z",
+  "generated_at": "2025-10-10T06:33:14.272992Z",
   "items": [
+    {
+      "id": "6bf9da38bf38b303ca286e6680b8418500c643a7",
+      "title": "– Greit! Nå skriver vi KI, ikke AI",
+      "link": "https://www.kode24.no/artikkel/greit-na-skriver-vi-ki-ikke-ai/247046",
+      "source": "Kode24",
+      "summary": "– Jeg gir meg. Jeg snur. Framover skriver vi KI, ikke AI, skriver Ole Petter i ukas nyhetsbrev.",
+      "published": "2025-10-10T03:00:00Z"
+    },
+    {
+      "id": "7c7428ac27d452cec0ff9ab171551b5c35f3b57e",
+      "title": "70.000 rammet av lekkasje hos Discord",
+      "link": "https://www.kode24.no/artikkel/70000-rammet-av-lekkasje-hos-discord/247023",
+      "source": "Kode24",
+      "summary": "70.000 Discord-brukere kan ha fått det nasjonale ID-bildet sitt lekket.",
+      "published": "2025-10-09T10:59:05Z"
+    },
+    {
+      "id": "35c5b53a2381dd281c0b575e0b6229457a9d2503",
+      "title": "Derfor utvikler de egen plattform: «DevOps er ikke død»",
+      "link": "https://www.kode24.no/artikkel/derfor-utvikler-de-egen-plattform-devops-er-ikke-dod/246934",
+      "source": "Kode24",
+      "summary": "– Platform Engineering er en investering, skriver plattform-utvikler Didrik Finnøy i Bulder, som mener de er helt avhengig av den.",
+      "published": "2025-10-09T09:38:02Z"
+    },
+    {
+      "id": "e0515ee9f869502d18ff2caf92972c3efb3ff883",
+      "title": "20 Years of Git, 2 days at GitHub HQ: Git Merge 2025 highlights 🎉",
+      "link": "https://github.blog/open-source/git/20-years-of-git-2-days-at-github-hq-git-merge-2025-highlights/",
+      "source": "GitHub Blog",
+      "summary": "Git Merge 2025 celebrated 20 years of Git with talks, collaboration, and community. Catch the highlights and recordings. The post 20 Years of Git, 2 days at GitHub HQ: Git Merge 2025 highlights 🎉 appeared first on The GitHub Blog.",
+      "published": "2025-10-09T08:00:00Z",
+      "image": "https://github.blog/wp-content/uploads/2025/10/gitmerge2.png?resize=1600%2C1200"
+    },
+    {
+      "id": "f3cd505dccaaf3cf6a697cc330d0dd6c885995a8",
+      "title": "Mener aldersgrense på sosiale medier bryter EØS-avtalen",
+      "link": "https://www.kode24.no/artikkel/mener-aldersgrense-pa-sosiale-medier-bryter-eos-avtalen/246998",
+      "source": "Kode24",
+      "summary": "– Forslaget bør legges i en skuff, skuffen låses og nøkkelen kastes, mener EØS-ekspert Stian Øby Johansen, melder Rett24.",
+      "published": "2025-10-09T06:20:01Z"
+    },
     {
       "id": "ef31c0e932b5233d76445965e09d117609877031",
       "title": "– Vi utdanner stadig flere inn i arbeids­ledighet",
@@ -172,38 +213,6 @@
       "published": "2025-10-03T06:20:44Z"
     },
     {
-      "id": "c911e79f683cbf3cf6eee1ddc7693cb1e53be6b3",
-      "title": "– Kode­maskiner er de første som ryker",
-      "link": "https://www.kode24.no/artikkel/kodemaskiner-er-de-forste-som-ryker/246646",
-      "source": "Kode24",
-      "summary": "– Sjefen din kan kjøpe mye billigere kodemaskiner enn deg, skriver Ole Petter, og advarer mot hjemmekontor-ekstremisme.",
-      "published": "2025-10-03T03:00:00Z"
-    },
-    {
-      "id": "4db5c5f49a5be6f07ddfcbe693a737a3a865efee",
-      "title": "Funcom nedbemanner",
-      "link": "https://www.kode24.no/artikkel/funcom-nedbemanner/246632",
-      "source": "Kode24",
-      "summary": "Selskapet har ikke opplyst hvor mange ansatte som vil bli sagt opp.",
-      "published": "2025-10-02T09:23:50Z"
-    },
-    {
-      "id": "ae058bf2fee6e86a63e861105c51f9b22acfb09c",
-      "title": "Micro-frontends og web-komponenter skapte kaos",
-      "link": "https://www.kode24.no/artikkel/micro-frontends-og-web-komponenter-skapte-kaos/245960",
-      "source": "Kode24",
-      "summary": "Designsystemet til Statnett skapte konflikter, men Mathias Eek fant løsningen i syntaks-treet. – Kanskje svaret på ditt neste store problem ligger skjult der, også.",
-      "published": "2025-10-02T08:48:25Z"
-    },
-    {
-      "id": "33018b54a3cc91b30303378c652539d7f781e30d",
-      "title": "Hva skjer med kode24-timen?",
-      "link": "https://www.kode24.no/artikkel/hva-skjer-med-kode24-timen/246567",
-      "source": "Kode24",
-      "summary": "Vi vet ikke helt! Men vil gjerne ha innspill.",
-      "published": "2025-10-02T07:26:10Z"
-    },
-    {
       "id": "273c9b020e34791dd0e4cae9ea940471ca3b38e2",
       "title": "Spec-driven development: Using Markdown as a programming language when building with AI",
       "link": "https://github.blog/ai-and-ml/generative-ai/spec-driven-development-using-markdown-as-a-programming-language-when-building-with-ai/",
@@ -245,14 +254,6 @@
       "summary": "Go 1.25 introduces a new tool in the diagnostic toolbox, flight recording.",
       "published": "2025-09-26T00:00:00Z",
       "image": "https://go.dev/blog/flight-recorder/flight_recorder_1.png"
-    },
-    {
-      "id": "f1fcac2c661742dfddb113855f97f3f2349eb43b",
-      "title": "Building beyond the browser: Keeley Hammond on Electron, open source, and the future of maintainership",
-      "link": "https://github.blog/open-source/maintainers/building-beyond-the-browser-keeley-hammond-on-electron-open-source-and-the-future-of-maintainership/",
-      "source": "GitHub Blog",
-      "summary": "Learn what it really takes to sustain one of the web’s most widely used frameworks on this episode of the GitHub Podcast. The post Building beyond the browser: Keeley Hammond on Electron, open source, and the future of maintainership appeared first on The GitHub Blog.",
-      "published": "2025-09-25T17:05:48Z"
     },
     {
       "id": "b5b3e74991c32c3b5cbe7cf03a7a338e26edb205",
