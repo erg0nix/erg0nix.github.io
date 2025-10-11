@@ -1,6 +1,46 @@
 {
-  "generated_at": "2025-10-10T06:33:14.272992Z",
+  "generated_at": "2025-10-11T06:29:22.083464Z",
   "items": [
+    {
+      "id": "acd66efd226cfd0465dcb9c3adfc4503ecf27e8a",
+      "title": "– KI-koding suger!",
+      "link": "https://www.kode24.no/artikkel/ki-koding-suger/247140",
+      "source": "Kode24",
+      "summary": "Syntax tar seg KI-detox, nye protokoller forvirrer og Sora 2 skaper furore i ukas Lørdagsgodt.",
+      "published": "2025-10-11T03:00:00Z"
+    },
+    {
+      "id": "38320ac6825eb51eb7f0ab5c5813e50f67e9a06f",
+      "title": "Norsk dronemarked i vekst: – Utdannes for få",
+      "link": "https://www.kode24.no/artikkel/norsk-dronemarked-i-vekst-utdannes-for-fa/247147",
+      "source": "Kode24",
+      "summary": "Forsvaret bruker 1,5 milliarder kroner på norske droner. – Men det utdannes for få folk, sier daglig leder Thomas Eriksen i STACQ.",
+      "published": "2025-10-10T13:13:03Z"
+    },
+    {
+      "id": "62b1a04124c6da028be8ec064152f99fea0c1108",
+      "title": "CTO med bedrager-syndrom: «Venter fortsatt på å bli avslørt»",
+      "link": "https://www.kode24.no/artikkel/cto-med-bedrager-syndrom-venter-fortsatt-pa-a-bli-avslort/247144",
+      "source": "Kode24",
+      "summary": "Lang erfaring og toppjobb har ikke fjernet følelsen av å ikke være god nok. – Paradoksalt nok gjør det bare fallhøyden større, skriver CTO Tomas Hensrud Gulla.",
+      "published": "2025-10-10T10:55:30Z"
+    },
+    {
+      "id": "542f5d9800fb2f419213862e6d28ba42d5eeb927",
+      "title": "Starter LoveConf i Oslo: – Et savn",
+      "link": "https://www.kode24.no/artikkel/starter-loveconf-i-oslo-et-savn/247042",
+      "source": "Kode24",
+      "summary": "– Jeg føler det i Norge er veldig mye fokus på å selge noe på konferanser, sier arrangøren.",
+      "published": "2025-10-10T08:39:47Z"
+    },
+    {
+      "id": "eef68f0fe6e1d596538c45416eee1480974e376e",
+      "title": "Kulturministeren mener KI-musikk har både positive og negative sider",
+      "link": "https://www.kode24.no/artikkel/kulturministeren-mener-ki-musikk-har-bade-positive-og-negative-sider/247105",
+      "source": "Kode24",
+      "summary": "– Det kan brukes som et kreativt verktøy, skape nye jobber og bringe med seg uante muligheter, mener kulturminister Lubna Jaffery.",
+      "published": "2025-10-10T06:28:56Z"
+    },
     {
       "id": "6bf9da38bf38b303ca286e6680b8418500c643a7",
       "title": "– Greit! Nå skriver vi KI, ikke AI",
@@ -96,7 +136,7 @@
       "title": "How GitHub Copilot enabled accessibility governance process improvements in record time",
       "link": "https://github.blog/ai-and-ml/github-copilot/how-we-automated-accessibility-compliance-in-five-hours-with-github-copilot/",
       "source": "GitHub Blog",
-      "summary": "See how we turned weekly accessibility grade signals into an automated, accountable remediation workflow—powered by GitHub Copilot and cross‑functional collaboration. The post How GitHub Copilot enabled accessibility governance process improvements in record time appeared first on The GitHub Blog.",
+      "summary": "See how we turned weekly accessibility signals into an automated, accountable remediation workflow—powered by GitHub Copilot and cross‑functional collaboration. The post How GitHub Copilot enabled accessibility governance process improvements in record time appeared first on The GitHub Blog.",
       "published": "2025-10-07T17:00:00Z"
     },
     {
@@ -171,46 +211,6 @@
       "source": "Kode24",
       "summary": "– Vi tilbyr ikke teknologi for å legge til rette for masseovervåking av sivile.",
       "published": "2025-10-06T07:18:17Z"
-    },
-    {
-      "id": "c5f01582f9f97b687c493e1647c81062a67895ed",
-      "title": "Frustrert av AI-press på jobb: «Kata­strofe som venter på å skje»",
-      "link": "https://www.kode24.no/artikkel/frustrert-av-ai-press-pa-jobb-katastrofe-som-venter-pa-a-skje/246710",
-      "source": "Kode24",
-      "summary": "– Det finnes ikke den oppgave som ikke skal løses med en språkmodell. Men som utvikler, vet jeg jo at dette er regelrett tull.",
-      "published": "2025-10-06T03:00:00Z"
-    },
-    {
-      "id": "281db79ceeaf34943fcc1e04139049bdd594b08e",
-      "title": "Se en iPhone Air bli skåret opp, brent og maltraktert",
-      "link": "https://www.kode24.no/artikkel/se-en-iphone-air-bli-skaret-opp-brent-og-maltraktert/246735",
-      "source": "Kode24",
-      "summary": "Inni den nye iPhone-en, årets jule-AT-AT-Lego, nødladeren for storm eller krig og UFO-er i helgas Lørdagsgodt.",
-      "published": "2025-10-04T03:00:00Z"
-    },
-    {
-      "id": "180304228389522413eb5cb773bc9227c1d46767",
-      "title": "Demo Time: Kjør presenta­sjoner rett fra VS Code",
-      "link": "https://www.kode24.no/artikkel/demo-time-kjor-presentasjoner-rett-fra-vs-code/244105",
-      "source": "Kode24",
-      "summary": "Å nei, du har blitt bedt om å holde en presentasjon! Ta det med ro – med Demo Time kan du droppe PowerPoint og heller kjøre presentasjoner direkte fra VS Code.",
-      "published": "2025-10-03T09:43:26Z"
-    },
-    {
-      "id": "ddd16b03da6ce1c586382233fab1fbca0b5e82c2",
-      "title": "19-åring tilstod alt overfor ChatGPT",
-      "link": "https://www.kode24.no/artikkel/19-aring-tilstod-alt-overfor-chatgpt/246694",
-      "source": "Kode24",
-      "summary": "\"How fucked am i bro\" spurte amerikaneren etter å ha ramponert masse biler.",
-      "published": "2025-10-03T07:54:37Z"
-    },
-    {
-      "id": "edd3d2c5cb5534139831e22d7dba2ab26b5e0cb7",
-      "title": "Mange bekymret over 15-årsgrense for sosiale medier",
-      "link": "https://www.kode24.no/artikkel/mange-bekymret-over-15-arsgrense-for-sosiale-medier/246678",
-      "source": "Kode24",
-      "summary": "Har fått et ras av høringssvar, blant annet bekymringer rundt personvernet fra Datatilsynet.",
-      "published": "2025-10-03T06:20:44Z"
     },
     {
       "id": "273c9b020e34791dd0e4cae9ea940471ca3b38e2",
