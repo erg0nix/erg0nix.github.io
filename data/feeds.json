@@ -1,6 +1,14 @@
 {
-  "generated_at": "2025-10-12T06:29:33.026861Z",
+  "generated_at": "2025-10-13T06:35:07.910913Z",
   "items": [
+    {
+      "id": "1e9a5e51e4c8f67a20073212248a090360fa56e9",
+      "title": "Frustrert av KI-press? Dette har du krav på!",
+      "link": "https://www.kode24.no/artikkel/frustrert-av-ki-press-dette-har-du-krav-pa/247100",
+      "source": "Kode24",
+      "summary": "– Norsk lov krever at ledelsen drøfter nye verktøy som påvirker ansatte, skriver Petr Vasilev i EL og IT Forbundet om medbestemmelsesrett.",
+      "published": "2025-10-13T03:00:00Z"
+    },
     {
       "id": "acd66efd226cfd0465dcb9c3adfc4503ecf27e8a",
       "title": "– KI-koding suger!",
@@ -203,14 +211,6 @@
       "source": "Kode24",
       "summary": "Chris André Forberg, Andreas Rodtwitt og Marius Haugen har ny jobb.",
       "published": "2025-10-06T13:00:11Z"
-    },
-    {
-      "id": "ca4721567c8e552049a928ea90cd012db6db6a73",
-      "title": "Microsoft bremser samarbeid med Israel",
-      "link": "https://www.kode24.no/artikkel/microsoft-bremser-samarbeid-med-israel/246754",
-      "source": "Kode24",
-      "summary": "– Vi tilbyr ikke teknologi for å legge til rette for masseovervåking av sivile.",
-      "published": "2025-10-06T07:18:17Z"
     },
     {
       "id": "273c9b020e34791dd0e4cae9ea940471ca3b38e2",
