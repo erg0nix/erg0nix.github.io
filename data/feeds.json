@@ -1,6 +1,56 @@
 {
-  "generated_at": "2025-10-13T06:35:07.910913Z",
+  "generated_at": "2025-10-14T06:33:37.224070Z",
   "items": [
+    {
+      "id": "888a40d0e6911421da18748da31dbe0ee2cd3bde",
+      "title": "GitHub Copilot CLI: How to get started",
+      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-how-to-get-started/",
+      "source": "GitHub Blog",
+      "summary": "Discover how to use GitHub Copilot directly in the terminal. From cloning a repository to opening a pull request, here’s how to streamline your workflow with Copilot CLI. The post GitHub Copilot CLI: How to get started appeared first on The GitHub Blog.",
+      "published": "2025-10-13T22:40:04Z",
+      "image": "https://github.blog/wp-content/uploads/2025/10/image1_8dda93.png?resize=1024%2C785"
+    },
+    {
+      "id": "736c93844ec7fdc1a58a11cc8a920eee8c682720",
+      "title": "Kunder føler seg lurt av Domeneshop",
+      "link": "https://www.kode24.no/artikkel/kunder-foler-seg-lurt-av-domeneshop/246988",
+      "source": "Kode24",
+      "summary": "Domeneshop-kunder opplever aggresivt salg og mottar ordrebekreftelser de ikke har bedt om. – Trist å høre, sier Domeneshop.",
+      "published": "2025-10-13T22:00:00Z"
+    },
+    {
+      "id": "e634f178c55628842ff16ab069b289dc867bef66",
+      "title": "How to build reliable AI workflows with agentic primitives and context engineering",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-to-build-reliable-ai-workflows-with-agentic-primitives-and-context-engineering/",
+      "source": "GitHub Blog",
+      "summary": "See how this three-part framework will turn AI into a repeatable and reliable engineering practice. The post How to build reliable AI workflows with agentic primitives and context engineering appeared first on The GitHub Blog.",
+      "published": "2025-10-13T16:00:00Z",
+      "image": "https://github.blog/wp-content/uploads/2025/10/image1_6a15dc.png?resize=1024%2C618"
+    },
+    {
+      "id": "a543b5bbbcbc7f134d77e1417e72acf6f05f63c6",
+      "title": "Rapport: Dårlige team blir bare verre med KI",
+      "link": "https://www.kode24.no/artikkel/rapport-darlige-team-blir-bare-verre-med-ki/247257",
+      "source": "Kode24",
+      "summary": "– KI holder opp et speil til organisasjoner, og forsterker både det gode og det dårlige, skriver Simen A. W. Olsen om DORAs nye rapport.",
+      "published": "2025-10-13T11:13:06Z"
+    },
+    {
+      "id": "1d87822fa354640f863587434d281d39f3b4864e",
+      "title": "Kashmeel til People Made Machines",
+      "link": "https://www.kode24.no/artikkel/kashmeel-til-people-made-machines/247228",
+      "source": "Kode24",
+      "summary": "– Som den første dataingeniøren på laget ser jeg frem til å hjelpe kunder med å utnytte verdien av sine data, sier Kashmeel Bisseru.",
+      "published": "2025-10-13T09:19:16Z"
+    },
+    {
+      "id": "2b7b5f831361a242811bf61e65b16bb936dc5d08",
+      "title": "Bun 1.3: Innebygd MySQL, mer frontend-fokus",
+      "link": "https://www.kode24.no/artikkel/bun-13-innebygd-mysql-mer-frontend-fokus/247217",
+      "source": "Kode24",
+      "summary": "– Vi har lagt til førsteklasses støtte for frontend-utvikling, forteller Bun-utviklerne, i en video som gjør at enkelte reagerer.",
+      "published": "2025-10-13T08:14:59Z"
+    },
     {
       "id": "1e9a5e51e4c8f67a20073212248a090360fa56e9",
       "title": "Frustrert av KI-press? Dette har du krav på!",
@@ -172,30 +222,6 @@
       "published": "2025-10-07T10:25:40Z"
     },
     {
-      "id": "84d2c2db32e2bb35e5f2a9509926a94cf731f4e0",
-      "title": "ChatGPT lanserer apper – men ikke for nordmenn",
-      "link": "https://www.kode24.no/artikkel/chatgpt-lanserer-apper-men-ikke-for-nordmenn/246845",
-      "source": "Kode24",
-      "summary": "OpenAI ber utviklere hive seg på nyheten, men lar deg ikke rulle ut appene eller la nordmenn bruke dem ennå.",
-      "published": "2025-10-07T08:04:06Z"
-    },
-    {
-      "id": "5aac461b4bd5e3620e4c96f81fbb3e4b5251de2f",
-      "title": "Google tapte mot Epic i høyesterett",
-      "link": "https://www.kode24.no/artikkel/google-tapte-mot-epic-i-hoyesterett/246835",
-      "source": "Kode24",
-      "summary": "Fikk ikke gjennomslag for å slippe endringer i appbutikken etter Fortnite-krangelen.",
-      "published": "2025-10-07T06:27:08Z"
-    },
-    {
-      "id": "c6a1ce41386214812363746cd2c8ddaad4f2de54",
-      "title": "Ber NRK kutte Microsoft, Google, Amazon",
-      "link": "https://www.kode24.no/artikkel/ber-nrk-kutte-microsoft-google-amazon/246776",
-      "source": "Kode24",
-      "summary": "NTL NRK ber lederne følge egne etiske regler. – Det er veldig mange grunner til at NRKs valg av leverandører er viktig, mener Henrik Seip.",
-      "published": "2025-10-07T03:00:00Z"
-    },
-    {
       "id": "2c47fb88a071500a3e3e5f47a11836f2e1265d2a",
       "title": "The developer role is evolving. Here’s how to stay ahead.",
       "link": "https://github.blog/ai-and-ml/the-developer-role-is-evolving-heres-how-to-stay-ahead/",
@@ -203,14 +229,6 @@
       "summary": "AI is changing how software gets built. Explore the skills you need to keep up and stand out. The post The developer role is evolving. Here’s how to stay ahead. appeared first on The GitHub Blog.",
       "published": "2025-10-06T20:12:49Z",
       "image": "https://github.blog/wp-content/uploads/2025/10/image1.png?resize=1024%2C538"
-    },
-    {
-      "id": "e1ab976ecfc1700bb4b7dd6c959d7a91133d35fc",
-      "title": "Delta Consulting ansetter tre seniorer: – Ser stadig større etterspørsel",
-      "link": "https://www.kode24.no/artikkel/delta-consulting-ansetter-tre-seniorer-ser-stadig-storre-ettersporsel/246667",
-      "source": "Kode24",
-      "summary": "Chris André Forberg, Andreas Rodtwitt og Marius Haugen har ny jobb.",
-      "published": "2025-10-06T13:00:11Z"
     },
     {
       "id": "273c9b020e34791dd0e4cae9ea940471ca3b38e2",
@@ -229,22 +247,6 @@
       "summary": "Learn to debug and fix your CodeQL queries. The post CodeQL zero to hero part 5: Debugging queries appeared first on The GitHub Blog.",
       "published": "2025-09-29T15:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2025/09/image1_7a2639.png?resize=982%2C210"
-    },
-    {
-      "id": "12cb6d25557b383c3518677a0d539eac3bc42195",
-      "title": "How GitHub protects developers from copyright enforcement overreach",
-      "link": "https://github.blog/news-insights/policy-news-and-insights/how-github-protects-developers-from-copyright-enforcement-overreach/",
-      "source": "GitHub Blog",
-      "summary": "Why the U.S. Supreme Court case Cox v. Sony matters for developers and sharing updates to our Transparency Center and Acceptable Use Policies. The post How GitHub protects developers from copyright enforcement overreach appeared first on The GitHub Blog.",
-      "published": "2025-09-26T17:06:17Z"
-    },
-    {
-      "id": "038e20334af8d2730710f0bd10bbacfa988de64d",
-      "title": "Kicking off Cybersecurity Awareness Month 2025: Researcher spotlights and enhanced incentives",
-      "link": "https://github.blog/security/vulnerability-research/kicking-off-cybersecurity-awareness-month-2025-researcher-spotlights-and-enhanced-incentives/",
-      "source": "GitHub Blog",
-      "summary": "For this year’s Cybersecurity Awareness Month, GitHub’s Bug Bounty team is excited to offer some additional incentives to security researchers! The post Kicking off Cybersecurity Awareness Month 2025: Researcher spotlights and enhanced incentives appeared first on The GitHub Blog.",
-      "published": "2025-09-26T15:00:00Z"
     },
     {
       "id": "57ecc16f936f3b31542341b521c5c27fb57352ab",
