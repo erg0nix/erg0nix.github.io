@@ -1,6 +1,55 @@
 {
-  "generated_at": "2025-10-14T06:33:37.224070Z",
+  "generated_at": "2025-10-15T06:33:37.311098Z",
   "items": [
+    {
+      "id": "a88febdb5e42ff0f23185e8713307f6eb8e3d0d5",
+      "title": "Pantea (25) har søkt 300 jobber – får ikke napp",
+      "link": "https://www.kode24.no/artikkel/pantea-25-har-sokt-300-jobber-far-ikke-napp/247234",
+      "source": "Kode24",
+      "summary": "– Jeg fikk høre at dette er et studie der alle får jobb, sier NTNU-student Pantea Joobanian. Men hun har ennå ikke fått en.",
+      "published": "2025-10-15T03:00:00Z"
+    },
+    {
+      "id": "cabfab9858394de4afcab3bf78df3563db7b1d5e",
+      "title": "How GitHub Copilot and AI agents are saving legacy systems",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-and-ai-agents-are-saving-legacy-systems/",
+      "source": "GitHub Blog",
+      "summary": "GitHub Copilot and AI agents are making legacy COBOL systems accessible to modern developers. The post How GitHub Copilot and AI agents are saving legacy systems appeared first on The GitHub Blog.",
+      "published": "2025-10-14T16:00:00Z",
+      "image": "https://github.blog/wp-content/uploads/2025/10/mermaid.png?resize=475%2C908"
+    },
+    {
+      "id": "003f0e371b363286f92507c3356a718d4b0b6a83",
+      "title": "8 av 10 unge nordmenn betaler med mobilen",
+      "link": "https://www.kode24.no/artikkel/8-av-10-unge-nordmenn-betaler-med-mobilen/247390",
+      "source": "Kode24",
+      "summary": "Mens bare én av fire over 60 år har prøvd.",
+      "published": "2025-10-14T12:26:17Z"
+    },
+    {
+      "id": "f2758ca9ca2a442439654bb054dbe13244a66d7a",
+      "title": "Ikke spør ChatGPT om det finnes en sjøhest-emoji",
+      "link": "https://www.kode24.no/artikkel/ikke-spor-chatgpt-om-det-finnes-en-sjohest-emoji/247286",
+      "source": "Kode24",
+      "summary": "For er det én ting KI-verktøy ikke liker, er det å svare «nei».",
+      "published": "2025-10-14T08:52:19Z"
+    },
+    {
+      "id": "2c31339322455d029cb2e7325ce38a2ec4ef70f7",
+      "title": "Daniel (44) til Ilder: – Vært nysgjerrig på konsulentlivet",
+      "link": "https://www.kode24.no/artikkel/daniel-44-til-ilder-vaert-nysgjerrig-pa-konsulentlivet/247319",
+      "source": "Kode24",
+      "summary": "– Etter mange gode år som inhouse-utvikler var jeg klar for noe nytt, sier Daniel Bright.",
+      "published": "2025-10-14T08:46:35Z"
+    },
+    {
+      "id": "c7628bad1c12f2224f0f94f857adfcd3215310de",
+      "title": "Master-studenter kommer raskere i jobb",
+      "link": "https://www.kode24.no/artikkel/master-studenter-kommer-raskere-i-jobb/247282",
+      "source": "Kode24",
+      "summary": "9 av 10 er fornøyde med utdanningen de tok, viser ny undersøkelse. De fleste realfagskandidater har jobb etter noen år.",
+      "published": "2025-10-14T07:53:16Z"
+    },
     {
       "id": "888a40d0e6911421da18748da31dbe0ee2cd3bde",
       "title": "GitHub Copilot CLI: How to get started",
@@ -166,30 +215,6 @@
       "image": "https://github.blog/wp-content/uploads/2025/10/01-copilot-pr-fix.jpeg?resize=472%2C1024"
     },
     {
-      "id": "9cc7662fd84afde7d73f3c0181f211da5b451017",
-      "title": "Nye React Foundation skiller React fra Meta",
-      "link": "https://www.kode24.no/artikkel/nye-react-foundation-skiller-react-fra-meta/246978",
-      "source": "Kode24",
-      "summary": "– Overgangen til et nøytralt hjem er det naturlige neste steget, mener Linux Foundation, som får ansvaret sammen med blant annet, nettopp, Meta.",
-      "published": "2025-10-08T11:37:34Z"
-    },
-    {
-      "id": "89b5a5c1b2943d836737a08a324a73853dd9b21f",
-      "title": "AI-generert musikk spilles på norsk radio",
-      "link": "https://www.kode24.no/artikkel/ai-generert-musikk-spilles-pa-norsk-radio/246795",
-      "source": "Kode24",
-      "summary": "Radio Haugaland spiller AI-musikk, mens Tono ønsker flere rettssaker: – Vi er opptatt av at det kommer noen dommer snart.",
-      "published": "2025-10-08T08:49:20Z"
-    },
-    {
-      "id": "2404bd22090c6f4a4a1b1c047e35ad0955b8d910",
-      "title": "– Rollen som code monkey er død",
-      "link": "https://www.kode24.no/artikkel/rollen-som-code-monkey-er-dod/246912",
-      "source": "Kode24",
-      "summary": "– Jeg tror vi må endre hvordan vi kommuniserer og tenker på det vi gjør, skriver Anders Njøs Slinde om AI-inntoget.",
-      "published": "2025-10-08T03:00:00Z"
-    },
-    {
       "id": "0d50552c97126b9a90a772ca464897907b482e90",
       "title": "How GitHub Copilot enabled accessibility governance process improvements in record time",
       "link": "https://github.blog/ai-and-ml/github-copilot/how-we-automated-accessibility-compliance-in-five-hours-with-github-copilot/",
@@ -204,22 +229,6 @@
       "source": "GitHub Blog",
       "summary": "For this year’s Cybersecurity Awareness Month, the GitHub Bug Bounty team is excited to feature another spotlight on a talented security researcher — @xiridium! The post How a top bug bounty researcher got their start in security appeared first on The GitHub Blog.",
       "published": "2025-10-07T16:00:00Z"
-    },
-    {
-      "id": "c1c09d18d1d8ba8c9a5530fef3cd9340658e43f4",
-      "title": "De 3 største nyhetene fra React-lanseringen",
-      "link": "https://www.kode24.no/artikkel/de-3-storste-nyhetene-fra-react-lanseringen/246887",
-      "source": "Kode24",
-      "summary": "Sånn bruker du Reacts nye Activity-komponent, useEffectEvent og Performance Tracks.",
-      "published": "2025-10-07T11:46:28Z"
-    },
-    {
-      "id": "da57067908cc5e89f281870df60d8e90e9da148d",
-      "title": "Tar ned skoleskyss-system etter etisk hack",
-      "link": "https://www.kode24.no/artikkel/tar-ned-skoleskyss-system-etter-etisk-hack/246856",
-      "source": "Kode24",
-      "summary": "Fødsels- og personnummer til skoleelever i Nordland kan ha ligget åpent for andre.",
-      "published": "2025-10-07T10:25:40Z"
     },
     {
       "id": "2c47fb88a071500a3e3e5f47a11836f2e1265d2a",
@@ -238,15 +247,6 @@
       "summary": "I coded my latest app entirely in Markdown and let GitHub Copilot compile it into Go. This resulted in cleaner specs, faster iteration, and no more context loss. ✨ The post Spec-driven development: Using Markdown as a programming language when building with AI appeared first on The GitHub Blog.",
       "published": "2025-09-30T19:07:46Z",
       "image": "https://github.blog/wp-content/uploads/2025/09/image-2.png?resize=1024%2C516"
-    },
-    {
-      "id": "1e8f752a074b631c7ed81a5dc0a661285058a844",
-      "title": "CodeQL zero to hero part 5: Debugging queries",
-      "link": "https://github.blog/security/vulnerability-research/codeql-zero-to-hero-part-5-debugging-queries/",
-      "source": "GitHub Blog",
-      "summary": "Learn to debug and fix your CodeQL queries. The post CodeQL zero to hero part 5: Debugging queries appeared first on The GitHub Blog.",
-      "published": "2025-09-29T15:00:00Z",
-      "image": "https://github.blog/wp-content/uploads/2025/09/image1_7a2639.png?resize=982%2C210"
     },
     {
       "id": "57ecc16f936f3b31542341b521c5c27fb57352ab",
