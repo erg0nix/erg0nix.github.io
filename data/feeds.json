@@ -1,6 +1,47 @@
 {
-  "generated_at": "2025-10-15T06:33:37.311098Z",
+  "generated_at": "2025-10-16T06:33:32.947075Z",
   "items": [
+    {
+      "id": "f278d74b7bff4104a7a61d92ac3b1fa9de5bbc00",
+      "title": "Frykter sjefer med KI-FOMO, uten teknisk innsikt",
+      "link": "https://www.kode24.no/artikkel/frykter-sjefer-med-ki-fomo-uten-teknisk-innsikt/247351",
+      "source": "Kode24",
+      "summary": "– Katastrofen er at vi bygger kritisk infrastruktur, besluttet av ledere som ikke forstår teknologien, med dårlige ideer, validert av chatbots som sier ja til alt, advarer Jonas Hildershavn.",
+      "published": "2025-10-16T03:00:00Z"
+    },
+    {
+      "id": "542068b16a96296114e15177afcc540e7f967535",
+      "title": "Copilot: Faster, smarter, and built for how you work now",
+      "link": "https://github.blog/ai-and-ml/github-copilot/copilot-faster-smarter-and-built-for-how-you-work-now/",
+      "source": "GitHub Blog",
+      "summary": "Discover how GitHub Copilot has evolved from a high-powered autocomplete tool to a powerful, multi-model agentic assistant. The post Copilot: Faster, smarter, and built for how you work now appeared first on The GitHub Blog.",
+      "published": "2025-10-15T15:00:00Z",
+      "image": "https://github.blog/wp-content/uploads/2025/10/FeatureList_v6.png?resize=1232%2C2146"
+    },
+    {
+      "id": "7050ffcbd77bb2d8c3ffe00f9a87c93de41c11db",
+      "title": "Statsbudsjettet: Savner mer støtte til realfagsstudier",
+      "link": "https://www.kode24.no/artikkel/statsbudsjettet-savner-mer-stotte-til-realfagsstudier/247452",
+      "source": "Kode24",
+      "summary": "I dag ble statsbudsjettet lagt frem. Både Tekna, Nito og Akademikerne savner mer fokus på rekruttering av realfagsstudenter og studiestøtte.",
+      "published": "2025-10-15T11:58:54Z"
+    },
+    {
+      "id": "823780784753968631c5be5c4cb06188e7eda7d2",
+      "title": "ChatGPT åpner snart for griseprat",
+      "link": "https://www.kode24.no/artikkel/chatgpt-apner-snart-for-griseprat/247418",
+      "source": "Kode24",
+      "summary": "– Som en del av prinsippet om å «behandle voksne brukere som voksne», sier Sam Altman, om åpningen for erotisk prat.",
+      "published": "2025-10-15T08:10:34Z"
+    },
+    {
+      "id": "57c03d4cf774fb7bc578c0da5b1dd7b40b3fa3fb",
+      "title": "Sparebank 1 Utvikling kutter 90 stillinger",
+      "link": "https://www.kode24.no/artikkel/sparebank-1-utvikling-kutter-90-stillinger/247409",
+      "source": "Kode24",
+      "summary": "Både faste ansatte og konsulenter nedbemannes. – Men vi skal gjøre alt vi kan for å ivareta alle medarbeidere, sier direktøren.",
+      "published": "2025-10-15T07:52:17Z"
+    },
     {
       "id": "a88febdb5e42ff0f23185e8713307f6eb8e3d0d5",
       "title": "Pantea (25) har søkt 300 jobber – får ikke napp",
@@ -157,22 +198,6 @@
       "published": "2025-10-10T03:00:00Z"
     },
     {
-      "id": "7c7428ac27d452cec0ff9ab171551b5c35f3b57e",
-      "title": "70.000 rammet av lekkasje hos Discord",
-      "link": "https://www.kode24.no/artikkel/70000-rammet-av-lekkasje-hos-discord/247023",
-      "source": "Kode24",
-      "summary": "70.000 Discord-brukere kan ha fått det nasjonale ID-bildet sitt lekket.",
-      "published": "2025-10-09T10:59:05Z"
-    },
-    {
-      "id": "35c5b53a2381dd281c0b575e0b6229457a9d2503",
-      "title": "Derfor utvikler de egen plattform: «DevOps er ikke død»",
-      "link": "https://www.kode24.no/artikkel/derfor-utvikler-de-egen-plattform-devops-er-ikke-dod/246934",
-      "source": "Kode24",
-      "summary": "– Platform Engineering er en investering, skriver plattform-utvikler Didrik Finnøy i Bulder, som mener de er helt avhengig av den.",
-      "published": "2025-10-09T09:38:02Z"
-    },
-    {
       "id": "e0515ee9f869502d18ff2caf92972c3efb3ff883",
       "title": "20 Years of Git, 2 days at GitHub HQ: Git Merge 2025 highlights 🎉",
       "link": "https://github.blog/open-source/git/20-years-of-git-2-days-at-github-hq-git-merge-2025-highlights/",
@@ -180,22 +205,6 @@
       "summary": "Git Merge 2025 celebrated 20 years of Git with talks, collaboration, and community. Catch the highlights and recordings. The post 20 Years of Git, 2 days at GitHub HQ: Git Merge 2025 highlights 🎉 appeared first on The GitHub Blog.",
       "published": "2025-10-09T08:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2025/10/gitmerge2.png?resize=1600%2C1200"
-    },
-    {
-      "id": "f3cd505dccaaf3cf6a697cc330d0dd6c885995a8",
-      "title": "Mener aldersgrense på sosiale medier bryter EØS-avtalen",
-      "link": "https://www.kode24.no/artikkel/mener-aldersgrense-pa-sosiale-medier-bryter-eos-avtalen/246998",
-      "source": "Kode24",
-      "summary": "– Forslaget bør legges i en skuff, skuffen låses og nøkkelen kastes, mener EØS-ekspert Stian Øby Johansen, melder Rett24.",
-      "published": "2025-10-09T06:20:01Z"
-    },
-    {
-      "id": "ef31c0e932b5233d76445965e09d117609877031",
-      "title": "– Vi utdanner stadig flere inn i arbeids­ledighet",
-      "link": "https://www.kode24.no/artikkel/vi-utdanner-stadig-flere-inn-i-arbeidsledighet/246812",
-      "source": "Kode24",
-      "summary": "Etter 200 avslag lager Miriam Moe heller sin egen app. – For meg ble det en mer meningsfull søknad enn de 200 jeg sendte.",
-      "published": "2025-10-09T03:00:00Z"
     },
     {
       "id": "df302e6e5d888fcc37022ea4226330b2661199aa",
@@ -238,15 +247,6 @@
       "summary": "AI is changing how software gets built. Explore the skills you need to keep up and stand out. The post The developer role is evolving. Here’s how to stay ahead. appeared first on The GitHub Blog.",
       "published": "2025-10-06T20:12:49Z",
       "image": "https://github.blog/wp-content/uploads/2025/10/image1.png?resize=1024%2C538"
-    },
-    {
-      "id": "273c9b020e34791dd0e4cae9ea940471ca3b38e2",
-      "title": "Spec-driven development: Using Markdown as a programming language when building with AI",
-      "link": "https://github.blog/ai-and-ml/generative-ai/spec-driven-development-using-markdown-as-a-programming-language-when-building-with-ai/",
-      "source": "GitHub Blog",
-      "summary": "I coded my latest app entirely in Markdown and let GitHub Copilot compile it into Go. This resulted in cleaner specs, faster iteration, and no more context loss. ✨ The post Spec-driven development: Using Markdown as a programming language when building with AI appeared first on The GitHub Blog.",
-      "published": "2025-09-30T19:07:46Z",
-      "image": "https://github.blog/wp-content/uploads/2025/09/image-2.png?resize=1024%2C516"
     },
     {
       "id": "57ecc16f936f3b31542341b521c5c27fb57352ab",
