@@ -1,6 +1,47 @@
 {
-  "generated_at": "2025-10-16T06:33:32.947075Z",
+  "generated_at": "2025-10-17T06:32:35.246096Z",
   "items": [
+    {
+      "id": "8890c3fe4709362d8ec8558d2b86e3c89b8855cc",
+      "title": "1 av 3 usikre på om de anbefaler unge å bli utvikler",
+      "link": "https://www.kode24.no/artikkel/1-av-3-usikre-pa-om-de-anbefaler-unge-a-bli-utvikler/247541",
+      "source": "Kode24",
+      "summary": "– Ganske trist, skriver Ole Petter i ukas nyhetsbrev om kode24s tall. – Og jeg håper Tekna og Nito snart vil få flere ut i jobb, heller enn å bare utdanne så mange som mulig.",
+      "published": "2025-10-17T03:00:00Z"
+    },
+    {
+      "id": "d500af8f0539efe3e92ba435d99c6eadf227505e",
+      "title": "How to navigate GitHub Universe (or any tech conference) if you’re an introvert",
+      "link": "https://github.blog/news-insights/company-news/how-to-navigate-github-universe-or-any-tech-conference-if-youre-an-introvert/",
+      "source": "GitHub Blog",
+      "summary": "If alone time is your love language—don’t worry, it’s ours too—you can still attend, learn from, and enjoy big events like GitHub Universe. Here are some practical tips on how. The post How to navigate GitHub Universe (or any tech conference) if you’re an introvert appeared first on The GitHub Blog.",
+      "published": "2025-10-16T16:14:02Z",
+      "image": "https://github.blog/wp-content/uploads/2025/10/image8.jpg?resize=1024%2C683"
+    },
+    {
+      "id": "c6cbf260b9e1cf8cedf37274b27b7bcff323f9c0",
+      "title": "Boikotter Spotify og flytter ut av skyen: «Det nytter!»",
+      "link": "https://www.kode24.no/artikkel/boikotter-spotify-og-flytter-ut-av-skyen-det-nytter/247454",
+      "source": "Kode24",
+      "summary": "– Hvis vi napper til oss kredittkortene så de høye herrer bare kan spise halv-russisk kaviar og drepe halvparten så mange barn, ja, så kanskje det er håp for verden likevel!",
+      "published": "2025-10-16T13:07:49Z"
+    },
+    {
+      "id": "1185f1ed04e20b6e7d3a5f4721278a4c87d85ca0",
+      "title": "Attac mener «Big Tech må vekk» – arrangerer festival",
+      "link": "https://www.kode24.no/artikkel/attac-mener-big-tech-ma-vekk-arrangerer-festival/247537",
+      "source": "Kode24",
+      "summary": "Organisasjonen Attac mener tech-gigantene har fått for mye makt. Nå vil de gjenvinne kontrollen, og gjennom festivalen «Big Tech må vekk» løfte frem digital motkultur.",
+      "published": "2025-10-16T09:06:36Z"
+    },
+    {
+      "id": "797ff42a68f07c06c5bbd4bcc72c6aec4d34aa3e",
+      "title": "Stor økning i psykisk sykefravær",
+      "link": "https://www.kode24.no/artikkel/stor-okning-i-psykisk-sykefravaer/247523",
+      "source": "Kode24",
+      "summary": "Men forskerne forstår ikke helt hvorfor.",
+      "published": "2025-10-16T07:32:26Z"
+    },
     {
       "id": "f278d74b7bff4104a7a61d92ac3b1fa9de5bbc00",
       "title": "Frykter sjefer med KI-FOMO, uten teknisk innsikt",
@@ -166,38 +207,6 @@
       "published": "2025-10-10T13:13:03Z"
     },
     {
-      "id": "62b1a04124c6da028be8ec064152f99fea0c1108",
-      "title": "CTO med bedrager-syndrom: «Venter fortsatt på å bli avslørt»",
-      "link": "https://www.kode24.no/artikkel/cto-med-bedrager-syndrom-venter-fortsatt-pa-a-bli-avslort/247144",
-      "source": "Kode24",
-      "summary": "Lang erfaring og toppjobb har ikke fjernet følelsen av å ikke være god nok. – Paradoksalt nok gjør det bare fallhøyden større, skriver CTO Tomas Hensrud Gulla.",
-      "published": "2025-10-10T10:55:30Z"
-    },
-    {
-      "id": "542f5d9800fb2f419213862e6d28ba42d5eeb927",
-      "title": "Starter LoveConf i Oslo: – Et savn",
-      "link": "https://www.kode24.no/artikkel/starter-loveconf-i-oslo-et-savn/247042",
-      "source": "Kode24",
-      "summary": "– Jeg føler det i Norge er veldig mye fokus på å selge noe på konferanser, sier arrangøren.",
-      "published": "2025-10-10T08:39:47Z"
-    },
-    {
-      "id": "eef68f0fe6e1d596538c45416eee1480974e376e",
-      "title": "Kulturministeren mener KI-musikk har både positive og negative sider",
-      "link": "https://www.kode24.no/artikkel/kulturministeren-mener-ki-musikk-har-bade-positive-og-negative-sider/247105",
-      "source": "Kode24",
-      "summary": "– Det kan brukes som et kreativt verktøy, skape nye jobber og bringe med seg uante muligheter, mener kulturminister Lubna Jaffery.",
-      "published": "2025-10-10T06:28:56Z"
-    },
-    {
-      "id": "6bf9da38bf38b303ca286e6680b8418500c643a7",
-      "title": "– Greit! Nå skriver vi KI, ikke AI",
-      "link": "https://www.kode24.no/artikkel/greit-na-skriver-vi-ki-ikke-ai/247046",
-      "source": "Kode24",
-      "summary": "– Jeg gir meg. Jeg snur. Framover skriver vi KI, ikke AI, skriver Ole Petter i ukas nyhetsbrev.",
-      "published": "2025-10-10T03:00:00Z"
-    },
-    {
       "id": "e0515ee9f869502d18ff2caf92972c3efb3ff883",
       "title": "20 Years of Git, 2 days at GitHub HQ: Git Merge 2025 highlights 🎉",
       "link": "https://github.blog/open-source/git/20-years-of-git-2-days-at-github-hq-git-merge-2025-highlights/",
@@ -238,15 +247,6 @@
       "source": "GitHub Blog",
       "summary": "For this year’s Cybersecurity Awareness Month, the GitHub Bug Bounty team is excited to feature another spotlight on a talented security researcher — @xiridium! The post How a top bug bounty researcher got their start in security appeared first on The GitHub Blog.",
       "published": "2025-10-07T16:00:00Z"
-    },
-    {
-      "id": "2c47fb88a071500a3e3e5f47a11836f2e1265d2a",
-      "title": "The developer role is evolving. Here’s how to stay ahead.",
-      "link": "https://github.blog/ai-and-ml/the-developer-role-is-evolving-heres-how-to-stay-ahead/",
-      "source": "GitHub Blog",
-      "summary": "AI is changing how software gets built. Explore the skills you need to keep up and stand out. The post The developer role is evolving. Here’s how to stay ahead. appeared first on The GitHub Blog.",
-      "published": "2025-10-06T20:12:49Z",
-      "image": "https://github.blog/wp-content/uploads/2025/10/image1.png?resize=1024%2C538"
     },
     {
       "id": "57ecc16f936f3b31542341b521c5c27fb57352ab",
