@@ -1,6 +1,54 @@
 {
-  "generated_at": "2025-10-17T06:32:35.246096Z",
+  "generated_at": "2025-10-18T06:30:20.602256Z",
   "items": [
+    {
+      "id": "3983878f39f700e70b30208f94472e4052215da1",
+      "title": "Derfor er alle KI-genererte nettsider lilla",
+      "link": "https://www.kode24.no/artikkel/derfor-er-alle-ki-genererte-nettsider-lilla/247674",
+      "source": "Kode24",
+      "summary": "Grunnen til at KI elsker lilla, søte pusekatter, open source printere og KI-boble i ukas Lørdagsgodt.",
+      "published": "2025-10-18T03:00:00Z"
+    },
+    {
+      "id": "422338bd26b7050952de0865677f83f276a3a900",
+      "title": "Accelerate developer productivity with these 9 open source AI and MCP projects",
+      "link": "https://github.blog/open-source/accelerate-developer-productivity-with-these-9-open-source-ai-and-mcp-projects/",
+      "source": "GitHub Blog",
+      "summary": "GitHub Copilot and VS Code teams, along with the Microsoft Open Source Program Office (OSPO), sponsored these nine open source MCP projects that provide new frameworks, tools, and assistants to unlock AI-native workflows, agentic tooling, and innovation. The post Accelerate developer productivity...",
+      "published": "2025-10-17T16:00:00Z"
+    },
+    {
+      "id": "f9b2372b7acc8a4a4d1c36dee27338d1c7b9a32c",
+      "title": "Feed blir en del av Netlife – alle beholder jobben",
+      "link": "https://www.kode24.no/artikkel/feed-blir-en-del-av-netlife-alle-beholder-jobben/247658",
+      "source": "Kode24",
+      "summary": "– Og vi er i høyeste grad norskeid fortsatt, sier Kristoffer Krohn Eide.",
+      "published": "2025-10-17T11:19:04Z"
+    },
+    {
+      "id": "7ca1a3e203f54bb990d026ecea9a05dd5ad88251",
+      "title": "Norsk drone­selskap må til utlandet for å finne folk",
+      "link": "https://www.kode24.no/artikkel/norsk-droneselskap-ma-til-utlandet-for-a-finne-folk/247562",
+      "source": "Kode24",
+      "summary": "Six Robotics leverer dronesverm-systemene til Hæren. De jakter folk med skyhøye karakterer, og må ut av Norge for å finne ansatte.",
+      "published": "2025-10-17T10:11:17Z"
+    },
+    {
+      "id": "5e19f7eb8453f1ec02fd66630bc3b5d2ef8aee52",
+      "title": "Windows 10 er død – nå skal du prate med Windows 11",
+      "link": "https://www.kode24.no/artikkel/windows-10-er-dod-na-skal-du-prate-med-windows-11/247610",
+      "source": "Kode24",
+      "summary": "– Vi tror dette skiftet til samtalebasert input blir like tranformativt som mus og tastatur, hevder Microsoft, som vil du skal prate med PC-en din.",
+      "published": "2025-10-17T08:02:55Z"
+    },
+    {
+      "id": "9df79a9a197377b327dacdb751a7545a81589a25",
+      "title": "«Ekstrem stor» vekst i nett-gambling blant unge menn",
+      "link": "https://www.kode24.no/artikkel/ekstrem-stor-vekst-i-nett-gambling-blant-unge-menn/247596",
+      "source": "Kode24",
+      "summary": "– De unge spiller mer kasinospill enn noen gang tidligere. Veksten har vært ekstremt stor, sier Bjørn Helge Hoffmann i Norsk Tipping.",
+      "published": "2025-10-17T06:15:27Z"
+    },
     {
       "id": "8890c3fe4709362d8ec8558d2b86e3c89b8855cc",
       "title": "1 av 3 usikre på om de anbefaler unge å bli utvikler",
@@ -167,46 +215,6 @@
       "published": "2025-10-13T11:13:06Z"
     },
     {
-      "id": "1d87822fa354640f863587434d281d39f3b4864e",
-      "title": "Kashmeel til People Made Machines",
-      "link": "https://www.kode24.no/artikkel/kashmeel-til-people-made-machines/247228",
-      "source": "Kode24",
-      "summary": "– Som den første dataingeniøren på laget ser jeg frem til å hjelpe kunder med å utnytte verdien av sine data, sier Kashmeel Bisseru.",
-      "published": "2025-10-13T09:19:16Z"
-    },
-    {
-      "id": "2b7b5f831361a242811bf61e65b16bb936dc5d08",
-      "title": "Bun 1.3: Innebygd MySQL, mer frontend-fokus",
-      "link": "https://www.kode24.no/artikkel/bun-13-innebygd-mysql-mer-frontend-fokus/247217",
-      "source": "Kode24",
-      "summary": "– Vi har lagt til førsteklasses støtte for frontend-utvikling, forteller Bun-utviklerne, i en video som gjør at enkelte reagerer.",
-      "published": "2025-10-13T08:14:59Z"
-    },
-    {
-      "id": "1e9a5e51e4c8f67a20073212248a090360fa56e9",
-      "title": "Frustrert av KI-press? Dette har du krav på!",
-      "link": "https://www.kode24.no/artikkel/frustrert-av-ki-press-dette-har-du-krav-pa/247100",
-      "source": "Kode24",
-      "summary": "– Norsk lov krever at ledelsen drøfter nye verktøy som påvirker ansatte, skriver Petr Vasilev i EL og IT Forbundet om medbestemmelsesrett.",
-      "published": "2025-10-13T03:00:00Z"
-    },
-    {
-      "id": "acd66efd226cfd0465dcb9c3adfc4503ecf27e8a",
-      "title": "– KI-koding suger!",
-      "link": "https://www.kode24.no/artikkel/ki-koding-suger/247140",
-      "source": "Kode24",
-      "summary": "Syntax tar seg KI-detox, nye protokoller forvirrer og Sora 2 skaper furore i ukas Lørdagsgodt.",
-      "published": "2025-10-11T03:00:00Z"
-    },
-    {
-      "id": "38320ac6825eb51eb7f0ab5c5813e50f67e9a06f",
-      "title": "Norsk dronemarked i vekst: – Utdannes for få",
-      "link": "https://www.kode24.no/artikkel/norsk-dronemarked-i-vekst-utdannes-for-fa/247147",
-      "source": "Kode24",
-      "summary": "Forsvaret bruker 1,5 milliarder kroner på norske droner. – Men det utdannes for få folk, sier daglig leder Thomas Eriksen i STACQ.",
-      "published": "2025-10-10T13:13:03Z"
-    },
-    {
       "id": "e0515ee9f869502d18ff2caf92972c3efb3ff883",
       "title": "20 Years of Git, 2 days at GitHub HQ: Git Merge 2025 highlights 🎉",
       "link": "https://github.blog/open-source/git/20-years-of-git-2-days-at-github-hq-git-merge-2025-highlights/",
@@ -239,14 +247,6 @@
       "source": "GitHub Blog",
       "summary": "See how we turned weekly accessibility signals into an automated, accountable remediation workflow—powered by GitHub Copilot and cross‑functional collaboration. The post How GitHub Copilot enabled accessibility governance process improvements in record time appeared first on The GitHub Blog.",
       "published": "2025-10-07T17:00:00Z"
-    },
-    {
-      "id": "b16558be2de9016f0a238797c68b6e942350f348",
-      "title": "How a top bug bounty researcher got their start in security",
-      "link": "https://github.blog/security/how-a-top-bug-bounty-researcher-got-their-start-in-security/",
-      "source": "GitHub Blog",
-      "summary": "For this year’s Cybersecurity Awareness Month, the GitHub Bug Bounty team is excited to feature another spotlight on a talented security researcher — @xiridium! The post How a top bug bounty researcher got their start in security appeared first on The GitHub Blog.",
-      "published": "2025-10-07T16:00:00Z"
     },
     {
       "id": "57ecc16f936f3b31542341b521c5c27fb57352ab",
