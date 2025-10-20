@@ -1,6 +1,14 @@
 {
-  "generated_at": "2025-10-19T06:31:19.228159Z",
+  "generated_at": "2025-10-20T06:34:30.649817Z",
   "items": [
+    {
+      "id": "c4fa7473f71bb09bfd46b84492c6aa813d847b86",
+      "title": "– Nei, kjære møte­strikker: Du er ikke respektløs!",
+      "link": "https://www.kode24.no/artikkel/nei-kjaere-motestrikker-du-er-ikke-respektlos/247691",
+      "source": "Kode24",
+      "summary": "– Du er ikke noe frekkere av å strikke, drodle, fikle, hekle eller fargelegge i møter, mener Elise Kristiansen.",
+      "published": "2025-10-20T03:00:00Z"
+    },
     {
       "id": "3983878f39f700e70b30208f94472e4052215da1",
       "title": "Derfor er alle KI-genererte nettsider lilla",
@@ -205,14 +213,6 @@
       "summary": "See how this three-part framework will turn AI into a repeatable and reliable engineering practice. The post How to build reliable AI workflows with agentic primitives and context engineering appeared first on The GitHub Blog.",
       "published": "2025-10-13T16:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2025/10/image1_6a15dc.png?resize=1024%2C618"
-    },
-    {
-      "id": "a543b5bbbcbc7f134d77e1417e72acf6f05f63c6",
-      "title": "Rapport: Dårlige team blir bare verre med KI",
-      "link": "https://www.kode24.no/artikkel/rapport-darlige-team-blir-bare-verre-med-ki/247257",
-      "source": "Kode24",
-      "summary": "– KI holder opp et speil til organisasjoner, og forsterker både det gode og det dårlige, skriver Simen A. W. Olsen om DORAs nye rapport.",
-      "published": "2025-10-13T11:13:06Z"
     },
     {
       "id": "e0515ee9f869502d18ff2caf92972c3efb3ff883",
