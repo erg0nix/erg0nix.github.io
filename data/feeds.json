@@ -1,6 +1,46 @@
 {
-  "generated_at": "2025-10-20T06:34:30.649817Z",
+  "generated_at": "2025-10-21T06:33:40.566455Z",
   "items": [
+    {
+      "id": "c19074cf41b93416c712b37ec86d64e12c93ee04",
+      "title": "Kutt i Innovasjon Norge kan ramme utviklere",
+      "link": "https://www.kode24.no/artikkel/kutt-i-innovasjon-norge-kan-ramme-utviklere/247774",
+      "source": "Kode24",
+      "summary": "Dersom forslaget til statsbudsjett vedtas må det kuttes opptil 80 årsverk i Innovasjon Norge. Det kan ramme de 40 utviklerne som jobber der.",
+      "published": "2025-10-21T03:00:00Z"
+    },
+    {
+      "id": "726f7fb9b9cc0dfb29bf8fcb118a32582263b6fd",
+      "title": "Inside the breach that broke the internet: The untold story of Log4Shell",
+      "link": "https://github.blog/open-source/inside-the-breach-that-broke-the-internet-the-untold-story-of-log4shell/",
+      "source": "GitHub Blog",
+      "summary": "Log4Shell proved that open source security isn't guaranteed and isn’t just a code problem. It's about supporting, enabling, and empowering the people behind the projects that build our digital infrastructure. The post Inside the breach that broke the internet: The untold story of Log4Shell appeared...",
+      "published": "2025-10-20T16:00:16Z"
+    },
+    {
+      "id": "fcaa50aac033b9f5fbbea6109ded136acd30f2e7",
+      "title": "Fra håndverker til KI-operatør: Framtida til utvikler­bransjen",
+      "link": "https://www.kode24.no/artikkel/fra-handverker-til-ki-operator-framtida-til-utviklerbransjen/247404",
+      "source": "Kode24",
+      "summary": "– KI-maskinene kan kun komme arbeiderklassen til gode hvis kampen om deres eierskap og kontroll blir en del av den brede klassekampen, skriver Sara Rambjør.",
+      "published": "2025-10-20T12:31:44Z"
+    },
+    {
+      "id": "cd4001f64d15527bb93da41bb718ceb9511a0acf",
+      "title": "Vercel og AWS nede",
+      "link": "https://www.kode24.no/artikkel/vercel-og-aws-nede/247747",
+      "source": "Kode24",
+      "summary": "Skapte problemer for alt fra kode24 til ChatGPT.",
+      "published": "2025-10-20T08:51:41Z"
+    },
+    {
+      "id": "fb4ad0f85d12e8f47f6cb29cbf17714a0af819d7",
+      "title": "Mener KI kan erstatte 155.000 folk i staten, men fikk tallet fra KI",
+      "link": "https://www.kode24.no/artikkel/mener-ki-kan-erstatte-155000-folk-i-staten-men-fikk-tallet-fra-ki/247630",
+      "source": "Kode24",
+      "summary": "Tallet har sirkulert siden 2023, men kritikere mener det er \"høyst usikkert og spekulativt\", melder Aftenposten. For tallet kommer fra GPT-4.",
+      "published": "2025-10-20T08:23:29Z"
+    },
     {
       "id": "c4fa7473f71bb09bfd46b84492c6aa813d847b86",
       "title": "– Nei, kjære møte­strikker: Du er ikke respektløs!",
@@ -38,7 +78,7 @@
       "title": "Norsk drone­selskap må til utlandet for å finne folk",
       "link": "https://www.kode24.no/artikkel/norsk-droneselskap-ma-til-utlandet-for-a-finne-folk/247562",
       "source": "Kode24",
-      "summary": "Six Robotics leverer dronesverm-systemene til Hæren. De jakter folk med skyhøye karakterer, og må ut av Norge for å finne ansatte.",
+      "summary": "Six Robotics leverer dronesverm-systemene til Hæren. De jakter folk med høye karakterer, og må ut av Norge for å finne nok ansatte.",
       "published": "2025-10-17T10:11:17Z"
     },
     {
@@ -165,30 +205,6 @@
       "published": "2025-10-14T12:26:17Z"
     },
     {
-      "id": "f2758ca9ca2a442439654bb054dbe13244a66d7a",
-      "title": "Ikke spør ChatGPT om det finnes en sjøhest-emoji",
-      "link": "https://www.kode24.no/artikkel/ikke-spor-chatgpt-om-det-finnes-en-sjohest-emoji/247286",
-      "source": "Kode24",
-      "summary": "For er det én ting KI-verktøy ikke liker, er det å svare «nei».",
-      "published": "2025-10-14T08:52:19Z"
-    },
-    {
-      "id": "2c31339322455d029cb2e7325ce38a2ec4ef70f7",
-      "title": "Daniel (44) til Ilder: – Vært nysgjerrig på konsulentlivet",
-      "link": "https://www.kode24.no/artikkel/daniel-44-til-ilder-vaert-nysgjerrig-pa-konsulentlivet/247319",
-      "source": "Kode24",
-      "summary": "– Etter mange gode år som inhouse-utvikler var jeg klar for noe nytt, sier Daniel Bright.",
-      "published": "2025-10-14T08:46:35Z"
-    },
-    {
-      "id": "c7628bad1c12f2224f0f94f857adfcd3215310de",
-      "title": "Master-studenter kommer raskere i jobb",
-      "link": "https://www.kode24.no/artikkel/master-studenter-kommer-raskere-i-jobb/247282",
-      "source": "Kode24",
-      "summary": "9 av 10 er fornøyde med utdanningen de tok, viser ny undersøkelse. De fleste realfagskandidater har jobb etter noen år.",
-      "published": "2025-10-14T07:53:16Z"
-    },
-    {
       "id": "888a40d0e6911421da18748da31dbe0ee2cd3bde",
       "title": "GitHub Copilot CLI: How to get started",
       "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-how-to-get-started/",
@@ -196,14 +212,6 @@
       "summary": "Discover how to use GitHub Copilot directly in the terminal. From cloning a repository to opening a pull request, here’s how to streamline your workflow with Copilot CLI. The post GitHub Copilot CLI: How to get started appeared first on The GitHub Blog.",
       "published": "2025-10-13T22:40:04Z",
       "image": "https://github.blog/wp-content/uploads/2025/10/image1_8dda93.png?resize=1024%2C785"
-    },
-    {
-      "id": "736c93844ec7fdc1a58a11cc8a920eee8c682720",
-      "title": "Kunder føler seg lurt av Domeneshop",
-      "link": "https://www.kode24.no/artikkel/kunder-foler-seg-lurt-av-domeneshop/246988",
-      "source": "Kode24",
-      "summary": "Domeneshop-kunder opplever aggresivt salg og mottar ordrebekreftelser de ikke har bedt om. – Trist å høre, sier Domeneshop.",
-      "published": "2025-10-13T22:00:00Z"
     },
     {
       "id": "e634f178c55628842ff16ab069b289dc867bef66",
@@ -239,14 +247,6 @@
       "summary": "Unlock the full potential of the GitHub platform. See how Copilot coding agent and GitHub Mobile combine to help you tackle development tasks and urgent fixes, no matter where you are. The post Completing urgent fixes anywhere with GitHub Copilot coding agent and mobile appeared first on The GitHub...",
       "published": "2025-10-08T16:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2025/10/01-copilot-pr-fix.jpeg?resize=472%2C1024"
-    },
-    {
-      "id": "0d50552c97126b9a90a772ca464897907b482e90",
-      "title": "How GitHub Copilot enabled accessibility governance process improvements in record time",
-      "link": "https://github.blog/ai-and-ml/github-copilot/how-we-automated-accessibility-compliance-in-five-hours-with-github-copilot/",
-      "source": "GitHub Blog",
-      "summary": "See how we turned weekly accessibility signals into an automated, accountable remediation workflow—powered by GitHub Copilot and cross‑functional collaboration. The post How GitHub Copilot enabled accessibility governance process improvements in record time appeared first on The GitHub Blog.",
-      "published": "2025-10-07T17:00:00Z"
     },
     {
       "id": "57ecc16f936f3b31542341b521c5c27fb57352ab",
