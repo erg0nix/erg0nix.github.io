@@ -1,6 +1,54 @@
 {
-  "generated_at": "2025-10-21T06:33:40.566455Z",
+  "generated_at": "2025-10-22T06:34:42.164068Z",
   "items": [
+    {
+      "id": "06ac17e1e886611ff84a11947a519753f0c98549",
+      "title": "Vanskelig å være anonym på nett med nye aldersgrenser",
+      "link": "https://www.kode24.no/artikkel/vanskelig-a-vaere-anonym-pa-nett-med-nye-aldersgrenser/247608",
+      "source": "Kode24",
+      "summary": "Innføres en aldersgrense for sosiale medier på 15 år, så kan man miste muligheten til å være anonym på nettet, påpeker eksperter.",
+      "published": "2025-10-22T03:00:00Z"
+    },
+    {
+      "id": "09a4da9daa8e92c56c25cd30c7bb21312707841c",
+      "title": "How to update community health files with AI",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-to-update-community-health-files-with-ai/",
+      "source": "GitHub Blog",
+      "summary": "Have you ever thought about using AI to update community health files for your repositories? This blog shares actionable next steps for doing just that, including a starter kit with a checklist and tutorials on how to create three useful files. The post How to update community health files with AI...",
+      "published": "2025-10-21T16:00:00Z"
+    },
+    {
+      "id": "d93c712477c68d5b698caa01d7582ec9a8496e32",
+      "title": "Her er nye Vite+",
+      "link": "https://www.kode24.no/artikkel/her-er-nye-vite/247848",
+      "source": "Kode24",
+      "summary": "– Målet med Vite+ er å tilby én samlet løsning for JavaScript tooling, slik at man kan fokusere på å bygge produkter, forklarer",
+      "published": "2025-10-21T13:37:35Z"
+    },
+    {
+      "id": "3a25f3b93d33c5586697f958e85818d3b361ec2f",
+      "title": "Seks nye til Novacare: «Høy etterspørsel etter flinke folk»",
+      "link": "https://www.kode24.no/artikkel/seks-nye-til-novacare-hoy-ettersporsel-etter-flinke-folk/247821",
+      "source": "Kode24",
+      "summary": "Joanna Gaudyn, David Bakke, Tomas Sandli Johnsen, Erik Heggeland, Heidi Nicoline Bjørnsdottir og Kurt Lekanger starter i Novacare denne høsten.",
+      "published": "2025-10-21T10:21:57Z"
+    },
+    {
+      "id": "957e39a7fd3656adac11ae163e6de6efa1c3f74c",
+      "title": "Claude Code flytter ut av terminalen",
+      "link": "https://www.kode24.no/artikkel/claude-code-flytter-ut-av-terminalen/247804",
+      "source": "Kode24",
+      "summary": "– Claude Code på web lar deg sparke i gang kodesesjonene uten å åpne terminalen, melder Anthropic, som også lanserer på mobilen.",
+      "published": "2025-10-21T08:03:25Z"
+    },
+    {
+      "id": "c3411be05b08fa03d52dfb3f499ed3558ecd42d9",
+      "title": "AWS er oppe igjen – nå også Vercel",
+      "link": "https://www.kode24.no/artikkel/aws-er-oppe-igjen-na-ogsa-vercel/247788",
+      "source": "Kode24",
+      "summary": "Nedetiden fikk store konsekvenser for mange over hele verden på mandag.",
+      "published": "2025-10-21T06:39:13Z"
+    },
     {
       "id": "c19074cf41b93416c712b37ec86d64e12c93ee04",
       "title": "Kutt i Innovasjon Norge kan ramme utviklere",
@@ -156,38 +204,6 @@
       "image": "https://github.blog/wp-content/uploads/2025/10/FeatureList_v6.png?resize=1232%2C2146"
     },
     {
-      "id": "7050ffcbd77bb2d8c3ffe00f9a87c93de41c11db",
-      "title": "Statsbudsjettet: Savner mer støtte til realfagsstudier",
-      "link": "https://www.kode24.no/artikkel/statsbudsjettet-savner-mer-stotte-til-realfagsstudier/247452",
-      "source": "Kode24",
-      "summary": "I dag ble statsbudsjettet lagt frem. Både Tekna, Nito og Akademikerne savner mer fokus på rekruttering av realfagsstudenter og studiestøtte.",
-      "published": "2025-10-15T11:58:54Z"
-    },
-    {
-      "id": "823780784753968631c5be5c4cb06188e7eda7d2",
-      "title": "ChatGPT åpner snart for griseprat",
-      "link": "https://www.kode24.no/artikkel/chatgpt-apner-snart-for-griseprat/247418",
-      "source": "Kode24",
-      "summary": "– Som en del av prinsippet om å «behandle voksne brukere som voksne», sier Sam Altman, om åpningen for erotisk prat.",
-      "published": "2025-10-15T08:10:34Z"
-    },
-    {
-      "id": "57c03d4cf774fb7bc578c0da5b1dd7b40b3fa3fb",
-      "title": "Sparebank 1 Utvikling kutter 90 stillinger",
-      "link": "https://www.kode24.no/artikkel/sparebank-1-utvikling-kutter-90-stillinger/247409",
-      "source": "Kode24",
-      "summary": "Både faste ansatte og konsulenter nedbemannes. – Men vi skal gjøre alt vi kan for å ivareta alle medarbeidere, sier direktøren.",
-      "published": "2025-10-15T07:52:17Z"
-    },
-    {
-      "id": "a88febdb5e42ff0f23185e8713307f6eb8e3d0d5",
-      "title": "Pantea (25) har søkt 300 jobber – får ikke napp",
-      "link": "https://www.kode24.no/artikkel/pantea-25-har-sokt-300-jobber-far-ikke-napp/247234",
-      "source": "Kode24",
-      "summary": "– Jeg fikk høre at dette er et studie der alle får jobb, sier NTNU-student Pantea Joobanian. Men hun har ennå ikke fått en.",
-      "published": "2025-10-15T03:00:00Z"
-    },
-    {
       "id": "cabfab9858394de4afcab3bf78df3563db7b1d5e",
       "title": "How GitHub Copilot and AI agents are saving legacy systems",
       "link": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-and-ai-agents-are-saving-legacy-systems/",
@@ -195,14 +211,6 @@
       "summary": "GitHub Copilot and AI agents are making legacy COBOL systems accessible to modern developers. The post How GitHub Copilot and AI agents are saving legacy systems appeared first on The GitHub Blog.",
       "published": "2025-10-14T16:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2025/10/mermaid.png?resize=475%2C908"
-    },
-    {
-      "id": "003f0e371b363286f92507c3356a718d4b0b6a83",
-      "title": "8 av 10 unge nordmenn betaler med mobilen",
-      "link": "https://www.kode24.no/artikkel/8-av-10-unge-nordmenn-betaler-med-mobilen/247390",
-      "source": "Kode24",
-      "summary": "Mens bare én av fire over 60 år har prøvd.",
-      "published": "2025-10-14T12:26:17Z"
     },
     {
       "id": "888a40d0e6911421da18748da31dbe0ee2cd3bde",
@@ -238,15 +246,6 @@
       "source": "GitHub Blog",
       "summary": "In September, we experienced three incidents that resulted in degraded performance across GitHub services. The post GitHub Availability Report: September 2025 appeared first on The GitHub Blog.",
       "published": "2025-10-09T02:19:28Z"
-    },
-    {
-      "id": "aeff330eb9fc52608689aac90a657cf7d486fbfe",
-      "title": "Completing urgent fixes anywhere with GitHub Copilot coding agent and mobile",
-      "link": "https://github.blog/developer-skills/github/completing-urgent-fixes-anywhere-with-github-copilot-coding-agent-and-mobile/",
-      "source": "GitHub Blog",
-      "summary": "Unlock the full potential of the GitHub platform. See how Copilot coding agent and GitHub Mobile combine to help you tackle development tasks and urgent fixes, no matter where you are. The post Completing urgent fixes anywhere with GitHub Copilot coding agent and mobile appeared first on The GitHub...",
-      "published": "2025-10-08T16:00:00Z",
-      "image": "https://github.blog/wp-content/uploads/2025/10/01-copilot-pr-fix.jpeg?resize=472%2C1024"
     },
     {
       "id": "57ecc16f936f3b31542341b521c5c27fb57352ab",
