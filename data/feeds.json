@@ -1,6 +1,55 @@
 {
-  "generated_at": "2025-10-22T06:34:42.164068Z",
+  "generated_at": "2025-10-23T06:33:52.747860Z",
   "items": [
+    {
+      "id": "6106c16cc8d32bb8fd685d287eedb58791ea52cf",
+      "title": "Søker nyut­dannede et år før de skal starte: «En uting»",
+      "link": "https://www.kode24.no/artikkel/soker-nyutdannede-et-ar-for-de-skal-starte-en-uting/247838",
+      "source": "Kode24",
+      "summary": "Tripletex søker allerede nå studenter som vil starte høsten 2026. – Selskaper bør skjerpe seg, mener student Anders Rodem.",
+      "published": "2025-10-23T03:00:00Z"
+    },
+    {
+      "id": "8f267e7cddd4742219a7166f9b1c36efed10659e",
+      "title": "From karaoke terminals to AI résumés: The winners of GitHub’s For the Love of Code challenge",
+      "link": "https://github.blog/open-source/from-karaoke-terminals-to-ai-resumes-the-winners-of-githubs-for-the-love-of-code-challenge/",
+      "source": "GitHub Blog",
+      "summary": "This summer, we invited devs to participate in our hackathon for joyful, ridiculous, and wildly creative projects. Here are the winners of For the Love of Code! The post From karaoke terminals to AI résumés: The winners of GitHub’s For the Love of Code challenge appeared first on The GitHub Blog.",
+      "published": "2025-10-22T20:30:35Z",
+      "image": "https://github.blog/wp-content/uploads/2025/10/plane-tracker.jpg?resize=771%2C1024"
+    },
+    {
+      "id": "b0cae03e89da66f9e7099b5b969ede50b99e202e",
+      "title": "Top security researcher shares their bug bounty process",
+      "link": "https://github.blog/security/top-security-researcher-shares-their-bug-bounty-process/",
+      "source": "GitHub Blog",
+      "summary": "For this year’s Cybersecurity Awareness Month, the GitHub Bug Bounty team is excited to put the spotlight on a talented security researcher—André Storfjord Kristiansen! The post Top security researcher shares their bug bounty process appeared first on The GitHub Blog.",
+      "published": "2025-10-22T16:00:00Z"
+    },
+    {
+      "id": "a5472131f3fc211e071f76d2e5c1ef43381a9ab5",
+      "title": "PostgreSQL er nå større enn MySQL",
+      "link": "https://www.kode24.no/artikkel/postgresql-er-na-storre-enn-mysql/247961",
+      "source": "Kode24",
+      "summary": "Jetbrains digre undersøkelse viser hva verdens utviklere programmerer i, lagrer data i og bruker av KI-løsninger.",
+      "published": "2025-10-22T12:34:21Z"
+    },
+    {
+      "id": "b296ae662e77088ba15d2c1c147af299213566dd",
+      "title": "– Det er på kontoret magien skjer",
+      "link": "https://www.kode24.no/artikkel/det-er-pa-kontoret-magien-skjer/247896",
+      "source": "Kode24",
+      "summary": "– Kanskje det er på tide å legge hjemmekontor-debatten død, og heller få frem fordelene med å sitte fysisk på kontoret? spør Marcus Sahlin Pettersen.",
+      "published": "2025-10-22T08:20:16Z"
+    },
+    {
+      "id": "11313e8cc8be72059c808f6d0a5b27e2947fbff8",
+      "title": "OpenAI lanserer nettleseren Atlas",
+      "link": "https://www.kode24.no/artikkel/openai-lanserer-nettleseren-atlas/247879",
+      "source": "Kode24",
+      "summary": "Nettleseren kan allerede tas i bruk på Apple-maskiner, og kommer snart til Windows, Android og iOS.",
+      "published": "2025-10-22T06:33:58Z"
+    },
     {
       "id": "06ac17e1e886611ff84a11947a519753f0c98549",
       "title": "Vanskelig å være anonym på nett med nye aldersgrenser",
@@ -163,38 +212,6 @@
       "image": "https://github.blog/wp-content/uploads/2025/10/image8.jpg?resize=1024%2C683"
     },
     {
-      "id": "c6cbf260b9e1cf8cedf37274b27b7bcff323f9c0",
-      "title": "Boikotter Spotify og flytter ut av skyen: «Det nytter!»",
-      "link": "https://www.kode24.no/artikkel/boikotter-spotify-og-flytter-ut-av-skyen-det-nytter/247454",
-      "source": "Kode24",
-      "summary": "– Hvis vi napper til oss kredittkortene så de høye herrer bare kan spise halv-russisk kaviar og drepe halvparten så mange barn, ja, så kanskje det er håp for verden likevel!",
-      "published": "2025-10-16T13:07:49Z"
-    },
-    {
-      "id": "1185f1ed04e20b6e7d3a5f4721278a4c87d85ca0",
-      "title": "Attac mener «Big Tech må vekk» – arrangerer festival",
-      "link": "https://www.kode24.no/artikkel/attac-mener-big-tech-ma-vekk-arrangerer-festival/247537",
-      "source": "Kode24",
-      "summary": "Organisasjonen Attac mener tech-gigantene har fått for mye makt. Nå vil de gjenvinne kontrollen, og gjennom festivalen «Big Tech må vekk» løfte frem digital motkultur.",
-      "published": "2025-10-16T09:06:36Z"
-    },
-    {
-      "id": "797ff42a68f07c06c5bbd4bcc72c6aec4d34aa3e",
-      "title": "Stor økning i psykisk sykefravær",
-      "link": "https://www.kode24.no/artikkel/stor-okning-i-psykisk-sykefravaer/247523",
-      "source": "Kode24",
-      "summary": "Men forskerne forstår ikke helt hvorfor.",
-      "published": "2025-10-16T07:32:26Z"
-    },
-    {
-      "id": "f278d74b7bff4104a7a61d92ac3b1fa9de5bbc00",
-      "title": "Frykter sjefer med KI-FOMO, uten teknisk innsikt",
-      "link": "https://www.kode24.no/artikkel/frykter-sjefer-med-ki-fomo-uten-teknisk-innsikt/247351",
-      "source": "Kode24",
-      "summary": "– Katastrofen er at vi bygger kritisk infrastruktur, besluttet av ledere som ikke forstår teknologien, med dårlige ideer, validert av chatbots som sier ja til alt, advarer Jonas Hildershavn.",
-      "published": "2025-10-16T03:00:00Z"
-    },
-    {
       "id": "542068b16a96296114e15177afcc540e7f967535",
       "title": "Copilot: Faster, smarter, and built for how you work now",
       "link": "https://github.blog/ai-and-ml/github-copilot/copilot-faster-smarter-and-built-for-how-you-work-now/",
@@ -229,23 +246,6 @@
       "summary": "See how this three-part framework will turn AI into a repeatable and reliable engineering practice. The post How to build reliable AI workflows with agentic primitives and context engineering appeared first on The GitHub Blog.",
       "published": "2025-10-13T16:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2025/10/image1_6a15dc.png?resize=1024%2C618"
-    },
-    {
-      "id": "e0515ee9f869502d18ff2caf92972c3efb3ff883",
-      "title": "20 Years of Git, 2 days at GitHub HQ: Git Merge 2025 highlights 🎉",
-      "link": "https://github.blog/open-source/git/20-years-of-git-2-days-at-github-hq-git-merge-2025-highlights/",
-      "source": "GitHub Blog",
-      "summary": "Git Merge 2025 celebrated 20 years of Git with talks, collaboration, and community. Catch the highlights and recordings. The post 20 Years of Git, 2 days at GitHub HQ: Git Merge 2025 highlights 🎉 appeared first on The GitHub Blog.",
-      "published": "2025-10-09T08:00:00Z",
-      "image": "https://github.blog/wp-content/uploads/2025/10/gitmerge2.png?resize=1600%2C1200"
-    },
-    {
-      "id": "df302e6e5d888fcc37022ea4226330b2661199aa",
-      "title": "GitHub Availability Report: September 2025",
-      "link": "https://github.blog/news-insights/company-news/github-availability-report-september-2025/",
-      "source": "GitHub Blog",
-      "summary": "In September, we experienced three incidents that resulted in degraded performance across GitHub services. The post GitHub Availability Report: September 2025 appeared first on The GitHub Blog.",
-      "published": "2025-10-09T02:19:28Z"
     },
     {
       "id": "57ecc16f936f3b31542341b521c5c27fb57352ab",
