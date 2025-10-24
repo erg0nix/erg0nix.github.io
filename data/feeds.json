@@ -1,6 +1,55 @@
 {
-  "generated_at": "2025-10-23T06:33:52.747860Z",
+  "generated_at": "2025-10-24T06:32:23.117422Z",
   "items": [
+    {
+      "id": "2b34d5dbdd4d2a65bc7a61fa2f712dfa647bfc6a",
+      "title": "– Nei, jeg er ikke en kontorhater",
+      "link": "https://www.kode24.no/artikkel/nei-jeg-er-ikke-en-kontorhater/248036",
+      "source": "Kode24",
+      "summary": "– Det jeg kjemper for, er frihet, skriver Ole Petter i ukas nyhetsbrev, etter å ha blitt kalt \"kontorhater\".",
+      "published": "2025-10-24T03:00:00Z"
+    },
+    {
+      "id": "c444d6629c50ab496eb5c08fbf59e93738296396",
+      "title": "The road to better completions: Building a faster, smarter GitHub Copilot with a new custom model",
+      "link": "https://github.blog/ai-and-ml/github-copilot/the-road-to-better-completions-building-a-faster-smarter-github-copilot-with-a-new-custom-model/",
+      "source": "GitHub Blog",
+      "summary": "Find out about the latest custom models powering the completions experience in GitHub Copilot. The post The road to better completions: Building a faster, smarter GitHub Copilot with a new custom model appeared first on The GitHub Blog.",
+      "published": "2025-10-23T18:31:12Z",
+      "image": "https://github.blog/wp-content/uploads/2025/10/partial-token-completion-error.png?resize=1024%2C447"
+    },
+    {
+      "id": "98dcd3f1ffe32e999e7ea4fa67fecaba954bcc87",
+      "title": "Her er «de ti bud» for KI: – Staten må sørge for åpne modeller",
+      "link": "https://www.kode24.no/artikkel/her-er-de-ti-bud-for-ki-staten-ma-sorge-for-apne-modeller/248057",
+      "source": "Kode24",
+      "summary": "Eksperter fra ulike sektorer har utarbeidet ti bud for at KI og data skal kunne skape verdier for alle.",
+      "published": "2025-10-23T13:09:24Z"
+    },
+    {
+      "id": "11f00dcd879b982ab869c0d273d2a3345f737ae0",
+      "title": "Smartsenger ble overopphetet da AWS var nede",
+      "link": "https://www.kode24.no/artikkel/smartsenger-ble-overopphetet-da-aws-var-nede/248010",
+      "source": "Kode24",
+      "summary": "AWS-bruddet førte til at mange tusen amerikanere fikk nattesøvnen ødelagt, når smartsengen «Eight Sleeps» fikk store problemer.",
+      "published": "2025-10-23T11:06:47Z"
+    },
+    {
+      "id": "72667ed862d1ec86ba9b092b800521fa30eb56dd",
+      "title": "ChatGPT Atlas: – Som å se noen bruke mus for første gang",
+      "link": "https://www.kode24.no/artikkel/chatgpt-atlas-som-a-se-noen-bruke-mus-for-forste-gang/248006",
+      "source": "Kode24",
+      "summary": "Ikke alle er like imponert over OpenAIs ChatGPT Atlas-nettleser.",
+      "published": "2025-10-23T09:15:42Z"
+    },
+    {
+      "id": "29ec7b4f59d910079e054f1d843f5752f01569fc",
+      "title": "Unge nordmenn bekymret for algoritmer",
+      "link": "https://www.kode24.no/artikkel/unge-nordmenn-bekymret-for-algoritmer/247987",
+      "source": "Kode24",
+      "summary": "To av tre norske ungdommer er bekymret for hvordan algoritmer er med å forme deres virkelighet, viser ny årlig undersøkelse.",
+      "published": "2025-10-23T06:30:42Z"
+    },
     {
       "id": "6106c16cc8d32bb8fd685d287eedb58791ea52cf",
       "title": "Søker nyut­dannede et år før de skal starte: «En uting»",
@@ -163,46 +212,6 @@
       "published": "2025-10-17T16:00:00Z"
     },
     {
-      "id": "f9b2372b7acc8a4a4d1c36dee27338d1c7b9a32c",
-      "title": "Feed blir en del av Netlife – alle beholder jobben",
-      "link": "https://www.kode24.no/artikkel/feed-blir-en-del-av-netlife-alle-beholder-jobben/247658",
-      "source": "Kode24",
-      "summary": "– Og vi er i høyeste grad norskeid fortsatt, sier Kristoffer Krohn Eide.",
-      "published": "2025-10-17T11:19:04Z"
-    },
-    {
-      "id": "7ca1a3e203f54bb990d026ecea9a05dd5ad88251",
-      "title": "Norsk drone­selskap må til utlandet for å finne folk",
-      "link": "https://www.kode24.no/artikkel/norsk-droneselskap-ma-til-utlandet-for-a-finne-folk/247562",
-      "source": "Kode24",
-      "summary": "Six Robotics leverer dronesverm-systemene til Hæren. De jakter folk med høye karakterer, og må ut av Norge for å finne nok ansatte.",
-      "published": "2025-10-17T10:11:17Z"
-    },
-    {
-      "id": "5e19f7eb8453f1ec02fd66630bc3b5d2ef8aee52",
-      "title": "Windows 10 er død – nå skal du prate med Windows 11",
-      "link": "https://www.kode24.no/artikkel/windows-10-er-dod-na-skal-du-prate-med-windows-11/247610",
-      "source": "Kode24",
-      "summary": "– Vi tror dette skiftet til samtalebasert input blir like tranformativt som mus og tastatur, hevder Microsoft, som vil du skal prate med PC-en din.",
-      "published": "2025-10-17T08:02:55Z"
-    },
-    {
-      "id": "9df79a9a197377b327dacdb751a7545a81589a25",
-      "title": "«Ekstrem stor» vekst i nett-gambling blant unge menn",
-      "link": "https://www.kode24.no/artikkel/ekstrem-stor-vekst-i-nett-gambling-blant-unge-menn/247596",
-      "source": "Kode24",
-      "summary": "– De unge spiller mer kasinospill enn noen gang tidligere. Veksten har vært ekstremt stor, sier Bjørn Helge Hoffmann i Norsk Tipping.",
-      "published": "2025-10-17T06:15:27Z"
-    },
-    {
-      "id": "8890c3fe4709362d8ec8558d2b86e3c89b8855cc",
-      "title": "1 av 3 usikre på om de anbefaler unge å bli utvikler",
-      "link": "https://www.kode24.no/artikkel/1-av-3-usikre-pa-om-de-anbefaler-unge-a-bli-utvikler/247541",
-      "source": "Kode24",
-      "summary": "– Ganske trist, skriver Ole Petter i ukas nyhetsbrev om kode24s tall. – Og jeg håper Tekna og Nito snart vil få flere ut i jobb, heller enn å bare utdanne så mange som mulig.",
-      "published": "2025-10-17T03:00:00Z"
-    },
-    {
       "id": "d500af8f0539efe3e92ba435d99c6eadf227505e",
       "title": "How to navigate GitHub Universe (or any tech conference) if you’re an introvert",
       "link": "https://github.blog/news-insights/company-news/how-to-navigate-github-universe-or-any-tech-conference-if-youre-an-introvert/",
@@ -237,15 +246,6 @@
       "summary": "Discover how to use GitHub Copilot directly in the terminal. From cloning a repository to opening a pull request, here’s how to streamline your workflow with Copilot CLI. The post GitHub Copilot CLI: How to get started appeared first on The GitHub Blog.",
       "published": "2025-10-13T22:40:04Z",
       "image": "https://github.blog/wp-content/uploads/2025/10/image1_8dda93.png?resize=1024%2C785"
-    },
-    {
-      "id": "e634f178c55628842ff16ab069b289dc867bef66",
-      "title": "How to build reliable AI workflows with agentic primitives and context engineering",
-      "link": "https://github.blog/ai-and-ml/github-copilot/how-to-build-reliable-ai-workflows-with-agentic-primitives-and-context-engineering/",
-      "source": "GitHub Blog",
-      "summary": "See how this three-part framework will turn AI into a repeatable and reliable engineering practice. The post How to build reliable AI workflows with agentic primitives and context engineering appeared first on The GitHub Blog.",
-      "published": "2025-10-13T16:00:00Z",
-      "image": "https://github.blog/wp-content/uploads/2025/10/image1_6a15dc.png?resize=1024%2C618"
     },
     {
       "id": "57ecc16f936f3b31542341b521c5c27fb57352ab",
