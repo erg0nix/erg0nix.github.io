@@ -1,6 +1,54 @@
 {
-  "generated_at": "2025-10-24T06:32:23.117422Z",
+  "generated_at": "2025-10-25T06:30:12.009605Z",
   "items": [
+    {
+      "id": "42a06d642064ef42498adee3bbf23605983ffce6",
+      "title": "– 2025 blir Linux sitt år!",
+      "link": "https://www.kode24.no/artikkel/2025-blir-linux-sitt-ar/248146",
+      "source": "Kode24",
+      "summary": "Linux-spådom med bedre argumenter enn noen sinne, kameraer som beviser at bildene er ekte og navisjonsgalleriet du trenger, i ukas Lørdagsgodt.",
+      "published": "2025-10-25T03:00:00Z"
+    },
+    {
+      "id": "1583464e4d2506f938328e87ed15c62eeaa83286",
+      "title": "How to find, install, and manage MCP servers with the GitHub MCP Registry",
+      "link": "https://github.blog/ai-and-ml/generative-ai/how-to-find-install-and-manage-mcp-servers-with-the-github-mcp-registry/",
+      "source": "GitHub Blog",
+      "summary": "Learn how to bring structure and security to your AI ecosystem with the GitHub MCP Registry, the single source of truth for managing and governing MCP servers. The post How to find, install, and manage MCP servers with the GitHub MCP Registry appeared first on The GitHub Blog.",
+      "published": "2025-10-24T16:00:00Z"
+    },
+    {
+      "id": "c530fd8a3c9926ed73f9c489256fef16d20c54f1",
+      "title": "Halvparten av KIs svar om nyheter hadde feil",
+      "link": "https://www.kode24.no/artikkel/halvparten-av-kis-svar-om-nyheter-hadde-feil/248171",
+      "source": "Kode24",
+      "summary": "Ifølge rapporten klarte Googles Gemini seg dårligst.",
+      "published": "2025-10-24T12:19:39Z"
+    },
+    {
+      "id": "2e1bf765f0e3e781bb58b1de3ad9b4ac0ff37d34",
+      "title": "To nye til Embriq: – Lønn hadde en del å si",
+      "link": "https://www.kode24.no/artikkel/to-nye-til-embriq-lonn-hadde-en-del-a-si/248073",
+      "source": "Kode24",
+      "summary": "Quoc Viet Nguyen Tran og Jens Christian Madsen er nye konsulenter hos Embriq.",
+      "published": "2025-10-24T10:23:49Z"
+    },
+    {
+      "id": "a3a3e42539517e4b8e753ea73367d999f1724dc6",
+      "title": "Å, nei: Clippy er tilbake!",
+      "link": "https://www.kode24.no/artikkel/a-nei-clippy-er-tilbake/248112",
+      "source": "Kode24",
+      "summary": "Microsoft Copilot har i en diger oppdatering fått seg et nytt fjes: Mico. Som kan gjøres om til den gamle bindersen Clippy, om du mot formodning savner den.",
+      "published": "2025-10-24T08:24:50Z"
+    },
+    {
+      "id": "4929e03b5ddf79de56d35a2c28b642d2b93b871e",
+      "title": "Medietilsynet støtter 15-årsgrense i sosiale medier",
+      "link": "https://www.kode24.no/artikkel/medietilsynet-stotter-15-arsgrense-i-sosiale-medier/248093",
+      "source": "Kode24",
+      "summary": "– Men vi mener at loven bør utformes på en måte som bedre ivaretar barns grunnleggende rettigheter.",
+      "published": "2025-10-24T06:32:39Z"
+    },
     {
       "id": "2b34d5dbdd4d2a65bc7a61fa2f712dfa647bfc6a",
       "title": "– Nei, jeg er ikke en kontorhater",
@@ -164,46 +212,6 @@
       "published": "2025-10-20T16:00:16Z"
     },
     {
-      "id": "fcaa50aac033b9f5fbbea6109ded136acd30f2e7",
-      "title": "Fra håndverker til KI-operatør: Framtida til utvikler­bransjen",
-      "link": "https://www.kode24.no/artikkel/fra-handverker-til-ki-operator-framtida-til-utviklerbransjen/247404",
-      "source": "Kode24",
-      "summary": "– KI-maskinene kan kun komme arbeiderklassen til gode hvis kampen om deres eierskap og kontroll blir en del av den brede klassekampen, skriver Sara Rambjør.",
-      "published": "2025-10-20T12:31:44Z"
-    },
-    {
-      "id": "cd4001f64d15527bb93da41bb718ceb9511a0acf",
-      "title": "Vercel og AWS nede",
-      "link": "https://www.kode24.no/artikkel/vercel-og-aws-nede/247747",
-      "source": "Kode24",
-      "summary": "Skapte problemer for alt fra kode24 til ChatGPT.",
-      "published": "2025-10-20T08:51:41Z"
-    },
-    {
-      "id": "fb4ad0f85d12e8f47f6cb29cbf17714a0af819d7",
-      "title": "Mener KI kan erstatte 155.000 folk i staten, men fikk tallet fra KI",
-      "link": "https://www.kode24.no/artikkel/mener-ki-kan-erstatte-155000-folk-i-staten-men-fikk-tallet-fra-ki/247630",
-      "source": "Kode24",
-      "summary": "Tallet har sirkulert siden 2023, men kritikere mener det er \"høyst usikkert og spekulativt\", melder Aftenposten. For tallet kommer fra GPT-4.",
-      "published": "2025-10-20T08:23:29Z"
-    },
-    {
-      "id": "c4fa7473f71bb09bfd46b84492c6aa813d847b86",
-      "title": "– Nei, kjære møte­strikker: Du er ikke respektløs!",
-      "link": "https://www.kode24.no/artikkel/nei-kjaere-motestrikker-du-er-ikke-respektlos/247691",
-      "source": "Kode24",
-      "summary": "– Du er ikke noe frekkere av å strikke, drodle, fikle, hekle eller fargelegge i møter, mener Elise Kristiansen.",
-      "published": "2025-10-20T03:00:00Z"
-    },
-    {
-      "id": "3983878f39f700e70b30208f94472e4052215da1",
-      "title": "Derfor er alle KI-genererte nettsider lilla",
-      "link": "https://www.kode24.no/artikkel/derfor-er-alle-ki-genererte-nettsider-lilla/247674",
-      "source": "Kode24",
-      "summary": "Grunnen til at KI elsker lilla, søte pusekatter, open source printere og KI-boble i ukas Lørdagsgodt.",
-      "published": "2025-10-18T03:00:00Z"
-    },
-    {
       "id": "422338bd26b7050952de0865677f83f276a3a900",
       "title": "Accelerate developer productivity with these 9 open source AI and MCP projects",
       "link": "https://github.blog/open-source/accelerate-developer-productivity-with-these-9-open-source-ai-and-mcp-projects/",
@@ -237,15 +245,6 @@
       "summary": "GitHub Copilot and AI agents are making legacy COBOL systems accessible to modern developers. The post How GitHub Copilot and AI agents are saving legacy systems appeared first on The GitHub Blog.",
       "published": "2025-10-14T16:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2025/10/mermaid.png?resize=475%2C908"
-    },
-    {
-      "id": "888a40d0e6911421da18748da31dbe0ee2cd3bde",
-      "title": "GitHub Copilot CLI: How to get started",
-      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-how-to-get-started/",
-      "source": "GitHub Blog",
-      "summary": "Discover how to use GitHub Copilot directly in the terminal. From cloning a repository to opening a pull request, here’s how to streamline your workflow with Copilot CLI. The post GitHub Copilot CLI: How to get started appeared first on The GitHub Blog.",
-      "published": "2025-10-13T22:40:04Z",
-      "image": "https://github.blog/wp-content/uploads/2025/10/image1_8dda93.png?resize=1024%2C785"
     },
     {
       "id": "57ecc16f936f3b31542341b521c5c27fb57352ab",
