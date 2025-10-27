@@ -1,6 +1,14 @@
 {
-  "generated_at": "2025-10-26T06:31:35.264796Z",
+  "generated_at": "2025-10-27T06:37:08.832167Z",
   "items": [
+    {
+      "id": "5feb1cbd7a63ddcb06e9c85844e77cf622352af6",
+      "title": "Phillip (14) selger egen elektronikk",
+      "link": "https://www.kode24.no/artikkel/phillip-14-selger-egen-elektronikk/247931",
+      "source": "Kode24",
+      "summary": "– Jeg har endel Raspberry Pi-er og Arduino-er, og tenkte at jeg ville lage min egen, sier 14 år gamle Phillip Rødseth. Nå er han snart i mål med sin egen MCU.",
+      "published": "2025-10-27T04:00:00Z"
+    },
     {
       "id": "42a06d642064ef42498adee3bbf23605983ffce6",
       "title": "– 2025 blir Linux sitt år!",
@@ -194,14 +202,6 @@
       "source": "Kode24",
       "summary": "Nedetiden fikk store konsekvenser for mange over hele verden på mandag.",
       "published": "2025-10-21T06:39:13Z"
-    },
-    {
-      "id": "c19074cf41b93416c712b37ec86d64e12c93ee04",
-      "title": "Kutt i Innovasjon Norge kan ramme utviklere",
-      "link": "https://www.kode24.no/artikkel/kutt-i-innovasjon-norge-kan-ramme-utviklere/247774",
-      "source": "Kode24",
-      "summary": "Dersom forslaget til statsbudsjett vedtas må det kuttes opptil 80 årsverk i Innovasjon Norge. Det kan ramme de 40 utviklerne som jobber der.",
-      "published": "2025-10-21T03:00:00Z"
     },
     {
       "id": "726f7fb9b9cc0dfb29bf8fcb118a32582263b6fd",
