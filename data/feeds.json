@@ -1,12 +1,44 @@
 {
-  "generated_at": "2025-10-27T06:37:08.832167Z",
+  "generated_at": "2025-10-28T06:35:11.844876Z",
   "items": [
+    {
+      "id": "ce50600302729e7dfeeaed6042f59c23413d7a90",
+      "title": "Plagiat­kontroll.no kan brukes til juks: – Uheldig",
+      "link": "https://www.kode24.no/artikkel/plagiatkontrollno-kan-brukes-til-juks-uheldig/248110",
+      "source": "Kode24",
+      "summary": "Tjenesten tilbyr studenter å unngå plagiat og KI-generert tekst. – Kan være uheldig, mener NTNU.",
+      "published": "2025-10-28T04:00:00Z"
+    },
+    {
+      "id": "10b28728ac872bf6a3c6b9c205ff7b73e891cea4",
+      "title": "Meta gir utviklere med ett års erfaring 2,6 millioner kroner i året",
+      "link": "https://www.kode24.no/artikkel/meta-gir-utviklere-med-ett-ars-erfaring-26-millioner-kroner-i-aret/248246",
+      "source": "Kode24",
+      "summary": "Jobbannonser med lave krav vekker oppsikt, men kravene er kanskje høyere enn de virker.",
+      "published": "2025-10-27T14:48:34Z"
+    },
+    {
+      "id": "03addc1938532048daf916ddd4e2052de4053f6a",
+      "title": "Nå kan du skrive Android-apper i Swift",
+      "link": "https://www.kode24.no/artikkel/na-kan-du-skrive-android-apper-i-swift/248220",
+      "source": "Kode24",
+      "summary": "Første versjon av Swift SDK for Android er ute.",
+      "published": "2025-10-27T09:02:50Z"
+    },
+    {
+      "id": "a13b571da333cf35e56af297ded0d8a23da6eda3",
+      "title": "Svenska kraftnät utsatt for cyberangrep",
+      "link": "https://www.kode24.no/artikkel/svenska-kraftnat-utsatt-for-cyberangrep/248206",
+      "source": "Kode24",
+      "summary": "Sveriges svar på Statnett, «Svenska kraftnät» er utsatt for cyberangrep. Hackergruppen Everest har påttatt seg skylden.",
+      "published": "2025-10-27T07:35:47Z"
+    },
     {
       "id": "5feb1cbd7a63ddcb06e9c85844e77cf622352af6",
       "title": "Phillip (14) selger egen elektronikk",
       "link": "https://www.kode24.no/artikkel/phillip-14-selger-egen-elektronikk/247931",
       "source": "Kode24",
-      "summary": "– Jeg har endel Raspberry Pi-er og Arduino-er, og tenkte at jeg ville lage min egen, sier 14 år gamle Phillip Rødseth. Nå er han snart i mål med sin egen MCU.",
+      "summary": "– Jeg har endel Raspberry Pi-er og Arduino-er, og tenkte at jeg ville lage min egen, sier 14 år gamle Phillip Rødseth. Nå er han snart i mål.",
       "published": "2025-10-27T04:00:00Z"
     },
     {
@@ -170,38 +202,6 @@
       "source": "GitHub Blog",
       "summary": "Have you ever thought about using AI to update community health files for your repositories? This blog shares actionable next steps for doing just that, including a starter kit with a checklist and tutorials on how to create three useful files. The post How to update community health files with AI...",
       "published": "2025-10-21T16:00:00Z"
-    },
-    {
-      "id": "d93c712477c68d5b698caa01d7582ec9a8496e32",
-      "title": "Her er nye Vite+",
-      "link": "https://www.kode24.no/artikkel/her-er-nye-vite/247848",
-      "source": "Kode24",
-      "summary": "– Målet med Vite+ er å tilby én samlet løsning for JavaScript tooling, slik at man kan fokusere på å bygge produkter, forklarer",
-      "published": "2025-10-21T13:37:35Z"
-    },
-    {
-      "id": "3a25f3b93d33c5586697f958e85818d3b361ec2f",
-      "title": "Seks nye til Novacare: «Høy etterspørsel etter flinke folk»",
-      "link": "https://www.kode24.no/artikkel/seks-nye-til-novacare-hoy-ettersporsel-etter-flinke-folk/247821",
-      "source": "Kode24",
-      "summary": "Joanna Gaudyn, David Bakke, Tomas Sandli Johnsen, Erik Heggeland, Heidi Nicoline Bjørnsdottir og Kurt Lekanger starter i Novacare denne høsten.",
-      "published": "2025-10-21T10:21:57Z"
-    },
-    {
-      "id": "957e39a7fd3656adac11ae163e6de6efa1c3f74c",
-      "title": "Claude Code flytter ut av terminalen",
-      "link": "https://www.kode24.no/artikkel/claude-code-flytter-ut-av-terminalen/247804",
-      "source": "Kode24",
-      "summary": "– Claude Code på web lar deg sparke i gang kodesesjonene uten å åpne terminalen, melder Anthropic, som også lanserer på mobilen.",
-      "published": "2025-10-21T08:03:25Z"
-    },
-    {
-      "id": "c3411be05b08fa03d52dfb3f499ed3558ecd42d9",
-      "title": "AWS er oppe igjen – nå også Vercel",
-      "link": "https://www.kode24.no/artikkel/aws-er-oppe-igjen-na-ogsa-vercel/247788",
-      "source": "Kode24",
-      "summary": "Nedetiden fikk store konsekvenser for mange over hele verden på mandag.",
-      "published": "2025-10-21T06:39:13Z"
     },
     {
       "id": "726f7fb9b9cc0dfb29bf8fcb118a32582263b6fd",
