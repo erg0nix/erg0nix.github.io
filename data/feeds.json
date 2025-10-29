@@ -1,6 +1,64 @@
 {
-  "generated_at": "2025-10-28T06:35:11.844876Z",
+  "generated_at": "2025-10-29T06:35:34.301911Z",
   "items": [
+    {
+      "id": "7633b3dbab57fbdd9a099773101cca4f9ad91252",
+      "title": "KI-trøbbel for åpen kildekode: – Folk forstår ikke all koden",
+      "link": "https://www.kode24.no/artikkel/ki-trobbel-for-apen-kildekode-folk-forstar-ikke-all-koden/248298",
+      "source": "Kode24",
+      "summary": "Noen mener KI-skapt lisenskaos blir døden for FOSS-prosjekter. Arch Linux-bidragsyter Morten Linderud tror andre KI-problemer er større.",
+      "published": "2025-10-28T23:00:00Z"
+    },
+    {
+      "id": "ba48a2ec32be4763cca020d3b20be20b4398791f",
+      "title": "Introducing Agent HQ: Any agent, any way you work",
+      "link": "https://github.blog/news-insights/company-news/welcome-home-agents/",
+      "source": "GitHub Blog",
+      "summary": "At Universe 2025, GitHub's next evolution introduces a single, unified workflow for developers to be able to orchestrate any agent, any time, anywhere. The post Introducing Agent HQ: Any agent, any way you work appeared first on The GitHub Blog.",
+      "published": "2025-10-28T16:08:15Z",
+      "image": "https://github.blog/wp-content/uploads/2025/10/Quotes_v5.jpg?resize=2796%2C2022"
+    },
+    {
+      "id": "a721b4a98f9ad503034dd18b1626ff75aead8c89",
+      "title": "Octoverse: A new developer joins GitHub every second as AI leads TypeScript to #1",
+      "link": "https://github.blog/news-insights/octoverse/octoverse-a-new-developer-joins-github-every-second-as-ai-leads-typescript-to-1/",
+      "source": "GitHub Blog",
+      "summary": "In this year’s Octoverse, we uncover how AI, agents, and typed languages are driving the biggest shifts in software development in more than a decade. The post Octoverse: A new developer joins GitHub every second as AI leads TypeScript to #1 appeared first on The GitHub Blog.",
+      "published": "2025-10-28T16:07:06Z",
+      "image": "https://github.blog/wp-content/uploads/2025/10/Octoverse-2025-top-level-metrics.png?resize=1440%2C810"
+    },
+    {
+      "id": "083c52f48e8619c6adb73fb94afc4bc7c3076a92",
+      "title": "Announcing the 2025 GitHub Partner Award winners 🎉",
+      "link": "https://github.blog/news-insights/company-news/announcing-the-2025-github-partner-award-winners/",
+      "source": "GitHub Blog",
+      "summary": "GitHub celebrates its 2025 Partner Award winners, honoring global, regional, and technology partners for driving innovation, collaboration, and impact across the developer ecosystem. The post Announcing the 2025 GitHub Partner Award winners 🎉 appeared first on The GitHub Blog.",
+      "published": "2025-10-28T16:00:00Z"
+    },
+    {
+      "id": "d22cbb3cb15e248092a2b7202b9a0e4e488945ec",
+      "title": "Palestina-aktivist avbrøt Googles KI-konferanse i Oslo",
+      "link": "https://www.kode24.no/artikkel/palestina-aktivist-avbrot-googles-ki-konferanse-i-oslo/248242",
+      "source": "Kode24",
+      "summary": "Ropte \"No tech for genocide! Boycott Google!\" før han ble kastet ut av vaktene. – Skulle ønske vi slapp, forteller han.",
+      "published": "2025-10-28T11:58:09Z"
+    },
+    {
+      "id": "753b3daa8ddd948064a8457f43d26f2925268c99",
+      "title": "Én million snakker med ChatGPT om selvmord",
+      "link": "https://www.kode24.no/artikkel/en-million-snakker-med-chatgpt-om-selvmord/248271",
+      "source": "Kode24",
+      "summary": "OpenAI har lansert ferske tall som viser at over én million mennesker har samtaler med ChatGPT som indikerer potensiell selvmord.",
+      "published": "2025-10-28T09:49:00Z"
+    },
+    {
+      "id": "fa5bf6f182047015a3d4b2ce6d75edd13a55bf1a",
+      "title": "Amazon kutter 30.000 ansatte – noen erstattes av KI",
+      "link": "https://www.kode24.no/artikkel/amazon-kutter-30000-ansatte-noen-erstattes-av-ki/248273",
+      "source": "Kode24",
+      "summary": "Mindre byråkrati og mer KI skal være mye av grunnen til nedbemanningen, som også rammer AWS.",
+      "published": "2025-10-28T08:24:59Z"
+    },
     {
       "id": "ce50600302729e7dfeeaed6042f59c23413d7a90",
       "title": "Plagiat­kontroll.no kan brukes til juks: – Uheldig",
@@ -164,38 +222,6 @@
       "published": "2025-10-22T16:00:00Z"
     },
     {
-      "id": "a5472131f3fc211e071f76d2e5c1ef43381a9ab5",
-      "title": "PostgreSQL er nå større enn MySQL",
-      "link": "https://www.kode24.no/artikkel/postgresql-er-na-storre-enn-mysql/247961",
-      "source": "Kode24",
-      "summary": "Jetbrains digre undersøkelse viser hva verdens utviklere programmerer i, lagrer data i og bruker av KI-løsninger.",
-      "published": "2025-10-22T12:34:21Z"
-    },
-    {
-      "id": "b296ae662e77088ba15d2c1c147af299213566dd",
-      "title": "– Det er på kontoret magien skjer",
-      "link": "https://www.kode24.no/artikkel/det-er-pa-kontoret-magien-skjer/247896",
-      "source": "Kode24",
-      "summary": "– Kanskje det er på tide å legge hjemmekontor-debatten død, og heller få frem fordelene med å sitte fysisk på kontoret? spør Marcus Sahlin Pettersen.",
-      "published": "2025-10-22T08:20:16Z"
-    },
-    {
-      "id": "11313e8cc8be72059c808f6d0a5b27e2947fbff8",
-      "title": "OpenAI lanserer nettleseren Atlas",
-      "link": "https://www.kode24.no/artikkel/openai-lanserer-nettleseren-atlas/247879",
-      "source": "Kode24",
-      "summary": "Nettleseren kan allerede tas i bruk på Apple-maskiner, og kommer snart til Windows, Android og iOS.",
-      "published": "2025-10-22T06:33:58Z"
-    },
-    {
-      "id": "06ac17e1e886611ff84a11947a519753f0c98549",
-      "title": "Vanskelig å være anonym på nett med nye aldersgrenser",
-      "link": "https://www.kode24.no/artikkel/vanskelig-a-vaere-anonym-pa-nett-med-nye-aldersgrenser/247608",
-      "source": "Kode24",
-      "summary": "Innføres en aldersgrense for sosiale medier på 15 år, så kan man miste muligheten til å være anonym på nettet, påpeker eksperter.",
-      "published": "2025-10-22T03:00:00Z"
-    },
-    {
       "id": "09a4da9daa8e92c56c25cd30c7bb21312707841c",
       "title": "How to update community health files with AI",
       "link": "https://github.blog/ai-and-ml/github-copilot/how-to-update-community-health-files-with-ai/",
@@ -218,33 +244,6 @@
       "source": "GitHub Blog",
       "summary": "GitHub Copilot and VS Code teams, along with the Microsoft Open Source Program Office (OSPO), sponsored these nine open source MCP projects that provide new frameworks, tools, and assistants to unlock AI-native workflows, agentic tooling, and innovation. The post Accelerate developer productivity...",
       "published": "2025-10-17T16:00:00Z"
-    },
-    {
-      "id": "d500af8f0539efe3e92ba435d99c6eadf227505e",
-      "title": "How to navigate GitHub Universe (or any tech conference) if you’re an introvert",
-      "link": "https://github.blog/news-insights/company-news/how-to-navigate-github-universe-or-any-tech-conference-if-youre-an-introvert/",
-      "source": "GitHub Blog",
-      "summary": "If alone time is your love language—don’t worry, it’s ours too—you can still attend, learn from, and enjoy big events like GitHub Universe. Here are some practical tips on how. The post How to navigate GitHub Universe (or any tech conference) if you’re an introvert appeared first on The GitHub Blog.",
-      "published": "2025-10-16T16:14:02Z",
-      "image": "https://github.blog/wp-content/uploads/2025/10/image8.jpg?resize=1024%2C683"
-    },
-    {
-      "id": "542068b16a96296114e15177afcc540e7f967535",
-      "title": "Copilot: Faster, smarter, and built for how you work now",
-      "link": "https://github.blog/ai-and-ml/github-copilot/copilot-faster-smarter-and-built-for-how-you-work-now/",
-      "source": "GitHub Blog",
-      "summary": "Discover how GitHub Copilot has evolved from a high-powered autocomplete tool to a powerful, multi-model agentic assistant. The post Copilot: Faster, smarter, and built for how you work now appeared first on The GitHub Blog.",
-      "published": "2025-10-15T15:00:00Z",
-      "image": "https://github.blog/wp-content/uploads/2025/10/FeatureList_v6.png?resize=1232%2C2146"
-    },
-    {
-      "id": "cabfab9858394de4afcab3bf78df3563db7b1d5e",
-      "title": "How GitHub Copilot and AI agents are saving legacy systems",
-      "link": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-and-ai-agents-are-saving-legacy-systems/",
-      "source": "GitHub Blog",
-      "summary": "GitHub Copilot and AI agents are making legacy COBOL systems accessible to modern developers. The post How GitHub Copilot and AI agents are saving legacy systems appeared first on The GitHub Blog.",
-      "published": "2025-10-14T16:00:00Z",
-      "image": "https://github.blog/wp-content/uploads/2025/10/mermaid.png?resize=475%2C908"
     },
     {
       "id": "57ecc16f936f3b31542341b521c5c27fb57352ab",
