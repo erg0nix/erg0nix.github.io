@@ -1,6 +1,47 @@
 {
-  "generated_at": "2025-10-29T06:35:34.301911Z",
+  "generated_at": "2025-10-30T06:33:53.462992Z",
   "items": [
+    {
+      "id": "71d8cee430802b0f2a43691abe59538fa9feadd2",
+      "title": "Flere utvikler­fag dropper bøkene",
+      "link": "https://www.kode24.no/artikkel/flere-utviklerfag-dropper-bokene/247969",
+      "source": "Kode24",
+      "summary": "Flere fag ved OsloMet har ingen obligatoriske bøker. –Utviklingen går kanskje for raskt, sier professor.",
+      "published": "2025-10-30T04:00:00Z"
+    },
+    {
+      "id": "16ffe82376fd8362fa01e34ba9f85c5c02d6029a",
+      "title": "Advarer: – Ikke bruk KI-nettlesere som Atlas!",
+      "link": "https://www.kode24.no/artikkel/advarer-ikke-bruk-ki-nettlesere-som-atlas/248295",
+      "source": "Kode24",
+      "summary": "– Hvis du vurderer å bruke en ny KI-nettleser, så please don’t, skriver Tanet Trimas, som mener de ikke er trygge nok.",
+      "published": "2025-10-29T12:49:20Z"
+    },
+    {
+      "id": "00a3f12c9cb630ec4fbb506707acb6761050caf6",
+      "title": "Kina kan stoppe Ruter-busser: - Naiviteten må ta slutt!",
+      "link": "https://www.kode24.no/artikkel/kina-kan-stoppe-ruter-busser-naiviteten-ma-ta-slutt/248441",
+      "source": "Kode24",
+      "summary": "Bård Hoksrud reagerer etter avsløringer rundt Ruters busser fra Kina.",
+      "published": "2025-10-29T08:09:03Z"
+    },
+    {
+      "id": "2bfc8850ee54e6a8589f98facd07bcd41d745611",
+      "title": "Microsoft kjøper opp 27 prosent av OpenAI",
+      "link": "https://www.kode24.no/artikkel/microsoft-kjoper-opp-27-prosent-av-openai/248432",
+      "source": "Kode24",
+      "summary": "Avtalen gir også Microsoft tilgang til OpenAIs teknologi fram til 2032.",
+      "published": "2025-10-29T08:01:43Z"
+    },
+    {
+      "id": "577a5afee18bb2d538f868ac979bc42e4339a172",
+      "title": "The Green Tea Garbage Collector",
+      "link": "https://go.dev/blog/greenteagc",
+      "source": "Go Blog",
+      "summary": "Go 1.25 includes a new experimental garbage collector, Green Tea.",
+      "published": "2025-10-29T00:00:00Z",
+      "image": "https://go.dev/blog/greenteagc/marksweep-007.png"
+    },
     {
       "id": "7633b3dbab57fbdd9a099773101cca4f9ad91252",
       "title": "KI-trøbbel for åpen kildekode: – Folk forstår ikke all koden",
@@ -173,38 +214,6 @@
       "published": "2025-10-23T13:09:24Z"
     },
     {
-      "id": "11f00dcd879b982ab869c0d273d2a3345f737ae0",
-      "title": "Smartsenger ble overopphetet da AWS var nede",
-      "link": "https://www.kode24.no/artikkel/smartsenger-ble-overopphetet-da-aws-var-nede/248010",
-      "source": "Kode24",
-      "summary": "AWS-bruddet førte til at mange tusen amerikanere fikk nattesøvnen ødelagt, når smartsengen «Eight Sleeps» fikk store problemer.",
-      "published": "2025-10-23T11:06:47Z"
-    },
-    {
-      "id": "72667ed862d1ec86ba9b092b800521fa30eb56dd",
-      "title": "ChatGPT Atlas: – Som å se noen bruke mus for første gang",
-      "link": "https://www.kode24.no/artikkel/chatgpt-atlas-som-a-se-noen-bruke-mus-for-forste-gang/248006",
-      "source": "Kode24",
-      "summary": "Ikke alle er like imponert over OpenAIs ChatGPT Atlas-nettleser.",
-      "published": "2025-10-23T09:15:42Z"
-    },
-    {
-      "id": "29ec7b4f59d910079e054f1d843f5752f01569fc",
-      "title": "Unge nordmenn bekymret for algoritmer",
-      "link": "https://www.kode24.no/artikkel/unge-nordmenn-bekymret-for-algoritmer/247987",
-      "source": "Kode24",
-      "summary": "To av tre norske ungdommer er bekymret for hvordan algoritmer er med å forme deres virkelighet, viser ny årlig undersøkelse.",
-      "published": "2025-10-23T06:30:42Z"
-    },
-    {
-      "id": "6106c16cc8d32bb8fd685d287eedb58791ea52cf",
-      "title": "Søker nyut­dannede et år før de skal starte: «En uting»",
-      "link": "https://www.kode24.no/artikkel/soker-nyutdannede-et-ar-for-de-skal-starte-en-uting/247838",
-      "source": "Kode24",
-      "summary": "Tripletex søker allerede nå studenter som vil starte høsten 2026. – Selskaper bør skjerpe seg, mener student Anders Rodem.",
-      "published": "2025-10-23T03:00:00Z"
-    },
-    {
       "id": "8f267e7cddd4742219a7166f9b1c36efed10659e",
       "title": "From karaoke terminals to AI résumés: The winners of GitHub’s For the Love of Code challenge",
       "link": "https://github.blog/open-source/from-karaoke-terminals-to-ai-resumes-the-winners-of-githubs-for-the-love-of-code-challenge/",
@@ -318,14 +327,6 @@
       "source": "Go Blog",
       "summary": "Go team plans around error handling support",
       "published": "2025-06-03T00:00:00Z"
-    },
-    {
-      "id": "b8de36a9f2b23cdd3ea092668ff5cbf6a75f24c2",
-      "title": "Go Cryptography Security Audit",
-      "link": "https://go.dev/blog/tob-crypto-audit",
-      "source": "Go Blog",
-      "summary": "Go's cryptography libraries underwent an audit by Trail of Bits.",
-      "published": "2025-05-19T00:00:00Z"
     }
   ]
 }
