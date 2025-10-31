@@ -1,6 +1,30 @@
 {
-  "generated_at": "2025-10-30T06:33:53.462992Z",
+  "generated_at": "2025-10-31T06:34:07.038946Z",
   "items": [
+    {
+      "id": "5405adb1b060c1cc937972e79c22864884407928",
+      "title": "Next.js 16 er her: – To veldig gode grunner til at du bør oppgradere",
+      "link": "https://www.kode24.no/artikkel/nextjs-16-er-her-to-veldig-gode-grunner-til-at-du-bor-oppgradere/248368",
+      "source": "Kode24",
+      "summary": "Next.js 16, varige funksjoner og kritikk mot direktiver i ukas ForrigeUke.",
+      "published": "2025-10-31T04:00:00Z"
+    },
+    {
+      "id": "4cc93ff6ac85d3b89a40c6d7a3ed721d978e2455",
+      "title": "Measuring what matters: How offline evaluation of GitHub MCP Server works",
+      "link": "https://github.blog/ai-and-ml/generative-ai/measuring-what-matters-how-offline-evaluation-of-github-mcp-server-works/",
+      "source": "GitHub Blog",
+      "summary": "Take a look inside our automated pipeline for rapid, rigorous evaluation for the GitHub MCP Server. The post Measuring what matters: How offline evaluation of GitHub MCP Server works appeared first on The GitHub Blog.",
+      "published": "2025-10-30T21:46:07Z"
+    },
+    {
+      "id": "6953f4766813f21943c3ad3b45035a4bdbbe1e8e",
+      "title": "Azure nede - skapte store problemer i timesvis",
+      "link": "https://www.kode24.no/artikkel/azure-nede-skapte-store-problemer-i-timesvis/248459",
+      "source": "Kode24",
+      "summary": "Blant annet BankID gikk ned.",
+      "published": "2025-10-30T08:13:13Z"
+    },
     {
       "id": "71d8cee430802b0f2a43691abe59538fa9feadd2",
       "title": "Flere utvikler­fag dropper bøkene",
@@ -11,8 +35,8 @@
     },
     {
       "id": "16ffe82376fd8362fa01e34ba9f85c5c02d6029a",
-      "title": "Advarer: – Ikke bruk KI-nettlesere som Atlas!",
-      "link": "https://www.kode24.no/artikkel/advarer-ikke-bruk-ki-nettlesere-som-atlas/248295",
+      "title": "Advarer: – Ikke bruk KI-nettlesere som ChatGPT Atlas!",
+      "link": "https://www.kode24.no/artikkel/advarer-ikke-bruk-ki-nettlesere-som-chatgpt-atlas/248295",
       "source": "Kode24",
       "summary": "– Hvis du vurderer å bruke en ny KI-nettleser, så please don’t, skriver Tanet Trimas, som mener de ikke er trygge nok.",
       "published": "2025-10-29T12:49:20Z"
@@ -189,14 +213,6 @@
       "published": "2025-10-24T06:32:39Z"
     },
     {
-      "id": "2b34d5dbdd4d2a65bc7a61fa2f712dfa647bfc6a",
-      "title": "– Nei, jeg er ikke en kontorhater",
-      "link": "https://www.kode24.no/artikkel/nei-jeg-er-ikke-en-kontorhater/248036",
-      "source": "Kode24",
-      "summary": "– Det jeg kjemper for, er frihet, skriver Ole Petter i ukas nyhetsbrev, etter å ha blitt kalt \"kontorhater\".",
-      "published": "2025-10-24T03:00:00Z"
-    },
-    {
       "id": "c444d6629c50ab496eb5c08fbf59e93738296396",
       "title": "The road to better completions: Building a faster, smarter GitHub Copilot with a new custom model",
       "link": "https://github.blog/ai-and-ml/github-copilot/the-road-to-better-completions-building-a-faster-smarter-github-copilot-with-a-new-custom-model/",
@@ -204,14 +220,6 @@
       "summary": "Find out about the latest custom models powering the completions experience in GitHub Copilot. The post The road to better completions: Building a faster, smarter GitHub Copilot with a new custom model appeared first on The GitHub Blog.",
       "published": "2025-10-23T18:31:12Z",
       "image": "https://github.blog/wp-content/uploads/2025/10/partial-token-completion-error.png?resize=1024%2C447"
-    },
-    {
-      "id": "98dcd3f1ffe32e999e7ea4fa67fecaba954bcc87",
-      "title": "Her er «de ti bud» for KI: – Staten må sørge for åpne modeller",
-      "link": "https://www.kode24.no/artikkel/her-er-de-ti-bud-for-ki-staten-ma-sorge-for-apne-modeller/248057",
-      "source": "Kode24",
-      "summary": "Eksperter fra ulike sektorer har utarbeidet ti bud for at KI og data skal kunne skape verdier for alle.",
-      "published": "2025-10-23T13:09:24Z"
     },
     {
       "id": "8f267e7cddd4742219a7166f9b1c36efed10659e",
@@ -245,14 +253,6 @@
       "source": "GitHub Blog",
       "summary": "Log4Shell proved that open source security isn't guaranteed and isn’t just a code problem. It's about supporting, enabling, and empowering the people behind the projects that build our digital infrastructure. The post Inside the breach that broke the internet: The untold story of Log4Shell appeared...",
       "published": "2025-10-20T16:00:16Z"
-    },
-    {
-      "id": "422338bd26b7050952de0865677f83f276a3a900",
-      "title": "Accelerate developer productivity with these 9 open source AI and MCP projects",
-      "link": "https://github.blog/open-source/accelerate-developer-productivity-with-these-9-open-source-ai-and-mcp-projects/",
-      "source": "GitHub Blog",
-      "summary": "GitHub Copilot and VS Code teams, along with the Microsoft Open Source Program Office (OSPO), sponsored these nine open source MCP projects that provide new frameworks, tools, and assistants to unlock AI-native workflows, agentic tooling, and innovation. The post Accelerate developer productivity...",
-      "published": "2025-10-17T16:00:00Z"
     },
     {
       "id": "57ecc16f936f3b31542341b521c5c27fb57352ab",
