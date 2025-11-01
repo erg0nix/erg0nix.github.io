@@ -1,6 +1,62 @@
 {
-  "generated_at": "2025-10-31T06:34:07.038946Z",
+  "generated_at": "2025-11-01T06:30:34.259875Z",
   "items": [
+    {
+      "id": "0177ad8a1f28b4cd4b8d2b628982d78db6b99445",
+      "title": "Cursor 2.0 er ute – her er alt du må vite",
+      "link": "https://www.kode24.no/artikkel/cursor-20-er-ute-her-er-alt-du-ma-vite/248524",
+      "source": "Kode24",
+      "summary": "Ny Cursor, ny NEO-robot fra 1X, nye Linux-kaninhull og gamle NRK-serier, i ukas Lørdagsgodt.",
+      "published": "2025-11-01T04:00:00Z"
+    },
+    {
+      "id": "b903e2df86e5ae63af69ccc15e1addf39f0d2487",
+      "title": "Microsoft blir mye dyrere for offentlig sektor i Norge",
+      "link": "https://www.kode24.no/artikkel/microsoft-blir-mye-dyrere-for-offentlig-sektor-i-norge/248574",
+      "source": "Kode24",
+      "summary": "Virksomheter med mange brukere har til nå kunnet få kvantumsrabatt. Microsoft fjerner denne goden fra 1. november, som også rammer Norge, melder Digi.",
+      "published": "2025-10-31T13:29:04Z"
+    },
+    {
+      "id": "2f93126966b3ce4e0d7672bcb25c5b82fe395b6d",
+      "title": "Datatrøbbel for apotek over hele landet",
+      "link": "https://www.kode24.no/artikkel/datatrobbel-for-apotek-over-hele-landet/248565",
+      "source": "Kode24",
+      "summary": "VG melder om datatrøbbel i Apotek over hele landet. Folk får ikke hentet ut resepter.",
+      "published": "2025-10-31T13:20:44Z"
+    },
+    {
+      "id": "97868bc6e2bb3c7ebb9a06c319db6ca353914219",
+      "title": "Stort fall hos Pornhub etter aldergrense",
+      "link": "https://www.kode24.no/artikkel/stort-fall-hos-pornhub-etter-aldergrense/248513",
+      "source": "Kode24",
+      "summary": "Pornhub melder at antall besøkende fra Storbritannia har falt med 77 prosent siden innføringen av aldersverifisering. VPN-bruken, derimot, eksploderer.",
+      "published": "2025-10-31T13:19:22Z"
+    },
+    {
+      "id": "eb560ccb25eb69bb2d493ad08b90ed1d348f4355",
+      "title": "Halvparten av KI-relaterte oppsigelser blir reversert, viser rapport",
+      "link": "https://www.kode24.no/artikkel/halvparten-av-ki-relaterte-oppsigelser-blir-reversert-viser-rapport/248484",
+      "source": "Kode24",
+      "summary": "Mange arbeidsplasser, som Klarna og Duolingo, angrer på at de har sagt opp ansatte og erstattet dem med KI. Det er de ikke alene om, viser fersk rapport.",
+      "published": "2025-10-31T11:45:30Z"
+    },
+    {
+      "id": "bb3ae6891f8774b8a78de9d56e0fd9ccde3ca1bf",
+      "title": "Nå er TypeScript større enn både JavaScript og Python",
+      "link": "https://www.kode24.no/artikkel/na-er-typescript-storre-enn-bade-javascript-og-python/248480",
+      "source": "Kode24",
+      "summary": "– Utviklere bytter til typede språk, som gjør agent-assistert koding mer pålitelig, hevder GitHub.",
+      "published": "2025-10-31T09:13:07Z"
+    },
+    {
+      "id": "03ad95f4a64811f819bf1f91af5c22e0139ebd48",
+      "title": "Eks-Arsenal-trener brukte ChatGPT, og vant",
+      "link": "https://www.kode24.no/artikkel/eks-arsenal-trener-brukte-chatgpt-og-vant/248470",
+      "source": "Kode24",
+      "summary": "Fotballtrener Laura Harvey, som tidligere har vært Arsenal-trener, forteller at hun har brukt ChatGPT i sesongoppkjøringen i år.",
+      "published": "2025-10-31T07:36:08Z"
+    },
     {
       "id": "5405adb1b060c1cc937972e79c22864884407928",
       "title": "Next.js 16 er her: – To veldig gode grunner til at du bør oppgradere",
@@ -149,68 +205,12 @@
       "published": "2025-10-27T09:02:50Z"
     },
     {
-      "id": "a13b571da333cf35e56af297ded0d8a23da6eda3",
-      "title": "Svenska kraftnät utsatt for cyberangrep",
-      "link": "https://www.kode24.no/artikkel/svenska-kraftnat-utsatt-for-cyberangrep/248206",
-      "source": "Kode24",
-      "summary": "Sveriges svar på Statnett, «Svenska kraftnät» er utsatt for cyberangrep. Hackergruppen Everest har påttatt seg skylden.",
-      "published": "2025-10-27T07:35:47Z"
-    },
-    {
-      "id": "5feb1cbd7a63ddcb06e9c85844e77cf622352af6",
-      "title": "Phillip (14) selger egen elektronikk",
-      "link": "https://www.kode24.no/artikkel/phillip-14-selger-egen-elektronikk/247931",
-      "source": "Kode24",
-      "summary": "– Jeg har endel Raspberry Pi-er og Arduino-er, og tenkte at jeg ville lage min egen, sier 14 år gamle Phillip Rødseth. Nå er han snart i mål.",
-      "published": "2025-10-27T04:00:00Z"
-    },
-    {
-      "id": "42a06d642064ef42498adee3bbf23605983ffce6",
-      "title": "– 2025 blir Linux sitt år!",
-      "link": "https://www.kode24.no/artikkel/2025-blir-linux-sitt-ar/248146",
-      "source": "Kode24",
-      "summary": "Linux-spådom med bedre argumenter enn noen sinne, kameraer som beviser at bildene er ekte og navisjonsgalleriet du trenger, i ukas Lørdagsgodt.",
-      "published": "2025-10-25T03:00:00Z"
-    },
-    {
       "id": "1583464e4d2506f938328e87ed15c62eeaa83286",
       "title": "How to find, install, and manage MCP servers with the GitHub MCP Registry",
       "link": "https://github.blog/ai-and-ml/generative-ai/how-to-find-install-and-manage-mcp-servers-with-the-github-mcp-registry/",
       "source": "GitHub Blog",
       "summary": "Learn how to bring structure and security to your AI ecosystem with the GitHub MCP Registry, the single source of truth for managing and governing MCP servers. The post How to find, install, and manage MCP servers with the GitHub MCP Registry appeared first on The GitHub Blog.",
       "published": "2025-10-24T16:00:00Z"
-    },
-    {
-      "id": "c530fd8a3c9926ed73f9c489256fef16d20c54f1",
-      "title": "Halvparten av KIs svar om nyheter hadde feil",
-      "link": "https://www.kode24.no/artikkel/halvparten-av-kis-svar-om-nyheter-hadde-feil/248171",
-      "source": "Kode24",
-      "summary": "Ifølge rapporten klarte Googles Gemini seg dårligst.",
-      "published": "2025-10-24T12:19:39Z"
-    },
-    {
-      "id": "2e1bf765f0e3e781bb58b1de3ad9b4ac0ff37d34",
-      "title": "To nye til Embriq: – Lønn hadde en del å si",
-      "link": "https://www.kode24.no/artikkel/to-nye-til-embriq-lonn-hadde-en-del-a-si/248073",
-      "source": "Kode24",
-      "summary": "Quoc Viet Nguyen Tran og Jens Christian Madsen er nye konsulenter hos Embriq.",
-      "published": "2025-10-24T10:23:49Z"
-    },
-    {
-      "id": "a3a3e42539517e4b8e753ea73367d999f1724dc6",
-      "title": "Å, nei: Clippy er tilbake!",
-      "link": "https://www.kode24.no/artikkel/a-nei-clippy-er-tilbake/248112",
-      "source": "Kode24",
-      "summary": "Microsoft Copilot har i en diger oppdatering fått seg et nytt fjes: Mico. Som kan gjøres om til den gamle bindersen Clippy, om du mot formodning savner den.",
-      "published": "2025-10-24T08:24:50Z"
-    },
-    {
-      "id": "4929e03b5ddf79de56d35a2c28b642d2b93b871e",
-      "title": "Medietilsynet støtter 15-årsgrense i sosiale medier",
-      "link": "https://www.kode24.no/artikkel/medietilsynet-stotter-15-arsgrense-i-sosiale-medier/248093",
-      "source": "Kode24",
-      "summary": "– Men vi mener at loven bør utformes på en måte som bedre ivaretar barns grunnleggende rettigheter.",
-      "published": "2025-10-24T06:32:39Z"
     },
     {
       "id": "c444d6629c50ab496eb5c08fbf59e93738296396",
