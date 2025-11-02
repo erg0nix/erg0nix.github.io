@@ -1,6 +1,15 @@
 {
-  "generated_at": "2025-11-01T06:30:34.259875Z",
+  "generated_at": "2025-11-02T06:32:15.907360Z",
   "items": [
+    {
+      "id": "ab5926d98570f5d65247e0620c2cccd0db4832af",
+      "title": "GitHub Game Off 2025 theme announcement",
+      "link": "https://github.blog/company/github-game-off-2025-theme-announcement/",
+      "source": "GitHub Blog",
+      "summary": "GitHub’s annual month-long game jam is back for its 13th year! This November, make a game inspired by the theme WAVES—literal, digital, or emotional. 👋🏻 🌊 📡 The post GitHub Game Off 2025 theme announcement appeared first on The GitHub Blog.",
+      "published": "2025-11-01T20:37:00Z",
+      "image": "https://github.blog/wp-content/uploads/2025/10/hang10.gif?resize=500%2C281"
+    },
     {
       "id": "0177ad8a1f28b4cd4b8d2b628982d78db6b99445",
       "title": "Cursor 2.0 er ute – her er alt du må vite",
@@ -245,14 +254,6 @@
       "source": "GitHub Blog",
       "summary": "Have you ever thought about using AI to update community health files for your repositories? This blog shares actionable next steps for doing just that, including a starter kit with a checklist and tutorials on how to create three useful files. The post How to update community health files with AI...",
       "published": "2025-10-21T16:00:00Z"
-    },
-    {
-      "id": "726f7fb9b9cc0dfb29bf8fcb118a32582263b6fd",
-      "title": "Inside the breach that broke the internet: The untold story of Log4Shell",
-      "link": "https://github.blog/open-source/inside-the-breach-that-broke-the-internet-the-untold-story-of-log4shell/",
-      "source": "GitHub Blog",
-      "summary": "Log4Shell proved that open source security isn't guaranteed and isn’t just a code problem. It's about supporting, enabling, and empowering the people behind the projects that build our digital infrastructure. The post Inside the breach that broke the internet: The untold story of Log4Shell appeared...",
-      "published": "2025-10-20T16:00:16Z"
     },
     {
       "id": "57ecc16f936f3b31542341b521c5c27fb57352ab",
