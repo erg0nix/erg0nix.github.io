@@ -1,6 +1,14 @@
 {
-  "generated_at": "2025-11-02T06:32:15.907360Z",
+  "generated_at": "2025-11-03T06:35:51.136224Z",
   "items": [
+    {
+      "id": "85b624e2f81e3f3c6d3971e2a6ebab877882c7a7",
+      "title": "Bekymret for at KI erstatter pensum",
+      "link": "https://www.kode24.no/artikkel/bekymret-for-at-ki-erstatter-pensum/248189",
+      "source": "Kode24",
+      "summary": "– Når «AI-slop» truer med å fortrenge reell innsikt, må forlagene ta tilbake rollen som samfunnets kvalitetsfilter, skriver Ronny Ellefsen, og håper fagbøkene tilgjengeliggjøres.",
+      "published": "2025-11-03T04:00:00Z"
+    },
     {
       "id": "ab5926d98570f5d65247e0620c2cccd0db4832af",
       "title": "GitHub Game Off 2025 theme announcement",
@@ -204,14 +212,6 @@
       "source": "Kode24",
       "summary": "Jobbannonser med lave krav vekker oppsikt, men kravene er kanskje høyere enn de virker.",
       "published": "2025-10-27T14:48:34Z"
-    },
-    {
-      "id": "03addc1938532048daf916ddd4e2052de4053f6a",
-      "title": "Nå kan du skrive Android-apper i Swift",
-      "link": "https://www.kode24.no/artikkel/na-kan-du-skrive-android-apper-i-swift/248220",
-      "source": "Kode24",
-      "summary": "Første versjon av Swift SDK for Android er ute.",
-      "published": "2025-10-27T09:02:50Z"
     },
     {
       "id": "1583464e4d2506f938328e87ed15c62eeaa83286",
