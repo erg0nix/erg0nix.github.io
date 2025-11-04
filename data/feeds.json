@@ -1,6 +1,38 @@
 {
-  "generated_at": "2025-11-03T06:35:51.136224Z",
+  "generated_at": "2025-11-04T06:34:54.060634Z",
   "items": [
+    {
+      "id": "501798a7f8f7d7169d71506d8fb76d0d953557d2",
+      "title": "Spec-Driven Develop­ment: «Kan snu opp ned på bransjen vår»",
+      "link": "https://www.kode24.no/artikkel/spec-driven-development-kan-snu-opp-ned-pa-bransjen-var/248658",
+      "source": "Kode24",
+      "summary": "– Spec-Driven Development tvinger frem en nødvendig og etterlengtet endring i forretningsmodellen for programvare, skriver Egil Fujikawa Nes om KI-fremtiden.",
+      "published": "2025-11-03T23:00:00Z"
+    },
+    {
+      "id": "a76db077f0e4eb9d3e043138f98a1d38bcf82f0c",
+      "title": "Palentir bekrefter at norske DNV er kunde",
+      "link": "https://www.kode24.no/artikkel/palentir-bekrefter-at-norske-dnv-er-kunde/248634",
+      "source": "Kode24",
+      "summary": "– Vi er komfortable med å dele at Palantir jobber med flere kunder i Norge, inkludert Tollvesenet, politiet og DNV.",
+      "published": "2025-11-03T14:07:01Z"
+    },
+    {
+      "id": "d6d6053208fb36d895c09fab0ab5ec241a6a1154",
+      "title": "Python takker nei til millioner – nekter å skrote mangfold",
+      "link": "https://www.kode24.no/artikkel/python-takker-nei-til-millioner-nekter-a-skrote-mangfold/248592",
+      "source": "Kode24",
+      "summary": "Python Software Foundation har takket nei til 1,5 millioner dollar fra det nasjonale forskningsrådet, på grunn av reguleringer knyttet til mangfold og inkludering.",
+      "published": "2025-11-03T09:44:59Z"
+    },
+    {
+      "id": "fdbd4fadf1d5eaf0473f9f541fd1fcec3caa0596",
+      "title": "Lovdata åpner gratis API, ser for seg KI-bruk",
+      "link": "https://www.kode24.no/artikkel/lovdata-apner-gratis-api-ser-for-seg-ki-bruk/248594",
+      "source": "Kode24",
+      "summary": "– Naturlig videreutvikling for å oppfylle stiftelsens formål om å sikre befolkningen enklere tilgang til lover og regler.",
+      "published": "2025-11-03T08:58:01Z"
+    },
     {
       "id": "85b624e2f81e3f3c6d3971e2a6ebab877882c7a7",
       "title": "Bekymret for at KI erstatter pensum",
@@ -180,38 +212,6 @@
       "source": "Kode24",
       "summary": "Ropte \"No tech for genocide! Boycott Google!\" før han ble kastet ut av vaktene. – Skulle ønske vi slapp, forteller han.",
       "published": "2025-10-28T11:58:09Z"
-    },
-    {
-      "id": "753b3daa8ddd948064a8457f43d26f2925268c99",
-      "title": "Én million snakker med ChatGPT om selvmord",
-      "link": "https://www.kode24.no/artikkel/en-million-snakker-med-chatgpt-om-selvmord/248271",
-      "source": "Kode24",
-      "summary": "OpenAI har lansert ferske tall som viser at over én million mennesker har samtaler med ChatGPT som indikerer potensiell selvmord.",
-      "published": "2025-10-28T09:49:00Z"
-    },
-    {
-      "id": "fa5bf6f182047015a3d4b2ce6d75edd13a55bf1a",
-      "title": "Amazon kutter 30.000 ansatte – noen erstattes av KI",
-      "link": "https://www.kode24.no/artikkel/amazon-kutter-30000-ansatte-noen-erstattes-av-ki/248273",
-      "source": "Kode24",
-      "summary": "Mindre byråkrati og mer KI skal være mye av grunnen til nedbemanningen, som også rammer AWS.",
-      "published": "2025-10-28T08:24:59Z"
-    },
-    {
-      "id": "ce50600302729e7dfeeaed6042f59c23413d7a90",
-      "title": "Plagiat­kontroll.no kan brukes til juks: – Uheldig",
-      "link": "https://www.kode24.no/artikkel/plagiatkontrollno-kan-brukes-til-juks-uheldig/248110",
-      "source": "Kode24",
-      "summary": "Tjenesten tilbyr studenter å unngå plagiat og KI-generert tekst. – Kan være uheldig, mener NTNU.",
-      "published": "2025-10-28T04:00:00Z"
-    },
-    {
-      "id": "10b28728ac872bf6a3c6b9c205ff7b73e891cea4",
-      "title": "Meta gir utviklere med ett års erfaring 2,6 millioner kroner i året",
-      "link": "https://www.kode24.no/artikkel/meta-gir-utviklere-med-ett-ars-erfaring-26-millioner-kroner-i-aret/248246",
-      "source": "Kode24",
-      "summary": "Jobbannonser med lave krav vekker oppsikt, men kravene er kanskje høyere enn de virker.",
-      "published": "2025-10-27T14:48:34Z"
     },
     {
       "id": "1583464e4d2506f938328e87ed15c62eeaa83286",
