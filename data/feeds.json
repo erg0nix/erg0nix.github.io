@@ -1,6 +1,30 @@
 {
-  "generated_at": "2025-11-04T06:34:54.060634Z",
+  "generated_at": "2025-11-05T06:34:18.641322Z",
   "items": [
+    {
+      "id": "ef1c1363b044457484b5812b4a1ede749c5aa4d2",
+      "title": "Skal overvåkes på hjemme­eksamen – får reaksjoner",
+      "link": "https://www.kode24.no/artikkel/skal-overvakes-pa-hjemmeeksamen-far-reaksjoner/248706",
+      "source": "Kode24",
+      "summary": "Oslo Nye Høyskole innfører digitale eksamensvakter, som gjennom webkamera og skjermdeling skal avsløre juks.",
+      "published": "2025-11-05T04:00:00Z"
+    },
+    {
+      "id": "7eea69972bd236b045add37f46573b223ee5d15f",
+      "title": "Bekymret for studenters KI-bruk: «Nivået er lavere nå»",
+      "link": "https://www.kode24.no/artikkel/bekymret-for-studenters-ki-bruk-nivaet-er-lavere-na/248628",
+      "source": "Kode24",
+      "summary": "Sensor Vemund Santi mener KI gjør studenter dårligere på å programmere. – De spør ofte verktøyene om å kode for dem, bekrefter studentforening.",
+      "published": "2025-11-04T12:02:19Z"
+    },
+    {
+      "id": "3ff6d3dcdcc22b93a5d41ff6fd496a8a099e96ad",
+      "title": "Coca-Cola gjør det igjen: KI-genererer årets julereklame",
+      "link": "https://www.kode24.no/artikkel/coca-cola-gjor-det-igjen-ki-genererer-arets-julereklame/248691",
+      "source": "Kode24",
+      "summary": "– Før måtte vi starte et år i forveien. Nå kan vi få det gjort på rundt en måned, sier reklamesjefen.",
+      "published": "2025-11-04T09:03:42Z"
+    },
     {
       "id": "501798a7f8f7d7169d71506d8fb76d0d953557d2",
       "title": "Spec-Driven Develop­ment: «Kan snu opp ned på bransjen vår»",
@@ -155,14 +179,6 @@
       "published": "2025-10-29T08:09:03Z"
     },
     {
-      "id": "2bfc8850ee54e6a8589f98facd07bcd41d745611",
-      "title": "Microsoft kjøper opp 27 prosent av OpenAI",
-      "link": "https://www.kode24.no/artikkel/microsoft-kjoper-opp-27-prosent-av-openai/248432",
-      "source": "Kode24",
-      "summary": "Avtalen gir også Microsoft tilgang til OpenAIs teknologi fram til 2032.",
-      "published": "2025-10-29T08:01:43Z"
-    },
-    {
       "id": "577a5afee18bb2d538f868ac979bc42e4339a172",
       "title": "The Green Tea Garbage Collector",
       "link": "https://go.dev/blog/greenteagc",
@@ -170,14 +186,6 @@
       "summary": "Go 1.25 includes a new experimental garbage collector, Green Tea.",
       "published": "2025-10-29T00:00:00Z",
       "image": "https://go.dev/blog/greenteagc/marksweep-007.png"
-    },
-    {
-      "id": "7633b3dbab57fbdd9a099773101cca4f9ad91252",
-      "title": "KI-trøbbel for åpen kildekode: – Folk forstår ikke all koden",
-      "link": "https://www.kode24.no/artikkel/ki-trobbel-for-apen-kildekode-folk-forstar-ikke-all-koden/248298",
-      "source": "Kode24",
-      "summary": "Noen mener KI-skapt lisenskaos blir døden for FOSS-prosjekter. Arch Linux-bidragsyter Morten Linderud tror andre KI-problemer er større.",
-      "published": "2025-10-28T23:00:00Z"
     },
     {
       "id": "ba48a2ec32be4763cca020d3b20be20b4398791f",
@@ -204,14 +212,6 @@
       "source": "GitHub Blog",
       "summary": "GitHub celebrates its 2025 Partner Award winners, honoring global, regional, and technology partners for driving innovation, collaboration, and impact across the developer ecosystem. The post Announcing the 2025 GitHub Partner Award winners 🎉 appeared first on The GitHub Blog.",
       "published": "2025-10-28T16:00:00Z"
-    },
-    {
-      "id": "d22cbb3cb15e248092a2b7202b9a0e4e488945ec",
-      "title": "Palestina-aktivist avbrøt Googles KI-konferanse i Oslo",
-      "link": "https://www.kode24.no/artikkel/palestina-aktivist-avbrot-googles-ki-konferanse-i-oslo/248242",
-      "source": "Kode24",
-      "summary": "Ropte \"No tech for genocide! Boycott Google!\" før han ble kastet ut av vaktene. – Skulle ønske vi slapp, forteller han.",
-      "published": "2025-10-28T11:58:09Z"
     },
     {
       "id": "1583464e4d2506f938328e87ed15c62eeaa83286",
