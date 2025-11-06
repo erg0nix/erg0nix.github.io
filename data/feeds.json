@@ -1,6 +1,54 @@
 {
-  "generated_at": "2025-11-05T06:34:18.641322Z",
+  "generated_at": "2025-11-06T06:34:33.071081Z",
   "items": [
+    {
+      "id": "bb91a7e623e653bb574d1fea0cc46d215f9b8fa1",
+      "title": "Norgespr.is viser deg hva du sparer – men å skaffe data var vanskelig",
+      "link": "https://www.kode24.no/artikkel/norgespris-viser-deg-hva-du-sparer-men-a-skaffe-data-var-vanskelig/248823",
+      "source": "Kode24",
+      "summary": "– Det burde vært langt enklere for folk å hente ut informasjonen de faktisk eier, skriver Hans Kristian Sande, etter å ha laget strømtjenesten Norgespr.is.",
+      "published": "2025-11-06T04:00:00Z"
+    },
+    {
+      "id": "b9ec0789fbe40a2355ce58013e6a1105301118e4",
+      "title": "GitHub Copilot tutorial: How to build, test, review, and ship code faster (with real prompts)",
+      "link": "https://github.blog/ai-and-ml/github-copilot/a-developers-guide-to-writing-debugging-reviewing-and-shipping-code-faster-with-github-copilot/",
+      "source": "GitHub Blog",
+      "summary": "How GitHub Copilot works today—including mission control—and how to get the most out of it. Here’s what you need to know. The post GitHub Copilot tutorial: How to build, test, review, and ship code faster (with real prompts) appeared first on The GitHub Blog.",
+      "published": "2025-11-05T17:00:00Z"
+    },
+    {
+      "id": "725ecf1d28b90d71eec2d9d90c3ba37eabe7019f",
+      "title": "Kritisk til overvåkning på eksamen – frykter mistillit og stress",
+      "link": "https://www.kode24.no/artikkel/kritisk-til-overvakning-pa-eksamen-frykter-mistillit-og-stress/248758",
+      "source": "Kode24",
+      "summary": "– Løsningen bør ikke være mer overvåkning, sier Elektronisk Forpost, om Oslo Nye Høyskoles overvåkning på eksamen. – Tror vi kommer til å se mer av dette i tiden fremover, sier Datatilsynet.",
+      "published": "2025-11-05T12:51:48Z"
+    },
+    {
+      "id": "26bfede8729867e51c35bd7844498ca24de8915e",
+      "title": "NITO advarer medlemmer mot å bruke KI som advokat",
+      "link": "https://www.kode24.no/artikkel/nito-advarer-medlemmer-mot-a-bruke-ki-som-advokat/248790",
+      "source": "Kode24",
+      "summary": "NITO-medlemmer liker ikke når advokatene er uenig med ChatGPT. – Medfører at vi bruker mer tid enn det som er nødvendig.",
+      "published": "2025-11-05T10:23:21Z"
+    },
+    {
+      "id": "2fdbd7514741ab8f28aca7f7f6e5aac3ab8a091e",
+      "title": "I dag møtes Loop Academy-gründeren og Experis i retten",
+      "link": "https://www.kode24.no/artikkel/i-dag-motes-loop-academy-grunderen-og-experis-i-retten/248756",
+      "source": "Kode24",
+      "summary": "Krever 6,2 millioner kroner for brudd på kundeklausuler, etter å ha jobba for Experis Academy.",
+      "published": "2025-11-05T08:46:00Z"
+    },
+    {
+      "id": "d7064f9a82ab8345f8dc9815de47ad62b84bf951",
+      "title": "KI-system fikk par gravide i USA – kan komme til Norge",
+      "link": "https://www.kode24.no/artikkel/ki-system-fikk-par-gravide-i-usa-kan-komme-til-norge/248740",
+      "source": "Kode24",
+      "summary": "Etter 19 år med forsøk venter et par i USA sitt første barn, takket være kunstig intelligens. Også Norge utvikler KI-system til hjelp for ufrivillig barnløse.",
+      "published": "2025-11-05T07:18:27Z"
+    },
     {
       "id": "ef1c1363b044457484b5812b4a1ede749c5aa4d2",
       "title": "Skal overvåkes på hjemme­eksamen – får reaksjoner",
@@ -131,52 +179,12 @@
       "published": "2025-10-31T07:36:08Z"
     },
     {
-      "id": "5405adb1b060c1cc937972e79c22864884407928",
-      "title": "Next.js 16 er her: – To veldig gode grunner til at du bør oppgradere",
-      "link": "https://www.kode24.no/artikkel/nextjs-16-er-her-to-veldig-gode-grunner-til-at-du-bor-oppgradere/248368",
-      "source": "Kode24",
-      "summary": "Next.js 16, varige funksjoner og kritikk mot direktiver i ukas ForrigeUke.",
-      "published": "2025-10-31T04:00:00Z"
-    },
-    {
       "id": "4cc93ff6ac85d3b89a40c6d7a3ed721d978e2455",
       "title": "Measuring what matters: How offline evaluation of GitHub MCP Server works",
       "link": "https://github.blog/ai-and-ml/generative-ai/measuring-what-matters-how-offline-evaluation-of-github-mcp-server-works/",
       "source": "GitHub Blog",
       "summary": "Take a look inside our automated pipeline for rapid, rigorous evaluation for the GitHub MCP Server. The post Measuring what matters: How offline evaluation of GitHub MCP Server works appeared first on The GitHub Blog.",
       "published": "2025-10-30T21:46:07Z"
-    },
-    {
-      "id": "6953f4766813f21943c3ad3b45035a4bdbbe1e8e",
-      "title": "Azure nede - skapte store problemer i timesvis",
-      "link": "https://www.kode24.no/artikkel/azure-nede-skapte-store-problemer-i-timesvis/248459",
-      "source": "Kode24",
-      "summary": "Blant annet BankID gikk ned.",
-      "published": "2025-10-30T08:13:13Z"
-    },
-    {
-      "id": "71d8cee430802b0f2a43691abe59538fa9feadd2",
-      "title": "Flere utvikler­fag dropper bøkene",
-      "link": "https://www.kode24.no/artikkel/flere-utviklerfag-dropper-bokene/247969",
-      "source": "Kode24",
-      "summary": "Flere fag ved OsloMet har ingen obligatoriske bøker. –Utviklingen går kanskje for raskt, sier professor.",
-      "published": "2025-10-30T04:00:00Z"
-    },
-    {
-      "id": "16ffe82376fd8362fa01e34ba9f85c5c02d6029a",
-      "title": "Advarer: – Ikke bruk KI-nettlesere som ChatGPT Atlas!",
-      "link": "https://www.kode24.no/artikkel/advarer-ikke-bruk-ki-nettlesere-som-chatgpt-atlas/248295",
-      "source": "Kode24",
-      "summary": "– Hvis du vurderer å bruke en ny KI-nettleser, så please don’t, skriver Tanet Trimas, som mener de ikke er trygge nok.",
-      "published": "2025-10-29T12:49:20Z"
-    },
-    {
-      "id": "00a3f12c9cb630ec4fbb506707acb6761050caf6",
-      "title": "Kina kan stoppe Ruter-busser: - Naiviteten må ta slutt!",
-      "link": "https://www.kode24.no/artikkel/kina-kan-stoppe-ruter-busser-naiviteten-ma-ta-slutt/248441",
-      "source": "Kode24",
-      "summary": "Bård Hoksrud reagerer etter avsløringer rundt Ruters busser fra Kina.",
-      "published": "2025-10-29T08:09:03Z"
     },
     {
       "id": "577a5afee18bb2d538f868ac979bc42e4339a172",
@@ -246,14 +254,6 @@
       "source": "GitHub Blog",
       "summary": "For this year’s Cybersecurity Awareness Month, the GitHub Bug Bounty team is excited to put the spotlight on a talented security researcher—André Storfjord Kristiansen! The post Top security researcher shares their bug bounty process appeared first on The GitHub Blog.",
       "published": "2025-10-22T16:00:00Z"
-    },
-    {
-      "id": "09a4da9daa8e92c56c25cd30c7bb21312707841c",
-      "title": "How to update community health files with AI",
-      "link": "https://github.blog/ai-and-ml/github-copilot/how-to-update-community-health-files-with-ai/",
-      "source": "GitHub Blog",
-      "summary": "Have you ever thought about using AI to update community health files for your repositories? This blog shares actionable next steps for doing just that, including a starter kit with a checklist and tutorials on how to create three useful files. The post How to update community health files with AI...",
-      "published": "2025-10-21T16:00:00Z"
     },
     {
       "id": "57ecc16f936f3b31542341b521c5c27fb57352ab",
