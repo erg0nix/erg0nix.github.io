@@ -1,6 +1,54 @@
 {
-  "generated_at": "2025-11-06T06:34:33.071081Z",
+  "generated_at": "2025-11-07T06:34:43.226680Z",
   "items": [
+    {
+      "id": "bc06ebe73a9bfdf7f7fe3d1c4c5eec3bb376c8d4",
+      "title": "– Norges studenter må lære seg å tenke sjøl",
+      "link": "https://www.kode24.no/artikkel/norges-studenter-ma-laere-seg-a-tenke-sjol/248903",
+      "source": "Kode24",
+      "summary": "– Hvis kunnskap er den nye olja, må vi sørge for at dagens studenter blir verdens beste tenkere, skriver Ole Petter i ukas nyhetsbrev. – Men nå ber de KI tenke for dem.",
+      "published": "2025-11-07T04:00:00Z"
+    },
+    {
+      "id": "db3418339f6391ff834be6b09ee279ac10b3a83c",
+      "title": "GitHub Copilot CLI 101: How to use GitHub Copilot from the command line",
+      "link": "https://github.blog/ai-and-ml/github-copilot-cli-101-how-to-use-github-copilot-from-the-command-line/",
+      "source": "GitHub Blog",
+      "summary": "Curious about using GitHub Copilot in your terminal? Here's our guide to GitHub Copilot CLI, including a starter kit with the best prompts for a wide range of use cases. The post GitHub Copilot CLI 101: How to use GitHub Copilot from the command line appeared first on The GitHub Blog.",
+      "published": "2025-11-06T20:30:00Z"
+    },
+    {
+      "id": "bc00d4e830b197205498e8498ab6078eae6fe89d",
+      "title": "TypeScript’s rise in the AI era: Insights from Lead Architect, Anders Hejlsberg",
+      "link": "https://github.blog/developer-skills/programming-languages-and-frameworks/typescripts-rise-in-the-ai-era-insights-from-lead-architect-anders-hejlsberg/",
+      "source": "GitHub Blog",
+      "summary": "TypeScript just became the most-used language on GitHub. Here’s why, according to its creator. The post TypeScript’s rise in the AI era: Insights from Lead Architect, Anders Hejlsberg appeared first on The GitHub Blog.",
+      "published": "2025-11-06T17:00:00Z"
+    },
+    {
+      "id": "2061dc3dd6490a82edd47b1142d01c48c074e22f",
+      "title": "Gulleik (27) til Computas – flytter inn i gammelt menighets­hus",
+      "link": "https://www.kode24.no/artikkel/gulleik-27-til-computas-flytter-inn-i-gammelt-menighetshus/248800",
+      "source": "Kode24",
+      "summary": "Computas ansetter Gulleik Lundtorp Olsen, som inntar den nye arbeidshverdagen i nye, men gamle, lokaler.",
+      "published": "2025-11-06T12:55:47Z"
+    },
+    {
+      "id": "4c1bc2dd765da2d044815dc002d231db1a9209bb",
+      "title": "Oljefondet vil ikke skrote teknologi-giganter: «Absurd og uakseptabelt»",
+      "link": "https://www.kode24.no/artikkel/oljefondet-vil-ikke-skrote-teknologi-giganter-absurd-og-uakseptabelt/248871",
+      "source": "Kode24",
+      "summary": "– Stoltenbergs forklaring på hvorfor Big Tech skal skånes fra utelukkelse er både absurd og uakseptabel, skriver Siri Bruskeland og Espen Dalløkken i Tech Mot Folkemord.",
+      "published": "2025-11-06T10:15:08Z"
+    },
+    {
+      "id": "2ff32d8f8f6bcc90763a2084a261d31a1148000e",
+      "title": "Apple lakk App Store-kildekode – fikk fjerna den fra GitHub",
+      "link": "https://www.kode24.no/artikkel/apple-lakk-app-store-kildekode-fikk-fjerna-den-fra-github/248855",
+      "source": "Kode24",
+      "summary": "Svelte-koden til den nye webutgaven av App Store avslørte mer enn planlagt. – De fleste trodde ikke Apple ville bry seg. De tok feil, Apple brydde seg.",
+      "published": "2025-11-06T08:53:20Z"
+    },
     {
       "id": "bb91a7e623e653bb574d1fea0cc46d215f9b8fa1",
       "title": "Norgespr.is viser deg hva du sparer – men å skaffe data var vanskelig",
@@ -147,38 +195,6 @@
       "published": "2025-10-31T13:20:44Z"
     },
     {
-      "id": "97868bc6e2bb3c7ebb9a06c319db6ca353914219",
-      "title": "Stort fall hos Pornhub etter aldergrense",
-      "link": "https://www.kode24.no/artikkel/stort-fall-hos-pornhub-etter-aldergrense/248513",
-      "source": "Kode24",
-      "summary": "Pornhub melder at antall besøkende fra Storbritannia har falt med 77 prosent siden innføringen av aldersverifisering. VPN-bruken, derimot, eksploderer.",
-      "published": "2025-10-31T13:19:22Z"
-    },
-    {
-      "id": "eb560ccb25eb69bb2d493ad08b90ed1d348f4355",
-      "title": "Halvparten av KI-relaterte oppsigelser blir reversert, viser rapport",
-      "link": "https://www.kode24.no/artikkel/halvparten-av-ki-relaterte-oppsigelser-blir-reversert-viser-rapport/248484",
-      "source": "Kode24",
-      "summary": "Mange arbeidsplasser, som Klarna og Duolingo, angrer på at de har sagt opp ansatte og erstattet dem med KI. Det er de ikke alene om, viser fersk rapport.",
-      "published": "2025-10-31T11:45:30Z"
-    },
-    {
-      "id": "bb3ae6891f8774b8a78de9d56e0fd9ccde3ca1bf",
-      "title": "Nå er TypeScript større enn både JavaScript og Python",
-      "link": "https://www.kode24.no/artikkel/na-er-typescript-storre-enn-bade-javascript-og-python/248480",
-      "source": "Kode24",
-      "summary": "– Utviklere bytter til typede språk, som gjør agent-assistert koding mer pålitelig, hevder GitHub.",
-      "published": "2025-10-31T09:13:07Z"
-    },
-    {
-      "id": "03ad95f4a64811f819bf1f91af5c22e0139ebd48",
-      "title": "Eks-Arsenal-trener brukte ChatGPT, og vant",
-      "link": "https://www.kode24.no/artikkel/eks-arsenal-trener-brukte-chatgpt-og-vant/248470",
-      "source": "Kode24",
-      "summary": "Fotballtrener Laura Harvey, som tidligere har vært Arsenal-trener, forteller at hun har brukt ChatGPT i sesongoppkjøringen i år.",
-      "published": "2025-10-31T07:36:08Z"
-    },
-    {
       "id": "4cc93ff6ac85d3b89a40c6d7a3ed721d978e2455",
       "title": "Measuring what matters: How offline evaluation of GitHub MCP Server works",
       "link": "https://github.blog/ai-and-ml/generative-ai/measuring-what-matters-how-offline-evaluation-of-github-mcp-server-works/",
@@ -237,23 +253,6 @@
       "summary": "Find out about the latest custom models powering the completions experience in GitHub Copilot. The post The road to better completions: Building a faster, smarter GitHub Copilot with a new custom model appeared first on The GitHub Blog.",
       "published": "2025-10-23T18:31:12Z",
       "image": "https://github.blog/wp-content/uploads/2025/10/partial-token-completion-error.png?resize=1024%2C447"
-    },
-    {
-      "id": "8f267e7cddd4742219a7166f9b1c36efed10659e",
-      "title": "From karaoke terminals to AI résumés: The winners of GitHub’s For the Love of Code challenge",
-      "link": "https://github.blog/open-source/from-karaoke-terminals-to-ai-resumes-the-winners-of-githubs-for-the-love-of-code-challenge/",
-      "source": "GitHub Blog",
-      "summary": "This summer, we invited devs to participate in our hackathon for joyful, ridiculous, and wildly creative projects. Here are the winners of For the Love of Code! The post From karaoke terminals to AI résumés: The winners of GitHub’s For the Love of Code challenge appeared first on The GitHub Blog.",
-      "published": "2025-10-22T20:30:35Z",
-      "image": "https://github.blog/wp-content/uploads/2025/10/plane-tracker.jpg?resize=771%2C1024"
-    },
-    {
-      "id": "b0cae03e89da66f9e7099b5b969ede50b99e202e",
-      "title": "Top security researcher shares their bug bounty process",
-      "link": "https://github.blog/security/top-security-researcher-shares-their-bug-bounty-process/",
-      "source": "GitHub Blog",
-      "summary": "For this year’s Cybersecurity Awareness Month, the GitHub Bug Bounty team is excited to put the spotlight on a talented security researcher—André Storfjord Kristiansen! The post Top security researcher shares their bug bounty process appeared first on The GitHub Blog.",
-      "published": "2025-10-22T16:00:00Z"
     },
     {
       "id": "57ecc16f936f3b31542341b521c5c27fb57352ab",
