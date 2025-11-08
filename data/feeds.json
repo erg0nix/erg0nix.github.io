@@ -1,6 +1,46 @@
 {
-  "generated_at": "2025-11-07T06:34:43.226680Z",
+  "generated_at": "2025-11-08T06:31:05.978548Z",
   "items": [
+    {
+      "id": "1beab6a8d49bc5f32f5b77130b80556d69f6dd98",
+      "title": "Svelte og React har fått barn, og det heter Ripple",
+      "link": "https://www.kode24.no/artikkel/svelte-og-react-har-fatt-barn-og-det-heter-ripple/248990",
+      "source": "Kode24",
+      "summary": "Nye rammeverk, nye julekalendere og nye båtspill, i ukas Lørdagsgodt.",
+      "published": "2025-11-07T23:00:00Z"
+    },
+    {
+      "id": "4c0381eda2799e91985ad589c537a64429437504",
+      "title": "What 986 million code pushes say about the developer workflow in 2025",
+      "link": "https://github.blog/news-insights/octoverse/what-986-million-code-pushes-say-about-the-developer-workflow-in-2025/",
+      "source": "GitHub Blog",
+      "summary": "Nearly a billion commits later, the way we ship code has changed for good. Here’s what the 2025 Octoverse data says about how devs really work now. The post What 986 million code pushes say about the developer workflow in 2025 appeared first on The GitHub Blog.",
+      "published": "2025-11-07T16:00:00Z"
+    },
+    {
+      "id": "753ea097ffc2f3add382dd28f8bb1292edbae707",
+      "title": "Færre studenter vil bli konsulenter – flere vil til det offentlige",
+      "link": "https://www.kode24.no/artikkel/faerre-studenter-vil-bli-konsulenter-flere-vil-til-det-offentlige/248972",
+      "source": "Kode24",
+      "summary": "Mens de store konsulenthusene faller på Universum sin liste, klatrer flere offentlige virksomheter.",
+      "published": "2025-11-07T11:37:25Z"
+    },
+    {
+      "id": "5e9d6afb75a1d914e629ed59885434f0d4b69758",
+      "title": "Sanity Content Agent: – Ikke perfekt, men lovende",
+      "link": "https://www.kode24.no/artikkel/sanity-content-agent-ikke-perfekt-men-lovende/248937",
+      "source": "Kode24",
+      "summary": "– Jeg var først litt skeptisk til å slippe en AI-agent løs inne i Sanity. Men etter å ha testet ut Content Agent noen dager, tror jeg innebygde AI-tjenester i CMS-er kan ha mye for seg, skriver Kurt Lekanger.",
+      "published": "2025-11-07T08:51:52Z"
+    },
+    {
+      "id": "6aa0a632749f5bfd9ca6fb2c007218bd31eeb6d3",
+      "title": "Elon Musk får lønnspakke verdt ti tusen milliarder kroner",
+      "link": "https://www.kode24.no/artikkel/elon-musk-far-lonnspakke-verdt-ti-tusen-milliarder-kroner/248925",
+      "source": "Kode24",
+      "summary": "Generalforsamlingen i Tesla har vedtatt å gi grunnlegger og toppsjef Elon Musk en stor lønnspakke.",
+      "published": "2025-11-07T07:32:03Z"
+    },
     {
       "id": "bc06ebe73a9bfdf7f7fe3d1c4c5eec3bb376c8d4",
       "title": "– Norges studenter må lære seg å tenke sjøl",
@@ -154,14 +194,6 @@
       "published": "2025-11-03T08:58:01Z"
     },
     {
-      "id": "85b624e2f81e3f3c6d3971e2a6ebab877882c7a7",
-      "title": "Bekymret for at KI erstatter pensum",
-      "link": "https://www.kode24.no/artikkel/bekymret-for-at-ki-erstatter-pensum/248189",
-      "source": "Kode24",
-      "summary": "– Når «AI-slop» truer med å fortrenge reell innsikt, må forlagene ta tilbake rollen som samfunnets kvalitetsfilter, skriver Ronny Ellefsen, og håper fagbøkene tilgjengeliggjøres.",
-      "published": "2025-11-03T04:00:00Z"
-    },
-    {
       "id": "ab5926d98570f5d65247e0620c2cccd0db4832af",
       "title": "GitHub Game Off 2025 theme announcement",
       "link": "https://github.blog/company/github-game-off-2025-theme-announcement/",
@@ -169,30 +201,6 @@
       "summary": "GitHub’s annual month-long game jam is back for its 13th year! This November, make a game inspired by the theme WAVES—literal, digital, or emotional. 👋🏻 🌊 📡 The post GitHub Game Off 2025 theme announcement appeared first on The GitHub Blog.",
       "published": "2025-11-01T20:37:00Z",
       "image": "https://github.blog/wp-content/uploads/2025/10/hang10.gif?resize=500%2C281"
-    },
-    {
-      "id": "0177ad8a1f28b4cd4b8d2b628982d78db6b99445",
-      "title": "Cursor 2.0 er ute – her er alt du må vite",
-      "link": "https://www.kode24.no/artikkel/cursor-20-er-ute-her-er-alt-du-ma-vite/248524",
-      "source": "Kode24",
-      "summary": "Ny Cursor, ny NEO-robot fra 1X, nye Linux-kaninhull og gamle NRK-serier, i ukas Lørdagsgodt.",
-      "published": "2025-11-01T04:00:00Z"
-    },
-    {
-      "id": "b903e2df86e5ae63af69ccc15e1addf39f0d2487",
-      "title": "Microsoft blir mye dyrere for offentlig sektor i Norge",
-      "link": "https://www.kode24.no/artikkel/microsoft-blir-mye-dyrere-for-offentlig-sektor-i-norge/248574",
-      "source": "Kode24",
-      "summary": "Virksomheter med mange brukere har til nå kunnet få kvantumsrabatt. Microsoft fjerner denne goden fra 1. november, som også rammer Norge, melder Digi.",
-      "published": "2025-10-31T13:29:04Z"
-    },
-    {
-      "id": "2f93126966b3ce4e0d7672bcb25c5b82fe395b6d",
-      "title": "Datatrøbbel for apotek over hele landet",
-      "link": "https://www.kode24.no/artikkel/datatrobbel-for-apotek-over-hele-landet/248565",
-      "source": "Kode24",
-      "summary": "VG melder om datatrøbbel i Apotek over hele landet. Folk får ikke hentet ut resepter.",
-      "published": "2025-10-31T13:20:44Z"
     },
     {
       "id": "4cc93ff6ac85d3b89a40c6d7a3ed721d978e2455",
@@ -244,15 +252,6 @@
       "source": "GitHub Blog",
       "summary": "Learn how to bring structure and security to your AI ecosystem with the GitHub MCP Registry, the single source of truth for managing and governing MCP servers. The post How to find, install, and manage MCP servers with the GitHub MCP Registry appeared first on The GitHub Blog.",
       "published": "2025-10-24T16:00:00Z"
-    },
-    {
-      "id": "c444d6629c50ab496eb5c08fbf59e93738296396",
-      "title": "The road to better completions: Building a faster, smarter GitHub Copilot with a new custom model",
-      "link": "https://github.blog/ai-and-ml/github-copilot/the-road-to-better-completions-building-a-faster-smarter-github-copilot-with-a-new-custom-model/",
-      "source": "GitHub Blog",
-      "summary": "Find out about the latest custom models powering the completions experience in GitHub Copilot. The post The road to better completions: Building a faster, smarter GitHub Copilot with a new custom model appeared first on The GitHub Blog.",
-      "published": "2025-10-23T18:31:12Z",
-      "image": "https://github.blog/wp-content/uploads/2025/10/partial-token-completion-error.png?resize=1024%2C447"
     },
     {
       "id": "57ecc16f936f3b31542341b521c5c27fb57352ab",
