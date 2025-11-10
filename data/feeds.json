@@ -1,6 +1,14 @@
 {
-  "generated_at": "2025-11-09T06:31:21.595976Z",
+  "generated_at": "2025-11-10T06:36:56.491113Z",
   "items": [
+    {
+      "id": "e7e62cd305c85fa3b55b5f78ccedf1f68f5ced27",
+      "title": "Kult Byrå fikk medhold i sak om manglende krav om lærlinger",
+      "link": "https://www.kode24.no/artikkel/kult-byra-fikk-medhold-i-sak-om-manglende-krav-om-laerlinger/248895",
+      "source": "Kode24",
+      "summary": "Kult byrå AS klagde inn Design og arkitektur Norge (Doga) for manglende krav om lærlinger, og får nå medhold. – Synd man må ta det så langt.",
+      "published": "2025-11-10T04:00:00Z"
+    },
     {
       "id": "1beab6a8d49bc5f32f5b77130b80556d69f6dd98",
       "title": "Svelte og React har fått barn, og det heter Ripple",
@@ -184,14 +192,6 @@
       "source": "Kode24",
       "summary": "Python Software Foundation har takket nei til 1,5 millioner dollar fra det nasjonale forskningsrådet, på grunn av reguleringer knyttet til mangfold og inkludering.",
       "published": "2025-11-03T09:44:59Z"
-    },
-    {
-      "id": "fdbd4fadf1d5eaf0473f9f541fd1fcec3caa0596",
-      "title": "Lovdata åpner gratis API, ser for seg KI-bruk",
-      "link": "https://www.kode24.no/artikkel/lovdata-apner-gratis-api-ser-for-seg-ki-bruk/248594",
-      "source": "Kode24",
-      "summary": "– Naturlig videreutvikling for å oppfylle stiftelsens formål om å sikre befolkningen enklere tilgang til lover og regler.",
-      "published": "2025-11-03T08:58:01Z"
     },
     {
       "id": "ab5926d98570f5d65247e0620c2cccd0db4832af",
