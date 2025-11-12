@@ -1,6 +1,30 @@
 {
-  "generated_at": "2025-11-11T06:35:44.954685Z",
+  "generated_at": "2025-11-12T06:35:28.707304Z",
   "items": [
+    {
+      "id": "da8a4b8ae9dbf5b5788b3064ddb51d25ca8e834a",
+      "title": "Norsk KI-shopping kan være år unna: – Må bli mer treffsikre",
+      "link": "https://www.kode24.no/artikkel/norsk-ki-shopping-kan-vaere-ar-unna-ma-bli-mer-treffsikre/249052",
+      "source": "Kode24",
+      "summary": "Mange mener KI skal totalt forandre måten vi handler på. – Men det er fortsatt en vei å gå, advarer norske eksperter.",
+      "published": "2025-11-12T04:00:00Z"
+    },
+    {
+      "id": "aea29749e5ae948151d4cd4a7bf6f45dae80fa81",
+      "title": "Wikipedia ber utviklere slutte å skrape dem",
+      "link": "https://www.kode24.no/artikkel/wikipedia-ber-utviklere-slutte-a-skrape-dem/249156",
+      "source": "Kode24",
+      "summary": "– Bruk API-ene! ber Wikimedia Foundation, som er lei av at KI-selskapene forskyner seg grovt.",
+      "published": "2025-11-11T12:17:10Z"
+    },
+    {
+      "id": "ffee2b67ae420dd2e05de022f4363eefb7d58255",
+      "title": "– Vi må slutte å definere oss etter hvor i stacken vi jobber",
+      "link": "https://www.kode24.no/artikkel/vi-ma-slutte-a-definere-oss-etter-hvor-i-stacken-vi-jobber/249126",
+      "source": "Kode24",
+      "summary": "– Vi er ikke bare backendere, frontendere eller fullstackere. Vi er utviklere. Vi er de folka som bygger løsningen, ikke bare koden, skriver Khalid B. Said.",
+      "published": "2025-11-11T09:58:48Z"
+    },
     {
       "id": "b586b177d0d15aed1781c1d3c08ed5274d8613f2",
       "title": "Lyser ut ubetalte jobber: – Grov utnyttelse!",
@@ -46,7 +70,7 @@
       "title": "Kult Byrå fikk medhold i sak om manglende krav om lærlinger",
       "link": "https://www.kode24.no/artikkel/kult-byra-fikk-medhold-i-sak-om-manglende-krav-om-laerlinger/248895",
       "source": "Kode24",
-      "summary": "Kult byrå AS klagde inn Design og arkitektur Norge (Doga) for manglende krav om lærlinger, og får nå medhold. – Synd man må ta det så langt.",
+      "summary": "Kult byrå AS klagde inn Design og arkitektur Norge (Doga) for manglende krav om lærlinger og får nå medhold. – Synd man må ta det så langt.",
       "published": "2025-11-10T04:00:00Z"
     },
     {
@@ -168,30 +192,6 @@
       "source": "Kode24",
       "summary": "NITO-medlemmer liker ikke når advokatene er uenig med ChatGPT. – Medfører at vi bruker mer tid enn det som er nødvendig.",
       "published": "2025-11-05T10:23:21Z"
-    },
-    {
-      "id": "2fdbd7514741ab8f28aca7f7f6e5aac3ab8a091e",
-      "title": "I dag møtes Loop Academy-gründeren og Experis i retten",
-      "link": "https://www.kode24.no/artikkel/i-dag-motes-loop-academy-grunderen-og-experis-i-retten/248756",
-      "source": "Kode24",
-      "summary": "Krever 6,2 millioner kroner for brudd på kundeklausuler, etter å ha jobba for Experis Academy.",
-      "published": "2025-11-05T08:46:00Z"
-    },
-    {
-      "id": "d7064f9a82ab8345f8dc9815de47ad62b84bf951",
-      "title": "KI-system fikk par gravide i USA – kan komme til Norge",
-      "link": "https://www.kode24.no/artikkel/ki-system-fikk-par-gravide-i-usa-kan-komme-til-norge/248740",
-      "source": "Kode24",
-      "summary": "Etter 19 år med forsøk venter et par i USA sitt første barn, takket være kunstig intelligens. Også Norge utvikler KI-system til hjelp for ufrivillig barnløse.",
-      "published": "2025-11-05T07:18:27Z"
-    },
-    {
-      "id": "ef1c1363b044457484b5812b4a1ede749c5aa4d2",
-      "title": "Skal overvåkes på hjemme­eksamen – får reaksjoner",
-      "link": "https://www.kode24.no/artikkel/skal-overvakes-pa-hjemmeeksamen-far-reaksjoner/248706",
-      "source": "Kode24",
-      "summary": "Oslo Nye Høyskole innfører digitale eksamensvakter, som gjennom webkamera og skjermdeling skal avsløre juks.",
-      "published": "2025-11-05T04:00:00Z"
     },
     {
       "id": "ab5926d98570f5d65247e0620c2cccd0db4832af",
