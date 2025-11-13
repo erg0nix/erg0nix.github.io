@@ -1,6 +1,62 @@
 {
-  "generated_at": "2025-11-12T06:35:28.707304Z",
+  "generated_at": "2025-11-13T06:35:28.273542Z",
   "items": [
+    {
+      "id": "84263c2f65b3d4a943617c9f4e3109323a538062",
+      "title": "CircleGab: – Ante ikke hvor komplekst prosjektet ble",
+      "link": "https://www.kode24.no/artikkel/circlegab-ante-ikke-hvor-komplekst-prosjektet-ble/249034",
+      "source": "Kode24",
+      "summary": "To kamerater uten utviklerbakgrunn lanserer et nytt, norsk sosialt medium: CircleGab. Det ble mer komplisert enn de trodde",
+      "published": "2025-11-13T04:00:00Z"
+    },
+    {
+      "id": "689666331ea288277642ffcb5288a1d98789c281",
+      "title": "How Copilot helps build the GitHub platform",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-copilot-helps-build-the-github-platform/",
+      "source": "GitHub Blog",
+      "summary": "A breakdown of how Copilot coding agent has contributed to a better, more powerful GitHub. The post How Copilot helps build the GitHub platform appeared first on The GitHub Blog.",
+      "published": "2025-11-12T17:00:00Z"
+    },
+    {
+      "id": "9ce17e76627ebd164241f3fd5c056c022463293d",
+      "title": "Sikt ansetter fire til KI-satsning– tre av dem har doktorgrad",
+      "link": "https://www.kode24.no/artikkel/sikt-ansetter-fire-til-ki-satsning-tre-av-dem-har-doktorgrad/249290",
+      "source": "Kode24",
+      "summary": "Alexander Kjeserud, Haakon Dybdahl, Tu My Doan og Tollef Jørgensen skal alle jobbe for mer KI i norsk utdanning.",
+      "published": "2025-11-12T12:57:07Z"
+    },
+    {
+      "id": "e3cff894fea1718babb1c7d0a7fb222c8d01183a",
+      "title": "Mindre phishing, mer skadevare i Norge",
+      "link": "https://www.kode24.no/artikkel/mindre-phishing-mer-skadevare-i-norge/249231",
+      "source": "Kode24",
+      "summary": "Spredning av skadelig programvare i sosiale medier er blitt vanligere, ifølge Telenor.",
+      "published": "2025-11-12T08:29:21Z"
+    },
+    {
+      "id": "c0bccb47b3e060a824aa7a30c0b51c3c8bcf019f",
+      "title": "E-tjenesten lagret ulovlig data",
+      "link": "https://www.kode24.no/artikkel/e-tjenesten-lagret-ulovlig-data/249233",
+      "source": "Kode24",
+      "summary": "Tilrettelagt innhenting tillater kun lagring av metadata, men E-tjenesten lagret likevel emnefelter, melder EOS-utvalget.",
+      "published": "2025-11-12T08:17:29Z"
+    },
+    {
+      "id": "877b48476b697085dc4d4a2818ab8347ed40afdf",
+      "title": "Visma-server hacket – brukt til Bitcoin i halvannet år",
+      "link": "https://www.kode24.no/artikkel/visma-server-hacket-brukt-til-bitcoin-i-halvannet-ar/249200",
+      "source": "Kode24",
+      "summary": "– Den tekniske etterforskningen fant ingen bevis på at personopplysninger var blitt hentet ut av løsningen, men det kunne heller ikke utelukkes.",
+      "published": "2025-11-12T07:28:33Z"
+    },
+    {
+      "id": "b220aa9db1d0c6f0d642e78755eb67bee4e56dff",
+      "title": "Google investerer i Tyskland – skal skape 9.000 jobber hvert år",
+      "link": "https://www.kode24.no/artikkel/google-investerer-i-tyskland-skal-skape-9000-jobber-hvert-ar/249202",
+      "source": "Kode24",
+      "summary": "– Dette er akkurat det vi trenger akkurat nå, sier finansminister Lars Klingbeil.",
+      "published": "2025-11-12T07:14:32Z"
+    },
     {
       "id": "da8a4b8ae9dbf5b5788b3064ddb51d25ca8e834a",
       "title": "Norsk KI-shopping kan være år unna: – Må bli mer treffsikre",
@@ -138,60 +194,12 @@
       "published": "2025-11-06T17:00:00Z"
     },
     {
-      "id": "2061dc3dd6490a82edd47b1142d01c48c074e22f",
-      "title": "Gulleik (27) til Computas – flytter inn i gammelt menighets­hus",
-      "link": "https://www.kode24.no/artikkel/gulleik-27-til-computas-flytter-inn-i-gammelt-menighetshus/248800",
-      "source": "Kode24",
-      "summary": "Computas ansetter Gulleik Lundtorp Olsen, som inntar den nye arbeidshverdagen i nye, men gamle, lokaler.",
-      "published": "2025-11-06T12:55:47Z"
-    },
-    {
-      "id": "4c1bc2dd765da2d044815dc002d231db1a9209bb",
-      "title": "Oljefondet vil ikke skrote teknologi-giganter: «Absurd og uakseptabelt»",
-      "link": "https://www.kode24.no/artikkel/oljefondet-vil-ikke-skrote-teknologi-giganter-absurd-og-uakseptabelt/248871",
-      "source": "Kode24",
-      "summary": "– Stoltenbergs forklaring på hvorfor Big Tech skal skånes fra utelukkelse er både absurd og uakseptabel, skriver Siri Bruskeland og Espen Dalløkken i Tech Mot Folkemord.",
-      "published": "2025-11-06T10:15:08Z"
-    },
-    {
-      "id": "2ff32d8f8f6bcc90763a2084a261d31a1148000e",
-      "title": "Apple lakk App Store-kildekode – fikk fjerna den fra GitHub",
-      "link": "https://www.kode24.no/artikkel/apple-lakk-app-store-kildekode-fikk-fjerna-den-fra-github/248855",
-      "source": "Kode24",
-      "summary": "Svelte-koden til den nye webutgaven av App Store avslørte mer enn planlagt. – De fleste trodde ikke Apple ville bry seg. De tok feil, Apple brydde seg.",
-      "published": "2025-11-06T08:53:20Z"
-    },
-    {
-      "id": "bb91a7e623e653bb574d1fea0cc46d215f9b8fa1",
-      "title": "Norgespr.is viser deg hva du sparer – men å skaffe data var vanskelig",
-      "link": "https://www.kode24.no/artikkel/norgespris-viser-deg-hva-du-sparer-men-a-skaffe-data-var-vanskelig/248823",
-      "source": "Kode24",
-      "summary": "– Det burde vært langt enklere for folk å hente ut informasjonen de faktisk eier, skriver Hans Kristian Sande, etter å ha laget strømtjenesten Norgespr.is.",
-      "published": "2025-11-06T04:00:00Z"
-    },
-    {
       "id": "b9ec0789fbe40a2355ce58013e6a1105301118e4",
       "title": "GitHub Copilot tutorial: How to build, test, review, and ship code faster (with real prompts)",
       "link": "https://github.blog/ai-and-ml/github-copilot/a-developers-guide-to-writing-debugging-reviewing-and-shipping-code-faster-with-github-copilot/",
       "source": "GitHub Blog",
       "summary": "How GitHub Copilot works today—including mission control—and how to get the most out of it. Here’s what you need to know. The post GitHub Copilot tutorial: How to build, test, review, and ship code faster (with real prompts) appeared first on The GitHub Blog.",
       "published": "2025-11-05T17:00:00Z"
-    },
-    {
-      "id": "725ecf1d28b90d71eec2d9d90c3ba37eabe7019f",
-      "title": "Kritisk til overvåkning på eksamen – frykter mistillit og stress",
-      "link": "https://www.kode24.no/artikkel/kritisk-til-overvakning-pa-eksamen-frykter-mistillit-og-stress/248758",
-      "source": "Kode24",
-      "summary": "– Løsningen bør ikke være mer overvåkning, sier Elektronisk Forpost, om Oslo Nye Høyskoles overvåkning på eksamen. – Tror vi kommer til å se mer av dette i tiden fremover, sier Datatilsynet.",
-      "published": "2025-11-05T12:51:48Z"
-    },
-    {
-      "id": "26bfede8729867e51c35bd7844498ca24de8915e",
-      "title": "NITO advarer medlemmer mot å bruke KI som advokat",
-      "link": "https://www.kode24.no/artikkel/nito-advarer-medlemmer-mot-a-bruke-ki-som-advokat/248790",
-      "source": "Kode24",
-      "summary": "NITO-medlemmer liker ikke når advokatene er uenig med ChatGPT. – Medfører at vi bruker mer tid enn det som er nødvendig.",
-      "published": "2025-11-05T10:23:21Z"
     },
     {
       "id": "ab5926d98570f5d65247e0620c2cccd0db4832af",
@@ -244,14 +252,6 @@
       "source": "GitHub Blog",
       "summary": "GitHub celebrates its 2025 Partner Award winners, honoring global, regional, and technology partners for driving innovation, collaboration, and impact across the developer ecosystem. The post Announcing the 2025 GitHub Partner Award winners 🎉 appeared first on The GitHub Blog.",
       "published": "2025-10-28T16:00:00Z"
-    },
-    {
-      "id": "1583464e4d2506f938328e87ed15c62eeaa83286",
-      "title": "How to find, install, and manage MCP servers with the GitHub MCP Registry",
-      "link": "https://github.blog/ai-and-ml/generative-ai/how-to-find-install-and-manage-mcp-servers-with-the-github-mcp-registry/",
-      "source": "GitHub Blog",
-      "summary": "Learn how to bring structure and security to your AI ecosystem with the GitHub MCP Registry, the single source of truth for managing and governing MCP servers. The post How to find, install, and manage MCP servers with the GitHub MCP Registry appeared first on The GitHub Blog.",
-      "published": "2025-10-24T16:00:00Z"
     },
     {
       "id": "57ecc16f936f3b31542341b521c5c27fb57352ab",
