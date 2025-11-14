@@ -1,6 +1,54 @@
 {
-  "generated_at": "2025-11-13T06:35:28.273542Z",
+  "generated_at": "2025-11-14T06:35:23.628192Z",
   "items": [
+    {
+      "id": "13a8bad6994f607ad15c7ac0b8f58ee955c4ead0",
+      "title": "– Studenter bør jobbe mer med å fylle opp GitHub-en sin",
+      "link": "https://www.kode24.no/artikkel/studenter-bor-jobbe-mer-med-a-fylle-opp-github-en-sin/249372",
+      "source": "Kode24",
+      "summary": "– Og mindre med å fylle opp innboksene til de store konsulentselskapene, skriver Ole Petter i ukas nyhetsbrev.",
+      "published": "2025-11-14T04:00:00Z"
+    },
+    {
+      "id": "a658d1f62560e0cc4e9bd723c2f6273d4a7294f6",
+      "title": "GitHub Availability Report: October 2025",
+      "link": "https://github.blog/news-insights/company-news/github-availability-report-october-2025/",
+      "source": "GitHub Blog",
+      "summary": "In October, we experienced four incidents that resulted in degraded performance across GitHub services. The post GitHub Availability Report: October 2025 appeared first on The GitHub Blog.",
+      "published": "2025-11-13T17:28:48Z"
+    },
+    {
+      "id": "81cf1f575ec7b458598d050f57dfbc774fddf62e",
+      "title": "TypeScript, Python, and the AI feedback loop changing software development",
+      "link": "https://github.blog/news-insights/octoverse/typescript-python-and-the-ai-feedback-loop-changing-software-development/",
+      "source": "GitHub Blog",
+      "summary": "An interview with the leader of GitHub Next, Idan Gazit, on TypeScript, Python, and what comes next. The post TypeScript, Python, and the AI feedback loop changing software development appeared first on The GitHub Blog.",
+      "published": "2025-11-13T16:00:00Z"
+    },
+    {
+      "id": "6e474954c1d7ad658b0cd45152995eaae51f856c",
+      "title": "Nordea sendte 8.600 personnummer til 1.400 kunder",
+      "link": "https://www.kode24.no/artikkel/nordea-sendte-8600-personnummer-til-1400-kunder/249360",
+      "source": "Kode24",
+      "summary": "– Det er en alvorlig menneskelig glipp, som vi beklager.",
+      "published": "2025-11-13T10:46:24Z"
+    },
+    {
+      "id": "d887b8e12135142ed2a8c963134ae37f257b9397",
+      "title": "Protesterer mot norsk samarbeid med Palantir",
+      "link": "https://www.kode24.no/artikkel/protesterer-mot-norsk-samarbeid-med-palantir/249344",
+      "source": "Kode24",
+      "summary": "– Gjorde det klart hvilke forventninger Norge har til åpenhet, personvern og tillit – og at dette ikke er noe vi kompromisser på, sier Karianne Tung etter møtet.",
+      "published": "2025-11-13T09:39:46Z"
+    },
+    {
+      "id": "2a5997882f4856f88656cfa80f7736da53618c5d",
+      "title": "People Made Machines ansetter Rodrigo (37): «Stadig flere vil bruke KI»",
+      "link": "https://www.kode24.no/artikkel/people-made-machines-ansetter-rodrigo-37-stadig-flere-vil-bruke-ki/249329",
+      "source": "Kode24",
+      "summary": "Rodrigo Carvalho blir ny senior-KI-utvikler, med doktograd i bagasjen.",
+      "published": "2025-11-13T09:20:25Z"
+    },
     {
       "id": "84263c2f65b3d4a943617c9f4e3109323a538062",
       "title": "CircleGab: – Ante ikke hvor komplekst prosjektet ble",
@@ -146,38 +194,6 @@
       "published": "2025-11-07T16:00:00Z"
     },
     {
-      "id": "753ea097ffc2f3add382dd28f8bb1292edbae707",
-      "title": "Færre studenter vil bli konsulenter – flere vil til det offentlige",
-      "link": "https://www.kode24.no/artikkel/faerre-studenter-vil-bli-konsulenter-flere-vil-til-det-offentlige/248972",
-      "source": "Kode24",
-      "summary": "Mens de store konsulenthusene faller på Universum sin liste, klatrer flere offentlige virksomheter.",
-      "published": "2025-11-07T11:37:25Z"
-    },
-    {
-      "id": "5e9d6afb75a1d914e629ed59885434f0d4b69758",
-      "title": "Sanity Content Agent: – Ikke perfekt, men lovende",
-      "link": "https://www.kode24.no/artikkel/sanity-content-agent-ikke-perfekt-men-lovende/248937",
-      "source": "Kode24",
-      "summary": "– Jeg var først litt skeptisk til å slippe en AI-agent løs inne i Sanity. Men etter å ha testet ut Content Agent noen dager, tror jeg innebygde AI-tjenester i CMS-er kan ha mye for seg, skriver Kurt Lekanger.",
-      "published": "2025-11-07T08:51:52Z"
-    },
-    {
-      "id": "6aa0a632749f5bfd9ca6fb2c007218bd31eeb6d3",
-      "title": "Elon Musk får lønnspakke verdt ti tusen milliarder kroner",
-      "link": "https://www.kode24.no/artikkel/elon-musk-far-lonnspakke-verdt-ti-tusen-milliarder-kroner/248925",
-      "source": "Kode24",
-      "summary": "Generalforsamlingen i Tesla har vedtatt å gi grunnlegger og toppsjef Elon Musk en stor lønnspakke.",
-      "published": "2025-11-07T07:32:03Z"
-    },
-    {
-      "id": "bc06ebe73a9bfdf7f7fe3d1c4c5eec3bb376c8d4",
-      "title": "– Norges studenter må lære seg å tenke sjøl",
-      "link": "https://www.kode24.no/artikkel/norges-studenter-ma-laere-seg-a-tenke-sjol/248903",
-      "source": "Kode24",
-      "summary": "– Hvis kunnskap er den nye olja, må vi sørge for at dagens studenter blir verdens beste tenkere, skriver Ole Petter i ukas nyhetsbrev. – Men nå ber de KI tenke for dem.",
-      "published": "2025-11-07T04:00:00Z"
-    },
-    {
       "id": "db3418339f6391ff834be6b09ee279ac10b3a83c",
       "title": "GitHub Copilot CLI 101: How to use GitHub Copilot from the command line",
       "link": "https://github.blog/ai-and-ml/github-copilot-cli-101-how-to-use-github-copilot-from-the-command-line/",
@@ -235,23 +251,6 @@
       "summary": "At Universe 2025, GitHub's next evolution introduces a single, unified workflow for developers to be able to orchestrate any agent, any time, anywhere. The post Introducing Agent HQ: Any agent, any way you work appeared first on The GitHub Blog.",
       "published": "2025-10-28T16:08:15Z",
       "image": "https://github.blog/wp-content/uploads/2025/10/Quotes_v5.jpg?resize=2796%2C2022"
-    },
-    {
-      "id": "a721b4a98f9ad503034dd18b1626ff75aead8c89",
-      "title": "Octoverse: A new developer joins GitHub every second as AI leads TypeScript to #1",
-      "link": "https://github.blog/news-insights/octoverse/octoverse-a-new-developer-joins-github-every-second-as-ai-leads-typescript-to-1/",
-      "source": "GitHub Blog",
-      "summary": "In this year’s Octoverse, we uncover how AI, agents, and typed languages are driving the biggest shifts in software development in more than a decade. The post Octoverse: A new developer joins GitHub every second as AI leads TypeScript to #1 appeared first on The GitHub Blog.",
-      "published": "2025-10-28T16:07:06Z",
-      "image": "https://github.blog/wp-content/uploads/2025/10/Octoverse-2025-top-level-metrics.png?resize=1440%2C810"
-    },
-    {
-      "id": "083c52f48e8619c6adb73fb94afc4bc7c3076a92",
-      "title": "Announcing the 2025 GitHub Partner Award winners 🎉",
-      "link": "https://github.blog/news-insights/company-news/announcing-the-2025-github-partner-award-winners/",
-      "source": "GitHub Blog",
-      "summary": "GitHub celebrates its 2025 Partner Award winners, honoring global, regional, and technology partners for driving innovation, collaboration, and impact across the developer ecosystem. The post Announcing the 2025 GitHub Partner Award winners 🎉 appeared first on The GitHub Blog.",
-      "published": "2025-10-28T16:00:00Z"
     },
     {
       "id": "57ecc16f936f3b31542341b521c5c27fb57352ab",
