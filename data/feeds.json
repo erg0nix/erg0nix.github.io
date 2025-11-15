@@ -1,6 +1,54 @@
 {
-  "generated_at": "2025-11-14T06:35:23.628192Z",
+  "generated_at": "2025-11-15T06:31:40.883420Z",
   "items": [
+    {
+      "id": "46e146b56755e2dd122d0e3f8d7f14801153787d",
+      "title": "Task Manager fyller 30 år – her er historien bak",
+      "link": "https://www.kode24.no/artikkel/task-manager-fyller-30-ar-her-er-historien-bak/249467",
+      "source": "Kode24",
+      "summary": "Gammel Windows-kode, ny musikk-kode, GTA-utviklere som sparkes fordi fagforening og mye mer, i ukas Lørdagsgodt.",
+      "published": "2025-11-15T04:00:00Z"
+    },
+    {
+      "id": "054238d1ed4507dc063d89b4c3235cf8486f6ad7",
+      "title": "Unlocking the full power of Copilot code review: Master your instructions files",
+      "link": "https://github.blog/ai-and-ml/unlocking-the-full-power-of-copilot-code-review-master-your-instructions-files/",
+      "source": "GitHub Blog",
+      "summary": "Discover practical tips, examples, and best practices for writing effective instructions files. Whether you’re new or experienced, you’ll find something to level up your code reviews. The post Unlocking the full power of Copilot code review: Master your instructions files appeared first on The...",
+      "published": "2025-11-14T17:00:00Z"
+    },
+    {
+      "id": "b19dd2a088e0bf2550feca1ba141de8f6a156027",
+      "title": "HTTP nærmer seg slutten",
+      "link": "https://www.kode24.no/artikkel/http-naermer-seg-slutten/249446",
+      "source": "Kode24",
+      "summary": "State i URL, TypeScript på topp, Chrome dreper HTTP og Tanstack i tottene på directives, i ukas ForrigeUke.",
+      "published": "2025-11-14T13:58:31Z"
+    },
+    {
+      "id": "9c2db59ef2fd2ab9dc829250f070ff603b2f50ac",
+      "title": "Kjøpte fire «folkeregister»-domener, mister alle sammen",
+      "link": "https://www.kode24.no/artikkel/kjopte-fire-folkeregister-domener-mister-alle-sammen/249249",
+      "source": "Kode24",
+      "summary": "Skatteetaten mente selskapet gjorde det i ond tro, for å lure folk. Domeneklagenemnda er enig.",
+      "published": "2025-11-14T10:15:39Z"
+    },
+    {
+      "id": "abe7dee13ac02d04ad70fe28c337ce13f120cfef",
+      "title": "kode24 vokser videre",
+      "link": "https://www.kode24.no/artikkel/kode24-vokser-videre/249408",
+      "source": "Kode24",
+      "summary": "Med 33 prosent vekst siden i fjor er det bare tre andre aviser i Norge som vokser mer.",
+      "published": "2025-11-14T09:39:48Z"
+    },
+    {
+      "id": "efe8d737126eec39a852190c43f0a946d099584e",
+      "title": "Hver tredje nordmann bruker aldri KI på jobb",
+      "link": "https://www.kode24.no/artikkel/hver-tredje-nordmann-bruker-aldri-ki-pa-jobb/249390",
+      "source": "Kode24",
+      "summary": "Bruken av kunstig intelligens (KI) øker raskt i Norge. De fleste synes teknologien er nyttig, men nesten halvparten er bekymret for klimaavtrykket.",
+      "published": "2025-11-14T07:26:37Z"
+    },
     {
       "id": "13a8bad6994f607ad15c7ac0b8f58ee955c4ead0",
       "title": "– Studenter bør jobbe mer med å fylle opp GitHub-en sin",
@@ -8,6 +56,14 @@
       "source": "Kode24",
       "summary": "– Og mindre med å fylle opp innboksene til de store konsulentselskapene, skriver Ole Petter i ukas nyhetsbrev.",
       "published": "2025-11-14T04:00:00Z"
+    },
+    {
+      "id": "0ea1e6845fb72fccd664b752f5ee51bd9c6de569",
+      "title": "Go’s Sweet 16",
+      "link": "https://go.dev/blog/16years",
+      "source": "Go Blog",
+      "summary": "Happy Birthday, Go!",
+      "published": "2025-11-14T00:00:00Z"
     },
     {
       "id": "a658d1f62560e0cc4e9bd723c2f6273d4a7294f6",
@@ -146,46 +202,6 @@
       "published": "2025-11-10T13:26:30Z"
     },
     {
-      "id": "a513538e2bd37c99f8db3f06376426af01850e7c",
-      "title": "Tilbake igjen hos Iterate: – Savnet vibben",
-      "link": "https://www.kode24.no/artikkel/tilbake-igjen-hos-iterate-savnet-vibben/249058",
-      "source": "Kode24",
-      "summary": "Marcus Irgens var innom Elbits, men nå vil den selvlærte utvikleren tilbake igjen.",
-      "published": "2025-11-10T11:43:20Z"
-    },
-    {
-      "id": "1bc8fd707f75964a61501da365fdb343c857463e",
-      "title": "– Derfor fortsetter vi å arbeide for bedre rekruttering til realfagene",
-      "link": "https://www.kode24.no/artikkel/derfor-fortsetter-vi-a-arbeide-for-bedre-rekruttering-til-realfagene/249007",
-      "source": "Kode24",
-      "summary": "NITO vil ikke slutte å presse politikerne selv om arbeidsmarkedet er tøffere. – Nedgangen for utviklere kan være kortsiktig.",
-      "published": "2025-11-10T09:27:50Z"
-    },
-    {
-      "id": "04ed5f9a8e18d6bf048e7827e518013727ce9ed7",
-      "title": "NRK skal tekste mer med KI, og betale teksterne mindre",
-      "link": "https://www.kode24.no/artikkel/nrk-skal-tekste-mer-med-ki-og-betale-teksterne-mindre/249038",
-      "source": "Kode24",
-      "summary": "– Teksterne er bekymret for at timelønnen i praksis blir lavere, og at de skal måtte levere et dårligere produkt.",
-      "published": "2025-11-10T07:15:14Z"
-    },
-    {
-      "id": "e7e62cd305c85fa3b55b5f78ccedf1f68f5ced27",
-      "title": "Kult Byrå fikk medhold i sak om manglende krav om lærlinger",
-      "link": "https://www.kode24.no/artikkel/kult-byra-fikk-medhold-i-sak-om-manglende-krav-om-laerlinger/248895",
-      "source": "Kode24",
-      "summary": "Kult byrå AS klagde inn Design og arkitektur Norge (Doga) for manglende krav om lærlinger og får nå medhold. – Synd man må ta det så langt.",
-      "published": "2025-11-10T04:00:00Z"
-    },
-    {
-      "id": "1beab6a8d49bc5f32f5b77130b80556d69f6dd98",
-      "title": "Svelte og React har fått barn, og det heter Ripple",
-      "link": "https://www.kode24.no/artikkel/svelte-og-react-har-fatt-barn-og-det-heter-ripple/248990",
-      "source": "Kode24",
-      "summary": "Nye rammeverk, nye julekalendere og nye båtspill, i ukas Lørdagsgodt.",
-      "published": "2025-11-07T23:00:00Z"
-    },
-    {
       "id": "4c0381eda2799e91985ad589c537a64429437504",
       "title": "What 986 million code pushes say about the developer workflow in 2025",
       "link": "https://github.blog/news-insights/octoverse/what-986-million-code-pushes-say-about-the-developer-workflow-in-2025/",
@@ -242,15 +258,6 @@
       "summary": "Go 1.25 includes a new experimental garbage collector, Green Tea.",
       "published": "2025-10-29T00:00:00Z",
       "image": "https://go.dev/blog/greenteagc/marksweep-007.png"
-    },
-    {
-      "id": "ba48a2ec32be4763cca020d3b20be20b4398791f",
-      "title": "Introducing Agent HQ: Any agent, any way you work",
-      "link": "https://github.blog/news-insights/company-news/welcome-home-agents/",
-      "source": "GitHub Blog",
-      "summary": "At Universe 2025, GitHub's next evolution introduces a single, unified workflow for developers to be able to orchestrate any agent, any time, anywhere. The post Introducing Agent HQ: Any agent, any way you work appeared first on The GitHub Blog.",
-      "published": "2025-10-28T16:08:15Z",
-      "image": "https://github.blog/wp-content/uploads/2025/10/Quotes_v5.jpg?resize=2796%2C2022"
     },
     {
       "id": "57ecc16f936f3b31542341b521c5c27fb57352ab",
@@ -317,14 +324,6 @@
       "source": "Go Blog",
       "summary": "Adding type parameters to interface types is surprisingly powerful",
       "published": "2025-07-07T00:00:00Z"
-    },
-    {
-      "id": "e23210b0a95e13611ac28e812af3cea7e594aadb",
-      "title": "[ On | No ] syntactic support for error handling",
-      "link": "https://go.dev/blog/error-syntax",
-      "source": "Go Blog",
-      "summary": "Go team plans around error handling support",
-      "published": "2025-06-03T00:00:00Z"
     }
   ]
 }
