@@ -1,0 +1,14 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:morrisstockholm.com)",
+      "WebFetch(domain:www.etonshirts.com)",
+      "WebFetch(domain:www.lecreuset.no)",
+      "WebFetch(domain:www.kitchn.no)",
+      "WebFetch(domain:www.asket.com)",
+      "WebFetch(domain:www.illumsbolighus.no)"
+    ],
+    "deny": [],
+    "ask": []
+  }
+}
