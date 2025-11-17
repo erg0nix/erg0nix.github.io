@@ -1,6 +1,14 @@
 {
-  "generated_at": "2025-11-16T06:32:41.701694Z",
+  "generated_at": "2025-11-17T06:36:00.265746Z",
   "items": [
+    {
+      "id": "c36d9fe97e8517b61d2a0a99682af3d03761e6d6",
+      "title": "Derfor har «alle» plutselig kjøpt seg Nvidia DGX Spark",
+      "link": "https://www.kode24.no/artikkel/derfor-har-alle-plutselig-kjopt-seg-nvidia-dgx-spark/249427",
+      "source": "Kode24",
+      "summary": "Den lille, men dyre, maskinen hjelper norske utviklingsavdelinger med KI-arbeidet. – Vi kaller den «fotfila».",
+      "published": "2025-11-17T04:00:00Z"
+    },
     {
       "id": "46e146b56755e2dd122d0e3f8d7f14801153787d",
       "title": "Task Manager fyller 30 år – her er historien bak",
@@ -192,14 +200,6 @@
       "source": "Kode24",
       "summary": "Vetle Huglen synes selskaper utnytter studenter ved å tilby ulønnet arbeid for å få erfaringen de trenger. – Føler de er nødt til å jobbe gratis.",
       "published": "2025-11-10T23:00:00Z"
-    },
-    {
-      "id": "ae4099e15d9eb11d41c3590a61e598f2a5a09089",
-      "title": "Python mottar massive donasjoner: – Overveldende",
-      "link": "https://www.kode24.no/artikkel/python-mottar-massive-donasjoner-overveldende/249054",
-      "source": "Kode24",
-      "summary": "Python-stiftelsen har mottatt over 150.000 dollar etter at de takket «nei» til bevilgninger fra staten, på grunn av mangfold- og inkluderingsreguleringer.",
-      "published": "2025-11-10T13:26:30Z"
     },
     {
       "id": "4c0381eda2799e91985ad589c537a64429437504",
