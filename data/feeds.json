@@ -1,6 +1,47 @@
 {
-  "generated_at": "2025-11-17T06:36:00.265746Z",
+  "generated_at": "2025-11-18T06:34:41.912278Z",
   "items": [
+    {
+      "id": "fb226a9b1130ba2448fee9a1fe40fb08e6f18b7e",
+      "title": "23 prosent færre jobber i år",
+      "link": "https://www.kode24.no/artikkel/23-prosent-faerre-jobber-i-ar/249179",
+      "source": "Kode24",
+      "summary": "Det var langt færre ledige IT-jobber i oktober enn i fjor – men like mange arbeidssøkere, viser nye tall.",
+      "published": "2025-11-17T23:00:00Z"
+    },
+    {
+      "id": "bd27103ddd8c4d6207eef0be4d6ab637904dbab5",
+      "title": "Highlights from Git 2.52",
+      "link": "https://github.blog/open-source/git/highlights-from-git-2-52/",
+      "source": "GitHub Blog",
+      "summary": "The open source Git project just released Git 2.52. Here is GitHub’s look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.52 appeared first on The GitHub Blog.",
+      "published": "2025-11-17T17:54:31Z",
+      "image": "https://github.blog/wp-content/uploads/2025/11/unnamed-1.png?resize=1024%2C454"
+    },
+    {
+      "id": "bec15143c07f936e6c84280cf9bc6265e3bcd44b",
+      "title": "Mener KI spiser junior­jobber: «Dramatisk utvikling»",
+      "link": "https://www.kode24.no/artikkel/mener-ki-spiser-juniorjobber-dramatisk-utvikling/249546",
+      "source": "Kode24",
+      "summary": "– Vi ser at KI endrer hele strukturen i arbeidsmarkedet. Oppgaver som tidligere var typiske for nyutdannede håndteres nå digitalt, mener Christian Børresen om Randstads nye rapport.",
+      "published": "2025-11-17T12:03:46Z"
+    },
+    {
+      "id": "03cd2fbe1741ea6d2a63d1d9654d56da95fb015c",
+      "title": "– Gratisarbeid skal ikke være en inngangsport til arbeidslivet",
+      "link": "https://www.kode24.no/artikkel/gratisarbeid-skal-ikke-vaere-en-inngangsport-til-arbeidslivet/249497",
+      "source": "Kode24",
+      "summary": "Nito mener ulønnet arbeid kan føre til alvorlige konsekvenser: – Karrierestart kan bli til et klassespørsmål.",
+      "published": "2025-11-17T09:17:44Z"
+    },
+    {
+      "id": "11c80f27b50160eb7b7502204c209a0080c1f3d7",
+      "title": "Apple leter nå etter Tim Cooks erstatter",
+      "link": "https://www.kode24.no/artikkel/apple-leter-na-etter-tim-cooks-erstatter/249483",
+      "source": "Kode24",
+      "summary": "Apple trapper opp forberedelsene til å finne en arvtaker etter Tim Cook (65) som har vært toppsjef i selskapet i 14 år, melder Financial Times.",
+      "published": "2025-11-17T07:30:03Z"
+    },
     {
       "id": "c36d9fe97e8517b61d2a0a99682af3d03761e6d6",
       "title": "Derfor har «alle» plutselig kjøpt seg Nvidia DGX Spark",
@@ -51,8 +92,8 @@
     },
     {
       "id": "efe8d737126eec39a852190c43f0a946d099584e",
-      "title": "Hver tredje nordmann bruker aldri KI på jobb",
-      "link": "https://www.kode24.no/artikkel/hver-tredje-nordmann-bruker-aldri-ki-pa-jobb/249390",
+      "title": "To av tre nordmenn bruker aldri KI på jobb",
+      "link": "https://www.kode24.no/artikkel/to-av-tre-nordmenn-bruker-aldri-ki-pa-jobb/249390",
       "source": "Kode24",
       "summary": "Bruken av kunstig intelligens (KI) øker raskt i Norge. De fleste synes teknologien er nyttig, men nesten halvparten er bekymret for klimaavtrykket.",
       "published": "2025-11-14T07:26:37Z"
@@ -170,38 +211,6 @@
       "published": "2025-11-12T07:14:32Z"
     },
     {
-      "id": "da8a4b8ae9dbf5b5788b3064ddb51d25ca8e834a",
-      "title": "Norsk KI-shopping kan være år unna: – Må bli mer treffsikre",
-      "link": "https://www.kode24.no/artikkel/norsk-ki-shopping-kan-vaere-ar-unna-ma-bli-mer-treffsikre/249052",
-      "source": "Kode24",
-      "summary": "Mange mener KI skal totalt forandre måten vi handler på. – Men det er fortsatt en vei å gå, advarer norske eksperter.",
-      "published": "2025-11-12T04:00:00Z"
-    },
-    {
-      "id": "aea29749e5ae948151d4cd4a7bf6f45dae80fa81",
-      "title": "Wikipedia ber utviklere slutte å skrape dem",
-      "link": "https://www.kode24.no/artikkel/wikipedia-ber-utviklere-slutte-a-skrape-dem/249156",
-      "source": "Kode24",
-      "summary": "– Bruk API-ene! ber Wikimedia Foundation, som er lei av at KI-selskapene forskyner seg grovt.",
-      "published": "2025-11-11T12:17:10Z"
-    },
-    {
-      "id": "ffee2b67ae420dd2e05de022f4363eefb7d58255",
-      "title": "– Vi må slutte å definere oss etter hvor i stacken vi jobber",
-      "link": "https://www.kode24.no/artikkel/vi-ma-slutte-a-definere-oss-etter-hvor-i-stacken-vi-jobber/249126",
-      "source": "Kode24",
-      "summary": "– Vi er ikke bare backendere, frontendere eller fullstackere. Vi er utviklere. Vi er de folka som bygger løsningen, ikke bare koden, skriver Khalid B. Said.",
-      "published": "2025-11-11T09:58:48Z"
-    },
-    {
-      "id": "b586b177d0d15aed1781c1d3c08ed5274d8613f2",
-      "title": "Lyser ut ubetalte jobber: – Grov utnyttelse!",
-      "link": "https://www.kode24.no/artikkel/lyser-ut-ubetalte-jobber-grov-utnyttelse/248897",
-      "source": "Kode24",
-      "summary": "Vetle Huglen synes selskaper utnytter studenter ved å tilby ulønnet arbeid for å få erfaringen de trenger. – Føler de er nødt til å jobbe gratis.",
-      "published": "2025-11-10T23:00:00Z"
-    },
-    {
       "id": "4c0381eda2799e91985ad589c537a64429437504",
       "title": "What 986 million code pushes say about the developer workflow in 2025",
       "link": "https://github.blog/news-insights/octoverse/what-986-million-code-pushes-say-about-the-developer-workflow-in-2025/",
@@ -241,14 +250,6 @@
       "summary": "GitHub’s annual month-long game jam is back for its 13th year! This November, make a game inspired by the theme WAVES—literal, digital, or emotional. 👋🏻 🌊 📡 The post GitHub Game Off 2025 theme announcement appeared first on The GitHub Blog.",
       "published": "2025-11-01T20:37:00Z",
       "image": "https://github.blog/wp-content/uploads/2025/10/hang10.gif?resize=500%2C281"
-    },
-    {
-      "id": "4cc93ff6ac85d3b89a40c6d7a3ed721d978e2455",
-      "title": "Measuring what matters: How offline evaluation of GitHub MCP Server works",
-      "link": "https://github.blog/ai-and-ml/generative-ai/measuring-what-matters-how-offline-evaluation-of-github-mcp-server-works/",
-      "source": "GitHub Blog",
-      "summary": "Take a look inside our automated pipeline for rapid, rigorous evaluation for the GitHub MCP Server. The post Measuring what matters: How offline evaluation of GitHub MCP Server works appeared first on The GitHub Blog.",
-      "published": "2025-10-30T21:46:07Z"
     },
     {
       "id": "577a5afee18bb2d538f868ac979bc42e4339a172",
