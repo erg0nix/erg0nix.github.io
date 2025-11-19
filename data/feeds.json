@@ -1,6 +1,54 @@
 {
-  "generated_at": "2025-11-18T06:34:41.912278Z",
+  "generated_at": "2025-11-19T06:34:55.247412Z",
   "items": [
+    {
+      "id": "162d1e33081b56da35bb408d60fe92a6f865ed5f",
+      "title": "Ny protest­gruppe mot KI: – Vi må rope varsko",
+      "link": "https://www.kode24.no/artikkel/ny-protestgruppe-mot-ki-vi-ma-rope-varsko/249609",
+      "source": "Kode24",
+      "summary": "Kunstnerisk Initiativ for regulering av Kunstig Intelligens (KIKI) vil bevisstgjøre både deg og politikerne. – Dette kan ikke vare evig, mener Flu Hartberg.",
+      "published": "2025-11-19T04:00:00Z"
+    },
+    {
+      "id": "5c52eba83d8a851402dc8ef7f76a3268c5a90c08",
+      "title": "Level up design-to-code collaboration with GitHub’s open source Annotation Toolkit",
+      "link": "https://github.blog/enterprise-software/collaboration/level-up-design-to-code-collaboration-with-githubs-open-source-annotation-toolkit/",
+      "source": "GitHub Blog",
+      "summary": "Prevent accessibility issues before they reach production. The Annotation Toolkit brings clarity, compliance, and collaboration directly into your Figma workflow. The post Level up design-to-code collaboration with GitHub’s open source Annotation Toolkit appeared first on The GitHub Blog.",
+      "published": "2025-11-18T18:05:17Z"
+    },
+    {
+      "id": "ac0146746811a6630788dc959ac63858ae5e2216",
+      "title": "Cloudflare-problemer tar ned nettsider, og burgere",
+      "link": "https://www.kode24.no/artikkel/cloudflare-problemer-tar-ned-nettsider-og-burgere/249637",
+      "source": "Kode24",
+      "summary": "Alt fra kode24 til ChatGPT og burgere hos Max fikk trøbbel tirsdag ettermiddag.",
+      "published": "2025-11-18T12:08:52Z"
+    },
+    {
+      "id": "c28b2e0229e42d5258afc7e302b8fecfdc4ec2a9",
+      "title": "OpenAI dømt for brudd på opphavsrett: – Historisk og viktig seier",
+      "link": "https://www.kode24.no/artikkel/openai-domt-for-brudd-pa-opphavsrett-historisk-og-viktig-seier/249602",
+      "source": "Kode24",
+      "summary": "Tysk rett har slått fast at OpenAI har brutt opphavsretten ved å trene sin KI-modell på sangtekster uten tillatelse. Norske Tono jubler.",
+      "published": "2025-11-18T10:00:41Z"
+    },
+    {
+      "id": "1cc6415800dadb77c0076d1a0b0dc68152c152fb",
+      "title": "Google-sjefen sammenlikner KI med .com-bobla",
+      "link": "https://www.kode24.no/artikkel/google-sjefen-sammenlikner-ki-med-com-bobla/249611",
+      "source": "Kode24",
+      "summary": "– Jeg venter at KI kan gå gjennom det samme, sier Sundar Pichai.",
+      "published": "2025-11-18T09:49:57Z"
+    },
+    {
+      "id": "6a587f1b95442e258b592978307b3a0fc5c7ec87",
+      "title": "Sikkerhets­rapport: – Cyberangrep utgjør stor risiko",
+      "link": "https://www.kode24.no/artikkel/sikkerhetsrapport-cyberangrep-utgjor-stor-risiko/249581",
+      "source": "Kode24",
+      "summary": "Cyberangrep og innsidere utgjør stor risiko for ekomsektoren, skriver Nasjonal kommunikasjonsmyndighet (Nkom) i sin årlige risiko- og sårbarhetsrapport.",
+      "published": "2025-11-18T08:19:26Z"
+    },
     {
       "id": "fb226a9b1130ba2448fee9a1fe40fb08e6f18b7e",
       "title": "23 prosent færre jobber i år",
@@ -171,46 +219,6 @@
       "published": "2025-11-12T17:00:00Z"
     },
     {
-      "id": "9ce17e76627ebd164241f3fd5c056c022463293d",
-      "title": "Sikt ansetter fire til KI-satsning– tre av dem har doktorgrad",
-      "link": "https://www.kode24.no/artikkel/sikt-ansetter-fire-til-ki-satsning-tre-av-dem-har-doktorgrad/249290",
-      "source": "Kode24",
-      "summary": "Alexander Kjeserud, Haakon Dybdahl, Tu My Doan og Tollef Jørgensen skal alle jobbe for mer KI i norsk utdanning.",
-      "published": "2025-11-12T12:57:07Z"
-    },
-    {
-      "id": "e3cff894fea1718babb1c7d0a7fb222c8d01183a",
-      "title": "Mindre phishing, mer skadevare i Norge",
-      "link": "https://www.kode24.no/artikkel/mindre-phishing-mer-skadevare-i-norge/249231",
-      "source": "Kode24",
-      "summary": "Spredning av skadelig programvare i sosiale medier er blitt vanligere, ifølge Telenor.",
-      "published": "2025-11-12T08:29:21Z"
-    },
-    {
-      "id": "c0bccb47b3e060a824aa7a30c0b51c3c8bcf019f",
-      "title": "E-tjenesten lagret ulovlig data",
-      "link": "https://www.kode24.no/artikkel/e-tjenesten-lagret-ulovlig-data/249233",
-      "source": "Kode24",
-      "summary": "Tilrettelagt innhenting tillater kun lagring av metadata, men E-tjenesten lagret likevel emnefelter, melder EOS-utvalget.",
-      "published": "2025-11-12T08:17:29Z"
-    },
-    {
-      "id": "877b48476b697085dc4d4a2818ab8347ed40afdf",
-      "title": "Visma-server hacket – brukt til Bitcoin i halvannet år",
-      "link": "https://www.kode24.no/artikkel/visma-server-hacket-brukt-til-bitcoin-i-halvannet-ar/249200",
-      "source": "Kode24",
-      "summary": "– Den tekniske etterforskningen fant ingen bevis på at personopplysninger var blitt hentet ut av løsningen, men det kunne heller ikke utelukkes.",
-      "published": "2025-11-12T07:28:33Z"
-    },
-    {
-      "id": "b220aa9db1d0c6f0d642e78755eb67bee4e56dff",
-      "title": "Google investerer i Tyskland – skal skape 9.000 jobber hvert år",
-      "link": "https://www.kode24.no/artikkel/google-investerer-i-tyskland-skal-skape-9000-jobber-hvert-ar/249202",
-      "source": "Kode24",
-      "summary": "– Dette er akkurat det vi trenger akkurat nå, sier finansminister Lars Klingbeil.",
-      "published": "2025-11-12T07:14:32Z"
-    },
-    {
       "id": "4c0381eda2799e91985ad589c537a64429437504",
       "title": "What 986 million code pushes say about the developer workflow in 2025",
       "link": "https://github.blog/news-insights/octoverse/what-986-million-code-pushes-say-about-the-developer-workflow-in-2025/",
@@ -241,15 +249,6 @@
       "source": "GitHub Blog",
       "summary": "How GitHub Copilot works today—including mission control—and how to get the most out of it. Here’s what you need to know. The post GitHub Copilot tutorial: How to build, test, review, and ship code faster (with real prompts) appeared first on The GitHub Blog.",
       "published": "2025-11-05T17:00:00Z"
-    },
-    {
-      "id": "ab5926d98570f5d65247e0620c2cccd0db4832af",
-      "title": "GitHub Game Off 2025 theme announcement",
-      "link": "https://github.blog/company/github-game-off-2025-theme-announcement/",
-      "source": "GitHub Blog",
-      "summary": "GitHub’s annual month-long game jam is back for its 13th year! This November, make a game inspired by the theme WAVES—literal, digital, or emotional. 👋🏻 🌊 📡 The post GitHub Game Off 2025 theme announcement appeared first on The GitHub Blog.",
-      "published": "2025-11-01T20:37:00Z",
-      "image": "https://github.blog/wp-content/uploads/2025/10/hang10.gif?resize=500%2C281"
     },
     {
       "id": "577a5afee18bb2d538f868ac979bc42e4339a172",
