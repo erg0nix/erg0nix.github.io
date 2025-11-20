@@ -1,6 +1,79 @@
 {
-  "generated_at": "2025-11-19T06:34:55.247412Z",
+  "generated_at": "2025-11-20T06:34:27.505152Z",
   "items": [
+    {
+      "id": "a46faf32a42b55f7922468ff15beff2d567e1384",
+      "title": "– Er håndskrift bevis nok for at dette er skrevet av et menneske?",
+      "link": "https://www.kode24.no/artikkel/er-handskrift-bevis-nok-for-at-dette-er-skrevet-av-et-menneske/249518",
+      "source": "Kode24",
+      "summary": "– Dersom jeg vet at et produkt er produsert av KI, så oppstår det ingen emosjonelle bånd til produktet, skriver Øyvind Ahlstrøm, og velger derfor å skrive innlegget for hånd.",
+      "published": "2025-11-20T04:00:00Z"
+    },
+    {
+      "id": "4fe110398d9b8de1077eb9fad0fd205cc78504a4",
+      "title": "How we’re making GitHub Copilot smarter with fewer tools",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-were-making-github-copilot-smarter-with-fewer-tools/",
+      "source": "GitHub Blog",
+      "summary": "We're using embedding-guided tool routing, adaptive clustering, and a streamlined 13-tool core to deliver faster experience in VS Code. The post How we’re making GitHub Copilot smarter with fewer tools appeared first on The GitHub Blog.",
+      "published": "2025-11-19T20:00:00Z",
+      "image": "https://github.blog/wp-content/uploads/2025/11/tool-selection.png?resize=385%2C60"
+    },
+    {
+      "id": "6642a1932d081db5d3ab2d95b74b96385df37934",
+      "title": "How to write a great agents.md: Lessons from over 2,500 repositories",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-to-write-a-great-agents-md-lessons-from-over-2500-repositories/",
+      "source": "GitHub Blog",
+      "summary": "Learn how to write effective agents.md files for GitHub Copilot with practical tips, real examples, and templates from analyzing 2,500+ repositories. The post How to write a great agents.md: Lessons from over 2,500 repositories appeared first on The GitHub Blog.",
+      "published": "2025-11-19T17:00:00Z"
+    },
+    {
+      "id": "b8ce40c899c3e17405c5be8e1f44335663adf960",
+      "title": "Accenture vant konsulentpris: «Braksuksess»",
+      "link": "https://www.kode24.no/artikkel/accenture-vant-konsulentpris-braksuksess/249781",
+      "source": "Kode24",
+      "summary": "Vant Konsulentprisen for sin jobb hos KLP.",
+      "published": "2025-11-19T16:15:00Z"
+    },
+    {
+      "id": "eb6a718f2dcde1ee06ebaa19876ef2102263ecd7",
+      "title": "KI-juks fører til flere muntlige eksamener",
+      "link": "https://www.kode24.no/artikkel/ki-juks-forer-til-flere-muntlige-eksamener/249765",
+      "source": "Kode24",
+      "summary": "Kunstig intelligens fører til at universiteter i Norge har færre hjemmeeksamener og flere muntlige eksamener, melder Khrono.",
+      "published": "2025-11-19T14:43:12Z"
+    },
+    {
+      "id": "40f839e0609ead62af37ff439f0d909397df9980",
+      "title": "Oda (30) går fra store Computas til lille Snøkam: – Alt går raskere",
+      "link": "https://www.kode24.no/artikkel/oda-30-gar-fra-store-computas-til-lille-snokam-alt-gar-raskere/249572",
+      "source": "Kode24",
+      "summary": "– Alt går raskere, idéer blir tatt på alvor, og man merker at det man bidrar med faktisk utgjør en forskjell i et lite selskap, sier Oda Scheen Kiese.",
+      "published": "2025-11-19T11:48:28Z"
+    },
+    {
+      "id": "e4fc554a502f0557811587e7f85b4306b2412688",
+      "title": "Google gir ut KI-editoren Antigravity",
+      "link": "https://www.kode24.no/artikkel/google-gir-ut-ki-editoren-antigravity/249731",
+      "source": "Kode24",
+      "summary": "Sammen med sin nye Gemini 3-modell lanserer de IDE-en som skal dra nytte av den.",
+      "published": "2025-11-19T10:06:49Z"
+    },
+    {
+      "id": "071b9294aae96ed3e290828b2219fac01e63a49f",
+      "title": "Derfor gikk Cloudflare ned i fire timer: «Uakseptabelt»",
+      "link": "https://www.kode24.no/artikkel/derfor-gikk-cloudflare-ned-i-fire-timer-uakseptabelt/249706",
+      "source": "Kode24",
+      "summary": "– Dette var vår verste nedetid siden 2019, skriver Cloudflare-sjefen, som trodde han ble angrepet.",
+      "published": "2025-11-19T09:08:54Z"
+    },
+    {
+      "id": "59f4907331e886b4ef9bb257a5e01b5219f8082f",
+      "title": "Tekgiganter gjør storinvestering i Anthropic",
+      "link": "https://www.kode24.no/artikkel/tekgiganter-gjor-storinvestering-i-anthropic/249686",
+      "source": "Kode24",
+      "summary": "Nvidia og Microsoft investerer til sammen 15 milliarder dollar i KI-selskapet Anthropic, som står bak Claude – konkurrenten til ChatGPT.",
+      "published": "2025-11-19T07:33:25Z"
+    },
     {
       "id": "162d1e33081b56da35bb408d60fe92a6f865ed5f",
       "title": "Ny protest­gruppe mot KI: – Vi må rope varsko",
@@ -131,30 +204,6 @@
       "published": "2025-11-14T10:15:39Z"
     },
     {
-      "id": "abe7dee13ac02d04ad70fe28c337ce13f120cfef",
-      "title": "kode24 vokser videre",
-      "link": "https://www.kode24.no/artikkel/kode24-vokser-videre/249408",
-      "source": "Kode24",
-      "summary": "Med 33 prosent vekst siden i fjor er det bare tre andre aviser i Norge som vokser mer.",
-      "published": "2025-11-14T09:39:48Z"
-    },
-    {
-      "id": "efe8d737126eec39a852190c43f0a946d099584e",
-      "title": "To av tre nordmenn bruker aldri KI på jobb",
-      "link": "https://www.kode24.no/artikkel/to-av-tre-nordmenn-bruker-aldri-ki-pa-jobb/249390",
-      "source": "Kode24",
-      "summary": "Bruken av kunstig intelligens (KI) øker raskt i Norge. De fleste synes teknologien er nyttig, men nesten halvparten er bekymret for klimaavtrykket.",
-      "published": "2025-11-14T07:26:37Z"
-    },
-    {
-      "id": "13a8bad6994f607ad15c7ac0b8f58ee955c4ead0",
-      "title": "– Studenter bør jobbe mer med å fylle opp GitHub-en sin",
-      "link": "https://www.kode24.no/artikkel/studenter-bor-jobbe-mer-med-a-fylle-opp-github-en-sin/249372",
-      "source": "Kode24",
-      "summary": "– Og mindre med å fylle opp innboksene til de store konsulentselskapene, skriver Ole Petter i ukas nyhetsbrev.",
-      "published": "2025-11-14T04:00:00Z"
-    },
-    {
       "id": "0ea1e6845fb72fccd664b752f5ee51bd9c6de569",
       "title": "Go’s Sweet 16",
       "link": "https://go.dev/blog/16years",
@@ -179,38 +228,6 @@
       "published": "2025-11-13T16:00:00Z"
     },
     {
-      "id": "6e474954c1d7ad658b0cd45152995eaae51f856c",
-      "title": "Nordea sendte 8.600 personnummer til 1.400 kunder",
-      "link": "https://www.kode24.no/artikkel/nordea-sendte-8600-personnummer-til-1400-kunder/249360",
-      "source": "Kode24",
-      "summary": "– Det er en alvorlig menneskelig glipp, som vi beklager.",
-      "published": "2025-11-13T10:46:24Z"
-    },
-    {
-      "id": "d887b8e12135142ed2a8c963134ae37f257b9397",
-      "title": "Protesterer mot norsk samarbeid med Palantir",
-      "link": "https://www.kode24.no/artikkel/protesterer-mot-norsk-samarbeid-med-palantir/249344",
-      "source": "Kode24",
-      "summary": "– Gjorde det klart hvilke forventninger Norge har til åpenhet, personvern og tillit – og at dette ikke er noe vi kompromisser på, sier Karianne Tung etter møtet.",
-      "published": "2025-11-13T09:39:46Z"
-    },
-    {
-      "id": "2a5997882f4856f88656cfa80f7736da53618c5d",
-      "title": "People Made Machines ansetter Rodrigo (37): «Stadig flere vil bruke KI»",
-      "link": "https://www.kode24.no/artikkel/people-made-machines-ansetter-rodrigo-37-stadig-flere-vil-bruke-ki/249329",
-      "source": "Kode24",
-      "summary": "Rodrigo Carvalho blir ny senior-KI-utvikler, med doktograd i bagasjen.",
-      "published": "2025-11-13T09:20:25Z"
-    },
-    {
-      "id": "84263c2f65b3d4a943617c9f4e3109323a538062",
-      "title": "CircleGab: – Ante ikke hvor komplekst prosjektet ble",
-      "link": "https://www.kode24.no/artikkel/circlegab-ante-ikke-hvor-komplekst-prosjektet-ble/249034",
-      "source": "Kode24",
-      "summary": "To kamerater uten utviklerbakgrunn lanserer et nytt, norsk sosialt medium: CircleGab. Det ble mer komplisert enn de trodde",
-      "published": "2025-11-13T04:00:00Z"
-    },
-    {
       "id": "689666331ea288277642ffcb5288a1d98789c281",
       "title": "How Copilot helps build the GitHub platform",
       "link": "https://github.blog/ai-and-ml/github-copilot/how-copilot-helps-build-the-github-platform/",
@@ -233,22 +250,6 @@
       "source": "GitHub Blog",
       "summary": "Curious about using GitHub Copilot in your terminal? Here's our guide to GitHub Copilot CLI, including a starter kit with the best prompts for a wide range of use cases. The post GitHub Copilot CLI 101: How to use GitHub Copilot from the command line appeared first on The GitHub Blog.",
       "published": "2025-11-06T20:30:00Z"
-    },
-    {
-      "id": "bc00d4e830b197205498e8498ab6078eae6fe89d",
-      "title": "TypeScript’s rise in the AI era: Insights from Lead Architect, Anders Hejlsberg",
-      "link": "https://github.blog/developer-skills/programming-languages-and-frameworks/typescripts-rise-in-the-ai-era-insights-from-lead-architect-anders-hejlsberg/",
-      "source": "GitHub Blog",
-      "summary": "TypeScript just became the most-used language on GitHub. Here’s why, according to its creator. The post TypeScript’s rise in the AI era: Insights from Lead Architect, Anders Hejlsberg appeared first on The GitHub Blog.",
-      "published": "2025-11-06T17:00:00Z"
-    },
-    {
-      "id": "b9ec0789fbe40a2355ce58013e6a1105301118e4",
-      "title": "GitHub Copilot tutorial: How to build, test, review, and ship code faster (with real prompts)",
-      "link": "https://github.blog/ai-and-ml/github-copilot/a-developers-guide-to-writing-debugging-reviewing-and-shipping-code-faster-with-github-copilot/",
-      "source": "GitHub Blog",
-      "summary": "How GitHub Copilot works today—including mission control—and how to get the most out of it. Here’s what you need to know. The post GitHub Copilot tutorial: How to build, test, review, and ship code faster (with real prompts) appeared first on The GitHub Blog.",
-      "published": "2025-11-05T17:00:00Z"
     },
     {
       "id": "577a5afee18bb2d538f868ac979bc42e4339a172",
