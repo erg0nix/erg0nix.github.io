@@ -1,6 +1,46 @@
 {
-  "generated_at": "2025-11-21T06:35:52.462524Z",
+  "generated_at": "2025-11-22T06:31:35.543341Z",
   "items": [
+    {
+      "id": "10231d0f16aeb2a2eca5a3842efc11b9ca9aa868",
+      "title": "Rust-koden som krasja Cloudflare",
+      "link": "https://www.kode24.no/artikkel/rust-koden-som-krasja-cloudflare/250014",
+      "source": "Kode24",
+      "summary": "Hvorfor alle plutselig snakker om unwrap(), hvor mye Grok elsker Musk og hvordan tekno hørtes ut på 70-tallet, i ukas Lørdagsgodt.",
+      "published": "2025-11-22T04:00:00Z"
+    },
+    {
+      "id": "c180456c2da62097ce09a2bfe8851041dc5c4db4",
+      "title": "Ny, helnorsk registrar vil rydde opp i .no-bransjen",
+      "link": "https://www.kode24.no/artikkel/ny-helnorsk-registrar-vil-rydde-opp-i-no-bransjen/249990",
+      "source": "Kode24",
+      "summary": "– Bransjen har blitt kraftig preget av oppkjøp fra utlandet, og prisnivået har skutt i været, mener Gigahost fra Sandefjord.",
+      "published": "2025-11-21T11:37:51Z"
+    },
+    {
+      "id": "3189567dcc7c562b8a08590273f72021e2b5ca3a",
+      "title": "Microsoft-topp frustrert av kritikk mot KI-Windows",
+      "link": "https://www.kode24.no/artikkel/microsoft-topp-frustrert-av-kritikk-mot-ki-windows/249962",
+      "source": "Kode24",
+      "summary": "– Jeez, det er så mange kynikere! melder Microsoft-topp, etter at hverken journalister eller folk flest lar seg imponere over Copilot- og Windows-sammensmelting.",
+      "published": "2025-11-21T09:27:47Z"
+    },
+    {
+      "id": "6a8395629b20698ac34f6474a601cd0cdbec166e",
+      "title": "Sveltes remote function: – Ser magisk lett ut!",
+      "link": "https://www.kode24.no/artikkel/sveltes-remote-function-ser-magisk-lett-ut/249756",
+      "source": "Kode24",
+      "summary": "Sveltes nye remote functions imponerer React-bruker, Vercel vil bli kvitt ryktet sitt og finjustering av ytelse, i ukas ForrigeUke.",
+      "published": "2025-11-21T08:49:27Z"
+    },
+    {
+      "id": "d2db34b10f2562bdda63324d69215026bf3c405b",
+      "title": "Twitch får 16-årsgrense i Australia",
+      "link": "https://www.kode24.no/artikkel/twitch-far-16-arsgrense-i-australia/249940",
+      "source": "Kode24",
+      "summary": "Mange sosiale medier får aldersgrense i Australia 10. desember 2024. Blant dem er også Twitch, som føyes til listen over tjenester.",
+      "published": "2025-11-21T07:38:48Z"
+    },
     {
       "id": "0e44dcc7a96f428083d1cfbd2372d17f7b8daeaa",
       "title": "Vi gikk ned denne uka. Og må stille oss noen spørsmål",
@@ -156,38 +196,6 @@
       "published": "2025-11-18T12:08:52Z"
     },
     {
-      "id": "c28b2e0229e42d5258afc7e302b8fecfdc4ec2a9",
-      "title": "OpenAI dømt for brudd på opphavsrett: – Historisk og viktig seier",
-      "link": "https://www.kode24.no/artikkel/openai-domt-for-brudd-pa-opphavsrett-historisk-og-viktig-seier/249602",
-      "source": "Kode24",
-      "summary": "Tysk rett har slått fast at OpenAI har brutt opphavsretten ved å trene sin KI-modell på sangtekster uten tillatelse. Norske Tono jubler.",
-      "published": "2025-11-18T10:00:41Z"
-    },
-    {
-      "id": "1cc6415800dadb77c0076d1a0b0dc68152c152fb",
-      "title": "Google-sjefen sammenlikner KI med .com-bobla",
-      "link": "https://www.kode24.no/artikkel/google-sjefen-sammenlikner-ki-med-com-bobla/249611",
-      "source": "Kode24",
-      "summary": "– Jeg venter at KI kan gå gjennom det samme, sier Sundar Pichai.",
-      "published": "2025-11-18T09:49:57Z"
-    },
-    {
-      "id": "6a587f1b95442e258b592978307b3a0fc5c7ec87",
-      "title": "Sikkerhets­rapport: – Cyberangrep utgjør stor risiko",
-      "link": "https://www.kode24.no/artikkel/sikkerhetsrapport-cyberangrep-utgjor-stor-risiko/249581",
-      "source": "Kode24",
-      "summary": "Cyberangrep og innsidere utgjør stor risiko for ekomsektoren, skriver Nasjonal kommunikasjonsmyndighet (Nkom) i sin årlige risiko- og sårbarhetsrapport.",
-      "published": "2025-11-18T08:19:26Z"
-    },
-    {
-      "id": "fb226a9b1130ba2448fee9a1fe40fb08e6f18b7e",
-      "title": "23 prosent færre jobber i år",
-      "link": "https://www.kode24.no/artikkel/23-prosent-faerre-jobber-i-ar/249179",
-      "source": "Kode24",
-      "summary": "Det var langt færre ledige IT-jobber i oktober enn i fjor – men like mange arbeidssøkere, viser nye tall.",
-      "published": "2025-11-17T23:00:00Z"
-    },
-    {
       "id": "bd27103ddd8c4d6207eef0be4d6ab637904dbab5",
       "title": "Highlights from Git 2.52",
       "link": "https://github.blog/open-source/git/highlights-from-git-2-52/",
@@ -195,14 +203,6 @@
       "summary": "The open source Git project just released Git 2.52. Here is GitHub’s look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.52 appeared first on The GitHub Blog.",
       "published": "2025-11-17T17:54:31Z",
       "image": "https://github.blog/wp-content/uploads/2025/11/unnamed-1.png?resize=1024%2C454"
-    },
-    {
-      "id": "bec15143c07f936e6c84280cf9bc6265e3bcd44b",
-      "title": "Mener KI spiser junior­jobber: «Dramatisk utvikling»",
-      "link": "https://www.kode24.no/artikkel/mener-ki-spiser-juniorjobber-dramatisk-utvikling/249546",
-      "source": "Kode24",
-      "summary": "– Vi ser at KI endrer hele strukturen i arbeidsmarkedet. Oppgaver som tidligere var typiske for nyutdannede håndteres nå digitalt, mener Christian Børresen om Randstads nye rapport.",
-      "published": "2025-11-17T12:03:46Z"
     },
     {
       "id": "054238d1ed4507dc063d89b4c3235cf8486f6ad7",
