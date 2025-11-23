@@ -43,6 +43,13 @@ my wishlist for christmas 2025.
 - [asket t-shirt - white](https://www.asket.com/en-no/mens-t-shirt-white)
 - [medium tall 6-pack pima t-shirts](https://mediumtall.no/products/6pk-pima-t-skjorte?variant=40036026974326)
 
+**headwear**
+- [varsity legacy structured active tech cap](https://varsityheadwear.com/product/lst-activ-econvy)
+- [varsity legacy soft washed cotton cap - green](https://varsityheadwear.com/product/lsof-wcot-grn)
+
+**footwear**
+- [timberland redwood falls waterproof moc toe boot](https://www.timberland.com/en-us/p/men/footwear-10039/mens-redwood-falls-waterproof-moc-toe-boot-TB1A2EDRF13?width=M)
+
 <div class="wishlist-grid">
   <a href="https://morrisstockholm.com/p/maryon-half-zip-sweatshirt-olive"><img src="https://morris.centracdn.net/client/dynamic/images/2544_9a914e2fcc-450352-maryon-half-zip-sweatshirt-78-olive-1-medium.jpg" alt="maryon half-zip sweatshirt"></a>
   <a href="https://morrisstockholm.com/p/howard-roller-neck-brown"><img src="https://morris.centracdn.net/client/dynamic/images/2596_3086dd3d51-901399-howard-roller-neck-89-brown-1-medium.jpg" alt="howard roller neck brown"></a>
@@ -78,6 +85,8 @@ my wishlist for christmas 2025.
 - [3-ply rectangular baking pan](https://www.illumsbolighus.no/interi%C3%B8r/kj%C3%B8kken/kj%C3%B8kkenutstyr/ovnspanner/3-ply-ovnspanne-rektangul%C3%A6r-900406073.html)
 - [le creuset cheese fondue pot - cast iron](https://www.lecreuset.no/no_NO/p/ostefondue-stopejern/CI0020.html)
 - [signature square grill pan 26cm - garnet](https://www.illumsbolighus.no/interi%C3%B8r/kj%C3%B8kken/gryter-%26-panner/grillpanner/signature-kvadratisk-grillpanne-26-cm%2C-garnet-902726776.html)
+- [garonne mini oval pan with 2 handles - 0.68l](https://www.illumsbolighus.no/interi%C3%B8r/kj%C3%B8kken/gryter-%26-panner/stekepanner/garonne-mini-oval-panne-med-2-grep%2C-0%2C68-l-901445372.html)
+- [paillon hybrid langpanne - 39 x 26.5 x 10.6 cm](https://www.illumsbolighus.no/interi%C3%B8r/borddekking/paillon-hybrid-langpanne-903137392.html)
 
 **appliances & tools**
 - [wmf kult pro blender - 1.8l](https://www.kitchn.no/kjokken/kjokkenapparater/blendere/wmf-kult-pro-blender-18l/)
