@@ -56,6 +56,8 @@ my wishlist for christmas 2025.
   <a href="https://www.etonshirts.com/no/en/product/white-shirt-signature-twill"><img src="https://api.etonshirts.com/v1/retail/image/1080/aws/7266/10001234200_mshfr_1.jpg/white-shirt-signature-twill_2025-05-29T120734Z.webp" alt="eton signature twill shirt"></a>
   <a href="https://www.etonshirts.com/no/en/product/dark-brown-solid-corduroy-shirt"><img src="https://api.etonshirts.com/v1/retail/image/1620/bynder/ef5c8e44-5d07-4487-a50e-44b9140ddf73/dark-brown-solid-corduroy-shirt_2025-08-26T080554758Z.webp" alt="eton dark brown corduroy shirt"></a>
   <a href="https://www.asket.com/en-no/mens-t-shirt-white"><img src="https://images.asket.com/pim-images/1755179769-asket_tee-ma-whi_slideshow_1.jpg" alt="asket white t-shirt"></a>
+  <a href="https://varsityheadwear.com/product/lst-activ-econvy"><img src="https://varsityheadwear.centracdn.net/client/dynamic/images/237_038184f128-lst-activ-nvy-1-full.jpg" alt="varsity active tech cap"></a>
+  <a href="https://varsityheadwear.com/product/lsof-wcot-grn"><img src="https://varsityheadwear.centracdn.net/client/dynamic/images/231_e560071205-lsof-wcot-grn-1-full.jpg" alt="varsity soft cotton cap green"></a>
 </div>
 
 ---
@@ -72,33 +74,55 @@ my wishlist for christmas 2025.
 - [ugreen nasync dxp4800 plus nas server](https://www.proshop.no/NAS-Server/UGREEN-NASync-DXP4800-Plus-NAS-Server/3371906)
 - [deskpi rackmate tt-black rackmount cabinet](https://deskpi.com/products/deskpi-rackmate-tt-black-rackmount-mini-server-cabinet-for-mini-pc-network-servers-audio-and-video-equipment)
 
+**networking**
+- [asus bt8 router](https://www.komplett.no/product/1312698/datautstyr/nettverk/routere/asus-bt8-router?queryid=e98ffc72d439a8a3e07e4615328ec01f&sort=None)
+- [mikrotik hex s 2025](https://mikrotik.com/product/hex_s_2025)
+
+**peripherals**
+- [logitech mx master 4 wireless mouse - graphite](https://www.power.no/data-og-tilbehoer/tastatur-og-mus/mus/logitech-mx-master-4-traadloes-mus-grafitt/p-4141035/)
+- [zsa voyager split ergonomic keyboard](https://www.zsa.io/voyager)
+- [dutzo air duster vacuum cleaner 2-in-1](https://www.proshop.no/Kabinett-tilbehoer/DUTZO-Air-Duster-Vacuum-cleaner-2-in-1-3-speed/3205554)
+
 <div class="wishlist-grid">
   <a href="https://deskpi.com/products/deskpi-lite-for-raspberry-pi-5-with-power-button-heatsink-with-armor-lite-v5-fan-support-m-2-nvme-ssd"><img src="https://deskpi.com/cdn/shop/files/DP-0038-01-02.jpg?v=1733198855" alt="deskpi lite case"></a>
   <a href="https://deskpi.com/products/deskpi-rackmate-tt-black-rackmount-mini-server-cabinet-for-mini-pc-network-servers-audio-and-video-equipment"><img src="https://deskpi.com/cdn/shop/files/DP-0054-01_f2a464df-66f5-4f32-ad09-296e6bb1f71f.jpg?v=1763112083" alt="deskpi rackmate cabinet"></a>
+  <a href="https://mikrotik.com/product/hex_s_2025"><img src="https://cdn.mikrotik.com/web-assets/rb_images/2458_hi_res.png" alt="mikrotik hex s"></a>
+  <a href="https://www.zsa.io/voyager"><img src="https://zsa.io/cdn-cgi/image/width=1500,quality=95,format=auto/@voyager/images/home/voyager-hero.webp" alt="zsa voyager keyboard"></a>
 </div>
+
+---
+
+## sports & fitness
+
+**tennis**
+- [tourna grip xl overgrip pack](https://www.amazon.com/Tourna-Grip-Feel-Tennis-Pack/dp/B004I5J8TC/ref=sr_1_1_sspa?dib=eyJ2IjoiMSJ9.DVCuB_RICq8dOtqP1OCoFU3G7ABzNMge1Qdj_ehCDpNW4KL8XPiylwlTpWCPUYOmXuZqus489pwBU3hvbjc5LOWOjqVTU_LtH-bDy6UI__lh0Ya1SMvUW9VepiiTcr9jTvK7GTGm17RTpE3hEtvBnEYXwMQqCi6GWU3ipFnRWVNbRSrzSwo6Ufcof9-RduwyLW6k22u4__OPk7338911ZAoc3uNHvr8y84RyJpxbgTdjEe5Ls--nY7UiC19yo7EecSLDbrdWAe8nAlqSPagwNyEx3mAoPqg_-dzasTWGWKA.tuL_lRuAfgSv5jWtrjU8cQrtTTxu4PTKUKk2IP87JYU&dib_tag=se&keywords=tournagrip&qid=1763911529&sr=8-1-spons&sp_csd=d2lkZ2V0TmFtZT1zcF9hdGY&psc=1)
+
+---
+
+## gadgets
+
+- [bug-a-salt 3.0 advanced combat fiber](https://www.proshop.no/Gadget/Bug-A-Salt-30-Advanced-Combat-Fiber/3389689)
 
 ---
 
 ## kitchen & cooking
 
 **cookware**
-- [3-ply rectangular baking pan](https://www.illumsbolighus.no/interi%C3%B8r/kj%C3%B8kken/kj%C3%B8kkenutstyr/ovnspanner/3-ply-ovnspanne-rektangul%C3%A6r-900406073.html)
-- [le creuset cheese fondue pot - cast iron](https://www.lecreuset.no/no_NO/p/ostefondue-stopejern/CI0020.html)
 - [signature square grill pan 26cm - garnet](https://www.illumsbolighus.no/interi%C3%B8r/kj%C3%B8kken/gryter-%26-panner/grillpanner/signature-kvadratisk-grillpanne-26-cm%2C-garnet-902726776.html)
 - [garonne mini oval pan with 2 handles - 0.68l](https://www.illumsbolighus.no/interi%C3%B8r/kj%C3%B8kken/gryter-%26-panner/stekepanner/garonne-mini-oval-panne-med-2-grep%2C-0%2C68-l-901445372.html)
 - [paillon hybrid langpanne - 39 x 26.5 x 10.6 cm](https://www.illumsbolighus.no/interi%C3%B8r/borddekking/paillon-hybrid-langpanne-903137392.html)
 
 **appliances & tools**
 - [wmf kult pro blender - 1.8l](https://www.kitchn.no/kjokken/kjokkenapparater/blendere/wmf-kult-pro-blender-18l/)
-- [premium waiter's corkscrew - satin black](https://www.illumsbolighus.no/interi%C3%B8r/borddekking/bartilbeh%C3%B8r/premium-servit%C3%B8r-korketrekker%2C-satin-black-902917662.html)
 
 **serveware**
 - [plissé deep dish set - 2 pcs white](https://www.illumsbolighus.no/interi%C3%B8r/kj%C3%B8kken/kj%C3%B8kkenutstyr/ildfaste-former/pliss%C3%A9-fatsett-dypt-2-stk.%2C-hvit-903137374.html)
 - [plissé rectangular serving dish - 36cm](https://www.illumsbolighus.no/interi%C3%B8r/borddekking/sk%C3%A5ler-%26-fat/fat/pliss%C3%A9-rektangul%C3%A6rt-fat-36-cm-901142458.html)
 
 <div class="wishlist-grid">
-  <a href="https://www.illumsbolighus.no/interi%C3%B8r/kj%C3%B8kken/kj%C3%B8kkenutstyr/ovnspanner/3-ply-ovnspanne-rektangul%C3%A6r-900406073.html"><img src="https://www.illumsbolighus.no/dw/image/v2/BGKQ_PRD/on/demandware.static/-/Sites-sfcc-master-catalogue/default/dwe32e04d3/images/hi-res/900406073.jpg?sw=1500&sh=1500&q=75" alt="3-ply rectangular baking pan"></a>
   <a href="https://www.illumsbolighus.no/interi%C3%B8r/kj%C3%B8kken/gryter-%26-panner/grillpanner/signature-kvadratisk-grillpanne-26-cm%2C-garnet-902726776.html"><img src="https://www.illumsbolighus.no/dw/image/v2/BGKQ_PRD/on/demandware.static/-/Sites-sfcc-master-catalogue/default/dwb81d0256/images/hi-res/902726776.jpg?sw=1500&sh=1500&q=75" alt="le creuset grill pan"></a>
+  <a href="https://www.illumsbolighus.no/interi%C3%B8r/kj%C3%B8kken/gryter-%26-panner/stekepanner/garonne-mini-oval-panne-med-2-grep%2C-0%2C68-l-901445372.html"><img src="https://www.illumsbolighus.no/dw/image/v2/BGKQ_PRD/on/demandware.static/-/Sites-sfcc-master-catalogue/default/dw66bcf745/images/hi-res/901445372.jpg?sw=1500&sh=1500&q=75" alt="garonne mini oval pan"></a>
+  <a href="https://www.illumsbolighus.no/interi%C3%B8r/borddekking/paillon-hybrid-langpanne-903137392.html"><img src="https://www.illumsbolighus.no/dw/image/v2/BGKQ_PRD/on/demandware.static/-/Sites-sfcc-master-catalogue/default/dwbf8cfcaf/images/hi-res/903137392_1.jpg?sw=1500&sh=1500&q=75" alt="paillon hybrid langpanne"></a>
   <a href="https://www.kitchn.no/kjokken/kjokkenapparater/blendere/wmf-kult-pro-blender-18l/"><img src="https://content.kitchn.no/media/f2c12e8a-9616-4901-a023-e1f4105d3539s_600_600.jpg?23121514" alt="wmf kult pro blender"></a>
 </div>
 
