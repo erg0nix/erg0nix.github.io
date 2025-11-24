@@ -1,6 +1,14 @@
 {
-  "generated_at": "2025-11-23T06:33:02.960106Z",
+  "generated_at": "2025-11-24T06:36:04.290888Z",
   "items": [
+    {
+      "id": "3bc0abe72476600bdba9b7858022930bb0300f62",
+      "title": "Mottok over 140 like jobb­søknader",
+      "link": "https://www.kode24.no/artikkel/mottok-over-140-like-jobbsoknader/249668",
+      "source": "Kode24",
+      "summary": "– Hvis dette er fremtiden, må vi slutte med søknadsbrev, sier Monica Hurley i Nav, og advarer mot å la KI skrive jobbsøknader. Men hittil i år har Finn.no skrevet 45.000 av dem.",
+      "published": "2025-11-24T04:00:00Z"
+    },
     {
       "id": "10231d0f16aeb2a2eca5a3842efc11b9ca9aa868",
       "title": "Rust-koden som krasja Cloudflare",
@@ -186,14 +194,6 @@
       "source": "GitHub Blog",
       "summary": "Prevent accessibility issues before they reach production. The Annotation Toolkit brings clarity, compliance, and collaboration directly into your Figma workflow. The post Level up design-to-code collaboration with GitHub’s open source Annotation Toolkit appeared first on The GitHub Blog.",
       "published": "2025-11-18T18:05:17Z"
-    },
-    {
-      "id": "ac0146746811a6630788dc959ac63858ae5e2216",
-      "title": "Cloudflare-problemer tar ned nettsider, og burgere",
-      "link": "https://www.kode24.no/artikkel/cloudflare-problemer-tar-ned-nettsider-og-burgere/249637",
-      "source": "Kode24",
-      "summary": "Alt fra kode24 til ChatGPT og burgere hos Max fikk trøbbel tirsdag ettermiddag.",
-      "published": "2025-11-18T12:08:52Z"
     },
     {
       "id": "bd27103ddd8c4d6207eef0be4d6ab637904dbab5",
