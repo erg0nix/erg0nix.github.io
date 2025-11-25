@@ -1,6 +1,54 @@
 {
-  "generated_at": "2025-11-24T06:36:04.290888Z",
+  "generated_at": "2025-11-25T06:36:47.577164Z",
   "items": [
+    {
+      "id": "cb408d7650d75e85499de8c30441e9ad2827f24e",
+      "title": "Dette ser de etter hos jobb­søkere: – Trenden har endret seg",
+      "link": "https://www.kode24.no/artikkel/dette-ser-de-etter-hos-jobbsokere-trenden-har-endret-seg/249848",
+      "source": "Kode24",
+      "summary": "Det er hverken karakterer eller grader som er viktigst når du søker jobb, bekrefter tre norske arbeidsgivere.",
+      "published": "2025-11-25T04:00:00Z"
+    },
+    {
+      "id": "a394cb9ea9b87d58cc2d6972dc3754dfb994cd6a",
+      "title": "Developers still need the right to challenge junk patents",
+      "link": "https://github.blog/news-insights/policy-news-and-insights/developers-still-need-the-right-to-challenge-junk-patents/",
+      "source": "GitHub Blog",
+      "summary": "Calling on developers, startups, and open source organizations to advocate against patent rules that would make it harder to challenge bad patents by the December 2 deadline. The post Developers still need the right to challenge junk patents appeared first on The GitHub Blog.",
+      "published": "2025-11-24T16:00:00Z"
+    },
+    {
+      "id": "bdc70b8caa190e7b4ee1d582dcc359c1e4908a77",
+      "title": "Artisten «Ida Andrea» er mann (44) med KI",
+      "link": "https://www.kode24.no/artikkel/artisten-ida-andrea-er-mann-44-med-ki/250107",
+      "source": "Kode24",
+      "summary": "En 44 år gammel mann fra Fredrikstad har skapt den virtuelle popartisten «Ida Andrea» ved hjelp av KI-verktøyet Suno.",
+      "published": "2025-11-24T12:33:16Z"
+    },
+    {
+      "id": "09adb959797e12aa3f6eb1271f6d3cd34718d217",
+      "title": "Avlyste konferanse – havnet i spam",
+      "link": "https://www.kode24.no/artikkel/avlyste-konferanse-havnet-i-spam/250099",
+      "source": "Kode24",
+      "summary": "Smidig-styret beklager, etter at deres todagers konferanse ble avlyst i en epost mange ikke fikk lest.",
+      "published": "2025-11-24T12:02:47Z"
+    },
+    {
+      "id": "321013e21c614642215aaf60d8ca1e93352e4be0",
+      "title": "Mener KI ikke er grunnen til at juniorer kuttes",
+      "link": "https://www.kode24.no/artikkel/mener-ki-ikke-er-grunnen-til-at-juniorer-kuttes/250065",
+      "source": "Kode24",
+      "summary": "– KI er katalysatoren som avdekker et gammelt problem: En hel bransje har utsatt sin egen omstilling, skriver Johan Grönlund, daglig leder i Forte.",
+      "published": "2025-11-24T09:27:45Z"
+    },
+    {
+      "id": "609c17365f2f05405542aba1d724f966b5e2dd51",
+      "title": "Politikere vil øke elavgiften til datasentre i Norge",
+      "link": "https://www.kode24.no/artikkel/politikere-vil-oke-elavgiften-til-datasentre-i-norge/250038",
+      "source": "Kode24",
+      "summary": "Senterpartiet vil øke elavgiften med 10 øre per kilowattime for datasentre. Partiet får støtte av SV og Rødt.",
+      "published": "2025-11-24T07:43:34Z"
+    },
     {
       "id": "3bc0abe72476600bdba9b7858022930bb0300f62",
       "title": "Mottok over 140 like jobb­søknader",
@@ -148,46 +196,6 @@
       "published": "2025-11-19T14:43:12Z"
     },
     {
-      "id": "40f839e0609ead62af37ff439f0d909397df9980",
-      "title": "Oda (30) går fra store Computas til lille Snøkam: – Alt går raskere",
-      "link": "https://www.kode24.no/artikkel/oda-30-gar-fra-store-computas-til-lille-snokam-alt-gar-raskere/249572",
-      "source": "Kode24",
-      "summary": "– Alt går raskere, idéer blir tatt på alvor, og man merker at det man bidrar med faktisk utgjør en forskjell i et lite selskap, sier Oda Scheen Kiese.",
-      "published": "2025-11-19T11:48:28Z"
-    },
-    {
-      "id": "e4fc554a502f0557811587e7f85b4306b2412688",
-      "title": "Google gir ut KI-editoren Antigravity",
-      "link": "https://www.kode24.no/artikkel/google-gir-ut-ki-editoren-antigravity/249731",
-      "source": "Kode24",
-      "summary": "Sammen med sin nye Gemini 3-modell lanserer de IDE-en som skal dra nytte av den.",
-      "published": "2025-11-19T10:06:49Z"
-    },
-    {
-      "id": "071b9294aae96ed3e290828b2219fac01e63a49f",
-      "title": "Derfor gikk Cloudflare ned i fire timer: «Uakseptabelt»",
-      "link": "https://www.kode24.no/artikkel/derfor-gikk-cloudflare-ned-i-fire-timer-uakseptabelt/249706",
-      "source": "Kode24",
-      "summary": "– Dette var vår verste nedetid siden 2019, skriver Cloudflare-sjefen, som trodde han ble angrepet.",
-      "published": "2025-11-19T09:08:54Z"
-    },
-    {
-      "id": "59f4907331e886b4ef9bb257a5e01b5219f8082f",
-      "title": "Tekgiganter gjør storinvestering i Anthropic",
-      "link": "https://www.kode24.no/artikkel/tekgiganter-gjor-storinvestering-i-anthropic/249686",
-      "source": "Kode24",
-      "summary": "Nvidia og Microsoft investerer til sammen 15 milliarder dollar i KI-selskapet Anthropic, som står bak Claude – konkurrenten til ChatGPT.",
-      "published": "2025-11-19T07:33:25Z"
-    },
-    {
-      "id": "162d1e33081b56da35bb408d60fe92a6f865ed5f",
-      "title": "Ny protest­gruppe mot KI: – Vi må rope varsko",
-      "link": "https://www.kode24.no/artikkel/ny-protestgruppe-mot-ki-vi-ma-rope-varsko/249609",
-      "source": "Kode24",
-      "summary": "Kunstnerisk Initiativ for regulering av Kunstig Intelligens (KIKI) vil bevisstgjøre både deg og politikerne. – Dette kan ikke vare evig, mener Flu Hartberg.",
-      "published": "2025-11-19T04:00:00Z"
-    },
-    {
       "id": "5c52eba83d8a851402dc8ef7f76a3268c5a90c08",
       "title": "Level up design-to-code collaboration with GitHub’s open source Annotation Toolkit",
       "link": "https://github.blog/enterprise-software/collaboration/level-up-design-to-code-collaboration-with-githubs-open-source-annotation-toolkit/",
@@ -243,14 +251,6 @@
       "source": "GitHub Blog",
       "summary": "A breakdown of how Copilot coding agent has contributed to a better, more powerful GitHub. The post How Copilot helps build the GitHub platform appeared first on The GitHub Blog.",
       "published": "2025-11-12T17:00:00Z"
-    },
-    {
-      "id": "4c0381eda2799e91985ad589c537a64429437504",
-      "title": "What 986 million code pushes say about the developer workflow in 2025",
-      "link": "https://github.blog/news-insights/octoverse/what-986-million-code-pushes-say-about-the-developer-workflow-in-2025/",
-      "source": "GitHub Blog",
-      "summary": "Nearly a billion commits later, the way we ship code has changed for good. Here’s what the 2025 Octoverse data says about how devs really work now. The post What 986 million code pushes say about the developer workflow in 2025 appeared first on The GitHub Blog.",
-      "published": "2025-11-07T16:00:00Z"
     },
     {
       "id": "577a5afee18bb2d538f868ac979bc42e4339a172",
