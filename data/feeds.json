@@ -1,6 +1,55 @@
 {
-  "generated_at": "2025-11-25T06:36:47.577164Z",
+  "generated_at": "2025-11-26T06:36:09.066720Z",
   "items": [
+    {
+      "id": "cc9728e6a7ef55f52ed6232cd9af00d2b34347b0",
+      "title": "Forsvarte seg selv i retten med KI: – Kan bli dyrt",
+      "link": "https://www.kode24.no/artikkel/forsvarte-seg-selv-i-retten-med-ki-kan-bli-dyrt/250089",
+      "source": "Kode24",
+      "summary": "Prosesskrivet på over 700 KI-skrevne sider skapte mer arbeid. – Jeg tror det vil bli verre før det blir bedre, sier advokatfullmektig, mens domstolene ser både fordeler og ulemper.",
+      "published": "2025-11-26T04:00:00Z"
+    },
+    {
+      "id": "84eb4b1fa352f57b1357f74686f7db34a451e276",
+      "title": "Why developers still flock to Python: Guido van Rossum on readability, AI, and the future of programming",
+      "link": "https://github.blog/developer-skills/programming-languages-and-frameworks/why-developers-still-flock-to-python-guido-van-rossum-on-readability-ai-and-the-future-of-programming/",
+      "source": "GitHub Blog",
+      "summary": "Discover how Python changed developer culture—and see why it keeps evolving. The post Why developers still flock to Python: Guido van Rossum on readability, AI, and the future of programming appeared first on The GitHub Blog.",
+      "published": "2025-11-25T17:00:00Z",
+      "image": "https://github.blog/wp-content/uploads/2025/10/octoverse-2025-most-common-languages-in-repos-built-in-the-last-12-months.png?resize=1024%2C576"
+    },
+    {
+      "id": "bb26f9424141956275d75ccddae97f46162beab5",
+      "title": "How GitHub’s agentic security principles make our AI agents as secure as possible",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-githubs-agentic-security-principles-make-our-ai-agents-as-secure-as-possible/",
+      "source": "GitHub Blog",
+      "summary": "Learn more about the agentic security principles that we use to build secure AI products—and how you can apply them to your own agents. The post How GitHub’s agentic security principles make our AI agents as secure as possible appeared first on The GitHub Blog.",
+      "published": "2025-11-25T16:00:00Z"
+    },
+    {
+      "id": "bc51b31de668ef93f054f2c46ef3323d55c89c5a",
+      "title": "Personvernbrudd hos flere statsforvaltere",
+      "link": "https://www.kode24.no/artikkel/personvernbrudd-hos-flere-statsforvaltere/250208",
+      "source": "Kode24",
+      "summary": "Flere statsforvaltere har ved en feil gitt innsyn i sladdede dokumenter hvor det har vært mulig å finne personopplysninger som navn og fødselsnummer.",
+      "published": "2025-11-25T12:03:14Z"
+    },
+    {
+      "id": "0f544e64469eeeec1f76d9d7681e58b16e5ae496",
+      "title": "– Ikke si «jeg ville gjort slik», spør «hva tenker du selv?»",
+      "link": "https://www.kode24.no/artikkel/ikke-si-jeg-ville-gjort-slik-spor-hva-tenker-du-selv/249529",
+      "source": "Kode24",
+      "summary": "– Når den nyansatte selv får eie utviklingen sin, vokser både selvtillit og mestringsfølelse, skriver systemutvikler Ola Haldor Hådi i Norsk Helsenett om veillederrollen.",
+      "published": "2025-11-25T09:41:48Z"
+    },
+    {
+      "id": "1eb23eca3480b182ba25f47d92ace0a219ba4dcc",
+      "title": "Digert angrep: Shai-Hulud stjeler hemmelig­hetene dine",
+      "link": "https://www.kode24.no/artikkel/digert-angrep-shai-hulud-stjeler-hemmelighetene-dine/250162",
+      "source": "Kode24",
+      "summary": "– Umiddelbar etterforskning er anbefalt for alle npm-baserte miljøer, skriver Wiz om Shai-Hulud-angrepet.",
+      "published": "2025-11-25T08:31:23Z"
+    },
     {
       "id": "cb408d7650d75e85499de8c30441e9ad2827f24e",
       "title": "Dette ser de etter hos jobb­søkere: – Trenden har endret seg",
@@ -147,22 +196,6 @@
       "published": "2025-11-20T07:36:02Z"
     },
     {
-      "id": "2820ac1eb6e4fbd514e2d6844edc0d551e0fcaf3",
-      "title": "Nvidia omsatte mer enn forventet, går mot rekord",
-      "link": "https://www.kode24.no/artikkel/nvidia-omsatte-mer-enn-forventet-gar-mot-rekord/249815",
-      "source": "Kode24",
-      "summary": "Omsatte for 581 milliarder kroner i tredje kvartal.",
-      "published": "2025-11-20T07:35:56Z"
-    },
-    {
-      "id": "a46faf32a42b55f7922468ff15beff2d567e1384",
-      "title": "– Er håndskrift bevis nok for at dette er skrevet av et menneske?",
-      "link": "https://www.kode24.no/artikkel/er-handskrift-bevis-nok-for-at-dette-er-skrevet-av-et-menneske/249518",
-      "source": "Kode24",
-      "summary": "– Dersom jeg vet at et produkt er produsert av KI, så oppstår det ingen emosjonelle bånd til produktet, skriver Øyvind Ahlstrøm, og velger derfor å skrive innlegget for hånd.",
-      "published": "2025-11-20T04:00:00Z"
-    },
-    {
       "id": "4fe110398d9b8de1077eb9fad0fd205cc78504a4",
       "title": "How we’re making GitHub Copilot smarter with fewer tools",
       "link": "https://github.blog/ai-and-ml/github-copilot/how-were-making-github-copilot-smarter-with-fewer-tools/",
@@ -178,22 +211,6 @@
       "source": "GitHub Blog",
       "summary": "Learn how to write effective agents.md files for GitHub Copilot with practical tips, real examples, and templates from analyzing 2,500+ repositories. The post How to write a great agents.md: Lessons from over 2,500 repositories appeared first on The GitHub Blog.",
       "published": "2025-11-19T17:00:00Z"
-    },
-    {
-      "id": "b8ce40c899c3e17405c5be8e1f44335663adf960",
-      "title": "Accenture vant konsulentpris: «Braksuksess»",
-      "link": "https://www.kode24.no/artikkel/accenture-vant-konsulentpris-braksuksess/249781",
-      "source": "Kode24",
-      "summary": "Vant Konsulentprisen for sin jobb hos KLP.",
-      "published": "2025-11-19T16:15:00Z"
-    },
-    {
-      "id": "eb6a718f2dcde1ee06ebaa19876ef2102263ecd7",
-      "title": "KI-juks fører til flere muntlige eksamener",
-      "link": "https://www.kode24.no/artikkel/ki-juks-forer-til-flere-muntlige-eksamener/249765",
-      "source": "Kode24",
-      "summary": "Kunstig intelligens fører til at universiteter i Norge har færre hjemmeeksamener og flere muntlige eksamener, melder Khrono.",
-      "published": "2025-11-19T14:43:12Z"
     },
     {
       "id": "5c52eba83d8a851402dc8ef7f76a3268c5a90c08",
@@ -235,22 +252,6 @@
       "source": "GitHub Blog",
       "summary": "In October, we experienced four incidents that resulted in degraded performance across GitHub services. The post GitHub Availability Report: October 2025 appeared first on The GitHub Blog.",
       "published": "2025-11-13T17:28:48Z"
-    },
-    {
-      "id": "81cf1f575ec7b458598d050f57dfbc774fddf62e",
-      "title": "TypeScript, Python, and the AI feedback loop changing software development",
-      "link": "https://github.blog/news-insights/octoverse/typescript-python-and-the-ai-feedback-loop-changing-software-development/",
-      "source": "GitHub Blog",
-      "summary": "An interview with the leader of GitHub Next, Idan Gazit, on TypeScript, Python, and what comes next. The post TypeScript, Python, and the AI feedback loop changing software development appeared first on The GitHub Blog.",
-      "published": "2025-11-13T16:00:00Z"
-    },
-    {
-      "id": "689666331ea288277642ffcb5288a1d98789c281",
-      "title": "How Copilot helps build the GitHub platform",
-      "link": "https://github.blog/ai-and-ml/github-copilot/how-copilot-helps-build-the-github-platform/",
-      "source": "GitHub Blog",
-      "summary": "A breakdown of how Copilot coding agent has contributed to a better, more powerful GitHub. The post How Copilot helps build the GitHub platform appeared first on The GitHub Blog.",
-      "published": "2025-11-12T17:00:00Z"
     },
     {
       "id": "577a5afee18bb2d538f868ac979bc42e4339a172",
