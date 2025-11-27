@@ -1,10 +1,42 @@
 {
-  "generated_at": "2025-11-26T06:36:09.066720Z",
+  "generated_at": "2025-11-27T06:36:48.162236Z",
   "items": [
     {
+      "id": "d2dbc4f3e99d10bee144322bed68a91f13903f88",
+      "title": "Når teknologi ledes av folk som ikke forstår teknologien",
+      "link": "https://www.kode24.no/artikkel/nar-teknologi-ledes-av-folk-som-ikke-forstar-teknologien/250144",
+      "source": "Kode24",
+      "summary": "– Utviklere, arkitekter og driftspersonell blir ledet av personer uten teknisk bakgrunn og utdanning, skriver Jas Sadana. – Konsekvensene er kostbare.",
+      "published": "2025-11-26T23:00:00Z"
+    },
+    {
+      "id": "65dba709174d0645d516c07687682f01c17c071a",
+      "title": "Glem bench­markene: Derfor bør du bry deg om Claude Opus 4.5",
+      "link": "https://www.kode24.no/artikkel/glem-benchmarkene-derfor-bor-du-bry-deg-om-claude-opus-45/250271",
+      "source": "Kode24",
+      "summary": "– Handler mindre om at modellen har lest flere bøker, og mer om at de har endret måten modellen jobber på, skriver Magnus Rødseth, og viser deg hvorfor.",
+      "published": "2025-11-26T11:54:04Z"
+    },
+    {
+      "id": "cdfdd6dbefe0651c864590226ce54cc9686a1ad2",
+      "title": "Nvidia falt på børsen",
+      "link": "https://www.kode24.no/artikkel/nvidia-falt-pa-borsen/250255",
+      "source": "Kode24",
+      "summary": "Nvidia falt på børsen etter nyheten om mulig samarbeid mellom Meta og Alphabet om databrikker.",
+      "published": "2025-11-26T10:26:36Z"
+    },
+    {
+      "id": "240231885c12f19293af94317a214c4a5482b4f1",
+      "title": "Nå skal MCP-servere levere bruker­grensesnitt",
+      "link": "https://www.kode24.no/artikkel/na-skal-mcp-servere-levere-brukergrensesnitt/250227",
+      "source": "Kode24",
+      "summary": "Hva er MCP Apps? Trenger vi :closed? Hvordan får vi responsivt mellomrom mellom bokstaver? Og hva er VS Code Private Marketplace? ForrigeUke svarer!",
+      "published": "2025-11-26T08:58:56Z"
+    },
+    {
       "id": "cc9728e6a7ef55f52ed6232cd9af00d2b34347b0",
-      "title": "Forsvarte seg selv i retten med KI: – Kan bli dyrt",
-      "link": "https://www.kode24.no/artikkel/forsvarte-seg-selv-i-retten-med-ki-kan-bli-dyrt/250089",
+      "title": "Forsvarte seg selv i retten med KI – ble dyrt",
+      "link": "https://www.kode24.no/artikkel/forsvarte-seg-selv-i-retten-med-ki-ble-dyrt/250089",
       "source": "Kode24",
       "summary": "Prosesskrivet på over 700 KI-skrevne sider skapte mer arbeid. – Jeg tror det vil bli verre før det blir bedre, sier advokatfullmektig, mens domstolene ser både fordeler og ulemper.",
       "published": "2025-11-26T04:00:00Z"
@@ -162,38 +194,6 @@
       "summary": "GitHub Copilot’s next edit suggestions just got faster, smarter, and more precise thanks to new data pipelines, reinforcement learning, and continuous model updates built for in-editor workflows. The post Evolving GitHub Copilot’s next edit suggestions through custom model training appeared first...",
       "published": "2025-11-20T18:02:21Z",
       "image": "https://github.blog/wp-content/uploads/2025/11/Copilot-NES-demo-1.gif?resize=960%2C720"
-    },
-    {
-      "id": "1330270c7c8302945f448ee28753545a9afca82c",
-      "title": "Språkrådet: – Mange feil i ChatGPT og Copilot",
-      "link": "https://www.kode24.no/artikkel/sprakradet-mange-feil-i-chatgpt-og-copilot/249878",
-      "source": "Kode24",
-      "summary": "Språkrådet har testet språket til fire språkmodeller som ChatGPT og Copilot. De har funnet mange feil, og resultatene er svakest på nynorsk.",
-      "published": "2025-11-20T12:34:57Z"
-    },
-    {
-      "id": "3061b995074cc66a4f9b669774de32fd0d42f2bf",
-      "title": "Dataforeningen nedbemanner: «Tøft marked»",
-      "link": "https://www.kode24.no/artikkel/dataforeningen-nedbemanner-toft-marked/249846",
-      "source": "Kode24",
-      "summary": "– Som flere andre har vi tatt konsekvensen av et tøft eventmarked, sier daglig leder Hege Svendsen i Dataforeningen, som blir to færre.",
-      "published": "2025-11-20T11:55:42Z"
-    },
-    {
-      "id": "9fa5bb2067e3c8462451232bd5a8c865650dd284",
-      "title": "– Vibbekoding kan være en grusom, grusom idé",
-      "link": "https://www.kode24.no/artikkel/vibbekoding-kan-vaere-en-grusom-grusom-ide/249844",
-      "source": "Kode24",
-      "summary": "Men i det store og det hele ser Linus Thorvalds på vibbekoding som en positiv greie.",
-      "published": "2025-11-20T08:59:14Z"
-    },
-    {
-      "id": "15d8ad8da7a8393f0637b94eef1cf868926c8bfd",
-      "title": "KI kan gjøre mobiler dyrere",
-      "link": "https://www.kode24.no/artikkel/ki-kan-gjore-mobiler-dyrere/249827",
-      "source": "Kode24",
-      "summary": "Databrikker som vanligvis skulle blitt brukt i nye mobiltelefoner, støvsuges heller av datasentre for kunstig intelligens. Det kan skru opp prisen på forbrukerelektronikk.",
-      "published": "2025-11-20T07:36:02Z"
     },
     {
       "id": "4fe110398d9b8de1077eb9fad0fd205cc78504a4",
