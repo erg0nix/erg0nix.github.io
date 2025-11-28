@@ -1,6 +1,38 @@
 {
-  "generated_at": "2025-11-27T06:36:48.162236Z",
+  "generated_at": "2025-11-28T06:36:32.200417Z",
   "items": [
+    {
+      "id": "89278796eb91b28993d3bb976da6b555669f1df7",
+      "title": "Nå kjører jeg Linux. Og jeg angrer ikke",
+      "link": "https://www.kode24.no/artikkel/na-kjorer-jeg-linux-og-jeg-angrer-ikke/250375",
+      "source": "Kode24",
+      "summary": "– 2025 kan faktisk bli Linux sitt år, for mye har endra seg, skriver Ole Petter i ukas nyhetsbrev.",
+      "published": "2025-11-28T04:00:00Z"
+    },
+    {
+      "id": "9f944481078c956ea7b1ef4c4d76b3993092965e",
+      "title": "Konsulent­bransjen har et definisjons­­problem – det går ut over juniorene",
+      "link": "https://www.kode24.no/artikkel/konsulentbransjen-har-et-definisjonsproblem-det-gar-ut-over-juniorene/250312",
+      "source": "Kode24",
+      "summary": "– Den norske konsulentmodellen fungerer ikke lenger som smøremiddel for kompetanse, men som en propp, skriver Tore André Rosander.",
+      "published": "2025-11-27T13:00:36Z"
+    },
+    {
+      "id": "40e5792b06c7fa050bb8324562e1cb75edc651c4",
+      "title": "Tror jobb­søknader kan bli mindre viktige framover",
+      "link": "https://www.kode24.no/artikkel/tror-jobbsoknader-kan-bli-mindre-viktige-framover/250142",
+      "source": "Kode24",
+      "summary": "Andreas Rafaelsen i Digdir tror ukritisk KI-bruk til jobbsøknader virker mot sin hensikt. Og ser ikke bort fra at bruken snart gjør søknadene mindre viktige.",
+      "published": "2025-11-27T11:06:20Z"
+    },
+    {
+      "id": "669de27bfb6108787ec175c654f6f6f39ef01af9",
+      "title": "Zig vraker GitHub: «Tregt og ofte ødelagt»",
+      "link": "https://www.kode24.no/artikkel/zig-vraker-github-tregt-og-ofte-odelagt/250348",
+      "source": "Kode24",
+      "summary": "– Klokka begynte å tikke da de ble solgt til Microsoft, mener Zig-skaper Andrew Kelley, og mener tida er inne for å gå over til tyske Codeberg.",
+      "published": "2025-11-27T09:29:14Z"
+    },
     {
       "id": "d2dbc4f3e99d10bee144322bed68a91f13903f88",
       "title": "Når teknologi ledes av folk som ikke forstår teknologien",
@@ -153,38 +185,6 @@
       "source": "Kode24",
       "summary": "– Bransjen har blitt kraftig preget av oppkjøp fra utlandet, og prisnivået har skutt i været, mener Gigahost fra Sandefjord.",
       "published": "2025-11-21T11:37:51Z"
-    },
-    {
-      "id": "3189567dcc7c562b8a08590273f72021e2b5ca3a",
-      "title": "Microsoft-topp frustrert av kritikk mot KI-Windows",
-      "link": "https://www.kode24.no/artikkel/microsoft-topp-frustrert-av-kritikk-mot-ki-windows/249962",
-      "source": "Kode24",
-      "summary": "– Jeez, det er så mange kynikere! melder Microsoft-topp, etter at hverken journalister eller folk flest lar seg imponere over Copilot- og Windows-sammensmelting.",
-      "published": "2025-11-21T09:27:47Z"
-    },
-    {
-      "id": "6a8395629b20698ac34f6474a601cd0cdbec166e",
-      "title": "Sveltes remote function: – Ser magisk lett ut!",
-      "link": "https://www.kode24.no/artikkel/sveltes-remote-function-ser-magisk-lett-ut/249756",
-      "source": "Kode24",
-      "summary": "Sveltes nye remote functions imponerer React-bruker, Vercel vil bli kvitt ryktet sitt og finjustering av ytelse, i ukas ForrigeUke.",
-      "published": "2025-11-21T08:49:27Z"
-    },
-    {
-      "id": "d2db34b10f2562bdda63324d69215026bf3c405b",
-      "title": "Twitch får 16-årsgrense i Australia",
-      "link": "https://www.kode24.no/artikkel/twitch-far-16-arsgrense-i-australia/249940",
-      "source": "Kode24",
-      "summary": "Mange sosiale medier får aldersgrense i Australia 10. desember 2024. Blant dem er også Twitch, som føyes til listen over tjenester.",
-      "published": "2025-11-21T07:38:48Z"
-    },
-    {
-      "id": "0e44dcc7a96f428083d1cfbd2372d17f7b8daeaa",
-      "title": "Vi gikk ned denne uka. Og må stille oss noen spørsmål",
-      "link": "https://www.kode24.no/artikkel/vi-gikk-ned-denne-uka-og-ma-stille-oss-noen-sporsmal/249907",
-      "source": "Kode24",
-      "summary": "– Når de som skal løse problemene er hele problemet, må man vurdere å løse problemet sjælv, skriver Ole Petter i ukas nyhetsbrev, om Cloudflares nedetid.",
-      "published": "2025-11-21T04:00:00Z"
     },
     {
       "id": "2565e226bc3e0c63e600c158216914a9f0cd8274",
