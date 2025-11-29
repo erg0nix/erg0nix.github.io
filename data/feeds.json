@@ -1,6 +1,55 @@
 {
-  "generated_at": "2025-11-28T06:36:32.200417Z",
+  "generated_at": "2025-11-29T06:33:26.881862Z",
   "items": [
+    {
+      "id": "c895e42c27fb4c2254ac22360d39d30d42e9a393",
+      "title": "Bøkene utviklere bør ønske seg til jul",
+      "link": "https://www.kode24.no/artikkel/bokene-utviklere-bor-onske-seg-til-jul/250532",
+      "source": "Kode24",
+      "summary": "Smarte bøker for smarte folk, gamle spill, nye memer og fin musikk, i ukas Lørdagsgodt.",
+      "published": "2025-11-29T04:00:00Z"
+    },
+    {
+      "id": "3e16e6ea93b92f429a9155efe4007825ccbaceb7",
+      "title": "Ga beskjed til 70 utviklere etter Shai Hulud 2.0: «Stopp alt»",
+      "link": "https://www.kode24.no/artikkel/ga-beskjed-til-70-utviklere-etter-shai-hulud-20-stopp-alt/250482",
+      "source": "Kode24",
+      "summary": "– Hvis det er én ting denne hendelsen gjorde tydelig, er det hvor viktig det er at organisasjoner har moden kompetanse i Node-økosystemet, skriver Åsmund Røst Wien.",
+      "published": "2025-11-28T14:01:40Z"
+    },
+    {
+      "id": "63b33612f858619c63650f812b3d20d68cc3644e",
+      "title": "The ultimate gift guide for the developer in your life",
+      "link": "https://github.blog/news-insights/company-news/the-ultimate-gift-guide-for-the-developer-in-your-life/",
+      "source": "GitHub Blog",
+      "summary": "Finding the perfect gift for your favorite developer is easy with our top tips. The post The ultimate gift guide for the developer in your life appeared first on The GitHub Blog.",
+      "published": "2025-11-28T13:08:56Z",
+      "image": "https://github.blog/wp-content/uploads/2025/11/hat.png?resize=1024%2C683"
+    },
+    {
+      "id": "11340d8c563ef07b0a91958190c5c75d46832ff3",
+      "title": "Kritikken hagler mot Arkivverkets nye nettside",
+      "link": "https://www.kode24.no/artikkel/kritikken-hagler-mot-arkivverkets-nye-nettside/250359",
+      "source": "Kode24",
+      "summary": "Arkivverkets sider fokuserer nå på en chatbot og kunstig intelligens: – Kan dere være så snill å få tilbake mennesker?",
+      "published": "2025-11-28T11:51:20Z"
+    },
+    {
+      "id": "3bff5e63cd2a694207713cac160abdf0c24eaf49",
+      "title": "Hvorfor kan ikke ChatGPT klokka?",
+      "link": "https://www.kode24.no/artikkel/hvorfor-kan-ikke-chatgpt-klokka/250424",
+      "source": "Kode24",
+      "summary": "Den sliter hvis du spør hva klokka er, og årsaken sammenliknes med å være forlatt på en øde øy.",
+      "published": "2025-11-28T09:44:29Z"
+    },
+    {
+      "id": "b4adda22185f78d4b3f838a7e9b3689c320427a6",
+      "title": "Dfind Consulting bytter navn og får 25.000 nye kolleger",
+      "link": "https://www.kode24.no/artikkel/dfind-consulting-bytter-navn-og-far-25000-nye-kolleger/250439",
+      "source": "Kode24",
+      "summary": "Dfind Consulting blir Randstad Digital, og skal satse hardere på sikkerhet.",
+      "published": "2025-11-28T08:43:00Z"
+    },
     {
       "id": "89278796eb91b28993d3bb976da6b555669f1df7",
       "title": "Nå kjører jeg Linux. Og jeg angrer ikke",
@@ -147,46 +196,6 @@
       "published": "2025-11-24T12:02:47Z"
     },
     {
-      "id": "321013e21c614642215aaf60d8ca1e93352e4be0",
-      "title": "Mener KI ikke er grunnen til at juniorer kuttes",
-      "link": "https://www.kode24.no/artikkel/mener-ki-ikke-er-grunnen-til-at-juniorer-kuttes/250065",
-      "source": "Kode24",
-      "summary": "– KI er katalysatoren som avdekker et gammelt problem: En hel bransje har utsatt sin egen omstilling, skriver Johan Grönlund, daglig leder i Forte.",
-      "published": "2025-11-24T09:27:45Z"
-    },
-    {
-      "id": "609c17365f2f05405542aba1d724f966b5e2dd51",
-      "title": "Politikere vil øke elavgiften til datasentre i Norge",
-      "link": "https://www.kode24.no/artikkel/politikere-vil-oke-elavgiften-til-datasentre-i-norge/250038",
-      "source": "Kode24",
-      "summary": "Senterpartiet vil øke elavgiften med 10 øre per kilowattime for datasentre. Partiet får støtte av SV og Rødt.",
-      "published": "2025-11-24T07:43:34Z"
-    },
-    {
-      "id": "3bc0abe72476600bdba9b7858022930bb0300f62",
-      "title": "Mottok over 140 like jobb­søknader",
-      "link": "https://www.kode24.no/artikkel/mottok-over-140-like-jobbsoknader/249668",
-      "source": "Kode24",
-      "summary": "– Hvis dette er fremtiden, må vi slutte med søknadsbrev, sier Monica Hurley i Nav, og advarer mot å la KI skrive jobbsøknader. Men hittil i år har Finn.no skrevet 45.000 av dem.",
-      "published": "2025-11-24T04:00:00Z"
-    },
-    {
-      "id": "10231d0f16aeb2a2eca5a3842efc11b9ca9aa868",
-      "title": "Rust-koden som krasja Cloudflare",
-      "link": "https://www.kode24.no/artikkel/rust-koden-som-krasja-cloudflare/250014",
-      "source": "Kode24",
-      "summary": "Hvorfor alle plutselig snakker om unwrap(), hvor mye Grok elsker Musk og hvordan tekno hørtes ut på 70-tallet, i ukas Lørdagsgodt.",
-      "published": "2025-11-22T04:00:00Z"
-    },
-    {
-      "id": "c180456c2da62097ce09a2bfe8851041dc5c4db4",
-      "title": "Ny, helnorsk registrar vil rydde opp i .no-bransjen",
-      "link": "https://www.kode24.no/artikkel/ny-helnorsk-registrar-vil-rydde-opp-i-no-bransjen/249990",
-      "source": "Kode24",
-      "summary": "– Bransjen har blitt kraftig preget av oppkjøp fra utlandet, og prisnivået har skutt i været, mener Gigahost fra Sandefjord.",
-      "published": "2025-11-21T11:37:51Z"
-    },
-    {
       "id": "2565e226bc3e0c63e600c158216914a9f0cd8274",
       "title": "Evolving GitHub Copilot’s next edit suggestions through custom model training",
       "link": "https://github.blog/ai-and-ml/github-copilot/evolving-github-copilots-next-edit-suggestions-through-custom-model-training/",
@@ -244,14 +253,6 @@
       "source": "Go Blog",
       "summary": "Happy Birthday, Go!",
       "published": "2025-11-14T00:00:00Z"
-    },
-    {
-      "id": "a658d1f62560e0cc4e9bd723c2f6273d4a7294f6",
-      "title": "GitHub Availability Report: October 2025",
-      "link": "https://github.blog/news-insights/company-news/github-availability-report-october-2025/",
-      "source": "GitHub Blog",
-      "summary": "In October, we experienced four incidents that resulted in degraded performance across GitHub services. The post GitHub Availability Report: October 2025 appeared first on The GitHub Blog.",
-      "published": "2025-11-13T17:28:48Z"
     },
     {
       "id": "577a5afee18bb2d538f868ac979bc42e4339a172",
