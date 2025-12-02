@@ -1,6 +1,54 @@
 {
-  "generated_at": "2025-12-01T06:38:53.728262Z",
+  "generated_at": "2025-12-02T06:37:44.053802Z",
   "items": [
+    {
+      "id": "ee8208b06ecfdbf3b83c58d11c480349cd89442b",
+      "title": "Kan vi plis slutte å flex’e så mye?",
+      "link": "https://www.kode24.no/artikkel/kan-vi-plis-slutte-a-flexe-sa-mye/250616",
+      "source": "Kode24",
+      "summary": "Elise Kristiansen advarer mot å la flexbox løse alle CSS-problemer. – Én siste liten Copilot-autocomplete var nok til at mitt vannglass rant fullstendig over.",
+      "published": "2025-12-02T04:00:00Z"
+    },
+    {
+      "id": "233c458b86ac5911b7d1a7e34b7def2f368b77e1",
+      "title": "How to orchestrate agents using mission control",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-to-orchestrate-agents-using-mission-control/",
+      "source": "GitHub Blog",
+      "summary": "Run multiple Copilot agents from one place. Learn prompt techniques, how to spot drift early, and how to review agent work efficiently. The post How to orchestrate agents using mission control appeared first on The GitHub Blog.",
+      "published": "2025-12-01T17:00:00Z"
+    },
+    {
+      "id": "c72f5602f9570f9701ed6e97cf086ccd53c9a183",
+      "title": "KI hallusinerte meg inn i en fiks hos Auth0",
+      "link": "https://www.kode24.no/artikkel/ki-hallusinerte-meg-inn-i-en-fiks-hos-auth0/250426",
+      "source": "Kode24",
+      "summary": "Plutselig stod jeg oppført som forfatter av en sikkerhetsfiks hos Auth0. Jeg har aldri rørt koden deres. 🙃 Hva i alle dager er det som skjer?",
+      "published": "2025-12-01T11:58:07Z"
+    },
+    {
+      "id": "c79bf31f206cab2d1c04f78627922e0a8a9a6a16",
+      "title": "Ukraina skal lage droner i Norge",
+      "link": "https://www.kode24.no/artikkel/ukraina-skal-lage-droner-i-norge/250594",
+      "source": "Kode24",
+      "summary": "Norge og Ukraina har inngått en intensjonsavtale om ukrainsk droneproduksjon i Norge. Målet er å få produksjonen i gang i løpet av 2026.",
+      "published": "2025-12-01T11:57:40Z"
+    },
+    {
+      "id": "0f9855bb05b2344c6d1dca4d0d49c83038dd0ca2",
+      "title": "Julekalendere for utviklere 2025",
+      "link": "https://www.kode24.no/artikkel/julekalendere-for-utviklere-2025/250553",
+      "source": "Kode24",
+      "summary": "PST er ikke på plass i år heller, men det er Cyberlandslaget. Og en haug andre.",
+      "published": "2025-12-01T09:36:12Z"
+    },
+    {
+      "id": "d7e6bb6ebe05b5fa1025618b847fd1c9eb108aab",
+      "title": "Lene Alexandra: «LinkedIn er ikke Tinder!»",
+      "link": "https://www.kode24.no/artikkel/lene-alexandra-linkedin-er-ikke-tinder/250551",
+      "source": "Kode24",
+      "summary": "– LinkedIn er et profesjonelt nettverk, ikke Tinder. Jeg ønsker ikke å møte folk på spa eller på intime kveldsavtaler, sier Lene Alexandra på LinkedIn.",
+      "published": "2025-12-01T08:56:25Z"
+    },
     {
       "id": "bf17b17b2ac1716740540c5474d9f8417abcce7f",
       "title": "kode24s julekalender 2025: Bli konsulent i Tomarchy!",
@@ -148,52 +196,12 @@
       "published": "2025-11-25T16:00:00Z"
     },
     {
-      "id": "bc51b31de668ef93f054f2c46ef3323d55c89c5a",
-      "title": "Personvernbrudd hos flere statsforvaltere",
-      "link": "https://www.kode24.no/artikkel/personvernbrudd-hos-flere-statsforvaltere/250208",
-      "source": "Kode24",
-      "summary": "Flere statsforvaltere har ved en feil gitt innsyn i sladdede dokumenter hvor det har vært mulig å finne personopplysninger som navn og fødselsnummer.",
-      "published": "2025-11-25T12:03:14Z"
-    },
-    {
-      "id": "0f544e64469eeeec1f76d9d7681e58b16e5ae496",
-      "title": "– Ikke si «jeg ville gjort slik», spør «hva tenker du selv?»",
-      "link": "https://www.kode24.no/artikkel/ikke-si-jeg-ville-gjort-slik-spor-hva-tenker-du-selv/249529",
-      "source": "Kode24",
-      "summary": "– Når den nyansatte selv får eie utviklingen sin, vokser både selvtillit og mestringsfølelse, skriver systemutvikler Ola Haldor Hådi i Norsk Helsenett om veillederrollen.",
-      "published": "2025-11-25T09:41:48Z"
-    },
-    {
-      "id": "1eb23eca3480b182ba25f47d92ace0a219ba4dcc",
-      "title": "Digert angrep: Shai-Hulud stjeler hemmelig­hetene dine",
-      "link": "https://www.kode24.no/artikkel/digert-angrep-shai-hulud-stjeler-hemmelighetene-dine/250162",
-      "source": "Kode24",
-      "summary": "– Umiddelbar etterforskning er anbefalt for alle npm-baserte miljøer, skriver Wiz om Shai-Hulud-angrepet.",
-      "published": "2025-11-25T08:31:23Z"
-    },
-    {
-      "id": "cb408d7650d75e85499de8c30441e9ad2827f24e",
-      "title": "Dette ser de etter hos jobb­søkere: – Trenden har endret seg",
-      "link": "https://www.kode24.no/artikkel/dette-ser-de-etter-hos-jobbsokere-trenden-har-endret-seg/249848",
-      "source": "Kode24",
-      "summary": "Det er hverken karakterer eller grader som er viktigst når du søker jobb, bekrefter tre norske arbeidsgivere.",
-      "published": "2025-11-25T04:00:00Z"
-    },
-    {
       "id": "a394cb9ea9b87d58cc2d6972dc3754dfb994cd6a",
       "title": "Developers still need the right to challenge junk patents",
       "link": "https://github.blog/news-insights/policy-news-and-insights/developers-still-need-the-right-to-challenge-junk-patents/",
       "source": "GitHub Blog",
       "summary": "Calling on developers, startups, and open source organizations to advocate against patent rules that would make it harder to challenge bad patents by the December 2 deadline. The post Developers still need the right to challenge junk patents appeared first on The GitHub Blog.",
       "published": "2025-11-24T16:00:00Z"
-    },
-    {
-      "id": "bdc70b8caa190e7b4ee1d582dcc359c1e4908a77",
-      "title": "Artisten «Ida Andrea» er mann (44) med KI",
-      "link": "https://www.kode24.no/artikkel/artisten-ida-andrea-er-mann-44-med-ki/250107",
-      "source": "Kode24",
-      "summary": "En 44 år gammel mann fra Fredrikstad har skapt den virtuelle popartisten «Ida Andrea» ved hjelp av KI-verktøyet Suno.",
-      "published": "2025-11-24T12:33:16Z"
     },
     {
       "id": "2565e226bc3e0c63e600c158216914a9f0cd8274",
@@ -237,14 +245,6 @@
       "summary": "The open source Git project just released Git 2.52. Here is GitHub’s look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.52 appeared first on The GitHub Blog.",
       "published": "2025-11-17T17:54:31Z",
       "image": "https://github.blog/wp-content/uploads/2025/11/unnamed-1.png?resize=1024%2C454"
-    },
-    {
-      "id": "054238d1ed4507dc063d89b4c3235cf8486f6ad7",
-      "title": "Unlocking the full power of Copilot code review: Master your instructions files",
-      "link": "https://github.blog/ai-and-ml/unlocking-the-full-power-of-copilot-code-review-master-your-instructions-files/",
-      "source": "GitHub Blog",
-      "summary": "Discover practical tips, examples, and best practices for writing effective instructions files. Whether you’re new or experienced, you’ll find something to level up your code reviews. The post Unlocking the full power of Copilot code review: Master your instructions files appeared first on The...",
-      "published": "2025-11-14T17:00:00Z"
     },
     {
       "id": "0ea1e6845fb72fccd664b752f5ee51bd9c6de569",
