@@ -1,6 +1,63 @@
 {
-  "generated_at": "2025-12-02T06:37:44.053802Z",
+  "generated_at": "2025-12-03T06:37:00.214370Z",
   "items": [
+    {
+      "id": "762547b4a37d1a7dadd0b60a0df76bdee626068a",
+      "title": "Jobbsøkere til NRK har femdoblet seg på fem år",
+      "link": "https://www.kode24.no/artikkel/jobbsokere-til-nrk-har-femdoblet-seg-pa-fem-ar/250587",
+      "source": "Kode24",
+      "summary": "Flere utviklerstillinger i NRK har nå over 200 søkere hver. – Vi merker at antall søknader har økt betraktelig.",
+      "published": "2025-12-03T04:00:00Z"
+    },
+    {
+      "id": "c374be7affee48e235c71a59b47ba54d822f077a",
+      "title": "“The local-first rebellion”: How Home Assistant became the most important project in your house",
+      "link": "https://github.blog/open-source/maintainers/the-local-first-rebellion-how-home-assistant-became-the-most-important-project-in-your-house/",
+      "source": "GitHub Blog",
+      "summary": "Learn how one of GitHub’s fastest-growing open source projects is redefining smart homes without the cloud. The post “The local-first rebellion”: How Home Assistant became the most important project in your house appeared first on The GitHub Blog.",
+      "published": "2025-12-02T17:19:32Z",
+      "image": "https://github.blog/wp-content/uploads/2025/10/octoverse-2025-fastest-growing-open-source-projects-by-contributors.png?resize=1024%2C576"
+    },
+    {
+      "id": "6b43ac2f32ed33d0895edaf0c0ae8c2b0ddc46b8",
+      "title": "Død over tooltips",
+      "link": "https://www.kode24.no/artikkel/dod-over-tooltips/250728",
+      "source": "Kode24",
+      "summary": "TypeScript-hack for diskriminerte unioner, død over tooltips og automatisk UU-testing i ukas ForrigeUke.",
+      "published": "2025-12-02T13:15:27Z"
+    },
+    {
+      "id": "24d4ea3c70517a3d301a918fda2c8619f2955359",
+      "title": "Over 1.000 Amazon-ansatte advarer mot KI",
+      "link": "https://www.kode24.no/artikkel/over-1000-amazon-ansatte-advarer-mot-ki/250662",
+      "source": "Kode24",
+      "summary": "Over 1.000 ansatte i Amazon advarer mot selskapets utrulling av KI i et åpent protestbrev. De mener kunstig intelligens truer både arbeidsplasser og klima.",
+      "published": "2025-12-02T10:21:30Z"
+    },
+    {
+      "id": "9dcef542405914e9082c219c26e6e67be3eaee55",
+      "title": "Selger Bekk for 1,7 milliarder kroner",
+      "link": "https://www.kode24.no/artikkel/selger-bekk-for-17-milliarder-kroner/250697",
+      "source": "Kode24",
+      "summary": "– Bekk skal fortsette å være Bekk, understreker Bekk-direktøren etter eierskiftet.",
+      "published": "2025-12-02T10:06:26Z"
+    },
+    {
+      "id": "c08f0a050f07ff116634c48b57760ec36b01e055",
+      "title": "KI-editoren Antigravity sletta hele disken",
+      "link": "https://www.kode24.no/artikkel/ki-editoren-antigravity-sletta-hele-disken/250664",
+      "source": "Kode24",
+      "summary": "Gemini 3-språkmodellen i Googles nye editor Antigravity sletta en harddisk, uten tillatelse. Nå advarer brukeren andre mot å gå i samme fella.",
+      "published": "2025-12-02T09:40:22Z"
+    },
+    {
+      "id": "e6f838ba9be5c421a24d3f20b142681c8b2f6c44",
+      "title": "«Rage bait» er årets uttrykk",
+      "link": "https://www.kode24.no/artikkel/rage-bait-er-arets-uttrykk/250653",
+      "source": "Kode24",
+      "summary": "– Det er et faktum at «rage bait» eksisterer. Det er et vitnesbyrd om at vi er bevisst de manipulasjonsstrategier som brukes til å fange brukerne online.",
+      "published": "2025-12-02T09:01:34Z"
+    },
     {
       "id": "ee8208b06ecfdbf3b83c58d11c480349cd89442b",
       "title": "Kan vi plis slutte å flex’e så mye?",
@@ -131,54 +188,6 @@
       "published": "2025-11-27T11:06:20Z"
     },
     {
-      "id": "669de27bfb6108787ec175c654f6f6f39ef01af9",
-      "title": "Zig vraker GitHub: «Tregt og ofte ødelagt»",
-      "link": "https://www.kode24.no/artikkel/zig-vraker-github-tregt-og-ofte-odelagt/250348",
-      "source": "Kode24",
-      "summary": "– Klokka begynte å tikke da de ble solgt til Microsoft, mener Zig-skaper Andrew Kelley, og mener tida er inne for å gå over til tyske Codeberg.",
-      "published": "2025-11-27T09:29:14Z"
-    },
-    {
-      "id": "d2dbc4f3e99d10bee144322bed68a91f13903f88",
-      "title": "Når teknologi ledes av folk som ikke forstår teknologien",
-      "link": "https://www.kode24.no/artikkel/nar-teknologi-ledes-av-folk-som-ikke-forstar-teknologien/250144",
-      "source": "Kode24",
-      "summary": "– Utviklere, arkitekter og driftspersonell blir ledet av personer uten teknisk bakgrunn og utdanning, skriver Jas Sadana. – Konsekvensene er kostbare.",
-      "published": "2025-11-26T23:00:00Z"
-    },
-    {
-      "id": "65dba709174d0645d516c07687682f01c17c071a",
-      "title": "Glem bench­markene: Derfor bør du bry deg om Claude Opus 4.5",
-      "link": "https://www.kode24.no/artikkel/glem-benchmarkene-derfor-bor-du-bry-deg-om-claude-opus-45/250271",
-      "source": "Kode24",
-      "summary": "– Handler mindre om at modellen har lest flere bøker, og mer om at de har endret måten modellen jobber på, skriver Magnus Rødseth, og viser deg hvorfor.",
-      "published": "2025-11-26T11:54:04Z"
-    },
-    {
-      "id": "cdfdd6dbefe0651c864590226ce54cc9686a1ad2",
-      "title": "Nvidia falt på børsen",
-      "link": "https://www.kode24.no/artikkel/nvidia-falt-pa-borsen/250255",
-      "source": "Kode24",
-      "summary": "Nvidia falt på børsen etter nyheten om mulig samarbeid mellom Meta og Alphabet om databrikker.",
-      "published": "2025-11-26T10:26:36Z"
-    },
-    {
-      "id": "240231885c12f19293af94317a214c4a5482b4f1",
-      "title": "Nå skal MCP-servere levere bruker­grensesnitt",
-      "link": "https://www.kode24.no/artikkel/na-skal-mcp-servere-levere-brukergrensesnitt/250227",
-      "source": "Kode24",
-      "summary": "Hva er MCP Apps? Trenger vi :closed? Hvordan får vi responsivt mellomrom mellom bokstaver? Og hva er VS Code Private Marketplace? ForrigeUke svarer!",
-      "published": "2025-11-26T08:58:56Z"
-    },
-    {
-      "id": "cc9728e6a7ef55f52ed6232cd9af00d2b34347b0",
-      "title": "Forsvarte seg selv i retten med KI – ble dyrt",
-      "link": "https://www.kode24.no/artikkel/forsvarte-seg-selv-i-retten-med-ki-ble-dyrt/250089",
-      "source": "Kode24",
-      "summary": "Prosesskrivet på over 700 KI-skrevne sider skapte mer arbeid. – Jeg tror det vil bli verre før det blir bedre, sier advokatfullmektig, mens domstolene ser både fordeler og ulemper.",
-      "published": "2025-11-26T04:00:00Z"
-    },
-    {
       "id": "84eb4b1fa352f57b1357f74686f7db34a451e276",
       "title": "Why developers still flock to Python: Guido van Rossum on readability, AI, and the future of programming",
       "link": "https://github.blog/developer-skills/programming-languages-and-frameworks/why-developers-still-flock-to-python-guido-van-rossum-on-readability-ai-and-the-future-of-programming/",
@@ -236,15 +245,6 @@
       "source": "GitHub Blog",
       "summary": "Prevent accessibility issues before they reach production. The Annotation Toolkit brings clarity, compliance, and collaboration directly into your Figma workflow. The post Level up design-to-code collaboration with GitHub’s open source Annotation Toolkit appeared first on The GitHub Blog.",
       "published": "2025-11-18T18:05:17Z"
-    },
-    {
-      "id": "bd27103ddd8c4d6207eef0be4d6ab637904dbab5",
-      "title": "Highlights from Git 2.52",
-      "link": "https://github.blog/open-source/git/highlights-from-git-2-52/",
-      "source": "GitHub Blog",
-      "summary": "The open source Git project just released Git 2.52. Here is GitHub’s look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.52 appeared first on The GitHub Blog.",
-      "published": "2025-11-17T17:54:31Z",
-      "image": "https://github.blog/wp-content/uploads/2025/11/unnamed-1.png?resize=1024%2C454"
     },
     {
       "id": "0ea1e6845fb72fccd664b752f5ee51bd9c6de569",
