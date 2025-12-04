@@ -1,6 +1,55 @@
 {
-  "generated_at": "2025-12-03T06:37:00.214370Z",
+  "generated_at": "2025-12-04T06:36:54.328624Z",
   "items": [
+    {
+      "id": "068745ea797693dcb5b0a6528acf670c08614d2a",
+      "title": "Lot Antigravity skrive 95% av koden: – Bedre enn Cursor og Windsurf",
+      "link": "https://www.kode24.no/artikkel/lot-antigravity-skrive-95-av-koden-bedre-enn-cursor-og-windsurf/250873",
+      "source": "Kode24",
+      "summary": "CTO Hannes Wallers julekalender lar deg gjette hvilke bilder som er KI-genererte, og Googles nye IDE har gjort mye av jobben. – Men det krevde innspill.",
+      "published": "2025-12-04T04:00:00Z"
+    },
+    {
+      "id": "0477a6d786a65bf68c5660b1008befbae2b3362c",
+      "title": "Your stack, your rules: Introducing custom agents in GitHub Copilot for observability, IaC, and security",
+      "link": "https://github.blog/news-insights/product-news/your-stack-your-rules-introducing-custom-agents-in-github-copilot-for-observability-iac-and-security/",
+      "source": "GitHub Blog",
+      "summary": "Use partner-built Copilot agents to debug, secure, and automate engineering workflows across your terminal, editor, and github.com. The post Your stack, your rules: Introducing custom agents in GitHub Copilot for observability, IaC, and security appeared first on The GitHub Blog.",
+      "published": "2025-12-03T17:00:45Z",
+      "image": "https://github.blog/wp-content/uploads/2025/12/Copy-of-Cover-MCP-Agent-10s-Demo.gif?resize=1024%2C576"
+    },
+    {
+      "id": "19fb2177786c71393353aba0f73678eb835a40f6",
+      "title": "Én av Twodays nye utviklere vinner alltid i quiz, når temaet er trær",
+      "link": "https://www.kode24.no/artikkel/en-av-twodays-nye-utviklere-vinner-alltid-i-quiz-nar-temaet-er-traer/250826",
+      "source": "Kode24",
+      "summary": "Twoday ansetter fire nye. Én av dem skulle egentlig jobbe med fornybar energi.",
+      "published": "2025-12-03T11:57:40Z"
+    },
+    {
+      "id": "91ff817ef74b29af99479a616a35e11abfd591d9",
+      "title": "Anthropic kjøper Bun – mener KI gjør verktøy viktigere",
+      "link": "https://www.kode24.no/artikkel/anthropic-kjoper-bun-mener-ki-gjor-verktoy-viktigere/250816",
+      "source": "Kode24",
+      "summary": "– Jeg begynte å bruke Claude Code selv. Jeg ble besatt av det, sier Jarred Sumner, og selger Bun til Claude-skaper Anthropic.",
+      "published": "2025-12-03T10:24:26Z"
+    },
+    {
+      "id": "d31d2ce0743bdd1505b60fae1f67538bf9d66f63",
+      "title": "Demokrati­appen får kritikk, men er lastet ned 5.000 ganger",
+      "link": "https://www.kode24.no/artikkel/demokratiappen-far-kritikk-men-er-lastet-ned-5000-ganger/250787",
+      "source": "Kode24",
+      "summary": "Partileder for Generasjonspartiet, Gyda Oddekalv, lanserte fredag den mye omtalte Demokratiappen. Mot betaling, og med BankID-innlogging.",
+      "published": "2025-12-03T09:20:23Z"
+    },
+    {
+      "id": "3133a8bd73aa3e18c53c7e0086a8f4f446fdd8f4",
+      "title": "Skattelistene er ute: Dette tjener sjefen din",
+      "link": "https://www.kode24.no/artikkel/skattelistene-er-ute-dette-tjener-sjefen-din/250785",
+      "source": "Kode24",
+      "summary": "Vi har sett på lønna til lederne i selskaper som Computas, Telenor, Bouvet, Vend, Sopra Steria og Tripletex.",
+      "published": "2025-12-03T08:49:24Z"
+    },
     {
       "id": "762547b4a37d1a7dadd0b60a0df76bdee626068a",
       "title": "Jobbsøkere til NRK har femdoblet seg på fem år",
@@ -148,46 +197,6 @@
       "published": "2025-11-28T11:51:20Z"
     },
     {
-      "id": "3bff5e63cd2a694207713cac160abdf0c24eaf49",
-      "title": "Hvorfor kan ikke ChatGPT klokka?",
-      "link": "https://www.kode24.no/artikkel/hvorfor-kan-ikke-chatgpt-klokka/250424",
-      "source": "Kode24",
-      "summary": "Den sliter hvis du spør hva klokka er, og årsaken sammenliknes med å være forlatt på en øde øy.",
-      "published": "2025-11-28T09:44:29Z"
-    },
-    {
-      "id": "b4adda22185f78d4b3f838a7e9b3689c320427a6",
-      "title": "Dfind Consulting bytter navn og får 25.000 nye kolleger",
-      "link": "https://www.kode24.no/artikkel/dfind-consulting-bytter-navn-og-far-25000-nye-kolleger/250439",
-      "source": "Kode24",
-      "summary": "Dfind Consulting blir Randstad Digital, og skal satse hardere på sikkerhet.",
-      "published": "2025-11-28T08:43:00Z"
-    },
-    {
-      "id": "89278796eb91b28993d3bb976da6b555669f1df7",
-      "title": "Nå kjører jeg Linux. Og jeg angrer ikke",
-      "link": "https://www.kode24.no/artikkel/na-kjorer-jeg-linux-og-jeg-angrer-ikke/250375",
-      "source": "Kode24",
-      "summary": "– 2025 kan faktisk bli Linux sitt år, for mye har endra seg, skriver Ole Petter i ukas nyhetsbrev.",
-      "published": "2025-11-28T04:00:00Z"
-    },
-    {
-      "id": "9f944481078c956ea7b1ef4c4d76b3993092965e",
-      "title": "Konsulent­bransjen har et definisjons­­problem – det går ut over juniorene",
-      "link": "https://www.kode24.no/artikkel/konsulentbransjen-har-et-definisjonsproblem-det-gar-ut-over-juniorene/250312",
-      "source": "Kode24",
-      "summary": "– Den norske konsulentmodellen fungerer ikke lenger som smøremiddel for kompetanse, men som en propp, skriver Tore André Rosander.",
-      "published": "2025-11-27T13:00:36Z"
-    },
-    {
-      "id": "40e5792b06c7fa050bb8324562e1cb75edc651c4",
-      "title": "Tror jobb­søknader kan bli mindre viktige framover",
-      "link": "https://www.kode24.no/artikkel/tror-jobbsoknader-kan-bli-mindre-viktige-framover/250142",
-      "source": "Kode24",
-      "summary": "Andreas Rafaelsen i Digdir tror ukritisk KI-bruk til jobbsøknader virker mot sin hensikt. Og ser ikke bort fra at bruken snart gjør søknadene mindre viktige.",
-      "published": "2025-11-27T11:06:20Z"
-    },
-    {
       "id": "84eb4b1fa352f57b1357f74686f7db34a451e276",
       "title": "Why developers still flock to Python: Guido van Rossum on readability, AI, and the future of programming",
       "link": "https://github.blog/developer-skills/programming-languages-and-frameworks/why-developers-still-flock-to-python-guido-van-rossum-on-readability-ai-and-the-future-of-programming/",
@@ -237,14 +246,6 @@
       "source": "GitHub Blog",
       "summary": "Learn how to write effective agents.md files for GitHub Copilot with practical tips, real examples, and templates from analyzing 2,500+ repositories. The post How to write a great agents.md: Lessons from over 2,500 repositories appeared first on The GitHub Blog.",
       "published": "2025-11-19T17:00:00Z"
-    },
-    {
-      "id": "5c52eba83d8a851402dc8ef7f76a3268c5a90c08",
-      "title": "Level up design-to-code collaboration with GitHub’s open source Annotation Toolkit",
-      "link": "https://github.blog/enterprise-software/collaboration/level-up-design-to-code-collaboration-with-githubs-open-source-annotation-toolkit/",
-      "source": "GitHub Blog",
-      "summary": "Prevent accessibility issues before they reach production. The Annotation Toolkit brings clarity, compliance, and collaboration directly into your Figma workflow. The post Level up design-to-code collaboration with GitHub’s open source Annotation Toolkit appeared first on The GitHub Blog.",
-      "published": "2025-11-18T18:05:17Z"
     },
     {
       "id": "0ea1e6845fb72fccd664b752f5ee51bd9c6de569",
