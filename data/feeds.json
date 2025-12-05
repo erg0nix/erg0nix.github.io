@@ -1,6 +1,70 @@
 {
-  "generated_at": "2025-12-04T06:36:54.328624Z",
+  "generated_at": "2025-12-05T06:37:04.803855Z",
   "items": [
+    {
+      "id": "b5c89cc27f552d492359bf205352961481465864",
+      "title": "– Vi måtte oppdatere kode24 denne uka. Hva om vi hadde vært vibbekoda?",
+      "link": "https://www.kode24.no/artikkel/vi-matte-oppdatere-kode24-denne-uka-hva-om-vi-hadde-vaert-vibbekoda/251036",
+      "source": "Kode24",
+      "summary": "– Én ting er gleden som går tapt med KI, noe annet er den sveitserosten av et vibbekoda internett vi kan sitte igjen med, skriver Ole Petter i ukas nyhetsbrev.",
+      "published": "2025-12-05T04:00:00Z"
+    },
+    {
+      "id": "b2a5999f830aea4d093815741a41adfde4b78a57",
+      "title": "How to use GitHub Copilot Spaces to debug issues faster",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-to-use-github-copilot-spaces-to-debug-issues-faster/",
+      "source": "GitHub Blog",
+      "summary": "Follow this step-by-step guide to learn how to debug your issues using GitHub Copilot Spaces and Copilot coding agent. The post How to use GitHub Copilot Spaces to debug issues faster appeared first on The GitHub Blog.",
+      "published": "2025-12-04T20:35:36Z"
+    },
+    {
+      "id": "4dbf0a4fa10ef5b3a626bda391a36111e9b21c21",
+      "title": "KI-kåring: Norge er dårligst i Skandinavia",
+      "link": "https://www.kode24.no/artikkel/ki-karing-norge-er-darligst-i-skandinavia/250998",
+      "source": "Kode24",
+      "summary": "Sverige har gått forbi Norge i det britiske tidsskriftet The Observers liste over KI-utviklingen i verden.",
+      "published": "2025-12-04T12:34:33Z"
+    },
+    {
+      "id": "6a42ccf80f57efa6c261b4481cfd867e898bb505",
+      "title": "– Jeg er lei av KI",
+      "link": "https://www.kode24.no/artikkel/jeg-er-lei-av-ki/250952",
+      "source": "Kode24",
+      "summary": "– Det er sjukt hvor bra det har blitt. Men det er også sjukt hvor mye glede det tar bort, skriver Filip Johansen i VG Lab.",
+      "published": "2025-12-04T10:12:19Z"
+    },
+    {
+      "id": "5d3c0e89407667142457d1d83fdc2245020ee2a7",
+      "title": "Valgomat og Charlie Kirk: Dette Googlet vi i 2025",
+      "link": "https://www.kode24.no/artikkel/valgomat-og-charlie-kirk-dette-googlet-vi-i-2025/250920",
+      "source": "Kode24",
+      "summary": "«Gemini» og «DeepSeek» troner også høyt på listen over hva folk har Googlet i 2025.",
+      "published": "2025-12-04T10:11:29Z"
+    },
+    {
+      "id": "648509058de7c6e669ba522f14b878b39c023170",
+      "title": "Finans­tilsynet frykter KI-boble",
+      "link": "https://www.kode24.no/artikkel/finanstilsynet-frykter-ki-boble/250976",
+      "source": "Kode24",
+      "summary": "– Høy verdsetting av aksjer og andre formuesobjekter, samt generelt lave risikopremier, gir risiko for brå og store priskorreksjoner.",
+      "published": "2025-12-04T09:58:30Z"
+    },
+    {
+      "id": "01e51d982fe9e4521230821e76f7b96dae7699f2",
+      "title": "Kritisk sårbarhet i React og Next.js",
+      "link": "https://www.kode24.no/artikkel/kritisk-sarbarhet-i-react-og-nextjs/250922",
+      "source": "Kode24",
+      "summary": "– Vi anbefaler å oppdatere umiddelbart, advarer React-utviklerne.",
+      "published": "2025-12-04T08:45:41Z"
+    },
+    {
+      "id": "100baadabe7f7f7ff5b90ac099acc09fde34914e",
+      "title": "Frp vil tillate politiet å bruke ansikts­gjenkjenning",
+      "link": "https://www.kode24.no/artikkel/frp-vil-tillate-politiet-a-bruke-ansiktsgjenkjenning/250901",
+      "source": "Kode24",
+      "summary": "Frp mener Norge bør følge Sveriges eksempel og tillate politiet å bruke kunstig intelligens og ansiktsgjenkjenning i sanntid.",
+      "published": "2025-12-04T08:09:05Z"
+    },
     {
       "id": "068745ea797693dcb5b0a6528acf670c08614d2a",
       "title": "Lot Antigravity skrive 95% av koden: – Bedre enn Cursor og Windsurf",
@@ -132,54 +196,6 @@
       "published": "2025-12-01T11:58:07Z"
     },
     {
-      "id": "c79bf31f206cab2d1c04f78627922e0a8a9a6a16",
-      "title": "Ukraina skal lage droner i Norge",
-      "link": "https://www.kode24.no/artikkel/ukraina-skal-lage-droner-i-norge/250594",
-      "source": "Kode24",
-      "summary": "Norge og Ukraina har inngått en intensjonsavtale om ukrainsk droneproduksjon i Norge. Målet er å få produksjonen i gang i løpet av 2026.",
-      "published": "2025-12-01T11:57:40Z"
-    },
-    {
-      "id": "0f9855bb05b2344c6d1dca4d0d49c83038dd0ca2",
-      "title": "Julekalendere for utviklere 2025",
-      "link": "https://www.kode24.no/artikkel/julekalendere-for-utviklere-2025/250553",
-      "source": "Kode24",
-      "summary": "PST er ikke på plass i år heller, men det er Cyberlandslaget. Og en haug andre.",
-      "published": "2025-12-01T09:36:12Z"
-    },
-    {
-      "id": "d7e6bb6ebe05b5fa1025618b847fd1c9eb108aab",
-      "title": "Lene Alexandra: «LinkedIn er ikke Tinder!»",
-      "link": "https://www.kode24.no/artikkel/lene-alexandra-linkedin-er-ikke-tinder/250551",
-      "source": "Kode24",
-      "summary": "– LinkedIn er et profesjonelt nettverk, ikke Tinder. Jeg ønsker ikke å møte folk på spa eller på intime kveldsavtaler, sier Lene Alexandra på LinkedIn.",
-      "published": "2025-12-01T08:56:25Z"
-    },
-    {
-      "id": "bf17b17b2ac1716740540c5474d9f8417abcce7f",
-      "title": "kode24s julekalender 2025: Bli konsulent i Tomarchy!",
-      "link": "https://www.kode24.no/artikkel/kode24s-julekalender-2025-bli-konsulent-i-tomarchy/250397",
-      "source": "Kode24",
-      "summary": "Tomsconsult trenger vikarer igjen, og du får bruke Porsgrunns heiteste Linux-distro: Tomarchy.",
-      "published": "2025-12-01T04:00:00Z"
-    },
-    {
-      "id": "c895e42c27fb4c2254ac22360d39d30d42e9a393",
-      "title": "Bøkene utviklere bør ønske seg til jul",
-      "link": "https://www.kode24.no/artikkel/bokene-utviklere-bor-onske-seg-til-jul/250532",
-      "source": "Kode24",
-      "summary": "Smarte bøker for smarte folk, gamle spill, nye memer og fin musikk, i ukas Lørdagsgodt.",
-      "published": "2025-11-29T04:00:00Z"
-    },
-    {
-      "id": "3e16e6ea93b92f429a9155efe4007825ccbaceb7",
-      "title": "Ga beskjed til 70 utviklere etter Shai Hulud 2.0: «Stopp alt»",
-      "link": "https://www.kode24.no/artikkel/ga-beskjed-til-70-utviklere-etter-shai-hulud-20-stopp-alt/250482",
-      "source": "Kode24",
-      "summary": "– Hvis det er én ting denne hendelsen gjorde tydelig, er det hvor viktig det er at organisasjoner har moden kompetanse i Node-økosystemet, skriver Åsmund Røst Wien.",
-      "published": "2025-11-28T14:01:40Z"
-    },
-    {
       "id": "63b33612f858619c63650f812b3d20d68cc3644e",
       "title": "The ultimate gift guide for the developer in your life",
       "link": "https://github.blog/news-insights/company-news/the-ultimate-gift-guide-for-the-developer-in-your-life/",
@@ -187,14 +203,6 @@
       "summary": "Finding the perfect gift for your favorite developer is easy with our top tips. The post The ultimate gift guide for the developer in your life appeared first on The GitHub Blog.",
       "published": "2025-11-28T13:08:56Z",
       "image": "https://github.blog/wp-content/uploads/2025/11/hat.png?resize=1024%2C683"
-    },
-    {
-      "id": "11340d8c563ef07b0a91958190c5c75d46832ff3",
-      "title": "Kritikken hagler mot Arkivverkets nye nettside",
-      "link": "https://www.kode24.no/artikkel/kritikken-hagler-mot-arkivverkets-nye-nettside/250359",
-      "source": "Kode24",
-      "summary": "Arkivverkets sider fokuserer nå på en chatbot og kunstig intelligens: – Kan dere være så snill å få tilbake mennesker?",
-      "published": "2025-11-28T11:51:20Z"
     },
     {
       "id": "84eb4b1fa352f57b1357f74686f7db34a451e276",
@@ -238,14 +246,6 @@
       "summary": "We're using embedding-guided tool routing, adaptive clustering, and a streamlined 13-tool core to deliver faster experience in VS Code. The post How we’re making GitHub Copilot smarter with fewer tools appeared first on The GitHub Blog.",
       "published": "2025-11-19T20:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2025/11/tool-selection.png?resize=385%2C60"
-    },
-    {
-      "id": "6642a1932d081db5d3ab2d95b74b96385df37934",
-      "title": "How to write a great agents.md: Lessons from over 2,500 repositories",
-      "link": "https://github.blog/ai-and-ml/github-copilot/how-to-write-a-great-agents-md-lessons-from-over-2500-repositories/",
-      "source": "GitHub Blog",
-      "summary": "Learn how to write effective agents.md files for GitHub Copilot with practical tips, real examples, and templates from analyzing 2,500+ repositories. The post How to write a great agents.md: Lessons from over 2,500 repositories appeared first on The GitHub Blog.",
-      "published": "2025-11-19T17:00:00Z"
     },
     {
       "id": "0ea1e6845fb72fccd664b752f5ee51bd9c6de569",
