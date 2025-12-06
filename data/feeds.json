@@ -1,6 +1,46 @@
 {
-  "generated_at": "2025-12-05T06:37:04.803855Z",
+  "generated_at": "2025-12-06T06:33:27.954462Z",
   "items": [
+    {
+      "id": "adb277da50ed16a95792a77f5c57e63a33b274c8",
+      "title": "– Startup-folk er ganske slitsomme",
+      "link": "https://www.kode24.no/artikkel/startup-folk-er-ganske-slitsomme/251146",
+      "source": "Kode24",
+      "summary": "MP3-spillere, Oles rytmebokskalender, Cosmic.ui, slitsomme oppstartsfolk og omvendt Snake, i ukas Lørdagsgodt.",
+      "published": "2025-12-06T04:00:00Z"
+    },
+    {
+      "id": "80d45667d4e62acc14d4730f5d2447b47465d5de",
+      "title": "Trues av KI: – En fundamental utfordring",
+      "link": "https://www.kode24.no/artikkel/trues-av-ki-en-fundamental-utfordring/250759",
+      "source": "Kode24",
+      "summary": "– Hvis muskelminnet til folk endrer seg fra å gå til VG.no til ChatGPT.com, så får det store konsekvenser, sier Ukas Koder, Anna Lunde i Schibsted.",
+      "published": "2025-12-05T10:53:00Z"
+    },
+    {
+      "id": "ccb471022007a9b9bf17f1d3f171e6b9c604c992",
+      "title": "Cloudflare er oppe igjen – nedetiden påvirket nettaviser",
+      "link": "https://www.kode24.no/artikkel/cloudflare-er-oppe-igjen-nedetiden-pavirket-nettaviser/251091",
+      "source": "Kode24",
+      "summary": "Cloudflare har vært nede, noe som har påvirket flere nettsider over hele landet, blant annet sol.no og Dagbladet.",
+      "published": "2025-12-05T09:03:30Z"
+    },
+    {
+      "id": "78f0fc949477d3504296203025d2966a1cb188cf",
+      "title": "Vinnere av kode24s jule­kalender 2025",
+      "link": "https://www.kode24.no/artikkel/vinnere-av-kode24s-julekalender-2025/251079",
+      "source": "Kode24",
+      "summary": "Se hvem som stikker av med alle de gjeve premiene.",
+      "published": "2025-12-05T08:39:35Z"
+    },
+    {
+      "id": "b20d282c743b0b94ece18f667337992b9a77f79a",
+      "title": "Snapchat er ikke lenger tilgjengelig i Russland",
+      "link": "https://www.kode24.no/artikkel/snapchat-er-ikke-lenger-tilgjengelig-i-russland/251057",
+      "source": "Kode24",
+      "summary": "Russland har blokkert Snapchat og innført restriksjoner for bruk av FaceTime, bekrefter det russiske medietilsynet Roskomnadzor.",
+      "published": "2025-12-05T07:22:06Z"
+    },
     {
       "id": "b5c89cc27f552d492359bf205352961481465864",
       "title": "– Vi måtte oppdatere kode24 denne uka. Hva om vi hadde vært vibbekoda?",
@@ -148,52 +188,12 @@
       "published": "2025-12-02T10:21:30Z"
     },
     {
-      "id": "9dcef542405914e9082c219c26e6e67be3eaee55",
-      "title": "Selger Bekk for 1,7 milliarder kroner",
-      "link": "https://www.kode24.no/artikkel/selger-bekk-for-17-milliarder-kroner/250697",
-      "source": "Kode24",
-      "summary": "– Bekk skal fortsette å være Bekk, understreker Bekk-direktøren etter eierskiftet.",
-      "published": "2025-12-02T10:06:26Z"
-    },
-    {
-      "id": "c08f0a050f07ff116634c48b57760ec36b01e055",
-      "title": "KI-editoren Antigravity sletta hele disken",
-      "link": "https://www.kode24.no/artikkel/ki-editoren-antigravity-sletta-hele-disken/250664",
-      "source": "Kode24",
-      "summary": "Gemini 3-språkmodellen i Googles nye editor Antigravity sletta en harddisk, uten tillatelse. Nå advarer brukeren andre mot å gå i samme fella.",
-      "published": "2025-12-02T09:40:22Z"
-    },
-    {
-      "id": "e6f838ba9be5c421a24d3f20b142681c8b2f6c44",
-      "title": "«Rage bait» er årets uttrykk",
-      "link": "https://www.kode24.no/artikkel/rage-bait-er-arets-uttrykk/250653",
-      "source": "Kode24",
-      "summary": "– Det er et faktum at «rage bait» eksisterer. Det er et vitnesbyrd om at vi er bevisst de manipulasjonsstrategier som brukes til å fange brukerne online.",
-      "published": "2025-12-02T09:01:34Z"
-    },
-    {
-      "id": "ee8208b06ecfdbf3b83c58d11c480349cd89442b",
-      "title": "Kan vi plis slutte å flex’e så mye?",
-      "link": "https://www.kode24.no/artikkel/kan-vi-plis-slutte-a-flexe-sa-mye/250616",
-      "source": "Kode24",
-      "summary": "Elise Kristiansen advarer mot å la flexbox løse alle CSS-problemer. – Én siste liten Copilot-autocomplete var nok til at mitt vannglass rant fullstendig over.",
-      "published": "2025-12-02T04:00:00Z"
-    },
-    {
       "id": "233c458b86ac5911b7d1a7e34b7def2f368b77e1",
       "title": "How to orchestrate agents using mission control",
       "link": "https://github.blog/ai-and-ml/github-copilot/how-to-orchestrate-agents-using-mission-control/",
       "source": "GitHub Blog",
       "summary": "Run multiple Copilot agents from one place. Learn prompt techniques, how to spot drift early, and how to review agent work efficiently. The post How to orchestrate agents using mission control appeared first on The GitHub Blog.",
       "published": "2025-12-01T17:00:00Z"
-    },
-    {
-      "id": "c72f5602f9570f9701ed6e97cf086ccd53c9a183",
-      "title": "KI hallusinerte meg inn i en fiks hos Auth0",
-      "link": "https://www.kode24.no/artikkel/ki-hallusinerte-meg-inn-i-en-fiks-hos-auth0/250426",
-      "source": "Kode24",
-      "summary": "Plutselig stod jeg oppført som forfatter av en sikkerhetsfiks hos Auth0. Jeg har aldri rørt koden deres. 🙃 Hva i alle dager er det som skjer?",
-      "published": "2025-12-01T11:58:07Z"
     },
     {
       "id": "63b33612f858619c63650f812b3d20d68cc3644e",
