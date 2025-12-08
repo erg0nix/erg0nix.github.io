@@ -1,6 +1,14 @@
 {
-  "generated_at": "2025-12-07T06:33:02.992276Z",
+  "generated_at": "2025-12-08T06:40:03.659185Z",
   "items": [
+    {
+      "id": "b3c7e57629f76475f5ff84c1b33a6017a20fe5aa",
+      "title": "Deler tusenvis av gamle, norske nettsider",
+      "link": "https://www.kode24.no/artikkel/deler-tusenvis-av-gamle-norske-nettsider/250855",
+      "source": "Kode24",
+      "summary": "– Tjenesten har per nå rundt 1,4 milliarder objekter indeksert, forteller Thomas Langvann i det nye nettarkivet til Nasjonalbiblioteket.",
+      "published": "2025-12-08T04:00:00Z"
+    },
     {
       "id": "adb277da50ed16a95792a77f5c57e63a33b274c8",
       "title": "– Startup-folk er ganske slitsomme",
@@ -178,14 +186,6 @@
       "source": "Kode24",
       "summary": "TypeScript-hack for diskriminerte unioner, død over tooltips og automatisk UU-testing i ukas ForrigeUke.",
       "published": "2025-12-02T13:15:27Z"
-    },
-    {
-      "id": "24d4ea3c70517a3d301a918fda2c8619f2955359",
-      "title": "Over 1.000 Amazon-ansatte advarer mot KI",
-      "link": "https://www.kode24.no/artikkel/over-1000-amazon-ansatte-advarer-mot-ki/250662",
-      "source": "Kode24",
-      "summary": "Over 1.000 ansatte i Amazon advarer mot selskapets utrulling av KI i et åpent protestbrev. De mener kunstig intelligens truer både arbeidsplasser og klima.",
-      "published": "2025-12-02T10:21:30Z"
     },
     {
       "id": "233c458b86ac5911b7d1a7e34b7def2f368b77e1",
