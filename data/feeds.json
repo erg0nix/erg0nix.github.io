@@ -1,6 +1,47 @@
 {
-  "generated_at": "2025-12-08T06:40:03.659185Z",
+  "generated_at": "2025-12-09T06:38:05.806796Z",
   "items": [
+    {
+      "id": "f488e97901789e53846289a9d1ecce5a8c998560",
+      "title": "Tekoligark er årets ord",
+      "link": "https://www.kode24.no/artikkel/tekoligark-er-arets-ord/251335",
+      "source": "Kode24",
+      "summary": "Språkrådet har kåret «Tekoligark» til årets nyord. – Vi har gjort oss avhengig av dem, mener direktøren.",
+      "published": "2025-12-09T05:30:00Z"
+    },
+    {
+      "id": "3863f8e4d8ca639405fc7f8edfbce921fd8f0fa2",
+      "title": "The new identity of a developer: What changes and what doesn’t in the AI era",
+      "link": "https://github.blog/news-insights/octoverse/the-new-identity-of-a-developer-what-changes-and-what-doesnt-in-the-ai-era/",
+      "source": "GitHub Blog",
+      "summary": "Discover how advanced AI users are redefining software development—shifting from code producers to strategic orchestrators—through delegation, verification, and a new era of AI-fluent engineering. The post The new identity of a developer: What changes and what doesn’t in the AI era appeared first...",
+      "published": "2025-12-08T18:15:17Z",
+      "image": "https://github.blog/wp-content/uploads/2025/12/ai-fluency-stages-1-2.png?resize=1024%2C576"
+    },
+    {
+      "id": "203e6cc3c09ac4ad6a6fe435dffad22a7b69d82a",
+      "title": "5 tips til samarbeid mellom utviklere og designere",
+      "link": "https://www.kode24.no/artikkel/5-tips-til-samarbeid-mellom-utviklere-og-designere/251340",
+      "source": "Kode24",
+      "summary": "– Vi har testet parprogrammering mellom utvikler og designer, og det har fungert veldig bra for oss, skriver utvikler Solveig Myren og designer Jesper Mattsson i Sikt, om ett av tipsene.",
+      "published": "2025-12-08T13:45:01Z"
+    },
+    {
+      "id": "f176e39be198c798fb168b5f743953066639acc8",
+      "title": "Lagde album om konsulentlivet fra Jobbi-anmeldelser",
+      "link": "https://www.kode24.no/artikkel/lagde-album-om-konsulentlivet-fra-jobbi-anmeldelser/251178",
+      "source": "Kode24",
+      "summary": "– Første gang jeg hørte en ferdig versjon av \"Accenture Blues\" komme ut av vozart.ai, satt jeg og gliste alene foran skjermen, skriver Ove Kuvåssæter.",
+      "published": "2025-12-08T09:11:51Z"
+    },
+    {
+      "id": "746a873a3dd4b5dcc95b25b241a6701eef960b6f",
+      "title": "Enorm økning i RAM-priser",
+      "link": "https://www.kode24.no/artikkel/enorm-okning-i-ram-priser/251166",
+      "source": "Kode24",
+      "summary": "Prisene har firedobla seg, og KI får skylda.",
+      "published": "2025-12-08T07:29:03Z"
+    },
     {
       "id": "b3c7e57629f76475f5ff84c1b33a6017a20fe5aa",
       "title": "Deler tusenvis av gamle, norske nettsider",
@@ -147,30 +188,6 @@
       "published": "2025-12-03T10:24:26Z"
     },
     {
-      "id": "d31d2ce0743bdd1505b60fae1f67538bf9d66f63",
-      "title": "Demokrati­appen får kritikk, men er lastet ned 5.000 ganger",
-      "link": "https://www.kode24.no/artikkel/demokratiappen-far-kritikk-men-er-lastet-ned-5000-ganger/250787",
-      "source": "Kode24",
-      "summary": "Partileder for Generasjonspartiet, Gyda Oddekalv, lanserte fredag den mye omtalte Demokratiappen. Mot betaling, og med BankID-innlogging.",
-      "published": "2025-12-03T09:20:23Z"
-    },
-    {
-      "id": "3133a8bd73aa3e18c53c7e0086a8f4f446fdd8f4",
-      "title": "Skattelistene er ute: Dette tjener sjefen din",
-      "link": "https://www.kode24.no/artikkel/skattelistene-er-ute-dette-tjener-sjefen-din/250785",
-      "source": "Kode24",
-      "summary": "Vi har sett på lønna til lederne i selskaper som Computas, Telenor, Bouvet, Vend, Sopra Steria og Tripletex.",
-      "published": "2025-12-03T08:49:24Z"
-    },
-    {
-      "id": "762547b4a37d1a7dadd0b60a0df76bdee626068a",
-      "title": "Jobbsøkere til NRK har femdoblet seg på fem år",
-      "link": "https://www.kode24.no/artikkel/jobbsokere-til-nrk-har-femdoblet-seg-pa-fem-ar/250587",
-      "source": "Kode24",
-      "summary": "Flere utviklerstillinger i NRK har nå over 200 søkere hver. – Vi merker at antall søknader har økt betraktelig.",
-      "published": "2025-12-03T04:00:00Z"
-    },
-    {
       "id": "c374be7affee48e235c71a59b47ba54d822f077a",
       "title": "“The local-first rebellion”: How Home Assistant became the most important project in your house",
       "link": "https://github.blog/open-source/maintainers/the-local-first-rebellion-how-home-assistant-became-the-most-important-project-in-your-house/",
@@ -178,14 +195,6 @@
       "summary": "Learn how one of GitHub’s fastest-growing open source projects is redefining smart homes without the cloud. The post “The local-first rebellion”: How Home Assistant became the most important project in your house appeared first on The GitHub Blog.",
       "published": "2025-12-02T17:19:32Z",
       "image": "https://github.blog/wp-content/uploads/2025/10/octoverse-2025-fastest-growing-open-source-projects-by-contributors.png?resize=1024%2C576"
-    },
-    {
-      "id": "6b43ac2f32ed33d0895edaf0c0ae8c2b0ddc46b8",
-      "title": "Død over tooltips",
-      "link": "https://www.kode24.no/artikkel/dod-over-tooltips/250728",
-      "source": "Kode24",
-      "summary": "TypeScript-hack for diskriminerte unioner, død over tooltips og automatisk UU-testing i ukas ForrigeUke.",
-      "published": "2025-12-02T13:15:27Z"
     },
     {
       "id": "233c458b86ac5911b7d1a7e34b7def2f368b77e1",
@@ -237,15 +246,6 @@
       "summary": "GitHub Copilot’s next edit suggestions just got faster, smarter, and more precise thanks to new data pipelines, reinforcement learning, and continuous model updates built for in-editor workflows. The post Evolving GitHub Copilot’s next edit suggestions through custom model training appeared first...",
       "published": "2025-11-20T18:02:21Z",
       "image": "https://github.blog/wp-content/uploads/2025/11/Copilot-NES-demo-1.gif?resize=960%2C720"
-    },
-    {
-      "id": "4fe110398d9b8de1077eb9fad0fd205cc78504a4",
-      "title": "How we’re making GitHub Copilot smarter with fewer tools",
-      "link": "https://github.blog/ai-and-ml/github-copilot/how-were-making-github-copilot-smarter-with-fewer-tools/",
-      "source": "GitHub Blog",
-      "summary": "We're using embedding-guided tool routing, adaptive clustering, and a streamlined 13-tool core to deliver faster experience in VS Code. The post How we’re making GitHub Copilot smarter with fewer tools appeared first on The GitHub Blog.",
-      "published": "2025-11-19T20:00:00Z",
-      "image": "https://github.blog/wp-content/uploads/2025/11/tool-selection.png?resize=385%2C60"
     },
     {
       "id": "0ea1e6845fb72fccd664b752f5ee51bd9c6de569",
