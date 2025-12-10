@@ -1,10 +1,66 @@
 {
-  "generated_at": "2025-12-09T06:38:05.806796Z",
+  "generated_at": "2025-12-10T06:38:17.122984Z",
   "items": [
     {
+      "id": "0fed16a0f0a49c33e3d7ddd19341b14ebbc00ebb",
+      "title": "Kontor­kaffe stadig viktigere: – Naturlig at de også nerder på kaffe",
+      "link": "https://www.kode24.no/artikkel/kontorkaffe-stadig-viktigere-naturlig-at-de-ogsa-nerder-pa-kaffe/251010",
+      "source": "Kode24",
+      "summary": "Netlife skryter av kaffen i stillingsannonser, og Telenor lokker folk fra hjemmekontoret med barista. – Naturlig, mener Norsk Kaffeinformasjon.",
+      "published": "2025-12-10T04:00:00Z"
+    },
+    {
+      "id": "34143973ec114eb0a22af7f9fbd8ad981f326399",
+      "title": "MCP joins the Linux Foundation: What this means for developers building the next era of AI tools and agents",
+      "link": "https://github.blog/open-source/maintainers/mcp-joins-the-linux-foundation-what-this-means-for-developers-building-the-next-era-of-ai-tools-and-agents/",
+      "source": "GitHub Blog",
+      "summary": "MCP is moving to the Linux Foundation. Here's how that will affect developers. The post MCP joins the Linux Foundation: What this means for developers building the next era of AI tools and agents appeared first on The GitHub Blog.",
+      "published": "2025-12-09T21:00:13Z"
+    },
+    {
+      "id": "ff34dcb02bd423539250e4673d807eb7280300d3",
+      "title": "Speed is nothing without control: How to keep quality high in the AI era",
+      "link": "https://github.blog/ai-and-ml/generative-ai/speed-is-nothing-without-control-how-to-keep-quality-high-in-the-ai-era/",
+      "source": "GitHub Blog",
+      "summary": "AI can help you build faster than ever, but it can also produce bugs, issues, and problems. Use these strategies to keep your speed without losing control of your code. The post Speed is nothing without control: How to keep quality high in the AI era appeared first on The GitHub Blog.",
+      "published": "2025-12-09T17:00:00Z"
+    },
+    {
+      "id": "78693486f607eaf257665ee7b5f45f23da3cfe25",
+      "title": "Konsulent til Cobrief: – Går fra å levere timer til å faktisk bygge",
+      "link": "https://www.kode24.no/artikkel/konsulent-til-cobrief-gar-fra-a-levere-timer-til-a-faktisk-bygge/251489",
+      "source": "Kode24",
+      "summary": "– Interessen min for startups og spesielt arbeidet med KI-teknologi gjorde at dette ikke var en mulighet jeg kunne gå glipp av, sier Kristoffer Aas.",
+      "published": "2025-12-09T13:52:17Z"
+    },
+    {
+      "id": "66355034d917f30d9197fb1e74c91452c8295bca",
+      "title": "330 søkere på én stilling i Skattetaten: «Historisk»",
+      "link": "https://www.kode24.no/artikkel/330-sokere-pa-en-stilling-i-skattetaten-historisk/251156",
+      "source": "Kode24",
+      "summary": "Antall søknader per stilling har syvdoblet seg i Skatteetaten de syv siste årene.",
+      "published": "2025-12-09T10:39:25Z"
+    },
+    {
+      "id": "78707029f278995a2ce1ee97ba57f2edc632073e",
+      "title": "Lot Claude Code gjøre designet: «Sparte mange tusen»",
+      "link": "https://www.kode24.no/artikkel/lot-claude-code-gjore-designet-sparte-mange-tusen/251421",
+      "source": "Kode24",
+      "summary": "Skrev backend og HTML selv, men lot Claude Code gjøre resten. – Alt jeg lager ser stygt ut, skriver Kirill Miazine.",
+      "published": "2025-12-09T08:57:00Z"
+    },
+    {
+      "id": "43ac041a5f5cea2eec3286630948a1e9bd98b2a5",
+      "title": "X får milliardbot",
+      "link": "https://www.kode24.no/artikkel/x-far-milliardbot/251405",
+      "source": "Kode24",
+      "summary": "EU har besluttet å ilegge det sosiale mediet X en bot på drøyt 1,4 milliarder kroner. USAs visepresident reagerer.",
+      "published": "2025-12-09T07:30:40Z"
+    },
+    {
       "id": "f488e97901789e53846289a9d1ecce5a8c998560",
-      "title": "Tekoligark er årets ord",
-      "link": "https://www.kode24.no/artikkel/tekoligark-er-arets-ord/251335",
+      "title": "Tekoligark er årets ord 2025",
+      "link": "https://www.kode24.no/artikkel/tekoligark-er-arets-ord-2025/251335",
       "source": "Kode24",
       "summary": "Språkrådet har kåret «Tekoligark» til årets nyord. – Vi har gjort oss avhengig av dem, mener direktøren.",
       "published": "2025-12-09T05:30:00Z"
@@ -139,30 +195,6 @@
       "published": "2025-12-04T09:58:30Z"
     },
     {
-      "id": "01e51d982fe9e4521230821e76f7b96dae7699f2",
-      "title": "Kritisk sårbarhet i React og Next.js",
-      "link": "https://www.kode24.no/artikkel/kritisk-sarbarhet-i-react-og-nextjs/250922",
-      "source": "Kode24",
-      "summary": "– Vi anbefaler å oppdatere umiddelbart, advarer React-utviklerne.",
-      "published": "2025-12-04T08:45:41Z"
-    },
-    {
-      "id": "100baadabe7f7f7ff5b90ac099acc09fde34914e",
-      "title": "Frp vil tillate politiet å bruke ansikts­gjenkjenning",
-      "link": "https://www.kode24.no/artikkel/frp-vil-tillate-politiet-a-bruke-ansiktsgjenkjenning/250901",
-      "source": "Kode24",
-      "summary": "Frp mener Norge bør følge Sveriges eksempel og tillate politiet å bruke kunstig intelligens og ansiktsgjenkjenning i sanntid.",
-      "published": "2025-12-04T08:09:05Z"
-    },
-    {
-      "id": "068745ea797693dcb5b0a6528acf670c08614d2a",
-      "title": "Lot Antigravity skrive 95% av koden: – Bedre enn Cursor og Windsurf",
-      "link": "https://www.kode24.no/artikkel/lot-antigravity-skrive-95-av-koden-bedre-enn-cursor-og-windsurf/250873",
-      "source": "Kode24",
-      "summary": "CTO Hannes Wallers julekalender lar deg gjette hvilke bilder som er KI-genererte, og Googles nye IDE har gjort mye av jobben. – Men det krevde innspill.",
-      "published": "2025-12-04T04:00:00Z"
-    },
-    {
       "id": "0477a6d786a65bf68c5660b1008befbae2b3362c",
       "title": "Your stack, your rules: Introducing custom agents in GitHub Copilot for observability, IaC, and security",
       "link": "https://github.blog/news-insights/product-news/your-stack-your-rules-introducing-custom-agents-in-github-copilot-for-observability-iac-and-security/",
@@ -170,22 +202,6 @@
       "summary": "Use partner-built Copilot agents to debug, secure, and automate engineering workflows across your terminal, editor, and github.com. The post Your stack, your rules: Introducing custom agents in GitHub Copilot for observability, IaC, and security appeared first on The GitHub Blog.",
       "published": "2025-12-03T17:00:45Z",
       "image": "https://github.blog/wp-content/uploads/2025/12/Copy-of-Cover-MCP-Agent-10s-Demo.gif?resize=1024%2C576"
-    },
-    {
-      "id": "19fb2177786c71393353aba0f73678eb835a40f6",
-      "title": "Én av Twodays nye utviklere vinner alltid i quiz, når temaet er trær",
-      "link": "https://www.kode24.no/artikkel/en-av-twodays-nye-utviklere-vinner-alltid-i-quiz-nar-temaet-er-traer/250826",
-      "source": "Kode24",
-      "summary": "Twoday ansetter fire nye. Én av dem skulle egentlig jobbe med fornybar energi.",
-      "published": "2025-12-03T11:57:40Z"
-    },
-    {
-      "id": "91ff817ef74b29af99479a616a35e11abfd591d9",
-      "title": "Anthropic kjøper Bun – mener KI gjør verktøy viktigere",
-      "link": "https://www.kode24.no/artikkel/anthropic-kjoper-bun-mener-ki-gjor-verktoy-viktigere/250816",
-      "source": "Kode24",
-      "summary": "– Jeg begynte å bruke Claude Code selv. Jeg ble besatt av det, sier Jarred Sumner, og selger Bun til Claude-skaper Anthropic.",
-      "published": "2025-12-03T10:24:26Z"
     },
     {
       "id": "c374be7affee48e235c71a59b47ba54d822f077a",
@@ -229,23 +245,6 @@
       "source": "GitHub Blog",
       "summary": "Learn more about the agentic security principles that we use to build secure AI products—and how you can apply them to your own agents. The post How GitHub’s agentic security principles make our AI agents as secure as possible appeared first on The GitHub Blog.",
       "published": "2025-11-25T16:00:00Z"
-    },
-    {
-      "id": "a394cb9ea9b87d58cc2d6972dc3754dfb994cd6a",
-      "title": "Developers still need the right to challenge junk patents",
-      "link": "https://github.blog/news-insights/policy-news-and-insights/developers-still-need-the-right-to-challenge-junk-patents/",
-      "source": "GitHub Blog",
-      "summary": "Calling on developers, startups, and open source organizations to advocate against patent rules that would make it harder to challenge bad patents by the December 2 deadline. The post Developers still need the right to challenge junk patents appeared first on The GitHub Blog.",
-      "published": "2025-11-24T16:00:00Z"
-    },
-    {
-      "id": "2565e226bc3e0c63e600c158216914a9f0cd8274",
-      "title": "Evolving GitHub Copilot’s next edit suggestions through custom model training",
-      "link": "https://github.blog/ai-and-ml/github-copilot/evolving-github-copilots-next-edit-suggestions-through-custom-model-training/",
-      "source": "GitHub Blog",
-      "summary": "GitHub Copilot’s next edit suggestions just got faster, smarter, and more precise thanks to new data pipelines, reinforcement learning, and continuous model updates built for in-editor workflows. The post Evolving GitHub Copilot’s next edit suggestions through custom model training appeared first...",
-      "published": "2025-11-20T18:02:21Z",
-      "image": "https://github.blog/wp-content/uploads/2025/11/Copilot-NES-demo-1.gif?resize=960%2C720"
     },
     {
       "id": "0ea1e6845fb72fccd664b752f5ee51bd9c6de569",
