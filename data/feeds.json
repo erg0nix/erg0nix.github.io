@@ -1,6 +1,46 @@
 {
-  "generated_at": "2025-12-10T06:38:17.122984Z",
+  "generated_at": "2025-12-11T06:38:59.775129Z",
   "items": [
+    {
+      "id": "7e674a962d66a69e6dadd1f7613f28b6fa014508",
+      "title": "Norske utviklere bruker 90 prosent av penga i USA",
+      "link": "https://www.kode24.no/artikkel/norske-utviklere-bruker-90-prosent-av-penga-i-usa/251403",
+      "source": "Kode24",
+      "summary": "– At USA er så dominerende var overraskende, sier Cardboard om tallene deres. For nesten 60 prosent av norske utviklere vil kutte ned avhengigheten.",
+      "published": "2025-12-11T04:00:00Z"
+    },
+    {
+      "id": "f533e204c371fcb3e3e5ba2da9b0ecb7df22d8fd",
+      "title": "Reddit strammer inn for unge – mange reagerer",
+      "link": "https://www.kode24.no/artikkel/reddit-strammer-inn-for-unge-mange-reagerer/251575",
+      "source": "Kode24",
+      "summary": "Reddit får strengere krav til tenåringskontoer over hele verden. Det får reaksjoner fra brukerne. – Hva neste, blod- og sædprøve?",
+      "published": "2025-12-10T14:41:55Z"
+    },
+    {
+      "id": "4eebae4f1162d7664af38d5bcc44708906787fb7",
+      "title": "TypeScript 7 vraker JavaScript: «Et generasjons­skifte»",
+      "link": "https://www.kode24.no/artikkel/typescript-7-vraker-javascript-et-generasjonsskifte/251471",
+      "source": "Kode24",
+      "summary": "Kritisk React-sårbarhet, den Rust-baserte Prettier-kompatible Oxfmt og TypeScript 7 går native, i ukas ForrigeUke.",
+      "published": "2025-12-10T12:26:11Z"
+    },
+    {
+      "id": "1fd02e8fd7bf9562144f1634f190c14190c355f1",
+      "title": "Utviklerne flytter inn i kirkebygg",
+      "link": "https://www.kode24.no/artikkel/utviklerne-flytter-inn-i-kirkebygg/251508",
+      "source": "Kode24",
+      "summary": "Computas flytter inn i nye lokaler i Trondheim – se det historiske kirkebygget på Bakklandet.",
+      "published": "2025-12-10T09:53:01Z"
+    },
+    {
+      "id": "1dc6645fb3bae0a76b0cc9a736b9e88b25aee79a",
+      "title": "Nedbemanning i Orange Business Digital Services",
+      "link": "https://www.kode24.no/artikkel/nedbemanning-i-orange-business-digital-services/251506",
+      "source": "Kode24",
+      "summary": "Beskjeden skal ha kommet «brått» og «brutalt» på de ansatte, ifølge Digi.",
+      "published": "2025-12-10T08:33:24Z"
+    },
     {
       "id": "0fed16a0f0a49c33e3d7ddd19341b14ebbc00ebb",
       "title": "Kontor­kaffe stadig viktigere: – Naturlig at de også nerder på kaffe",
@@ -147,52 +187,12 @@
       "published": "2025-12-05T07:22:06Z"
     },
     {
-      "id": "b5c89cc27f552d492359bf205352961481465864",
-      "title": "– Vi måtte oppdatere kode24 denne uka. Hva om vi hadde vært vibbekoda?",
-      "link": "https://www.kode24.no/artikkel/vi-matte-oppdatere-kode24-denne-uka-hva-om-vi-hadde-vaert-vibbekoda/251036",
-      "source": "Kode24",
-      "summary": "– Én ting er gleden som går tapt med KI, noe annet er den sveitserosten av et vibbekoda internett vi kan sitte igjen med, skriver Ole Petter i ukas nyhetsbrev.",
-      "published": "2025-12-05T04:00:00Z"
-    },
-    {
       "id": "b2a5999f830aea4d093815741a41adfde4b78a57",
       "title": "How to use GitHub Copilot Spaces to debug issues faster",
       "link": "https://github.blog/ai-and-ml/github-copilot/how-to-use-github-copilot-spaces-to-debug-issues-faster/",
       "source": "GitHub Blog",
       "summary": "Follow this step-by-step guide to learn how to debug your issues using GitHub Copilot Spaces and Copilot coding agent. The post How to use GitHub Copilot Spaces to debug issues faster appeared first on The GitHub Blog.",
       "published": "2025-12-04T20:35:36Z"
-    },
-    {
-      "id": "4dbf0a4fa10ef5b3a626bda391a36111e9b21c21",
-      "title": "KI-kåring: Norge er dårligst i Skandinavia",
-      "link": "https://www.kode24.no/artikkel/ki-karing-norge-er-darligst-i-skandinavia/250998",
-      "source": "Kode24",
-      "summary": "Sverige har gått forbi Norge i det britiske tidsskriftet The Observers liste over KI-utviklingen i verden.",
-      "published": "2025-12-04T12:34:33Z"
-    },
-    {
-      "id": "6a42ccf80f57efa6c261b4481cfd867e898bb505",
-      "title": "– Jeg er lei av KI",
-      "link": "https://www.kode24.no/artikkel/jeg-er-lei-av-ki/250952",
-      "source": "Kode24",
-      "summary": "– Det er sjukt hvor bra det har blitt. Men det er også sjukt hvor mye glede det tar bort, skriver Filip Johansen i VG Lab.",
-      "published": "2025-12-04T10:12:19Z"
-    },
-    {
-      "id": "5d3c0e89407667142457d1d83fdc2245020ee2a7",
-      "title": "Valgomat og Charlie Kirk: Dette Googlet vi i 2025",
-      "link": "https://www.kode24.no/artikkel/valgomat-og-charlie-kirk-dette-googlet-vi-i-2025/250920",
-      "source": "Kode24",
-      "summary": "«Gemini» og «DeepSeek» troner også høyt på listen over hva folk har Googlet i 2025.",
-      "published": "2025-12-04T10:11:29Z"
-    },
-    {
-      "id": "648509058de7c6e669ba522f14b878b39c023170",
-      "title": "Finans­tilsynet frykter KI-boble",
-      "link": "https://www.kode24.no/artikkel/finanstilsynet-frykter-ki-boble/250976",
-      "source": "Kode24",
-      "summary": "– Høy verdsetting av aksjer og andre formuesobjekter, samt generelt lave risikopremier, gir risiko for brå og store priskorreksjoner.",
-      "published": "2025-12-04T09:58:30Z"
     },
     {
       "id": "0477a6d786a65bf68c5660b1008befbae2b3362c",
