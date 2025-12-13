@@ -1,6 +1,55 @@
 {
-  "generated_at": "2025-12-12T06:38:22.083009Z",
+  "generated_at": "2025-12-13T06:35:02.241140Z",
   "items": [
+    {
+      "id": "c4a132a1e677607c6055fca20706d8ae04b4ee2f",
+      "title": "CSS Wrapped 2025: «Stilig!»",
+      "link": "https://www.kode24.no/artikkel/css-wrapped-2025-stilig/251795",
+      "source": "Kode24",
+      "summary": "Alt det nye i CSS, masse Star Wars, silkemyk 3D i nettleseren og ny norsk humor, i ukas Lørdagsgodt.",
+      "published": "2025-12-13T04:00:00Z"
+    },
+    {
+      "id": "c2ab57adab6c32164fba564508255e00b3fed8cc",
+      "title": "The future of AI-powered software optimization (and how it can help your team)",
+      "link": "https://github.blog/news-insights/policy-news-and-insights/the-future-of-ai-powered-software-optimization-and-how-it-can-help-your-team/",
+      "source": "GitHub Blog",
+      "summary": "We envision the future of AI-enabled tooling to look like near-effortless engineering for sustainability. We call it Continuous Efficiency. The post The future of AI-powered software optimization (and how it can help your team) appeared first on The GitHub Blog.",
+      "published": "2025-12-12T20:43:37Z",
+      "image": "https://github.blog/wp-content/uploads/2025/12/image1_c8a727.png?resize=1024%2C320"
+    },
+    {
+      "id": "9fafcc067a831e39b45874cde45a3e4ca903f527",
+      "title": "Får 10 millioner til å sile nyutdanna jobbsøkere med KI",
+      "link": "https://www.kode24.no/artikkel/far-10-millioner-til-a-sile-nyutdanna-jobbsokere-med-ki/251821",
+      "source": "Kode24",
+      "summary": "– Attraktive arbeidsgivere mottar ekstreme mengder søknader fra nyutdannede, melder norske Soolv, og mener å ha løsningen.",
+      "published": "2025-12-12T11:57:50Z"
+    },
+    {
+      "id": "d5d8295a95b688fe355a177e8a29e7fc830e4776",
+      "title": "5 spådommer: Sånn skal KI prege 2026",
+      "link": "https://www.kode24.no/artikkel/5-spadommer-sann-skal-ki-prege-2026/251710",
+      "source": "Kode24",
+      "summary": "– «Vibe coding» muliggjør en «innovation renaissance», er én av fem spådommer fra People Made Machines-CTO Arturo Calvo.",
+      "published": "2025-12-12T10:13:35Z"
+    },
+    {
+      "id": "af6150420121026990527a3c8a34c7f93ec83007",
+      "title": "OpenAIs GPT-5.2 skryter av tall – forskere mener de ikke kan stoles på",
+      "link": "https://www.kode24.no/artikkel/openais-gpt-52-skryter-av-tall-forskere-mener-de-ikke-kan-stoles-pa/251769",
+      "source": "Kode24",
+      "summary": "– Vanskelig å vite om modellene faktisk blir bedre, eller bare ser ut til å bli det, skriver Oxford-forskere i stor rapport om KI-benchmark-er.",
+      "published": "2025-12-12T09:03:30Z"
+    },
+    {
+      "id": "7ee93a2e68d793be9b52fe4ec7ab525ff233511d",
+      "title": "Disney investerer én milliard dollar i OpenAI",
+      "link": "https://www.kode24.no/artikkel/disney-investerer-en-milliard-dollar-i-openai/251753",
+      "source": "Kode24",
+      "summary": "En ny avtale mellom Disney og OpenAI lar fans lage korte KI-videoer med kjente Disney-figurer. Avtalen innebærer at Disney investerer 1 milliard dollar i OpenAI.",
+      "published": "2025-12-12T07:25:54Z"
+    },
     {
       "id": "499e8ca3df89910f5e8751bc5dd6cccaccb0bd99",
       "title": "kode24-dagen 5.0: «Viktigere enn noen gang»",
@@ -154,22 +203,6 @@
       "published": "2025-12-09T08:57:00Z"
     },
     {
-      "id": "43ac041a5f5cea2eec3286630948a1e9bd98b2a5",
-      "title": "X får milliardbot",
-      "link": "https://www.kode24.no/artikkel/x-far-milliardbot/251405",
-      "source": "Kode24",
-      "summary": "EU har besluttet å ilegge det sosiale mediet X en bot på drøyt 1,4 milliarder kroner. USAs visepresident reagerer.",
-      "published": "2025-12-09T07:30:40Z"
-    },
-    {
-      "id": "f488e97901789e53846289a9d1ecce5a8c998560",
-      "title": "Tekoligark er årets ord 2025",
-      "link": "https://www.kode24.no/artikkel/tekoligark-er-arets-ord-2025/251335",
-      "source": "Kode24",
-      "summary": "Språkrådet har kåret «Tekoligark» til årets nyord. – Vi har gjort oss avhengig av dem, mener direktøren.",
-      "published": "2025-12-09T05:30:00Z"
-    },
-    {
       "id": "3863f8e4d8ca639405fc7f8edfbce921fd8f0fa2",
       "title": "The new identity of a developer: What changes and what doesn’t in the AI era",
       "link": "https://github.blog/news-insights/octoverse/the-new-identity-of-a-developer-what-changes-and-what-doesnt-in-the-ai-era/",
@@ -177,30 +210,6 @@
       "summary": "Discover how advanced AI users are redefining software development—shifting from code producers to strategic orchestrators—through delegation, verification, and a new era of AI-fluent engineering. The post The new identity of a developer: What changes and what doesn’t in the AI era appeared first...",
       "published": "2025-12-08T18:15:17Z",
       "image": "https://github.blog/wp-content/uploads/2025/12/ai-fluency-stages-1-2.png?resize=1024%2C576"
-    },
-    {
-      "id": "203e6cc3c09ac4ad6a6fe435dffad22a7b69d82a",
-      "title": "5 tips til samarbeid mellom utviklere og designere",
-      "link": "https://www.kode24.no/artikkel/5-tips-til-samarbeid-mellom-utviklere-og-designere/251340",
-      "source": "Kode24",
-      "summary": "– Vi har testet parprogrammering mellom utvikler og designer, og det har fungert veldig bra for oss, skriver utvikler Solveig Myren og designer Jesper Mattsson i Sikt, om ett av tipsene.",
-      "published": "2025-12-08T13:45:01Z"
-    },
-    {
-      "id": "f176e39be198c798fb168b5f743953066639acc8",
-      "title": "Lagde album om konsulentlivet fra Jobbi-anmeldelser",
-      "link": "https://www.kode24.no/artikkel/lagde-album-om-konsulentlivet-fra-jobbi-anmeldelser/251178",
-      "source": "Kode24",
-      "summary": "– Første gang jeg hørte en ferdig versjon av \"Accenture Blues\" komme ut av vozart.ai, satt jeg og gliste alene foran skjermen, skriver Ove Kuvåssæter.",
-      "published": "2025-12-08T09:11:51Z"
-    },
-    {
-      "id": "746a873a3dd4b5dcc95b25b241a6701eef960b6f",
-      "title": "Enorm økning i RAM-priser",
-      "link": "https://www.kode24.no/artikkel/enorm-okning-i-ram-priser/251166",
-      "source": "Kode24",
-      "summary": "Prisene har firedobla seg, og KI får skylda.",
-      "published": "2025-12-08T07:29:03Z"
     },
     {
       "id": "b2a5999f830aea4d093815741a41adfde4b78a57",
@@ -235,15 +244,6 @@
       "source": "GitHub Blog",
       "summary": "Run multiple Copilot agents from one place. Learn prompt techniques, how to spot drift early, and how to review agent work efficiently. The post How to orchestrate agents using mission control appeared first on The GitHub Blog.",
       "published": "2025-12-01T17:00:00Z"
-    },
-    {
-      "id": "63b33612f858619c63650f812b3d20d68cc3644e",
-      "title": "The ultimate gift guide for the developer in your life",
-      "link": "https://github.blog/news-insights/company-news/the-ultimate-gift-guide-for-the-developer-in-your-life/",
-      "source": "GitHub Blog",
-      "summary": "Finding the perfect gift for your favorite developer is easy with our top tips. The post The ultimate gift guide for the developer in your life appeared first on The GitHub Blog.",
-      "published": "2025-11-28T13:08:56Z",
-      "image": "https://github.blog/wp-content/uploads/2025/11/hat.png?resize=1024%2C683"
     },
     {
       "id": "0ea1e6845fb72fccd664b752f5ee51bd9c6de569",
