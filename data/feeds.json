@@ -1,6 +1,14 @@
 {
-  "generated_at": "2025-12-14T06:34:55.391414Z",
+  "generated_at": "2025-12-15T06:40:41.876892Z",
   "items": [
+    {
+      "id": "d86862bc447cebd7991e72ec3a9e93549a1c5abc",
+      "title": "UX-bransjen har snudd: «Brutalt»",
+      "link": "https://www.kode24.no/artikkel/ux-bransjen-har-snudd-brutalt/251556",
+      "source": "Kode24",
+      "summary": "UX-stillinger mottar hundrevis av søknader. Etter 15 år sier Tone Nordbø at bransjen har snudd, mens Julie Amalie Aga får bekymrede meldinger fra studenter.",
+      "published": "2025-12-15T04:00:00Z"
+    },
     {
       "id": "c4a132a1e677607c6055fca20706d8ae04b4ee2f",
       "title": "CSS Wrapped 2025: «Stilig!»",
@@ -193,14 +201,6 @@
       "source": "Kode24",
       "summary": "Antall søknader per stilling har syvdoblet seg i Skatteetaten de syv siste årene.",
       "published": "2025-12-09T10:39:25Z"
-    },
-    {
-      "id": "78707029f278995a2ce1ee97ba57f2edc632073e",
-      "title": "Lot Claude Code gjøre designet: «Sparte mange tusen»",
-      "link": "https://www.kode24.no/artikkel/lot-claude-code-gjore-designet-sparte-mange-tusen/251421",
-      "source": "Kode24",
-      "summary": "Skrev backend og HTML selv, men lot Claude Code gjøre resten. – Alt jeg lager ser stygt ut, skriver Kirill Miazine.",
-      "published": "2025-12-09T08:57:00Z"
     },
     {
       "id": "3863f8e4d8ca639405fc7f8edfbce921fd8f0fa2",
