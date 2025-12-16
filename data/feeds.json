@@ -1,6 +1,38 @@
 {
-  "generated_at": "2025-12-15T06:40:41.876892Z",
+  "generated_at": "2025-12-16T06:38:56.410841Z",
   "items": [
+    {
+      "id": "41ab7b01b4f07f07fd0a71977965e23a21e78f77",
+      "title": "kode24-prisen 2025: Stem fram dine favoritter!",
+      "link": "https://www.kode24.no/artikkel/kode24-prisen-2025-stem-fram-dine-favoritter/251582",
+      "source": "Kode24",
+      "summary": "Vi oppsummerer 2025 ved å trekke fram årets viktigste historier, trender og folk. Men hvem som vinner, er opp til deg.",
+      "published": "2025-12-16T04:00:00Z"
+    },
+    {
+      "id": "097ca61f120baf2fa8ae4f6e0e3257a4b235a481",
+      "title": "Homi-gründeren bruker «helt sykt mye» KI",
+      "link": "https://www.kode24.no/artikkel/homi-grunderen-bruker-helt-sykt-mye-ki/251810",
+      "source": "Kode24",
+      "summary": "– Det er lett å drukne i muligheter, sier solo-utvikler, Homi-gründer og Ukas Koder Kristian Elset Bø, som lager «Pinterest for boligannonser» med «helt sykt mye» hjelp fra KI.",
+      "published": "2025-12-15T12:13:13Z"
+    },
+    {
+      "id": "099f4b7ba636ea1f8ffcb1d336acc340b3a66485",
+      "title": "Forte kritiserer KI gjennom KI-generert reklamefilm",
+      "link": "https://www.kode24.no/artikkel/forte-kritiserer-ki-gjennom-ki-generert-reklamefilm/251865",
+      "source": "Kode24",
+      "summary": "– Det virker som vi har truffet en nerve, både i markedet og i bransjen. Mange kjenner seg igjen i det vi peker på.",
+      "published": "2025-12-15T09:34:11Z"
+    },
+    {
+      "id": "3a405d4491d947e94616336f93efefd120b9d0a4",
+      "title": "Går fra store IT-miljøer til lite konsulent­selskap",
+      "link": "https://www.kode24.no/artikkel/gar-fra-store-it-miljoer-til-lite-konsulentselskap/251856",
+      "source": "Kode24",
+      "summary": "Erik Tokheim ønsket mer ansvar og mindre avstand mellom det han koder og beslutningenene som tas. Nå blir han konsulent i Yne.",
+      "published": "2025-12-15T08:36:32Z"
+    },
     {
       "id": "d86862bc447cebd7991e72ec3a9e93549a1c5abc",
       "title": "UX-bransjen har snudd: «Brutalt»",
@@ -155,22 +187,6 @@
       "published": "2025-12-10T09:53:01Z"
     },
     {
-      "id": "1dc6645fb3bae0a76b0cc9a736b9e88b25aee79a",
-      "title": "Nedbemanning i Orange Business Digital Services",
-      "link": "https://www.kode24.no/artikkel/nedbemanning-i-orange-business-digital-services/251506",
-      "source": "Kode24",
-      "summary": "Beskjeden skal ha kommet «brått» og «brutalt» på de ansatte, ifølge Digi.",
-      "published": "2025-12-10T08:33:24Z"
-    },
-    {
-      "id": "0fed16a0f0a49c33e3d7ddd19341b14ebbc00ebb",
-      "title": "Kontor­kaffe stadig viktigere: – Naturlig at de også nerder på kaffe",
-      "link": "https://www.kode24.no/artikkel/kontorkaffe-stadig-viktigere-naturlig-at-de-ogsa-nerder-pa-kaffe/251010",
-      "source": "Kode24",
-      "summary": "Netlife skryter av kaffen i stillingsannonser, og Telenor lokker folk fra hjemmekontoret med barista. – Naturlig, mener Norsk Kaffeinformasjon.",
-      "published": "2025-12-10T04:00:00Z"
-    },
-    {
       "id": "34143973ec114eb0a22af7f9fbd8ad981f326399",
       "title": "MCP joins the Linux Foundation: What this means for developers building the next era of AI tools and agents",
       "link": "https://github.blog/open-source/maintainers/mcp-joins-the-linux-foundation-what-this-means-for-developers-building-the-next-era-of-ai-tools-and-agents/",
@@ -185,22 +201,6 @@
       "source": "GitHub Blog",
       "summary": "AI can help you build faster than ever, but it can also produce bugs, issues, and problems. Use these strategies to keep your speed without losing control of your code. The post Speed is nothing without control: How to keep quality high in the AI era appeared first on The GitHub Blog.",
       "published": "2025-12-09T17:00:00Z"
-    },
-    {
-      "id": "78693486f607eaf257665ee7b5f45f23da3cfe25",
-      "title": "Konsulent til Cobrief: – Går fra å levere timer til å faktisk bygge",
-      "link": "https://www.kode24.no/artikkel/konsulent-til-cobrief-gar-fra-a-levere-timer-til-a-faktisk-bygge/251489",
-      "source": "Kode24",
-      "summary": "– Interessen min for startups og spesielt arbeidet med KI-teknologi gjorde at dette ikke var en mulighet jeg kunne gå glipp av, sier Kristoffer Aas.",
-      "published": "2025-12-09T13:52:17Z"
-    },
-    {
-      "id": "66355034d917f30d9197fb1e74c91452c8295bca",
-      "title": "330 søkere på én stilling i Skattetaten: «Historisk»",
-      "link": "https://www.kode24.no/artikkel/330-sokere-pa-en-stilling-i-skattetaten-historisk/251156",
-      "source": "Kode24",
-      "summary": "Antall søknader per stilling har syvdoblet seg i Skatteetaten de syv siste årene.",
-      "published": "2025-12-09T10:39:25Z"
     },
     {
       "id": "3863f8e4d8ca639405fc7f8edfbce921fd8f0fa2",
