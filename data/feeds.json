@@ -1,6 +1,46 @@
 {
-  "generated_at": "2025-12-16T06:38:56.410841Z",
+  "generated_at": "2025-12-17T06:38:45.953161Z",
   "items": [
+    {
+      "id": "c59a3a73179e1576f793631a539050992ec0a488",
+      "title": "Kartverkets søkertall har eksplodert",
+      "link": "https://www.kode24.no/artikkel/kartverkets-sokertall-har-eksplodert/251617",
+      "source": "Kode24",
+      "summary": "Søkere til utviklerjobber i Kartverket har femdoblet seg på fem år. – Noe av det ligger i at konsulentselskapene tar inn færre om dagen.",
+      "published": "2025-12-17T04:00:00Z"
+    },
+    {
+      "id": "58717699f54cbec5e3819965ca1764b6cc43fbc0",
+      "title": "Ny rekord: Over 1,1 millioner sjekket skattekortet",
+      "link": "https://www.kode24.no/artikkel/ny-rekord-over-11-millioner-sjekket-skattekortet/252061",
+      "source": "Kode24",
+      "summary": "Skattelotteriet til regjeringen førte til rekordtall på Skatteetaten.no tirsdag. Løsningen ble blant annet en kø.",
+      "published": "2025-12-16T13:18:04Z"
+    },
+    {
+      "id": "4975697ffc9ccfdf78cec7a3f986d38f1825689a",
+      "title": "UU-tilsynet testa 250 nettsider – bare 9 fikk full pott",
+      "link": "https://www.kode24.no/artikkel/uu-tilsynet-testa-250-nettsider-bare-9-fikk-full-pott/252063",
+      "source": "Kode24",
+      "summary": "Men heldigvis for de fleste, fører ikke den nye kontrollen til reaksjoner.",
+      "published": "2025-12-16T10:09:49Z"
+    },
+    {
+      "id": "44262f3d541557c6704248bcd435853c75278761",
+      "title": "Færre tar bachelor, flere tar master",
+      "link": "https://www.kode24.no/artikkel/faerre-tar-bachelor-flere-tar-master/252041",
+      "source": "Kode24",
+      "summary": "Og totalt møtte færre opp til sine IT-studier i år enn i fjor. Direktoratet mener det er udramatisk – med mindre det fortsetter.",
+      "published": "2025-12-16T08:28:14Z"
+    },
+    {
+      "id": "310464f7afbe7fde543e6a37af62d7ea392095d7",
+      "title": "Regjeringens KI-utvalg slår alarm: Vil skrote hjemmeeksamen",
+      "link": "https://www.kode24.no/artikkel/regjeringens-ki-utvalg-slar-alarm-vil-skrote-hjemmeeksamen/252027",
+      "source": "Kode24",
+      "summary": "Regjeringen sitt KI-utvalg mener det må bli slutt på hjemmeeksamen fordi det er vanskelig å kontrollere hvem som faktisk har skrevet oppgaven.",
+      "published": "2025-12-16T07:32:12Z"
+    },
     {
       "id": "41ab7b01b4f07f07fd0a71977965e23a21e78f77",
       "title": "kode24-prisen 2025: Stem fram dine favoritter!",
@@ -145,46 +185,6 @@
       "source": "Kode24",
       "summary": "Google bekrefter til Digi at de planlegger et datasenter i Våler i Østfold.",
       "published": "2025-12-11T09:35:48Z"
-    },
-    {
-      "id": "6a053d19dc07cf7ce035ed720a04cfc396538d56",
-      "title": "USA vraker Calibri for Times New Roman",
-      "link": "https://www.kode24.no/artikkel/usa-vraker-calibri-for-times-new-roman/251594",
-      "source": "Kode24",
-      "summary": "Det er over og ut for Calibri-fonten i Trump-adminstrasjonen. Nå vil USAs utenriksminister Marco Rubio at alle bruker Times New Roman.",
-      "published": "2025-12-11T08:32:33Z"
-    },
-    {
-      "id": "7e674a962d66a69e6dadd1f7613f28b6fa014508",
-      "title": "Norske utviklere bruker 90 prosent av penga i USA",
-      "link": "https://www.kode24.no/artikkel/norske-utviklere-bruker-90-prosent-av-penga-i-usa/251403",
-      "source": "Kode24",
-      "summary": "– At USA er så dominerende var overraskende, sier Cardboard om tallene deres. For nesten 60 prosent av norske utviklere vil kutte ned avhengigheten.",
-      "published": "2025-12-11T04:00:00Z"
-    },
-    {
-      "id": "f533e204c371fcb3e3e5ba2da9b0ecb7df22d8fd",
-      "title": "Reddit strammer inn for unge – mange reagerer",
-      "link": "https://www.kode24.no/artikkel/reddit-strammer-inn-for-unge-mange-reagerer/251575",
-      "source": "Kode24",
-      "summary": "Reddit får strengere krav til tenåringskontoer over hele verden. Det får reaksjoner fra brukerne. – Hva neste, blod- og sædprøve?",
-      "published": "2025-12-10T14:41:55Z"
-    },
-    {
-      "id": "4eebae4f1162d7664af38d5bcc44708906787fb7",
-      "title": "TypeScript 7 vraker JavaScript: «Et generasjons­skifte»",
-      "link": "https://www.kode24.no/artikkel/typescript-7-vraker-javascript-et-generasjonsskifte/251471",
-      "source": "Kode24",
-      "summary": "Kritisk React-sårbarhet, den Rust-baserte Prettier-kompatible Oxfmt og TypeScript 7 går native, i ukas ForrigeUke.",
-      "published": "2025-12-10T12:26:11Z"
-    },
-    {
-      "id": "1fd02e8fd7bf9562144f1634f190c14190c355f1",
-      "title": "Utviklerne flytter inn i kirkebygg",
-      "link": "https://www.kode24.no/artikkel/utviklerne-flytter-inn-i-kirkebygg/251508",
-      "source": "Kode24",
-      "summary": "Computas flytter inn i nye lokaler i Trondheim – se det historiske kirkebygget på Bakklandet.",
-      "published": "2025-12-10T09:53:01Z"
     },
     {
       "id": "34143973ec114eb0a22af7f9fbd8ad981f326399",
