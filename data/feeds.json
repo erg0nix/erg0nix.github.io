@@ -1,6 +1,46 @@
 {
-  "generated_at": "2025-12-17T06:38:45.953161Z",
+  "generated_at": "2025-12-18T06:38:30.223971Z",
   "items": [
+    {
+      "id": "c56e68832a0ea3637d24c55612be9ac4a8279d18",
+      "title": "100 prosent KI-generert kode? Ja, hvis du tåler å gjøre forarbeidet!",
+      "link": "https://www.kode24.no/artikkel/100-prosent-ki-generert-kode-ja-hvis-du-taler-a-gjore-forarbeidet/252209",
+      "source": "Kode24",
+      "summary": "– Vi tror vi er på vei inn i en hverdag der det blir uvanlig å skrive all kode for hånd, skriver Håkon Roald og Julie Krøgenes i Avo Consulting. Sånn gjør de spesifikasjonsdrevet utvikling med KI.",
+      "published": "2025-12-18T04:00:00Z"
+    },
+    {
+      "id": "ce5e0277c4738156091c90240ae19309eb9a1174",
+      "title": "Kaller KI til rekruttering et «HR-mareritt»",
+      "link": "https://www.kode24.no/artikkel/kaller-ki-til-rekruttering-et-hr-mareritt/252094",
+      "source": "Kode24",
+      "summary": "– Hvis en kandidat blir valgt bort uten at et menneske faktisk vurderer dem, kan det være ulovlig, advarer Ina Cabanillas Hansen.",
+      "published": "2025-12-17T12:20:52Z"
+    },
+    {
+      "id": "c889905ad141c546d2a5c078a41735153570a6a8",
+      "title": "NITO Studentene advarer mot å skjerme studenter fra KI",
+      "link": "https://www.kode24.no/artikkel/nito-studentene-advarer-mot-a-skjerme-studenter-fra-ki/252147",
+      "source": "Kode24",
+      "summary": "Leder i NITO Studentene, Sofie Strøm Olsen, støtter tiltak mot KI-juks. – Men skal man mestre naturvitenskapene, så trenger man praktisk erfaring.",
+      "published": "2025-12-17T10:15:00Z"
+    },
+    {
+      "id": "1172455feb9808b29f03078ec407b5a12ab5a2c0",
+      "title": "Firefox skal bli en KI-nettleser, lover den nye sjefen",
+      "link": "https://www.kode24.no/artikkel/firefox-skal-bli-en-ki-nettleser-lover-den-nye-sjefen/252167",
+      "source": "Kode24",
+      "summary": "Men det faller i dårlig jord hos brukerne. – Vi bruker Firefox fordi den ikke har all denne søpla.",
+      "published": "2025-12-17T09:14:40Z"
+    },
+    {
+      "id": "39b26b12c74daa44e7d939bcf9cabcf1d0095f03",
+      "title": "Loop Academy vant mot Manpower Group",
+      "link": "https://www.kode24.no/artikkel/loop-academy-vant-mot-manpower-group/252138",
+      "source": "Kode24",
+      "summary": "Marius Jansen ble saksøkt for 6,2 millioner kroner over sin tidligere rolle i Experis Academy, men retten mener han ikke har gjort noe galt. Motparten står fortsatt på sitt.",
+      "published": "2025-12-17T08:14:59Z"
+    },
     {
       "id": "c59a3a73179e1576f793631a539050992ec0a488",
       "title": "Kartverkets søkertall har eksplodert",
@@ -131,14 +171,6 @@
       "published": "2025-12-12T07:25:54Z"
     },
     {
-      "id": "499e8ca3df89910f5e8751bc5dd6cccaccb0bd99",
-      "title": "kode24-dagen 5.0: «Viktigere enn noen gang»",
-      "link": "https://www.kode24.no/artikkel/kode24-dagen-50-viktigere-enn-noen-gang/251679",
-      "source": "Kode24",
-      "summary": "– Det å møte hverandre, lære av hverandre og ha det gøy sammen er viktigere enn noen sinne, mener Ole Petter, og håper du blir med.",
-      "published": "2025-12-12T04:00:00Z"
-    },
-    {
       "id": "6638366c02ccab73644fb2385d58189dea579b9e",
       "title": "Let’s talk about GitHub Actions",
       "link": "https://github.blog/news-insights/product-news/lets-talk-about-github-actions/",
@@ -153,38 +185,6 @@
       "source": "GitHub Blog",
       "summary": "In November, we experienced three incidents that resulted in degraded performance across GitHub services. The post GitHub Availability Report: November 2025 appeared first on The GitHub Blog.",
       "published": "2025-12-11T16:03:53Z"
-    },
-    {
-      "id": "97cf1901e1d70f885828e54a9933a69c5de5b1ae",
-      "title": "KI-toppene er «Årets person»",
-      "link": "https://www.kode24.no/artikkel/ki-toppene-er-arets-person/251731",
-      "source": "Kode24",
-      "summary": "«KIs arkitekter» kåres til «Årets person 2025» av Time Magazine.",
-      "published": "2025-12-11T14:16:38Z"
-    },
-    {
-      "id": "790cc51990e67beed0b9b70dd1dd3bec0fddfe44",
-      "title": "Nkom frykter at antisvindel-KI gir tilgang til private meldinger",
-      "link": "https://www.kode24.no/artikkel/nkom-frykter-at-antisvindel-ki-gir-tilgang-til-private-meldinger/251660",
-      "source": "Kode24",
-      "summary": "Nkom vil undersøke om norske selskaper bruker KI-systemer som stopper svindel på en lovlig måte i Norge.",
-      "published": "2025-12-11T10:44:16Z"
-    },
-    {
-      "id": "2d561125eaf748f8e074ffe270e8e0c137a767c3",
-      "title": "Ber konsulenter ta samfunns­ansvar: «Vi har ofte mye uformell makt»",
-      "link": "https://www.kode24.no/artikkel/ber-konsulenter-ta-samfunnsansvar-vi-har-ofte-mye-uformell-makt/251612",
-      "source": "Kode24",
-      "summary": "– Vår påvirkningskraft og uformelle makt er noe vi sjelden diskuterer eller problematiserer åpent, skriver CTO Thomas Malt.",
-      "published": "2025-12-11T09:35:52Z"
-    },
-    {
-      "id": "2fd604b3c51711f6d06554b0789274564126ac75",
-      "title": "Google vil bygge i Østfold og bruke like mye strøm som 200.000 boliger",
-      "link": "https://www.kode24.no/artikkel/google-vil-bygge-i-ostfold-og-bruke-like-mye-strom-som-200000-boliger/251643",
-      "source": "Kode24",
-      "summary": "Google bekrefter til Digi at de planlegger et datasenter i Våler i Østfold.",
-      "published": "2025-12-11T09:35:48Z"
     },
     {
       "id": "34143973ec114eb0a22af7f9fbd8ad981f326399",
