@@ -1,6 +1,38 @@
 {
-  "generated_at": "2025-12-18T06:38:30.223971Z",
+  "generated_at": "2025-12-19T06:37:10.600290Z",
   "items": [
+    {
+      "id": "478511a696e43ea648e09a71175e4778ffa24b05",
+      "title": "Oljefondet-sjefen sier at KI-skeptikere sparkes: «Sinnssykt»",
+      "link": "https://www.kode24.no/artikkel/oljefondet-sjefen-sier-at-ki-skeptikere-sparkes-sinnssykt/252265",
+      "source": "Kode24",
+      "summary": "– Jeg synes oppriktig synd på norske utviklere akkurat nå, skriver Ole Petter i ukas nyhetsbrev, etter å ha lest hva Nicolai Tangen har lært fra USA.",
+      "published": "2025-12-18T23:00:00Z"
+    },
+    {
+      "id": "b061ffdbc4cc66ce067c77cdec77faaa89ccc887",
+      "title": "Nå er ChatGPT-appene her",
+      "link": "https://www.kode24.no/artikkel/na-er-chatgpt-appene-her/252255",
+      "source": "Kode24",
+      "summary": "Utviklere kan nå sende inn apper for gjennomgang og publisering i ChatGPT, og du kan bruke de andre har laget.",
+      "published": "2025-12-18T13:09:46Z"
+    },
+    {
+      "id": "5a2886284ab7b4dee52c6c3d003232f0fd7afeaa",
+      "title": "Nav fikk 489 søkere på én junior-utlysning",
+      "link": "https://www.kode24.no/artikkel/nav-fikk-489-sokere-pa-en-junior-utlysning/251771",
+      "source": "Kode24",
+      "summary": "De siste årene har de fått tre ganger så mange søkere per stilling. Men selv mener de arbeidsledigheten er lav.",
+      "published": "2025-12-18T10:20:14Z"
+    },
+    {
+      "id": "7121a290b5e77dd57ab0919ad494b2cc19cf6d10",
+      "title": "Ny visuell editor i Cursor: – Noen mener jobbene våre er i fare",
+      "link": "https://www.kode24.no/artikkel/ny-visuell-editor-i-cursor-noen-mener-jobbene-vare-er-i-fare/252188",
+      "source": "Kode24",
+      "summary": "Mer design i Cursor, mer KI i VS Code og enda flere hull i React, i ukas ForrigeUke.",
+      "published": "2025-12-18T09:23:29Z"
+    },
     {
       "id": "c56e68832a0ea3637d24c55612be9ac4a8279d18",
       "title": "100 prosent KI-generert kode? Ja, hvis du tåler å gjøre forarbeidet!",
@@ -137,38 +169,6 @@
       "summary": "We envision the future of AI-enabled tooling to look like near-effortless engineering for sustainability. We call it Continuous Efficiency. The post The future of AI-powered software optimization (and how it can help your team) appeared first on The GitHub Blog.",
       "published": "2025-12-12T20:43:37Z",
       "image": "https://github.blog/wp-content/uploads/2025/12/image1_c8a727.png?resize=1024%2C320"
-    },
-    {
-      "id": "9fafcc067a831e39b45874cde45a3e4ca903f527",
-      "title": "Får 10 millioner til å sile nyutdanna jobbsøkere med KI",
-      "link": "https://www.kode24.no/artikkel/far-10-millioner-til-a-sile-nyutdanna-jobbsokere-med-ki/251821",
-      "source": "Kode24",
-      "summary": "– Attraktive arbeidsgivere mottar ekstreme mengder søknader fra nyutdannede, melder norske Soolv, og mener å ha løsningen.",
-      "published": "2025-12-12T11:57:50Z"
-    },
-    {
-      "id": "d5d8295a95b688fe355a177e8a29e7fc830e4776",
-      "title": "5 spådommer: Sånn skal KI prege 2026",
-      "link": "https://www.kode24.no/artikkel/5-spadommer-sann-skal-ki-prege-2026/251710",
-      "source": "Kode24",
-      "summary": "– «Vibe coding» muliggjør en «innovation renaissance», er én av fem spådommer fra People Made Machines-CTO Arturo Calvo.",
-      "published": "2025-12-12T10:13:35Z"
-    },
-    {
-      "id": "af6150420121026990527a3c8a34c7f93ec83007",
-      "title": "OpenAIs GPT-5.2 skryter av tall – forskere mener de ikke kan stoles på",
-      "link": "https://www.kode24.no/artikkel/openais-gpt-52-skryter-av-tall-forskere-mener-de-ikke-kan-stoles-pa/251769",
-      "source": "Kode24",
-      "summary": "– Vanskelig å vite om modellene faktisk blir bedre, eller bare ser ut til å bli det, skriver Oxford-forskere i stor rapport om KI-benchmark-er.",
-      "published": "2025-12-12T09:03:30Z"
-    },
-    {
-      "id": "7ee93a2e68d793be9b52fe4ec7ab525ff233511d",
-      "title": "Disney investerer én milliard dollar i OpenAI",
-      "link": "https://www.kode24.no/artikkel/disney-investerer-en-milliard-dollar-i-openai/251753",
-      "source": "Kode24",
-      "summary": "En ny avtale mellom Disney og OpenAI lar fans lage korte KI-videoer med kjente Disney-figurer. Avtalen innebærer at Disney investerer 1 milliard dollar i OpenAI.",
-      "published": "2025-12-12T07:25:54Z"
     },
     {
       "id": "6638366c02ccab73644fb2385d58189dea579b9e",
