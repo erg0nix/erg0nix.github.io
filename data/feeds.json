@@ -1,6 +1,30 @@
 {
-  "generated_at": "2025-12-19T06:37:10.600290Z",
+  "generated_at": "2025-12-20T06:35:22.225611Z",
   "items": [
+    {
+      "id": "016940c84154eb72b8f8ce15194b5f1e77cdc842",
+      "title": "Årets julegave fra «ekte program­mering»-duoen",
+      "link": "https://www.kode24.no/artikkel/arets-julegave-fra-ekte-programmering-duoen/252384",
+      "source": "Kode24",
+      "summary": "Demo fra Ekte Programmering-forfatterne, Vivaldis KI-frie planer for 2026, Cloudflares oppsummering av året og dårlige appideer, i ukas Lørdagsgodt.",
+      "published": "2025-12-20T04:00:00Z"
+    },
+    {
+      "id": "1f92d2c39401478005067326b199e28a19b46a87",
+      "title": "KI bruker like mye strøm som New York",
+      "link": "https://www.kode24.no/artikkel/ki-bruker-like-mye-strom-som-new-york/252332",
+      "source": "Kode24",
+      "summary": "En fersk studie anslår at KI sto for et karbonavtrykk på nivå med hele New York by i 2025, og brukte like mye vann som verdens befolkning drikker fra flaske.",
+      "published": "2025-12-19T10:11:26Z"
+    },
+    {
+      "id": "6160c6adcf1a19a2050b364fd74b1d28d65f6aac",
+      "title": "GitHub snur: Ville ta betalt for Actions på din egen maskin",
+      "link": "https://www.kode24.no/artikkel/github-snur-ville-ta-betalt-for-actions-pa-din-egen-maskin/252336",
+      "source": "Kode24",
+      "summary": "– Vi bomma på endringene, innrømmer GitHub, etter å ha fått nettet mot seg.",
+      "published": "2025-12-19T08:51:06Z"
+    },
     {
       "id": "478511a696e43ea648e09a71175e4778ffa24b05",
       "title": "Oljefondet-sjefen sier at KI-skeptikere sparkes: «Sinnssykt»",
@@ -136,30 +160,6 @@
       "source": "Kode24",
       "summary": "– Det virker som vi har truffet en nerve, både i markedet og i bransjen. Mange kjenner seg igjen i det vi peker på.",
       "published": "2025-12-15T09:34:11Z"
-    },
-    {
-      "id": "3a405d4491d947e94616336f93efefd120b9d0a4",
-      "title": "Går fra store IT-miljøer til lite konsulent­selskap",
-      "link": "https://www.kode24.no/artikkel/gar-fra-store-it-miljoer-til-lite-konsulentselskap/251856",
-      "source": "Kode24",
-      "summary": "Erik Tokheim ønsket mer ansvar og mindre avstand mellom det han koder og beslutningenene som tas. Nå blir han konsulent i Yne.",
-      "published": "2025-12-15T08:36:32Z"
-    },
-    {
-      "id": "d86862bc447cebd7991e72ec3a9e93549a1c5abc",
-      "title": "UX-bransjen har snudd: «Brutalt»",
-      "link": "https://www.kode24.no/artikkel/ux-bransjen-har-snudd-brutalt/251556",
-      "source": "Kode24",
-      "summary": "UX-stillinger mottar hundrevis av søknader. Etter 15 år sier Tone Nordbø at bransjen har snudd, mens Julie Amalie Aga får bekymrede meldinger fra studenter.",
-      "published": "2025-12-15T04:00:00Z"
-    },
-    {
-      "id": "c4a132a1e677607c6055fca20706d8ae04b4ee2f",
-      "title": "CSS Wrapped 2025: «Stilig!»",
-      "link": "https://www.kode24.no/artikkel/css-wrapped-2025-stilig/251795",
-      "source": "Kode24",
-      "summary": "Alt det nye i CSS, masse Star Wars, silkemyk 3D i nettleseren og ny norsk humor, i ukas Lørdagsgodt.",
-      "published": "2025-12-13T04:00:00Z"
     },
     {
       "id": "c2ab57adab6c32164fba564508255e00b3fed8cc",
