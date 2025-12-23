@@ -1,6 +1,55 @@
 {
-  "generated_at": "2025-12-22T06:40:07.843132Z",
+  "generated_at": "2025-12-23T06:39:46.042130Z",
   "items": [
+    {
+      "id": "74938d05562db28c6bde876dd8bc5eb3cb9d7325",
+      "title": "Sånn klatret han på App Store: «Nerve­pirrende»",
+      "link": "https://www.kode24.no/artikkel/sann-klatret-han-pa-app-store-nervepirrende/252378",
+      "source": "Kode24",
+      "summary": "– Ikke undervurder lokal støtte, skriver Rainbow Puzzle-utvikler Johan Can om å hevde seg på topplistene.",
+      "published": "2025-12-23T04:00:00Z"
+    },
+    {
+      "id": "f2c978892858da7b167cc564c4c065ae1646eb05",
+      "title": "5 podcast episodes to help you build with confidence in 2026",
+      "link": "https://github.blog/open-source/maintainers/5-podcast-episodes-to-help-you-build-with-confidence-in-2026/",
+      "source": "GitHub Blog",
+      "summary": "Looking ahead to the New Year? These GitHub Podcast episodes help you cut through the noise and build with more confidence across AI, open source, and developer tools. The post 5 podcast episodes to help you build with confidence in 2026 appeared first on The GitHub Blog.",
+      "published": "2025-12-23T00:15:00Z"
+    },
+    {
+      "id": "2955319f658ca098278cca5f74a95dfcc9da3228",
+      "title": "This year’s most influential open source projects",
+      "link": "https://github.blog/open-source/maintainers/this-years-most-influential-open-source-projects/",
+      "source": "GitHub Blog",
+      "summary": "From Appwrite to Zulip, Universe 2025’s Open Source Zone was stacked with standout projects showing just how far open source can go. Meet the maintainers—and if you want to join them in 2026, you can now apply for next year’s cohort. The post This year’s most influential open source projects...",
+      "published": "2025-12-22T23:48:52Z",
+      "image": "https://github.blog/wp-content/uploads/2025/12/appwrite.png?resize=1024%2C550"
+    },
+    {
+      "id": "d0c41a9585e3947349a574a2ebd782a8902804fa",
+      "title": "Denne må du aldri bruke på nettsidene dine",
+      "link": "https://www.kode24.no/artikkel/denne-ma-du-aldri-bruke-pa-nettsidene-dine/252449",
+      "source": "Kode24",
+      "summary": "Nettavisen gikk på en smell da de brukte riksvåpenet på nettsiden deres. Den kan ikke brukes kommersielt – og ble fjernet.",
+      "published": "2025-12-22T11:49:07Z"
+    },
+    {
+      "id": "b00febaa68bd6333f410581a029704ed0d4a17ec",
+      "title": "Mister pris etter KI-generert innhold",
+      "link": "https://www.kode24.no/artikkel/mister-pris-etter-ki-generert-innhold/252414",
+      "source": "Kode24",
+      "summary": "Clair Obscur: Expedition 33 var egentlig årets beste indie-spill, men det var inntil juryen fikk høre om KI-genererte teksturer.",
+      "published": "2025-12-22T09:59:21Z"
+    },
+    {
+      "id": "667c8a4bcb150b9fdf645ac2e5972257111a07f8",
+      "title": "Betaler 45 millioner kroner i året for å trene modell på innholdet",
+      "link": "https://www.kode24.no/artikkel/betaler-45-millioner-kroner-i-aret-for-a-trene-modell-pa-innholdet/252416",
+      "source": "Kode24",
+      "summary": "Nasjonalbiblioteket skal lage språkmodeller som er trent på avisinnhold. Kostnaden er på 45 millioner kroner per år.",
+      "published": "2025-12-22T08:44:24Z"
+    },
     {
       "id": "6d93b5e664dd897767b6c478bb7d814b9e631dd8",
       "title": "Utvikler systemet inhouse – vil ikke ha det på anbud",
@@ -130,38 +179,6 @@
       "published": "2025-12-16T10:09:49Z"
     },
     {
-      "id": "44262f3d541557c6704248bcd435853c75278761",
-      "title": "Færre tar bachelor, flere tar master",
-      "link": "https://www.kode24.no/artikkel/faerre-tar-bachelor-flere-tar-master/252041",
-      "source": "Kode24",
-      "summary": "Og totalt møtte færre opp til sine IT-studier i år enn i fjor. Direktoratet mener det er udramatisk – med mindre det fortsetter.",
-      "published": "2025-12-16T08:28:14Z"
-    },
-    {
-      "id": "310464f7afbe7fde543e6a37af62d7ea392095d7",
-      "title": "Regjeringens KI-utvalg slår alarm: Vil skrote hjemmeeksamen",
-      "link": "https://www.kode24.no/artikkel/regjeringens-ki-utvalg-slar-alarm-vil-skrote-hjemmeeksamen/252027",
-      "source": "Kode24",
-      "summary": "Regjeringen sitt KI-utvalg mener det må bli slutt på hjemmeeksamen fordi det er vanskelig å kontrollere hvem som faktisk har skrevet oppgaven.",
-      "published": "2025-12-16T07:32:12Z"
-    },
-    {
-      "id": "41ab7b01b4f07f07fd0a71977965e23a21e78f77",
-      "title": "kode24-prisen 2025: Stem fram dine favoritter!",
-      "link": "https://www.kode24.no/artikkel/kode24-prisen-2025-stem-fram-dine-favoritter/251582",
-      "source": "Kode24",
-      "summary": "Vi oppsummerer 2025 ved å trekke fram årets viktigste historier, trender og folk. Men hvem som vinner, er opp til deg.",
-      "published": "2025-12-16T04:00:00Z"
-    },
-    {
-      "id": "097ca61f120baf2fa8ae4f6e0e3257a4b235a481",
-      "title": "Homi-gründeren bruker «helt sykt mye» KI",
-      "link": "https://www.kode24.no/artikkel/homi-grunderen-bruker-helt-sykt-mye-ki/251810",
-      "source": "Kode24",
-      "summary": "– Det er lett å drukne i muligheter, sier solo-utvikler, Homi-gründer og Ukas Koder Kristian Elset Bø, som lager «Pinterest for boligannonser» med «helt sykt mye» hjelp fra KI.",
-      "published": "2025-12-15T12:13:13Z"
-    },
-    {
       "id": "c2ab57adab6c32164fba564508255e00b3fed8cc",
       "title": "The future of AI-powered software optimization (and how it can help your team)",
       "link": "https://github.blog/news-insights/policy-news-and-insights/the-future-of-ai-powered-software-optimization-and-how-it-can-help-your-team/",
@@ -227,23 +244,6 @@
       "summary": "Use partner-built Copilot agents to debug, secure, and automate engineering workflows across your terminal, editor, and github.com. The post Your stack, your rules: Introducing custom agents in GitHub Copilot for observability, IaC, and security appeared first on The GitHub Blog.",
       "published": "2025-12-03T17:00:45Z",
       "image": "https://github.blog/wp-content/uploads/2025/12/Copy-of-Cover-MCP-Agent-10s-Demo.gif?resize=1024%2C576"
-    },
-    {
-      "id": "c374be7affee48e235c71a59b47ba54d822f077a",
-      "title": "“The local-first rebellion”: How Home Assistant became the most important project in your house",
-      "link": "https://github.blog/open-source/maintainers/the-local-first-rebellion-how-home-assistant-became-the-most-important-project-in-your-house/",
-      "source": "GitHub Blog",
-      "summary": "Learn how one of GitHub’s fastest-growing open source projects is redefining smart homes without the cloud. The post “The local-first rebellion”: How Home Assistant became the most important project in your house appeared first on The GitHub Blog.",
-      "published": "2025-12-02T17:19:32Z",
-      "image": "https://github.blog/wp-content/uploads/2025/10/octoverse-2025-fastest-growing-open-source-projects-by-contributors.png?resize=1024%2C576"
-    },
-    {
-      "id": "233c458b86ac5911b7d1a7e34b7def2f368b77e1",
-      "title": "How to orchestrate agents using mission control",
-      "link": "https://github.blog/ai-and-ml/github-copilot/how-to-orchestrate-agents-using-mission-control/",
-      "source": "GitHub Blog",
-      "summary": "Run multiple Copilot agents from one place. Learn prompt techniques, how to spot drift early, and how to review agent work efficiently. The post How to orchestrate agents using mission control appeared first on The GitHub Blog.",
-      "published": "2025-12-01T17:00:00Z"
     },
     {
       "id": "0ea1e6845fb72fccd664b752f5ee51bd9c6de569",
