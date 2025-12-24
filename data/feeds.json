@@ -1,6 +1,46 @@
 {
-  "generated_at": "2025-12-23T06:39:46.042130Z",
+  "generated_at": "2025-12-24T06:39:18.973418Z",
   "items": [
+    {
+      "id": "8be8d6041131db507ca1f10a8a104980d14e4c36",
+      "title": "TailwindSQL: – Bruk det til hva du vil, men ikke produksjon",
+      "link": "https://www.kode24.no/artikkel/tailwindsql-bruk-det-til-hva-du-vil-men-ikke-produksjon/252665",
+      "source": "Kode24",
+      "summary": "Julegavetips til kodebasen din, Next.js 16.1 og TailwindSQL, i ukas ForrigeUke.",
+      "published": "2025-12-24T04:00:00Z"
+    },
+    {
+      "id": "b196f416a92754bbdddd89393382db55de9d8f79",
+      "title": "Strengthening supply chain security: Preparing for the next malware campaign",
+      "link": "https://github.blog/security/supply-chain-security/strengthening-supply-chain-security-preparing-for-the-next-malware-campaign/",
+      "source": "GitHub Blog",
+      "summary": "Security advice for users and maintainers to help reduce the impact of the next supply chain malware attack. The post Strengthening supply chain security: Preparing for the next malware campaign appeared first on The GitHub Blog.",
+      "published": "2025-12-23T23:52:08Z"
+    },
+    {
+      "id": "bd66db53ad5e1ea8f9c14b1aeb004ebca325166a",
+      "title": "Apotekenes IT-system gikk ned for tredje gang på kort tid",
+      "link": "https://www.kode24.no/artikkel/apotekenes-it-system-gikk-ned-for-tredje-gang-pa-kort-tid/252598",
+      "source": "Kode24",
+      "summary": "IT-systemene til Apotekforeningen svikter gang på gang, men selskapet vil ikke kommentere hendelsene.",
+      "published": "2025-12-23T13:36:21Z"
+    },
+    {
+      "id": "58ef5a431fe2fce0fcfa272f4b58c76001c59f7b",
+      "title": "Microsoft skroter all C og C++ for Rust",
+      "link": "https://www.kode24.no/artikkel/microsoft-skroter-all-c-og-c-for-rust/252602",
+      "source": "Kode24",
+      "summary": "Håper KI lar én Microsoft-utvikler skrive om én millioner linjer kode på én måned.",
+      "published": "2025-12-23T09:02:39Z"
+    },
+    {
+      "id": "fa48cc0d62cb4b08b1e7289181c3820fc064aaed",
+      "title": "Hackere stjal 86 millioner låter fra Spotify",
+      "link": "https://www.kode24.no/artikkel/hackere-stjal-86-millioner-later-fra-spotify/252573",
+      "source": "Kode24",
+      "summary": "Sier de vil gjøre dem tilgjengelig for alle.",
+      "published": "2025-12-23T07:30:05Z"
+    },
     {
       "id": "74938d05562db28c6bde876dd8bc5eb3cb9d7325",
       "title": "Sånn klatret han på App Store: «Nerve­pirrende»",
@@ -147,38 +187,6 @@
       "published": "2025-12-17T09:14:40Z"
     },
     {
-      "id": "39b26b12c74daa44e7d939bcf9cabcf1d0095f03",
-      "title": "Loop Academy vant mot Manpower Group",
-      "link": "https://www.kode24.no/artikkel/loop-academy-vant-mot-manpower-group/252138",
-      "source": "Kode24",
-      "summary": "Marius Jansen ble saksøkt for 6,2 millioner kroner over sin tidligere rolle i Experis Academy, men retten mener han ikke har gjort noe galt. Motparten står fortsatt på sitt.",
-      "published": "2025-12-17T08:14:59Z"
-    },
-    {
-      "id": "c59a3a73179e1576f793631a539050992ec0a488",
-      "title": "Kartverkets søkertall har eksplodert",
-      "link": "https://www.kode24.no/artikkel/kartverkets-sokertall-har-eksplodert/251617",
-      "source": "Kode24",
-      "summary": "Søkere til utviklerjobber i Kartverket har femdoblet seg på fem år. – Noe av det ligger i at konsulentselskapene tar inn færre om dagen.",
-      "published": "2025-12-17T04:00:00Z"
-    },
-    {
-      "id": "58717699f54cbec5e3819965ca1764b6cc43fbc0",
-      "title": "Ny rekord: Over 1,1 millioner sjekket skattekortet",
-      "link": "https://www.kode24.no/artikkel/ny-rekord-over-11-millioner-sjekket-skattekortet/252061",
-      "source": "Kode24",
-      "summary": "Skattelotteriet til regjeringen førte til rekordtall på Skatteetaten.no tirsdag. Løsningen ble blant annet en kø.",
-      "published": "2025-12-16T13:18:04Z"
-    },
-    {
-      "id": "4975697ffc9ccfdf78cec7a3f986d38f1825689a",
-      "title": "UU-tilsynet testa 250 nettsider – bare 9 fikk full pott",
-      "link": "https://www.kode24.no/artikkel/uu-tilsynet-testa-250-nettsider-bare-9-fikk-full-pott/252063",
-      "source": "Kode24",
-      "summary": "Men heldigvis for de fleste, fører ikke den nye kontrollen til reaksjoner.",
-      "published": "2025-12-16T10:09:49Z"
-    },
-    {
       "id": "c2ab57adab6c32164fba564508255e00b3fed8cc",
       "title": "The future of AI-powered software optimization (and how it can help your team)",
       "link": "https://github.blog/news-insights/policy-news-and-insights/the-future-of-ai-powered-software-optimization-and-how-it-can-help-your-team/",
@@ -235,15 +243,6 @@
       "source": "GitHub Blog",
       "summary": "Follow this step-by-step guide to learn how to debug your issues using GitHub Copilot Spaces and Copilot coding agent. The post How to use GitHub Copilot Spaces to debug issues faster appeared first on The GitHub Blog.",
       "published": "2025-12-04T20:35:36Z"
-    },
-    {
-      "id": "0477a6d786a65bf68c5660b1008befbae2b3362c",
-      "title": "Your stack, your rules: Introducing custom agents in GitHub Copilot for observability, IaC, and security",
-      "link": "https://github.blog/news-insights/product-news/your-stack-your-rules-introducing-custom-agents-in-github-copilot-for-observability-iac-and-security/",
-      "source": "GitHub Blog",
-      "summary": "Use partner-built Copilot agents to debug, secure, and automate engineering workflows across your terminal, editor, and github.com. The post Your stack, your rules: Introducing custom agents in GitHub Copilot for observability, IaC, and security appeared first on The GitHub Blog.",
-      "published": "2025-12-03T17:00:45Z",
-      "image": "https://github.blog/wp-content/uploads/2025/12/Copy-of-Cover-MCP-Agent-10s-Demo.gif?resize=1024%2C576"
     },
     {
       "id": "0ea1e6845fb72fccd664b752f5ee51bd9c6de569",
