@@ -1,6 +1,14 @@
 {
-  "generated_at": "2025-12-25T06:38:27.885352Z",
+  "generated_at": "2025-12-26T06:37:59.754616Z",
   "items": [
+    {
+      "id": "aa9404f2b8030b4f0dbb81f3933a524179c4c4fc",
+      "title": "Sånn lar TV 2 KI moderere kommentarer",
+      "link": "https://www.kode24.no/artikkel/sann-lar-tv-2-ki-moderere-kommentarer/252492",
+      "source": "Kode24",
+      "summary": "– Vi måtte utvikle vår egen løsning, skriver Artur Gosan, og forklarer hvordan.",
+      "published": "2025-12-26T04:00:00Z"
+    },
     {
       "id": "8be8d6041131db507ca1f10a8a104980d14e4c36",
       "title": "TailwindSQL: – Bruk det til hva du vil, men ikke produksjon",
@@ -177,14 +185,6 @@
       "source": "Kode24",
       "summary": "Leder i NITO Studentene, Sofie Strøm Olsen, støtter tiltak mot KI-juks. – Men skal man mestre naturvitenskapene, så trenger man praktisk erfaring.",
       "published": "2025-12-17T10:15:00Z"
-    },
-    {
-      "id": "1172455feb9808b29f03078ec407b5a12ab5a2c0",
-      "title": "Firefox skal bli en KI-nettleser, lover den nye sjefen",
-      "link": "https://www.kode24.no/artikkel/firefox-skal-bli-en-ki-nettleser-lover-den-nye-sjefen/252167",
-      "source": "Kode24",
-      "summary": "Men det faller i dårlig jord hos brukerne. – Vi bruker Firefox fordi den ikke har all denne søpla.",
-      "published": "2025-12-17T09:14:40Z"
     },
     {
       "id": "c2ab57adab6c32164fba564508255e00b3fed8cc",
