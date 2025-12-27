@@ -1,6 +1,14 @@
 {
-  "generated_at": "2025-12-26T06:37:59.754616Z",
+  "generated_at": "2025-12-27T06:36:30.100901Z",
   "items": [
+    {
+      "id": "90f08f4a9faa18ebf1c0b92fdf1d332de2e28f8c",
+      "title": "WRAP up your backlog with GitHub Copilot coding agent",
+      "link": "https://github.blog/ai-and-ml/github-copilot/wrap-up-your-backlog-with-github-copilot-coding-agent/",
+      "source": "GitHub Blog",
+      "summary": "An easy-to-remember acronym, WRAP will help you write effective issues, refine your instructions, and get the most out of Copilot coding agent. The post WRAP up your backlog with GitHub Copilot coding agent appeared first on The GitHub Blog.",
+      "published": "2025-12-26T17:56:38Z"
+    },
     {
       "id": "aa9404f2b8030b4f0dbb81f3933a524179c4c4fc",
       "title": "Sånn lar TV 2 KI moderere kommentarer",
@@ -235,14 +243,6 @@
       "summary": "Discover how advanced AI users are redefining software development—shifting from code producers to strategic orchestrators—through delegation, verification, and a new era of AI-fluent engineering. The post The new identity of a developer: What changes and what doesn’t in the AI era appeared first...",
       "published": "2025-12-08T18:15:17Z",
       "image": "https://github.blog/wp-content/uploads/2025/12/ai-fluency-stages-1-2.png?resize=1024%2C576"
-    },
-    {
-      "id": "b2a5999f830aea4d093815741a41adfde4b78a57",
-      "title": "How to use GitHub Copilot Spaces to debug issues faster",
-      "link": "https://github.blog/ai-and-ml/github-copilot/how-to-use-github-copilot-spaces-to-debug-issues-faster/",
-      "source": "GitHub Blog",
-      "summary": "Follow this step-by-step guide to learn how to debug your issues using GitHub Copilot Spaces and Copilot coding agent. The post How to use GitHub Copilot Spaces to debug issues faster appeared first on The GitHub Blog.",
-      "published": "2025-12-04T20:35:36Z"
     },
     {
       "id": "0ea1e6845fb72fccd664b752f5ee51bd9c6de569",
