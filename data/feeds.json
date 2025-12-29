@@ -1,6 +1,14 @@
 {
-  "generated_at": "2025-12-28T06:36:41.026891Z",
+  "generated_at": "2025-12-29T06:41:01.552941Z",
   "items": [
+    {
+      "id": "dc6aa0f8dab8d8e2bfc0e208ae505896cdb9da61",
+      "title": "Årets Historie 2025: Pakkeboks-hackerne håper du har lærte noe",
+      "link": "https://www.kode24.no/artikkel/arets-historie-2025-pakkeboks-hackerne-haper-du-har-laerte-noe/252639",
+      "source": "Kode24",
+      "summary": "– Håpet vårt er at bransjen nå har lært at man ikke skal bruke RSA-512, sier UnblvR og zup, som fortsatt vil være anonyme.",
+      "published": "2025-12-29T04:00:00Z"
+    },
     {
       "id": "90f08f4a9faa18ebf1c0b92fdf1d332de2e28f8c",
       "title": "WRAP up your backlog with GitHub Copilot coding agent",
@@ -185,14 +193,6 @@
       "source": "Kode24",
       "summary": "– Hvis en kandidat blir valgt bort uten at et menneske faktisk vurderer dem, kan det være ulovlig, advarer Ina Cabanillas Hansen.",
       "published": "2025-12-17T12:20:52Z"
-    },
-    {
-      "id": "c889905ad141c546d2a5c078a41735153570a6a8",
-      "title": "NITO Studentene advarer mot å skjerme studenter fra KI",
-      "link": "https://www.kode24.no/artikkel/nito-studentene-advarer-mot-a-skjerme-studenter-fra-ki/252147",
-      "source": "Kode24",
-      "summary": "Leder i NITO Studentene, Sofie Strøm Olsen, støtter tiltak mot KI-juks. – Men skal man mestre naturvitenskapene, så trenger man praktisk erfaring.",
-      "published": "2025-12-17T10:15:00Z"
     },
     {
       "id": "c2ab57adab6c32164fba564508255e00b3fed8cc",
