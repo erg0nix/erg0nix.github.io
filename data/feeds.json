@@ -1,6 +1,39 @@
 {
-  "generated_at": "2025-12-29T06:41:01.552941Z",
+  "generated_at": "2025-12-30T06:38:28.132347Z",
   "items": [
+    {
+      "id": "6eb9c322cd3074011f5ef2ea49f09be649015fd6",
+      "title": "Bugs that survive the heat of continuous fuzzing",
+      "link": "https://github.blog/security/vulnerability-research/bugs-that-survive-the-heat-of-continuous-fuzzing/",
+      "source": "GitHub Blog",
+      "summary": "Learn why some long-enrolled OSS-Fuzz projects still contain vulnerabilities and how you can find them. The post Bugs that survive the heat of continuous fuzzing appeared first on The GitHub Blog.",
+      "published": "2025-12-29T22:01:14Z",
+      "image": "https://github.blog/wp-content/uploads/2025/12/fuzz1.png?resize=1024%2C425"
+    },
+    {
+      "id": "800601def63cbee00145895d733e3e43cbace0fb",
+      "title": "Smartklokke-selskap får kritikk",
+      "link": "https://www.kode24.no/artikkel/smartklokke-selskap-far-kritikk/252728",
+      "source": "Kode24",
+      "summary": "Norske Xplora får kritikk for smartklokkene sine, skriver NRK. Alle klokkene av typen Xplora X6Play generasjon 1, bruker samme sikkerhetsnøkkel, opplyser forsker.",
+      "published": "2025-12-29T14:51:35Z"
+    },
+    {
+      "id": "b3cb3cc9fa7c884f90f142fbdad031c054fa6ce2",
+      "title": "Ser at folk plages av stress på jobb: – Prioriter mental helse",
+      "link": "https://www.kode24.no/artikkel/ser-at-folk-plages-av-stress-pa-jobb-prioriter-mental-helse-1/252707",
+      "source": "Kode24",
+      "summary": "Endre Ulberg jobber som utvikler og ser det er mange rundt han som er hardt plaget av jobbrelatert stress. – Det er lett å ende opp med å tilpasse hele livet sitt til jobben.",
+      "published": "2025-12-29T09:27:41Z"
+    },
+    {
+      "id": "6dba2ef50ea14b3d18f9767d4b69d1b0a9f5353f",
+      "title": "Bokbransjen er bekymret for KI-bruk hos forlag",
+      "link": "https://www.kode24.no/artikkel/bokbransjen-er-bekymret-for-ki-bruk-hos-forlag/252691",
+      "source": "Kode24",
+      "summary": "Flere norske forlag bekrefter at de har begynt å bruke kunstig intelligens (KI) i utgivelsen av bøker. Bokbransjen er bekymret for utviklingen.",
+      "published": "2025-12-29T07:38:00Z"
+    },
     {
       "id": "dc6aa0f8dab8d8e2bfc0e208ae505896cdb9da61",
       "title": "Årets Historie 2025: Pakkeboks-hackerne håper du har lærte noe",
@@ -171,30 +204,6 @@
       "published": "2025-12-18T10:20:14Z"
     },
     {
-      "id": "7121a290b5e77dd57ab0919ad494b2cc19cf6d10",
-      "title": "Ny visuell editor i Cursor: – Noen mener jobbene våre er i fare",
-      "link": "https://www.kode24.no/artikkel/ny-visuell-editor-i-cursor-noen-mener-jobbene-vare-er-i-fare/252188",
-      "source": "Kode24",
-      "summary": "Mer design i Cursor, mer KI i VS Code og enda flere hull i React, i ukas ForrigeUke.",
-      "published": "2025-12-18T09:23:29Z"
-    },
-    {
-      "id": "c56e68832a0ea3637d24c55612be9ac4a8279d18",
-      "title": "100 prosent KI-generert kode? Ja, hvis du tåler å gjøre forarbeidet!",
-      "link": "https://www.kode24.no/artikkel/100-prosent-ki-generert-kode-ja-hvis-du-taler-a-gjore-forarbeidet/252209",
-      "source": "Kode24",
-      "summary": "– Vi tror vi er på vei inn i en hverdag der det blir uvanlig å skrive all kode for hånd, skriver Håkon Roald og Julie Krøgenes i Avo Consulting. Sånn gjør de spesifikasjonsdrevet utvikling med KI.",
-      "published": "2025-12-18T04:00:00Z"
-    },
-    {
-      "id": "ce5e0277c4738156091c90240ae19309eb9a1174",
-      "title": "Kaller KI til rekruttering et «HR-mareritt»",
-      "link": "https://www.kode24.no/artikkel/kaller-ki-til-rekruttering-et-hr-mareritt/252094",
-      "source": "Kode24",
-      "summary": "– Hvis en kandidat blir valgt bort uten at et menneske faktisk vurderer dem, kan det være ulovlig, advarer Ina Cabanillas Hansen.",
-      "published": "2025-12-17T12:20:52Z"
-    },
-    {
       "id": "c2ab57adab6c32164fba564508255e00b3fed8cc",
       "title": "The future of AI-powered software optimization (and how it can help your team)",
       "link": "https://github.blog/news-insights/policy-news-and-insights/the-future-of-ai-powered-software-optimization-and-how-it-can-help-your-team/",
@@ -234,15 +243,6 @@
       "source": "GitHub Blog",
       "summary": "AI can help you build faster than ever, but it can also produce bugs, issues, and problems. Use these strategies to keep your speed without losing control of your code. The post Speed is nothing without control: How to keep quality high in the AI era appeared first on The GitHub Blog.",
       "published": "2025-12-09T17:00:00Z"
-    },
-    {
-      "id": "3863f8e4d8ca639405fc7f8edfbce921fd8f0fa2",
-      "title": "The new identity of a developer: What changes and what doesn’t in the AI era",
-      "link": "https://github.blog/news-insights/octoverse/the-new-identity-of-a-developer-what-changes-and-what-doesnt-in-the-ai-era/",
-      "source": "GitHub Blog",
-      "summary": "Discover how advanced AI users are redefining software development—shifting from code producers to strategic orchestrators—through delegation, verification, and a new era of AI-fluent engineering. The post The new identity of a developer: What changes and what doesn’t in the AI era appeared first...",
-      "published": "2025-12-08T18:15:17Z",
-      "image": "https://github.blog/wp-content/uploads/2025/12/ai-fluency-stages-1-2.png?resize=1024%2C576"
     },
     {
       "id": "0ea1e6845fb72fccd664b752f5ee51bd9c6de569",
