@@ -1,6 +1,46 @@
 {
-  "generated_at": "2025-12-30T06:38:28.132347Z",
+  "generated_at": "2025-12-31T06:38:46.885100Z",
   "items": [
+    {
+      "id": "ae35dab9991d9a9a435ea0e2befc17756bc18682",
+      "title": "kode24s mest leste saker i 2025",
+      "link": "https://www.kode24.no/artikkel/kode24s-mest-leste-saker-i-2025/252480",
+      "source": "Kode24",
+      "summary": "Norske utviklere var aller mest interessert i artikler rundt arbeidsmarked og KI i året som gikk.",
+      "published": "2025-12-31T04:00:00Z"
+    },
+    {
+      "id": "e11a92c7a33b6633ea8d1d11370644f0159367d7",
+      "title": "Agentic AI, MCP, and spec-driven development: Top blog posts of 2025",
+      "link": "https://github.blog/developer-skills/agentic-ai-mcp-and-spec-driven-development-top-blog-posts-of-2025/",
+      "source": "GitHub Blog",
+      "summary": "Explore the GitHub Blog’s top posts covering the biggest software development topics of the year. The post Agentic AI, MCP, and spec-driven development: Top blog posts of 2025 appeared first on The GitHub Blog.",
+      "published": "2025-12-30T17:20:10Z"
+    },
+    {
+      "id": "05c03658271a6016074f91ef7a7ecf80b49c8e88",
+      "title": "OpenAI ansetter beredskapssjef – skal ha fokus på psykisk helse",
+      "link": "https://www.kode24.no/artikkel/openai-ansetter-beredskapssjef-skal-ha-fokus-pa-psykisk-helse/252776",
+      "source": "Kode24",
+      "summary": "Daglig leder i OpenAI, Sam Altman, ansetter ny beredskapssjef i OpenAI. Vedkommende skal ha ansvar for spørsmål knyttet til psykisk helse og KI-sikkerhet.",
+      "published": "2025-12-30T10:49:23Z"
+    },
+    {
+      "id": "71df6965b751776916a9d1f7ebbb65a6710c6648",
+      "title": "Mener frykt for kunstig intelligens er unødvendig",
+      "link": "https://www.kode24.no/artikkel/mener-frykt-for-kunstig-intelligens-er-unodvendig/252760",
+      "source": "Kode24",
+      "summary": "Unge er mer bekymret for fremtiden enn før, viser den ferske Ung-undersøkelsen til Opinion. Toppsjefene i DNB og NHO mener man må snu på situasjonen.",
+      "published": "2025-12-30T08:37:30Z"
+    },
+    {
+      "id": "b39f184b8013ee79b7b3ffa0a2e91937f252ebf1",
+      "title": "Meta kjøper KI-startup",
+      "link": "https://www.kode24.no/artikkel/meta-kjoper-ki-startup/252742",
+      "source": "Kode24",
+      "summary": "Meta, som også eier Facebook, kjøper KI-startupen Manus i en avtale verdt mer enn 2 milliarder dollar.",
+      "published": "2025-12-30T07:32:24Z"
+    },
     {
       "id": "6eb9c322cd3074011f5ef2ea49f09be649015fd6",
       "title": "Bugs that survive the heat of continuous fuzzing",
@@ -172,38 +212,6 @@
       "published": "2025-12-19T10:11:26Z"
     },
     {
-      "id": "6160c6adcf1a19a2050b364fd74b1d28d65f6aac",
-      "title": "GitHub snur: Ville ta betalt for Actions på din egen maskin",
-      "link": "https://www.kode24.no/artikkel/github-snur-ville-ta-betalt-for-actions-pa-din-egen-maskin/252336",
-      "source": "Kode24",
-      "summary": "– Vi bomma på endringene, innrømmer GitHub, etter å ha fått nettet mot seg.",
-      "published": "2025-12-19T08:51:06Z"
-    },
-    {
-      "id": "478511a696e43ea648e09a71175e4778ffa24b05",
-      "title": "Oljefondet-sjefen sier at KI-skeptikere sparkes: «Sinnssykt»",
-      "link": "https://www.kode24.no/artikkel/oljefondet-sjefen-sier-at-ki-skeptikere-sparkes-sinnssykt/252265",
-      "source": "Kode24",
-      "summary": "– Jeg synes oppriktig synd på norske utviklere akkurat nå, skriver Ole Petter i ukas nyhetsbrev, etter å ha lest hva Nicolai Tangen har lært fra USA.",
-      "published": "2025-12-18T23:00:00Z"
-    },
-    {
-      "id": "b061ffdbc4cc66ce067c77cdec77faaa89ccc887",
-      "title": "Nå er ChatGPT-appene her",
-      "link": "https://www.kode24.no/artikkel/na-er-chatgpt-appene-her/252255",
-      "source": "Kode24",
-      "summary": "Utviklere kan nå sende inn apper for gjennomgang og publisering i ChatGPT, og du kan bruke de andre har laget.",
-      "published": "2025-12-18T13:09:46Z"
-    },
-    {
-      "id": "5a2886284ab7b4dee52c6c3d003232f0fd7afeaa",
-      "title": "Nav fikk 489 søkere på én junior-utlysning",
-      "link": "https://www.kode24.no/artikkel/nav-fikk-489-sokere-pa-en-junior-utlysning/251771",
-      "source": "Kode24",
-      "summary": "De siste årene har de fått tre ganger så mange søkere per stilling. Men selv mener de arbeidsledigheten er lav.",
-      "published": "2025-12-18T10:20:14Z"
-    },
-    {
       "id": "c2ab57adab6c32164fba564508255e00b3fed8cc",
       "title": "The future of AI-powered software optimization (and how it can help your team)",
       "link": "https://github.blog/news-insights/policy-news-and-insights/the-future-of-ai-powered-software-optimization-and-how-it-can-help-your-team/",
@@ -235,14 +243,6 @@
       "source": "GitHub Blog",
       "summary": "MCP is moving to the Linux Foundation. Here's how that will affect developers. The post MCP joins the Linux Foundation: What this means for developers building the next era of AI tools and agents appeared first on The GitHub Blog.",
       "published": "2025-12-09T21:00:13Z"
-    },
-    {
-      "id": "ff34dcb02bd423539250e4673d807eb7280300d3",
-      "title": "Speed is nothing without control: How to keep quality high in the AI era",
-      "link": "https://github.blog/ai-and-ml/generative-ai/speed-is-nothing-without-control-how-to-keep-quality-high-in-the-ai-era/",
-      "source": "GitHub Blog",
-      "summary": "AI can help you build faster than ever, but it can also produce bugs, issues, and problems. Use these strategies to keep your speed without losing control of your code. The post Speed is nothing without control: How to keep quality high in the AI era appeared first on The GitHub Blog.",
-      "published": "2025-12-09T17:00:00Z"
     },
     {
       "id": "0ea1e6845fb72fccd664b752f5ee51bd9c6de569",
