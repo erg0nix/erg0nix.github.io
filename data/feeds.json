@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-01-02T06:39:06.845741Z",
+  "generated_at": "2026-01-03T06:36:49.781694Z",
   "items": [
+    {
+      "id": "5b814df581f5d7584cbfb606b32ceec470ddcf17",
+      "title": "Her er koden bak skatte­lotteriet",
+      "link": "https://www.kode24.no/artikkel/her-er-koden-bak-skattelotteriet/252839",
+      "source": "Kode24",
+      "summary": "Skattebingo i Python, hvor sinnssyke mikroprosessorer er, tulledebatt om KI og de feteste julegavene i 1989, i årets første Lørdagsgodt.",
+      "published": "2026-01-03T04:00:00Z"
+    },
+    {
+      "id": "3c4d076985cc6ef368fe62d26d4d9577039798eb",
+      "title": "Går ut mot DNB- og NHO-topper: – Jeg søkte 560 jobber",
+      "link": "https://www.kode24.no/artikkel/gar-ut-mot-dnb-og-nho-topper-jeg-sokte-560-jobber/252821",
+      "source": "Kode24",
+      "summary": "DNB- og NHO-sjefen mener unge ikke trenger å være så bekymra som de er, men Ina Cabanillas Hansen er uenig: – Vi er ikke negative. Vi er realistiske.",
+      "published": "2026-01-02T11:51:31Z"
+    },
+    {
+      "id": "5b37fd9b461b6aef09a850a1877844f39593b7a6",
+      "title": "Gir utviklere gratis snus på jobb",
+      "link": "https://www.kode24.no/artikkel/gir-utviklere-gratis-snus-pa-jobb/252807",
+      "source": "Kode24",
+      "summary": "Nikotinposene tar av i USA, og har inntatt kontorene i teknologibransjen.",
+      "published": "2026-01-02T09:51:30Z"
+    },
+    {
+      "id": "88adf07b358009a4f1dde5ce92b582ede9d2eefa",
+      "title": "Snapchat eksploderte i lomma på nordmenn nyttårsaften",
+      "link": "https://www.kode24.no/artikkel/snapchat-eksploderte-i-lomma-pa-nordmenn-nyttarsaften/252791",
+      "source": "Kode24",
+      "summary": "Selv om både SMS og MMS blir mye brukt, går stadig flere over.",
+      "published": "2026-01-02T08:04:27Z"
+    },
     {
       "id": "cdfda18a87acd63ec84dece2d15e33d671997b67",
       "title": "Jobbi er Årets Stemme 2025 – har store planer for 2026",
@@ -178,38 +210,6 @@
       "source": "Kode24",
       "summary": "Nettavisen gikk på en smell da de brukte riksvåpenet på nettsiden deres. Den kan ikke brukes kommersielt – og ble fjernet.",
       "published": "2025-12-22T11:49:07Z"
-    },
-    {
-      "id": "b00febaa68bd6333f410581a029704ed0d4a17ec",
-      "title": "Mister pris etter KI-generert innhold",
-      "link": "https://www.kode24.no/artikkel/mister-pris-etter-ki-generert-innhold/252414",
-      "source": "Kode24",
-      "summary": "Clair Obscur: Expedition 33 var egentlig årets beste indie-spill, men det var inntil juryen fikk høre om KI-genererte teksturer.",
-      "published": "2025-12-22T09:59:21Z"
-    },
-    {
-      "id": "667c8a4bcb150b9fdf645ac2e5972257111a07f8",
-      "title": "Betaler 45 millioner kroner i året for å trene modell på innholdet",
-      "link": "https://www.kode24.no/artikkel/betaler-45-millioner-kroner-i-aret-for-a-trene-modell-pa-innholdet/252416",
-      "source": "Kode24",
-      "summary": "Nasjonalbiblioteket skal lage språkmodeller som er trent på avisinnhold. Kostnaden er på 45 millioner kroner per år.",
-      "published": "2025-12-22T08:44:24Z"
-    },
-    {
-      "id": "6d93b5e664dd897767b6c478bb7d814b9e631dd8",
-      "title": "Utvikler systemet inhouse – vil ikke ha det på anbud",
-      "link": "https://www.kode24.no/artikkel/utvikler-systemet-inhouse-vil-ikke-ha-det-pa-anbud/252324",
-      "source": "Kode24",
-      "summary": "Norad utvikler det digitale systemet «GranMa» fra bunn av selv. – Best å ha kompetansen, sier digitaliseringsdirektøren.",
-      "published": "2025-12-22T04:00:00Z"
-    },
-    {
-      "id": "016940c84154eb72b8f8ce15194b5f1e77cdc842",
-      "title": "Årets julegave fra «ekte program­mering»-duoen",
-      "link": "https://www.kode24.no/artikkel/arets-julegave-fra-ekte-programmering-duoen/252384",
-      "source": "Kode24",
-      "summary": "Demo fra Ekte Programmering-forfatterne, Vivaldis KI-frie planer for 2026, Cloudflares oppsummering av året og dårlige appideer, i ukas Lørdagsgodt.",
-      "published": "2025-12-20T04:00:00Z"
     },
     {
       "id": "c2ab57adab6c32164fba564508255e00b3fed8cc",
