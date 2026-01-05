@@ -1,6 +1,14 @@
 {
-  "generated_at": "2026-01-04T06:37:20.462032Z",
+  "generated_at": "2026-01-05T06:45:03.260290Z",
   "items": [
+    {
+      "id": "40a60fe6b59250d39d6fa81a728aa26caf2fdec8",
+      "title": "Gir ut app, uten å kunne app-utvikling",
+      "link": "https://www.kode24.no/artikkel/gir-ut-app-uten-a-kunne-app-utvikling/252529",
+      "source": "Kode24",
+      "summary": "– Ville teste hvor langt man kommer med en kode-agent og en relativt erfaren utvikler bak rattet, skriver Kristoffer Giltvedt Selbekk om sin nye app Begavet.",
+      "published": "2026-01-05T04:00:00Z"
+    },
     {
       "id": "5b814df581f5d7584cbfb606b32ceec470ddcf17",
       "title": "Her er koden bak skatte­lotteriet",
@@ -202,14 +210,6 @@
       "summary": "From Appwrite to Zulip, Universe 2025’s Open Source Zone was stacked with standout projects showing just how far open source can go. Meet the maintainers—and if you want to join them in 2026, you can now apply for next year’s cohort. The post This year’s most influential open source projects...",
       "published": "2025-12-22T23:48:52Z",
       "image": "https://github.blog/wp-content/uploads/2025/12/appwrite.png?resize=1024%2C550"
-    },
-    {
-      "id": "d0c41a9585e3947349a574a2ebd782a8902804fa",
-      "title": "Denne må du aldri bruke på nettsidene dine",
-      "link": "https://www.kode24.no/artikkel/denne-ma-du-aldri-bruke-pa-nettsidene-dine/252449",
-      "source": "Kode24",
-      "summary": "Nettavisen gikk på en smell da de brukte riksvåpenet på nettsiden deres. Den kan ikke brukes kommersielt – og ble fjernet.",
-      "published": "2025-12-22T11:49:07Z"
     },
     {
       "id": "c2ab57adab6c32164fba564508255e00b3fed8cc",
