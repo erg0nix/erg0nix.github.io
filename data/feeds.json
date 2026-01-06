@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-01-05T06:45:03.260290Z",
+  "generated_at": "2026-01-06T06:40:16.156280Z",
   "items": [
+    {
+      "id": "9ef13e1213c1f292c77cf590967d7793947b9921",
+      "title": "– Studiene er ikke tilpasset behovene",
+      "link": "https://www.kode24.no/artikkel/studiene-er-ikke-tilpasset-behovene/252894",
+      "source": "Kode24",
+      "summary": "– AI kan utføre store deler av juniorjobbene, og seniorer som faktisk klarer å utnytte AI, sitter igjen som vinnerne, mener Ukas Koder Håkon Græsberg.",
+      "published": "2026-01-06T04:00:00Z"
+    },
+    {
+      "id": "2885a7ee7d0147dc612b6a611e6baa71928cc71f",
+      "title": "Datakontrakter: Sånn passer Norges Bank på dataene sine",
+      "link": "https://www.kode24.no/artikkel/datakontrakter-sann-passer-norges-bank-pa-dataene-sine/252804",
+      "source": "Kode24",
+      "summary": "– En av fordelene med datakontrakter er at de gir alle parter, utviklere og forretningsbrukere, et felles språk, skriver Vilde Almestad i Norges Bank.",
+      "published": "2026-01-05T14:21:19Z"
+    },
+    {
+      "id": "510ff917d3afcca0cc6aef5d4d638e7fed20d03b",
+      "title": "Keiserens nye KI-klær",
+      "link": "https://www.kode24.no/artikkel/keiserens-nye-ki-klaer/252882",
+      "source": "Kode24",
+      "summary": "Staten hevder å nærme seg målet på KI-bruk. – Men ser vi nærmere på hvilken teknologi som brukes og hvordan, begynner suksesshistorien å få sprekker, skriver Lisa Reutter Larsen.",
+      "published": "2026-01-05T09:14:51Z"
+    },
+    {
+      "id": "61e0241f833245ffb43dacc3932dc1a3732c272f",
+      "title": "Grok «kler av» mindreårige, Frankrike har fått nok",
+      "link": "https://www.kode24.no/artikkel/grok-kler-av-mindrearige-frankrike-har-fatt-nok/252865",
+      "source": "Kode24",
+      "summary": "Elon Muks KI-modell Grok skal kunne «kle av» personer på bilder som blir lagt ut på X. Flere franske minstre har nå meldt den inn til medietilsynet.",
+      "published": "2026-01-05T08:17:24Z"
+    },
     {
       "id": "40a60fe6b59250d39d6fa81a728aa26caf2fdec8",
       "title": "Gir ut app, uten å kunne app-utvikling",
@@ -161,38 +193,6 @@
       "source": "GitHub Blog",
       "summary": "Security advice for users and maintainers to help reduce the impact of the next supply chain malware attack. The post Strengthening supply chain security: Preparing for the next malware campaign appeared first on The GitHub Blog.",
       "published": "2025-12-23T23:52:08Z"
-    },
-    {
-      "id": "bd66db53ad5e1ea8f9c14b1aeb004ebca325166a",
-      "title": "Apotekenes IT-system gikk ned for tredje gang på kort tid",
-      "link": "https://www.kode24.no/artikkel/apotekenes-it-system-gikk-ned-for-tredje-gang-pa-kort-tid/252598",
-      "source": "Kode24",
-      "summary": "IT-systemene til Apotekforeningen svikter gang på gang, men selskapet vil ikke kommentere hendelsene.",
-      "published": "2025-12-23T13:36:21Z"
-    },
-    {
-      "id": "58ef5a431fe2fce0fcfa272f4b58c76001c59f7b",
-      "title": "Microsoft skroter all C og C++ for Rust",
-      "link": "https://www.kode24.no/artikkel/microsoft-skroter-all-c-og-c-for-rust/252602",
-      "source": "Kode24",
-      "summary": "Håper KI lar én Microsoft-utvikler skrive om én millioner linjer kode på én måned.",
-      "published": "2025-12-23T09:02:39Z"
-    },
-    {
-      "id": "fa48cc0d62cb4b08b1e7289181c3820fc064aaed",
-      "title": "Hackere stjal 86 millioner låter fra Spotify",
-      "link": "https://www.kode24.no/artikkel/hackere-stjal-86-millioner-later-fra-spotify/252573",
-      "source": "Kode24",
-      "summary": "Sier de vil gjøre dem tilgjengelig for alle.",
-      "published": "2025-12-23T07:30:05Z"
-    },
-    {
-      "id": "74938d05562db28c6bde876dd8bc5eb3cb9d7325",
-      "title": "Sånn klatret han på App Store: «Nerve­pirrende»",
-      "link": "https://www.kode24.no/artikkel/sann-klatret-han-pa-app-store-nervepirrende/252378",
-      "source": "Kode24",
-      "summary": "– Ikke undervurder lokal støtte, skriver Rainbow Puzzle-utvikler Johan Can om å hevde seg på topplistene.",
-      "published": "2025-12-23T04:00:00Z"
     },
     {
       "id": "f2c978892858da7b167cc564c4c065ae1646eb05",
