@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-01-06T06:40:16.156280Z",
+  "generated_at": "2026-01-07T06:39:38.347520Z",
   "items": [
+    {
+      "id": "4fa38e96a4adae42b5dd805d39a9b461cb465a9f",
+      "title": "Nytt år, nye verktøy: Her er Vemunds 3 tips",
+      "link": "https://www.kode24.no/artikkel/nytt-ar-nye-verktoy-her-er-vemunds-3-tips/253057",
+      "source": "Kode24",
+      "summary": "– Med en bedre digital stil kan du få økt produktivitet og irritere deg mindre over ting som burde være mulig i 2026, skriver Vemund M. Santi.",
+      "published": "2026-01-07T04:00:00Z"
+    },
+    {
+      "id": "a1540d5b1b99311f5a40162f073aadc6759d3444",
+      "title": "Vi lot KI rette WCAG-brudd og lærte hvorfor store språkmodeller ikke er nok",
+      "link": "https://www.kode24.no/artikkel/vi-lot-ki-rette-wcag-brudd-og-laerte-hvorfor-store-sprakmodeller-ikke-er-nok/253018",
+      "source": "Kode24",
+      "summary": "– De fleste språkmodeller er trent opp på store mengder nettsider som er fulle av feil, skriver UUstreak.no-skaper Tobias Andersen.",
+      "published": "2026-01-06T13:13:15Z"
+    },
+    {
+      "id": "9179b8917815096853b615ef3f2442e7ca78097f",
+      "title": "Truls går fra Sopra Steria til Sicra: – Vil lære av folk som er bedre enn meg",
+      "link": "https://www.kode24.no/artikkel/truls-gar-fra-sopra-steria-til-sicra-vil-laere-av-folk-som-er-bedre-enn-meg/253034",
+      "source": "Kode24",
+      "summary": "Truls Thorstad Dahlsveen er ny sikkerhetsarkitekt i Sicra.",
+      "published": "2026-01-06T11:57:45Z"
+    },
+    {
+      "id": "cb818baae26ec0dbebd812b1cfbb57a8c86834b8",
+      "title": "Advarer: Gratis-ChatGPT benekter angrep mot Venezuela",
+      "link": "https://www.kode24.no/artikkel/advarer-gratis-chatgpt-benekter-angrep-mot-venezuela/252937",
+      "source": "Kode24",
+      "summary": "Mens Pro-versjonen svarer noe helt annet. – Skal man lese seg opp på nyheter, så bør man bruke betalte versjoner, sier Tellef Solbakk Raabe.",
+      "published": "2026-01-06T10:41:19Z"
+    },
+    {
+      "id": "2ee4ecff4dde70a51b03b8bbf7d4945edd106519",
+      "title": "Stack Overflow stuper: 98% fall siden 2014",
+      "link": "https://www.kode24.no/artikkel/stack-overflow-stuper-98-fall-siden-2014/253004",
+      "source": "Kode24",
+      "summary": "– Folk er bare glade for å endelig ha et verktøy som ikke sier at spørsmålene deres er dumme.",
+      "published": "2026-01-06T09:05:49Z"
+    },
     {
       "id": "9ef13e1213c1f292c77cf590967d7793947b9921",
       "title": "– Studiene er ikke tilpasset behovene",
@@ -139,52 +179,12 @@
       "published": "2025-12-29T14:51:35Z"
     },
     {
-      "id": "b3cb3cc9fa7c884f90f142fbdad031c054fa6ce2",
-      "title": "Ser at folk plages av stress på jobb: – Prioriter mental helse",
-      "link": "https://www.kode24.no/artikkel/ser-at-folk-plages-av-stress-pa-jobb-prioriter-mental-helse-1/252707",
-      "source": "Kode24",
-      "summary": "Endre Ulberg jobber som utvikler og ser det er mange rundt han som er hardt plaget av jobbrelatert stress. – Det er lett å ende opp med å tilpasse hele livet sitt til jobben.",
-      "published": "2025-12-29T09:27:41Z"
-    },
-    {
-      "id": "6dba2ef50ea14b3d18f9767d4b69d1b0a9f5353f",
-      "title": "Bokbransjen er bekymret for KI-bruk hos forlag",
-      "link": "https://www.kode24.no/artikkel/bokbransjen-er-bekymret-for-ki-bruk-hos-forlag/252691",
-      "source": "Kode24",
-      "summary": "Flere norske forlag bekrefter at de har begynt å bruke kunstig intelligens (KI) i utgivelsen av bøker. Bokbransjen er bekymret for utviklingen.",
-      "published": "2025-12-29T07:38:00Z"
-    },
-    {
-      "id": "dc6aa0f8dab8d8e2bfc0e208ae505896cdb9da61",
-      "title": "Årets Historie 2025: Pakkeboks-hackerne håper du har lærte noe",
-      "link": "https://www.kode24.no/artikkel/arets-historie-2025-pakkeboks-hackerne-haper-du-har-laerte-noe/252639",
-      "source": "Kode24",
-      "summary": "– Håpet vårt er at bransjen nå har lært at man ikke skal bruke RSA-512, sier UnblvR og zup, som fortsatt vil være anonyme.",
-      "published": "2025-12-29T04:00:00Z"
-    },
-    {
       "id": "90f08f4a9faa18ebf1c0b92fdf1d332de2e28f8c",
       "title": "WRAP up your backlog with GitHub Copilot coding agent",
       "link": "https://github.blog/ai-and-ml/github-copilot/wrap-up-your-backlog-with-github-copilot-coding-agent/",
       "source": "GitHub Blog",
       "summary": "An easy-to-remember acronym, WRAP will help you write effective issues, refine your instructions, and get the most out of Copilot coding agent. The post WRAP up your backlog with GitHub Copilot coding agent appeared first on The GitHub Blog.",
       "published": "2025-12-26T17:56:38Z"
-    },
-    {
-      "id": "aa9404f2b8030b4f0dbb81f3933a524179c4c4fc",
-      "title": "Sånn lar TV 2 KI moderere kommentarer",
-      "link": "https://www.kode24.no/artikkel/sann-lar-tv-2-ki-moderere-kommentarer/252492",
-      "source": "Kode24",
-      "summary": "– Vi måtte utvikle vår egen løsning, skriver Artur Gosan, og forklarer hvordan.",
-      "published": "2025-12-26T04:00:00Z"
-    },
-    {
-      "id": "8be8d6041131db507ca1f10a8a104980d14e4c36",
-      "title": "TailwindSQL: – Bruk det til hva du vil, men ikke produksjon",
-      "link": "https://www.kode24.no/artikkel/tailwindsql-bruk-det-til-hva-du-vil-men-ikke-produksjon/252665",
-      "source": "Kode24",
-      "summary": "Julegavetips til kodebasen din, Next.js 16.1 og TailwindSQL, i ukas ForrigeUke.",
-      "published": "2025-12-24T04:00:00Z"
     },
     {
       "id": "b196f416a92754bbdddd89393382db55de9d8f79",
