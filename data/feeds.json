@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-01-07T06:39:38.347520Z",
+  "generated_at": "2026-01-08T06:39:58.579596Z",
   "items": [
+    {
+      "id": "d1c1e0c6de87770b3fe40f9d42789cd3b6ed4c7d",
+      "title": "Vil ha en egen KI-minister",
+      "link": "https://www.kode24.no/artikkel/vil-ha-en-egen-ki-minister/253106",
+      "source": "Kode24",
+      "summary": "Sander Helmers-Olsen mener Norge trenger en egen KI-minister. Men de nominerte har ikke lyst på jobben.",
+      "published": "2026-01-07T23:00:00Z"
+    },
+    {
+      "id": "777705fb34f27dac0ed08e8647a2c735273249ac",
+      "title": "– Imposter syndrome er helt normalt!",
+      "link": "https://www.kode24.no/artikkel/imposter-syndrome-er-helt-normalt/253159",
+      "source": "Kode24",
+      "summary": "Jenny Yu er Årets Koder, etter å ha snakka om følelsen av å ikke kunne alt. – Det som ofte kan holde igjen progresjon og effektivitet i team, er at folk ikke tør å sparre med hverandre, tror hun.",
+      "published": "2026-01-07T13:15:09Z"
+    },
+    {
+      "id": "98f1e0dd72e01ac8380aa09dfc5b96341005a852",
+      "title": "– Utviklere under­vurderes som ledere",
+      "link": "https://www.kode24.no/artikkel/utviklere-undervurderes-som-ledere/253108",
+      "source": "Kode24",
+      "summary": "– Bransjen bør slutte å anta at utviklere først og fremst er spesialister som må skjermes fra ansvar, skriver Njaal Gjerde og Thomas Holen. – Mange av dem er tvert imot svært godt rustet til å ta det.",
+      "published": "2026-01-07T09:23:30Z"
+    },
+    {
+      "id": "cd1c8d33cee5e683bda957efe571cdd1955a2ad3",
+      "title": "Equinor sier de realiserer milliarder med KI",
+      "link": "https://www.kode24.no/artikkel/equinor-sier-de-realiserer-milliarder-med-ki/253135",
+      "source": "Kode24",
+      "summary": "– KI er en sentral del av driften vår, sier direktøren, som mener de sparte og tjente 1,3 milliarder kroner bare i fjor.",
+      "published": "2026-01-07T09:22:58Z"
+    },
+    {
+      "id": "082bd36a9ad3a08b0fa1f212ee6d9911b1a718a4",
+      "title": "Ber Musk stramme opp Grok etter genererte nakenbilder",
+      "link": "https://www.kode24.no/artikkel/ber-musk-stramme-opp-grok-etter-genererte-nakenbilder/253090",
+      "source": "Kode24",
+      "summary": "Storbritannia ber Elon Musk stramme opp KI-verktøyet på X umiddelbart, etter at EU har uttalt at de vil granske det sosiale mediet.",
+      "published": "2026-01-07T07:33:07Z"
+    },
     {
       "id": "4fa38e96a4adae42b5dd805d39a9b461cb465a9f",
       "title": "Nytt år, nye verktøy: Her er Vemunds 3 tips",
@@ -122,44 +162,12 @@
       "published": "2026-01-02T04:00:00Z"
     },
     {
-      "id": "ae35dab9991d9a9a435ea0e2befc17756bc18682",
-      "title": "kode24s mest leste saker i 2025",
-      "link": "https://www.kode24.no/artikkel/kode24s-mest-leste-saker-i-2025/252480",
-      "source": "Kode24",
-      "summary": "Norske utviklere var aller mest interessert i artikler rundt arbeidsmarked og KI i året som gikk.",
-      "published": "2025-12-31T04:00:00Z"
-    },
-    {
       "id": "e11a92c7a33b6633ea8d1d11370644f0159367d7",
       "title": "Agentic AI, MCP, and spec-driven development: Top blog posts of 2025",
       "link": "https://github.blog/developer-skills/agentic-ai-mcp-and-spec-driven-development-top-blog-posts-of-2025/",
       "source": "GitHub Blog",
       "summary": "Explore the GitHub Blog’s top posts covering the biggest software development topics of the year. The post Agentic AI, MCP, and spec-driven development: Top blog posts of 2025 appeared first on The GitHub Blog.",
       "published": "2025-12-30T17:20:10Z"
-    },
-    {
-      "id": "05c03658271a6016074f91ef7a7ecf80b49c8e88",
-      "title": "OpenAI ansetter beredskapssjef – skal ha fokus på psykisk helse",
-      "link": "https://www.kode24.no/artikkel/openai-ansetter-beredskapssjef-skal-ha-fokus-pa-psykisk-helse/252776",
-      "source": "Kode24",
-      "summary": "Daglig leder i OpenAI, Sam Altman, ansetter ny beredskapssjef i OpenAI. Vedkommende skal ha ansvar for spørsmål knyttet til psykisk helse og KI-sikkerhet.",
-      "published": "2025-12-30T10:49:23Z"
-    },
-    {
-      "id": "71df6965b751776916a9d1f7ebbb65a6710c6648",
-      "title": "Mener frykt for kunstig intelligens er unødvendig",
-      "link": "https://www.kode24.no/artikkel/mener-frykt-for-kunstig-intelligens-er-unodvendig/252760",
-      "source": "Kode24",
-      "summary": "Unge er mer bekymret for fremtiden enn før, viser den ferske Ung-undersøkelsen til Opinion. Toppsjefene i DNB og NHO mener man må snu på situasjonen.",
-      "published": "2025-12-30T08:37:30Z"
-    },
-    {
-      "id": "b39f184b8013ee79b7b3ffa0a2e91937f252ebf1",
-      "title": "Meta kjøper KI-startup",
-      "link": "https://www.kode24.no/artikkel/meta-kjoper-ki-startup/252742",
-      "source": "Kode24",
-      "summary": "Meta, som også eier Facebook, kjøper KI-startupen Manus i en avtale verdt mer enn 2 milliarder dollar.",
-      "published": "2025-12-30T07:32:24Z"
     },
     {
       "id": "6eb9c322cd3074011f5ef2ea49f09be649015fd6",
@@ -169,14 +177,6 @@
       "summary": "Learn why some long-enrolled OSS-Fuzz projects still contain vulnerabilities and how you can find them. The post Bugs that survive the heat of continuous fuzzing appeared first on The GitHub Blog.",
       "published": "2025-12-29T22:01:14Z",
       "image": "https://github.blog/wp-content/uploads/2025/12/fuzz1.png?resize=1024%2C425"
-    },
-    {
-      "id": "800601def63cbee00145895d733e3e43cbace0fb",
-      "title": "Smartklokke-selskap får kritikk",
-      "link": "https://www.kode24.no/artikkel/smartklokke-selskap-far-kritikk/252728",
-      "source": "Kode24",
-      "summary": "Norske Xplora får kritikk for smartklokkene sine, skriver NRK. Alle klokkene av typen Xplora X6Play generasjon 1, bruker samme sikkerhetsnøkkel, opplyser forsker.",
-      "published": "2025-12-29T14:51:35Z"
     },
     {
       "id": "90f08f4a9faa18ebf1c0b92fdf1d332de2e28f8c",
