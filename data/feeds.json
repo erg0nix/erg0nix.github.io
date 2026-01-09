@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-01-08T06:39:58.579596Z",
+  "generated_at": "2026-01-09T06:39:49.514904Z",
   "items": [
+    {
+      "id": "2fd16a8aace8d7692381ff8f936789fb6357c2c1",
+      "title": "Årets Trend, Debatt og Kaktus handler om det samme: «Rare greier»",
+      "link": "https://www.kode24.no/artikkel/arets-trend-debatt-og-kaktus-handler-om-det-samme-rare-greier/253254",
+      "source": "Kode24",
+      "summary": "Ole Petter deler ut tre kode24-priser i ukas nyhetsbrev.",
+      "published": "2026-01-09T04:00:00Z"
+    },
+    {
+      "id": "5b2ad68132186f6f0ed63e81f1865663e5e12d32",
+      "title": "Why AI is pushing developers toward typed languages",
+      "link": "https://github.blog/ai-and-ml/llms/why-ai-is-pushing-developers-toward-typed-languages/",
+      "source": "GitHub Blog",
+      "summary": "AI is settling the “typed vs. untyped” debate by turning type systems into the safety net for code you didn’t write yourself. The post Why AI is pushing developers toward typed languages appeared first on The GitHub Blog.",
+      "published": "2026-01-08T22:25:54Z"
+    },
+    {
+      "id": "7d73e0c2c008ca28000534571b0b570ca876ee5a",
+      "title": "Slutter som frilanser etter ti år",
+      "link": "https://www.kode24.no/artikkel/slutter-som-frilanser-etter-ti-ar/253240",
+      "source": "Kode24",
+      "summary": "Fullstack-utvikler Tor Anders Johansen går fra å være frilanser til fast jobb i Twoday.",
+      "published": "2026-01-08T13:08:37Z"
+    },
+    {
+      "id": "7f0333871c0532ac62da95660df692b8d98602ff",
+      "title": "Tailwind CSS sparker utviklere, skylder på KI",
+      "link": "https://www.kode24.no/artikkel/tailwind-css-sparker-utviklere-skylder-pa-ki/253217",
+      "source": "Kode24",
+      "summary": "Aldri blitt mer brukt, men brukerne er KI: Omsetningen er ned 80 prosent, og nå forsvinner 75 prosent av utviklerne. Filip Johansen frykter flere slike eksempler.",
+      "published": "2026-01-08T09:49:31Z"
+    },
+    {
+      "id": "58d6ad24b0e2b4c5c343f338b9a6375a362d8ca2",
+      "title": "Nye skjerm­råd: Ingen nett uten tilsyn under 12 år",
+      "link": "https://www.kode24.no/artikkel/nye-skjermrad-ingen-nett-uten-tilsyn-under-12-ar/253203",
+      "source": "Kode24",
+      "summary": "– Barna våre må ikke overlates til algoritmer og teknologiselskaper alene, sier barne- og familieminister Lene Vågslid.",
+      "published": "2026-01-08T08:20:13Z"
+    },
+    {
+      "id": "b03258f4ba45f8f92a212e4da818cd08949244cc",
+      "title": "Vil nekte politifolk å bruke Vipps",
+      "link": "https://www.kode24.no/artikkel/vil-nekte-politifolk-a-bruke-vipps/253190",
+      "source": "Kode24",
+      "summary": "For det er fortsatt mulig å finne folka bak skjulte telefonnumre med tjenesten.",
+      "published": "2026-01-08T08:02:39Z"
+    },
     {
       "id": "d1c1e0c6de87770b3fe40f9d42789cd3b6ed4c7d",
       "title": "Vil ha en egen KI-minister",
@@ -59,8 +107,8 @@
     },
     {
       "id": "9179b8917815096853b615ef3f2442e7ca78097f",
-      "title": "Truls går fra Sopra Steria til Sicra: – Vil lære av folk som er bedre enn meg",
-      "link": "https://www.kode24.no/artikkel/truls-gar-fra-sopra-steria-til-sicra-vil-laere-av-folk-som-er-bedre-enn-meg/253034",
+      "title": "Truls går fra Sopra Steria til Sicra: – Vil utvikle meg videre",
+      "link": "https://www.kode24.no/artikkel/truls-gar-fra-sopra-steria-til-sicra-vil-utvikle-meg-videre/253034",
       "source": "Kode24",
       "summary": "Truls Thorstad Dahlsveen er ny sikkerhetsarkitekt i Sicra.",
       "published": "2026-01-06T11:57:45Z"
@@ -120,46 +168,6 @@
       "source": "Kode24",
       "summary": "– Ville teste hvor langt man kommer med en kode-agent og en relativt erfaren utvikler bak rattet, skriver Kristoffer Giltvedt Selbekk om sin nye app Begavet.",
       "published": "2026-01-05T04:00:00Z"
-    },
-    {
-      "id": "5b814df581f5d7584cbfb606b32ceec470ddcf17",
-      "title": "Her er koden bak skatte­lotteriet",
-      "link": "https://www.kode24.no/artikkel/her-er-koden-bak-skattelotteriet/252839",
-      "source": "Kode24",
-      "summary": "Skattebingo i Python, hvor sinnssyke mikroprosessorer er, tulledebatt om KI og de feteste julegavene i 1989, i årets første Lørdagsgodt.",
-      "published": "2026-01-03T04:00:00Z"
-    },
-    {
-      "id": "3c4d076985cc6ef368fe62d26d4d9577039798eb",
-      "title": "Går ut mot DNB- og NHO-topper: – Jeg søkte 560 jobber",
-      "link": "https://www.kode24.no/artikkel/gar-ut-mot-dnb-og-nho-topper-jeg-sokte-560-jobber/252821",
-      "source": "Kode24",
-      "summary": "DNB- og NHO-sjefen mener unge ikke trenger å være så bekymra som de er, men Ina Cabanillas Hansen er uenig: – Vi er ikke negative. Vi er realistiske.",
-      "published": "2026-01-02T11:51:31Z"
-    },
-    {
-      "id": "5b37fd9b461b6aef09a850a1877844f39593b7a6",
-      "title": "Gir utviklere gratis snus på jobb",
-      "link": "https://www.kode24.no/artikkel/gir-utviklere-gratis-snus-pa-jobb/252807",
-      "source": "Kode24",
-      "summary": "Nikotinposene tar av i USA, og har inntatt kontorene i teknologibransjen.",
-      "published": "2026-01-02T09:51:30Z"
-    },
-    {
-      "id": "88adf07b358009a4f1dde5ce92b582ede9d2eefa",
-      "title": "Snapchat eksploderte i lomma på nordmenn nyttårsaften",
-      "link": "https://www.kode24.no/artikkel/snapchat-eksploderte-i-lomma-pa-nordmenn-nyttarsaften/252791",
-      "source": "Kode24",
-      "summary": "Selv om både SMS og MMS blir mye brukt, går stadig flere over.",
-      "published": "2026-01-02T08:04:27Z"
-    },
-    {
-      "id": "cdfda18a87acd63ec84dece2d15e33d671997b67",
-      "title": "Jobbi er Årets Stemme 2025 – har store planer for 2026",
-      "link": "https://www.kode24.no/artikkel/jobbi-er-arets-stemme-2025-har-store-planer-for-2026/252596",
-      "source": "Kode24",
-      "summary": "– Nå ser vi mot fase to, avslører Fredrik Fornes i Jobbi, som stikker av med kode24-pris.",
-      "published": "2026-01-02T04:00:00Z"
     },
     {
       "id": "e11a92c7a33b6633ea8d1d11370644f0159367d7",
@@ -235,14 +243,6 @@
       "source": "GitHub Blog",
       "summary": "In November, we experienced three incidents that resulted in degraded performance across GitHub services. The post GitHub Availability Report: November 2025 appeared first on The GitHub Blog.",
       "published": "2025-12-11T16:03:53Z"
-    },
-    {
-      "id": "34143973ec114eb0a22af7f9fbd8ad981f326399",
-      "title": "MCP joins the Linux Foundation: What this means for developers building the next era of AI tools and agents",
-      "link": "https://github.blog/open-source/maintainers/mcp-joins-the-linux-foundation-what-this-means-for-developers-building-the-next-era-of-ai-tools-and-agents/",
-      "source": "GitHub Blog",
-      "summary": "MCP is moving to the Linux Foundation. Here's how that will affect developers. The post MCP joins the Linux Foundation: What this means for developers building the next era of AI tools and agents appeared first on The GitHub Blog.",
-      "published": "2025-12-09T21:00:13Z"
     },
     {
       "id": "0ea1e6845fb72fccd664b752f5ee51bd9c6de569",
