@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-01-09T06:39:49.514904Z",
+  "generated_at": "2026-01-10T06:36:00.694742Z",
   "items": [
+    {
+      "id": "25fb5ab65085ed71764b795cceb604211c2e033b",
+      "title": "Nå kommer robotene: – Dumme som brød, sterke som bjørner",
+      "link": "https://www.kode24.no/artikkel/na-kommer-robotene-dumme-som-brod-sterke-som-bjorner/253381",
+      "source": "Kode24",
+      "summary": "Skremmende framtidsvisjon fra Boston Dynamics, Wordle med hester, fancy nettsider og den nye Lego-brikka, i ukas Lørdagsgodt.",
+      "published": "2026-01-10T04:00:00Z"
+    },
+    {
+      "id": "4a497d214c7f53ea2380336c25c449ecdba62f30",
+      "title": "Jørgen skal både kode og designe: – Avgjørende i et marked som krever mer for mindre",
+      "link": "https://www.kode24.no/artikkel/jorgen-skal-bade-kode-og-designe-avgjorende-i-et-marked-som-krever-mer-for-mindre/253397",
+      "source": "Kode24",
+      "summary": "Jørgen Blindheim går til en hybridrolle hos Unfold de mener er helt avgjørende i dagens marked.",
+      "published": "2026-01-09T14:30:35Z"
+    },
+    {
+      "id": "0ba89aeaccee540dbb2bac9f08c761b9df763f0e",
+      "title": "Runar blir den nye sjefen til 130 teknologer",
+      "link": "https://www.kode24.no/artikkel/runar-blir-den-nye-sjefen-til-130-teknologer/253353",
+      "source": "Kode24",
+      "summary": "Regnskapsselskapet Aider vil \"redefinere hvordan teknologi brukes i regnskapsbransjen\" – og har ansatt Runar Vestrheim til å lede jobben.",
+      "published": "2026-01-09T12:30:47Z"
+    },
+    {
+      "id": "fcf2ab9ea8b4c4712787abf4c53e1ae89f34dab2",
+      "title": "Kalender-vinneren løste oppgaver på do",
+      "link": "https://www.kode24.no/artikkel/kalender-vinneren-loste-oppgaver-pa-do/253296",
+      "source": "Kode24",
+      "summary": "Mens vinnerlaget Evidi samla krefter fra hele Østlandet. Her er hovedvinnerne i kode24s julekalender 2025.",
+      "published": "2026-01-09T09:57:13Z"
+    },
+    {
+      "id": "4d3870a189ede2332729f373a39de86df489e589",
+      "title": "Du kan få trekk i lønn om du blir forsinka på jobb",
+      "link": "https://www.kode24.no/artikkel/du-kan-fa-trekk-i-lonn-om-du-blir-forsinka-pa-jobb/253298",
+      "source": "Kode24",
+      "summary": "At det er snøkaos er ikke nødvendigvis en gyldig unnskyldning, melder FriFagbevegelse",
+      "published": "2026-01-09T09:02:20Z"
+    },
     {
       "id": "2fd16a8aace8d7692381ff8f936789fb6357c2c1",
       "title": "Årets Trend, Debatt og Kaktus handler om det samme: «Rare greier»",
@@ -128,46 +168,6 @@
       "source": "Kode24",
       "summary": "– Folk er bare glade for å endelig ha et verktøy som ikke sier at spørsmålene deres er dumme.",
       "published": "2026-01-06T09:05:49Z"
-    },
-    {
-      "id": "9ef13e1213c1f292c77cf590967d7793947b9921",
-      "title": "– Studiene er ikke tilpasset behovene",
-      "link": "https://www.kode24.no/artikkel/studiene-er-ikke-tilpasset-behovene/252894",
-      "source": "Kode24",
-      "summary": "– AI kan utføre store deler av juniorjobbene, og seniorer som faktisk klarer å utnytte AI, sitter igjen som vinnerne, mener Ukas Koder Håkon Græsberg.",
-      "published": "2026-01-06T04:00:00Z"
-    },
-    {
-      "id": "2885a7ee7d0147dc612b6a611e6baa71928cc71f",
-      "title": "Datakontrakter: Sånn passer Norges Bank på dataene sine",
-      "link": "https://www.kode24.no/artikkel/datakontrakter-sann-passer-norges-bank-pa-dataene-sine/252804",
-      "source": "Kode24",
-      "summary": "– En av fordelene med datakontrakter er at de gir alle parter, utviklere og forretningsbrukere, et felles språk, skriver Vilde Almestad i Norges Bank.",
-      "published": "2026-01-05T14:21:19Z"
-    },
-    {
-      "id": "510ff917d3afcca0cc6aef5d4d638e7fed20d03b",
-      "title": "Keiserens nye KI-klær",
-      "link": "https://www.kode24.no/artikkel/keiserens-nye-ki-klaer/252882",
-      "source": "Kode24",
-      "summary": "Staten hevder å nærme seg målet på KI-bruk. – Men ser vi nærmere på hvilken teknologi som brukes og hvordan, begynner suksesshistorien å få sprekker, skriver Lisa Reutter Larsen.",
-      "published": "2026-01-05T09:14:51Z"
-    },
-    {
-      "id": "61e0241f833245ffb43dacc3932dc1a3732c272f",
-      "title": "Grok «kler av» mindreårige, Frankrike har fått nok",
-      "link": "https://www.kode24.no/artikkel/grok-kler-av-mindrearige-frankrike-har-fatt-nok/252865",
-      "source": "Kode24",
-      "summary": "Elon Muks KI-modell Grok skal kunne «kle av» personer på bilder som blir lagt ut på X. Flere franske minstre har nå meldt den inn til medietilsynet.",
-      "published": "2026-01-05T08:17:24Z"
-    },
-    {
-      "id": "40a60fe6b59250d39d6fa81a728aa26caf2fdec8",
-      "title": "Gir ut app, uten å kunne app-utvikling",
-      "link": "https://www.kode24.no/artikkel/gir-ut-app-uten-a-kunne-app-utvikling/252529",
-      "source": "Kode24",
-      "summary": "– Ville teste hvor langt man kommer med en kode-agent og en relativt erfaren utvikler bak rattet, skriver Kristoffer Giltvedt Selbekk om sin nye app Begavet.",
-      "published": "2026-01-05T04:00:00Z"
     },
     {
       "id": "e11a92c7a33b6633ea8d1d11370644f0159367d7",
