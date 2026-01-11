@@ -1,6 +1,15 @@
 {
-  "generated_at": "2026-01-10T06:36:00.694742Z",
+  "generated_at": "2026-01-11T06:37:40.026660Z",
   "items": [
+    {
+      "id": "2557b29339c0d273686a316f4b2a3c6e1c06dd90",
+      "title": "Light waves, rising tides, and drifting ships: Game Off 2025 winners",
+      "link": "https://github.blog/open-source/gaming/light-waves-rising-tides-and-drifting-ships-game-off-2025-winners/",
+      "source": "GitHub Blog",
+      "summary": "Out of more than 700 games submitted to Game Off 2025, these ten winners stand out for creativity, craft, and bold interpretations of the WAVES theme. All are free to play, with source code available to explore. The post Light waves, rising tides, and drifting ships: Game Off 2025 winners appeared...",
+      "published": "2026-01-10T21:36:00Z",
+      "image": "https://avatars.githubusercontent.com/u/197415424?v=4&s=64"
+    },
     {
       "id": "25fb5ab65085ed71764b795cceb604211c2e033b",
       "title": "Nå kommer robotene: – Dumme som brød, sterke som bjørner",
@@ -235,14 +244,6 @@
       "source": "GitHub Blog",
       "summary": "A look at how we rebuilt GitHub Actions’ core architecture and shipped long-requested upgrades to improve performance, workflow flexibility, reliability, and everyday developer experience. The post Let’s talk about GitHub Actions appeared first on The GitHub Blog.",
       "published": "2025-12-11T17:40:52Z"
-    },
-    {
-      "id": "4bd1ed841315a912625125f44a4db4f74fc423c3",
-      "title": "GitHub Availability Report: November 2025",
-      "link": "https://github.blog/news-insights/company-news/github-availability-report-november-2025/",
-      "source": "GitHub Blog",
-      "summary": "In November, we experienced three incidents that resulted in degraded performance across GitHub services. The post GitHub Availability Report: November 2025 appeared first on The GitHub Blog.",
-      "published": "2025-12-11T16:03:53Z"
     },
     {
       "id": "0ea1e6845fb72fccd664b752f5ee51bd9c6de569",
