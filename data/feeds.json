@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-01-12T06:42:18.800012Z",
+  "generated_at": "2026-01-13T06:39:59.503662Z",
   "items": [
+    {
+      "id": "e12b450b6012b760eefc76051c6473efefd0539d",
+      "title": "Slepp laus bank­dataene våre!",
+      "link": "https://www.kode24.no/artikkel/slepp-laus-bankdataene-vare/253458",
+      "source": "Kode24",
+      "summary": "– Eg måtte diverre konkludere med at, nei, vi har tilsynelatande ikkje andre bankar i Noreg som tilbyd opne API for kundane sine. Skuffande! skriver Sverre Johann Bjørke.",
+      "published": "2026-01-13T04:00:00Z"
+    },
+    {
+      "id": "66c758a7d511dd59f27b79f589d3745a6862842d",
+      "title": "Want better AI outputs? Try context engineering.",
+      "link": "https://github.blog/ai-and-ml/generative-ai/want-better-ai-outputs-try-context-engineering/",
+      "source": "GitHub Blog",
+      "summary": "Learn how custom instructions, reusable prompts, and custom agents help GitHub Copilot deliver more accurate results. The post Want better AI outputs? Try context engineering. appeared first on The GitHub Blog.",
+      "published": "2026-01-12T17:00:00Z"
+    },
+    {
+      "id": "bbfaede63025b76ddf01cec64364b3f17d5190c9",
+      "title": "Trenger vi en KI-minister? – Jeg jobber med KI hver eneste dag, sier Tung",
+      "link": "https://www.kode24.no/artikkel/trenger-vi-en-ki-minister-jeg-jobber-med-ki-hver-eneste-dag-sier-tung/253338",
+      "source": "Kode24",
+      "summary": "– Og hele regjeringen står samlet bak intensjonen om å utnytte mulighetene KI gir, sier digitaliseringsminister Karianne Tung om KI-ministerforslaget.",
+      "published": "2026-01-12T10:01:19Z"
+    },
+    {
+      "id": "fbf7d59c8b4a90474f9b3a7aa8445cbdc1dafab8",
+      "title": "Kameraer på NTNU lå åpent i årevis",
+      "link": "https://www.kode24.no/artikkel/kameraer-pa-ntnu-la-apent-i-arevis/253440",
+      "source": "Kode24",
+      "summary": "– Da vi oppdaget dette, ble det beordret full gjennomgang, og vi fant et tredvetalls potensielle kameraer som potensielt kunne ha samme problem.",
+      "published": "2026-01-12T07:45:03Z"
+    },
+    {
+      "id": "8bc41fcebaf95b3b495d5f43373653b90d53d83c",
+      "title": "Meta sletta en halv million brukere: Ber Australia revurdere alders­grense",
+      "link": "https://www.kode24.no/artikkel/meta-sletta-en-halv-million-brukere-ber-australia-revurdere-aldersgrense/253427",
+      "source": "Kode24",
+      "summary": "– Vi oppfordrer Australias regjering til å engasjere seg konstruktivt i en dialog med bransjen for å finne en bedre vei videre.",
+      "published": "2026-01-12T07:19:53Z"
+    },
+    {
+      "id": "4a41779d8424a0b0cb249c69049fd1d21be03221",
+      "title": "Forbyr Grok: «Grovt støtende»",
+      "link": "https://www.kode24.no/artikkel/forbyr-grok-grovt-stotende/253414",
+      "source": "Kode24",
+      "summary": "Indonesia og Malaysia forbyr Grok etter bråk rundt hva Elon Musks KI genererer.",
+      "published": "2026-01-12T07:13:10Z"
+    },
     {
       "id": "9b544c09236720d9207e27484ee3fa94e304d887",
       "title": "Tobias (17) lagde Vipps’ jule­assistent – fikk tusenvis av brukere",
@@ -139,46 +187,6 @@
       "published": "2026-01-07T09:22:58Z"
     },
     {
-      "id": "082bd36a9ad3a08b0fa1f212ee6d9911b1a718a4",
-      "title": "Ber Musk stramme opp Grok etter genererte nakenbilder",
-      "link": "https://www.kode24.no/artikkel/ber-musk-stramme-opp-grok-etter-genererte-nakenbilder/253090",
-      "source": "Kode24",
-      "summary": "Storbritannia ber Elon Musk stramme opp KI-verktøyet på X umiddelbart, etter at EU har uttalt at de vil granske det sosiale mediet.",
-      "published": "2026-01-07T07:33:07Z"
-    },
-    {
-      "id": "4fa38e96a4adae42b5dd805d39a9b461cb465a9f",
-      "title": "Nytt år, nye verktøy: Her er Vemunds 3 tips",
-      "link": "https://www.kode24.no/artikkel/nytt-ar-nye-verktoy-her-er-vemunds-3-tips/253057",
-      "source": "Kode24",
-      "summary": "– Med en bedre digital stil kan du få økt produktivitet og irritere deg mindre over ting som burde være mulig i 2026, skriver Vemund M. Santi.",
-      "published": "2026-01-07T04:00:00Z"
-    },
-    {
-      "id": "a1540d5b1b99311f5a40162f073aadc6759d3444",
-      "title": "Vi lot KI rette WCAG-brudd og lærte hvorfor store språkmodeller ikke er nok",
-      "link": "https://www.kode24.no/artikkel/vi-lot-ki-rette-wcag-brudd-og-laerte-hvorfor-store-sprakmodeller-ikke-er-nok/253018",
-      "source": "Kode24",
-      "summary": "– De fleste språkmodeller er trent opp på store mengder nettsider som er fulle av feil, skriver UUstreak.no-skaper Tobias Andersen.",
-      "published": "2026-01-06T13:13:15Z"
-    },
-    {
-      "id": "9179b8917815096853b615ef3f2442e7ca78097f",
-      "title": "Truls går fra Sopra Steria til Sicra: – Vil utvikle meg videre",
-      "link": "https://www.kode24.no/artikkel/truls-gar-fra-sopra-steria-til-sicra-vil-utvikle-meg-videre/253034",
-      "source": "Kode24",
-      "summary": "Truls Thorstad Dahlsveen er ny sikkerhetsarkitekt i Sicra.",
-      "published": "2026-01-06T11:57:45Z"
-    },
-    {
-      "id": "cb818baae26ec0dbebd812b1cfbb57a8c86834b8",
-      "title": "Advarer: Gratis-ChatGPT benekter angrep mot Venezuela",
-      "link": "https://www.kode24.no/artikkel/advarer-gratis-chatgpt-benekter-angrep-mot-venezuela/252937",
-      "source": "Kode24",
-      "summary": "Mens Pro-versjonen svarer noe helt annet. – Skal man lese seg opp på nyheter, så bør man bruke betalte versjoner, sier Tellef Solbakk Raabe.",
-      "published": "2026-01-06T10:41:19Z"
-    },
-    {
       "id": "e11a92c7a33b6633ea8d1d11370644f0159367d7",
       "title": "Agentic AI, MCP, and spec-driven development: Top blog posts of 2025",
       "link": "https://github.blog/developer-skills/agentic-ai-mcp-and-spec-driven-development-top-blog-posts-of-2025/",
@@ -236,14 +244,6 @@
       "summary": "We envision the future of AI-enabled tooling to look like near-effortless engineering for sustainability. We call it Continuous Efficiency. The post The future of AI-powered software optimization (and how it can help your team) appeared first on The GitHub Blog.",
       "published": "2025-12-12T20:43:37Z",
       "image": "https://github.blog/wp-content/uploads/2025/12/image1_c8a727.png?resize=1024%2C320"
-    },
-    {
-      "id": "6638366c02ccab73644fb2385d58189dea579b9e",
-      "title": "Let’s talk about GitHub Actions",
-      "link": "https://github.blog/news-insights/product-news/lets-talk-about-github-actions/",
-      "source": "GitHub Blog",
-      "summary": "A look at how we rebuilt GitHub Actions’ core architecture and shipped long-requested upgrades to improve performance, workflow flexibility, reliability, and everyday developer experience. The post Let’s talk about GitHub Actions appeared first on The GitHub Blog.",
-      "published": "2025-12-11T17:40:52Z"
     },
     {
       "id": "0ea1e6845fb72fccd664b752f5ee51bd9c6de569",
