@@ -1,53 +1,38 @@
 {{ define "main" }}
-<section class="terminal-window">
-  <div class="window-header">
-    <span class="window-title">{{ .Title }}</span>
-    <div class="window-controls">● ● ●</div>
-  </div>
-  <div class="window-content">
-    {{ if .Content }}
-    <p class="subtitle">{{ .Content }}</p>
-    {{ end }}
+{{ if .Content }}
+<p class="subtitle">{{ .Content }}</p>
+{{ end }}
 
-    {{ $feeds := .Site.Data.feeds }}
-    {{ if $feeds }}
-      {{ $items := $feeds.items }}
-      {{ if $items }}
-        <!-- Store data for JavaScript pagination -->
-        <script>
-          window.feedData = {{ $items | jsonify }};
-          window.feedGeneratedAt = {{ $feeds.generated_at | jsonify }};
-        </script>
+{{ $feeds := .Site.Data.feeds }}
+{{ if $feeds }}
+  {{ $items := $feeds.items }}
+  {{ if $items }}
+    <!-- Store data for JavaScript pagination -->
+    <script>
+      window.feedData = {{ $items | jsonify }};
+      window.feedGeneratedAt = {{ $feeds.generated_at | jsonify }};
+    </script>
 
-        <div class="feed-meta">
-          <p id="feed-meta-text">Loading...</p>
-        </div>
-
-        <div class="content-list" id="feed-items">
-          <!-- Items will be populated by JavaScript -->
-        </div>
-
-        <nav class="feed-pagination" id="pagination" style="display: none;">
-          <a href="#" id="prev-btn" class="prev">← Previous</a>
-          <span class="page-info" id="page-info"></span>
-          <a href="#" id="next-btn" class="next">Next →</a>
-        </nav>
-
-      {{ else }}
-        <p>No feed items available.</p>
-      {{ end }}
-    {{ else }}
-      <p>Feed data not found. Run <code>python scripts/fetch-feeds.py</code> to generate feed data.</p>
-    {{ end }}
-    <div class="vim-status-line">
-      <span class="status-mode">NORMAL</span>
-      <span class="status-file">~/feed</span>
-      <div class="status-spacer"></div>
-      <span class="status-position">{{ if .Site.Data.feeds }}{{ if .Site.Data.feeds.items }}{{ len .Site.Data.feeds.items }} items{{ else }}0 items{{ end }}{{ else }}0 items{{ end }}</span>
-      <div class="status-cursor"></div>
+    <div class="feed-meta">
+      <p id="feed-meta-text">Loading...</p>
     </div>
-  </div>
-</section>
+
+    <div class="content-list" id="feed-items">
+      <!-- Items will be populated by JavaScript -->
+    </div>
+
+    <nav class="feed-pagination" id="pagination" style="display: none;">
+      <a href="#" id="prev-btn" class="prev">← Previous</a>
+      <span class="page-info" id="page-info"></span>
+      <a href="#" id="next-btn" class="next">Next →</a>
+    </nav>
+
+  {{ else }}
+    <p>No feed items available.</p>
+  {{ end }}
+{{ else }}
+  <p>Feed data not found. Run <code>python scripts/fetch-feeds.py</code> to generate feed data.</p>
+{{ end }}
 
 <script src="/js/feed.js"></script>
 {{ end }}

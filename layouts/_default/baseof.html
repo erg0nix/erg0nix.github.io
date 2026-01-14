@@ -3,96 +3,69 @@
 {{ partial "head.html" . }}
 <body>
   <header class="main-header">
+    <button class="mobile-menu-toggle" aria-label="Toggle menu">☰</button>
     <a href="/" class="site-title">ERG0NIX.DEV</a>
   </header>
 
-  <div class="site-container">
-    <aside class="sidebar">
-      <section class="terminal-window">
-        <div class="window-header">
-          <span class="window-title">profile</span>
-          <div class="window-controls">• • •</div>
+  <div class="nvim-editor">
+    <div class="nvim-container">
+      <aside class="nvim-filetree">
+        <div class="filetree-header">
+          <span class="filetree-title">EXPLORER</span>
         </div>
-        <div class="window-content">
-          <div class="profile-info">
-            <div class="profile-text">
-              <h2><a href="/">{{ .Site.Title }}</a></h2>
-              <div class="status">
-                <span class="status-indicator"></span>
-                <span>online</span>
-              </div>
-            </div>
-            <img src="/avatar.png" alt="avatar" class="avatar">
-          </div>
-        </div>
-      </section>
-
-      <nav class="terminal-window">
-        <div class="window-header">
-          <span class="window-title">navigation</span>
-          <div class="window-controls">● ● ●</div>
-        </div>
-        <div class="window-content">
-          <div class="nav-links">
-            <a href="/projects">~/projects</a>
-            <a href="/blog">~/blog</a>
-            <a href="/feed">~/feed</a>
-            <a href="/bookmarks">~/bookmarks</a>
-            <a href="https://erg0nix.atabook.org/" target="_blank" rel="noopener">~/guestbook</a>
-          </div>
-        </div>
-      </nav>
-
-      <section class="terminal-window">
-        <div class="window-header">
-          <span class="window-title">system info</span>
-          <div class="window-controls">■ ● ▲</div>
-        </div>
-        <div class="window-content">
-          <ul class="system-list">
-            <li>location: earth norway</li>
-            <li>shell: zsh but fish seem nice</li>
-            <li>editor: neovim</li>
-            <li>core: melted</li>
-            <li>uptime: {{ now.Format "2006" }} - present</li>
+        <nav class="filetree-content">
+          <ul class="tree-children">
+            <li class="tree-item file {{ if .IsHome }}active{{ end }}">
+              <a href="/">home.md</a>
+            </li>
+            <li class="tree-item file {{ if eq .Section "projects" }}active{{ end }}">
+              <a href="/projects">projects/</a>
+            </li>
+            <li class="tree-item file {{ if eq .Section "blog" }}active{{ end }}">
+              <a href="/blog">blog/</a>
+            </li>
+            <li class="tree-item file {{ if eq .Section "feed" }}active{{ end }}">
+              <a href="/feed">feed/</a>
+            </li>
+            <li class="tree-item file {{ if eq .Section "bookmarks" }}active{{ end }}">
+              <a href="/bookmarks">bookmarks/</a>
+            </li>
+            <li class="tree-item file">
+              <a href="https://erg0nix.atabook.org/" target="_blank" rel="noopener">guestbook</a>
+            </li>
           </ul>
-        </div>
-      </section>
-    </aside>
 
-    <main class="main-content">
-      {{ if or .IsHome (eq .Kind "section") }}
-      {{ block "main" . }}{{ end }}
-      {{ else }}
-      <article class="page-content terminal-window">
-        <div class="window-header">
-          <span class="window-title">{{ .Title | default "~" }}</span>
-          <div class="window-controls">● ● ●</div>
-        </div>
-        <div class="window-content main-window-content">
-          {{ block "main" . }}{{ end }}
-          <div class="vim-status-line">
-            <span class="status-mode">NORMAL</span>
-            <span class="status-file">{{ .Title | default "~" }}</span>
-            <div class="status-spacer"></div>
-            <span class="status-position">{{ .Page.WordCount }} words</span>
-            <div class="status-cursor"></div>
+          <div class="filetree-footer">
+            <div class="system-info-compact">
+              <div class="info-line">location: earth norway</div>
+              <div class="info-line">shell: zsh but fish seem nice</div>
+              <div class="info-line">editor: neovim</div>
+              <div class="info-line">core: melted</div>
+              <div class="info-line">uptime: 2025 - present</div>
+            </div>
           </div>
-        </div>
-      </article>
-      {{ end }}
+        </nav>
+      </aside>
 
-      <footer class="mobile-footer">
-        <section class="mobile-system-info">
-          <h3>system info</h3>
-          <p>location: earth norway</p>
-          <p>shell: zsh but fish seem nice</p>
-          <p>editor: neovim</p>
-          <p>core: melted</p>
-          <p>uptime: {{ now.Format "2006" }} - present</p>
-        </section>
-      </footer>
-    </main>
+      <main class="nvim-main">
+        <div class="nvim-content-wrapper">
+          <div class="nvim-gutter" aria-hidden="true"></div>
+          <article class="nvim-content">
+            {{ block "main" . }}{{ end }}
+          </article>
+        </div>
+      </main>
+    </div>
+
+    <div class="nvim-statusline">
+      <span class="status-mode">NORMAL</span>
+      <span class="status-file">{{ .Title | default "~" }}</span>
+      <div class="status-spacer"></div>
+      <span class="status-position">
+        {{ if .IsPage }}{{ .WordCount }} words{{ else }}{{ .Kind }}{{ end }}
+      </span>
+      <span class="status-cursor"></span>
+    </div>
   </div>
 </body>
 </html>

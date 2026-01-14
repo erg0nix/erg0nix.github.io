@@ -1,40 +1,24 @@
 {{ define "main" }}
-<section class="terminal-window">
-  <div class="window-header">
-    <span class="window-title">~/blog</span>
-    <div class="window-controls">● ● ●</div>
-  </div>
-  <div class="window-content">
-    <nav class="breadcrumb"><a href="/">← back</a></nav>
+<nav class="breadcrumb"><a href="/">← back</a></nav>
 
-    <div class="content-list">
-      {{ range .Pages }}
-      <article class="content-item">
-        <div class="content-item-content">
-          <div class="content-item-text">
-            <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
-            <div class="content-item-meta">
-              <time>{{ .Date.Format "2006-01-02" }}</time>
-            </div>
-            {{ if .Summary }}
-            <p class="content-summary">{{ .Summary }}</p>
-            <footer class="post-footer">
-              <a href="{{ .RelPermalink }}" class="read-more">read more →</a>
-            </footer>
-            {{ end }}
-          </div>
+<div class="content-list">
+  {{ range .Pages }}
+  <article class="content-item">
+    <div class="content-item-content">
+      <div class="content-item-text">
+        <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+        <div class="content-item-meta">
+          <time>{{ .Date.Format "2006-01-02" }}</time>
         </div>
-      </article>
-      {{ end }}
+        {{ if .Summary }}
+        <p class="content-summary">{{ .Summary }}</p>
+        <footer class="post-footer">
+          <a href="{{ .RelPermalink }}" class="read-more">read more →</a>
+        </footer>
+        {{ end }}
+      </div>
     </div>
-    <div class="vim-status-line">
-      <span class="status-mode">NORMAL</span>
-      <a href="/index.xml" target="_blank" class="status-mode rss-mode">RSS</a>
-      <span class="status-file">~/blog</span>
-      <div class="status-spacer"></div>
-      <span class="status-position">{{ len .Pages }} posts</span>
-      <div class="status-cursor"></div>
-    </div>
-  </div>
-</section>
+  </article>
+  {{ end }}
+</div>
 {{ end }}

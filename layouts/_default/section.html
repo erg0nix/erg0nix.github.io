@@ -1,18 +1,3 @@
 {{ define "main" }}
-<section class="terminal-window">
-  <div class="window-header">
-    <span class="window-title">{{ .Title }}</span>
-    <div class="window-controls">● ● ●</div>
-  </div>
-  <div class="window-content">
-    {{ .Content }}
-    <div class="vim-status-line">
-      <span class="status-mode">NORMAL</span>
-      <span class="status-file">{{ .Title }}</span>
-      <div class="status-spacer"></div>
-      <span class="status-position">{{ .Kind }}</span>
-      <div class="status-cursor"></div>
-    </div>
-  </div>
-</section>
+{{ .Content }}
 {{ end }}

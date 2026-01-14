@@ -4,7 +4,6 @@ draft: false
 ---
 
 # hey, I'm erg0nix
-<small class="subtitle">ergo (therefore) + nix (nothing/unix) = therefore nothing/linux</small>
 
 backend developer based in oslo, norway.
 

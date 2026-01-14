@@ -104,4 +104,57 @@
       location.reload();
     };
   </script>
+
+  <!-- Mobile File Tree Toggle -->
+  <script>
+    document.addEventListener('DOMContentLoaded', function() {
+      const filetree = document.querySelector('.nvim-filetree');
+      const hamburger = document.querySelector('.mobile-menu-toggle');
+
+      // Only add mobile menu functionality on smaller screens
+      if (window.innerWidth <= 768 && filetree && hamburger) {
+        // Create overlay
+        const overlay = document.createElement('div');
+        overlay.className = 'filetree-overlay';
+        document.body.appendChild(overlay);
+
+        // Toggle on hamburger click
+        hamburger.addEventListener('click', function() {
+          filetree.classList.toggle('open');
+          overlay.classList.toggle('active');
+        });
+
+        // Close on overlay click
+        overlay.addEventListener('click', function() {
+          filetree.classList.remove('open');
+          overlay.classList.remove('active');
+        });
+      }
+
+      // Generate line numbers
+      const gutter = document.querySelector('.nvim-gutter');
+      const content = document.querySelector('.nvim-content');
+
+      if (gutter && content) {
+        function updateLineNumbers() {
+          const contentHeight = content.scrollHeight;
+          const lineHeight = parseFloat(getComputedStyle(content).lineHeight);
+          const numLines = Math.ceil(contentHeight / lineHeight);
+
+          gutter.innerHTML = '';
+          for (let i = 1; i <= numLines; i++) {
+            const lineNum = document.createElement('div');
+            lineNum.className = 'line-num';
+            lineNum.textContent = i;
+            gutter.appendChild(lineNum);
+          }
+        }
+
+        updateLineNumbers();
+
+        // Update on window resize
+        window.addEventListener('resize', updateLineNumbers);
+      }
+    });
+  </script>
 </head>
