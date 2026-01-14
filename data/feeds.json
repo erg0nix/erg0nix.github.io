@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-01-13T06:39:59.503662Z",
+  "generated_at": "2026-01-14T06:39:51.141808Z",
   "items": [
+    {
+      "id": "6f81635bdf28c1c676fd05bc9e1204c0e2517e5f",
+      "title": "Googles KI kom med grove påstandar om tidlegare SV-topp",
+      "link": "https://www.kode24.no/artikkel/googles-ki-kom-med-grove-pastandar-om-tidlegare-sv-topp/253566",
+      "source": "Kode24",
+      "summary": "Fire politikarar var involvert i rettssaker eller til og med dømte, hevda Google. Det stemte berre i eitt av tilfella. – Grovt og kjipt, seier tidlegare SV-statsråd Heikki Holmås.",
+      "published": "2026-01-14T04:00:00Z"
+    },
+    {
+      "id": "01caf1c4d8ba937459daf41698fb62e136f4d7dd",
+      "title": "What AI is actually good for, according to developers",
+      "link": "https://github.blog/ai-and-ml/generative-ai/what-ai-is-actually-good-for-according-to-developers/",
+      "source": "GitHub Blog",
+      "summary": "AI is designed to help you do what you love most, not replace your expertise. Discover how developer feedback and real-world experience are shaping AI coding tools that keep you in control. The post What AI is actually good for, according to developers appeared first on The GitHub Blog.",
+      "published": "2026-01-13T18:39:24Z"
+    },
+    {
+      "id": "cf9d1df75841539d28d8ea74ad4d86669784c66d",
+      "title": "Westerlins tjeneste skal tidoble Tinder-treff: – Alt jeg misliker med KI",
+      "link": "https://www.kode24.no/artikkel/westerlins-tjeneste-skal-tidoble-tinder-treff-alt-jeg-misliker-med-ki/253490",
+      "source": "Kode24",
+      "summary": "– Det handler om hvordan vi bygger et samfunn der teknologi styrker, ikke undergraver, menneskelige relasjoner, skriver Vegard Mongstad Haavik i ARTI Consult.",
+      "published": "2026-01-13T12:43:38Z"
+    },
+    {
+      "id": "3eb9c889578998a79a60381d4f20201da4ab504c",
+      "title": "4 CSS-nyheter du bør bruke i 2026",
+      "link": "https://www.kode24.no/artikkel/4-css-nyheter-du-bor-bruke-i-2026/253575",
+      "source": "Kode24",
+      "summary": "CSS-nyheter, Tailwind-dramaet, mer throttling i Chrome, React Conf-oppsummering og MCP-apper i VS Code, i ukas ForrigeUke.",
+      "published": "2026-01-13T11:20:34Z"
+    },
+    {
+      "id": "82ea66e5a32b7a890bf52f16a270f17345bd6242",
+      "title": "TU Media legger ned utvikler-avdelingen, fem mister jobben",
+      "link": "https://www.kode24.no/artikkel/tu-media-legger-ned-utvikler-avdelingen-fem-mister-jobben/253533",
+      "source": "Kode24",
+      "summary": "– Endringen er nødvendig, selv om det er trist, sier direktøren, som gir sluttpakker til fem.",
+      "published": "2026-01-13T08:56:52Z"
+    },
+    {
+      "id": "3abd50081c425e78c57456edcdc64a0c78cc5660",
+      "title": "Øyeprofessor vil ha skjermvett i nye skjermråd",
+      "link": "https://www.kode24.no/artikkel/oyeprofessor-vil-ha-skjermvett-i-nye-skjermrad/253519",
+      "source": "Kode24",
+      "summary": "Øyeprofessor savner råd om forholdet mellom skjermbruk og helse. Mange starter og avslutter dagen med skjerm.",
+      "published": "2026-01-13T07:31:12Z"
+    },
     {
       "id": "e12b450b6012b760eefc76051c6473efefd0539d",
       "title": "Slepp laus bank­dataene våre!",
@@ -147,46 +195,6 @@
       "published": "2026-01-08T08:20:13Z"
     },
     {
-      "id": "b03258f4ba45f8f92a212e4da818cd08949244cc",
-      "title": "Vil nekte politifolk å bruke Vipps",
-      "link": "https://www.kode24.no/artikkel/vil-nekte-politifolk-a-bruke-vipps/253190",
-      "source": "Kode24",
-      "summary": "For det er fortsatt mulig å finne folka bak skjulte telefonnumre med tjenesten.",
-      "published": "2026-01-08T08:02:39Z"
-    },
-    {
-      "id": "d1c1e0c6de87770b3fe40f9d42789cd3b6ed4c7d",
-      "title": "Vil ha en egen KI-minister",
-      "link": "https://www.kode24.no/artikkel/vil-ha-en-egen-ki-minister/253106",
-      "source": "Kode24",
-      "summary": "Sander Helmers-Olsen mener Norge trenger en egen KI-minister. Men de nominerte har ikke lyst på jobben.",
-      "published": "2026-01-07T23:00:00Z"
-    },
-    {
-      "id": "777705fb34f27dac0ed08e8647a2c735273249ac",
-      "title": "– Imposter syndrome er helt normalt!",
-      "link": "https://www.kode24.no/artikkel/imposter-syndrome-er-helt-normalt/253159",
-      "source": "Kode24",
-      "summary": "Jenny Yu er Årets Koder, etter å ha snakka om følelsen av å ikke kunne alt. – Det som ofte kan holde igjen progresjon og effektivitet i team, er at folk ikke tør å sparre med hverandre, tror hun.",
-      "published": "2026-01-07T13:15:09Z"
-    },
-    {
-      "id": "98f1e0dd72e01ac8380aa09dfc5b96341005a852",
-      "title": "– Utviklere under­vurderes som ledere",
-      "link": "https://www.kode24.no/artikkel/utviklere-undervurderes-som-ledere/253108",
-      "source": "Kode24",
-      "summary": "– Bransjen bør slutte å anta at utviklere først og fremst er spesialister som må skjermes fra ansvar, skriver Njaal Gjerde og Thomas Holen. – Mange av dem er tvert imot svært godt rustet til å ta det.",
-      "published": "2026-01-07T09:23:30Z"
-    },
-    {
-      "id": "cd1c8d33cee5e683bda957efe571cdd1955a2ad3",
-      "title": "Equinor sier de realiserer milliarder med KI",
-      "link": "https://www.kode24.no/artikkel/equinor-sier-de-realiserer-milliarder-med-ki/253135",
-      "source": "Kode24",
-      "summary": "– KI er en sentral del av driften vår, sier direktøren, som mener de sparte og tjente 1,3 milliarder kroner bare i fjor.",
-      "published": "2026-01-07T09:22:58Z"
-    },
-    {
       "id": "e11a92c7a33b6633ea8d1d11370644f0159367d7",
       "title": "Agentic AI, MCP, and spec-driven development: Top blog posts of 2025",
       "link": "https://github.blog/developer-skills/agentic-ai-mcp-and-spec-driven-development-top-blog-posts-of-2025/",
@@ -235,15 +243,6 @@
       "summary": "From Appwrite to Zulip, Universe 2025’s Open Source Zone was stacked with standout projects showing just how far open source can go. Meet the maintainers—and if you want to join them in 2026, you can now apply for next year’s cohort. The post This year’s most influential open source projects...",
       "published": "2025-12-22T23:48:52Z",
       "image": "https://github.blog/wp-content/uploads/2025/12/appwrite.png?resize=1024%2C550"
-    },
-    {
-      "id": "c2ab57adab6c32164fba564508255e00b3fed8cc",
-      "title": "The future of AI-powered software optimization (and how it can help your team)",
-      "link": "https://github.blog/news-insights/policy-news-and-insights/the-future-of-ai-powered-software-optimization-and-how-it-can-help-your-team/",
-      "source": "GitHub Blog",
-      "summary": "We envision the future of AI-enabled tooling to look like near-effortless engineering for sustainability. We call it Continuous Efficiency. The post The future of AI-powered software optimization (and how it can help your team) appeared first on The GitHub Blog.",
-      "published": "2025-12-12T20:43:37Z",
-      "image": "https://github.blog/wp-content/uploads/2025/12/image1_c8a727.png?resize=1024%2C320"
     },
     {
       "id": "0ea1e6845fb72fccd664b752f5ee51bd9c6de569",
