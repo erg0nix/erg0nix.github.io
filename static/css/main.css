@@ -42,13 +42,21 @@
   box-sizing: border-box;
 }
 
-body {
-  font-family: 'JetBrains Mono', 'SF Mono', 'Monaco', 'Inconsolata', 'Fira Code', 'Courier New', monospace;
-  margin: 0;
+html {
+  min-height: 100%;
+  min-height: calc(100% + env(safe-area-inset-top));
+  padding: env(safe-area-inset-top) env(safe-area-inset-right) env(safe-area-inset-bottom) env(safe-area-inset-left);
   background-color: var(--teide-bg-darker);
   background: linear-gradient(135deg, #1a1a2e 0%, #16213e 20%, #0f3460 40%, #533483 60%, #2a5298 80%, #16213e 100%);
   background-size: 400% 400%;
   animation: gradient 15s ease infinite;
+  background-attachment: fixed;
+}
+
+body {
+  font-family: 'JetBrains Mono', 'SF Mono', 'Monaco', 'Inconsolata', 'Fira Code', 'Courier New', monospace;
+  margin: 0;
+  background: transparent;
   color: var(--teide-fg);
   font-size: 14px;
   line-height: 1.6;
@@ -75,7 +83,7 @@ body::before {
 }
 
 /* Disable the big background gradient animation when weather is active */
-html[class*="weather-"] body {
+html[class*="weather-"] {
   animation: none;
 }
 
