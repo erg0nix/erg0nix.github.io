@@ -1,6 +1,56 @@
 {
-  "generated_at": "2026-01-15T06:39:41.366886Z",
+  "generated_at": "2026-01-16T06:39:43.548137Z",
   "items": [
+    {
+      "id": "0e0b7a492cb743f144d97083703f89e07ac0b464",
+      "title": "– Er det «uungåelig» å si at uskyldige har kjøpt sex fra barn?",
+      "link": "https://www.kode24.no/artikkel/er-det-uungaelig-a-si-at-uskyldige-har-kjopt-sex-fra-barn/253782",
+      "source": "Kode24",
+      "summary": "– Problemet med hallusinerende KI er kanskje umulig å løse, skriver Ole Petter i ukas nyhetsbrev. – Men et skritt på veien er å legge ansvaret for løgn på de som produserer den.",
+      "published": "2026-01-16T04:00:00Z"
+    },
+    {
+      "id": "288b52e14b68a13b83ea8cbd9b493f876acde3f9",
+      "title": "Building an agentic memory system for GitHub Copilot",
+      "link": "https://github.blog/ai-and-ml/github-copilot/building-an-agentic-memory-system-for-github-copilot/",
+      "source": "GitHub Blog",
+      "summary": "Copilot’s cross-agent memory system lets agents learn and improve across your development workflow, starting with coding agent, CLI, and code review. The post Building an agentic memory system for GitHub Copilot appeared first on The GitHub Blog.",
+      "published": "2026-01-15T21:31:10Z",
+      "image": "https://github.blog/wp-content/uploads/2026/01/01_Memory_generation-Blog-1200x630_15-12-25_1.jpg?resize=2400%2C1260"
+    },
+    {
+      "id": "da383348a239f66f40fc7a37051f4cfe8e875769",
+      "title": "When protections outlive their purpose: A lesson on managing defense systems at scale",
+      "link": "https://github.blog/engineering/infrastructure/when-protections-outlive-their-purpose-a-lesson-on-managing-defense-systems-at-scale/",
+      "source": "GitHub Blog",
+      "summary": "User feedback led us to clean up outdated mitigations. See why observability and lifecycle management are critical for defense systems. The post When protections outlive their purpose: A lesson on managing defense systems at scale appeared first on The GitHub Blog.",
+      "published": "2026-01-15T20:54:32Z",
+      "image": "https://github.blog/wp-content/uploads/2026/01/1.png?resize=1024%2C659"
+    },
+    {
+      "id": "5b13f5b5300d868e63d9f30ac71f5f73f8f5658d",
+      "title": "Raser mot Google: «Løgn­maskinene presses ned i halsen vår»",
+      "link": "https://www.kode24.no/artikkel/raser-mot-google-lognmaskinene-presses-ned-i-halsen-var/253671",
+      "source": "Kode24",
+      "summary": "– Tydelig eksempel på det som er farlig med KI, sier Eivind Trædal i MDG om at Googles KI-oversikt kom med grove påstander om toppolitikere.",
+      "published": "2026-01-15T11:29:18Z"
+    },
+    {
+      "id": "23ab09478262bb1de1bc74c69516cd7e88f97ff3",
+      "title": "Ut mot oppfordring til hjemmekontor: «Myndighetens ansvar»",
+      "link": "https://www.kode24.no/artikkel/ut-mot-oppfordring-til-hjemmekontor-myndighetens-ansvar/253755",
+      "source": "Kode24",
+      "summary": "– Kostnaden for trafikkproblemer må ikke skyves over på bedriftene, sier NHO til Børsen.",
+      "published": "2026-01-15T09:06:55Z"
+    },
+    {
+      "id": "c7114c19048a45881cbd61f841f4e015f1f466f8",
+      "title": "Grok skal slutte å kle av barn",
+      "link": "https://www.kode24.no/artikkel/grok-skal-slutte-a-kle-av-barn/253730",
+      "source": "Kode24",
+      "summary": "– Vi har satt i verk teknologiske tiltak for å hindre at Grok tillater redigering av reelle personer i avslørende bekledning som bikinier.",
+      "published": "2026-01-15T07:31:48Z"
+    },
     {
       "id": "e28c5293cfc42ad462276b910b414a3c550e4c59",
       "title": "Utvikleren Trym (44) i The Voice: «Det koker»",
@@ -28,8 +78,8 @@
     },
     {
       "id": "5b9cd408e28cbe2a650d2bbe67667efe90fe2494",
-      "title": "Mener Go er det beste språket for nybegynnere",
-      "link": "https://www.kode24.no/artikkel/mener-go-er-det-beste-spraket-for-nybegynnere/253685",
+      "title": "Mener Go er et bedre språk for ny­begynnere",
+      "link": "https://www.kode24.no/artikkel/mener-go-er-et-bedre-sprak-for-nybegynnere/253685",
       "source": "Kode24",
       "summary": "– Go, for nybegynnere i grunnleggende programmering, treffer bedre enn både Java, Kotlin og Python, skriver Christian Bjørnsrud, og forklarer hvorfor.",
       "published": "2026-01-14T10:06:04Z"
@@ -172,38 +222,6 @@
       "published": "2026-01-10T04:00:00Z"
     },
     {
-      "id": "4a497d214c7f53ea2380336c25c449ecdba62f30",
-      "title": "Jørgen skal både kode og designe: – Avgjørende i et marked som krever mer for mindre",
-      "link": "https://www.kode24.no/artikkel/jorgen-skal-bade-kode-og-designe-avgjorende-i-et-marked-som-krever-mer-for-mindre/253397",
-      "source": "Kode24",
-      "summary": "Jørgen Blindheim går til en hybridrolle hos Unfold de mener er helt avgjørende i dagens marked.",
-      "published": "2026-01-09T14:30:35Z"
-    },
-    {
-      "id": "0ba89aeaccee540dbb2bac9f08c761b9df763f0e",
-      "title": "Runar blir den nye sjefen til 130 teknologer",
-      "link": "https://www.kode24.no/artikkel/runar-blir-den-nye-sjefen-til-130-teknologer/253353",
-      "source": "Kode24",
-      "summary": "Regnskapsselskapet Aider vil \"redefinere hvordan teknologi brukes i regnskapsbransjen\" – og har ansatt Runar Vestrheim til å lede jobben.",
-      "published": "2026-01-09T12:30:47Z"
-    },
-    {
-      "id": "fcf2ab9ea8b4c4712787abf4c53e1ae89f34dab2",
-      "title": "Kalender-vinneren løste oppgaver på do",
-      "link": "https://www.kode24.no/artikkel/kalender-vinneren-loste-oppgaver-pa-do/253296",
-      "source": "Kode24",
-      "summary": "Mens vinnerlaget Evidi samla krefter fra hele Østlandet. Her er hovedvinnerne i kode24s julekalender 2025.",
-      "published": "2026-01-09T09:57:13Z"
-    },
-    {
-      "id": "4d3870a189ede2332729f373a39de86df489e589",
-      "title": "Du kan få trekk i lønn om du blir forsinka på jobb",
-      "link": "https://www.kode24.no/artikkel/du-kan-fa-trekk-i-lonn-om-du-blir-forsinka-pa-jobb/253298",
-      "source": "Kode24",
-      "summary": "At det er snøkaos er ikke nødvendigvis en gyldig unnskyldning, melder FriFagbevegelse",
-      "published": "2026-01-09T09:02:20Z"
-    },
-    {
       "id": "5b2ad68132186f6f0ed63e81f1865663e5e12d32",
       "title": "Why AI is pushing developers toward typed languages",
       "link": "https://github.blog/ai-and-ml/llms/why-ai-is-pushing-developers-toward-typed-languages/",
@@ -227,22 +245,6 @@
       "summary": "Learn why some long-enrolled OSS-Fuzz projects still contain vulnerabilities and how you can find them. The post Bugs that survive the heat of continuous fuzzing appeared first on The GitHub Blog.",
       "published": "2025-12-29T22:01:14Z",
       "image": "https://github.blog/wp-content/uploads/2025/12/fuzz1.png?resize=1024%2C425"
-    },
-    {
-      "id": "90f08f4a9faa18ebf1c0b92fdf1d332de2e28f8c",
-      "title": "WRAP up your backlog with GitHub Copilot coding agent",
-      "link": "https://github.blog/ai-and-ml/github-copilot/wrap-up-your-backlog-with-github-copilot-coding-agent/",
-      "source": "GitHub Blog",
-      "summary": "An easy-to-remember acronym, WRAP will help you write effective issues, refine your instructions, and get the most out of Copilot coding agent. The post WRAP up your backlog with GitHub Copilot coding agent appeared first on The GitHub Blog.",
-      "published": "2025-12-26T17:56:38Z"
-    },
-    {
-      "id": "b196f416a92754bbdddd89393382db55de9d8f79",
-      "title": "Strengthening supply chain security: Preparing for the next malware campaign",
-      "link": "https://github.blog/security/supply-chain-security/strengthening-supply-chain-security-preparing-for-the-next-malware-campaign/",
-      "source": "GitHub Blog",
-      "summary": "Security advice for users and maintainers to help reduce the impact of the next supply chain malware attack. The post Strengthening supply chain security: Preparing for the next malware campaign appeared first on The GitHub Blog.",
-      "published": "2025-12-23T23:52:08Z"
     },
     {
       "id": "0ea1e6845fb72fccd664b752f5ee51bd9c6de569",
