@@ -1,10 +1,42 @@
 {
-  "generated_at": "2026-01-16T06:39:43.548137Z",
+  "generated_at": "2026-01-17T06:36:08.580593Z",
   "items": [
     {
+      "id": "a6398b00dbb17dac292fde375a84af5ef856715e",
+      "title": "– Vi skulle mista jobben for lenge sida, så hva skjedde?",
+      "link": "https://www.kode24.no/artikkel/vi-skulle-mista-jobben-for-lenge-sida-sa-hva-skjedde/253903",
+      "source": "Kode24",
+      "summary": "KI-løgnen, skummel URL-generator, spådommer for 2026 og koselige Linux-videoer, i ukas Lørdagsgodt.",
+      "published": "2026-01-17T04:00:00Z"
+    },
+    {
+      "id": "82201689b397a6bf71d3645adcd33de5e15f1509",
+      "title": "Hvordan skrive jobbsøknad: «Jeg har idéer du kan stjele»",
+      "link": "https://www.kode24.no/artikkel/hvordan-skrive-jobbsoknad-jeg-har-ideer-du-kan-stjele/253837",
+      "source": "Kode24",
+      "summary": "– Skriver du jobbsøknader med ChatGPT og får avslag på avslag? Etter å ha lest nesten 300 jobbsøknader nylig, har jeg noen idéer du kan stjele, skriver Marie Elena Mathisen.",
+      "published": "2026-01-16T11:25:25Z"
+    },
+    {
+      "id": "9502f7bf83b54b4c0ea511e7a26b69ee8633015a",
+      "title": "Johannes (61) til Twoday: – Dette er både jobben min og hobbyen min",
+      "link": "https://www.kode24.no/artikkel/johannes-61-til-twoday-dette-er-bade-jobben-min-og-hobbyen-min/253822",
+      "source": "Kode24",
+      "summary": "Med over 35 års erfaring har Johannes Melkeraaen (61) fått seg ny jobb i Twoday.",
+      "published": "2026-01-16T09:03:05Z"
+    },
+    {
+      "id": "91940f5372b2f6fd4cedd7ddba79f98ca9c4fb4e",
+      "title": "People Made Machines: «Didrik er en sjelden kombinasjon»",
+      "link": "https://www.kode24.no/artikkel/people-made-machines-didrik-er-en-sjelden-kombinasjon/253790",
+      "source": "Kode24",
+      "summary": "Interessen for kunstig intelligens dukket opp under studiene på NTNU. Ikke mange har denne erfaringen Didrik Galteland har, mener hans nye sjef i People Made Machines.",
+      "published": "2026-01-16T08:45:44Z"
+    },
+    {
       "id": "0e0b7a492cb743f144d97083703f89e07ac0b464",
-      "title": "– Er det «uungåelig» å si at uskyldige har kjøpt sex fra barn?",
-      "link": "https://www.kode24.no/artikkel/er-det-uungaelig-a-si-at-uskyldige-har-kjopt-sex-fra-barn/253782",
+      "title": "– Er det «uunngåelig» å si at uskyldige har kjøpt sex fra barn?",
+      "link": "https://www.kode24.no/artikkel/er-det-uunngaelig-a-si-at-uskyldige-har-kjopt-sex-fra-barn/253782",
       "source": "Kode24",
       "summary": "– Problemet med hallusinerende KI er kanskje umulig å løse, skriver Ole Petter i ukas nyhetsbrev. – Men et skritt på veien er å legge ansvaret for løgn på de som produserer den.",
       "published": "2026-01-16T04:00:00Z"
@@ -181,30 +213,6 @@
       "published": "2026-01-12T07:45:03Z"
     },
     {
-      "id": "8bc41fcebaf95b3b495d5f43373653b90d53d83c",
-      "title": "Meta sletta en halv million brukere: Ber Australia revurdere alders­grense",
-      "link": "https://www.kode24.no/artikkel/meta-sletta-en-halv-million-brukere-ber-australia-revurdere-aldersgrense/253427",
-      "source": "Kode24",
-      "summary": "– Vi oppfordrer Australias regjering til å engasjere seg konstruktivt i en dialog med bransjen for å finne en bedre vei videre.",
-      "published": "2026-01-12T07:19:53Z"
-    },
-    {
-      "id": "4a41779d8424a0b0cb249c69049fd1d21be03221",
-      "title": "Forbyr Grok: «Grovt støtende»",
-      "link": "https://www.kode24.no/artikkel/forbyr-grok-grovt-stotende/253414",
-      "source": "Kode24",
-      "summary": "Indonesia og Malaysia forbyr Grok etter bråk rundt hva Elon Musks KI genererer.",
-      "published": "2026-01-12T07:13:10Z"
-    },
-    {
-      "id": "9b544c09236720d9207e27484ee3fa94e304d887",
-      "title": "Tobias (17) lagde Vipps’ jule­assistent – fikk tusenvis av brukere",
-      "link": "https://www.kode24.no/artikkel/tobias-17-lagde-vipps-juleassistent-fikk-tusenvis-av-brukere/253234",
-      "source": "Kode24",
-      "summary": "KI-assistenten til Vipps hadde 3.000 daglig brukere i julen. Bak løsningen finner man 17-åringen Tobias Zjidemans.",
-      "published": "2026-01-12T04:00:00Z"
-    },
-    {
       "id": "2557b29339c0d273686a316f4b2a3c6e1c06dd90",
       "title": "Light waves, rising tides, and drifting ships: Game Off 2025 winners",
       "link": "https://github.blog/open-source/gaming/light-waves-rising-tides-and-drifting-ships-game-off-2025-winners/",
@@ -212,14 +220,6 @@
       "summary": "Out of more than 700 games submitted to Game Off 2025, these ten winners stand out for creativity, craft, and bold interpretations of the WAVES theme. All are free to play, with source code available to explore. The post Light waves, rising tides, and drifting ships: Game Off 2025 winners appeared...",
       "published": "2026-01-10T21:36:00Z",
       "image": "https://avatars.githubusercontent.com/u/197415424?v=4&s=64"
-    },
-    {
-      "id": "25fb5ab65085ed71764b795cceb604211c2e033b",
-      "title": "Nå kommer robotene: – Dumme som brød, sterke som bjørner",
-      "link": "https://www.kode24.no/artikkel/na-kommer-robotene-dumme-som-brod-sterke-som-bjorner/253381",
-      "source": "Kode24",
-      "summary": "Skremmende framtidsvisjon fra Boston Dynamics, Wordle med hester, fancy nettsider og den nye Lego-brikka, i ukas Lørdagsgodt.",
-      "published": "2026-01-10T04:00:00Z"
     },
     {
       "id": "5b2ad68132186f6f0ed63e81f1865663e5e12d32",
