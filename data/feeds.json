@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-01-19T06:45:11.255743Z",
+  "generated_at": "2026-01-20T06:42:03.700905Z",
   "items": [
+    {
+      "id": "32eecc7dcc491c423d01c5c815e5467b1231c225",
+      "title": "Her trenger du ikke skrive jobbsøknad",
+      "link": "https://www.kode24.no/artikkel/her-trenger-du-ikke-skrive-jobbsoknad/253937",
+      "source": "Kode24",
+      "summary": "Skatteetaten har fjernet krav om søknadsbrev i mange utlyste utviklerstillinger – i frykt for diskriminering.",
+      "published": "2026-01-20T04:00:00Z"
+    },
+    {
+      "id": "5d6d75c5c328629dafd0dbb05dea7232f8fde75a",
+      "title": "Verst luft i åpne kontor­landskap",
+      "link": "https://www.kode24.no/artikkel/verst-luft-i-apne-kontorlandskap/254027",
+      "source": "Kode24",
+      "summary": "En fersk studie utført av Statens arbeidsmiljøinstitutt (Stami) viser at åpne kontorlandskap kan forsterke ubehag og helseplager hos ansatte.",
+      "published": "2026-01-19T14:45:49Z"
+    },
+    {
+      "id": "36fcbe1f7fd11d1c019c5fe8b2b2385025436b79",
+      "title": "KI-juks doblet på ett år: «Ikke bra»",
+      "link": "https://www.kode24.no/artikkel/ki-juks-doblet-pa-ett-ar-ikke-bra/254008",
+      "source": "Kode24",
+      "summary": "Antallet studenter som blir tatt for fusk ved hjelp av kunstig intelligens ved norske universiteter har doblet seg på ett år.",
+      "published": "2026-01-19T13:46:16Z"
+    },
+    {
+      "id": "0738fa94d14256d5125c5b5477e4b5f143f89af2",
+      "title": "jQuery fyller 20 år, feirer med versjon 4.0.0",
+      "link": "https://www.kode24.no/artikkel/jquery-fyller-20-ar-feirer-med-versjon-400/253967",
+      "source": "Kode24",
+      "summary": "Første hovedversjon på 10 år preges av færre funksjoner, ikke flere. – Det gir mening.",
+      "published": "2026-01-19T10:20:57Z"
+    },
+    {
+      "id": "e1dc1c9d43e844d85b59a44302f082c790e2cc2e",
+      "title": "Statsråden krever at Google tar grep etter sex-påstander",
+      "link": "https://www.kode24.no/artikkel/statsraden-krever-at-google-tar-grep-etter-sex-pastander/253933",
+      "source": "Kode24",
+      "summary": "Karianne Tung reagerer kraftig på kode24s avsløringer av at KI-oversikt fant opp kriminelt rulleblad til en tidligere SV-topp og andre politikere.",
+      "published": "2026-01-19T09:41:23Z"
+    },
+    {
+      "id": "de0a89e98c6467b744d43f3576ac6594051bb78d",
+      "title": "Cloudflare kjøper Astro",
+      "link": "https://www.kode24.no/artikkel/cloudflare-kjoper-astro/253942",
+      "source": "Kode24",
+      "summary": "Cloudflare vil trolig få enda flere kunder, Astro vil slippe å bekymre seg for penga.",
+      "published": "2026-01-19T09:13:33Z"
+    },
     {
       "id": "92f67a132f4afcba8572f92e17d0267bb3e9d902",
       "title": "NM i KI arrangeres for første gang for alle. Premiepotten er på 1 million kroner",
@@ -157,60 +205,12 @@
       "published": "2026-01-13T18:39:24Z"
     },
     {
-      "id": "cf9d1df75841539d28d8ea74ad4d86669784c66d",
-      "title": "Westerlins tjeneste skal tidoble Tinder-treff: – Alt jeg misliker med KI",
-      "link": "https://www.kode24.no/artikkel/westerlins-tjeneste-skal-tidoble-tinder-treff-alt-jeg-misliker-med-ki/253490",
-      "source": "Kode24",
-      "summary": "– Det handler om hvordan vi bygger et samfunn der teknologi styrker, ikke undergraver, menneskelige relasjoner, skriver Vegard Mongstad Haavik i ARTI Consult.",
-      "published": "2026-01-13T12:43:38Z"
-    },
-    {
-      "id": "3eb9c889578998a79a60381d4f20201da4ab504c",
-      "title": "4 CSS-nyheter du bør bruke i 2026",
-      "link": "https://www.kode24.no/artikkel/4-css-nyheter-du-bor-bruke-i-2026/253575",
-      "source": "Kode24",
-      "summary": "CSS-nyheter, Tailwind-dramaet, mer throttling i Chrome, React Conf-oppsummering og MCP-apper i VS Code, i ukas ForrigeUke.",
-      "published": "2026-01-13T11:20:34Z"
-    },
-    {
-      "id": "82ea66e5a32b7a890bf52f16a270f17345bd6242",
-      "title": "TU Media legger ned utvikler-avdelingen, fem mister jobben",
-      "link": "https://www.kode24.no/artikkel/tu-media-legger-ned-utvikler-avdelingen-fem-mister-jobben/253533",
-      "source": "Kode24",
-      "summary": "– Endringen er nødvendig, selv om det er trist, sier direktøren, som gir sluttpakker til fem.",
-      "published": "2026-01-13T08:56:52Z"
-    },
-    {
-      "id": "3abd50081c425e78c57456edcdc64a0c78cc5660",
-      "title": "Øyeprofessor vil ha skjermvett i nye skjermråd",
-      "link": "https://www.kode24.no/artikkel/oyeprofessor-vil-ha-skjermvett-i-nye-skjermrad/253519",
-      "source": "Kode24",
-      "summary": "Øyeprofessor savner råd om forholdet mellom skjermbruk og helse. Mange starter og avslutter dagen med skjerm.",
-      "published": "2026-01-13T07:31:12Z"
-    },
-    {
-      "id": "e12b450b6012b760eefc76051c6473efefd0539d",
-      "title": "Slepp laus bank­dataene våre!",
-      "link": "https://www.kode24.no/artikkel/slepp-laus-bankdataene-vare/253458",
-      "source": "Kode24",
-      "summary": "– Eg måtte diverre konkludere med at, nei, vi har tilsynelatande ikkje andre bankar i Noreg som tilbyd opne API for kundane sine. Skuffande! skriver Sverre Johann Bjørke.",
-      "published": "2026-01-13T04:00:00Z"
-    },
-    {
       "id": "66c758a7d511dd59f27b79f589d3745a6862842d",
       "title": "Want better AI outputs? Try context engineering.",
       "link": "https://github.blog/ai-and-ml/generative-ai/want-better-ai-outputs-try-context-engineering/",
       "source": "GitHub Blog",
       "summary": "Learn how custom instructions, reusable prompts, and custom agents help GitHub Copilot deliver more accurate results. The post Want better AI outputs? Try context engineering. appeared first on The GitHub Blog.",
       "published": "2026-01-12T17:00:00Z"
-    },
-    {
-      "id": "bbfaede63025b76ddf01cec64364b3f17d5190c9",
-      "title": "Trenger vi en KI-minister? – Jeg jobber med KI hver eneste dag, sier Tung",
-      "link": "https://www.kode24.no/artikkel/trenger-vi-en-ki-minister-jeg-jobber-med-ki-hver-eneste-dag-sier-tung/253338",
-      "source": "Kode24",
-      "summary": "– Og hele regjeringen står samlet bak intensjonen om å utnytte mulighetene KI gir, sier digitaliseringsminister Karianne Tung om KI-ministerforslaget.",
-      "published": "2026-01-12T10:01:19Z"
     },
     {
       "id": "2557b29339c0d273686a316f4b2a3c6e1c06dd90",
