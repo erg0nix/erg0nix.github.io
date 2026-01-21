@@ -1,6 +1,72 @@
 {
-  "generated_at": "2026-01-20T06:42:03.700905Z",
+  "generated_at": "2026-01-21T06:42:38.899109Z",
   "items": [
+    {
+      "id": "fd458c7505fc7461dbb21f2d34db757337961838",
+      "title": "Rekordmange studentar vil ha sommar­­jobb i Leikanger",
+      "link": "https://www.kode24.no/artikkel/rekordmange-studentar-vil-ha-sommarjobb-i-leikanger/254029",
+      "source": "Kode24",
+      "summary": "143 søkarar til DigDirCamp: – Mogleg eit signal om at det blir vanskelegare å komme ut i jobb for nyutdanna.",
+      "published": "2026-01-21T04:00:00Z"
+    },
+    {
+      "id": "2d640893ca5ffcb9005a1d54e250cd02b2c7bf62",
+      "title": "AI-supported vulnerability triage with the GitHub Security Lab Taskflow Agent",
+      "link": "https://github.blog/security/ai-supported-vulnerability-triage-with-the-github-security-lab-taskflow-agent/",
+      "source": "GitHub Blog",
+      "summary": "Learn how we are using the newly released GitHub Security Lab Taskflow Agent to triage categories of vulnerabilities in GitHub Actions and JavaScript projects. The post AI-supported vulnerability triage with the GitHub Security Lab Taskflow Agent appeared first on The GitHub Blog.",
+      "published": "2026-01-20T19:52:50Z",
+      "image": "https://github.blog/wp-content/uploads/2026/01/01_sample-taskflow.png?resize=1024%2C209"
+    },
+    {
+      "id": "6ddf41765223f69c2051fdbd7ffadf747a44c6db",
+      "title": "Context windows, Plan agent, and TDD: What I learned building a countdown app with GitHub Copilot",
+      "link": "https://github.blog/developer-skills/application-development/context-windows-plan-agent-and-tdd-what-i-learned-building-a-countdown-app-with-github-copilot/",
+      "source": "GitHub Blog",
+      "summary": "Learn how I managed context to keep Copilot focused, used the Plan agent to sharpen vague requirements, and required Test Driven Development practices to catch bugs before users. The post Context windows, Plan agent, and TDD: What I learned building a countdown app with GitHub Copilot appeared...",
+      "published": "2026-01-20T17:00:00Z",
+      "image": "https://github.blog/wp-content/uploads/2026/01/setup-info.png?resize=1024%2C314"
+    },
+    {
+      "id": "7bfa7e80521d7a04f4121d3b184eb8f493059a8a",
+      "title": "Reagerer: Spiller KI-låter i norske begravelser",
+      "link": "https://www.kode24.no/artikkel/reagerer-spiller-ki-later-i-norske-begravelser/254157",
+      "source": "Kode24",
+      "summary": "Flere kirkemusikere opplever at pårørende ber om å spille KI-musikk i begravelser. Fagforbundet Creo mener at Kirkerådet må ta grep.",
+      "published": "2026-01-20T15:27:32Z"
+    },
+    {
+      "id": "a2cf71d6a0e94bf455e8ea176455c42372cbdc61",
+      "title": "Brenner for flere jenter i teknologi",
+      "link": "https://www.kode24.no/artikkel/brenner-for-flere-jenter-i-teknologi/253746",
+      "source": "Kode24",
+      "summary": "– Viktig for meg at kvinner også motiveres, da denne gruppen generelt sett ofte er underrepresentert innenfor entreprenørskap, sier Ukas Koder Mithila Packiyanathan.",
+      "published": "2026-01-20T12:06:23Z"
+    },
+    {
+      "id": "11502431cd5e59d57217fdd7366cbb350953a9a9",
+      "title": "Tre nye til Twoday i Ålesund: – Vil gjerne kunne være meg selv på jobb",
+      "link": "https://www.kode24.no/artikkel/tre-nye-til-twoday-i-alesund-vil-gjerne-kunne-vaere-meg-selv-pa-jobb/254118",
+      "source": "Kode24",
+      "summary": "Dag Håkon Baardsen, Frank William Daniels og Therese Nesseth Tørlen har fått seg ny jobb.",
+      "published": "2026-01-20T12:04:27Z"
+    },
+    {
+      "id": "e064af5e184d0cd8a6c194949878099b5e7b222f",
+      "title": "– Mangel på mangfold gjør oss utsatt",
+      "link": "https://www.kode24.no/artikkel/mangel-pa-mangfold-gjor-oss-utsatt/254055",
+      "source": "Kode24",
+      "summary": "– For den neste store hendelsen kan ramme skyleverandøren eller biblioteket nettopp din applikasjon er avhengig av, advarer Kent Inge Fagerland Simonsen.",
+      "published": "2026-01-20T09:36:22Z"
+    },
+    {
+      "id": "56477e19a3e590661a7d9a69a551ef06c4511133",
+      "title": "Flere land vurderer aldersgrense i sosiale medier",
+      "link": "https://www.kode24.no/artikkel/flere-land-vurderer-aldersgrense-i-sosiale-medier/254078",
+      "source": "Kode24",
+      "summary": "Mange europeiske land snuser nå på forbud mot sosiale medier for barn, etter modell fra Australia.",
+      "published": "2026-01-20T09:09:25Z"
+    },
     {
       "id": "32eecc7dcc491c423d01c5c815e5467b1231c225",
       "title": "Her trenger du ikke skrive jobbsøknad",
@@ -132,22 +198,6 @@
       "published": "2026-01-15T09:06:55Z"
     },
     {
-      "id": "c7114c19048a45881cbd61f841f4e015f1f466f8",
-      "title": "Grok skal slutte å kle av barn",
-      "link": "https://www.kode24.no/artikkel/grok-skal-slutte-a-kle-av-barn/253730",
-      "source": "Kode24",
-      "summary": "– Vi har satt i verk teknologiske tiltak for å hindre at Grok tillater redigering av reelle personer i avslørende bekledning som bikinier.",
-      "published": "2026-01-15T07:31:48Z"
-    },
-    {
-      "id": "e28c5293cfc42ad462276b910b414a3c550e4c59",
-      "title": "Utvikleren Trym (44) i The Voice: «Det koker»",
-      "link": "https://www.kode24.no/artikkel/utvikleren-trym-44-i-the-voice-det-koker/253453",
-      "source": "Kode24",
-      "summary": "For ti år siden la Trym Bjønnes musikken til side og ble utvikler. Nå satser han på musikkarieren igjen, i «The Voice» på TV 2.",
-      "published": "2026-01-15T04:00:00Z"
-    },
-    {
       "id": "9293dd6d5a643418ae330e7aed02df31057d85dc",
       "title": "GitHub Availability Report: December 2025",
       "link": "https://github.blog/news-insights/company-news/github-availability-report-december-2025/",
@@ -163,38 +213,6 @@
       "summary": "Announcing GitHub Security Lab Taskflow Agent, an open source and collaborative framework for security research with AI. The post Community-powered security with AI: an open source framework for security research appeared first on The GitHub Blog.",
       "published": "2026-01-14T18:45:09Z",
       "image": "https://github.blog/wp-content/uploads/2026/01/fine-grained-pat.png?resize=1024%2C496"
-    },
-    {
-      "id": "5b9cd408e28cbe2a650d2bbe67667efe90fe2494",
-      "title": "Mener Go er et bedre språk for ny­begynnere",
-      "link": "https://www.kode24.no/artikkel/mener-go-er-et-bedre-sprak-for-nybegynnere/253685",
-      "source": "Kode24",
-      "summary": "– Go, for nybegynnere i grunnleggende programmering, treffer bedre enn både Java, Kotlin og Python, skriver Christian Bjørnsrud, og forklarer hvorfor.",
-      "published": "2026-01-14T10:06:04Z"
-    },
-    {
-      "id": "1e77e7b0b26f7d2d0956a614bfc04913c8125698",
-      "title": "Vil forby Grok i Norge",
-      "link": "https://www.kode24.no/artikkel/vil-forby-grok-i-norge/253663",
-      "source": "Kode24",
-      "summary": "– Vi kan ikke sitte stille mens det lanseres KI-verktøy som normaliserer overgrep mot barn, sier stortingsrepresentant Hashim Abdi (Ap)",
-      "published": "2026-01-14T08:32:51Z"
-    },
-    {
-      "id": "58ddcc8d4656fb1d4a00aa107358f84d902584d4",
-      "title": "Stor nedgang i alvorlige hendelser hos DNB",
-      "link": "https://www.kode24.no/artikkel/stor-nedgang-i-alvorlige-hendelser-hos-dnb/253571",
-      "source": "Kode24",
-      "summary": "DNB har hatt jevn nedgang i alvorlige sikkerhetshendelser siden 2020. I fjor hadde ikke banken én eneste.",
-      "published": "2026-01-14T08:22:04Z"
-    },
-    {
-      "id": "6f81635bdf28c1c676fd05bc9e1204c0e2517e5f",
-      "title": "Googles KI kom med grove påstandar om tidlegare SV-topp",
-      "link": "https://www.kode24.no/artikkel/googles-ki-kom-med-grove-pastandar-om-tidlegare-sv-topp/253566",
-      "source": "Kode24",
-      "summary": "Fire politikarar var involvert i rettssaker eller til og med dømte, hevda Google. Det stemte berre i eitt av tilfella. – Grovt og kjipt, seier tidlegare SV-statsråd Heikki Holmås.",
-      "published": "2026-01-14T04:00:00Z"
     },
     {
       "id": "01caf1c4d8ba937459daf41698fb62e136f4d7dd",
@@ -228,23 +246,6 @@
       "source": "GitHub Blog",
       "summary": "AI is settling the “typed vs. untyped” debate by turning type systems into the safety net for code you didn’t write yourself. The post Why AI is pushing developers toward typed languages appeared first on The GitHub Blog.",
       "published": "2026-01-08T22:25:54Z"
-    },
-    {
-      "id": "e11a92c7a33b6633ea8d1d11370644f0159367d7",
-      "title": "Agentic AI, MCP, and spec-driven development: Top blog posts of 2025",
-      "link": "https://github.blog/developer-skills/agentic-ai-mcp-and-spec-driven-development-top-blog-posts-of-2025/",
-      "source": "GitHub Blog",
-      "summary": "Explore the GitHub Blog’s top posts covering the biggest software development topics of the year. The post Agentic AI, MCP, and spec-driven development: Top blog posts of 2025 appeared first on The GitHub Blog.",
-      "published": "2025-12-30T17:20:10Z"
-    },
-    {
-      "id": "6eb9c322cd3074011f5ef2ea49f09be649015fd6",
-      "title": "Bugs that survive the heat of continuous fuzzing",
-      "link": "https://github.blog/security/vulnerability-research/bugs-that-survive-the-heat-of-continuous-fuzzing/",
-      "source": "GitHub Blog",
-      "summary": "Learn why some long-enrolled OSS-Fuzz projects still contain vulnerabilities and how you can find them. The post Bugs that survive the heat of continuous fuzzing appeared first on The GitHub Blog.",
-      "published": "2025-12-29T22:01:14Z",
-      "image": "https://github.blog/wp-content/uploads/2025/12/fuzz1.png?resize=1024%2C425"
     },
     {
       "id": "0ea1e6845fb72fccd664b752f5ee51bd9c6de569",
