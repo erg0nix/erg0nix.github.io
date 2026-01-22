@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-01-21T06:42:38.899109Z",
+  "generated_at": "2026-01-22T06:40:53.951060Z",
   "items": [
+    {
+      "id": "f67300a2a618eaaa38558043ea01ec935bb1dec8",
+      "title": "Fulltegna hackaton for digitale lommebøker: «Voldsom interesse»",
+      "link": "https://www.kode24.no/artikkel/fulltegna-hackaton-for-digitale-lommeboker-voldsom-interesse/254092",
+      "source": "Kode24",
+      "summary": "EU-land skal snart innføre felles «digital lommebok». I Norge testes det for fullt hvordan vi best kan bruke det, dersom politikerne vil ha det.",
+      "published": "2026-01-22T04:00:00Z"
+    },
+    {
+      "id": "51eb595a62c9f444dbd23e91ffb13181f65317b7",
+      "title": "A cheat sheet to slash commands in GitHub Copilot CLI",
+      "link": "https://github.blog/ai-and-ml/github-copilot/a-cheat-sheet-to-slash-commands-in-github-copilot-cli/",
+      "source": "GitHub Blog",
+      "summary": "Run tests, fix code, and get support—right in your workflow. Stay focused and let Copilot handle the busywork. The post A cheat sheet to slash commands in GitHub Copilot CLI appeared first on The GitHub Blog.",
+      "published": "2026-01-21T17:09:10Z"
+    },
+    {
+      "id": "0093e64b0afc8979670486b94eb31f794fca107a",
+      "title": "KI-laget hitlåt utestengt fra norsk toppliste",
+      "link": "https://www.kode24.no/artikkel/ki-laget-hitlat-utestengt-fra-norsk-toppliste/254293",
+      "source": "Kode24",
+      "summary": "Den KI-genererte sangen «Jag vet, du är inte min» er utestengt også fra den norske topplisten, melder VG.",
+      "published": "2026-01-21T14:33:50Z"
+    },
+    {
+      "id": "4bebcbfcec1ae9ef0f298f9caa9b1c5c387c7436",
+      "title": "Flere kommuner vil frigjøre seg fra USA",
+      "link": "https://www.kode24.no/artikkel/flere-kommuner-vil-frigjore-seg-fra-usa/254237",
+      "source": "Kode24",
+      "summary": "– Vi merker større etterspørsel, forteller Acos, som oppgraderer systemene sine bort fra Microsoft og Google.",
+      "published": "2026-01-21T14:21:28Z"
+    },
+    {
+      "id": "bd3f3d7971854a3c2351c48f0656c04a6fdcc822",
+      "title": "Nektet å gi ut person­opplysninger. Får bot på kvart million kroner",
+      "link": "https://www.kode24.no/artikkel/nektet-a-gi-ut-personopplysninger-far-bot-pa-kvart-million-kroner/254181",
+      "source": "Kode24",
+      "summary": "Timegrip AS ville ikke gi 80 ansatte innsyn i egne timelister etter butikk-konkurs. – Brudd på innsynsretten, slår Datatilsynet fast.",
+      "published": "2026-01-21T11:39:50Z"
+    },
+    {
+      "id": "d6265388adeeca3a428a26c80fdaf5d14a5126dc",
+      "title": "Mer stress på jobber styrt av algoritmer",
+      "link": "https://www.kode24.no/artikkel/mer-stress-pa-jobber-styrt-av-algoritmer/254203",
+      "source": "Kode24",
+      "summary": "Arbeidsplasser med algoritimiske ledere viser tegn til økt stress, arbeidstempo og tidspress.",
+      "published": "2026-01-21T10:30:43Z"
+    },
+    {
+      "id": "ae871a6fd06c21bc32c34c6cab6b3c1c90ce46ab",
+      "title": "Curl kutter «bug bounty» etter KI-søppel",
+      "link": "https://www.kode24.no/artikkel/curl-kutter-bug-bounty-etter-ki-soppel/254185",
+      "source": "Kode24",
+      "summary": "– Vi må gjøre et forsøk på å bremse floden, for å ikke drukne, sier utvikleren Daniel Stenberg.",
+      "published": "2026-01-21T08:39:28Z"
+    },
     {
       "id": "fd458c7505fc7461dbb21f2d34db757337961838",
       "title": "Rekordmange studentar vil ha sommar­­jobb i Leikanger",
@@ -8,6 +64,15 @@
       "source": "Kode24",
       "summary": "143 søkarar til DigDirCamp: – Mogleg eit signal om at det blir vanskelegare å komme ut i jobb for nyutdanna.",
       "published": "2026-01-21T04:00:00Z"
+    },
+    {
+      "id": "27a1ea166fc2a10fe1932a8430150324117a626c",
+      "title": "Results from the 2025 Go Developer Survey",
+      "link": "https://go.dev/blog/survey2025",
+      "source": "Go Blog",
+      "summary": "The 2025 Go Developer Survey results, focused on developer sentiment towards Go, use cases, challenges, and developer environments.",
+      "published": "2026-01-21T00:00:00Z",
+      "image": "https://go.dev/blog/survey2025/where.svg"
     },
     {
       "id": "2d640893ca5ffcb9005a1d54e250cd02b2c7bf62",
@@ -132,38 +197,6 @@
       "published": "2026-01-17T04:00:00Z"
     },
     {
-      "id": "82201689b397a6bf71d3645adcd33de5e15f1509",
-      "title": "Hvordan skrive jobbsøknad: «Jeg har idéer du kan stjele»",
-      "link": "https://www.kode24.no/artikkel/hvordan-skrive-jobbsoknad-jeg-har-ideer-du-kan-stjele/253837",
-      "source": "Kode24",
-      "summary": "– Skriver du jobbsøknader med ChatGPT og får avslag på avslag? Etter å ha lest nesten 300 jobbsøknader nylig, har jeg noen idéer du kan stjele, skriver Marie Elena Mathisen.",
-      "published": "2026-01-16T11:25:25Z"
-    },
-    {
-      "id": "9502f7bf83b54b4c0ea511e7a26b69ee8633015a",
-      "title": "Johannes (61) til Twoday: – Dette er både jobben min og hobbyen min",
-      "link": "https://www.kode24.no/artikkel/johannes-61-til-twoday-dette-er-bade-jobben-min-og-hobbyen-min/253822",
-      "source": "Kode24",
-      "summary": "Med over 35 års erfaring har Johannes Melkeraaen (61) fått seg ny jobb i Twoday.",
-      "published": "2026-01-16T09:03:05Z"
-    },
-    {
-      "id": "91940f5372b2f6fd4cedd7ddba79f98ca9c4fb4e",
-      "title": "People Made Machines: «Didrik er en sjelden kombinasjon»",
-      "link": "https://www.kode24.no/artikkel/people-made-machines-didrik-er-en-sjelden-kombinasjon/253790",
-      "source": "Kode24",
-      "summary": "Interessen for kunstig intelligens dukket opp under studiene på NTNU. Ikke mange har denne erfaringen Didrik Galteland har, mener hans nye sjef i People Made Machines.",
-      "published": "2026-01-16T08:45:44Z"
-    },
-    {
-      "id": "0e0b7a492cb743f144d97083703f89e07ac0b464",
-      "title": "– Er det «uunngåelig» å si at uskyldige har kjøpt sex fra barn?",
-      "link": "https://www.kode24.no/artikkel/er-det-uunngaelig-a-si-at-uskyldige-har-kjopt-sex-fra-barn/253782",
-      "source": "Kode24",
-      "summary": "– Problemet med hallusinerende KI er kanskje umulig å løse, skriver Ole Petter i ukas nyhetsbrev. – Men et skritt på veien er å legge ansvaret for løgn på de som produserer den.",
-      "published": "2026-01-16T04:00:00Z"
-    },
-    {
       "id": "288b52e14b68a13b83ea8cbd9b493f876acde3f9",
       "title": "Building an agentic memory system for GitHub Copilot",
       "link": "https://github.blog/ai-and-ml/github-copilot/building-an-agentic-memory-system-for-github-copilot/",
@@ -180,22 +213,6 @@
       "summary": "User feedback led us to clean up outdated mitigations. See why observability and lifecycle management are critical for defense systems. The post When protections outlive their purpose: A lesson on managing defense systems at scale appeared first on The GitHub Blog.",
       "published": "2026-01-15T20:54:32Z",
       "image": "https://github.blog/wp-content/uploads/2026/01/1.png?resize=1024%2C659"
-    },
-    {
-      "id": "5b13f5b5300d868e63d9f30ac71f5f73f8f5658d",
-      "title": "Raser mot Google: «Løgn­maskinene presses ned i halsen vår»",
-      "link": "https://www.kode24.no/artikkel/raser-mot-google-lognmaskinene-presses-ned-i-halsen-var/253671",
-      "source": "Kode24",
-      "summary": "– Tydelig eksempel på det som er farlig med KI, sier Eivind Trædal i MDG om at Googles KI-oversikt kom med grove påstander om toppolitikere.",
-      "published": "2026-01-15T11:29:18Z"
-    },
-    {
-      "id": "23ab09478262bb1de1bc74c69516cd7e88f97ff3",
-      "title": "Ut mot oppfordring til hjemmekontor: «Myndighetens ansvar»",
-      "link": "https://www.kode24.no/artikkel/ut-mot-oppfordring-til-hjemmekontor-myndighetens-ansvar/253755",
-      "source": "Kode24",
-      "summary": "– Kostnaden for trafikkproblemer må ikke skyves over på bedriftene, sier NHO til Børsen.",
-      "published": "2026-01-15T09:06:55Z"
     },
     {
       "id": "9293dd6d5a643418ae330e7aed02df31057d85dc",
@@ -238,14 +255,6 @@
       "summary": "Out of more than 700 games submitted to Game Off 2025, these ten winners stand out for creativity, craft, and bold interpretations of the WAVES theme. All are free to play, with source code available to explore. The post Light waves, rising tides, and drifting ships: Game Off 2025 winners appeared...",
       "published": "2026-01-10T21:36:00Z",
       "image": "https://avatars.githubusercontent.com/u/197415424?v=4&s=64"
-    },
-    {
-      "id": "5b2ad68132186f6f0ed63e81f1865663e5e12d32",
-      "title": "Why AI is pushing developers toward typed languages",
-      "link": "https://github.blog/ai-and-ml/llms/why-ai-is-pushing-developers-toward-typed-languages/",
-      "source": "GitHub Blog",
-      "summary": "AI is settling the “typed vs. untyped” debate by turning type systems into the safety net for code you didn’t write yourself. The post Why AI is pushing developers toward typed languages appeared first on The GitHub Blog.",
-      "published": "2026-01-08T22:25:54Z"
     },
     {
       "id": "0ea1e6845fb72fccd664b752f5ee51bd9c6de569",
@@ -321,14 +330,6 @@
       "source": "Go Blog",
       "summary": "Go now has a built-in, native FIPS 140-3 compliant mode.",
       "published": "2025-07-15T00:00:00Z"
-    },
-    {
-      "id": "3a21f756f4be9e526e3eb8ecdc26996d7e5a5c9d",
-      "title": "Generic interfaces",
-      "link": "https://go.dev/blog/generic-interfaces",
-      "source": "Go Blog",
-      "summary": "Adding type parameters to interface types is surprisingly powerful",
-      "published": "2025-07-07T00:00:00Z"
     }
   ]
 }
