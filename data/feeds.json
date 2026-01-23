@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-01-22T06:40:53.951060Z",
+  "generated_at": "2026-01-23T06:40:39.465442Z",
   "items": [
+    {
+      "id": "8ee7d4bc13c6fd8e3d879ae5822723d3ef9c4ff3",
+      "title": "Går ut i pappa­perm: – Men hva kommer jeg tilbake til?",
+      "link": "https://www.kode24.no/artikkel/gar-ut-i-pappaperm-men-hva-kommer-jeg-tilbake-til/254399",
+      "source": "Kode24",
+      "summary": "– Bare min siste uke på jobb har kode24 hatt artikler som gjør meg litt... spent, skriver Ole Petter.",
+      "published": "2026-01-23T04:00:00Z"
+    },
+    {
+      "id": "b1f51485939f63d14601f2f5f7bf708b629e4a3e",
+      "title": "Build an agent into any app with the GitHub Copilot SDK",
+      "link": "https://github.blog/news-insights/company-news/build-an-agent-into-any-app-with-the-github-copilot-sdk/",
+      "source": "GitHub Blog",
+      "summary": "Now in technical preview, the GitHub Copilot SDK can plan, invoke tools, edit files, and run commands as a programmable layer you can use in any application. The post Build an agent into any app with the GitHub Copilot SDK appeared first on The GitHub Blog.",
+      "published": "2026-01-22T15:01:44Z"
+    },
+    {
+      "id": "d7fc5b2ea0943daa36b031293fdbc37355d8bafe",
+      "title": "Flere nordmenn vraker USA for europeiske Proton",
+      "link": "https://www.kode24.no/artikkel/flere-nordmenn-vraker-usa-for-europeiske-proton/254366",
+      "source": "Kode24",
+      "summary": "Stadig flere nordmenn velger Proton Mail fremfor amerikanske epost: – Vi kan ikke bare ønske oss et mer balansert marked, sier Digdir-direktør.",
+      "published": "2026-01-22T14:37:10Z"
+    },
+    {
+      "id": "beb8fcc1eae6ee9dd06d392d1792ae51e4066942",
+      "title": "Tek-toppene i Davos: Anthropic tror KI vil gjøre utviklerjobben",
+      "link": "https://www.kode24.no/artikkel/tek-toppene-i-davos-anthropic-tror-ki-vil-gjore-utviklerjobben/254324",
+      "source": "Kode24",
+      "summary": "Dansende roboter. Palantir-sjef om innvandring. Og kommer til KI ta jobben din? Bli med til Sveits.",
+      "published": "2026-01-22T12:58:00Z"
+    },
+    {
+      "id": "9a48596aedf6fd040ac2740eb4d13904d8ab01df",
+      "title": "Sikkert.no skal styrke digital sikkerhet i Norge",
+      "link": "https://www.kode24.no/artikkel/sikkertno-skal-styrke-digital-sikkerhet-i-norge/254336",
+      "source": "Kode24",
+      "summary": "Regjeringen lanserer sikkert.no for å gi både bedrifter og privatpersoner råd om digital sikkerhet. – Digitale sårbarheter og cyberangrep øker i antall, sier statsråd.",
+      "published": "2026-01-22T10:31:28Z"
+    },
+    {
+      "id": "fff192d290b0d536db49fdefe723fa7e0cd271f5",
+      "title": "All vibbekode hadde svakheter – advarer mot katastrofe",
+      "link": "https://www.kode24.no/artikkel/all-vibbekode-hadde-svakheter-advarer-mot-katastrofe/254326",
+      "source": "Kode24",
+      "summary": "Nytt eksperiment viser at samtlige KI-verktøy skaper svakheter, og nå advares det mot at vi kan få vår første \"Challenger\"-katastrofe i 2026.",
+      "published": "2026-01-22T09:14:21Z"
+    },
     {
       "id": "f67300a2a618eaaa38558043ea01ec935bb1dec8",
       "title": "Fulltegna hackaton for digitale lommebøker: «Voldsom interesse»",
@@ -30,7 +78,7 @@
       "title": "Flere kommuner vil frigjøre seg fra USA",
       "link": "https://www.kode24.no/artikkel/flere-kommuner-vil-frigjore-seg-fra-usa/254237",
       "source": "Kode24",
-      "summary": "– Vi merker større etterspørsel, forteller Acos, som oppgraderer systemene sine bort fra Microsoft og Google.",
+      "summary": "– Vi merker større etterspørsel, forteller Acos, som gjør systemene sine mer uavhengige Microsoft og Google.",
       "published": "2026-01-21T14:21:28Z"
     },
     {
@@ -157,46 +205,6 @@
       "published": "2026-01-19T13:46:16Z"
     },
     {
-      "id": "0738fa94d14256d5125c5b5477e4b5f143f89af2",
-      "title": "jQuery fyller 20 år, feirer med versjon 4.0.0",
-      "link": "https://www.kode24.no/artikkel/jquery-fyller-20-ar-feirer-med-versjon-400/253967",
-      "source": "Kode24",
-      "summary": "Første hovedversjon på 10 år preges av færre funksjoner, ikke flere. – Det gir mening.",
-      "published": "2026-01-19T10:20:57Z"
-    },
-    {
-      "id": "e1dc1c9d43e844d85b59a44302f082c790e2cc2e",
-      "title": "Statsråden krever at Google tar grep etter sex-påstander",
-      "link": "https://www.kode24.no/artikkel/statsraden-krever-at-google-tar-grep-etter-sex-pastander/253933",
-      "source": "Kode24",
-      "summary": "Karianne Tung reagerer kraftig på kode24s avsløringer av at KI-oversikt fant opp kriminelt rulleblad til en tidligere SV-topp og andre politikere.",
-      "published": "2026-01-19T09:41:23Z"
-    },
-    {
-      "id": "de0a89e98c6467b744d43f3576ac6594051bb78d",
-      "title": "Cloudflare kjøper Astro",
-      "link": "https://www.kode24.no/artikkel/cloudflare-kjoper-astro/253942",
-      "source": "Kode24",
-      "summary": "Cloudflare vil trolig få enda flere kunder, Astro vil slippe å bekymre seg for penga.",
-      "published": "2026-01-19T09:13:33Z"
-    },
-    {
-      "id": "92f67a132f4afcba8572f92e17d0267bb3e9d902",
-      "title": "NM i KI arrangeres for første gang for alle. Premiepotten er på 1 million kroner",
-      "link": "https://www.kode24.no/artikkel/nm-i-ki-arrangeres-for-forste-gang-for-alle-premiepotten-er-pa-1-million-kroner/253722",
-      "source": "Kode24",
-      "summary": "I fjor startet de med KI-NM for studenter. I mars kan alle delta. – Men én student alene kan stikke av med seieren, tror Erik Nymo Bohne i Astar.",
-      "published": "2026-01-19T04:00:00Z"
-    },
-    {
-      "id": "a6398b00dbb17dac292fde375a84af5ef856715e",
-      "title": "– Vi skulle mista jobben for lenge sida, så hva skjedde?",
-      "link": "https://www.kode24.no/artikkel/vi-skulle-mista-jobben-for-lenge-sida-sa-hva-skjedde/253903",
-      "source": "Kode24",
-      "summary": "KI-løgnen, skummel URL-generator, spådommer for 2026 og koselige Linux-videoer, i ukas Lørdagsgodt.",
-      "published": "2026-01-17T04:00:00Z"
-    },
-    {
       "id": "288b52e14b68a13b83ea8cbd9b493f876acde3f9",
       "title": "Building an agentic memory system for GitHub Copilot",
       "link": "https://github.blog/ai-and-ml/github-copilot/building-an-agentic-memory-system-for-github-copilot/",
@@ -246,15 +254,6 @@
       "source": "GitHub Blog",
       "summary": "Learn how custom instructions, reusable prompts, and custom agents help GitHub Copilot deliver more accurate results. The post Want better AI outputs? Try context engineering. appeared first on The GitHub Blog.",
       "published": "2026-01-12T17:00:00Z"
-    },
-    {
-      "id": "2557b29339c0d273686a316f4b2a3c6e1c06dd90",
-      "title": "Light waves, rising tides, and drifting ships: Game Off 2025 winners",
-      "link": "https://github.blog/open-source/gaming/light-waves-rising-tides-and-drifting-ships-game-off-2025-winners/",
-      "source": "GitHub Blog",
-      "summary": "Out of more than 700 games submitted to Game Off 2025, these ten winners stand out for creativity, craft, and bold interpretations of the WAVES theme. All are free to play, with source code available to explore. The post Light waves, rising tides, and drifting ships: Game Off 2025 winners appeared...",
-      "published": "2026-01-10T21:36:00Z",
-      "image": "https://avatars.githubusercontent.com/u/197415424?v=4&s=64"
     },
     {
       "id": "0ea1e6845fb72fccd664b752f5ee51bd9c6de569",
