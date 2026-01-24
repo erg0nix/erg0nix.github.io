@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-01-23T06:40:39.465442Z",
+  "generated_at": "2026-01-24T06:37:08.361784Z",
   "items": [
+    {
+      "id": "c46cf670d7ce3970e3d09ed988c9450d86b7c73f",
+      "title": "– Å skrive kode var aldri jobben. Jobben var å tenke",
+      "link": "https://www.kode24.no/artikkel/a-skrive-kode-var-aldri-jobben-jobben-var-a-tenke/254503",
+      "source": "Kode24",
+      "summary": "Programmeringens historie fra binær til vibber, feilene Apple elsker, norsk Nobel-pris-satire, gamle spillkonsoller og ny CSS, i ukas Lørdagsgodt.",
+      "published": "2026-01-24T04:00:00Z"
+    },
+    {
+      "id": "3942a1d1fc5c382e2ec853a1f584b61c37ec3766",
+      "title": "Nå blir datoer enklere i JavaScript: «Gleder meg!»",
+      "link": "https://www.kode24.no/artikkel/na-blir-datoer-enklere-i-javascript-gleder-meg/254481",
+      "source": "Kode24",
+      "summary": "Det nye Temporal-API-et, Figma-CLI og farlige nettleser-API-er, i ukas ForrigeUke.",
+      "published": "2026-01-23T12:18:51Z"
+    },
+    {
+      "id": "75aeebeaf3cf223d26f05e91672c4b9ffda7e0bb",
+      "title": "– Kanskje man ikke kan stole på AWS og Azure de neste 20 årene",
+      "link": "https://www.kode24.no/artikkel/kanskje-man-ikke-kan-stole-pa-aws-og-azure-de-neste-20-arene/254288",
+      "source": "Kode24",
+      "summary": "Boitano ansetter Terje Tubaas og Jamawadi Noor. Sistnevnte liker kode som ikke låses til én leverandør – spesielt nå.",
+      "published": "2026-01-23T11:57:31Z"
+    },
+    {
+      "id": "a0203ed7c61e246fd7840daffb91c03a4ae26717",
+      "title": "Vurderer Microsoft-exit og Linux for 22.000 norske brukere",
+      "link": "https://www.kode24.no/artikkel/vurderer-microsoft-exit-og-linux-for-22000-norske-brukere/254431",
+      "source": "Kode24",
+      "summary": "Helse Midt-Norge er kritisk til stadige prisøkninger fra Microsoft. Nå vurderer de flytte de ansatte til ChromeOS eller IGEL OS.",
+      "published": "2026-01-23T09:13:19Z"
+    },
+    {
+      "id": "afcf948ae8df0c7ec202c17029b2955a1fdb7c10",
+      "title": "Telia og Telenor vil dele mer om deg, for å stoppe svindel",
+      "link": "https://www.kode24.no/artikkel/telia-og-telenor-vil-dele-mer-om-deg-for-a-stoppe-svindel/254458",
+      "source": "Kode24",
+      "summary": "Nordmenn svindles for millioner via telefonen. Teleselskaper ønsker å kunne varsle banken dersom man er i ferd med å bli lurt.",
+      "published": "2026-01-23T09:10:32Z"
+    },
+    {
+      "id": "684a8864e1a68255e070335866adf1161d27aa95",
+      "title": "Kristiania kutter studier etter lave søkertall",
+      "link": "https://www.kode24.no/artikkel/kristiania-kutter-studier-etter-lave-sokertall/254429",
+      "source": "Kode24",
+      "summary": "Kutter ut UX-studier og satser hardere på fullstack, melder UX Norge.",
+      "published": "2026-01-23T08:37:26Z"
+    },
     {
       "id": "8ee7d4bc13c6fd8e3d879ae5822723d3ef9c4ff3",
       "title": "Går ut i pappa­perm: – Men hva kommer jeg tilbake til?",
@@ -155,54 +203,6 @@
       "source": "Kode24",
       "summary": "– Viktig for meg at kvinner også motiveres, da denne gruppen generelt sett ofte er underrepresentert innenfor entreprenørskap, sier Ukas Koder Mithila Packiyanathan.",
       "published": "2026-01-20T12:06:23Z"
-    },
-    {
-      "id": "11502431cd5e59d57217fdd7366cbb350953a9a9",
-      "title": "Tre nye til Twoday i Ålesund: – Vil gjerne kunne være meg selv på jobb",
-      "link": "https://www.kode24.no/artikkel/tre-nye-til-twoday-i-alesund-vil-gjerne-kunne-vaere-meg-selv-pa-jobb/254118",
-      "source": "Kode24",
-      "summary": "Dag Håkon Baardsen, Frank William Daniels og Therese Nesseth Tørlen har fått seg ny jobb.",
-      "published": "2026-01-20T12:04:27Z"
-    },
-    {
-      "id": "e064af5e184d0cd8a6c194949878099b5e7b222f",
-      "title": "– Mangel på mangfold gjør oss utsatt",
-      "link": "https://www.kode24.no/artikkel/mangel-pa-mangfold-gjor-oss-utsatt/254055",
-      "source": "Kode24",
-      "summary": "– For den neste store hendelsen kan ramme skyleverandøren eller biblioteket nettopp din applikasjon er avhengig av, advarer Kent Inge Fagerland Simonsen.",
-      "published": "2026-01-20T09:36:22Z"
-    },
-    {
-      "id": "56477e19a3e590661a7d9a69a551ef06c4511133",
-      "title": "Flere land vurderer aldersgrense i sosiale medier",
-      "link": "https://www.kode24.no/artikkel/flere-land-vurderer-aldersgrense-i-sosiale-medier/254078",
-      "source": "Kode24",
-      "summary": "Mange europeiske land snuser nå på forbud mot sosiale medier for barn, etter modell fra Australia.",
-      "published": "2026-01-20T09:09:25Z"
-    },
-    {
-      "id": "32eecc7dcc491c423d01c5c815e5467b1231c225",
-      "title": "Her trenger du ikke skrive jobbsøknad",
-      "link": "https://www.kode24.no/artikkel/her-trenger-du-ikke-skrive-jobbsoknad/253937",
-      "source": "Kode24",
-      "summary": "Skatteetaten har fjernet krav om søknadsbrev i mange utlyste utviklerstillinger – i frykt for diskriminering.",
-      "published": "2026-01-20T04:00:00Z"
-    },
-    {
-      "id": "5d6d75c5c328629dafd0dbb05dea7232f8fde75a",
-      "title": "Verst luft i åpne kontor­landskap",
-      "link": "https://www.kode24.no/artikkel/verst-luft-i-apne-kontorlandskap/254027",
-      "source": "Kode24",
-      "summary": "En fersk studie utført av Statens arbeidsmiljøinstitutt (Stami) viser at åpne kontorlandskap kan forsterke ubehag og helseplager hos ansatte.",
-      "published": "2026-01-19T14:45:49Z"
-    },
-    {
-      "id": "36fcbe1f7fd11d1c019c5fe8b2b2385025436b79",
-      "title": "KI-juks doblet på ett år: «Ikke bra»",
-      "link": "https://www.kode24.no/artikkel/ki-juks-doblet-pa-ett-ar-ikke-bra/254008",
-      "source": "Kode24",
-      "summary": "Antallet studenter som blir tatt for fusk ved hjelp av kunstig intelligens ved norske universiteter har doblet seg på ett år.",
-      "published": "2026-01-19T13:46:16Z"
     },
     {
       "id": "288b52e14b68a13b83ea8cbd9b493f876acde3f9",
