@@ -1,6 +1,14 @@
 {
-  "generated_at": "2026-01-25T06:37:49.820809Z",
+  "generated_at": "2026-01-26T06:43:18.854056Z",
   "items": [
+    {
+      "id": "94c73a35c44aa90633d51790f91edad1769373ef",
+      "title": "90% av norske utviklere bruker KI på jobb",
+      "link": "https://www.kode24.no/artikkel/90-av-norske-utviklere-bruker-ki-pa-jobb/254147",
+      "source": "Kode24",
+      "summary": "Men ikke alle bruker det like mye, og både arkitekt Roberth Strand og frontender Elise Kristiansen håper ingen overlater all kodingen til «random-kode-generatorer».",
+      "published": "2026-01-26T04:00:00Z"
+    },
     {
       "id": "c46cf670d7ce3970e3d09ed988c9450d86b7c73f",
       "title": "– Å skrive kode var aldri jobben. Jobben var å tenke",
@@ -195,14 +203,6 @@
       "source": "Kode24",
       "summary": "Flere kirkemusikere opplever at pårørende ber om å spille KI-musikk i begravelser. Fagforbundet Creo mener at Kirkerådet må ta grep.",
       "published": "2026-01-20T15:27:32Z"
-    },
-    {
-      "id": "a2cf71d6a0e94bf455e8ea176455c42372cbdc61",
-      "title": "Brenner for flere jenter i teknologi",
-      "link": "https://www.kode24.no/artikkel/brenner-for-flere-jenter-i-teknologi/253746",
-      "source": "Kode24",
-      "summary": "– Viktig for meg at kvinner også motiveres, da denne gruppen generelt sett ofte er underrepresentert innenfor entreprenørskap, sier Ukas Koder Mithila Packiyanathan.",
-      "published": "2026-01-20T12:06:23Z"
     },
     {
       "id": "288b52e14b68a13b83ea8cbd9b493f876acde3f9",
