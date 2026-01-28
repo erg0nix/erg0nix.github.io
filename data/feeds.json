@@ -1,6 +1,70 @@
 {
-  "generated_at": "2026-01-27T06:41:26.623898Z",
+  "generated_at": "2026-01-28T06:42:03.079332Z",
   "items": [
+    {
+      "id": "64d5cfa240cb0902cbf03915c18574cde8a46dab",
+      "title": "Lønn, press og ledelse: Flere norske utviklere er misfornøyd",
+      "link": "https://www.kode24.no/artikkel/lonn-press-og-ledelse-flere-norske-utviklere-er-misfornoyd/254604",
+      "source": "Kode24",
+      "summary": "Mange er mindre fornøyd på jobb nå enn før, viser kode24s tall, med arbeidspress fra KI, skuffende lønn og dårlig ledelse.",
+      "published": "2026-01-28T04:00:00Z"
+    },
+    {
+      "id": "77bd3428011c2a2795267034160b45b953194a27",
+      "title": "Microsoft tatt for å installere tracking-cookies på skolemaskiner",
+      "link": "https://www.kode24.no/artikkel/microsoft-tatt-for-a-installere-tracking-cookies-pa-skolemaskiner/254787",
+      "source": "Kode24",
+      "summary": "Microsoft har blitt dømt for å ha installert tracking-cookies på en skoleelevs maskin i Østerrike, etter en avgjørelse fra det østerrikske datatilsynet (DSB).",
+      "published": "2026-01-28T04:00:00Z"
+    },
+    {
+      "id": "1571e905d0992981c863c03adf9374207529f014",
+      "title": "7 learnings from Anders Hejlsberg: The architect behind C# and TypeScript",
+      "link": "https://github.blog/developer-skills/programming-languages-and-frameworks/7-learnings-from-anders-hejlsberg-the-architect-behind-c-and-typescript/",
+      "source": "GitHub Blog",
+      "summary": "Anders Hejlsberg shares lessons from C# and TypeScript on fast feedback loops, scaling software, open source visibility, and building tools that last. The post 7 learnings from Anders Hejlsberg: The architect behind C# and TypeScript appeared first on The GitHub Blog.",
+      "published": "2026-01-27T17:17:28Z"
+    },
+    {
+      "id": "2edc97fe25093d1f50dbf3b54b6a01df6f2ce591",
+      "title": "Help shape the future of open source in Europe",
+      "link": "https://github.blog/news-insights/policy-news-and-insights/help-shape-the-future-of-open-source-in-europe/",
+      "source": "GitHub Blog",
+      "summary": "Read GitHub’s position on the European Open Digital Ecosystem Strategy and learn how to participate. The post Help shape the future of open source in Europe appeared first on The GitHub Blog.",
+      "published": "2026-01-27T14:16:04Z"
+    },
+    {
+      "id": "0e0c3a874f5bc021a45f0313f617db5625718f30",
+      "title": "Datatilsynet gransker: Skal ha brukt Teams som journal",
+      "link": "https://www.kode24.no/artikkel/datatilsynet-gransker-skal-ha-brukt-teams-som-journal/254743",
+      "source": "Kode24",
+      "summary": "Statsforvalteren varslet om helseaktørens mulige brudd på personvern. – Ikke sikre på om Teams er et sikkert nok verktøy.",
+      "published": "2026-01-27T12:40:23Z"
+    },
+    {
+      "id": "192a94028c524995309b64598414d5e98c3893dc",
+      "title": "NTNU dropper søknadsbrev",
+      "link": "https://www.kode24.no/artikkel/ntnu-dropper-soknadsbrev/254741",
+      "source": "Kode24",
+      "summary": "Flere universiteter er skeptiske til hvor mye folk bruker KI når de skriver søknader: – Det er som en flodbølge av KI-skvip.",
+      "published": "2026-01-27T12:40:23Z"
+    },
+    {
+      "id": "e98a7fc932daf768c9b10b1af658af2d8c4e925a",
+      "title": "Cursor hevder KI skrev nettleser – utviklere melder noe annet",
+      "link": "https://www.kode24.no/artikkel/cursor-hevder-ki-skrev-nettleser-utviklere-melder-noe-annet/254701",
+      "source": "Kode24",
+      "summary": "Lot hundrevis av agenter jobbe i ukesvis, uten at produktet fungerer, ifølge kritikere. – Jeg kan bare beskrive den som en spaghetti-floke",
+      "published": "2026-01-27T09:19:54Z"
+    },
+    {
+      "id": "7d3d3747c2bbec15d216105b96555a3248060b68",
+      "title": "Unge nordmenn tror ikke skjerm-fikling i bilen er farlig",
+      "link": "https://www.kode24.no/artikkel/unge-nordmenn-tror-ikke-skjerm-fikling-i-bilen-er-farlig/254685",
+      "source": "Kode24",
+      "summary": "– Men hver gang du ser bort, kjører du i blinde, advarer Trygg Trafikk.",
+      "published": "2026-01-27T08:49:10Z"
+    },
     {
       "id": "53e84c413ea9eb3f154f33b1af9021c28c6f5844",
       "title": "Vibbekoding gir Norge ny bølge av unge gründere",
@@ -130,60 +194,12 @@
       "published": "2026-01-22T15:01:44Z"
     },
     {
-      "id": "d7fc5b2ea0943daa36b031293fdbc37355d8bafe",
-      "title": "Flere nordmenn vraker USA for europeiske Proton",
-      "link": "https://www.kode24.no/artikkel/flere-nordmenn-vraker-usa-for-europeiske-proton/254366",
-      "source": "Kode24",
-      "summary": "Stadig flere nordmenn velger Proton Mail fremfor amerikanske epost: – Vi kan ikke bare ønske oss et mer balansert marked, sier Digdir-direktør.",
-      "published": "2026-01-22T14:37:10Z"
-    },
-    {
-      "id": "beb8fcc1eae6ee9dd06d392d1792ae51e4066942",
-      "title": "Tek-toppene i Davos: Anthropic tror KI vil gjøre utviklerjobben",
-      "link": "https://www.kode24.no/artikkel/tek-toppene-i-davos-anthropic-tror-ki-vil-gjore-utviklerjobben/254324",
-      "source": "Kode24",
-      "summary": "Dansende roboter. Palantir-sjef om innvandring. Og kommer til KI ta jobben din? Bli med til Sveits.",
-      "published": "2026-01-22T12:58:00Z"
-    },
-    {
-      "id": "9a48596aedf6fd040ac2740eb4d13904d8ab01df",
-      "title": "Sikkert.no skal styrke digital sikkerhet i Norge",
-      "link": "https://www.kode24.no/artikkel/sikkertno-skal-styrke-digital-sikkerhet-i-norge/254336",
-      "source": "Kode24",
-      "summary": "Regjeringen lanserer sikkert.no for å gi både bedrifter og privatpersoner råd om digital sikkerhet. – Digitale sårbarheter og cyberangrep øker i antall, sier statsråd.",
-      "published": "2026-01-22T10:31:28Z"
-    },
-    {
-      "id": "fff192d290b0d536db49fdefe723fa7e0cd271f5",
-      "title": "All vibbekode hadde svakheter – advarer mot katastrofe",
-      "link": "https://www.kode24.no/artikkel/all-vibbekode-hadde-svakheter-advarer-mot-katastrofe/254326",
-      "source": "Kode24",
-      "summary": "Nytt eksperiment viser at samtlige KI-verktøy skaper svakheter, og nå advares det mot at vi kan få vår første \"Challenger\"-katastrofe i 2026.",
-      "published": "2026-01-22T09:14:21Z"
-    },
-    {
-      "id": "f67300a2a618eaaa38558043ea01ec935bb1dec8",
-      "title": "Fulltegna hackaton for digitale lommebøker: «Voldsom interesse»",
-      "link": "https://www.kode24.no/artikkel/fulltegna-hackaton-for-digitale-lommeboker-voldsom-interesse/254092",
-      "source": "Kode24",
-      "summary": "EU-land skal snart innføre felles «digital lommebok». I Norge testes det for fullt hvordan vi best kan bruke det, dersom politikerne vil ha det.",
-      "published": "2026-01-22T04:00:00Z"
-    },
-    {
       "id": "51eb595a62c9f444dbd23e91ffb13181f65317b7",
       "title": "A cheat sheet to slash commands in GitHub Copilot CLI",
       "link": "https://github.blog/ai-and-ml/github-copilot/a-cheat-sheet-to-slash-commands-in-github-copilot-cli/",
       "source": "GitHub Blog",
       "summary": "Run tests, fix code, and get support—right in your workflow. Stay focused and let Copilot handle the busywork. The post A cheat sheet to slash commands in GitHub Copilot CLI appeared first on The GitHub Blog.",
       "published": "2026-01-21T17:09:10Z"
-    },
-    {
-      "id": "0093e64b0afc8979670486b94eb31f794fca107a",
-      "title": "KI-laget hitlåt utestengt fra norsk toppliste",
-      "link": "https://www.kode24.no/artikkel/ki-laget-hitlat-utestengt-fra-norsk-toppliste/254293",
-      "source": "Kode24",
-      "summary": "Den KI-genererte sangen «Jag vet, du är inte min» er utestengt også fra den norske topplisten, melder VG.",
-      "published": "2026-01-21T14:33:50Z"
     },
     {
       "id": "27a1ea166fc2a10fe1932a8430150324117a626c",
@@ -237,23 +253,6 @@
       "source": "GitHub Blog",
       "summary": "In December, we experienced five incidents that resulted in degraded performance across GitHub services. The post GitHub Availability Report: December 2025 appeared first on The GitHub Blog.",
       "published": "2026-01-14T22:06:49Z"
-    },
-    {
-      "id": "52a216ced17e06fde3fc059354f3df5b21c892e7",
-      "title": "Community-powered security with AI: an open source framework for security research",
-      "link": "https://github.blog/security/community-powered-security-with-ai-an-open-source-framework-for-security-research/",
-      "source": "GitHub Blog",
-      "summary": "Announcing GitHub Security Lab Taskflow Agent, an open source and collaborative framework for security research with AI. The post Community-powered security with AI: an open source framework for security research appeared first on The GitHub Blog.",
-      "published": "2026-01-14T18:45:09Z",
-      "image": "https://github.blog/wp-content/uploads/2026/01/fine-grained-pat.png?resize=1024%2C496"
-    },
-    {
-      "id": "01caf1c4d8ba937459daf41698fb62e136f4d7dd",
-      "title": "What AI is actually good for, according to developers",
-      "link": "https://github.blog/ai-and-ml/generative-ai/what-ai-is-actually-good-for-according-to-developers/",
-      "source": "GitHub Blog",
-      "summary": "AI is designed to help you do what you love most, not replace your expertise. Discover how developer feedback and real-world experience are shaping AI coding tools that keep you in control. The post What AI is actually good for, according to developers appeared first on The GitHub Blog.",
-      "published": "2026-01-13T18:39:24Z"
     },
     {
       "id": "0ea1e6845fb72fccd664b752f5ee51bd9c6de569",
