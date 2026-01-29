@@ -1,6 +1,95 @@
 {
-  "generated_at": "2026-01-28T06:42:03.079332Z",
+  "generated_at": "2026-01-29T06:54:14.309756Z",
   "items": [
+    {
+      "id": "dce1e024bba867911e42dfa0019f5295f808d91c",
+      "title": "Nå skal ICE finne deg gjennom annonsene du ser på",
+      "link": "https://www.kode24.no/artikkel/na-skal-ice-finne-deg-gjennom-annonsene-du-ser-pa/254930",
+      "source": "Kode24",
+      "summary": "De forholdsvis upopulære amerikanske agentene ser etter nye måter å finne frem til mål.",
+      "published": "2026-01-29T04:00:00Z"
+    },
+    {
+      "id": "51e6c361437e591a62d6d1920b22e8bf4ee6b8d8",
+      "title": "Pinterest med kraftig nedbemanning grunnet KI – 700 må gå",
+      "link": "https://www.kode24.no/artikkel/pinterest-med-kraftig-nedbemanning-grunnet-ki-700-ma-ga/254900",
+      "source": "Kode24",
+      "summary": "Pinterest skal redusere bemanningen med hele 15 prosent grunnet KI – annonseringen førte til et stort aksjefall på nesten 10 prosent.",
+      "published": "2026-01-29T04:00:00Z"
+    },
+    {
+      "id": "01d30331647dfd5cbb814641237a13d5c3eb8b79",
+      "title": "– Det kuleste browser-API-et du ikke bruker enda",
+      "link": "https://www.kode24.no/artikkel/det-kuleste-browser-api-et-du-ikke-bruker-enda/254948",
+      "source": "Kode24",
+      "summary": "HTML Invoker Commands API har nådd baseline-støtte.",
+      "published": "2026-01-29T04:00:00Z"
+    },
+    {
+      "id": "ba1711ab88f9b6c4973737c882ef62457947f646",
+      "title": "From pixels to characters: The engineering behind GitHub Copilot CLI’s animated ASCII banner",
+      "link": "https://github.blog/engineering/from-pixels-to-characters-the-engineering-behind-github-copilot-clis-animated-ascii-banner/",
+      "source": "GitHub Blog",
+      "summary": "Learn how GitHub built an accessible, multi-terminal-safe ASCII animation for the Copilot CLI using custom tooling, ANSI color roles, and advanced terminal engineering. The post From pixels to characters: The engineering behind GitHub Copilot CLI’s animated ASCII banner appeared first on The GitHub...",
+      "published": "2026-01-28T17:00:00Z",
+      "image": "https://github.blog/wp-content/uploads/2026/01/banner1.png?resize=872%2C246"
+    },
+    {
+      "id": "7fa47fa272d6b5210830e65a8afeeec12da31f0f",
+      "title": "Year recap and future goals for the GitHub Innovation Graph",
+      "link": "https://github.blog/news-insights/policy-news-and-insights/year-recap-and-future-goals-for-the-github-innovation-graph/",
+      "source": "GitHub Blog",
+      "summary": "Discover the latest trends and insights on public software development activity on GitHub with data from the Innovation Graph through Q3 2025. The post Year recap and future goals for the GitHub Innovation Graph appeared first on The GitHub Blog.",
+      "published": "2026-01-28T16:00:00Z"
+    },
+    {
+      "id": "40782f8693e4cd1839aaea5a33657dbf3fbcf4e6",
+      "title": "Statsråden: – Utopisk å bli 100 prosent digitalt suverene",
+      "link": "https://www.kode24.no/artikkel/statsraden-utopisk-a-bli-100-prosent-digitalt-suverene/254876",
+      "source": "Kode24",
+      "summary": "Hvor avhengige bør vi være av amerikanske leverandører og skytjenester? Digitaliseringsministeren mener vi allerede har mye nasjonal kontroll over data, men peker på ett hull.",
+      "published": "2026-01-28T15:19:29Z"
+    },
+    {
+      "id": "238b50fdcd2a914a59f9a5c3a6c897372010bd71",
+      "title": "Digital lommebok: Kan spare Norge for milliarder",
+      "link": "https://www.kode24.no/artikkel/digital-lommebok-kan-spare-norge-for-milliarder/254880",
+      "source": "Kode24",
+      "summary": "Den nye «digitale lommeboken» kan spare Norge for milliarder av kroner, opplyser digitaliseringsdirektoratet.",
+      "published": "2026-01-28T13:33:18Z"
+    },
+    {
+      "id": "9d4950999e7ca6fd85186a3efd5e9d477c209d83",
+      "title": "Nesten 1 av 2 opplever stress på jobb",
+      "link": "https://www.kode24.no/artikkel/nesten-1-av-2-opplever-stress-pa-jobb/254832",
+      "source": "Kode24",
+      "summary": "Akademikerne mener det psykososiale miljøet på jobb har en sammenheng med sykefraværet. – Det er et tema som i dag er nærmest fraværende i de fleste lederutdanninger.",
+      "published": "2026-01-28T11:00:00Z"
+    },
+    {
+      "id": "07cbde67f7d175b57803a6bfb35a1a09eb924330",
+      "title": "Datatilsynet åpner landsdekkende tilsyn: Bekymret for den digitale sikkerheten i kommunene",
+      "link": "https://www.kode24.no/artikkel/datatilsynet-apner-landsdekkende-tilsyn-bekymret-for-den-digitale-sikkerheten-i-kommunene/254858",
+      "source": "Kode24",
+      "summary": "Datatilsynet åpner tilsyn med datasikkerheten i alle Norges kommuner. – Viktig del av totalforsvaret, sier direktør Line Coll.",
+      "published": "2026-01-28T09:05:14Z"
+    },
+    {
+      "id": "d174a8e744868350b005ab926bbc497da2e9c962",
+      "title": "Bare tre av 100 søknader var fra kvinner. Mona etterlyser flere av dem i IT-bransjen",
+      "link": "https://www.kode24.no/artikkel/bare-tre-av-100-soknader-var-fra-kvinner-mona-etterlyser-flere-av-dem-i-it-bransjen/254651",
+      "source": "Kode24",
+      "summary": "Som NTNU-student trodde Mona Helness kjønnsandelen var på 40/60. Så begynte hun å jobbe i bransjen selv. – Det var en skikkelig sjokkfaktor for meg, sier hun.",
+      "published": "2026-01-28T08:33:12Z"
+    },
+    {
+      "id": "c2731bbe0b947694d432a4618522d846e432c52e",
+      "title": "Chrome- og Edge-utvidelser tatt i å stjele ChatGPT-tokens",
+      "link": "https://www.kode24.no/artikkel/chrome-og-edge-utvidelser-tatt-i-a-stjele-chatgpt-tokens/254818",
+      "source": "Kode24",
+      "summary": "Utvidelsene ga seg ut for å være nyttige AI-verktøy, som skulle forbedre ChatGPT og øke produktivitet.",
+      "published": "2026-01-28T08:00:00Z"
+    },
     {
       "id": "64d5cfa240cb0902cbf03915c18574cde8a46dab",
       "title": "Lønn, press og ledelse: Flere norske utviklere er misfornøyd",
@@ -114,78 +203,6 @@
       "published": "2026-01-26T09:56:00Z"
     },
     {
-      "id": "f32730d911d829be756c9ebc3921cca9820a77b9",
-      "title": "Ventet på BankID-tilgang i over 10 år: Tung «lover» digital lommebok før 2030",
-      "link": "https://www.kode24.no/artikkel/ventet-pa-bankid-tilgang-i-over-10-ar-tung-lover-digital-lommebok-for-2030/254582",
-      "source": "Kode24",
-      "summary": "Utviklingshemmede som trenger digital hjelp, får ikke tilgang til BankID. En årelang krangel med staten kan nå havne hos Efta, skriver Digi.",
-      "published": "2026-01-26T09:07:40Z"
-    },
-    {
-      "id": "94c73a35c44aa90633d51790f91edad1769373ef",
-      "title": "90% av norske utviklere bruker KI på jobb",
-      "link": "https://www.kode24.no/artikkel/90-av-norske-utviklere-bruker-ki-pa-jobb/254147",
-      "source": "Kode24",
-      "summary": "Men ikke alle bruker det like mye, og både arkitekt Roberth Strand og frontender Elise Kristiansen håper ingen overlater all kodingen til «random-kode-generatorer».",
-      "published": "2026-01-26T04:00:00Z"
-    },
-    {
-      "id": "c46cf670d7ce3970e3d09ed988c9450d86b7c73f",
-      "title": "– Å skrive kode var aldri jobben. Jobben var å tenke",
-      "link": "https://www.kode24.no/artikkel/a-skrive-kode-var-aldri-jobben-jobben-var-a-tenke/254503",
-      "source": "Kode24",
-      "summary": "Programmeringens historie fra binær til vibber, feilene Apple elsker, norsk Nobel-pris-satire, gamle spillkonsoller og ny CSS, i ukas Lørdagsgodt.",
-      "published": "2026-01-24T04:00:00Z"
-    },
-    {
-      "id": "3942a1d1fc5c382e2ec853a1f584b61c37ec3766",
-      "title": "Nå blir datoer enklere i JavaScript: «Gleder meg!»",
-      "link": "https://www.kode24.no/artikkel/na-blir-datoer-enklere-i-javascript-gleder-meg/254481",
-      "source": "Kode24",
-      "summary": "Det nye Temporal-API-et, Figma-CLI og farlige nettleser-API-er, i ukas ForrigeUke.",
-      "published": "2026-01-23T12:18:51Z"
-    },
-    {
-      "id": "75aeebeaf3cf223d26f05e91672c4b9ffda7e0bb",
-      "title": "– Kanskje man ikke kan stole på AWS og Azure de neste 20 årene",
-      "link": "https://www.kode24.no/artikkel/kanskje-man-ikke-kan-stole-pa-aws-og-azure-de-neste-20-arene/254288",
-      "source": "Kode24",
-      "summary": "Boitano ansetter Terje Tubaas og Jamawadi Noor. Sistnevnte liker kode som ikke låses til én leverandør – spesielt nå.",
-      "published": "2026-01-23T11:57:31Z"
-    },
-    {
-      "id": "a0203ed7c61e246fd7840daffb91c03a4ae26717",
-      "title": "Vurderer Microsoft-exit og Linux for 22.000 norske brukere",
-      "link": "https://www.kode24.no/artikkel/vurderer-microsoft-exit-og-linux-for-22000-norske-brukere/254431",
-      "source": "Kode24",
-      "summary": "Helse Midt-Norge er kritisk til stadige prisøkninger fra Microsoft. Nå vurderer de flytte de ansatte til ChromeOS eller IGEL OS.",
-      "published": "2026-01-23T09:13:19Z"
-    },
-    {
-      "id": "afcf948ae8df0c7ec202c17029b2955a1fdb7c10",
-      "title": "Telia og Telenor vil dele mer om deg, for å stoppe svindel",
-      "link": "https://www.kode24.no/artikkel/telia-og-telenor-vil-dele-mer-om-deg-for-a-stoppe-svindel/254458",
-      "source": "Kode24",
-      "summary": "Nordmenn svindles for millioner via telefonen. Teleselskaper ønsker å kunne varsle banken dersom man er i ferd med å bli lurt.",
-      "published": "2026-01-23T09:10:32Z"
-    },
-    {
-      "id": "684a8864e1a68255e070335866adf1161d27aa95",
-      "title": "Kristiania kutter studier etter lave søkertall",
-      "link": "https://www.kode24.no/artikkel/kristiania-kutter-studier-etter-lave-sokertall/254429",
-      "source": "Kode24",
-      "summary": "Kutter ut UX-studier og satser hardere på fullstack, melder UX Norge.",
-      "published": "2026-01-23T08:37:26Z"
-    },
-    {
-      "id": "8ee7d4bc13c6fd8e3d879ae5822723d3ef9c4ff3",
-      "title": "Går ut i pappa­perm: – Men hva kommer jeg tilbake til?",
-      "link": "https://www.kode24.no/artikkel/gar-ut-i-pappaperm-men-hva-kommer-jeg-tilbake-til/254399",
-      "source": "Kode24",
-      "summary": "– Bare min siste uke på jobb har kode24 hatt artikler som gjør meg litt... spent, skriver Ole Petter.",
-      "published": "2026-01-23T04:00:00Z"
-    },
-    {
       "id": "b1f51485939f63d14601f2f5f7bf708b629e4a3e",
       "title": "Build an agent into any app with the GitHub Copilot SDK",
       "link": "https://github.blog/news-insights/company-news/build-an-agent-into-any-app-with-the-github-copilot-sdk/",
@@ -236,23 +253,6 @@
       "summary": "Copilot’s cross-agent memory system lets agents learn and improve across your development workflow, starting with coding agent, CLI, and code review. The post Building an agentic memory system for GitHub Copilot appeared first on The GitHub Blog.",
       "published": "2026-01-15T21:31:10Z",
       "image": "https://github.blog/wp-content/uploads/2026/01/01_Memory_generation-Blog-1200x630_15-12-25_1.jpg?resize=2400%2C1260"
-    },
-    {
-      "id": "da383348a239f66f40fc7a37051f4cfe8e875769",
-      "title": "When protections outlive their purpose: A lesson on managing defense systems at scale",
-      "link": "https://github.blog/engineering/infrastructure/when-protections-outlive-their-purpose-a-lesson-on-managing-defense-systems-at-scale/",
-      "source": "GitHub Blog",
-      "summary": "User feedback led us to clean up outdated mitigations. See why observability and lifecycle management are critical for defense systems. The post When protections outlive their purpose: A lesson on managing defense systems at scale appeared first on The GitHub Blog.",
-      "published": "2026-01-15T20:54:32Z",
-      "image": "https://github.blog/wp-content/uploads/2026/01/1.png?resize=1024%2C659"
-    },
-    {
-      "id": "9293dd6d5a643418ae330e7aed02df31057d85dc",
-      "title": "GitHub Availability Report: December 2025",
-      "link": "https://github.blog/news-insights/company-news/github-availability-report-december-2025/",
-      "source": "GitHub Blog",
-      "summary": "In December, we experienced five incidents that resulted in degraded performance across GitHub services. The post GitHub Availability Report: December 2025 appeared first on The GitHub Blog.",
-      "published": "2026-01-14T22:06:49Z"
     },
     {
       "id": "0ea1e6845fb72fccd664b752f5ee51bd9c6de569",
