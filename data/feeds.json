@@ -1,6 +1,69 @@
 {
-  "generated_at": "2026-01-29T06:54:14.309756Z",
+  "generated_at": "2026-01-30T06:55:44.101193Z",
   "items": [
+    {
+      "id": "c63915e32a8a8b915e816c3bf8d6a01887f3cb22",
+      "title": "Microsoft tar i bruk AI-kodeverktøy som standard i utvikling",
+      "link": "https://www.kode24.no/artikkel/microsoft-tar-i-bruk-ai-kodeverktoy-som-standard-i-utvikling/255078",
+      "source": "Kode24",
+      "summary": "Bruken av kunstig intelligens i programvareutvikling går fra eksperiment til daglig praksis hos Microsoft.",
+      "published": "2026-01-30T04:00:00Z"
+    },
+    {
+      "id": "8aa7cb47f6e5b4a963091996917c1b2bd8c246e8",
+      "title": "Dagens skydebatt: – En absurd tanke i 2010",
+      "link": "https://www.kode24.no/artikkel/dagens-skydebatt-en-absurd-tanke-i-2010/255070",
+      "source": "Kode24",
+      "summary": "– Det var ingen som snakket om sky i det hele tatt, forteller Jørgen Jacobsen i kode24.",
+      "published": "2026-01-30T04:00:00Z"
+    },
+    {
+      "id": "0565287c3212f74f41bf1e922ae6d0fb8c89fca1",
+      "title": "«Au revoir» Silicon Valley",
+      "link": "https://www.kode24.no/artikkel/au-revoir-silicon-valley/255015",
+      "source": "Kode24",
+      "summary": "Offentlige ansatte i Frankrike må si farvel til amerikanske videotjenester som Microsoft Teams og Zoom, det opplyste Finansdepartementet denne uken.",
+      "published": "2026-01-29T13:58:46Z"
+    },
+    {
+      "id": "57fe32ab73c5435f16ce59cc08ab07b38732613b",
+      "title": "Oljefondet – fikk inn 6.000 søknader",
+      "link": "https://www.kode24.no/artikkel/oljefondet-fikk-inn-6000-soknader/254953",
+      "source": "Kode24",
+      "summary": "– Det er mange spennende muligheter innenfor tek i finansbransjen påpeker Nito-leder Sofie Strøm Olsen. Oljefondet fikk over 6.000 søknader til sommerjobbene sine.",
+      "published": "2026-01-29T11:33:56Z"
+    },
+    {
+      "id": "48dd1a1df84f69d846caf733c130ff79abb3d73c",
+      "title": "– Vi designer for ekstrem skalerbarhet, på bekostning av faktiske problemer",
+      "link": "https://www.kode24.no/artikkel/vi-designer-for-ekstrem-skalerbarhet-pa-bekostning-av-faktiske-problemer/254795",
+      "source": "Kode24",
+      "summary": "– Hvis en applikasjon har rundt hundre brukere, gir det da mening å designe løsningen som om den snart skal ha titusenvis? spør utvikler Steinar Kollerud.",
+      "published": "2026-01-29T10:07:09Z"
+    },
+    {
+      "id": "7afa952635c3b21f8437f121e445f889dd472000",
+      "title": "Carbon Centric fikk pris for sanntids-plattform for å fange CO2",
+      "link": "https://www.kode24.no/artikkel/carbon-centric-fikk-pris-for-sanntids-plattform-for-a-fange-co2/254977",
+      "source": "Kode24",
+      "summary": "Dataforeningen hedrer karbonfangst-selskap. – De bruker data på en gjennomtenkt måte, uttaler juryen.",
+      "published": "2026-01-29T09:00:00Z"
+    },
+    {
+      "id": "fc618374e97be0d643a266aee9d00c87efdeff40",
+      "title": "Ny Firefox-versjon, og UI-valg i Shadcn",
+      "link": "https://www.kode24.no/artikkel/ny-firefox-versjon-og-ui-valg-i-shadcn/255023",
+      "source": "Kode24",
+      "published": "2026-01-29T08:47:29Z"
+    },
+    {
+      "id": "86520d482b3c0c236b954c0ecafd6eef15213bcc",
+      "title": "Norske medier: Forberedt om Trump stenger tilgang",
+      "link": "https://www.kode24.no/artikkel/norske-medier-forberedt-om-trump-stenger-tilgang/254987",
+      "source": "Kode24",
+      "summary": "Schibsted har en nødløsning for nettsidene for VG og Aftenposten dersom USAs president Donald Trump skulle blokkere tilgangen til amerikanske tek-løsninger.",
+      "published": "2026-01-29T08:03:00Z"
+    },
     {
       "id": "dce1e024bba867911e42dfa0019f5295f808d91c",
       "title": "Nå skal ICE finne deg gjennom annonsene du ser på",
@@ -131,76 +194,12 @@
       "published": "2026-01-27T12:40:23Z"
     },
     {
-      "id": "192a94028c524995309b64598414d5e98c3893dc",
-      "title": "NTNU dropper søknadsbrev",
-      "link": "https://www.kode24.no/artikkel/ntnu-dropper-soknadsbrev/254741",
-      "source": "Kode24",
-      "summary": "Flere universiteter er skeptiske til hvor mye folk bruker KI når de skriver søknader: – Det er som en flodbølge av KI-skvip.",
-      "published": "2026-01-27T12:40:23Z"
-    },
-    {
-      "id": "e98a7fc932daf768c9b10b1af658af2d8c4e925a",
-      "title": "Cursor hevder KI skrev nettleser – utviklere melder noe annet",
-      "link": "https://www.kode24.no/artikkel/cursor-hevder-ki-skrev-nettleser-utviklere-melder-noe-annet/254701",
-      "source": "Kode24",
-      "summary": "Lot hundrevis av agenter jobbe i ukesvis, uten at produktet fungerer, ifølge kritikere. – Jeg kan bare beskrive den som en spaghetti-floke",
-      "published": "2026-01-27T09:19:54Z"
-    },
-    {
-      "id": "7d3d3747c2bbec15d216105b96555a3248060b68",
-      "title": "Unge nordmenn tror ikke skjerm-fikling i bilen er farlig",
-      "link": "https://www.kode24.no/artikkel/unge-nordmenn-tror-ikke-skjerm-fikling-i-bilen-er-farlig/254685",
-      "source": "Kode24",
-      "summary": "– Men hver gang du ser bort, kjører du i blinde, advarer Trygg Trafikk.",
-      "published": "2026-01-27T08:49:10Z"
-    },
-    {
-      "id": "53e84c413ea9eb3f154f33b1af9021c28c6f5844",
-      "title": "Vibbekoding gir Norge ny bølge av unge gründere",
-      "link": "https://www.kode24.no/artikkel/vibbekoding-gir-norge-ny-bolge-av-unge-gruendere/254281",
-      "source": "Kode24",
-      "summary": "På fritiden bygger tre elever en startup ved hjelp av KI. Startuplab og BI ser nå store endringer i måten å starte bedrifter på: – Et fundamentalt paradigmeskifte.",
-      "published": "2026-01-27T04:00:00Z"
-    },
-    {
       "id": "d2a0c901aa6cfb61dfe73b601742fe0a364ff43d",
       "title": "Power agentic workflows in your terminal with GitHub Copilot CLI",
       "link": "https://github.blog/ai-and-ml/github-copilot/power-agentic-workflows-in-your-terminal-with-github-copilot-cli/",
       "source": "GitHub Blog",
       "summary": "Explore the GitHub Copilot CLI and try interacting with Copilot directly from your terminal. The post Power agentic workflows in your terminal with GitHub Copilot CLI appeared first on The GitHub Blog.",
       "published": "2026-01-26T18:54:49Z"
-    },
-    {
-      "id": "b4003777c7859fb68fd822317147a6564344e2d9",
-      "title": "E-resepter for dyr: – Krevende arbeid som vil ta tid",
-      "link": "https://www.kode24.no/artikkel/e-resepter-for-dyr-krevende-arbeid-som-vil-ta-tid/254500",
-      "source": "Kode24",
-      "summary": "Nå skal det utvikles e-resepter for dyr i Norge. Men det kan ta tid, advarer de som står bak.",
-      "published": "2026-01-26T13:42:08Z"
-    },
-    {
-      "id": "5473101a3a703885ee6a8bd0dcaa8a5270badcad",
-      "title": "EU vil stoppe Grok",
-      "link": "https://www.kode24.no/artikkel/eu-vil-stoppe-grok/254655",
-      "source": "Kode24",
-      "summary": "EU-kommisjonen oppretter sak mot Elon Musks KI-robot Grok, og hvordan den har latt brukere lage falske, lettkledde bilder av kvinner og mindreårige.",
-      "published": "2026-01-26T13:41:42Z"
-    },
-    {
-      "id": "3b776e4c21cdce69acbe58557c3d911d8b3a15c1",
-      "title": "Statlig råd advarer om at KI-bobla kan sprekke snart",
-      "link": "https://www.kode24.no/artikkel/statlig-rad-advarer-om-at-ki-bobla-kan-sprekke-snart/254600",
-      "source": "Kode24",
-      "summary": "– Foreløpig lar gevinstene fra KI vente på seg, mener direktør Tore Tennøe i Teknologirådet, som advarer norske politikere om fem trender i 2026.",
-      "published": "2026-01-26T12:21:51Z"
-    },
-    {
-      "id": "15fa8c50148a1398db011bde7fd97542cb59f72d",
-      "title": "– Det nærmeste vi kommer San Francisco-stemning i Oslo",
-      "link": "https://www.kode24.no/artikkel/det-naermeste-vi-kommer-san-francisco-stemning-i-oslo/254511",
-      "source": "Kode24",
-      "summary": "Selskapet til Ukas Koder Lone Werness Bekkeheien (29) er plukket ut til gründernettverket «Mad House» på Startuplab.",
-      "published": "2026-01-26T09:56:00Z"
     },
     {
       "id": "b1f51485939f63d14601f2f5f7bf708b629e4a3e",
