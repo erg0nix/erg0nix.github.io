@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-01-30T06:55:44.101193Z",
+  "generated_at": "2026-01-31T06:45:54.064256Z",
   "items": [
+    {
+      "id": "87352a2e4fdd6e0d1bc69dc9d6f4edb780cc2ce7",
+      "title": "- Jeg blir litt oppgitt over denne «Morna, koding!»-holdningen",
+      "link": "https://www.kode24.no/artikkel/jeg-blir-litt-oppgitt-over-denne-morna-koding-holdningen/255186",
+      "source": "Kode24",
+      "summary": "Teknisk leder Mikael Åsbjørnsson-Stensland er oppgitt over utvikleres holdning til AI-koding.",
+      "published": "2026-01-31T04:00:00Z"
+    },
+    {
+      "id": "5028c4f843f7197905deac630745ef89041ce1c7",
+      "title": "Bør KI-genererte nyheter merkes? Ja, mener tankesmie",
+      "link": "https://www.kode24.no/artikkel/bor-ki-genererte-nyheter-merkes-ja-mener-tankesmie/255174",
+      "source": "Kode24",
+      "summary": "KI-genererte nyheter bør merkes, mener den britiske tenketanken IPPR. De argumenterer også for at teknologiselskaper skal betale aviser for innhold de bruker.",
+      "published": "2026-01-30T11:05:24Z"
+    },
+    {
+      "id": "1bc63eb6ccf2171c32297ebbf91491a0312e4540",
+      "title": "Datatilsynet-sjefen: Ikke trygt for utviklere å bruke amerikanske tjenester",
+      "link": "https://www.kode24.no/artikkel/datatilsynet-sjefen-ikke-trygt-for-utviklere-a-bruke-amerikanske-tjenester/255064",
+      "source": "Kode24",
+      "summary": "Trusselbildet har endret seg såpass det mye året at Datatilsynets direktør anbefaler utviklere å ta forholdsregler ved lagring av data og bruk av USA-baserte tjenester.",
+      "published": "2026-01-30T08:52:00Z"
+    },
+    {
+      "id": "8580cc98ea0bc5c9a85a2ef74f47f515d0a33c30",
+      "title": "Høy bruk av digitale helsetjenester i Norge",
+      "link": "https://www.kode24.no/artikkel/hoy-bruk-av-digitale-helsetjenester-i-norge/255146",
+      "source": "Kode24",
+      "summary": "Seks av ti nordmenn har brukt digitale helsetjenester det siste året, viser en ny undersøkelse fra Helsedirektoratet. Nå bygges en KI-tjeneste for helsespørsmål.",
+      "published": "2026-01-30T08:38:31Z"
+    },
     {
       "id": "c63915e32a8a8b915e816c3bf8d6a01887f3cb22",
       "title": "Microsoft tar i bruk AI-kodeverktøy som standard i utvikling",
@@ -146,30 +178,6 @@
       "published": "2026-01-28T08:33:12Z"
     },
     {
-      "id": "c2731bbe0b947694d432a4618522d846e432c52e",
-      "title": "Chrome- og Edge-utvidelser tatt i å stjele ChatGPT-tokens",
-      "link": "https://www.kode24.no/artikkel/chrome-og-edge-utvidelser-tatt-i-a-stjele-chatgpt-tokens/254818",
-      "source": "Kode24",
-      "summary": "Utvidelsene ga seg ut for å være nyttige AI-verktøy, som skulle forbedre ChatGPT og øke produktivitet.",
-      "published": "2026-01-28T08:00:00Z"
-    },
-    {
-      "id": "64d5cfa240cb0902cbf03915c18574cde8a46dab",
-      "title": "Lønn, press og ledelse: Flere norske utviklere er misfornøyd",
-      "link": "https://www.kode24.no/artikkel/lonn-press-og-ledelse-flere-norske-utviklere-er-misfornoyd/254604",
-      "source": "Kode24",
-      "summary": "Mange er mindre fornøyd på jobb nå enn før, viser kode24s tall, med arbeidspress fra KI, skuffende lønn og dårlig ledelse.",
-      "published": "2026-01-28T04:00:00Z"
-    },
-    {
-      "id": "77bd3428011c2a2795267034160b45b953194a27",
-      "title": "Microsoft tatt for å installere tracking-cookies på skolemaskiner",
-      "link": "https://www.kode24.no/artikkel/microsoft-tatt-for-a-installere-tracking-cookies-pa-skolemaskiner/254787",
-      "source": "Kode24",
-      "summary": "Microsoft har blitt dømt for å ha installert tracking-cookies på en skoleelevs maskin i Østerrike, etter en avgjørelse fra det østerrikske datatilsynet (DSB).",
-      "published": "2026-01-28T04:00:00Z"
-    },
-    {
       "id": "1571e905d0992981c863c03adf9374207529f014",
       "title": "7 learnings from Anders Hejlsberg: The architect behind C# and TypeScript",
       "link": "https://github.blog/developer-skills/programming-languages-and-frameworks/7-learnings-from-anders-hejlsberg-the-architect-behind-c-and-typescript/",
@@ -184,14 +192,6 @@
       "source": "GitHub Blog",
       "summary": "Read GitHub’s position on the European Open Digital Ecosystem Strategy and learn how to participate. The post Help shape the future of open source in Europe appeared first on The GitHub Blog.",
       "published": "2026-01-27T14:16:04Z"
-    },
-    {
-      "id": "0e0c3a874f5bc021a45f0313f617db5625718f30",
-      "title": "Datatilsynet gransker: Skal ha brukt Teams som journal",
-      "link": "https://www.kode24.no/artikkel/datatilsynet-gransker-skal-ha-brukt-teams-som-journal/254743",
-      "source": "Kode24",
-      "summary": "Statsforvalteren varslet om helseaktørens mulige brudd på personvern. – Ikke sikre på om Teams er et sikkert nok verktøy.",
-      "published": "2026-01-27T12:40:23Z"
     },
     {
       "id": "d2a0c901aa6cfb61dfe73b601742fe0a364ff43d",
