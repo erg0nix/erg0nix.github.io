@@ -1,6 +1,86 @@
 {
-  "generated_at": "2026-02-02T07:06:54.948719Z",
+  "generated_at": "2026-02-03T06:57:25.216123Z",
   "items": [
+    {
+      "id": "bc70718b538dbeb404b16dbdb01f701798e224b7",
+      "title": "Github lanserer flere oppdateringer til Actions",
+      "link": "https://www.kode24.no/artikkel/github-lanserer-flere-oppdateringer-til-actions/255368",
+      "source": "Kode24",
+      "summary": "Sier at brukere skal få enklere redigering, tydeligere debugging og en ny case-funksjon",
+      "published": "2026-02-03T04:00:00Z"
+    },
+    {
+      "id": "82100bc81b76489bf3b5325f39985e8312dab1ea",
+      "title": "– ikke mulig å bruke Vipps og samtidig være fri fra amerikansk Big Tech",
+      "link": "https://www.kode24.no/artikkel/ikke-mulig-a-bruke-vipps-og-samtidig-vaere-fri-fra-amerikansk-big-tech/255391",
+      "source": "Kode24",
+      "summary": "Utvikler Robin Heggelund Hansen er irritert på at han ikke får brukt alle tjenester han trenger på smart-telefonen sin.",
+      "published": "2026-02-03T04:00:00Z"
+    },
+    {
+      "id": "643966556573a98f890ce0d6fc2f67e323c4a128",
+      "title": "How to maximize GitHub Copilot’s agentic capabilities",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-to-maximize-github-copilots-agentic-capabilities/",
+      "source": "GitHub Blog",
+      "summary": "A senior engineer's guide to architecting and extending Copilot's real-world applications. The post How to maximize GitHub Copilot’s agentic capabilities appeared first on The GitHub Blog.",
+      "published": "2026-02-02T17:00:00Z"
+    },
+    {
+      "id": "9e506d8f04f71b7fcd439356c30f6252e1f81a1b",
+      "title": "Moltbook – Reddit for KI-agenter",
+      "link": "https://www.kode24.no/artikkel/moltbook-reddit-for-ki-agenter/255378",
+      "source": "Kode24",
+      "summary": "På den nye sosiale medieplattformen Moltbook, så er mennesker kun observatører. Her er det KI-roboter som samhandler og driver kommunikasjonen.",
+      "published": "2026-02-02T15:20:30Z"
+    },
+    {
+      "id": "2c02af32296d976fc22239d4bd51b022f32d0114",
+      "title": "KI-tabbe i kommune: – Brukte KI for å spare tid",
+      "link": "https://www.kode24.no/artikkel/ki-tabbe-i-kommune-brukte-ki-for-a-spare-tid/255354",
+      "source": "Kode24",
+      "summary": "Aurskog-Høland skulle bruke KI til å rydde opp i rot med vann- og avløpsbetalinger. Det gikk ikke så bra.",
+      "published": "2026-02-02T12:23:13Z"
+    },
+    {
+      "id": "9fff319753288822dbc499fc2c8a9bc739b78e5b",
+      "title": "Kartverket bygger opp Skøyen-kontor: – Første begynte der etter jul",
+      "link": "https://www.kode24.no/artikkel/kartverket-bygger-opp-skoyen-kontor-forste-begynte-der-etter-jul/255291",
+      "source": "Kode24",
+      "summary": "Kartverket står midt i en stor digital omstilling. I nye lokaler på Skøyen satses de på utviklermiljøet. – Det er helt nytt at utviklerne kan jobbe på Skøyen.",
+      "published": "2026-02-02T12:08:07Z"
+    },
+    {
+      "id": "53482aea3bceb62f83c1f264b0466cc5a9f873ec",
+      "title": "Capgemini vil selge enhet etter kritikk av ICE-kontrakt",
+      "link": "https://www.kode24.no/artikkel/capgemini-vil-selge-enhet-etter-kritikk-av-ice-kontrakt/255334",
+      "source": "Kode24",
+      "summary": "Capgemini sin CEO mener det var vanskelig å få oversikt over hva enheten drev med.",
+      "published": "2026-02-02T12:03:54Z"
+    },
+    {
+      "id": "93d7b77195cfccdb341dd67e724c3cef83bbdc78",
+      "title": "50 år siden Bill Gates skrev brev til hobbykodere",
+      "link": "https://www.kode24.no/artikkel/50-ar-siden-bill-gates-skrev-brev-til-hobbykodere/255315",
+      "source": "Kode24",
+      "summary": "Brevet satt i gang en langvarig konflikt mellom folk som skrev proprietær programvare og hobbykodere verden over.",
+      "published": "2026-02-02T11:34:25Z"
+    },
+    {
+      "id": "700e3d24c989ab771c71aa0108cdd2483ad75529",
+      "title": "Spår dyrere og dårligere tjenester når KI-bobla sprekker",
+      "link": "https://www.kode24.no/artikkel/spar-dyrere-og-darligere-tjenester-nar-ki-bobla-sprekker/254004",
+      "source": "Kode24",
+      "summary": "Hva skjer med utviklerne hvis KI-bobla sprekker? Og hva skjer hvis ikke? Christin Gorman i Kodemaker nekter å bli «barnevakt» for KI.",
+      "published": "2026-02-02T08:23:29Z"
+    },
+    {
+      "id": "502c6a59de5f7449412c444dbd024c8c93cd5af2",
+      "title": "KI-boomen: – Forstå muligheter og begrensninger",
+      "link": "https://www.kode24.no/artikkel/ki-boomen-forsta-muligheter-og-begrensninger/255277",
+      "source": "Kode24",
+      "summary": "Nordmenn må ikke bare få mer digital kompetanse, men også lære hvordan forholde seg til de store problemstillingene knyttet til KI, ifølge kompetansebehovsutvalget.",
+      "published": "2026-02-02T08:19:27Z"
+    },
     {
       "id": "a34d50df0baac8ac0e20de9dce4d00951fcc491a",
       "title": "Oppfylte drømmen om å skape egen arbeidsplass",
@@ -90,45 +170,6 @@
       "published": "2026-01-29T09:00:00Z"
     },
     {
-      "id": "fc618374e97be0d643a266aee9d00c87efdeff40",
-      "title": "Ny Firefox-versjon, og UI-valg i Shadcn",
-      "link": "https://www.kode24.no/artikkel/ny-firefox-versjon-og-ui-valg-i-shadcn/255023",
-      "source": "Kode24",
-      "published": "2026-01-29T08:47:29Z"
-    },
-    {
-      "id": "86520d482b3c0c236b954c0ecafd6eef15213bcc",
-      "title": "Norske medier: Forberedt om Trump stenger tilgang",
-      "link": "https://www.kode24.no/artikkel/norske-medier-forberedt-om-trump-stenger-tilgang/254987",
-      "source": "Kode24",
-      "summary": "Schibsted har en nødløsning for nettsidene for VG og Aftenposten dersom USAs president Donald Trump skulle blokkere tilgangen til amerikanske tek-løsninger.",
-      "published": "2026-01-29T08:03:00Z"
-    },
-    {
-      "id": "dce1e024bba867911e42dfa0019f5295f808d91c",
-      "title": "Nå skal ICE finne deg gjennom annonsene du ser på",
-      "link": "https://www.kode24.no/artikkel/na-skal-ice-finne-deg-gjennom-annonsene-du-ser-pa/254930",
-      "source": "Kode24",
-      "summary": "De forholdsvis upopulære amerikanske agentene ser etter nye måter å finne frem til mål.",
-      "published": "2026-01-29T04:00:00Z"
-    },
-    {
-      "id": "51e6c361437e591a62d6d1920b22e8bf4ee6b8d8",
-      "title": "Pinterest med kraftig nedbemanning grunnet KI – 700 må gå",
-      "link": "https://www.kode24.no/artikkel/pinterest-med-kraftig-nedbemanning-grunnet-ki-700-ma-ga/254900",
-      "source": "Kode24",
-      "summary": "Pinterest skal redusere bemanningen med hele 15 prosent grunnet KI – annonseringen førte til et stort aksjefall på nesten 10 prosent.",
-      "published": "2026-01-29T04:00:00Z"
-    },
-    {
-      "id": "01d30331647dfd5cbb814641237a13d5c3eb8b79",
-      "title": "– Det kuleste browser-API-et du ikke bruker enda",
-      "link": "https://www.kode24.no/artikkel/det-kuleste-browser-api-et-du-ikke-bruker-enda/254948",
-      "source": "Kode24",
-      "summary": "HTML Invoker Commands API har nådd baseline-støtte.",
-      "published": "2026-01-29T04:00:00Z"
-    },
-    {
       "id": "ba1711ab88f9b6c4973737c882ef62457947f646",
       "title": "From pixels to characters: The engineering behind GitHub Copilot CLI’s animated ASCII banner",
       "link": "https://github.blog/engineering/from-pixels-to-characters-the-engineering-behind-github-copilot-clis-animated-ascii-banner/",
@@ -144,38 +185,6 @@
       "source": "GitHub Blog",
       "summary": "Discover the latest trends and insights on public software development activity on GitHub with data from the Innovation Graph through Q3 2025. The post Year recap and future goals for the GitHub Innovation Graph appeared first on The GitHub Blog.",
       "published": "2026-01-28T16:00:00Z"
-    },
-    {
-      "id": "40782f8693e4cd1839aaea5a33657dbf3fbcf4e6",
-      "title": "Statsråden: – Utopisk å bli 100 prosent digitalt suverene",
-      "link": "https://www.kode24.no/artikkel/statsraden-utopisk-a-bli-100-prosent-digitalt-suverene/254876",
-      "source": "Kode24",
-      "summary": "Hvor avhengige bør vi være av amerikanske leverandører og skytjenester? Digitaliseringsministeren mener vi allerede har mye nasjonal kontroll over data, men peker på ett hull.",
-      "published": "2026-01-28T15:19:29Z"
-    },
-    {
-      "id": "238b50fdcd2a914a59f9a5c3a6c897372010bd71",
-      "title": "Digital lommebok: Kan spare Norge for milliarder",
-      "link": "https://www.kode24.no/artikkel/digital-lommebok-kan-spare-norge-for-milliarder/254880",
-      "source": "Kode24",
-      "summary": "Den nye «digitale lommeboken» kan spare Norge for milliarder av kroner, opplyser digitaliseringsdirektoratet.",
-      "published": "2026-01-28T13:33:18Z"
-    },
-    {
-      "id": "9d4950999e7ca6fd85186a3efd5e9d477c209d83",
-      "title": "Nesten 1 av 2 opplever stress på jobb",
-      "link": "https://www.kode24.no/artikkel/nesten-1-av-2-opplever-stress-pa-jobb/254832",
-      "source": "Kode24",
-      "summary": "Akademikerne mener det psykososiale miljøet på jobb har en sammenheng med sykefraværet. – Det er et tema som i dag er nærmest fraværende i de fleste lederutdanninger.",
-      "published": "2026-01-28T11:00:00Z"
-    },
-    {
-      "id": "07cbde67f7d175b57803a6bfb35a1a09eb924330",
-      "title": "Datatilsynet åpner landsdekkende tilsyn: Bekymret for den digitale sikkerheten i kommunene",
-      "link": "https://www.kode24.no/artikkel/datatilsynet-apner-landsdekkende-tilsyn-bekymret-for-den-digitale-sikkerheten-i-kommunene/254858",
-      "source": "Kode24",
-      "summary": "Datatilsynet åpner tilsyn med datasikkerheten i alle Norges kommuner. – Viktig del av totalforsvaret, sier direktør Line Coll.",
-      "published": "2026-01-28T09:05:14Z"
     },
     {
       "id": "1571e905d0992981c863c03adf9374207529f014",
@@ -243,15 +252,6 @@
       "summary": "Learn how I managed context to keep Copilot focused, used the Plan agent to sharpen vague requirements, and required Test Driven Development practices to catch bugs before users. The post Context windows, Plan agent, and TDD: What I learned building a countdown app with GitHub Copilot appeared...",
       "published": "2026-01-20T17:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2026/01/setup-info.png?resize=1024%2C314"
-    },
-    {
-      "id": "288b52e14b68a13b83ea8cbd9b493f876acde3f9",
-      "title": "Building an agentic memory system for GitHub Copilot",
-      "link": "https://github.blog/ai-and-ml/github-copilot/building-an-agentic-memory-system-for-github-copilot/",
-      "source": "GitHub Blog",
-      "summary": "Copilot’s cross-agent memory system lets agents learn and improve across your development workflow, starting with coding agent, CLI, and code review. The post Building an agentic memory system for GitHub Copilot appeared first on The GitHub Blog.",
-      "published": "2026-01-15T21:31:10Z",
-      "image": "https://github.blog/wp-content/uploads/2026/01/01_Memory_generation-Blog-1200x630_15-12-25_1.jpg?resize=2400%2C1260"
     },
     {
       "id": "0ea1e6845fb72fccd664b752f5ee51bd9c6de569",
