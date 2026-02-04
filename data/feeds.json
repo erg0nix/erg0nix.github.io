@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-02-03T06:57:25.216123Z",
+  "generated_at": "2026-02-04T06:58:25.565387Z",
   "items": [
+    {
+      "id": "ff6e5cf0b246dca9b02a80a90cb80c99cffd0f18",
+      "title": "Fant trojaner som trolig er bygget av KI-modeller",
+      "link": "https://www.kode24.no/artikkel/fant-trojaner-som-trolig-er-bygget-av-ki-modeller/255471",
+      "source": "Kode24",
+      "summary": "Det nye Linux-viruset VoidLink skal være bygget av én person og kunstig intelligens. – Et forvarsel, advarer Næringslivets sikkerhetsråd.",
+      "published": "2026-02-04T04:00:00Z"
+    },
+    {
+      "id": "6666420e24b25ed651d536e57edbf793e21c82be",
+      "title": "What the fastest-growing tools reveal about how software is being built",
+      "link": "https://github.blog/news-insights/octoverse/what-the-fastest-growing-tools-reveal-about-how-software-is-being-built/",
+      "source": "GitHub Blog",
+      "summary": "What languages are growing fastest, and why? What about the projects that people are interested in the most? Where are new developers cutting their teeth? Let’s take a look at Octoverse data to find out. The post What the fastest-growing tools reveal about how software is being built appeared first...",
+      "published": "2026-02-03T17:00:00Z",
+      "image": "https://github.blog/wp-content/uploads/2025/10/octoverse-2025-top-programming-languages.png?resize=1024%2C576"
+    },
+    {
+      "id": "d0efb89aefd590e0b8f2dbc0cdb935f527eab2a0",
+      "title": "X-kontoret til Musk ransakes",
+      "link": "https://www.kode24.no/artikkel/x-kontoret-til-musk-ransakes/255505",
+      "source": "Kode24",
+      "summary": "Kontoret til Elon Musks sosiale medium X er ransaket av fransk politi etter tips fra politiker.",
+      "published": "2026-02-03T11:57:54Z"
+    },
+    {
+      "id": "3ffa2ced5af7ea012718c402e40a7324bb12a620",
+      "title": "Apple kjøper israelsk KI-selskap for nær 2 milliarder dollar",
+      "link": "https://www.kode24.no/artikkel/apple-kjoper-israelsk-ki-selskap-for-naer-2-milliarder-dollar/255489",
+      "source": "Kode24",
+      "summary": "Største oppkjøpet siden Beats i 2014.",
+      "published": "2026-02-03T11:42:49Z"
+    },
+    {
+      "id": "14d96cd419ce46f65abfbb1b83a011757de8a4e9",
+      "title": "Han hjelper offentlig sektor opp i skyen: Ikke et mål å komme seg vekk fra USA",
+      "link": "https://www.kode24.no/artikkel/han-hjelper-offentlig-sektor-opp-i-skyen-ikke-et-mal-a-komme-seg-vekk-fra-usa/255136",
+      "source": "Kode24",
+      "summary": "Stadig flere vil bort fra amerikanske tjenester. Men det er ikke så lett i praksis, mener Sverre Stoltz i statens markedsplass for skytjenester.",
+      "published": "2026-02-03T09:41:50Z"
+    },
+    {
+      "id": "197189744b755ab632a395b61bbf2ff5e6e81574",
+      "title": "Dette svarer Vipps til kommentaren fra Robin Heggelund Hansen",
+      "link": "https://www.kode24.no/artikkel/dette-svarer-vipps-til-kommentaren-fra-robin-heggelund-hansen/255453",
+      "source": "Kode24",
+      "published": "2026-02-03T09:18:49Z"
+    },
+    {
+      "id": "36ace642c73f1e57ea1dfb46b2d73bb5526ff188",
+      "title": "KI-selskap vil til verdensrommet for å få nok energi: – Kan ikke dekkes med jordbaserte løsninger",
+      "link": "https://www.kode24.no/artikkel/ki-selskap-vil-til-verdensrommet-for-a-fa-nok-energi-kan-ikke-dekkes-med-jordbaserte-losninger/255425",
+      "source": "Kode24",
+      "summary": "Romfartsselskapet SpaceX har kjøpt opp KI-selskapet xAI. Nå skal det lages rombaserte datasentre.",
+      "published": "2026-02-03T07:59:51Z"
+    },
     {
       "id": "bc70718b538dbeb404b16dbdb01f701798e224b7",
       "title": "Github lanserer flere oppdateringer til Actions",
@@ -11,7 +67,7 @@
     },
     {
       "id": "82100bc81b76489bf3b5325f39985e8312dab1ea",
-      "title": "– ikke mulig å bruke Vipps og samtidig være fri fra amerikansk Big Tech",
+      "title": "– Ikke mulig å bruke Vipps og samtidig være fri fra amerikansk Big Tech",
       "link": "https://www.kode24.no/artikkel/ikke-mulig-a-bruke-vipps-og-samtidig-vaere-fri-fra-amerikansk-big-tech/255391",
       "source": "Kode24",
       "summary": "Utvikler Robin Heggelund Hansen er irritert på at han ikke får brukt alle tjenester han trenger på smart-telefonen sin.",
@@ -122,54 +178,6 @@
       "published": "2026-01-30T08:38:31Z"
     },
     {
-      "id": "c63915e32a8a8b915e816c3bf8d6a01887f3cb22",
-      "title": "Microsoft tar i bruk AI-kodeverktøy som standard i utvikling",
-      "link": "https://www.kode24.no/artikkel/microsoft-tar-i-bruk-ai-kodeverktoy-som-standard-i-utvikling/255078",
-      "source": "Kode24",
-      "summary": "Bruken av kunstig intelligens i programvareutvikling går fra eksperiment til daglig praksis hos Microsoft.",
-      "published": "2026-01-30T04:00:00Z"
-    },
-    {
-      "id": "8aa7cb47f6e5b4a963091996917c1b2bd8c246e8",
-      "title": "Dagens skydebatt: – En absurd tanke i 2010",
-      "link": "https://www.kode24.no/artikkel/dagens-skydebatt-en-absurd-tanke-i-2010/255070",
-      "source": "Kode24",
-      "summary": "– Det var ingen som snakket om sky i det hele tatt, forteller Jørgen Jacobsen i kode24.",
-      "published": "2026-01-30T04:00:00Z"
-    },
-    {
-      "id": "0565287c3212f74f41bf1e922ae6d0fb8c89fca1",
-      "title": "«Au revoir» Silicon Valley",
-      "link": "https://www.kode24.no/artikkel/au-revoir-silicon-valley/255015",
-      "source": "Kode24",
-      "summary": "Offentlige ansatte i Frankrike må si farvel til amerikanske videotjenester som Microsoft Teams og Zoom, det opplyste Finansdepartementet denne uken.",
-      "published": "2026-01-29T13:58:46Z"
-    },
-    {
-      "id": "57fe32ab73c5435f16ce59cc08ab07b38732613b",
-      "title": "Oljefondet – fikk inn 6.000 søknader",
-      "link": "https://www.kode24.no/artikkel/oljefondet-fikk-inn-6000-soknader/254953",
-      "source": "Kode24",
-      "summary": "– Det er mange spennende muligheter innenfor tek i finansbransjen påpeker Nito-leder Sofie Strøm Olsen. Oljefondet fikk over 6.000 søknader til sommerjobbene sine.",
-      "published": "2026-01-29T11:33:56Z"
-    },
-    {
-      "id": "48dd1a1df84f69d846caf733c130ff79abb3d73c",
-      "title": "– Vi designer for ekstrem skalerbarhet, på bekostning av faktiske problemer",
-      "link": "https://www.kode24.no/artikkel/vi-designer-for-ekstrem-skalerbarhet-pa-bekostning-av-faktiske-problemer/254795",
-      "source": "Kode24",
-      "summary": "– Hvis en applikasjon har rundt hundre brukere, gir det da mening å designe løsningen som om den snart skal ha titusenvis? spør utvikler Steinar Kollerud.",
-      "published": "2026-01-29T10:07:09Z"
-    },
-    {
-      "id": "7afa952635c3b21f8437f121e445f889dd472000",
-      "title": "Carbon Centric fikk pris for sanntids-plattform for å fange CO2",
-      "link": "https://www.kode24.no/artikkel/carbon-centric-fikk-pris-for-sanntids-plattform-for-a-fange-co2/254977",
-      "source": "Kode24",
-      "summary": "Dataforeningen hedrer karbonfangst-selskap. – De bruker data på en gjennomtenkt måte, uttaler juryen.",
-      "published": "2026-01-29T09:00:00Z"
-    },
-    {
       "id": "ba1711ab88f9b6c4973737c882ef62457947f646",
       "title": "From pixels to characters: The engineering behind GitHub Copilot CLI’s animated ASCII banner",
       "link": "https://github.blog/engineering/from-pixels-to-characters-the-engineering-behind-github-copilot-clis-animated-ascii-banner/",
@@ -243,15 +251,6 @@
       "summary": "Learn how we are using the newly released GitHub Security Lab Taskflow Agent to triage categories of vulnerabilities in GitHub Actions and JavaScript projects. The post AI-supported vulnerability triage with the GitHub Security Lab Taskflow Agent appeared first on The GitHub Blog.",
       "published": "2026-01-20T19:52:50Z",
       "image": "https://github.blog/wp-content/uploads/2026/01/01_sample-taskflow.png?resize=1024%2C209"
-    },
-    {
-      "id": "6ddf41765223f69c2051fdbd7ffadf747a44c6db",
-      "title": "Context windows, Plan agent, and TDD: What I learned building a countdown app with GitHub Copilot",
-      "link": "https://github.blog/developer-skills/application-development/context-windows-plan-agent-and-tdd-what-i-learned-building-a-countdown-app-with-github-copilot/",
-      "source": "GitHub Blog",
-      "summary": "Learn how I managed context to keep Copilot focused, used the Plan agent to sharpen vague requirements, and required Test Driven Development practices to catch bugs before users. The post Context windows, Plan agent, and TDD: What I learned building a countdown app with GitHub Copilot appeared...",
-      "published": "2026-01-20T17:00:00Z",
-      "image": "https://github.blog/wp-content/uploads/2026/01/setup-info.png?resize=1024%2C314"
     },
     {
       "id": "0ea1e6845fb72fccd664b752f5ee51bd9c6de569",
