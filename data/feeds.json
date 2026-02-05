@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-02-04T06:58:25.565387Z",
+  "generated_at": "2026-02-05T07:04:19.648693Z",
   "items": [
+    {
+      "id": "8074d663f5157ff626d1a5a7b3b90149dfdb9342",
+      "title": "Demonstrer mot Tolletatens bruk av Palantir",
+      "link": "https://www.kode24.no/artikkel/demonstrer-mot-tolletatens-bruk-av-palantir/255626",
+      "source": "Kode24",
+      "summary": "Det er det ventet enda en demonstrasjon utenfor Tolletaten. Etaten bruker teknologi fra det omstridte amerikanske selskapet, Palantir. – Vi er trygge på at vår bruk skjer innenfor gjeldende regelverk.",
+      "published": "2026-02-05T07:00:00Z"
+    },
+    {
+      "id": "34fd5e0505153a1afcaca65b8b3ed1cb5f0f0a23",
+      "title": "Pick your agent: Use Claude and Codex on Agent HQ",
+      "link": "https://github.blog/news-insights/company-news/pick-your-agent-use-claude-and-codex-on-agent-hq/",
+      "source": "GitHub Blog",
+      "summary": "Claude by Anthropic and OpenAI Codex are now available in public preview on GitHub and VS Code with a Copilot Pro+ or Copilot Enterprise subscription. Here's what you need to know and how to get started today. The post Pick your agent: Use Claude and Codex on Agent HQ appeared first on The GitHub...",
+      "published": "2026-02-04T17:00:19Z"
+    },
+    {
+      "id": "1eeecb22900bbb1b4708a15f8895914d55798ae2",
+      "title": "Utviklet nettsiden han selv savnet",
+      "link": "https://www.kode24.no/artikkel/utviklet-nettsiden-han-selv-savnet/255518",
+      "source": "Kode24",
+      "summary": "Erik Sandsmark har hentet inspirasjon fra surfemiljøet og utviklet en nettside der man kan sjekke pudderværet i Norge. Dette gjorde han ved å ta i bruk offentlige API-er fra Varsom.no og Yr.no.",
+      "published": "2026-02-04T10:02:08Z"
+    },
+    {
+      "id": "2e9da5f1442d1dc35f95ed0a378b95175dd56ded",
+      "title": "Personal(leder), Produkt(leder), Team(leder): hva skjer når én av dem forsvinner?",
+      "link": "https://www.kode24.no/artikkel/personalleder-produktleder-teamleder-hva-skjer-nar-en-av-dem-forsvinner/255607",
+      "source": "Kode24",
+      "summary": "Bedrifter sentrerer ansvaret rundt produktlederen, mener Marielle Mortensdatter.",
+      "published": "2026-02-04T09:38:24Z"
+    },
+    {
+      "id": "7c9f68d46d63bd7e1df147d0ce2fdab473aa50f4",
+      "title": "Dette er Storbritannias første KI-by",
+      "link": "https://www.kode24.no/artikkel/dette-er-storbritannias-forste-ki-by/255544",
+      "source": "Kode24",
+      "summary": "Barnsley er utpekt som Storbritannias første teknologiby. Byen blir prøvekanin for resten av landet.",
+      "published": "2026-02-04T08:06:44Z"
+    },
     {
       "id": "ff6e5cf0b246dca9b02a80a90cb80c99cffd0f18",
       "title": "Fant trojaner som trolig er bygget av KI-modeller",
@@ -146,38 +186,6 @@
       "published": "2026-02-02T04:00:00Z"
     },
     {
-      "id": "87352a2e4fdd6e0d1bc69dc9d6f4edb780cc2ce7",
-      "title": "- Jeg blir litt oppgitt over denne «Morna, koding!»-holdningen",
-      "link": "https://www.kode24.no/artikkel/jeg-blir-litt-oppgitt-over-denne-morna-koding-holdningen/255186",
-      "source": "Kode24",
-      "summary": "Teknisk leder Mikael Åsbjørnsson-Stensland er oppgitt over utvikleres holdning til AI-koding.",
-      "published": "2026-01-31T04:00:00Z"
-    },
-    {
-      "id": "5028c4f843f7197905deac630745ef89041ce1c7",
-      "title": "Bør KI-genererte nyheter merkes? Ja, mener tankesmie",
-      "link": "https://www.kode24.no/artikkel/bor-ki-genererte-nyheter-merkes-ja-mener-tankesmie/255174",
-      "source": "Kode24",
-      "summary": "KI-genererte nyheter bør merkes, mener den britiske tenketanken IPPR. De argumenterer også for at teknologiselskaper skal betale aviser for innhold de bruker.",
-      "published": "2026-01-30T11:05:24Z"
-    },
-    {
-      "id": "1bc63eb6ccf2171c32297ebbf91491a0312e4540",
-      "title": "Datatilsynet-sjefen: Ikke trygt for utviklere å bruke amerikanske tjenester",
-      "link": "https://www.kode24.no/artikkel/datatilsynet-sjefen-ikke-trygt-for-utviklere-a-bruke-amerikanske-tjenester/255064",
-      "source": "Kode24",
-      "summary": "Trusselbildet har endret seg såpass det mye året at Datatilsynets direktør anbefaler utviklere å ta forholdsregler ved lagring av data og bruk av USA-baserte tjenester.",
-      "published": "2026-01-30T08:52:00Z"
-    },
-    {
-      "id": "8580cc98ea0bc5c9a85a2ef74f47f515d0a33c30",
-      "title": "Høy bruk av digitale helsetjenester i Norge",
-      "link": "https://www.kode24.no/artikkel/hoy-bruk-av-digitale-helsetjenester-i-norge/255146",
-      "source": "Kode24",
-      "summary": "Seks av ti nordmenn har brukt digitale helsetjenester det siste året, viser en ny undersøkelse fra Helsedirektoratet. Nå bygges en KI-tjeneste for helsespørsmål.",
-      "published": "2026-01-30T08:38:31Z"
-    },
-    {
       "id": "ba1711ab88f9b6c4973737c882ef62457947f646",
       "title": "From pixels to characters: The engineering behind GitHub Copilot CLI’s animated ASCII banner",
       "link": "https://github.blog/engineering/from-pixels-to-characters-the-engineering-behind-github-copilot-clis-animated-ascii-banner/",
@@ -242,15 +250,6 @@
       "summary": "The 2025 Go Developer Survey results, focused on developer sentiment towards Go, use cases, challenges, and developer environments.",
       "published": "2026-01-21T00:00:00Z",
       "image": "https://go.dev/blog/survey2025/where.svg"
-    },
-    {
-      "id": "2d640893ca5ffcb9005a1d54e250cd02b2c7bf62",
-      "title": "AI-supported vulnerability triage with the GitHub Security Lab Taskflow Agent",
-      "link": "https://github.blog/security/ai-supported-vulnerability-triage-with-the-github-security-lab-taskflow-agent/",
-      "source": "GitHub Blog",
-      "summary": "Learn how we are using the newly released GitHub Security Lab Taskflow Agent to triage categories of vulnerabilities in GitHub Actions and JavaScript projects. The post AI-supported vulnerability triage with the GitHub Security Lab Taskflow Agent appeared first on The GitHub Blog.",
-      "published": "2026-01-20T19:52:50Z",
-      "image": "https://github.blog/wp-content/uploads/2026/01/01_sample-taskflow.png?resize=1024%2C209"
     },
     {
       "id": "0ea1e6845fb72fccd664b752f5ee51bd9c6de569",
