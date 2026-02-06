@@ -1,12 +1,92 @@
 {
-  "generated_at": "2026-02-05T07:04:19.648693Z",
+  "generated_at": "2026-02-06T07:00:16.684562Z",
   "items": [
     {
-      "id": "8074d663f5157ff626d1a5a7b3b90149dfdb9342",
-      "title": "Demonstrer mot Tolletatens bruk av Palantir",
-      "link": "https://www.kode24.no/artikkel/demonstrer-mot-tolletatens-bruk-av-palantir/255626",
+      "id": "43080ed971bdffacc2048ae2a03d90516748eaa3",
+      "title": "Kritisk IT-mangel – endrer studietilbud",
+      "link": "https://www.kode24.no/artikkel/kritisk-it-mangel-endrer-studietilbud/255778",
       "source": "Kode24",
-      "summary": "Det er det ventet enda en demonstrasjon utenfor Tolletaten. Etaten bruker teknologi fra det omstridte amerikanske selskapet, Palantir. – Vi er trygge på at vår bruk skjer innenfor gjeldende regelverk.",
+      "summary": "Høyskolen Kristiania kommer på banen med nye og oppdaterte IT-studier da Norge mangler IT-kompetanse: – Alvorlig mener Kompetanseutvalget.",
+      "published": "2026-02-06T04:00:00Z"
+    },
+    {
+      "id": "d3a27681d434f77578fc93e19427d3d405399e6b",
+      "title": "Moltbook viser hvor fort webtjenester kan bli globale snakkiser",
+      "link": "https://www.kode24.no/artikkel/moltbook-viser-hvor-fort-webtjenester-kan-bli-globale-snakkiser/255800",
+      "source": "Kode24",
+      "summary": "Ikke avskriv webben enda folkens, skriver Jørgen i ukas nyhetsbrev.",
+      "published": "2026-02-06T04:00:00Z"
+    },
+    {
+      "id": "24bb38f575da96b3d69f3fc929e3c004b31112ce",
+      "title": "Continuous AI in practice: What developers can automate today with agentic CI",
+      "link": "https://github.blog/ai-and-ml/generative-ai/continuous-ai-in-practice-what-developers-can-automate-today-with-agentic-ci/",
+      "source": "GitHub Blog",
+      "summary": "Think of Continuous AI as background agents that operate in your repository for tasks that require reasoning. The post Continuous AI in practice: What developers can automate today with agentic CI appeared first on The GitHub Blog.",
+      "published": "2026-02-05T17:00:00Z"
+    },
+    {
+      "id": "673052066df24e4bd5f0c6bce4e44fe06bcad1e8",
+      "title": "Suksessbedrift basert i Vestland: Stolt av å utfordre Silicon Valley",
+      "link": "https://www.kode24.no/artikkel/suksessbedrift-basert-i-vestland-stolt-av-a-utfordre-silicon-valley/255546",
+      "source": "Kode24",
+      "summary": "Diagram-selskapet Highsoft tjener penger på lisenser i et marked fullt av gratisløsninger, men møter utfordringer i Asia. – I en del kulturer er man ikke like betalingsvillige.",
+      "published": "2026-02-05T13:00:00Z"
+    },
+    {
+      "id": "d1bc0f9fa0780a93d24aa497d9b1c6b9c18d0ec5",
+      "title": "Friluftsliv + tek = sant",
+      "link": "https://www.kode24.no/artikkel/friluftsliv-tek-sant/255669",
+      "source": "Kode24",
+      "summary": "NTNU-studentene lager en tek-konferanse der friluftsliv står sentralt: – Tek og friluftsliv går hånd i hånd. Så vi ville lage en konferanse på bygda, sier arrangør Hanna Aalmen.",
+      "published": "2026-02-05T12:07:15Z"
+    },
+    {
+      "id": "59f3e10e32760d48219bea9f583c9f0140e23065",
+      "title": "Satya Nadella utnevner «kvalitetssjef»",
+      "link": "https://www.kode24.no/artikkel/satya-nadella-utnevner-kvalitetssjef/255761",
+      "source": "Kode24",
+      "summary": "Skal skjerpe Microsofts ingeniørarbeid, og sikre kvalitetskode.",
+      "published": "2026-02-05T09:45:01Z"
+    },
+    {
+      "id": "25d11dd3f7a5c1fadc944ed06e3bf25f3378edf7",
+      "title": "Computas styrker laget med to erfarne utviklere",
+      "link": "https://www.kode24.no/artikkel/computas-styrker-laget-med-to-erfarne-utviklere/255746",
+      "source": "Kode24",
+      "summary": "Computas har kapret ettertraktet seniorkompetanse på utvikling og arkitektur gjennom sine nyeste ansettelser.",
+      "published": "2026-02-05T09:25:12Z"
+    },
+    {
+      "id": "684e93a7c1cd137f9baa090657de36bf907cf148",
+      "title": "Antire henter Cecilie Skouge til å lede satsing på cloud og data",
+      "link": "https://www.kode24.no/artikkel/antire-henter-cecilie-skouge-til-a-lede-satsing-pa-cloud-og-data/255728",
+      "source": "Kode24",
+      "summary": "Antire styrker ledergruppen og ansetter Cecilie Skouge som leder for cloud og data.",
+      "published": "2026-02-05T09:13:09Z"
+    },
+    {
+      "id": "437ecc74ad65726a351c1d1a51389d323d894f42",
+      "title": "Et program er ikke koden sin",
+      "link": "https://www.kode24.no/artikkel/et-program-er-ikke-koden-sin/255705",
+      "source": "Kode24",
+      "summary": "– Hva mister vi når vi outsourcer tenkningen?, spør utvikler Christian Ekrem.",
+      "published": "2026-02-05T08:52:32Z"
+    },
+    {
+      "id": "9ce83663f4cfd6b3b84cae30325433dc1b07a9eb",
+      "title": "Høyest lønnsvekst i toppen: IKT-jobber på topp ti-lista",
+      "link": "https://www.kode24.no/artikkel/hoyest-lonnsvekst-i-toppen-ikt-jobber-pa-topp-ti-lista/255681",
+      "source": "Kode24",
+      "summary": "I fjor fikk personer i jobbene med høyest lønn også høyest lønnsvekst. Det bidro til større lønnsgap mellom kvinner og menn.",
+      "published": "2026-02-05T08:06:48Z"
+    },
+    {
+      "id": "8074d663f5157ff626d1a5a7b3b90149dfdb9342",
+      "title": "Demonstrerer mot Tolletatens bruk av Palantir",
+      "link": "https://www.kode24.no/artikkel/demonstrerer-mot-tolletatens-bruk-av-palantir/255626",
+      "source": "Kode24",
+      "summary": "Det er ventet enda en demonstrasjon utenfor Tolletaten. Etaten bruker teknologi fra det omstridte amerikanske selskapet, Palantir. – Vi er trygge på at vår bruk skjer innenfor gjeldende regelverk.",
       "published": "2026-02-05T07:00:00Z"
     },
     {
@@ -106,84 +186,12 @@
       "published": "2026-02-03T04:00:00Z"
     },
     {
-      "id": "82100bc81b76489bf3b5325f39985e8312dab1ea",
-      "title": "– Ikke mulig å bruke Vipps og samtidig være fri fra amerikansk Big Tech",
-      "link": "https://www.kode24.no/artikkel/ikke-mulig-a-bruke-vipps-og-samtidig-vaere-fri-fra-amerikansk-big-tech/255391",
-      "source": "Kode24",
-      "summary": "Utvikler Robin Heggelund Hansen er irritert på at han ikke får brukt alle tjenester han trenger på smart-telefonen sin.",
-      "published": "2026-02-03T04:00:00Z"
-    },
-    {
       "id": "643966556573a98f890ce0d6fc2f67e323c4a128",
       "title": "How to maximize GitHub Copilot’s agentic capabilities",
       "link": "https://github.blog/ai-and-ml/github-copilot/how-to-maximize-github-copilots-agentic-capabilities/",
       "source": "GitHub Blog",
       "summary": "A senior engineer's guide to architecting and extending Copilot's real-world applications. The post How to maximize GitHub Copilot’s agentic capabilities appeared first on The GitHub Blog.",
       "published": "2026-02-02T17:00:00Z"
-    },
-    {
-      "id": "9e506d8f04f71b7fcd439356c30f6252e1f81a1b",
-      "title": "Moltbook – Reddit for KI-agenter",
-      "link": "https://www.kode24.no/artikkel/moltbook-reddit-for-ki-agenter/255378",
-      "source": "Kode24",
-      "summary": "På den nye sosiale medieplattformen Moltbook, så er mennesker kun observatører. Her er det KI-roboter som samhandler og driver kommunikasjonen.",
-      "published": "2026-02-02T15:20:30Z"
-    },
-    {
-      "id": "2c02af32296d976fc22239d4bd51b022f32d0114",
-      "title": "KI-tabbe i kommune: – Brukte KI for å spare tid",
-      "link": "https://www.kode24.no/artikkel/ki-tabbe-i-kommune-brukte-ki-for-a-spare-tid/255354",
-      "source": "Kode24",
-      "summary": "Aurskog-Høland skulle bruke KI til å rydde opp i rot med vann- og avløpsbetalinger. Det gikk ikke så bra.",
-      "published": "2026-02-02T12:23:13Z"
-    },
-    {
-      "id": "9fff319753288822dbc499fc2c8a9bc739b78e5b",
-      "title": "Kartverket bygger opp Skøyen-kontor: – Første begynte der etter jul",
-      "link": "https://www.kode24.no/artikkel/kartverket-bygger-opp-skoyen-kontor-forste-begynte-der-etter-jul/255291",
-      "source": "Kode24",
-      "summary": "Kartverket står midt i en stor digital omstilling. I nye lokaler på Skøyen satses de på utviklermiljøet. – Det er helt nytt at utviklerne kan jobbe på Skøyen.",
-      "published": "2026-02-02T12:08:07Z"
-    },
-    {
-      "id": "53482aea3bceb62f83c1f264b0466cc5a9f873ec",
-      "title": "Capgemini vil selge enhet etter kritikk av ICE-kontrakt",
-      "link": "https://www.kode24.no/artikkel/capgemini-vil-selge-enhet-etter-kritikk-av-ice-kontrakt/255334",
-      "source": "Kode24",
-      "summary": "Capgemini sin CEO mener det var vanskelig å få oversikt over hva enheten drev med.",
-      "published": "2026-02-02T12:03:54Z"
-    },
-    {
-      "id": "93d7b77195cfccdb341dd67e724c3cef83bbdc78",
-      "title": "50 år siden Bill Gates skrev brev til hobbykodere",
-      "link": "https://www.kode24.no/artikkel/50-ar-siden-bill-gates-skrev-brev-til-hobbykodere/255315",
-      "source": "Kode24",
-      "summary": "Brevet satt i gang en langvarig konflikt mellom folk som skrev proprietær programvare og hobbykodere verden over.",
-      "published": "2026-02-02T11:34:25Z"
-    },
-    {
-      "id": "700e3d24c989ab771c71aa0108cdd2483ad75529",
-      "title": "Spår dyrere og dårligere tjenester når KI-bobla sprekker",
-      "link": "https://www.kode24.no/artikkel/spar-dyrere-og-darligere-tjenester-nar-ki-bobla-sprekker/254004",
-      "source": "Kode24",
-      "summary": "Hva skjer med utviklerne hvis KI-bobla sprekker? Og hva skjer hvis ikke? Christin Gorman i Kodemaker nekter å bli «barnevakt» for KI.",
-      "published": "2026-02-02T08:23:29Z"
-    },
-    {
-      "id": "502c6a59de5f7449412c444dbd024c8c93cd5af2",
-      "title": "KI-boomen: – Forstå muligheter og begrensninger",
-      "link": "https://www.kode24.no/artikkel/ki-boomen-forsta-muligheter-og-begrensninger/255277",
-      "source": "Kode24",
-      "summary": "Nordmenn må ikke bare få mer digital kompetanse, men også lære hvordan forholde seg til de store problemstillingene knyttet til KI, ifølge kompetansebehovsutvalget.",
-      "published": "2026-02-02T08:19:27Z"
-    },
-    {
-      "id": "a34d50df0baac8ac0e20de9dce4d00951fcc491a",
-      "title": "Oppfylte drømmen om å skape egen arbeidsplass",
-      "link": "https://www.kode24.no/artikkel/oppfylte-drommen-om-a-skape-egen-arbeidsplass/255234",
-      "source": "Kode24",
-      "summary": "Sander Sandøy startet konsulentselskapet «Fyk» høsten 2025 med åtte andre utviklere. 32-åringen meddeler at det har fått en forrykende start: – Vi er fullt utleid allerede.",
-      "published": "2026-02-02T04:00:00Z"
     },
     {
       "id": "ba1711ab88f9b6c4973737c882ef62457947f646",
@@ -233,14 +241,6 @@
       "source": "GitHub Blog",
       "summary": "Now in technical preview, the GitHub Copilot SDK can plan, invoke tools, edit files, and run commands as a programmable layer you can use in any application. The post Build an agent into any app with the GitHub Copilot SDK appeared first on The GitHub Blog.",
       "published": "2026-01-22T15:01:44Z"
-    },
-    {
-      "id": "51eb595a62c9f444dbd23e91ffb13181f65317b7",
-      "title": "A cheat sheet to slash commands in GitHub Copilot CLI",
-      "link": "https://github.blog/ai-and-ml/github-copilot/a-cheat-sheet-to-slash-commands-in-github-copilot-cli/",
-      "source": "GitHub Blog",
-      "summary": "Run tests, fix code, and get support—right in your workflow. Stay focused and let Copilot handle the busywork. The post A cheat sheet to slash commands in GitHub Copilot CLI appeared first on The GitHub Blog.",
-      "published": "2026-01-21T17:09:10Z"
     },
     {
       "id": "27a1ea166fc2a10fe1932a8430150324117a626c",
