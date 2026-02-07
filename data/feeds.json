@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-02-06T07:00:16.684562Z",
+  "generated_at": "2026-02-07T06:49:33.896847Z",
   "items": [
+    {
+      "id": "ffe095ed32545b33870c94a3cf04ac03371b2eb2",
+      "title": "– Det er i denne fasen at ting virkelig blir rart",
+      "link": "https://www.kode24.no/artikkel/det-er-i-denne-fasen-at-ting-virkelig-blir-rart/255824",
+      "source": "Kode24",
+      "summary": "En uke siden Moltbook ble lansert: – Å gi KI-agenter sin egen Reddit-klone høres først ut som et fjasete eksperiment, men vi kan forvente langt mer enn dank memes og shitposts.",
+      "published": "2026-02-07T04:00:00Z"
+    },
+    {
+      "id": "cb0d84285d8b807d2a1981bd010a4529d9056e8b",
+      "title": "Slik jobba VG-utviklerne med dialogen mellom Mette-Marit og Epstein",
+      "link": "https://www.kode24.no/artikkel/slik-jobba-vg-utviklerne-med-dialogen-mellom-mette-marit-og-epstein/255927",
+      "source": "Kode24",
+      "summary": "Google Sheet, JSON og SvelteKit var viktig da VG gjorde alle meldingene mellom kronprinsessen og den dømte sexforbryteren mer lesbare.",
+      "published": "2026-02-06T14:19:17Z"
+    },
+    {
+      "id": "7d69dc5bb4671e21d92300094a6346a140f9bee3",
+      "title": "NTNU-studenter vant cybersikkerhet-pris i Paris",
+      "link": "https://www.kode24.no/artikkel/ntnu-studenter-vant-cybersikkerhet-pris-i-paris/255891",
+      "source": "Kode24",
+      "summary": "Søvnmangle spolerte finalesjansen, men det norske laget vant for beste oppsummering av en fiktiv cyberkrise. I mars skal studentene konkurrere i USA.",
+      "published": "2026-02-06T10:54:08Z"
+    },
+    {
+      "id": "303d692ea18a93c86a911a5b240fe92004842dd1",
+      "title": "Netthandel og datingapper øker risikoen for svindel",
+      "link": "https://www.kode24.no/artikkel/netthandel-og-datingapper-oker-risikoen-for-svindel/255859",
+      "source": "Kode24",
+      "summary": "Jo mer du skroller – desto enklere er det å svindle deg. Nkom trekker frem mye tid på datingapper, netthandel og SoMe som negativt.",
+      "published": "2026-02-06T10:01:59Z"
+    },
+    {
+      "id": "dc4365b375df06476657b4f157d9caff5da3330d",
+      "title": "NSM advarer mot å gi fra seg digital kontroll over skyen",
+      "link": "https://www.kode24.no/artikkel/nsm-advarer-mot-a-gi-fra-seg-digital-kontroll-over-skyen/255866",
+      "source": "Kode24",
+      "summary": "Fredag kom de nasjonale trusselvurderingene. Små og store virksomheter må være forberedt på å håndtere hendelser i cyberdomenet, ifølge sikkerhetsmyndigheten.",
+      "published": "2026-02-06T08:30:47Z"
+    },
     {
       "id": "43080ed971bdffacc2048ae2a03d90516748eaa3",
       "title": "Kritisk IT-mangel – endrer studietilbud",
@@ -102,7 +142,7 @@
       "title": "Utviklet nettsiden han selv savnet",
       "link": "https://www.kode24.no/artikkel/utviklet-nettsiden-han-selv-savnet/255518",
       "source": "Kode24",
-      "summary": "Erik Sandsmark har hentet inspirasjon fra surfemiljøet og utviklet en nettside der man kan sjekke pudderværet i Norge. Dette gjorde han ved å ta i bruk offentlige API-er fra Varsom.no og Yr.no.",
+      "summary": "Erik Sandsmark har hentet inspirasjon fra surfemiljøet og utviklet en nettside der man kan sjekke pudderværet i Norge. Dette gjorde han ved å ta i bruk offentlige data.",
       "published": "2026-02-04T10:02:08Z"
     },
     {
@@ -145,45 +185,6 @@
       "source": "Kode24",
       "summary": "Kontoret til Elon Musks sosiale medium X er ransaket av fransk politi etter tips fra politiker.",
       "published": "2026-02-03T11:57:54Z"
-    },
-    {
-      "id": "3ffa2ced5af7ea012718c402e40a7324bb12a620",
-      "title": "Apple kjøper israelsk KI-selskap for nær 2 milliarder dollar",
-      "link": "https://www.kode24.no/artikkel/apple-kjoper-israelsk-ki-selskap-for-naer-2-milliarder-dollar/255489",
-      "source": "Kode24",
-      "summary": "Største oppkjøpet siden Beats i 2014.",
-      "published": "2026-02-03T11:42:49Z"
-    },
-    {
-      "id": "14d96cd419ce46f65abfbb1b83a011757de8a4e9",
-      "title": "Han hjelper offentlig sektor opp i skyen: Ikke et mål å komme seg vekk fra USA",
-      "link": "https://www.kode24.no/artikkel/han-hjelper-offentlig-sektor-opp-i-skyen-ikke-et-mal-a-komme-seg-vekk-fra-usa/255136",
-      "source": "Kode24",
-      "summary": "Stadig flere vil bort fra amerikanske tjenester. Men det er ikke så lett i praksis, mener Sverre Stoltz i statens markedsplass for skytjenester.",
-      "published": "2026-02-03T09:41:50Z"
-    },
-    {
-      "id": "197189744b755ab632a395b61bbf2ff5e6e81574",
-      "title": "Dette svarer Vipps til kommentaren fra Robin Heggelund Hansen",
-      "link": "https://www.kode24.no/artikkel/dette-svarer-vipps-til-kommentaren-fra-robin-heggelund-hansen/255453",
-      "source": "Kode24",
-      "published": "2026-02-03T09:18:49Z"
-    },
-    {
-      "id": "36ace642c73f1e57ea1dfb46b2d73bb5526ff188",
-      "title": "KI-selskap vil til verdensrommet for å få nok energi: – Kan ikke dekkes med jordbaserte løsninger",
-      "link": "https://www.kode24.no/artikkel/ki-selskap-vil-til-verdensrommet-for-a-fa-nok-energi-kan-ikke-dekkes-med-jordbaserte-losninger/255425",
-      "source": "Kode24",
-      "summary": "Romfartsselskapet SpaceX har kjøpt opp KI-selskapet xAI. Nå skal det lages rombaserte datasentre.",
-      "published": "2026-02-03T07:59:51Z"
-    },
-    {
-      "id": "bc70718b538dbeb404b16dbdb01f701798e224b7",
-      "title": "Github lanserer flere oppdateringer til Actions",
-      "link": "https://www.kode24.no/artikkel/github-lanserer-flere-oppdateringer-til-actions/255368",
-      "source": "Kode24",
-      "summary": "Sier at brukere skal få enklere redigering, tydeligere debugging og en ny case-funksjon",
-      "published": "2026-02-03T04:00:00Z"
     },
     {
       "id": "643966556573a98f890ce0d6fc2f67e323c4a128",
