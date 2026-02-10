@@ -1,12 +1,52 @@
 {
-  "generated_at": "2026-02-09T07:09:54.737711Z",
+  "generated_at": "2026-02-10T07:10:41.473904Z",
   "items": [
     {
-      "id": "8b433202321a18dca68f3c560ff0f4bedb8db230",
-      "title": "Kom deg ut i felt: – Lett å gro fast foran pulten",
-      "link": "https://www.kode24.no/artikkel/kom-deg-ut-i-felt-lett-a-gro-fast-foran-pulten/255922",
+      "id": "f602dfe7a6b547e9dd014a609b6315032615239a",
+      "title": "Highsoft lanserte beta-versjon av graf-KI: – Kan sage over greina vi sitter på",
+      "link": "https://www.kode24.no/artikkel/highsoft-lanserte-beta-versjon-av-graf-ki-kan-sage-over-greina-vi-sitter-pa/255534",
       "source": "Kode24",
-      "summary": "Julie Haga (29) er utvikler i avfallsbransjen og anbefaler utviklere der ute å komme seg mer ut i felt: – Det er lett å gro fast foran pulten, men det er helt uvurderlig å komme seg ut.",
+      "summary": "De lever av programvare for å lage diagrammer og tabeller. Og jobber med et KI-verktøy som kan undergrave hele bedriftsmodellen.",
+      "published": "2026-02-10T05:00:00Z"
+    },
+    {
+      "id": "7b11b2277316be4ef0fd94d0cd54da4e15978271",
+      "title": "KI i offentlig sektor: – Folk er bekymret",
+      "link": "https://www.kode24.no/artikkel/ki-i-offentlig-sektor-folk-er-bekymret/256076",
+      "source": "Kode24",
+      "summary": "Over halvparten er bekymret for personvernet når kunstig intelligens tas i bruk i offentlige virksomheter.",
+      "published": "2026-02-09T14:38:23Z"
+    },
+    {
+      "id": "a98b4ed617f6a76666cd5b5d4ecbb4d004f38173",
+      "title": "Utvikler jakter på «flimring» og «MineCraft-piksler» i universet",
+      "link": "https://www.kode24.no/artikkel/utvikler-jakter-pa-flimring-og-minecraft-piksler-i-universet/255837",
+      "source": "Kode24",
+      "summary": "Jens Tandstad tester å dra linja fra filosofi til «digital fysikk» og MineCraft i et nytt prosjekt. – Høres ut som en lapskaus av alt mulig rart, sier fysikkprofessor.",
+      "published": "2026-02-09T11:57:14Z"
+    },
+    {
+      "id": "fe35d1d1fea4d10bd9825bfa90e6c6e2c2d78fac",
+      "title": "Anthropic hardt ut mot OpenAI under Super Bowl",
+      "link": "https://www.kode24.no/artikkel/anthropic-hardt-ut-mot-openai-under-super-bowl/256022",
+      "source": "Kode24",
+      "summary": "Anthropic har brukt millioner av dollar på Super Bowl-annonser der de hang ut OpenAI. Sam Altman snakker ut om dem på X og sier han ler av annonsene.",
+      "published": "2026-02-09T10:14:00Z"
+    },
+    {
+      "id": "4ab73d1d4cb50cc336a2b12fc6551ede8c979a44",
+      "title": "Apevideo av Obama ble publisert ved en feil",
+      "link": "https://www.kode24.no/artikkel/apevideo-av-obama-ble-publisert-ved-en-feil/256006",
+      "source": "Kode24",
+      "summary": "En video der Barack og Michelle Obama ble framstilt som aper, er blitt fjernet fra president Donald Trumps nettsted Truth Social, opplyser Det hvite hus.",
+      "published": "2026-02-09T08:03:31Z"
+    },
+    {
+      "id": "8b433202321a18dca68f3c560ff0f4bedb8db230",
+      "title": "Mener utviklere bør være mer ute i felten",
+      "link": "https://www.kode24.no/artikkel/mener-utviklere-bor-vaere-mer-ute-i-felten/255922",
+      "source": "Kode24",
+      "summary": "Julie Haga (29) er utvikler i avfallsbransjen og anbefaler utviklere der ute å komme seg mer ut i felt: – Det er lett å gro fast foran pulten.",
       "published": "2026-02-09T04:00:00Z"
     },
     {
@@ -130,52 +170,12 @@
       "published": "2026-02-05T08:06:48Z"
     },
     {
-      "id": "8074d663f5157ff626d1a5a7b3b90149dfdb9342",
-      "title": "Demonstrerer mot Tolletatens bruk av Palantir",
-      "link": "https://www.kode24.no/artikkel/demonstrerer-mot-tolletatens-bruk-av-palantir/255626",
-      "source": "Kode24",
-      "summary": "Det er ventet enda en demonstrasjon utenfor Tolletaten. Etaten bruker teknologi fra det omstridte amerikanske selskapet, Palantir. – Vi er trygge på at vår bruk skjer innenfor gjeldende regelverk.",
-      "published": "2026-02-05T07:00:00Z"
-    },
-    {
       "id": "34fd5e0505153a1afcaca65b8b3ed1cb5f0f0a23",
       "title": "Pick your agent: Use Claude and Codex on Agent HQ",
       "link": "https://github.blog/news-insights/company-news/pick-your-agent-use-claude-and-codex-on-agent-hq/",
       "source": "GitHub Blog",
       "summary": "Claude by Anthropic and OpenAI Codex are now available in public preview on GitHub and VS Code with a Copilot Pro+ or Copilot Enterprise subscription. Here's what you need to know and how to get started today. The post Pick your agent: Use Claude and Codex on Agent HQ appeared first on The GitHub...",
       "published": "2026-02-04T17:00:19Z"
-    },
-    {
-      "id": "1eeecb22900bbb1b4708a15f8895914d55798ae2",
-      "title": "Utviklet nettsiden han selv savnet",
-      "link": "https://www.kode24.no/artikkel/utviklet-nettsiden-han-selv-savnet/255518",
-      "source": "Kode24",
-      "summary": "Erik Sandsmark har hentet inspirasjon fra surfemiljøet og utviklet en nettside der man kan sjekke pudderværet i Norge. Dette gjorde han ved å ta i bruk offentlige data.",
-      "published": "2026-02-04T10:02:08Z"
-    },
-    {
-      "id": "2e9da5f1442d1dc35f95ed0a378b95175dd56ded",
-      "title": "Personal(leder), Produkt(leder), Team(leder): hva skjer når én av dem forsvinner?",
-      "link": "https://www.kode24.no/artikkel/personalleder-produktleder-teamleder-hva-skjer-nar-en-av-dem-forsvinner/255607",
-      "source": "Kode24",
-      "summary": "Bedrifter sentrerer ansvaret rundt produktlederen, mener Marielle Mortensdatter.",
-      "published": "2026-02-04T09:38:24Z"
-    },
-    {
-      "id": "7c9f68d46d63bd7e1df147d0ce2fdab473aa50f4",
-      "title": "Dette er Storbritannias første KI-by",
-      "link": "https://www.kode24.no/artikkel/dette-er-storbritannias-forste-ki-by/255544",
-      "source": "Kode24",
-      "summary": "Barnsley er utpekt som Storbritannias første teknologiby. Byen blir prøvekanin for resten av landet.",
-      "published": "2026-02-04T08:06:44Z"
-    },
-    {
-      "id": "ff6e5cf0b246dca9b02a80a90cb80c99cffd0f18",
-      "title": "Fant trojaner som trolig er bygget av KI-modeller",
-      "link": "https://www.kode24.no/artikkel/fant-trojaner-som-trolig-er-bygget-av-ki-modeller/255471",
-      "source": "Kode24",
-      "summary": "Det nye Linux-viruset VoidLink skal være bygget av én person og kunstig intelligens. – Et forvarsel, advarer Næringslivets sikkerhetsråd.",
-      "published": "2026-02-04T04:00:00Z"
     },
     {
       "id": "6666420e24b25ed651d536e57edbf793e21c82be",
