@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-02-10T07:10:41.473904Z",
+  "generated_at": "2026-02-11T07:06:51.668330Z",
   "items": [
+    {
+      "id": "76a4c9d4c10b50e2b4ba481c9cbee9d85e294829",
+      "title": "Norkart: – Vil være uavhengig av enkeltleverandører",
+      "link": "https://www.kode24.no/artikkel/norkart-vil-vaere-uavhengig-av-enkeltleverandorer/255849",
+      "source": "Kode24",
+      "summary": "Teknologiselskapet Norkart ønsker å være mindre bundet til amerikanske tjenester: –Hvis våre løsninger slutter å virke, så påvirker det livet til innbyggere i Norge.",
+      "published": "2026-02-11T05:00:00Z"
+    },
+    {
+      "id": "c27f8ae632de949da35fd922b9b9df9c391ebfa6",
+      "title": "Ikea-kutt berører utviklere",
+      "link": "https://www.kode24.no/artikkel/ikea-kutt-berorer-utviklere/256157",
+      "source": "Kode24",
+      "summary": "Ikea Norge kutter 50–60 årsverk i Norge. Nå er det kjent at det også vil berøre IT-ansatte og utviklere.",
+      "published": "2026-02-10T14:53:14Z"
+    },
+    {
+      "id": "6a3d8e7aaa1eaa7951d0bc825406bcf3819ea421",
+      "title": "Flere kommuner bruker Hudd i stedet for Facebook",
+      "link": "https://www.kode24.no/artikkel/flere-kommuner-bruker-hudd-i-stedet-for-facebook/256143",
+      "source": "Kode24",
+      "summary": "Den norske plattformen Hudd har passert 180.000. Brukes av kommuner som vil løsrive seg fra Meta – kommuner har sett et behov for å tenke nytt om hva de bygger fellesskapet på.",
+      "published": "2026-02-10T14:03:10Z"
+    },
+    {
+      "id": "7cd81d1c505018202606a19b9acf2a9a72f3c30e",
+      "title": "Discord krever ansikts-gjenkjenning – må verifisere alder",
+      "link": "https://www.kode24.no/artikkel/discord-krever-ansikts-gjenkjenning-ma-verifisere-alder/256112",
+      "source": "Kode24",
+      "summary": "Fra og med mars får alle kontoer «teen-appropriate»-konto som default. Det betyr at kontoer uten aldersverifisering mister en rekke funksjoner.",
+      "published": "2026-02-10T11:32:20Z"
+    },
+    {
+      "id": "2d3c44d79b53cb5bacc5b09dc0be1107b0aac974",
+      "title": "Tekna: Dette tjener nyutdannede – fortsatt god startlønn",
+      "link": "https://www.kode24.no/artikkel/tekna-dette-tjener-nyutdannede-fortsatt-god-startlonn/256121",
+      "source": "Kode24",
+      "summary": "Lønnsutviklingen for Teknas medlemmer var relativt moderat, viser Teknas lønnsstatistikk for 2025. Men startlønnen for nyutdannete er fortsatt god.",
+      "published": "2026-02-10T09:33:13Z"
+    },
+    {
+      "id": "22359a6d8294948076ac064f8297c67c1d174727",
+      "title": "Trykte feil: Betalte ut 40 milliarder kroner i bitcoin",
+      "link": "https://www.kode24.no/artikkel/trykte-feil-betalte-ut-40-milliarder-kroner-i-bitcoin/256044",
+      "source": "Kode24",
+      "summary": "Kryptobørsen Bithumb skulle betale ut en liten belønning til kunder. Men så ble valutaen satt til bitcoins.",
+      "published": "2026-02-10T08:00:00Z"
+    },
+    {
+      "id": "0b9d16c903f7ddc1816a5d8d110e456f2b52495c",
+      "title": "UiT: dropper skriftlig eksamen i ex.phil",
+      "link": "https://www.kode24.no/artikkel/uit-dropper-skriftlig-eksamen-i-exphil/256092",
+      "source": "Kode24",
+      "summary": "Kunstig intelligens og språkmodeller som ChatGPT gjør at UiT Norges arktiske universitet dropper skriftlig eksamen i examen philosophicum fra høsten.",
+      "published": "2026-02-10T07:24:28Z"
+    },
     {
       "id": "f602dfe7a6b547e9dd014a609b6315032615239a",
       "title": "Highsoft lanserte beta-versjon av graf-KI: – Kan sage over greina vi sitter på",
@@ -8,6 +64,14 @@
       "source": "Kode24",
       "summary": "De lever av programvare for å lage diagrammer og tabeller. Og jobber med et KI-verktøy som kan undergrave hele bedriftsmodellen.",
       "published": "2026-02-10T05:00:00Z"
+    },
+    {
+      "id": "31eec40bc1c05267cc88f467ee25f91e7c3db6d7",
+      "title": "Go 1.26 is released",
+      "link": "https://go.dev/blog/go1.26",
+      "source": "Go Blog",
+      "summary": "Go 1.26 adds a new garbage collector, cgo overhead reduction, experimental simd/archsimd package, experimental runtime/secret package, and more.",
+      "published": "2026-02-10T00:00:00Z"
     },
     {
       "id": "7b11b2277316be4ef0fd94d0cd54da4e15978271",
@@ -19,10 +83,10 @@
     },
     {
       "id": "a98b4ed617f6a76666cd5b5d4ecbb4d004f38173",
-      "title": "Utvikler jakter på «flimring» og «MineCraft-piksler» i universet",
+      "title": "Utvikler jakter på «flimring» og «Minecraft-piksler» i universet",
       "link": "https://www.kode24.no/artikkel/utvikler-jakter-pa-flimring-og-minecraft-piksler-i-universet/255837",
       "source": "Kode24",
-      "summary": "Jens Tandstad tester å dra linja fra filosofi til «digital fysikk» og MineCraft i et nytt prosjekt. – Høres ut som en lapskaus av alt mulig rart, sier fysikkprofessor.",
+      "summary": "Jens Tandstad tester å dra linja fra filosofi til «digital fysikk» og Minecraft i et nytt prosjekt. – Høres ut som en lapskaus av alt mulig rart, sier fysikkprofessor.",
       "published": "2026-02-09T11:57:14Z"
     },
     {
@@ -112,62 +176,6 @@
       "source": "GitHub Blog",
       "summary": "Think of Continuous AI as background agents that operate in your repository for tasks that require reasoning. The post Continuous AI in practice: What developers can automate today with agentic CI appeared first on The GitHub Blog.",
       "published": "2026-02-05T17:00:00Z"
-    },
-    {
-      "id": "673052066df24e4bd5f0c6bce4e44fe06bcad1e8",
-      "title": "Suksessbedrift basert i Vestland: Stolt av å utfordre Silicon Valley",
-      "link": "https://www.kode24.no/artikkel/suksessbedrift-basert-i-vestland-stolt-av-a-utfordre-silicon-valley/255546",
-      "source": "Kode24",
-      "summary": "Diagram-selskapet Highsoft tjener penger på lisenser i et marked fullt av gratisløsninger, men møter utfordringer i Asia. – I en del kulturer er man ikke like betalingsvillige.",
-      "published": "2026-02-05T13:00:00Z"
-    },
-    {
-      "id": "d1bc0f9fa0780a93d24aa497d9b1c6b9c18d0ec5",
-      "title": "Friluftsliv + tek = sant",
-      "link": "https://www.kode24.no/artikkel/friluftsliv-tek-sant/255669",
-      "source": "Kode24",
-      "summary": "NTNU-studentene lager en tek-konferanse der friluftsliv står sentralt: – Tek og friluftsliv går hånd i hånd. Så vi ville lage en konferanse på bygda, sier arrangør Hanna Aalmen.",
-      "published": "2026-02-05T12:07:15Z"
-    },
-    {
-      "id": "59f3e10e32760d48219bea9f583c9f0140e23065",
-      "title": "Satya Nadella utnevner «kvalitetssjef»",
-      "link": "https://www.kode24.no/artikkel/satya-nadella-utnevner-kvalitetssjef/255761",
-      "source": "Kode24",
-      "summary": "Skal skjerpe Microsofts ingeniørarbeid, og sikre kvalitetskode.",
-      "published": "2026-02-05T09:45:01Z"
-    },
-    {
-      "id": "25d11dd3f7a5c1fadc944ed06e3bf25f3378edf7",
-      "title": "Computas styrker laget med to erfarne utviklere",
-      "link": "https://www.kode24.no/artikkel/computas-styrker-laget-med-to-erfarne-utviklere/255746",
-      "source": "Kode24",
-      "summary": "Computas har kapret ettertraktet seniorkompetanse på utvikling og arkitektur gjennom sine nyeste ansettelser.",
-      "published": "2026-02-05T09:25:12Z"
-    },
-    {
-      "id": "684e93a7c1cd137f9baa090657de36bf907cf148",
-      "title": "Antire henter Cecilie Skouge til å lede satsing på cloud og data",
-      "link": "https://www.kode24.no/artikkel/antire-henter-cecilie-skouge-til-a-lede-satsing-pa-cloud-og-data/255728",
-      "source": "Kode24",
-      "summary": "Antire styrker ledergruppen og ansetter Cecilie Skouge som leder for cloud og data.",
-      "published": "2026-02-05T09:13:09Z"
-    },
-    {
-      "id": "437ecc74ad65726a351c1d1a51389d323d894f42",
-      "title": "Et program er ikke koden sin",
-      "link": "https://www.kode24.no/artikkel/et-program-er-ikke-koden-sin/255705",
-      "source": "Kode24",
-      "summary": "– Hva mister vi når vi outsourcer tenkningen?, spør utvikler Christian Ekrem.",
-      "published": "2026-02-05T08:52:32Z"
-    },
-    {
-      "id": "9ce83663f4cfd6b3b84cae30325433dc1b07a9eb",
-      "title": "Høyest lønnsvekst i toppen: IKT-jobber på topp ti-lista",
-      "link": "https://www.kode24.no/artikkel/hoyest-lonnsvekst-i-toppen-ikt-jobber-pa-topp-ti-lista/255681",
-      "source": "Kode24",
-      "summary": "I fjor fikk personer i jobbene med høyest lønn også høyest lønnsvekst. Det bidro til større lønnsgap mellom kvinner og menn.",
-      "published": "2026-02-05T08:06:48Z"
     },
     {
       "id": "34fd5e0505153a1afcaca65b8b3ed1cb5f0f0a23",
@@ -318,14 +326,6 @@
       "source": "Go Blog",
       "summary": "Go 1.25 adds container-aware GOMAXPROCS, testing/synctest package, experimental GC, experimental encoding/json/v2, and more.",
       "published": "2025-08-12T00:00:00Z"
-    },
-    {
-      "id": "5cbf3debdc909225754e8de963d3d9d90767391a",
-      "title": "The FIPS 140-3 Go Cryptographic Module",
-      "link": "https://go.dev/blog/fips140",
-      "source": "Go Blog",
-      "summary": "Go now has a built-in, native FIPS 140-3 compliant mode.",
-      "published": "2025-07-15T00:00:00Z"
     }
   ]
 }
