@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-02-11T07:06:51.668330Z",
+  "generated_at": "2026-02-12T07:06:34.973680Z",
   "items": [
+    {
+      "id": "4261a2e01753510a458c4cac37582bffaf64e87e",
+      "title": "GitHub availability report: January 2026",
+      "link": "https://github.blog/news-insights/company-news/github-availability-report-january-2026/",
+      "source": "GitHub Blog",
+      "summary": "In January, we experienced two incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: January 2026 appeared first on The GitHub Blog.",
+      "published": "2026-02-11T23:12:34Z"
+    },
+    {
+      "id": "2c37fb3ea0a05d4df78bccbb0b4b546aadde83c4",
+      "title": "EU vil trappe opp produksjonen av droner",
+      "link": "https://www.kode24.no/artikkel/eu-vil-trappe-opp-produksjonen-av-droner/256342",
+      "source": "Kode24",
+      "summary": "EU-kommisjonen vil trappe opp produksjonen av droner og bli bedre på å avverge droneangrep, sier leder av EUs kommissær for teknologi og sikkerhet Henna Virkkunen.",
+      "published": "2026-02-11T14:24:18Z"
+    },
+    {
+      "id": "1f91e71aaa3b30bf65646cbb3f9b23740e01b3bf",
+      "title": "Techfolk får nye kompanjonger",
+      "link": "https://www.kode24.no/artikkel/techfolk-far-nye-kompanjonger/256322",
+      "source": "Kode24",
+      "summary": "Konsulentselskapet Techfolk får 3 nye kompanjonger med på laget, to utviklere og en designer, alle tre med mastergrad fra NTNU og UiO.",
+      "published": "2026-02-11T13:49:56Z"
+    },
+    {
+      "id": "66c782df4e113579204e0f18708a99f8d8c9e7df",
+      "title": "Amazon-eid ringeklokke vekker oppsikt",
+      "link": "https://www.kode24.no/artikkel/amazon-eid-ringeklokke-vekker-oppsikt/256208",
+      "source": "Kode24",
+      "summary": "Ringeklokkene fra Amazon-eide Ring reklamerer for at ringeklokkene deres kan brukes for å skanne hunder i nabolaget som har rømt hjemmefra. Reaksjonene hagler på nett.",
+      "published": "2026-02-11T12:57:32Z"
+    },
+    {
+      "id": "00240048aa6be487c5abfd7bf071ef22a0dfdd73",
+      "title": "Regjeringen vil ikke blokkere Grok",
+      "link": "https://www.kode24.no/artikkel/regjeringen-vil-ikke-blokkere-grok/256284",
+      "source": "Kode24",
+      "summary": "Verken digitaliseringsministeren eller justisministeren går inn for at Norge skal blokkere KI-verktøyet Grok, der du kan manipulerer bilder og filmer.",
+      "published": "2026-02-11T12:03:04Z"
+    },
+    {
+      "id": "4ae2b8592372dffddcd9417835913dd616dfc9ea",
+      "title": "– Hva er greia med alle de likhetstegnene, egentlig",
+      "link": "https://www.kode24.no/artikkel/hva-er-greia-med-alle-de-likhetstegnene-egentlig/255388",
+      "source": "Kode24",
+      "summary": "Utvikler Lars Ingebrigtsen har forklaringen!",
+      "published": "2026-02-11T08:51:41Z"
+    },
+    {
+      "id": "7e2f7fbacea0c0b6ad7db171d7ada6f749a0eded",
+      "title": "Redis vs. Valkey: Fasiten etter den store splittelsen",
+      "link": "https://www.kode24.no/artikkel/redis-vs-valkey-fasiten-etter-den-store-splittelsen/256180",
+      "source": "Kode24",
+      "summary": "– koden skal være fri, mener Sindre Kvalsgård, CTO i Yne",
+      "published": "2026-02-11T08:24:36Z"
+    },
     {
       "id": "76a4c9d4c10b50e2b4ba481c9cbee9d85e294829",
       "title": "Norkart: – Vil være uavhengig av enkeltleverandører",
@@ -122,54 +178,6 @@
       "published": "2026-02-07T04:00:00Z"
     },
     {
-      "id": "cb0d84285d8b807d2a1981bd010a4529d9056e8b",
-      "title": "Slik jobba VG-utviklerne med dialogen mellom Mette-Marit og Epstein",
-      "link": "https://www.kode24.no/artikkel/slik-jobba-vg-utviklerne-med-dialogen-mellom-mette-marit-og-epstein/255927",
-      "source": "Kode24",
-      "summary": "Google Sheet, JSON og SvelteKit var viktig da VG gjorde alle meldingene mellom kronprinsessen og den dømte sexforbryteren mer lesbare.",
-      "published": "2026-02-06T14:19:17Z"
-    },
-    {
-      "id": "7d69dc5bb4671e21d92300094a6346a140f9bee3",
-      "title": "NTNU-studenter vant cybersikkerhet-pris i Paris",
-      "link": "https://www.kode24.no/artikkel/ntnu-studenter-vant-cybersikkerhet-pris-i-paris/255891",
-      "source": "Kode24",
-      "summary": "Søvnmangle spolerte finalesjansen, men det norske laget vant for beste oppsummering av en fiktiv cyberkrise. I mars skal studentene konkurrere i USA.",
-      "published": "2026-02-06T10:54:08Z"
-    },
-    {
-      "id": "303d692ea18a93c86a911a5b240fe92004842dd1",
-      "title": "Netthandel og datingapper øker risikoen for svindel",
-      "link": "https://www.kode24.no/artikkel/netthandel-og-datingapper-oker-risikoen-for-svindel/255859",
-      "source": "Kode24",
-      "summary": "Jo mer du skroller – desto enklere er det å svindle deg. Nkom trekker frem mye tid på datingapper, netthandel og SoMe som negativt.",
-      "published": "2026-02-06T10:01:59Z"
-    },
-    {
-      "id": "dc4365b375df06476657b4f157d9caff5da3330d",
-      "title": "NSM advarer mot å gi fra seg digital kontroll over skyen",
-      "link": "https://www.kode24.no/artikkel/nsm-advarer-mot-a-gi-fra-seg-digital-kontroll-over-skyen/255866",
-      "source": "Kode24",
-      "summary": "Fredag kom de nasjonale trusselvurderingene. Små og store virksomheter må være forberedt på å håndtere hendelser i cyberdomenet, ifølge sikkerhetsmyndigheten.",
-      "published": "2026-02-06T08:30:47Z"
-    },
-    {
-      "id": "43080ed971bdffacc2048ae2a03d90516748eaa3",
-      "title": "Kritisk IT-mangel – endrer studietilbud",
-      "link": "https://www.kode24.no/artikkel/kritisk-it-mangel-endrer-studietilbud/255778",
-      "source": "Kode24",
-      "summary": "Høyskolen Kristiania kommer på banen med nye og oppdaterte IT-studier da Norge mangler IT-kompetanse: – Alvorlig mener Kompetanseutvalget.",
-      "published": "2026-02-06T04:00:00Z"
-    },
-    {
-      "id": "d3a27681d434f77578fc93e19427d3d405399e6b",
-      "title": "Moltbook viser hvor fort webtjenester kan bli globale snakkiser",
-      "link": "https://www.kode24.no/artikkel/moltbook-viser-hvor-fort-webtjenester-kan-bli-globale-snakkiser/255800",
-      "source": "Kode24",
-      "summary": "Ikke avskriv webben enda folkens, skriver Jørgen i ukas nyhetsbrev.",
-      "published": "2026-02-06T04:00:00Z"
-    },
-    {
       "id": "24bb38f575da96b3d69f3fc929e3c004b31112ce",
       "title": "Continuous AI in practice: What developers can automate today with agentic CI",
       "link": "https://github.blog/ai-and-ml/generative-ai/continuous-ai-in-practice-what-developers-can-automate-today-with-agentic-ci/",
@@ -242,14 +250,6 @@
       "source": "GitHub Blog",
       "summary": "Explore the GitHub Copilot CLI and try interacting with Copilot directly from your terminal. The post Power agentic workflows in your terminal with GitHub Copilot CLI appeared first on The GitHub Blog.",
       "published": "2026-01-26T18:54:49Z"
-    },
-    {
-      "id": "b1f51485939f63d14601f2f5f7bf708b629e4a3e",
-      "title": "Build an agent into any app with the GitHub Copilot SDK",
-      "link": "https://github.blog/news-insights/company-news/build-an-agent-into-any-app-with-the-github-copilot-sdk/",
-      "source": "GitHub Blog",
-      "summary": "Now in technical preview, the GitHub Copilot SDK can plan, invoke tools, edit files, and run commands as a programmable layer you can use in any application. The post Build an agent into any app with the GitHub Copilot SDK appeared first on The GitHub Blog.",
-      "published": "2026-01-22T15:01:44Z"
     },
     {
       "id": "27a1ea166fc2a10fe1932a8430150324117a626c",
