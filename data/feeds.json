@@ -1,6 +1,70 @@
 {
-  "generated_at": "2026-02-12T07:06:34.973680Z",
+  "generated_at": "2026-02-13T07:04:02.555622Z",
   "items": [
+    {
+      "id": "6619bff64a8b25d5874781742437993051ed1ccf",
+      "title": "Snakker vi for lite om lønn, eller for mye?",
+      "link": "https://www.kode24.no/artikkel/snakker-vi-for-lite-om-lonn-eller-for-mye/256480",
+      "source": "Kode24",
+      "summary": "Jørgen i kode24 er litt usikker.",
+      "published": "2026-02-13T05:20:00Z"
+    },
+    {
+      "id": "e3f9dbd3023c1ba94a84f2f4bce6fd476b0ce520",
+      "title": "Welcome to the Eternal September of open source. Here’s what we plan to do for maintainers.",
+      "link": "https://github.blog/open-source/maintainers/welcome-to-the-eternal-september-of-open-source-heres-what-we-plan-to-do-for-maintainers/",
+      "source": "GitHub Blog",
+      "summary": "Open source is hitting an “Eternal September.” As contribution friction drops, maintainers are adapting with new trust signals, triage approaches, and community-led solutions. The post Welcome to the Eternal September of open source. Here’s what we plan to do for maintainers. appeared first on The...",
+      "published": "2026-02-12T20:14:11Z"
+    },
+    {
+      "id": "d957de6fa0c3a2784dec667386e428dcfbd59a1b",
+      "title": "Lærlingplass ga fast jobb",
+      "link": "https://www.kode24.no/artikkel/laerlingplass-ga-fast-jobb/256461",
+      "source": "Kode24",
+      "summary": "Utviklerne har hatt praksis og læretid i DNV Imatis før de nå går inn i faste stillinger.",
+      "published": "2026-02-12T10:39:04Z"
+    },
+    {
+      "id": "0d32608fc185c2ae15cf4486f193f99b8956a013",
+      "title": "Utvikler et digitalt minnearkiv",
+      "link": "https://www.kode24.no/artikkel/utvikler-et-digitalt-minnearkiv/256134",
+      "source": "Kode24",
+      "summary": "Øystein Vesth utvikler et verktøy som skal hjelper familier å stille gode spørsmål og ta var på minnene til de man er glad i. – Jeg vet overraskende lite om min egen familie.",
+      "published": "2026-02-12T09:00:00Z"
+    },
+    {
+      "id": "0c47ae154ffaf7df4c6dd2cddefbbbfcfd53cfa3",
+      "title": "WhatsApp er blokkert",
+      "link": "https://www.kode24.no/artikkel/whatsapp-er-blokkert/256418",
+      "source": "Kode24",
+      "summary": "WhatsApp mener russiske myndigheter har forsøkt å blokkere appen for å prøve å skyve brukere over til mer kontrollerbare lokale tjenester. Torsdag er appen blokkert, melder AFP.",
+      "published": "2026-02-12T08:29:53Z"
+    },
+    {
+      "id": "af6158f0f8fd670da294d7cadc7bfd4b9bee5cde",
+      "title": "Nyutdannede ingeniører får ikke betalt for overtidsarbeid",
+      "link": "https://www.kode24.no/artikkel/nyutdannede-ingeniorer-far-ikke-betalt-for-overtidsarbeid/256248",
+      "source": "Kode24",
+      "summary": "12 prosent av nyutdannede ingeniører får ikke betalt for overtidsarbeid, ifølge NITOs lønnsstatistikk.",
+      "published": "2026-02-12T07:06:00Z"
+    },
+    {
+      "id": "0e44d22f535d99acbd4b7a992684c80c2a680959",
+      "title": "Michael (33) tok en helomvending",
+      "link": "https://www.kode24.no/artikkel/michael-33-tok-en-helomvending/255857",
+      "source": "Kode24",
+      "summary": "Under hele korona jobbet Michael Siddiqi i helsevesenet. Nå har han inntatt en ny hverdag som selvlært utvikler: – Jeg vil vise andre at det er mulig om man vil.",
+      "published": "2026-02-12T06:00:00Z"
+    },
+    {
+      "id": "c4d7bc07d2bee9a88988c6cead1f07c96d794dcc",
+      "title": "Nedgang i bransjen, men Atea gjør det bra",
+      "link": "https://www.kode24.no/artikkel/nedgang-i-bransjen-men-atea-gjor-det-bra/256199",
+      "source": "Kode24",
+      "summary": "Atea Norge opplevde en betydelig vekst i 2025, med økning på tvers av alle forretningsområder.",
+      "published": "2026-02-12T05:00:00Z"
+    },
     {
       "id": "4261a2e01753510a458c4cac37582bffaf64e87e",
       "title": "GitHub availability report: January 2026",
@@ -27,10 +91,10 @@
     },
     {
       "id": "66c782df4e113579204e0f18708a99f8d8c9e7df",
-      "title": "Amazon-eid ringeklokke vekker oppsikt",
-      "link": "https://www.kode24.no/artikkel/amazon-eid-ringeklokke-vekker-oppsikt/256208",
+      "title": "Ringeklokke vekker oppsikt",
+      "link": "https://www.kode24.no/artikkel/ringeklokke-vekker-oppsikt/256208",
       "source": "Kode24",
-      "summary": "Ringeklokkene fra Amazon-eide Ring reklamerer for at ringeklokkene deres kan brukes for å skanne hunder i nabolaget som har rømt hjemmefra. Reaksjonene hagler på nett.",
+      "summary": "Amazon-eide Ring reklamerer for at ringeklokkene deres kan brukes for å skanne hunder i nabolaget som har rømt hjemmefra. Reaksjonene hagler på nett.",
       "published": "2026-02-11T12:57:32Z"
     },
     {
@@ -114,68 +178,12 @@
       "published": "2026-02-10T07:24:28Z"
     },
     {
-      "id": "f602dfe7a6b547e9dd014a609b6315032615239a",
-      "title": "Highsoft lanserte beta-versjon av graf-KI: – Kan sage over greina vi sitter på",
-      "link": "https://www.kode24.no/artikkel/highsoft-lanserte-beta-versjon-av-graf-ki-kan-sage-over-greina-vi-sitter-pa/255534",
-      "source": "Kode24",
-      "summary": "De lever av programvare for å lage diagrammer og tabeller. Og jobber med et KI-verktøy som kan undergrave hele bedriftsmodellen.",
-      "published": "2026-02-10T05:00:00Z"
-    },
-    {
       "id": "31eec40bc1c05267cc88f467ee25f91e7c3db6d7",
       "title": "Go 1.26 is released",
       "link": "https://go.dev/blog/go1.26",
       "source": "Go Blog",
       "summary": "Go 1.26 adds a new garbage collector, cgo overhead reduction, experimental simd/archsimd package, experimental runtime/secret package, and more.",
       "published": "2026-02-10T00:00:00Z"
-    },
-    {
-      "id": "7b11b2277316be4ef0fd94d0cd54da4e15978271",
-      "title": "KI i offentlig sektor: – Folk er bekymret",
-      "link": "https://www.kode24.no/artikkel/ki-i-offentlig-sektor-folk-er-bekymret/256076",
-      "source": "Kode24",
-      "summary": "Over halvparten er bekymret for personvernet når kunstig intelligens tas i bruk i offentlige virksomheter.",
-      "published": "2026-02-09T14:38:23Z"
-    },
-    {
-      "id": "a98b4ed617f6a76666cd5b5d4ecbb4d004f38173",
-      "title": "Utvikler jakter på «flimring» og «Minecraft-piksler» i universet",
-      "link": "https://www.kode24.no/artikkel/utvikler-jakter-pa-flimring-og-minecraft-piksler-i-universet/255837",
-      "source": "Kode24",
-      "summary": "Jens Tandstad tester å dra linja fra filosofi til «digital fysikk» og Minecraft i et nytt prosjekt. – Høres ut som en lapskaus av alt mulig rart, sier fysikkprofessor.",
-      "published": "2026-02-09T11:57:14Z"
-    },
-    {
-      "id": "fe35d1d1fea4d10bd9825bfa90e6c6e2c2d78fac",
-      "title": "Anthropic hardt ut mot OpenAI under Super Bowl",
-      "link": "https://www.kode24.no/artikkel/anthropic-hardt-ut-mot-openai-under-super-bowl/256022",
-      "source": "Kode24",
-      "summary": "Anthropic har brukt millioner av dollar på Super Bowl-annonser der de hang ut OpenAI. Sam Altman snakker ut om dem på X og sier han ler av annonsene.",
-      "published": "2026-02-09T10:14:00Z"
-    },
-    {
-      "id": "4ab73d1d4cb50cc336a2b12fc6551ede8c979a44",
-      "title": "Apevideo av Obama ble publisert ved en feil",
-      "link": "https://www.kode24.no/artikkel/apevideo-av-obama-ble-publisert-ved-en-feil/256006",
-      "source": "Kode24",
-      "summary": "En video der Barack og Michelle Obama ble framstilt som aper, er blitt fjernet fra president Donald Trumps nettsted Truth Social, opplyser Det hvite hus.",
-      "published": "2026-02-09T08:03:31Z"
-    },
-    {
-      "id": "8b433202321a18dca68f3c560ff0f4bedb8db230",
-      "title": "Mener utviklere bør være mer ute i felten",
-      "link": "https://www.kode24.no/artikkel/mener-utviklere-bor-vaere-mer-ute-i-felten/255922",
-      "source": "Kode24",
-      "summary": "Julie Haga (29) er utvikler i avfallsbransjen og anbefaler utviklere der ute å komme seg mer ut i felt: – Det er lett å gro fast foran pulten.",
-      "published": "2026-02-09T04:00:00Z"
-    },
-    {
-      "id": "ffe095ed32545b33870c94a3cf04ac03371b2eb2",
-      "title": "Moltbook: – Det er i denne fasen at ting virkelig blir rart",
-      "link": "https://www.kode24.no/artikkel/moltbook-det-er-i-denne-fasen-at-ting-virkelig-blir-rart/255824",
-      "source": "Kode24",
-      "summary": "Det er en uke siden Moltbook ble lansert: – Å gi KI-agenter sin egen Reddit-klone høres først ut som et fjasete eksperiment, men vi kan forvente langt mer enn dank memes og shitposts.",
-      "published": "2026-02-07T04:00:00Z"
     },
     {
       "id": "24bb38f575da96b3d69f3fc929e3c004b31112ce",
@@ -242,14 +250,6 @@
       "source": "GitHub Blog",
       "summary": "Read GitHub’s position on the European Open Digital Ecosystem Strategy and learn how to participate. The post Help shape the future of open source in Europe appeared first on The GitHub Blog.",
       "published": "2026-01-27T14:16:04Z"
-    },
-    {
-      "id": "d2a0c901aa6cfb61dfe73b601742fe0a364ff43d",
-      "title": "Power agentic workflows in your terminal with GitHub Copilot CLI",
-      "link": "https://github.blog/ai-and-ml/github-copilot/power-agentic-workflows-in-your-terminal-with-github-copilot-cli/",
-      "source": "GitHub Blog",
-      "summary": "Explore the GitHub Copilot CLI and try interacting with Copilot directly from your terminal. The post Power agentic workflows in your terminal with GitHub Copilot CLI appeared first on The GitHub Blog.",
-      "published": "2026-01-26T18:54:49Z"
     },
     {
       "id": "27a1ea166fc2a10fe1932a8430150324117a626c",
