@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-02-13T07:04:02.555622Z",
+  "generated_at": "2026-02-14T06:52:29.269163Z",
   "items": [
+    {
+      "id": "084da1fcad7cc6fbec06e7e943fbfbaf4739c048",
+      "title": "Automate repository tasks with GitHub Agentic Workflows",
+      "link": "https://github.blog/ai-and-ml/automate-repository-tasks-with-github-agentic-workflows/",
+      "source": "GitHub Blog",
+      "summary": "Discover GitHub Agentic Workflows, now in technical preview. Build automations using coding agents in GitHub Actions to handle triage, documentation, code quality, and more. The post Automate repository tasks with GitHub Agentic Workflows appeared first on The GitHub Blog.",
+      "published": "2026-02-13T14:00:00Z",
+      "image": "https://github.blog/wp-content/uploads/2026/02/Quotes_Option1.jpg"
+    },
+    {
+      "id": "c79917ed80a70a878e402cc4d5247d8d05e262b2",
+      "title": "Ring avbryter samarbeidet",
+      "link": "https://www.kode24.no/artikkel/ring-avbryter-samarbeidet/256538",
+      "source": "Kode24",
+      "summary": "Den nye funksjonen til selskapet Ring vekket oppsikt – nå har det Amazon-eide selskapet snutt og avbrutt samarbeidet med overvåkingsselskap.",
+      "published": "2026-02-13T13:25:52Z"
+    },
+    {
+      "id": "086fd39900d52451b0a1c12ca7d5db514eaa70ff",
+      "title": "Tre utdanninger og får ikke jobb",
+      "link": "https://www.kode24.no/artikkel/tre-utdanninger-og-far-ikke-jobb/256358",
+      "source": "Kode24",
+      "summary": "Kim Salihu (28) har byttet navn for å gjøre seg mer attraktiv på jobbmarkedet: – Jeg har søkt på flere hundre stillinger.",
+      "published": "2026-02-13T11:54:08Z"
+    },
+    {
+      "id": "d97b12e2f4ac66f7ba81cf83ef179d8e8e8b0f4c",
+      "title": "– Er CSS scopes det neste store i CSS?",
+      "link": "https://www.kode24.no/artikkel/er-css-scopes-det-neste-store-i-css/256202",
+      "source": "Kode24",
+      "published": "2026-02-13T10:46:33Z"
+    },
+    {
+      "id": "63087f74fd93af6219919e9c380d971a31693703",
+      "title": "Rangerer norske nettsider på teknisk kvalitet og miljøpåvirkning",
+      "link": "https://www.kode24.no/artikkel/rangerer-norske-nettsider-pa-teknisk-kvalitet-og-miljopavirkning/256440",
+      "source": "Kode24",
+      "summary": "Målet er å synliggjøre kvalitet og bærekraft i en bransje der miljøaspektet ofte havner i bakgrunnen, sier utvikler Eddie Dale om det nye verktøyet.",
+      "published": "2026-02-13T08:45:37Z"
+    },
+    {
+      "id": "761eaaf1b9e953e6d1ade430abe2b7cf43cdb6c1",
+      "title": "Tror KI-spesialister vil bli mest etterspurt",
+      "link": "https://www.kode24.no/artikkel/tror-ki-spesialister-vil-bli-mest-etterspurt/256281",
+      "source": "Kode24",
+      "summary": "88 prosent tror KI/data-spesialister blir mest etterspurt i IT-konsulentmarkedet i 2026.",
+      "published": "2026-02-13T07:06:00Z"
+    },
     {
       "id": "6619bff64a8b25d5874781742437993051ed1ccf",
       "title": "Snakker vi for lite om lønn, eller for mye?",
@@ -138,46 +186,6 @@
       "published": "2026-02-10T14:53:14Z"
     },
     {
-      "id": "6a3d8e7aaa1eaa7951d0bc825406bcf3819ea421",
-      "title": "Flere kommuner bruker Hudd i stedet for Facebook",
-      "link": "https://www.kode24.no/artikkel/flere-kommuner-bruker-hudd-i-stedet-for-facebook/256143",
-      "source": "Kode24",
-      "summary": "Den norske plattformen Hudd har passert 180.000. Brukes av kommuner som vil løsrive seg fra Meta – kommuner har sett et behov for å tenke nytt om hva de bygger fellesskapet på.",
-      "published": "2026-02-10T14:03:10Z"
-    },
-    {
-      "id": "7cd81d1c505018202606a19b9acf2a9a72f3c30e",
-      "title": "Discord krever ansikts-gjenkjenning – må verifisere alder",
-      "link": "https://www.kode24.no/artikkel/discord-krever-ansikts-gjenkjenning-ma-verifisere-alder/256112",
-      "source": "Kode24",
-      "summary": "Fra og med mars får alle kontoer «teen-appropriate»-konto som default. Det betyr at kontoer uten aldersverifisering mister en rekke funksjoner.",
-      "published": "2026-02-10T11:32:20Z"
-    },
-    {
-      "id": "2d3c44d79b53cb5bacc5b09dc0be1107b0aac974",
-      "title": "Tekna: Dette tjener nyutdannede – fortsatt god startlønn",
-      "link": "https://www.kode24.no/artikkel/tekna-dette-tjener-nyutdannede-fortsatt-god-startlonn/256121",
-      "source": "Kode24",
-      "summary": "Lønnsutviklingen for Teknas medlemmer var relativt moderat, viser Teknas lønnsstatistikk for 2025. Men startlønnen for nyutdannete er fortsatt god.",
-      "published": "2026-02-10T09:33:13Z"
-    },
-    {
-      "id": "22359a6d8294948076ac064f8297c67c1d174727",
-      "title": "Trykte feil: Betalte ut 40 milliarder kroner i bitcoin",
-      "link": "https://www.kode24.no/artikkel/trykte-feil-betalte-ut-40-milliarder-kroner-i-bitcoin/256044",
-      "source": "Kode24",
-      "summary": "Kryptobørsen Bithumb skulle betale ut en liten belønning til kunder. Men så ble valutaen satt til bitcoins.",
-      "published": "2026-02-10T08:00:00Z"
-    },
-    {
-      "id": "0b9d16c903f7ddc1816a5d8d110e456f2b52495c",
-      "title": "UiT: dropper skriftlig eksamen i ex.phil",
-      "link": "https://www.kode24.no/artikkel/uit-dropper-skriftlig-eksamen-i-exphil/256092",
-      "source": "Kode24",
-      "summary": "Kunstig intelligens og språkmodeller som ChatGPT gjør at UiT Norges arktiske universitet dropper skriftlig eksamen i examen philosophicum fra høsten.",
-      "published": "2026-02-10T07:24:28Z"
-    },
-    {
       "id": "31eec40bc1c05267cc88f467ee25f91e7c3db6d7",
       "title": "Go 1.26 is released",
       "link": "https://go.dev/blog/go1.26",
@@ -242,14 +250,6 @@
       "source": "GitHub Blog",
       "summary": "Anders Hejlsberg shares lessons from C# and TypeScript on fast feedback loops, scaling software, open source visibility, and building tools that last. The post 7 learnings from Anders Hejlsberg: The architect behind C# and TypeScript appeared first on The GitHub Blog.",
       "published": "2026-01-27T17:17:28Z"
-    },
-    {
-      "id": "2edc97fe25093d1f50dbf3b54b6a01df6f2ce591",
-      "title": "Help shape the future of open source in Europe",
-      "link": "https://github.blog/news-insights/policy-news-and-insights/help-shape-the-future-of-open-source-in-europe/",
-      "source": "GitHub Blog",
-      "summary": "Read GitHub’s position on the European Open Digital Ecosystem Strategy and learn how to participate. The post Help shape the future of open source in Europe appeared first on The GitHub Blog.",
-      "published": "2026-01-27T14:16:04Z"
     },
     {
       "id": "27a1ea166fc2a10fe1932a8430150324117a626c",
