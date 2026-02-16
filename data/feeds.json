@@ -1,6 +1,14 @@
 {
-  "generated_at": "2026-02-15T06:56:26.644484Z",
+  "generated_at": "2026-02-16T07:08:52.746681Z",
   "items": [
+    {
+      "id": "da35035ba90c1a36757b587193b0e742c7ecb7cf",
+      "title": "Loftet: – En inkubator for studentgründere",
+      "link": "https://www.kode24.no/artikkel/loftet-en-inkubator-for-studentgruendere/256524",
+      "source": "Kode24",
+      "summary": "Utvikler Erik-André Skauen Nilsen har fått plass på studenthuben Loftet hvor han er en del av gründermiljøet for studentgründere ved Høyskolen Kristiania.",
+      "published": "2026-02-16T04:00:00Z"
+    },
     {
       "id": "084da1fcad7cc6fbec06e7e943fbfbaf4739c048",
       "title": "Automate repository tasks with GitHub Agentic Workflows",
@@ -176,14 +184,6 @@
       "source": "Kode24",
       "summary": "Teknologiselskapet Norkart ønsker å være mindre bundet til amerikanske tjenester: –Hvis våre løsninger slutter å virke, så påvirker det livet til innbyggere i Norge.",
       "published": "2026-02-11T05:00:00Z"
-    },
-    {
-      "id": "c27f8ae632de949da35fd922b9b9df9c391ebfa6",
-      "title": "Ikea-kutt berører utviklere",
-      "link": "https://www.kode24.no/artikkel/ikea-kutt-berorer-utviklere/256157",
-      "source": "Kode24",
-      "summary": "Ikea Norge kutter 50–60 årsverk i Norge. Nå er det kjent at det også vil berøre IT-ansatte og utviklere.",
-      "published": "2026-02-10T14:53:14Z"
     },
     {
       "id": "31eec40bc1c05267cc88f467ee25f91e7c3db6d7",
