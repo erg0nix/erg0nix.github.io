@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-02-16T07:08:52.746681Z",
+  "generated_at": "2026-02-17T07:04:02.576078Z",
   "items": [
+    {
+      "id": "99967fbf159369a79f2fbf1230c742bc9b8dc19d",
+      "title": "Stort behov for IT-kompetanse på Sør- og Vestlandet",
+      "link": "https://www.kode24.no/artikkel/stort-behov-for-it-kompetanse-pa-sor-og-vestlandet/256442",
+      "source": "Kode24",
+      "summary": "– Flere bransjer på Vestlandet, med Bergen som tyngdepunkt, har de siste årene bygget opp sterke teknologimiljøer, sier Lund.",
+      "published": "2026-02-17T06:48:00Z"
+    },
+    {
+      "id": "14b6da826655d566aeb5d6a74b780a68a9bb540f",
+      "title": "– Vi har mange gode norske leverandører",
+      "link": "https://www.kode24.no/artikkel/vi-har-mange-gode-norske-leverandorer/256360",
+      "source": "Kode24",
+      "summary": "Frank Solli lanserer en plattform for norske IT-alternativer til amerikanske tjenester.",
+      "published": "2026-02-17T05:00:00Z"
+    },
+    {
+      "id": "500fca8bd0742e48d99e71885614b02dce9f1014",
+      "title": "Nå er tilgjengelighets-erklæringene åpne for alle",
+      "link": "https://www.kode24.no/artikkel/na-er-tilgjengelighets-erklaeringene-apne-for-alle/256597",
+      "source": "Kode24",
+      "summary": "Slik kan flere bruke dataene til både analyse, benchmarking og utvikling av nye tjenester.",
+      "published": "2026-02-16T11:51:31Z"
+    },
+    {
+      "id": "8881b4dbd7c05daf62d720453f4da6d6884b5222",
+      "title": "Hvorfor slutter de flinkeste folka?",
+      "link": "https://www.kode24.no/artikkel/hvorfor-slutter-de-flinkeste-folka/256233",
+      "source": "Kode24",
+      "summary": "(...fordi du kontrollerer for mye eller for lite)",
+      "published": "2026-02-16T09:40:09Z"
+    },
+    {
+      "id": "78fcd59f85c4c23276e4f5839bd4237a45bb05e1",
+      "title": "Claude truer med å kutte samarbeid med USAs forsvarsdepartement",
+      "link": "https://www.kode24.no/artikkel/claude-truer-med-a-kutte-samarbeid-med-usas-forsvarsdepartement/256578",
+      "source": "Kode24",
+      "summary": "KI-selskapet Anthropic lar ikke det amerikanske forsvarsdepartementet bruke KI-modeller ubegrenset. Det skal Pentagon ha fått nok av, ifølge Axios.",
+      "published": "2026-02-16T07:30:30Z"
+    },
     {
       "id": "da35035ba90c1a36757b587193b0e742c7ecb7cf",
       "title": "Loftet: – En inkubator for studentgründere",
@@ -144,46 +184,6 @@
       "source": "Kode24",
       "summary": "Konsulentselskapet Techfolk får 3 nye kompanjonger med på laget, to utviklere og en designer, alle tre med mastergrad fra NTNU og UiO.",
       "published": "2026-02-11T13:49:56Z"
-    },
-    {
-      "id": "66c782df4e113579204e0f18708a99f8d8c9e7df",
-      "title": "Ringeklokke vekker oppsikt",
-      "link": "https://www.kode24.no/artikkel/ringeklokke-vekker-oppsikt/256208",
-      "source": "Kode24",
-      "summary": "Amazon-eide Ring reklamerer for at ringeklokkene deres kan brukes for å skanne hunder i nabolaget som har rømt hjemmefra. Reaksjonene hagler på nett.",
-      "published": "2026-02-11T12:57:32Z"
-    },
-    {
-      "id": "00240048aa6be487c5abfd7bf071ef22a0dfdd73",
-      "title": "Regjeringen vil ikke blokkere Grok",
-      "link": "https://www.kode24.no/artikkel/regjeringen-vil-ikke-blokkere-grok/256284",
-      "source": "Kode24",
-      "summary": "Verken digitaliseringsministeren eller justisministeren går inn for at Norge skal blokkere KI-verktøyet Grok, der du kan manipulerer bilder og filmer.",
-      "published": "2026-02-11T12:03:04Z"
-    },
-    {
-      "id": "4ae2b8592372dffddcd9417835913dd616dfc9ea",
-      "title": "– Hva er greia med alle de likhetstegnene, egentlig",
-      "link": "https://www.kode24.no/artikkel/hva-er-greia-med-alle-de-likhetstegnene-egentlig/255388",
-      "source": "Kode24",
-      "summary": "Utvikler Lars Ingebrigtsen har forklaringen!",
-      "published": "2026-02-11T08:51:41Z"
-    },
-    {
-      "id": "7e2f7fbacea0c0b6ad7db171d7ada6f749a0eded",
-      "title": "Redis vs. Valkey: Fasiten etter den store splittelsen",
-      "link": "https://www.kode24.no/artikkel/redis-vs-valkey-fasiten-etter-den-store-splittelsen/256180",
-      "source": "Kode24",
-      "summary": "– koden skal være fri, mener Sindre Kvalsgård, CTO i Yne",
-      "published": "2026-02-11T08:24:36Z"
-    },
-    {
-      "id": "76a4c9d4c10b50e2b4ba481c9cbee9d85e294829",
-      "title": "Norkart: – Vil være uavhengig av enkeltleverandører",
-      "link": "https://www.kode24.no/artikkel/norkart-vil-vaere-uavhengig-av-enkeltleverandorer/255849",
-      "source": "Kode24",
-      "summary": "Teknologiselskapet Norkart ønsker å være mindre bundet til amerikanske tjenester: –Hvis våre løsninger slutter å virke, så påvirker det livet til innbyggere i Norge.",
-      "published": "2026-02-11T05:00:00Z"
     },
     {
       "id": "31eec40bc1c05267cc88f467ee25f91e7c3db6d7",
