@@ -1,6 +1,63 @@
 {
-  "generated_at": "2026-02-17T07:04:02.576078Z",
+  "generated_at": "2026-02-18T07:05:54.409253Z",
   "items": [
+    {
+      "id": "f8a8b5617ace0c2f4e29c08bd08ef79ccbf5fb08",
+      "title": "Norge leder an på KI-toppmøte i India",
+      "link": "https://www.kode24.no/artikkel/norge-leder-an-pa-ki-toppmote-i-india/256630",
+      "source": "Kode24",
+      "summary": "For første gang arrangerer Norge en hovedsesjon om ansvarlig KI på det internasjonale toppmøtet i New Delhi.",
+      "published": "2026-02-18T05:00:00Z"
+    },
+    {
+      "id": "3e4bf18026b8202de48da5f90d88c9fe6d5c3eac",
+      "title": "Securing the AI software supply chain: Security results across 67 open source projects",
+      "link": "https://github.blog/open-source/maintainers/securing-the-ai-software-supply-chain-security-results-across-67-open-source-projects/",
+      "source": "GitHub Blog",
+      "summary": "Learn how The GitHub Secure Open Source Fund helped 67 critical AI‑stack projects accelerate fixes, strengthen ecosystems, and advance open source resilience. The post Securing the AI software supply chain: Security results across 67 open source projects appeared first on The GitHub Blog.",
+      "published": "2026-02-17T19:00:00Z",
+      "image": "https://github.blog/wp-content/uploads/2026/02/node.jpg?resize=1024%2C538"
+    },
+    {
+      "id": "8a7c7600847caaf08a7c5558e02bdba28f7e16b7",
+      "title": "Deltakerrekord for Holmenkollstafetten",
+      "link": "https://www.kode24.no/artikkel/deltakerrekord-for-holmenkollstafetten/256724",
+      "source": "Kode24",
+      "summary": "Over 5.000 lag er påmeldt Holmenkollstafetten: – Vi har nådd 5.000 lag rekordtidlig, sier arrangør Matias Lavik. IT-selskapet Sopra Steria stiller med hele 26 lag.",
+      "published": "2026-02-17T14:00:45Z"
+    },
+    {
+      "id": "10e1f4421db95374c3214dead09c3dee09f316ff",
+      "title": "Irland starter EU-gransking av Groks seksualiserte KI-bilder",
+      "link": "https://www.kode24.no/artikkel/irland-starter-eu-gransking-av-groks-seksualiserte-ki-bilder/256736",
+      "source": "Kode24",
+      "summary": "Det irske datatilsynet har på vegne av EU startet gransking av X og KI-roboten Grok for mulige personvernbrudd ved generering av seksualiserte bilder.",
+      "published": "2026-02-17T12:48:23Z"
+    },
+    {
+      "id": "8a2ed3bcd37e4d7a44dd6b4a5ee24f669c197c01",
+      "title": "Reklamebyrå stryker laget med KI-kompetanse",
+      "link": "https://www.kode24.no/artikkel/reklamebyra-stryker-laget-med-ki-kompetanse/256711",
+      "source": "Kode24",
+      "summary": "Try styrker KI-satsingen med to nye ledere. Camilla og Lasse skal styrke laget og hjelpe norske virksomheter med vellykket KI-transformasjon.",
+      "published": "2026-02-17T10:44:50Z"
+    },
+    {
+      "id": "40f8d7d78a4625447710b56f9f8d10524f3e2d71",
+      "title": "Nytt coliving-konsept trekker folk til fjells",
+      "link": "https://www.kode24.no/artikkel/nytt-coliving-konsept-trekker-folk-til-fjells/256515",
+      "source": "Kode24",
+      "summary": "Utvikler Mathias Sandnes (29) har testet det nye coliving-konseptet på Voss. – Vi trenger absolutt mer av dette.",
+      "published": "2026-02-17T09:09:43Z"
+    },
+    {
+      "id": "7fe44c364656f3421a238c34e5375a33193c6120",
+      "title": "KI fant over 100 feil utviklerne av cURL ikke fant selv",
+      "link": "https://www.kode24.no/artikkel/ki-fant-over-100-feil-utviklerne-av-curl-ikke-fant-selv/256699",
+      "source": "Kode24",
+      "summary": "cURL-sjef Daniel Stenberg ser gode og dårlige sider ved KI.",
+      "published": "2026-02-17T08:05:01Z"
+    },
     {
       "id": "99967fbf159369a79f2fbf1230c742bc9b8dc19d",
       "title": "Stort behov for IT-kompetanse på Sør- og Vestlandet",
@@ -16,6 +73,15 @@
       "source": "Kode24",
       "summary": "Frank Solli lanserer en plattform for norske IT-alternativer til amerikanske tjenester.",
       "published": "2026-02-17T05:00:00Z"
+    },
+    {
+      "id": "da0de1cb530d005fcd81b7886c89d308ce375756",
+      "title": "Using go fix to modernize Go code",
+      "link": "https://go.dev/blog/gofix",
+      "source": "Go Blog",
+      "summary": "Go 1.26 includes a new implementation of go fix that can help you use more modern features of Go.",
+      "published": "2026-02-17T00:00:00Z",
+      "image": "https://go.dev/blog/gofix-analysis-facts.svg"
     },
     {
       "id": "500fca8bd0742e48d99e71885614b02dce9f1014",
@@ -130,60 +196,12 @@
       "published": "2026-02-12T09:00:00Z"
     },
     {
-      "id": "0c47ae154ffaf7df4c6dd2cddefbbbfcfd53cfa3",
-      "title": "WhatsApp er blokkert",
-      "link": "https://www.kode24.no/artikkel/whatsapp-er-blokkert/256418",
-      "source": "Kode24",
-      "summary": "WhatsApp mener russiske myndigheter har forsøkt å blokkere appen for å prøve å skyve brukere over til mer kontrollerbare lokale tjenester. Torsdag er appen blokkert, melder AFP.",
-      "published": "2026-02-12T08:29:53Z"
-    },
-    {
-      "id": "af6158f0f8fd670da294d7cadc7bfd4b9bee5cde",
-      "title": "Nyutdannede ingeniører får ikke betalt for overtidsarbeid",
-      "link": "https://www.kode24.no/artikkel/nyutdannede-ingeniorer-far-ikke-betalt-for-overtidsarbeid/256248",
-      "source": "Kode24",
-      "summary": "12 prosent av nyutdannede ingeniører får ikke betalt for overtidsarbeid, ifølge NITOs lønnsstatistikk.",
-      "published": "2026-02-12T07:06:00Z"
-    },
-    {
-      "id": "0e44d22f535d99acbd4b7a992684c80c2a680959",
-      "title": "Michael (33) tok en helomvending",
-      "link": "https://www.kode24.no/artikkel/michael-33-tok-en-helomvending/255857",
-      "source": "Kode24",
-      "summary": "Under hele korona jobbet Michael Siddiqi i helsevesenet. Nå har han inntatt en ny hverdag som selvlært utvikler: – Jeg vil vise andre at det er mulig om man vil.",
-      "published": "2026-02-12T06:00:00Z"
-    },
-    {
-      "id": "c4d7bc07d2bee9a88988c6cead1f07c96d794dcc",
-      "title": "Nedgang i bransjen, men Atea gjør det bra",
-      "link": "https://www.kode24.no/artikkel/nedgang-i-bransjen-men-atea-gjor-det-bra/256199",
-      "source": "Kode24",
-      "summary": "Atea Norge opplevde en betydelig vekst i 2025, med økning på tvers av alle forretningsområder.",
-      "published": "2026-02-12T05:00:00Z"
-    },
-    {
       "id": "4261a2e01753510a458c4cac37582bffaf64e87e",
       "title": "GitHub availability report: January 2026",
       "link": "https://github.blog/news-insights/company-news/github-availability-report-january-2026/",
       "source": "GitHub Blog",
       "summary": "In January, we experienced two incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: January 2026 appeared first on The GitHub Blog.",
       "published": "2026-02-11T23:12:34Z"
-    },
-    {
-      "id": "2c37fb3ea0a05d4df78bccbb0b4b546aadde83c4",
-      "title": "EU vil trappe opp produksjonen av droner",
-      "link": "https://www.kode24.no/artikkel/eu-vil-trappe-opp-produksjonen-av-droner/256342",
-      "source": "Kode24",
-      "summary": "EU-kommisjonen vil trappe opp produksjonen av droner og bli bedre på å avverge droneangrep, sier leder av EUs kommissær for teknologi og sikkerhet Henna Virkkunen.",
-      "published": "2026-02-11T14:24:18Z"
-    },
-    {
-      "id": "1f91e71aaa3b30bf65646cbb3f9b23740e01b3bf",
-      "title": "Techfolk får nye kompanjonger",
-      "link": "https://www.kode24.no/artikkel/techfolk-far-nye-kompanjonger/256322",
-      "source": "Kode24",
-      "summary": "Konsulentselskapet Techfolk får 3 nye kompanjonger med på laget, to utviklere og en designer, alle tre med mastergrad fra NTNU og UiO.",
-      "published": "2026-02-11T13:49:56Z"
     },
     {
       "id": "31eec40bc1c05267cc88f467ee25f91e7c3db6d7",
@@ -242,14 +260,6 @@
       "source": "GitHub Blog",
       "summary": "Discover the latest trends and insights on public software development activity on GitHub with data from the Innovation Graph through Q3 2025. The post Year recap and future goals for the GitHub Innovation Graph appeared first on The GitHub Blog.",
       "published": "2026-01-28T16:00:00Z"
-    },
-    {
-      "id": "1571e905d0992981c863c03adf9374207529f014",
-      "title": "7 learnings from Anders Hejlsberg: The architect behind C# and TypeScript",
-      "link": "https://github.blog/developer-skills/programming-languages-and-frameworks/7-learnings-from-anders-hejlsberg-the-architect-behind-c-and-typescript/",
-      "source": "GitHub Blog",
-      "summary": "Anders Hejlsberg shares lessons from C# and TypeScript on fast feedback loops, scaling software, open source visibility, and building tools that last. The post 7 learnings from Anders Hejlsberg: The architect behind C# and TypeScript appeared first on The GitHub Blog.",
-      "published": "2026-01-27T17:17:28Z"
     },
     {
       "id": "27a1ea166fc2a10fe1932a8430150324117a626c",
@@ -318,14 +328,6 @@
       "source": "Go Blog",
       "summary": "New GOMAXPROCS defaults in Go 1.25 improve behavior in containers.",
       "published": "2025-08-20T00:00:00Z"
-    },
-    {
-      "id": "3dad62e4d720afaf62e83261ae120b9bd85e61c0",
-      "title": "Go 1.25 is released",
-      "link": "https://go.dev/blog/go1.25",
-      "source": "Go Blog",
-      "summary": "Go 1.25 adds container-aware GOMAXPROCS, testing/synctest package, experimental GC, experimental encoding/json/v2, and more.",
-      "published": "2025-08-12T00:00:00Z"
     }
   ]
 }
