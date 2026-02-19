@@ -1,6 +1,87 @@
 {
-  "generated_at": "2026-02-18T07:05:54.409253Z",
+  "generated_at": "2026-02-19T07:05:00.119224Z",
   "items": [
+    {
+      "id": "023ca22fb98440a4eb2db04e9b663015d7d03699",
+      "title": "20-åring utfordrer parkerings-gigantene med ny app",
+      "link": "https://www.kode24.no/artikkel/20-aring-utfordrer-parkerings-gigantene-med-ny-app/256656",
+      "source": "Kode24",
+      "summary": "Da Håkon Ruud Huseby (20) skulle parkere i Oslo var det dyrt og vanskelig, det ga han en idé til ny app.",
+      "published": "2026-02-19T06:14:11Z"
+    },
+    {
+      "id": "7e5d3276f4b727237ecb9da97c90fe4f6528676d",
+      "title": "Norgesmesterskapet i KI lokker med millionpremie",
+      "link": "https://www.kode24.no/artikkel/norgesmesterskapet-i-ki-lokker-med-millionpremie/256817",
+      "source": "Kode24",
+      "summary": "Tripletex er platinumpartner når Astar arrangerer Norgesmesterskapet i KI.",
+      "published": "2026-02-19T06:12:34Z"
+    },
+    {
+      "id": "76e30ecee00ab4335c0780a4eadb8e6bfa30c212",
+      "title": "What to expect for open source in 2026",
+      "link": "https://github.blog/open-source/maintainers/what-to-expect-for-open-source-in-2026/",
+      "source": "GitHub Blog",
+      "summary": "Let’s dig into the 2025’s open source data on GitHub to see what we can learn about the future. The post What to expect for open source in 2026 appeared first on The GitHub Blog.",
+      "published": "2026-02-18T18:41:42Z",
+      "image": "https://github.blog/wp-content/uploads/2025/10/octoverse-2025-fastest-growing-open-source-projects-by-contributors.png?resize=1440%2C810"
+    },
+    {
+      "id": "bc6fcd424921a87b844ed210ea5ff117ff42eccb",
+      "title": "Insta-kontoer kan styres av KI etter døden: – Dystopisk",
+      "link": "https://www.kode24.no/artikkel/insta-kontoer-kan-styres-av-ki-etter-doden-dystopisk/256871",
+      "source": "Kode24",
+      "summary": "Meta har fått patent på KI som kan fortsette å poste og chatte fra avdøde personers kontoer. Reaksjonene hagler på nettsamfunnet Reddit.",
+      "published": "2026-02-18T14:55:17Z"
+    },
+    {
+      "id": "6ea4b9c8c388b448e585b7efd1900390063bf163",
+      "title": "Ble lei av gruppespam – tok grep",
+      "link": "https://www.kode24.no/artikkel/ble-lei-av-gruppespam-tok-grep/256850",
+      "source": "Kode24",
+      "summary": "Zeeshan Shah og tre medgründere har lansert en ny aktivitetsapp som skal hindre uendelige meldinger og mas i messenger.",
+      "published": "2026-02-18T13:06:22Z"
+    },
+    {
+      "id": "a618c44e5e98299b309c0a971fcf739e4b78c5d0",
+      "title": "SV: – Norge trenger en digital exit-strategi",
+      "link": "https://www.kode24.no/artikkel/sv-norge-trenger-en-digital-exit-strategi/256815",
+      "source": "Kode24",
+      "summary": "Hvorvidt Norge trenger en nasjonal exit-strategi ble diskutert i Politisk kvarter i NRK denne uken. SV vil ha digital selvstyre. Fullstendig utopi mener regjeringen.",
+      "published": "2026-02-18T10:05:44Z"
+    },
+    {
+      "id": "6f1552ff34fde9f652dca22a8f9b3f18238e1ea4",
+      "title": "Simula lanserer senter for KI-sikkerhet",
+      "link": "https://www.kode24.no/artikkel/simula-lanserer-senter-for-ki-sikkerhet/256650",
+      "source": "Kode24",
+      "summary": "Nytt forskningssenter skal sikre trygg bruk av kunstig intelligens i Norge.",
+      "published": "2026-02-18T09:00:00Z"
+    },
+    {
+      "id": "566cb311b4e87fba6ea82a872a36868efb15aec6",
+      "title": "Apple inviterer til «special Apple Experience» 4. mars – dette kan bli lansert",
+      "link": "https://www.kode24.no/artikkel/apple-inviterer-til-special-apple-experience-4-mars-dette-kan-bli-lansert/256074",
+      "source": "Kode24",
+      "summary": "Apple har invitert til produktlansering 4. mars 2026 i New York, London og Shanghai. Rykter peker mot ny MacBook Pro med M5, MacBook Air, og rimelig MacBook.",
+      "published": "2026-02-18T08:19:27Z"
+    },
+    {
+      "id": "7569a508d90821c6a47a2d5ef8ed1d79fa40c516",
+      "title": "Gentoo migrerer fra GitHub til Codeberg etter Copilot-uenighet",
+      "link": "https://www.kode24.no/artikkel/gentoo-migrerer-fra-github-til-codeberg-etter-copilot-uenighet/256553",
+      "source": "Kode24",
+      "summary": "Linux-distribusjonen Gentoo har startet migreringen fra Microsoft-eide GitHub til Codeberg. Årsaken er økende Copilot-press og bekymring for lavkvalitetsbidrag generert av KI.",
+      "published": "2026-02-18T08:00:47Z"
+    },
+    {
+      "id": "d76b9775ee0bcc59a6dabeeaf02d253ea4f607c3",
+      "title": "Tusenvis av toppledere innrømmer at AI ikke fører til økt produktivitet",
+      "link": "https://www.kode24.no/artikkel/tusenvis-av-toppledere-innrommer-at-ai-ikke-forer-til-okt-produktivitet/256771",
+      "source": "Kode24",
+      "summary": "Tusenvis av toppledere sier rett ut at kunstig intelligens foreløpig ikke har gitt utslag på verken produktivitet eller sysselsetting. Nå trekker økonomer paralleller til et 40 år gammelt paradoks – og spør om AI-revolusjonen lar vente på seg i tallene.",
+      "published": "2026-02-18T07:35:32Z"
+    },
     {
       "id": "f8a8b5617ace0c2f4e29c08bd08ef79ccbf5fb08",
       "title": "Norge leder an på KI-toppmøte i India",
@@ -108,14 +189,6 @@
       "published": "2026-02-16T07:30:30Z"
     },
     {
-      "id": "da35035ba90c1a36757b587193b0e742c7ecb7cf",
-      "title": "Loftet: – En inkubator for studentgründere",
-      "link": "https://www.kode24.no/artikkel/loftet-en-inkubator-for-studentgruendere/256524",
-      "source": "Kode24",
-      "summary": "Utvikler Erik-André Skauen Nilsen har fått plass på studenthuben Loftet hvor han er en del av gründermiljøet for studentgründere ved Høyskolen Kristiania.",
-      "published": "2026-02-16T04:00:00Z"
-    },
-    {
       "id": "084da1fcad7cc6fbec06e7e943fbfbaf4739c048",
       "title": "Automate repository tasks with GitHub Agentic Workflows",
       "link": "https://github.blog/ai-and-ml/automate-repository-tasks-with-github-agentic-workflows/",
@@ -125,75 +198,12 @@
       "image": "https://github.blog/wp-content/uploads/2026/02/Quotes_Option1.jpg"
     },
     {
-      "id": "c79917ed80a70a878e402cc4d5247d8d05e262b2",
-      "title": "Ring avbryter samarbeidet",
-      "link": "https://www.kode24.no/artikkel/ring-avbryter-samarbeidet/256538",
-      "source": "Kode24",
-      "summary": "Den nye funksjonen til selskapet Ring vekket oppsikt – nå har det Amazon-eide selskapet snutt og avbrutt samarbeidet med overvåkingsselskap.",
-      "published": "2026-02-13T13:25:52Z"
-    },
-    {
-      "id": "086fd39900d52451b0a1c12ca7d5db514eaa70ff",
-      "title": "Tre utdanninger og får ikke jobb",
-      "link": "https://www.kode24.no/artikkel/tre-utdanninger-og-far-ikke-jobb/256358",
-      "source": "Kode24",
-      "summary": "Kim Salihu (28) har byttet navn for å gjøre seg mer attraktiv på jobbmarkedet: – Jeg har søkt på flere hundre stillinger.",
-      "published": "2026-02-13T11:54:08Z"
-    },
-    {
-      "id": "d97b12e2f4ac66f7ba81cf83ef179d8e8e8b0f4c",
-      "title": "– Er CSS scopes det neste store i CSS?",
-      "link": "https://www.kode24.no/artikkel/er-css-scopes-det-neste-store-i-css/256202",
-      "source": "Kode24",
-      "published": "2026-02-13T10:46:33Z"
-    },
-    {
-      "id": "63087f74fd93af6219919e9c380d971a31693703",
-      "title": "Rangerer norske nettsider på teknisk kvalitet og miljøpåvirkning",
-      "link": "https://www.kode24.no/artikkel/rangerer-norske-nettsider-pa-teknisk-kvalitet-og-miljopavirkning/256440",
-      "source": "Kode24",
-      "summary": "Målet er å synliggjøre kvalitet og bærekraft i en bransje der miljøaspektet ofte havner i bakgrunnen, sier utvikler Eddie Dale om det nye verktøyet.",
-      "published": "2026-02-13T08:45:37Z"
-    },
-    {
-      "id": "761eaaf1b9e953e6d1ade430abe2b7cf43cdb6c1",
-      "title": "Tror KI-spesialister vil bli mest etterspurt",
-      "link": "https://www.kode24.no/artikkel/tror-ki-spesialister-vil-bli-mest-etterspurt/256281",
-      "source": "Kode24",
-      "summary": "88 prosent tror KI/data-spesialister blir mest etterspurt i IT-konsulentmarkedet i 2026.",
-      "published": "2026-02-13T07:06:00Z"
-    },
-    {
-      "id": "6619bff64a8b25d5874781742437993051ed1ccf",
-      "title": "Snakker vi for lite om lønn, eller for mye?",
-      "link": "https://www.kode24.no/artikkel/snakker-vi-for-lite-om-lonn-eller-for-mye/256480",
-      "source": "Kode24",
-      "summary": "Jørgen i kode24 er litt usikker.",
-      "published": "2026-02-13T05:20:00Z"
-    },
-    {
       "id": "e3f9dbd3023c1ba94a84f2f4bce6fd476b0ce520",
       "title": "Welcome to the Eternal September of open source. Here’s what we plan to do for maintainers.",
       "link": "https://github.blog/open-source/maintainers/welcome-to-the-eternal-september-of-open-source-heres-what-we-plan-to-do-for-maintainers/",
       "source": "GitHub Blog",
       "summary": "Open source is hitting an “Eternal September.” As contribution friction drops, maintainers are adapting with new trust signals, triage approaches, and community-led solutions. The post Welcome to the Eternal September of open source. Here’s what we plan to do for maintainers. appeared first on The...",
       "published": "2026-02-12T20:14:11Z"
-    },
-    {
-      "id": "d957de6fa0c3a2784dec667386e428dcfbd59a1b",
-      "title": "Lærlingplass ga fast jobb",
-      "link": "https://www.kode24.no/artikkel/laerlingplass-ga-fast-jobb/256461",
-      "source": "Kode24",
-      "summary": "Utviklerne har hatt praksis og læretid i DNV Imatis før de nå går inn i faste stillinger.",
-      "published": "2026-02-12T10:39:04Z"
-    },
-    {
-      "id": "0d32608fc185c2ae15cf4486f193f99b8956a013",
-      "title": "Utvikler et digitalt minnearkiv",
-      "link": "https://www.kode24.no/artikkel/utvikler-et-digitalt-minnearkiv/256134",
-      "source": "Kode24",
-      "summary": "Øystein Vesth utvikler et verktøy som skal hjelper familier å stille gode spørsmål og ta var på minnene til de man er glad i. – Jeg vet overraskende lite om min egen familie.",
-      "published": "2026-02-12T09:00:00Z"
     },
     {
       "id": "4261a2e01753510a458c4cac37582bffaf64e87e",
@@ -252,14 +262,6 @@
       "summary": "Learn how GitHub built an accessible, multi-terminal-safe ASCII animation for the Copilot CLI using custom tooling, ANSI color roles, and advanced terminal engineering. The post From pixels to characters: The engineering behind GitHub Copilot CLI’s animated ASCII banner appeared first on The GitHub...",
       "published": "2026-01-28T17:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2026/01/banner1.png?resize=872%2C246"
-    },
-    {
-      "id": "7fa47fa272d6b5210830e65a8afeeec12da31f0f",
-      "title": "Year recap and future goals for the GitHub Innovation Graph",
-      "link": "https://github.blog/news-insights/policy-news-and-insights/year-recap-and-future-goals-for-the-github-innovation-graph/",
-      "source": "GitHub Blog",
-      "summary": "Discover the latest trends and insights on public software development activity on GitHub with data from the Innovation Graph through Q3 2025. The post Year recap and future goals for the GitHub Innovation Graph appeared first on The GitHub Blog.",
-      "published": "2026-01-28T16:00:00Z"
     },
     {
       "id": "27a1ea166fc2a10fe1932a8430150324117a626c",
