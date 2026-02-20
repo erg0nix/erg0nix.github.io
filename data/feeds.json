@@ -1,6 +1,55 @@
 {
-  "generated_at": "2026-02-19T07:05:00.119224Z",
+  "generated_at": "2026-02-20T07:02:05.420738Z",
   "items": [
+    {
+      "id": "859835e0294001f22e0eb709503ed2dbd36ae4ea",
+      "title": "Interop 2026 er i gang, Typescript 6.0 i beta, og raskere globale typer",
+      "link": "https://www.kode24.no/artikkel/interop-2026-er-i-gang-typescript-60-i-beta-og-raskere-globale-typer/256205",
+      "source": "Kode24",
+      "summary": "spennende oppdatering av fetch()-APIet, og mye mer i ukas fra utviklerne i Bekk.",
+      "published": "2026-02-20T06:00:00Z"
+    },
+    {
+      "id": "89a3c2e919e7ac7a991431b856c0a3143c89d887",
+      "title": "How AI is reshaping developer choice (and Octoverse data proves it)",
+      "link": "https://github.blog/ai-and-ml/generative-ai/how-ai-is-reshaping-developer-choice-and-octoverse-data-proves-it/",
+      "source": "GitHub Blog",
+      "summary": "AI is rewiring developer preferences through convenience loops. Octoverse 2025 reveals how AI compatibility is becoming the new standard for technology choice. The post How AI is reshaping developer choice (and Octoverse data proves it) appeared first on The GitHub Blog.",
+      "published": "2026-02-19T17:00:00Z",
+      "image": "https://github.blog/wp-content/uploads/2025/10/octoverse-2025-top-programming-languages.png?resize=1024%2C576"
+    },
+    {
+      "id": "449802118cad859e5fc1e74013b9fcca34c40c5c",
+      "title": "Agentisk KI inntar datingapper – ingen sveiping lenger",
+      "link": "https://www.kode24.no/artikkel/agentisk-ki-inntar-datingapper-ingen-sveiping-lenger/256942",
+      "source": "Kode24",
+      "summary": "Dating-appen Fate tar i bruk språkmodeller for å matche folk. Og sier det er slutt på sveipingen. Er dette den nye måten å finne en date på?",
+      "published": "2026-02-19T13:08:18Z"
+    },
+    {
+      "id": "a82b4da283274207f21026b2b444668a00a26cee",
+      "title": "Brukte Midjourney for å lage bokomslag",
+      "link": "https://www.kode24.no/artikkel/brukte-midjourney-for-a-lage-bokomslag/256930",
+      "source": "Kode24",
+      "summary": "Omslaget til den nye boken til Unni Lindell er laget av KI. Forlaget har tatt i bruk programmet Midjouney.",
+      "published": "2026-02-19T10:54:31Z"
+    },
+    {
+      "id": "be8e1f55647f8eacf5499b844f3d89f3468fb8a1",
+      "title": "Bill Gates trekker seg som taler på KI-toppmøte",
+      "link": "https://www.kode24.no/artikkel/bill-gates-trekker-seg-som-taler-pa-ki-toppmote/256918",
+      "source": "Kode24",
+      "summary": "Etter å ha blitt omtalt i Epstein-dokumentene, trekker tidligere Microsoft-sjef Bill Gates seg som taler ved et KI-toppmøte i India.",
+      "published": "2026-02-19T08:40:49Z"
+    },
+    {
+      "id": "060b48257fb12655ef8775b64cd19e8b18090b19",
+      "title": "Google I/O 2026 er bekreftet: Android 17, Gemini",
+      "link": "https://www.kode24.no/artikkel/google-i/o-2026-er-bekreftet-android-17-gemini/255982",
+      "source": "Kode24",
+      "summary": "Google har bekreftet at Google I/O 2026 arrangeres 19. og 20. mai i California. Årets utviklerkonferanse ventes å by på nyheter om Android 17, Gemini og oppdateringer i hele Googles økosystem.",
+      "published": "2026-02-19T06:34:36Z"
+    },
     {
       "id": "023ca22fb98440a4eb2db04e9b663015d7d03699",
       "title": "20-åring utfordrer parkerings-gigantene med ny app",
@@ -8,14 +57,6 @@
       "source": "Kode24",
       "summary": "Da Håkon Ruud Huseby (20) skulle parkere i Oslo var det dyrt og vanskelig, det ga han en idé til ny app.",
       "published": "2026-02-19T06:14:11Z"
-    },
-    {
-      "id": "7e5d3276f4b727237ecb9da97c90fe4f6528676d",
-      "title": "Norgesmesterskapet i KI lokker med millionpremie",
-      "link": "https://www.kode24.no/artikkel/norgesmesterskapet-i-ki-lokker-med-millionpremie/256817",
-      "source": "Kode24",
-      "summary": "Tripletex er platinumpartner når Astar arrangerer Norgesmesterskapet i KI.",
-      "published": "2026-02-19T06:12:34Z"
     },
     {
       "id": "76e30ecee00ab4335c0780a4eadb8e6bfa30c212",
@@ -148,14 +189,6 @@
       "published": "2026-02-17T06:48:00Z"
     },
     {
-      "id": "14b6da826655d566aeb5d6a74b780a68a9bb540f",
-      "title": "– Vi har mange gode norske leverandører",
-      "link": "https://www.kode24.no/artikkel/vi-har-mange-gode-norske-leverandorer/256360",
-      "source": "Kode24",
-      "summary": "Frank Solli lanserer en plattform for norske IT-alternativer til amerikanske tjenester.",
-      "published": "2026-02-17T05:00:00Z"
-    },
-    {
       "id": "da0de1cb530d005fcd81b7886c89d308ce375756",
       "title": "Using go fix to modernize Go code",
       "link": "https://go.dev/blog/gofix",
@@ -163,30 +196,6 @@
       "summary": "Go 1.26 includes a new implementation of go fix that can help you use more modern features of Go.",
       "published": "2026-02-17T00:00:00Z",
       "image": "https://go.dev/blog/gofix-analysis-facts.svg"
-    },
-    {
-      "id": "500fca8bd0742e48d99e71885614b02dce9f1014",
-      "title": "Nå er tilgjengelighets-erklæringene åpne for alle",
-      "link": "https://www.kode24.no/artikkel/na-er-tilgjengelighets-erklaeringene-apne-for-alle/256597",
-      "source": "Kode24",
-      "summary": "Slik kan flere bruke dataene til både analyse, benchmarking og utvikling av nye tjenester.",
-      "published": "2026-02-16T11:51:31Z"
-    },
-    {
-      "id": "8881b4dbd7c05daf62d720453f4da6d6884b5222",
-      "title": "Hvorfor slutter de flinkeste folka?",
-      "link": "https://www.kode24.no/artikkel/hvorfor-slutter-de-flinkeste-folka/256233",
-      "source": "Kode24",
-      "summary": "(...fordi du kontrollerer for mye eller for lite)",
-      "published": "2026-02-16T09:40:09Z"
-    },
-    {
-      "id": "78fcd59f85c4c23276e4f5839bd4237a45bb05e1",
-      "title": "Claude truer med å kutte samarbeid med USAs forsvarsdepartement",
-      "link": "https://www.kode24.no/artikkel/claude-truer-med-a-kutte-samarbeid-med-usas-forsvarsdepartement/256578",
-      "source": "Kode24",
-      "summary": "KI-selskapet Anthropic lar ikke det amerikanske forsvarsdepartementet bruke KI-modeller ubegrenset. Det skal Pentagon ha fått nok av, ifølge Axios.",
-      "published": "2026-02-16T07:30:30Z"
     },
     {
       "id": "084da1fcad7cc6fbec06e7e943fbfbaf4739c048",
@@ -253,15 +262,6 @@
       "source": "GitHub Blog",
       "summary": "A senior engineer's guide to architecting and extending Copilot's real-world applications. The post How to maximize GitHub Copilot’s agentic capabilities appeared first on The GitHub Blog.",
       "published": "2026-02-02T17:00:00Z"
-    },
-    {
-      "id": "ba1711ab88f9b6c4973737c882ef62457947f646",
-      "title": "From pixels to characters: The engineering behind GitHub Copilot CLI’s animated ASCII banner",
-      "link": "https://github.blog/engineering/from-pixels-to-characters-the-engineering-behind-github-copilot-clis-animated-ascii-banner/",
-      "source": "GitHub Blog",
-      "summary": "Learn how GitHub built an accessible, multi-terminal-safe ASCII animation for the Copilot CLI using custom tooling, ANSI color roles, and advanced terminal engineering. The post From pixels to characters: The engineering behind GitHub Copilot CLI’s animated ASCII banner appeared first on The GitHub...",
-      "published": "2026-01-28T17:00:00Z",
-      "image": "https://github.blog/wp-content/uploads/2026/01/banner1.png?resize=872%2C246"
     },
     {
       "id": "27a1ea166fc2a10fe1932a8430150324117a626c",
