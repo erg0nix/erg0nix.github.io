@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-02-20T07:02:05.420738Z",
+  "generated_at": "2026-02-21T06:49:29.953965Z",
   "items": [
+    {
+      "id": "e35b2fa28e8258050a8857702cc17b525e6def7a",
+      "title": "Møtte Sam Altman: – Viktig for Norge å være tilstede",
+      "link": "https://www.kode24.no/artikkel/motte-sam-altman-viktig-for-norge-a-vaere-tilstede/256869",
+      "source": "Kode24",
+      "summary": "Denne uken arrangeres KI-konferansen i India, hvor digitaliseringsministeren tok en prat med på Sam Altman, som er sjef for ChatGPT-selskapet OpenAI.",
+      "published": "2026-02-20T10:49:34Z"
+    },
+    {
+      "id": "678e226e02c0508a53b21ac63475748b9d278350",
+      "title": "Adidas etterforsker mulig datainnbrudd",
+      "link": "https://www.kode24.no/artikkel/adidas-etterforsker-mulig-datainnbrudd/256962",
+      "source": "Kode24",
+      "summary": "Adidas etterforsker nå mulig datainnbrudd hos en uavhengig lisenspartner etter at hackerkollektivet Lapsus$ hevdet å ha fått tilgang til store mengder sensitiv informasjon fra sportsgiganten.",
+      "published": "2026-02-20T09:36:28Z"
+    },
+    {
+      "id": "2ea829475098d422d533d7f792b64708184547f7",
+      "title": "Nytt regelverk om KI: Nå må universiteter og høyskoler forberede seg",
+      "link": "https://www.kode24.no/artikkel/nytt-regelverk-om-ki-na-ma-universiteter-og-hoyskoler-forberede-seg/256826",
+      "source": "Kode24",
+      "summary": "Bruken av kunstig intelligens (KI) øker raskt i høyere utdanning og forskning. Samtidig er et omfattende EU-regelverk på vei inn i norsk lov. Det betyr nye plikter for universiteter og høyskoler, også for dem som allerede bruker kunstig intelligens i undervisning, vurdering, forskning og...",
+      "published": "2026-02-20T07:42:52Z"
+    },
     {
       "id": "859835e0294001f22e0eb709503ed2dbd36ae4ea",
       "title": "Interop 2026 er i gang, Typescript 6.0 i beta, og raskere globale typer",
@@ -163,30 +187,6 @@
       "source": "Kode24",
       "summary": "Try styrker KI-satsingen med to nye ledere. Camilla og Lasse skal styrke laget og hjelpe norske virksomheter med vellykket KI-transformasjon.",
       "published": "2026-02-17T10:44:50Z"
-    },
-    {
-      "id": "40f8d7d78a4625447710b56f9f8d10524f3e2d71",
-      "title": "Nytt coliving-konsept trekker folk til fjells",
-      "link": "https://www.kode24.no/artikkel/nytt-coliving-konsept-trekker-folk-til-fjells/256515",
-      "source": "Kode24",
-      "summary": "Utvikler Mathias Sandnes (29) har testet det nye coliving-konseptet på Voss. – Vi trenger absolutt mer av dette.",
-      "published": "2026-02-17T09:09:43Z"
-    },
-    {
-      "id": "7fe44c364656f3421a238c34e5375a33193c6120",
-      "title": "KI fant over 100 feil utviklerne av cURL ikke fant selv",
-      "link": "https://www.kode24.no/artikkel/ki-fant-over-100-feil-utviklerne-av-curl-ikke-fant-selv/256699",
-      "source": "Kode24",
-      "summary": "cURL-sjef Daniel Stenberg ser gode og dårlige sider ved KI.",
-      "published": "2026-02-17T08:05:01Z"
-    },
-    {
-      "id": "99967fbf159369a79f2fbf1230c742bc9b8dc19d",
-      "title": "Stort behov for IT-kompetanse på Sør- og Vestlandet",
-      "link": "https://www.kode24.no/artikkel/stort-behov-for-it-kompetanse-pa-sor-og-vestlandet/256442",
-      "source": "Kode24",
-      "summary": "– Flere bransjer på Vestlandet, med Bergen som tyngdepunkt, har de siste årene bygget opp sterke teknologimiljøer, sier Lund.",
-      "published": "2026-02-17T06:48:00Z"
     },
     {
       "id": "da0de1cb530d005fcd81b7886c89d308ce375756",
