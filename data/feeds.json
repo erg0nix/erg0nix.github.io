@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-02-22T06:54:41.021190Z",
+  "generated_at": "2026-02-23T07:10:02.263664Z",
   "items": [
+    {
+      "id": "a81a1ca6d988f47203958b1e82659906dbb550ac",
+      "title": "State of React-undersøkelse viser TanStack-fremgang – og skepsis til serverkomponenter",
+      "link": "https://www.kode24.no/artikkel/state-of-react-undersokelse-viser-tanstack-fremgang-og-skepsis-til-serverkomponenter/256974",
+      "source": "Kode24",
+      "summary": "Fin ingress, ikke for lang, ikke for kort, akkurat passe lang.",
+      "published": "2026-02-23T06:00:00Z"
+    },
+    {
+      "id": "576f4f222e89e0296feab41db52f2997e8f4f5bb",
+      "title": "Apples rimelige, fargerike MacBook: Alle ryktene før lansering",
+      "link": "https://www.kode24.no/artikkel/apples-rimelige-fargerike-macbook-alle-ryktene-for-lansering/257028",
+      "source": "Kode24",
+      "summary": "Blir dette den nye utviklerfavoritten for studenter?",
+      "published": "2026-02-23T05:00:00Z"
+    },
     {
       "id": "e35b2fa28e8258050a8857702cc17b525e6def7a",
       "title": "Møtte Sam Altman: – Viktig for Norge å være tilstede",
@@ -171,22 +187,6 @@
       "source": "Kode24",
       "summary": "Over 5.000 lag er påmeldt Holmenkollstafetten: – Vi har nådd 5.000 lag rekordtidlig, sier arrangør Matias Lavik. IT-selskapet Sopra Steria stiller med hele 26 lag.",
       "published": "2026-02-17T14:00:45Z"
-    },
-    {
-      "id": "10e1f4421db95374c3214dead09c3dee09f316ff",
-      "title": "Irland starter EU-gransking av Groks seksualiserte KI-bilder",
-      "link": "https://www.kode24.no/artikkel/irland-starter-eu-gransking-av-groks-seksualiserte-ki-bilder/256736",
-      "source": "Kode24",
-      "summary": "Det irske datatilsynet har på vegne av EU startet gransking av X og KI-roboten Grok for mulige personvernbrudd ved generering av seksualiserte bilder.",
-      "published": "2026-02-17T12:48:23Z"
-    },
-    {
-      "id": "8a2ed3bcd37e4d7a44dd6b4a5ee24f669c197c01",
-      "title": "Reklamebyrå stryker laget med KI-kompetanse",
-      "link": "https://www.kode24.no/artikkel/reklamebyra-stryker-laget-med-ki-kompetanse/256711",
-      "source": "Kode24",
-      "summary": "Try styrker KI-satsingen med to nye ledere. Camilla og Lasse skal styrke laget og hjelpe norske virksomheter med vellykket KI-transformasjon.",
-      "published": "2026-02-17T10:44:50Z"
     },
     {
       "id": "da0de1cb530d005fcd81b7886c89d308ce375756",
