@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-02-23T07:10:02.263664Z",
+  "generated_at": "2026-02-24T07:05:20.672465Z",
   "items": [
+    {
+      "id": "f05657c378ebd1bf9775aac30e73d5a56adc3865",
+      "title": "Cloudflare gjør nettsteder klare for AI-agenter med «Markdown for Agents»",
+      "link": "https://www.kode24.no/artikkel/cloudflare-gjor-nettsteder-klare-for-ai-agenter-med-markdown-for-agents/256916",
+      "source": "Kode24",
+      "summary": "Kan gi besparelser på opptil 80 prosent av tokens ifølge TheNewStack.",
+      "published": "2026-02-24T05:00:00Z"
+    },
+    {
+      "id": "fedc3db449aa81548e71e6224d2e0cc94e7369ae",
+      "title": "UiO: Fjerner KI fra oppgave etter reaksjoner",
+      "link": "https://www.kode24.no/artikkel/uio-fjerner-ki-fra-oppgave-etter-reaksjoner/256414",
+      "source": "Kode24",
+      "summary": "Studenter ble oppfordret til bruk av KI i faget Mekatronikk ved Universitetet i Oslo. Nå snur UiO og trekker KI ut av faget.",
+      "published": "2026-02-24T05:00:00Z"
+    },
+    {
+      "id": "ae2eeb3ef52868267a85050163e46664a336b541",
+      "title": "Paven advarte prester mot å bruke KI",
+      "link": "https://www.kode24.no/artikkel/paven-advarte-prester-mot-a-bruke-ki/257105",
+      "source": "Kode24",
+      "summary": "Paven advarte prester mot å bruke KI til å forberede prekener.",
+      "published": "2026-02-23T11:50:16Z"
+    },
+    {
+      "id": "b7cf356ae0732d6fc70ef6d77cc8d280717cda4c",
+      "title": "Utvikler designerhøytaler med kamera",
+      "link": "https://www.kode24.no/artikkel/utvikler-designerhoytaler-med-kamera/257076",
+      "source": "Kode24",
+      "summary": "OpenAI utvikler angivelig en smarthøytaler med kamera – et samarbeid med den britiske Apple-designeren Jony Ive.",
+      "published": "2026-02-23T10:13:37Z"
+    },
+    {
+      "id": "28b107fef3acdb773a9d65491246200b5bc53015",
+      "title": "Sam Altman sier datasentre i rommet er latterlig",
+      "link": "https://www.kode24.no/artikkel/sam-altman-sier-datasentre-i-rommet-er-latterlig/256912",
+      "source": "Kode24",
+      "summary": "Tidligere var de allierte i OpenAI. Nå står Sam Altman og Elon Musk på hver sin side i debatten om fremtidens AI-infrastruktur. Mens Musk ser for seg datasentre i bane rundt jorden, kaller Altman ideen «latterlig».",
+      "published": "2026-02-23T08:34:51Z"
+    },
+    {
+      "id": "8aa3de3237cde2d1a9e0a5b858baf95f414493e6",
+      "title": "Svensk politi ønsker norsk KI-verktøy",
+      "link": "https://www.kode24.no/artikkel/svensk-politi-onsker-norsk-ki-verktoy/257060",
+      "source": "Kode24",
+      "summary": "KI-verktøyet som identifiserte nesten 200 ofre i den såkalte Omegle-saken, rulles nå ut i samtlige politidistrikter i Norge. På andre siden av grensen gjøres arbeidet manuelt.",
+      "published": "2026-02-23T08:01:21Z"
+    },
     {
       "id": "a81a1ca6d988f47203958b1e82659906dbb550ac",
       "title": "State of React-undersøkelse viser TanStack-fremgang – og skepsis til serverkomponenter",
@@ -132,46 +180,6 @@
       "published": "2026-02-18T10:05:44Z"
     },
     {
-      "id": "6f1552ff34fde9f652dca22a8f9b3f18238e1ea4",
-      "title": "Simula lanserer senter for KI-sikkerhet",
-      "link": "https://www.kode24.no/artikkel/simula-lanserer-senter-for-ki-sikkerhet/256650",
-      "source": "Kode24",
-      "summary": "Nytt forskningssenter skal sikre trygg bruk av kunstig intelligens i Norge.",
-      "published": "2026-02-18T09:00:00Z"
-    },
-    {
-      "id": "566cb311b4e87fba6ea82a872a36868efb15aec6",
-      "title": "Apple inviterer til «special Apple Experience» 4. mars – dette kan bli lansert",
-      "link": "https://www.kode24.no/artikkel/apple-inviterer-til-special-apple-experience-4-mars-dette-kan-bli-lansert/256074",
-      "source": "Kode24",
-      "summary": "Apple har invitert til produktlansering 4. mars 2026 i New York, London og Shanghai. Rykter peker mot ny MacBook Pro med M5, MacBook Air, og rimelig MacBook.",
-      "published": "2026-02-18T08:19:27Z"
-    },
-    {
-      "id": "7569a508d90821c6a47a2d5ef8ed1d79fa40c516",
-      "title": "Gentoo migrerer fra GitHub til Codeberg etter Copilot-uenighet",
-      "link": "https://www.kode24.no/artikkel/gentoo-migrerer-fra-github-til-codeberg-etter-copilot-uenighet/256553",
-      "source": "Kode24",
-      "summary": "Linux-distribusjonen Gentoo har startet migreringen fra Microsoft-eide GitHub til Codeberg. Årsaken er økende Copilot-press og bekymring for lavkvalitetsbidrag generert av KI.",
-      "published": "2026-02-18T08:00:47Z"
-    },
-    {
-      "id": "d76b9775ee0bcc59a6dabeeaf02d253ea4f607c3",
-      "title": "Tusenvis av toppledere innrømmer at AI ikke fører til økt produktivitet",
-      "link": "https://www.kode24.no/artikkel/tusenvis-av-toppledere-innrommer-at-ai-ikke-forer-til-okt-produktivitet/256771",
-      "source": "Kode24",
-      "summary": "Tusenvis av toppledere sier rett ut at kunstig intelligens foreløpig ikke har gitt utslag på verken produktivitet eller sysselsetting. Nå trekker økonomer paralleller til et 40 år gammelt paradoks – og spør om AI-revolusjonen lar vente på seg i tallene.",
-      "published": "2026-02-18T07:35:32Z"
-    },
-    {
-      "id": "f8a8b5617ace0c2f4e29c08bd08ef79ccbf5fb08",
-      "title": "Norge leder an på KI-toppmøte i India",
-      "link": "https://www.kode24.no/artikkel/norge-leder-an-pa-ki-toppmote-i-india/256630",
-      "source": "Kode24",
-      "summary": "For første gang arrangerer Norge en hovedsesjon om ansvarlig KI på det internasjonale toppmøtet i New Delhi.",
-      "published": "2026-02-18T05:00:00Z"
-    },
-    {
       "id": "3e4bf18026b8202de48da5f90d88c9fe6d5c3eac",
       "title": "Securing the AI software supply chain: Security results across 67 open source projects",
       "link": "https://github.blog/open-source/maintainers/securing-the-ai-software-supply-chain-security-results-across-67-open-source-projects/",
@@ -179,14 +187,6 @@
       "summary": "Learn how The GitHub Secure Open Source Fund helped 67 critical AI‑stack projects accelerate fixes, strengthen ecosystems, and advance open source resilience. The post Securing the AI software supply chain: Security results across 67 open source projects appeared first on The GitHub Blog.",
       "published": "2026-02-17T19:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2026/02/node.jpg?resize=1024%2C538"
-    },
-    {
-      "id": "8a7c7600847caaf08a7c5558e02bdba28f7e16b7",
-      "title": "Deltakerrekord for Holmenkollstafetten",
-      "link": "https://www.kode24.no/artikkel/deltakerrekord-for-holmenkollstafetten/256724",
-      "source": "Kode24",
-      "summary": "Over 5.000 lag er påmeldt Holmenkollstafetten: – Vi har nådd 5.000 lag rekordtidlig, sier arrangør Matias Lavik. IT-selskapet Sopra Steria stiller med hele 26 lag.",
-      "published": "2026-02-17T14:00:45Z"
     },
     {
       "id": "da0de1cb530d005fcd81b7886c89d308ce375756",
