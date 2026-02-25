@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-02-24T07:05:20.672465Z",
+  "generated_at": "2026-02-25T07:06:38.508054Z",
   "items": [
+    {
+      "id": "b6e6d37df8bd215b807673a3b41673d94656a944",
+      "title": "IBM-aksjen faller kraftig etter AI-utspill om COBOL",
+      "link": "https://www.kode24.no/artikkel/ibm-aksjen-faller-kraftig-etter-ai-utspill-om-cobol/256914",
+      "source": "Kode24",
+      "summary": "IBM-aksjen stupte 13 prosent mandag etter at Anthropic publiserte et blogginnlegg.",
+      "published": "2026-02-25T05:00:00Z"
+    },
+    {
+      "id": "833f4f89ffa6c54f12c5ee3caf6c42e6a3745c75",
+      "title": "– Timing er en undervurdert faktor i jobbsøkerprosessen",
+      "link": "https://www.kode24.no/artikkel/timing-er-en-undervurdert-faktor-i-jobbsokerprosessen/257185",
+      "source": "Kode24",
+      "summary": "Hvorfor du bør søke på stillinger innen 24–48 timer etter at de er publisert? Det svarer karriereveileder Reidar Myrvang på her.",
+      "published": "2026-02-25T04:01:00Z"
+    },
+    {
+      "id": "a5cf5ec287e40d061cb8af4083625cf8c85948e7",
+      "title": "Multi-agent workflows often fail. Here’s how to engineer ones that don’t.",
+      "link": "https://github.blog/ai-and-ml/generative-ai/multi-agent-workflows-often-fail-heres-how-to-engineer-ones-that-dont/",
+      "source": "GitHub Blog",
+      "summary": "Most multi-agent workflow failures come down to missing structure, not model capability. Learn the three engineering patterns that make agent systems reliable. The post Multi-agent workflows often fail. Here’s how to engineer ones that don’t. appeared first on The GitHub Blog.",
+      "published": "2026-02-24T16:00:00Z"
+    },
+    {
+      "id": "c5c873c7e12fe9d1db02a36264f6cf9632c79499",
+      "title": "Millionbot til Reddit",
+      "link": "https://www.kode24.no/artikkel/millionbot-til-reddit/257173",
+      "source": "Kode24",
+      "summary": "Reddit i Storbritannia har fått millionbot på over 14 millioner pund for brudd på personvern.",
+      "published": "2026-02-24T12:14:01Z"
+    },
+    {
+      "id": "9aaad5dbce12e1d109b4f1b0712b5ae54d84aca6",
+      "title": "Botten Anna har gått viralt",
+      "link": "https://www.kode24.no/artikkel/botten-anna-har-gatt-viralt/256940",
+      "source": "Kode24",
+      "summary": "Innlegget til Alexander Haneng har gått viralt. Over 100.000 har lest om Botten Anna og det florerer av kommentarer om at han gjort noe utrygt.",
+      "published": "2026-02-24T11:45:45Z"
+    },
+    {
+      "id": "ebcd353983eda6af224ca7fdfdda0dd06639f3a4",
+      "title": "Verdensrekord i Oslo: Verdens største panoramabilde er på 2,05 terapiksler",
+      "link": "https://www.kode24.no/artikkel/verdensrekord-i-oslo-verdens-storste-panoramabilde-er-pa-205-terapiksler/257046",
+      "source": "Kode24",
+      "summary": "Jobbet i over ett år med rigging av kameraer og forberedelser.",
+      "published": "2026-02-24T09:50:45Z"
+    },
+    {
+      "id": "67140ceca3d674ff3b22390a493e2301107b39d5",
+      "title": "Anthropic lanserer Claude Code Security – KI som finner sårbarheter og foreslår patcher",
+      "link": "https://www.kode24.no/artikkel/anthropic-lanserer-claude-code-security-ki-som-finner-sarbarheter-og-foreslar-patcher/256972",
+      "source": "Kode24",
+      "summary": "KI-selskapet Anthropic har startet utrulling av en ny sikkerhetsfunksjon for Claude Code.",
+      "published": "2026-02-24T09:38:32Z"
+    },
     {
       "id": "f05657c378ebd1bf9775aac30e73d5a56adc3865",
       "title": "Cloudflare gjør nettsteder klare for AI-agenter med «Markdown for Agents»",
@@ -123,30 +179,6 @@
       "published": "2026-02-19T10:54:31Z"
     },
     {
-      "id": "be8e1f55647f8eacf5499b844f3d89f3468fb8a1",
-      "title": "Bill Gates trekker seg som taler på KI-toppmøte",
-      "link": "https://www.kode24.no/artikkel/bill-gates-trekker-seg-som-taler-pa-ki-toppmote/256918",
-      "source": "Kode24",
-      "summary": "Etter å ha blitt omtalt i Epstein-dokumentene, trekker tidligere Microsoft-sjef Bill Gates seg som taler ved et KI-toppmøte i India.",
-      "published": "2026-02-19T08:40:49Z"
-    },
-    {
-      "id": "060b48257fb12655ef8775b64cd19e8b18090b19",
-      "title": "Google I/O 2026 er bekreftet: Android 17, Gemini",
-      "link": "https://www.kode24.no/artikkel/google-i/o-2026-er-bekreftet-android-17-gemini/255982",
-      "source": "Kode24",
-      "summary": "Google har bekreftet at Google I/O 2026 arrangeres 19. og 20. mai i California. Årets utviklerkonferanse ventes å by på nyheter om Android 17, Gemini og oppdateringer i hele Googles økosystem.",
-      "published": "2026-02-19T06:34:36Z"
-    },
-    {
-      "id": "023ca22fb98440a4eb2db04e9b663015d7d03699",
-      "title": "20-åring utfordrer parkerings-gigantene med ny app",
-      "link": "https://www.kode24.no/artikkel/20-aring-utfordrer-parkerings-gigantene-med-ny-app/256656",
-      "source": "Kode24",
-      "summary": "Da Håkon Ruud Huseby (20) skulle parkere i Oslo var det dyrt og vanskelig, det ga han en idé til ny app.",
-      "published": "2026-02-19T06:14:11Z"
-    },
-    {
       "id": "76e30ecee00ab4335c0780a4eadb8e6bfa30c212",
       "title": "What to expect for open source in 2026",
       "link": "https://github.blog/open-source/maintainers/what-to-expect-for-open-source-in-2026/",
@@ -154,30 +186,6 @@
       "summary": "Let’s dig into the 2025’s open source data on GitHub to see what we can learn about the future. The post What to expect for open source in 2026 appeared first on The GitHub Blog.",
       "published": "2026-02-18T18:41:42Z",
       "image": "https://github.blog/wp-content/uploads/2025/10/octoverse-2025-fastest-growing-open-source-projects-by-contributors.png?resize=1440%2C810"
-    },
-    {
-      "id": "bc6fcd424921a87b844ed210ea5ff117ff42eccb",
-      "title": "Insta-kontoer kan styres av KI etter døden: – Dystopisk",
-      "link": "https://www.kode24.no/artikkel/insta-kontoer-kan-styres-av-ki-etter-doden-dystopisk/256871",
-      "source": "Kode24",
-      "summary": "Meta har fått patent på KI som kan fortsette å poste og chatte fra avdøde personers kontoer. Reaksjonene hagler på nettsamfunnet Reddit.",
-      "published": "2026-02-18T14:55:17Z"
-    },
-    {
-      "id": "6ea4b9c8c388b448e585b7efd1900390063bf163",
-      "title": "Ble lei av gruppespam – tok grep",
-      "link": "https://www.kode24.no/artikkel/ble-lei-av-gruppespam-tok-grep/256850",
-      "source": "Kode24",
-      "summary": "Zeeshan Shah og tre medgründere har lansert en ny aktivitetsapp som skal hindre uendelige meldinger og mas i messenger.",
-      "published": "2026-02-18T13:06:22Z"
-    },
-    {
-      "id": "a618c44e5e98299b309c0a971fcf739e4b78c5d0",
-      "title": "SV: – Norge trenger en digital exit-strategi",
-      "link": "https://www.kode24.no/artikkel/sv-norge-trenger-en-digital-exit-strategi/256815",
-      "source": "Kode24",
-      "summary": "Hvorvidt Norge trenger en nasjonal exit-strategi ble diskutert i Politisk kvarter i NRK denne uken. SV vil ha digital selvstyre. Fullstendig utopi mener regjeringen.",
-      "published": "2026-02-18T10:05:44Z"
     },
     {
       "id": "3e4bf18026b8202de48da5f90d88c9fe6d5c3eac",
@@ -254,14 +262,6 @@
       "summary": "What languages are growing fastest, and why? What about the projects that people are interested in the most? Where are new developers cutting their teeth? Let’s take a look at Octoverse data to find out. The post What the fastest-growing tools reveal about how software is being built appeared first...",
       "published": "2026-02-03T17:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2025/10/octoverse-2025-top-programming-languages.png?resize=1024%2C576"
-    },
-    {
-      "id": "643966556573a98f890ce0d6fc2f67e323c4a128",
-      "title": "How to maximize GitHub Copilot’s agentic capabilities",
-      "link": "https://github.blog/ai-and-ml/github-copilot/how-to-maximize-github-copilots-agentic-capabilities/",
-      "source": "GitHub Blog",
-      "summary": "A senior engineer's guide to architecting and extending Copilot's real-world applications. The post How to maximize GitHub Copilot’s agentic capabilities appeared first on The GitHub Blog.",
-      "published": "2026-02-02T17:00:00Z"
     },
     {
       "id": "27a1ea166fc2a10fe1932a8430150324117a626c",
