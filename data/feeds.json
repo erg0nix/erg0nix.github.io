@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-02-25T07:06:38.508054Z",
+  "generated_at": "2026-02-26T07:05:18.621362Z",
   "items": [
+    {
+      "id": "790a0d5eac6a72b104f1ae9d3a04f385e5571bae",
+      "title": "Meta gir fra seg kontrollen over React – får egen stiftelse under Linux Foundation",
+      "link": "https://www.kode24.no/artikkel/meta-gir-fra-seg-kontrollen-over-react-far-egen-stiftelse-under-linux-foundation/257265",
+      "source": "Kode24",
+      "summary": "Meta har nå formelt overført kontrollen over React, React Native og tilknyttede prosjekter som JSX til den nyopprettede React Foundation. Dermed oppfyller selskapet løftet som ble gitt i oktober i fjor.",
+      "published": "2026-02-26T05:00:00Z"
+    },
+    {
+      "id": "a991d0a48650180c37576052f29f68721e092c97",
+      "title": "Folk bruker KI til å skrive patentsøknader: – En rekke mangler og uklarheter",
+      "link": "https://www.kode24.no/artikkel/folk-bruker-ki-til-a-skrive-patentsoknader-en-rekke-mangler-og-uklarheter/257253",
+      "source": "Kode24",
+      "summary": "Patentstyret opplevde kraftig vekst i patentsøknader fra norske søkere i 2025 – noe som mest sannsynlig skyldes søknader skrevet ved hjelp av KI-verktøy.",
+      "published": "2026-02-26T05:00:00Z"
+    },
+    {
+      "id": "7043a451655b2e7ddc063fdd8d8e0513b785df03",
+      "title": "Bcachefs-utvikler hevder egen LLM er bevisst",
+      "link": "https://www.kode24.no/artikkel/bcachefs-utvikler-hevder-egen-llm-er-bevisst/257048",
+      "source": "Kode24",
+      "summary": "– og «hun liker ikke å bli kalt en bot», skriver grunnlegger Kent Overstreet.",
+      "published": "2026-02-26T04:00:00Z"
+    },
+    {
+      "id": "534083d72d6032483d115c86249821fc07baa077",
+      "title": "Bill Gates innrømmer utroskap",
+      "link": "https://www.kode24.no/artikkel/bill-gates-innrommer-utroskap/257244",
+      "source": "Kode24",
+      "summary": "Bill Gates innrømmer utroskap og beklager overfor stiftelsen for Epstein-kontakt.",
+      "published": "2026-02-25T12:01:31Z"
+    },
+    {
+      "id": "ba63a7e5418eb0d51647df5dca46027ec3604f14",
+      "title": "AI, kjærlighet og kunsten i å si de riktige ordene",
+      "link": "https://www.kode24.no/artikkel/ai-kjaerlighet-og-kunsten-i-a-si-de-riktige-ordene/257224",
+      "source": "Kode24",
+      "summary": "Utvikler Edvard Unsvåg deler sine tanker: – Dette er et faglig fundert innlegg om hvordan vi som utviklere faktisk bør kommunisere med AI for å få gode resultater.",
+      "published": "2026-02-25T10:07:23Z"
+    },
+    {
+      "id": "e559975b4b0f1e4ff08c04d47c5dff17bdbaced2",
+      "title": "Gamingkjøttdeig går viralt",
+      "link": "https://www.kode24.no/artikkel/gamingkjottdeig-gar-viralt/257026",
+      "source": "Kode24",
+      "summary": "Komplett: – forbauset over at den har nådd nettet allerede.",
+      "published": "2026-02-25T08:50:01Z"
+    },
+    {
+      "id": "e9c958a78a6b3f54af4bc96e8088db090bf15f52",
+      "title": "Varsler tilsyn etter datainnbrudd",
+      "link": "https://www.kode24.no/artikkel/varsler-tilsyn-etter-datainnbrudd/257203",
+      "source": "Kode24",
+      "summary": "Nkom varsler tilsyn med Telia etter omfattende datainnbrudd som rammet blant annet Bergen kommune",
+      "published": "2026-02-25T08:04:23Z"
+    },
     {
       "id": "b6e6d37df8bd215b807673a3b41673d94656a944",
       "title": "IBM-aksjen faller kraftig etter AI-utspill om COBOL",
@@ -114,46 +170,6 @@
       "published": "2026-02-23T06:00:00Z"
     },
     {
-      "id": "576f4f222e89e0296feab41db52f2997e8f4f5bb",
-      "title": "Apples rimelige, fargerike MacBook: Alle ryktene før lansering",
-      "link": "https://www.kode24.no/artikkel/apples-rimelige-fargerike-macbook-alle-ryktene-for-lansering/257028",
-      "source": "Kode24",
-      "summary": "Blir dette den nye utviklerfavoritten for studenter?",
-      "published": "2026-02-23T05:00:00Z"
-    },
-    {
-      "id": "e35b2fa28e8258050a8857702cc17b525e6def7a",
-      "title": "Møtte Sam Altman: – Viktig for Norge å være tilstede",
-      "link": "https://www.kode24.no/artikkel/motte-sam-altman-viktig-for-norge-a-vaere-tilstede/256869",
-      "source": "Kode24",
-      "summary": "Denne uken arrangeres KI-konferansen i India, hvor digitaliseringsministeren tok en prat med på Sam Altman, som er sjef for ChatGPT-selskapet OpenAI.",
-      "published": "2026-02-20T10:49:34Z"
-    },
-    {
-      "id": "678e226e02c0508a53b21ac63475748b9d278350",
-      "title": "Adidas etterforsker mulig datainnbrudd",
-      "link": "https://www.kode24.no/artikkel/adidas-etterforsker-mulig-datainnbrudd/256962",
-      "source": "Kode24",
-      "summary": "Adidas etterforsker nå mulig datainnbrudd hos en uavhengig lisenspartner etter at hackerkollektivet Lapsus$ hevdet å ha fått tilgang til store mengder sensitiv informasjon fra sportsgiganten.",
-      "published": "2026-02-20T09:36:28Z"
-    },
-    {
-      "id": "2ea829475098d422d533d7f792b64708184547f7",
-      "title": "Nytt regelverk om KI: Nå må universiteter og høyskoler forberede seg",
-      "link": "https://www.kode24.no/artikkel/nytt-regelverk-om-ki-na-ma-universiteter-og-hoyskoler-forberede-seg/256826",
-      "source": "Kode24",
-      "summary": "Bruken av kunstig intelligens (KI) øker raskt i høyere utdanning og forskning. Samtidig er et omfattende EU-regelverk på vei inn i norsk lov. Det betyr nye plikter for universiteter og høyskoler, også for dem som allerede bruker kunstig intelligens i undervisning, vurdering, forskning og...",
-      "published": "2026-02-20T07:42:52Z"
-    },
-    {
-      "id": "859835e0294001f22e0eb709503ed2dbd36ae4ea",
-      "title": "Interop 2026 er i gang, Typescript 6.0 i beta, og raskere globale typer",
-      "link": "https://www.kode24.no/artikkel/interop-2026-er-i-gang-typescript-60-i-beta-og-raskere-globale-typer/256205",
-      "source": "Kode24",
-      "summary": "spennende oppdatering av fetch()-APIet, og mye mer i ukas fra utviklerne i Bekk.",
-      "published": "2026-02-20T06:00:00Z"
-    },
-    {
       "id": "89a3c2e919e7ac7a991431b856c0a3143c89d887",
       "title": "How AI is reshaping developer choice (and Octoverse data proves it)",
       "link": "https://github.blog/ai-and-ml/generative-ai/how-ai-is-reshaping-developer-choice-and-octoverse-data-proves-it/",
@@ -161,22 +177,6 @@
       "summary": "AI is rewiring developer preferences through convenience loops. Octoverse 2025 reveals how AI compatibility is becoming the new standard for technology choice. The post How AI is reshaping developer choice (and Octoverse data proves it) appeared first on The GitHub Blog.",
       "published": "2026-02-19T17:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2025/10/octoverse-2025-top-programming-languages.png?resize=1024%2C576"
-    },
-    {
-      "id": "449802118cad859e5fc1e74013b9fcca34c40c5c",
-      "title": "Agentisk KI inntar datingapper – ingen sveiping lenger",
-      "link": "https://www.kode24.no/artikkel/agentisk-ki-inntar-datingapper-ingen-sveiping-lenger/256942",
-      "source": "Kode24",
-      "summary": "Dating-appen Fate tar i bruk språkmodeller for å matche folk. Og sier det er slutt på sveipingen. Er dette den nye måten å finne en date på?",
-      "published": "2026-02-19T13:08:18Z"
-    },
-    {
-      "id": "a82b4da283274207f21026b2b444668a00a26cee",
-      "title": "Brukte Midjourney for å lage bokomslag",
-      "link": "https://www.kode24.no/artikkel/brukte-midjourney-for-a-lage-bokomslag/256930",
-      "source": "Kode24",
-      "summary": "Omslaget til den nye boken til Unni Lindell er laget av KI. Forlaget har tatt i bruk programmet Midjouney.",
-      "published": "2026-02-19T10:54:31Z"
     },
     {
       "id": "76e30ecee00ab4335c0780a4eadb8e6bfa30c212",
