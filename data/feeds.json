@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-02-26T07:05:18.621362Z",
+  "generated_at": "2026-02-27T07:00:22.631273Z",
   "items": [
+    {
+      "id": "140a20bf3fe799aacf19159b8a320abf4a4f6fdb",
+      "title": "Den «stygge hemmeligheten» bak open source",
+      "link": "https://www.kode24.no/artikkel/den-stygge-hemmeligheten-bak-open-source/257317",
+      "source": "Kode24",
+      "summary": "Bedrifter over hele verden tjener milliarder på å bruke åpen kildekode – men investerer svært lite tilbake.",
+      "published": "2026-02-27T05:00:00Z"
+    },
+    {
+      "id": "2696484c729cef0363477259514a6a2f834e4449",
+      "title": "– Pult-etiketti går meg på vetti",
+      "link": "https://www.kode24.no/artikkel/pult-etiketti-gar-meg-pa-vetti/257325",
+      "source": "Kode24",
+      "summary": "Jørgen i kode24 blir ikke enig med seg selv om hva som er lov og ikke på pulten.",
+      "published": "2026-02-27T04:00:00Z"
+    },
+    {
+      "id": "3eb540cba64fb301863e4446a2ba63dff7466ab4",
+      "title": "What’s new with GitHub Copilot coding agent",
+      "link": "https://github.blog/ai-and-ml/github-copilot/whats-new-with-github-copilot-coding-agent/",
+      "source": "GitHub Blog",
+      "summary": "GitHub Copilot coding agent now includes a model picker, self-review, built-in security scanning, custom agents, and CLI handoff. Here's what's new and how to use it. The post What’s new with GitHub Copilot coding agent appeared first on The GitHub Blog.",
+      "published": "2026-02-26T20:47:02Z"
+    },
+    {
+      "id": "a7d549f3dc172967a12ca84d2d48e1ce402962f9",
+      "title": "Lovable: Elefanten i rommet",
+      "link": "https://www.kode24.no/artikkel/lovable-elefanten-i-rommet/257328",
+      "source": "Kode24",
+      "summary": "Alle snakker om Lovable. Jeg bygde noe helt annet. Og fikk betalende kunder, sier Rasmus Sørensen.",
+      "published": "2026-02-26T12:05:05Z"
+    },
+    {
+      "id": "8afd9b44e7cbe45be748a244154265f3b1d1599b",
+      "title": "Vanlig å se 400 videoer om dagen",
+      "link": "https://www.kode24.no/artikkel/vanlig-a-se-400-videoer-om-dagen/257291",
+      "source": "Kode24",
+      "summary": "Dette er den nye virkeligheten til barn som vokser opp i dag.",
+      "published": "2026-02-26T10:21:35Z"
+    },
+    {
+      "id": "da1a200b977a62d10121c257374d56babe8f669f",
+      "title": "Conta ansetter erfarne utviklere",
+      "link": "https://www.kode24.no/artikkel/conta-ansetter-erfarne-utviklere/257293",
+      "source": "Kode24",
+      "summary": "Erik Mauring og Marius Lundbø går til Fintech-selskapet i Ålesund.",
+      "published": "2026-02-26T09:53:20Z"
+    },
     {
       "id": "790a0d5eac6a72b104f1ae9d3a04f385e5571bae",
       "title": "Meta gir fra seg kontrollen over React – får egen stiftelse under Linux Foundation",
@@ -11,8 +59,8 @@
     },
     {
       "id": "a991d0a48650180c37576052f29f68721e092c97",
-      "title": "Folk bruker KI til å skrive patentsøknader: – En rekke mangler og uklarheter",
-      "link": "https://www.kode24.no/artikkel/folk-bruker-ki-til-a-skrive-patentsoknader-en-rekke-mangler-og-uklarheter/257253",
+      "title": "Renner inn med søknader",
+      "link": "https://www.kode24.no/artikkel/renner-inn-med-soknader/257253",
       "source": "Kode24",
       "summary": "Patentstyret opplevde kraftig vekst i patentsøknader fra norske søkere i 2025 – noe som mest sannsynlig skyldes søknader skrevet ved hjelp av KI-verktøy.",
       "published": "2026-02-26T05:00:00Z"
@@ -130,46 +178,6 @@
       "published": "2026-02-24T05:00:00Z"
     },
     {
-      "id": "ae2eeb3ef52868267a85050163e46664a336b541",
-      "title": "Paven advarte prester mot å bruke KI",
-      "link": "https://www.kode24.no/artikkel/paven-advarte-prester-mot-a-bruke-ki/257105",
-      "source": "Kode24",
-      "summary": "Paven advarte prester mot å bruke KI til å forberede prekener.",
-      "published": "2026-02-23T11:50:16Z"
-    },
-    {
-      "id": "b7cf356ae0732d6fc70ef6d77cc8d280717cda4c",
-      "title": "Utvikler designerhøytaler med kamera",
-      "link": "https://www.kode24.no/artikkel/utvikler-designerhoytaler-med-kamera/257076",
-      "source": "Kode24",
-      "summary": "OpenAI utvikler angivelig en smarthøytaler med kamera – et samarbeid med den britiske Apple-designeren Jony Ive.",
-      "published": "2026-02-23T10:13:37Z"
-    },
-    {
-      "id": "28b107fef3acdb773a9d65491246200b5bc53015",
-      "title": "Sam Altman sier datasentre i rommet er latterlig",
-      "link": "https://www.kode24.no/artikkel/sam-altman-sier-datasentre-i-rommet-er-latterlig/256912",
-      "source": "Kode24",
-      "summary": "Tidligere var de allierte i OpenAI. Nå står Sam Altman og Elon Musk på hver sin side i debatten om fremtidens AI-infrastruktur. Mens Musk ser for seg datasentre i bane rundt jorden, kaller Altman ideen «latterlig».",
-      "published": "2026-02-23T08:34:51Z"
-    },
-    {
-      "id": "8aa3de3237cde2d1a9e0a5b858baf95f414493e6",
-      "title": "Svensk politi ønsker norsk KI-verktøy",
-      "link": "https://www.kode24.no/artikkel/svensk-politi-onsker-norsk-ki-verktoy/257060",
-      "source": "Kode24",
-      "summary": "KI-verktøyet som identifiserte nesten 200 ofre i den såkalte Omegle-saken, rulles nå ut i samtlige politidistrikter i Norge. På andre siden av grensen gjøres arbeidet manuelt.",
-      "published": "2026-02-23T08:01:21Z"
-    },
-    {
-      "id": "a81a1ca6d988f47203958b1e82659906dbb550ac",
-      "title": "State of React-undersøkelse viser TanStack-fremgang – og skepsis til serverkomponenter",
-      "link": "https://www.kode24.no/artikkel/state-of-react-undersokelse-viser-tanstack-fremgang-og-skepsis-til-serverkomponenter/256974",
-      "source": "Kode24",
-      "summary": "Fin ingress, ikke for lang, ikke for kort, akkurat passe lang.",
-      "published": "2026-02-23T06:00:00Z"
-    },
-    {
       "id": "89a3c2e919e7ac7a991431b856c0a3143c89d887",
       "title": "How AI is reshaping developer choice (and Octoverse data proves it)",
       "link": "https://github.blog/ai-and-ml/generative-ai/how-ai-is-reshaping-developer-choice-and-octoverse-data-proves-it/",
@@ -253,15 +261,6 @@
       "source": "GitHub Blog",
       "summary": "Claude by Anthropic and OpenAI Codex are now available in public preview on GitHub and VS Code with a Copilot Pro+ or Copilot Enterprise subscription. Here's what you need to know and how to get started today. The post Pick your agent: Use Claude and Codex on Agent HQ appeared first on The GitHub...",
       "published": "2026-02-04T17:00:19Z"
-    },
-    {
-      "id": "6666420e24b25ed651d536e57edbf793e21c82be",
-      "title": "What the fastest-growing tools reveal about how software is being built",
-      "link": "https://github.blog/news-insights/octoverse/what-the-fastest-growing-tools-reveal-about-how-software-is-being-built/",
-      "source": "GitHub Blog",
-      "summary": "What languages are growing fastest, and why? What about the projects that people are interested in the most? Where are new developers cutting their teeth? Let’s take a look at Octoverse data to find out. The post What the fastest-growing tools reveal about how software is being built appeared first...",
-      "published": "2026-02-03T17:00:00Z",
-      "image": "https://github.blog/wp-content/uploads/2025/10/octoverse-2025-top-programming-languages.png?resize=1024%2C576"
     },
     {
       "id": "27a1ea166fc2a10fe1932a8430150324117a626c",
