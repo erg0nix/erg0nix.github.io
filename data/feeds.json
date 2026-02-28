@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-02-27T07:00:22.631273Z",
+  "generated_at": "2026-02-28T06:44:57.932850Z",
   "items": [
+    {
+      "id": "c6a6d9247ba008a7578a29e24a8013cff14a8c0e",
+      "title": "Meta saksøker annonsører i Brasil, Kina og Vietnam for kjendissvindel",
+      "link": "https://www.kode24.no/artikkel/meta-saksoker-annonsorer-i-brasil-kina-og-vietnam-for-kjendissvindel/257415",
+      "source": "Kode24",
+      "summary": "Sakene retter seg særlig mot såkalte «celeb-bait»-svindler.",
+      "published": "2026-02-28T05:00:00Z"
+    },
+    {
+      "id": "239a0c28a0d013fee71a75a70055d4057880aff8",
+      "title": "Microsoft advarer utviklere",
+      "link": "https://www.kode24.no/artikkel/microsoft-advarer-utviklere/257425",
+      "source": "Kode24",
+      "summary": "Falske Next.js-prosjekter med hackerprogramvare retter seg mot utviklere som søker jobb.",
+      "published": "2026-02-28T04:00:00Z"
+    },
+    {
+      "id": "4d83a08938a44bf3cb7111399e9e1dfe2439e6ca",
+      "title": "From idea to pull request: A practical guide to building with GitHub Copilot CLI",
+      "link": "https://github.blog/ai-and-ml/github-copilot/from-idea-to-pull-request-a-practical-guide-to-building-with-github-copilot-cli/",
+      "source": "GitHub Blog",
+      "summary": "A hands-on guide to using GitHub Copilot CLI to move from intent to reviewable changes, and how that work flows naturally into your IDE and GitHub. The post From idea to pull request: A practical guide to building with GitHub Copilot CLI appeared first on The GitHub Blog.",
+      "published": "2026-02-27T16:00:00Z"
+    },
+    {
+      "id": "937c148036da8257b96b3097fa2ed8faa023cc60",
+      "title": "Den neste storhetstida for utviklere er der fremme i horisonten!",
+      "link": "https://www.kode24.no/artikkel/den-neste-storhetstida-for-utviklere-er-der-fremme-i-horisonten/257452",
+      "source": "Kode24",
+      "summary": "– Om vi ser tilbake i historien på alle gangene hvor kosten for noe har gått dramatisk ned, har etterspørselen gått opp, sier Simen W. Olsen, CEO i Sokkel",
+      "published": "2026-02-27T12:45:38Z"
+    },
+    {
+      "id": "6479b53f81254e8a8b240eec7a0f34a15779293e",
+      "title": "Morten Smebye går til People Made Machines",
+      "link": "https://www.kode24.no/artikkel/morten-smebye-gar-til-people-made-machines/257441",
+      "source": "Kode24",
+      "summary": "Skal bli senior AI-engineer.",
+      "published": "2026-02-27T12:13:19Z"
+    },
+    {
+      "id": "500bbc018c082b437f4e71f26c9c26efc759cd29",
+      "title": "Kjent utvikler ble hacket etter phishing-angrep: – Flaut å innrømme",
+      "link": "https://www.kode24.no/artikkel/kjent-utvikler-ble-hacket-etter-phishing-angrep-flaut-a-innromme/257403",
+      "source": "Kode24",
+      "summary": "Den profilerte utvikleren Christian Heilmann har mistet tilgang til X-kontoen sin etter å ha gått rett i en phishing-felle.",
+      "published": "2026-02-27T11:23:21Z"
+    },
+    {
+      "id": "fe202d05fab38fb7a481d835b52559b81a8759ac",
+      "title": "Skal overvåke medarbeidernes høflighet med KI",
+      "link": "https://www.kode24.no/artikkel/skal-overvake-medarbeidernes-hoflighet-med-ki/257389",
+      "source": "Kode24",
+      "summary": "Burger King implementerer KI-botten «Patty» i hodetelefonene til ansatte. De skal kontrollere om ansatte sier «vær så snill» og «takk».",
+      "published": "2026-02-27T11:07:08Z"
+    },
+    {
+      "id": "d34f55bfb7128106ca2fa886748ada052910adf7",
+      "title": "Ny norsk KI-sky",
+      "link": "https://www.kode24.no/artikkel/ny-norsk-ki-sky/257376",
+      "source": "Kode24",
+      "summary": "– Vil gi norske virksomheter et reelt alternativ for lagring på norsk jord.",
+      "published": "2026-02-27T09:34:46Z"
+    },
+    {
+      "id": "1e8ad8af6cf4daaac431a9e04ee66125022889a0",
+      "title": "Politihøgskolen: – Legger meg flat",
+      "link": "https://www.kode24.no/artikkel/politihogskolen-legger-meg-flat/257360",
+      "source": "Kode24",
+      "summary": "Politihøgskolen brukte KI-genererte tall som viste seg å være feil i en sak om beregning av undervisningstid. Nå beklager rektor Nina Skarpenes.",
+      "published": "2026-02-27T07:26:22Z"
+    },
     {
       "id": "140a20bf3fe799aacf19159b8a320abf4a4f6fdb",
       "title": "Den «stygge hemmeligheten» bak open source",
@@ -16,6 +88,14 @@
       "source": "Kode24",
       "summary": "Jørgen i kode24 blir ikke enig med seg selv om hva som er lov og ikke på pulten.",
       "published": "2026-02-27T04:00:00Z"
+    },
+    {
+      "id": "58090b041f481022af2fefee6d1fd70bffe4d02e",
+      "title": "Allocating on the Stack",
+      "link": "https://go.dev/blog/allocation-optimizations",
+      "source": "Go Blog",
+      "summary": "A description of some of the recent changes to do allocations on the stack instead of the heap.",
+      "published": "2026-02-27T00:00:00Z"
     },
     {
       "id": "3eb540cba64fb301863e4446a2ba63dff7466ab4",
@@ -106,76 +186,12 @@
       "published": "2026-02-25T08:04:23Z"
     },
     {
-      "id": "b6e6d37df8bd215b807673a3b41673d94656a944",
-      "title": "IBM-aksjen faller kraftig etter AI-utspill om COBOL",
-      "link": "https://www.kode24.no/artikkel/ibm-aksjen-faller-kraftig-etter-ai-utspill-om-cobol/256914",
-      "source": "Kode24",
-      "summary": "IBM-aksjen stupte 13 prosent mandag etter at Anthropic publiserte et blogginnlegg.",
-      "published": "2026-02-25T05:00:00Z"
-    },
-    {
-      "id": "833f4f89ffa6c54f12c5ee3caf6c42e6a3745c75",
-      "title": "– Timing er en undervurdert faktor i jobbsøkerprosessen",
-      "link": "https://www.kode24.no/artikkel/timing-er-en-undervurdert-faktor-i-jobbsokerprosessen/257185",
-      "source": "Kode24",
-      "summary": "Hvorfor du bør søke på stillinger innen 24–48 timer etter at de er publisert? Det svarer karriereveileder Reidar Myrvang på her.",
-      "published": "2026-02-25T04:01:00Z"
-    },
-    {
       "id": "a5cf5ec287e40d061cb8af4083625cf8c85948e7",
       "title": "Multi-agent workflows often fail. Here’s how to engineer ones that don’t.",
       "link": "https://github.blog/ai-and-ml/generative-ai/multi-agent-workflows-often-fail-heres-how-to-engineer-ones-that-dont/",
       "source": "GitHub Blog",
       "summary": "Most multi-agent workflow failures come down to missing structure, not model capability. Learn the three engineering patterns that make agent systems reliable. The post Multi-agent workflows often fail. Here’s how to engineer ones that don’t. appeared first on The GitHub Blog.",
       "published": "2026-02-24T16:00:00Z"
-    },
-    {
-      "id": "c5c873c7e12fe9d1db02a36264f6cf9632c79499",
-      "title": "Millionbot til Reddit",
-      "link": "https://www.kode24.no/artikkel/millionbot-til-reddit/257173",
-      "source": "Kode24",
-      "summary": "Reddit i Storbritannia har fått millionbot på over 14 millioner pund for brudd på personvern.",
-      "published": "2026-02-24T12:14:01Z"
-    },
-    {
-      "id": "9aaad5dbce12e1d109b4f1b0712b5ae54d84aca6",
-      "title": "Botten Anna har gått viralt",
-      "link": "https://www.kode24.no/artikkel/botten-anna-har-gatt-viralt/256940",
-      "source": "Kode24",
-      "summary": "Innlegget til Alexander Haneng har gått viralt. Over 100.000 har lest om Botten Anna og det florerer av kommentarer om at han gjort noe utrygt.",
-      "published": "2026-02-24T11:45:45Z"
-    },
-    {
-      "id": "ebcd353983eda6af224ca7fdfdda0dd06639f3a4",
-      "title": "Verdensrekord i Oslo: Verdens største panoramabilde er på 2,05 terapiksler",
-      "link": "https://www.kode24.no/artikkel/verdensrekord-i-oslo-verdens-storste-panoramabilde-er-pa-205-terapiksler/257046",
-      "source": "Kode24",
-      "summary": "Jobbet i over ett år med rigging av kameraer og forberedelser.",
-      "published": "2026-02-24T09:50:45Z"
-    },
-    {
-      "id": "67140ceca3d674ff3b22390a493e2301107b39d5",
-      "title": "Anthropic lanserer Claude Code Security – KI som finner sårbarheter og foreslår patcher",
-      "link": "https://www.kode24.no/artikkel/anthropic-lanserer-claude-code-security-ki-som-finner-sarbarheter-og-foreslar-patcher/256972",
-      "source": "Kode24",
-      "summary": "KI-selskapet Anthropic har startet utrulling av en ny sikkerhetsfunksjon for Claude Code.",
-      "published": "2026-02-24T09:38:32Z"
-    },
-    {
-      "id": "f05657c378ebd1bf9775aac30e73d5a56adc3865",
-      "title": "Cloudflare gjør nettsteder klare for AI-agenter med «Markdown for Agents»",
-      "link": "https://www.kode24.no/artikkel/cloudflare-gjor-nettsteder-klare-for-ai-agenter-med-markdown-for-agents/256916",
-      "source": "Kode24",
-      "summary": "Kan gi besparelser på opptil 80 prosent av tokens ifølge TheNewStack.",
-      "published": "2026-02-24T05:00:00Z"
-    },
-    {
-      "id": "fedc3db449aa81548e71e6224d2e0cc94e7369ae",
-      "title": "UiO: Fjerner KI fra oppgave etter reaksjoner",
-      "link": "https://www.kode24.no/artikkel/uio-fjerner-ki-fra-oppgave-etter-reaksjoner/256414",
-      "source": "Kode24",
-      "summary": "Studenter ble oppfordret til bruk av KI i faget Mekatronikk ved Universitetet i Oslo. Nå snur UiO og trekker KI ut av faget.",
-      "published": "2026-02-24T05:00:00Z"
     },
     {
       "id": "89a3c2e919e7ac7a991431b856c0a3143c89d887",
@@ -255,14 +271,6 @@
       "published": "2026-02-05T17:00:00Z"
     },
     {
-      "id": "34fd5e0505153a1afcaca65b8b3ed1cb5f0f0a23",
-      "title": "Pick your agent: Use Claude and Codex on Agent HQ",
-      "link": "https://github.blog/news-insights/company-news/pick-your-agent-use-claude-and-codex-on-agent-hq/",
-      "source": "GitHub Blog",
-      "summary": "Claude by Anthropic and OpenAI Codex are now available in public preview on GitHub and VS Code with a Copilot Pro+ or Copilot Enterprise subscription. Here's what you need to know and how to get started today. The post Pick your agent: Use Claude and Codex on Agent HQ appeared first on The GitHub...",
-      "published": "2026-02-04T17:00:19Z"
-    },
-    {
       "id": "27a1ea166fc2a10fe1932a8430150324117a626c",
       "title": "Results from the 2025 Go Developer Survey",
       "link": "https://go.dev/blog/survey2025",
@@ -321,14 +329,6 @@
       "source": "Go Blog",
       "summary": "A discussion of testing asynchronous code and an exploration of the `testing/synctest` package. Based on the GopherCon Europe 2025 talk with the same title.",
       "published": "2025-08-26T00:00:00Z"
-    },
-    {
-      "id": "93a4321ca0483c4e1eef1583bd0e6243d804afee",
-      "title": "Container-aware GOMAXPROCS",
-      "link": "https://go.dev/blog/container-aware-gomaxprocs",
-      "source": "Go Blog",
-      "summary": "New GOMAXPROCS defaults in Go 1.25 improve behavior in containers.",
-      "published": "2025-08-20T00:00:00Z"
     }
   ]
 }
