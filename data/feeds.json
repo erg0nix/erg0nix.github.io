@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-03-01T06:52:59.251128Z",
+  "generated_at": "2026-03-02T07:04:03.838134Z",
   "items": [
+    {
+      "id": "cc06e49d7158f0d49971c741686e3e7b6a37a0d2",
+      "title": "India blokkerer utviklerplattformen Supabase uten offentlig forklaring",
+      "link": "https://www.kode24.no/artikkel/india-blokkerer-utviklerplattformen-supabase-uten-offentlig-forklaring/257497",
+      "source": "Kode24",
+      "summary": "Beslutningen ble ifølge TechCrunch fattet 24. februar under paragraf 69A i landets IT-lovgivning, som gir regjeringen myndighet til å begrense tilgang til nettinnhold.",
+      "published": "2026-03-02T05:00:00Z"
+    },
+    {
+      "id": "5991fb0e4ec8a47f6006cf5d3792b78e19b6be68",
+      "title": "Du har ikke lært deg AI — du har bare brukt den",
+      "link": "https://www.kode24.no/artikkel/du-har-ikke-laert-deg-ai-du-har-bare-brukt-den/257508",
+      "source": "Kode24",
+      "summary": "– Og det kan du sitere meg på, skriver Person Personsen.",
+      "published": "2026-03-02T05:00:00Z"
+    },
+    {
+      "id": "b04019d1cb3a9449b13e2c54c87020562f80c3ff",
+      "title": "Microsoft-topper advarer: KI kan svekke fremtidens utviklere",
+      "link": "https://www.kode24.no/artikkel/microsoft-topper-advarer-ki-kan-svekke-fremtidens-utviklere/257485",
+      "source": "Kode24",
+      "summary": "To av Microsofts mest profilerte teknologiledere advarer nå om at kunstig intelligens kan endre programvareyrket på en måte som truer rekrutteringen av neste generasjon utviklere.",
+      "published": "2026-03-01T09:06:10Z"
+    },
+    {
+      "id": "42cd55e4692b4a6e5b1dc7001f43ea560de7490c",
+      "title": "Ondsinnet Go-modul stjeler passord",
+      "link": "https://www.kode24.no/artikkel/ondsinnet-go-modul-stjeler-passord/257477",
+      "source": "Kode24",
+      "summary": "Deretter installerer den Linux-bakdøren Rekoobe, ifølge sikkerhetsforskere.",
+      "published": "2026-03-01T08:56:37Z"
+    },
     {
       "id": "c6a6d9247ba008a7578a29e24a8013cff14a8c0e",
       "title": "Meta saksøker annonsører i Brasil, Kina og Vietnam for kjendissvindel",
@@ -152,38 +184,6 @@
       "source": "Kode24",
       "summary": "– og «hun liker ikke å bli kalt en bot», skriver grunnlegger Kent Overstreet.",
       "published": "2026-02-26T04:00:00Z"
-    },
-    {
-      "id": "534083d72d6032483d115c86249821fc07baa077",
-      "title": "Bill Gates innrømmer utroskap",
-      "link": "https://www.kode24.no/artikkel/bill-gates-innrommer-utroskap/257244",
-      "source": "Kode24",
-      "summary": "Bill Gates innrømmer utroskap og beklager overfor stiftelsen for Epstein-kontakt.",
-      "published": "2026-02-25T12:01:31Z"
-    },
-    {
-      "id": "ba63a7e5418eb0d51647df5dca46027ec3604f14",
-      "title": "AI, kjærlighet og kunsten i å si de riktige ordene",
-      "link": "https://www.kode24.no/artikkel/ai-kjaerlighet-og-kunsten-i-a-si-de-riktige-ordene/257224",
-      "source": "Kode24",
-      "summary": "Utvikler Edvard Unsvåg deler sine tanker: – Dette er et faglig fundert innlegg om hvordan vi som utviklere faktisk bør kommunisere med AI for å få gode resultater.",
-      "published": "2026-02-25T10:07:23Z"
-    },
-    {
-      "id": "e559975b4b0f1e4ff08c04d47c5dff17bdbaced2",
-      "title": "Gamingkjøttdeig går viralt",
-      "link": "https://www.kode24.no/artikkel/gamingkjottdeig-gar-viralt/257026",
-      "source": "Kode24",
-      "summary": "Komplett: – forbauset over at den har nådd nettet allerede.",
-      "published": "2026-02-25T08:50:01Z"
-    },
-    {
-      "id": "e9c958a78a6b3f54af4bc96e8088db090bf15f52",
-      "title": "Varsler tilsyn etter datainnbrudd",
-      "link": "https://www.kode24.no/artikkel/varsler-tilsyn-etter-datainnbrudd/257203",
-      "source": "Kode24",
-      "summary": "Nkom varsler tilsyn med Telia etter omfattende datainnbrudd som rammet blant annet Bergen kommune",
-      "published": "2026-02-25T08:04:23Z"
     },
     {
       "id": "a5cf5ec287e40d061cb8af4083625cf8c85948e7",
