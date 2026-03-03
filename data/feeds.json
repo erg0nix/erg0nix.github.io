@@ -1,6 +1,86 @@
 {
-  "generated_at": "2026-03-02T07:04:03.838134Z",
+  "generated_at": "2026-03-03T06:57:59.122753Z",
   "items": [
+    {
+      "id": "5997111f600e09d328b9b4f90ed05e551a422432",
+      "title": "Motorola inngår samarbeid med GrapheneOS – får mobil med personvernfokus",
+      "link": "https://www.kode24.no/artikkel/motorola-inngar-samarbeid-med-grapheneos-far-mobil-med-personvernfokus/257599",
+      "source": "Kode24",
+      "summary": "Motorola bekrefter nå et langsiktig samarbeid med GrapheneOS Foundation som skal resultere i en fremtidig smarttelefon med GrapheneOS forhåndsinstallert. Kunngjøringen ble gjort under mobilmessen MWC 2026 i Barcelona.",
+      "published": "2026-03-03T04:00:00Z"
+    },
+    {
+      "id": "593bb9a537f87653b84034864d1d44122ec4abe5",
+      "title": "NRK bytter CMS",
+      "link": "https://www.kode24.no/artikkel/nrk-bytter-cms/257467",
+      "source": "Kode24",
+      "summary": "NRK har startet utskiftning av Polopoly etter nærmere 20 år. Sveitsiske Livingdocs skal modernisere nrk.no.",
+      "published": "2026-03-03T04:00:00Z"
+    },
+    {
+      "id": "bb24950f59e52d7bd3093dccfa35606012ec6c98",
+      "title": "GitHub for Beginners: Getting started with GitHub Issues and Projects",
+      "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-issues-and-projects/",
+      "source": "GitHub Blog",
+      "summary": "Learn how to get organized and collaborate more efficiently with this step-by-step tutorial. The post GitHub for Beginners: Getting started with GitHub Issues and Projects appeared first on The GitHub Blog.",
+      "published": "2026-03-02T17:00:00Z"
+    },
+    {
+      "id": "4ebe3afa1a7ffec5419922564b3dba0321cfe374",
+      "title": "Thomas (28) og Bendik (28) går til Edda.ai",
+      "link": "https://www.kode24.no/artikkel/thomas-28-og-bendik-28-gar-til-eddaai/257611",
+      "source": "Kode24",
+      "summary": "Tung teknologisk bakgrunn fra NTNU.",
+      "published": "2026-03-02T13:34:52Z"
+    },
+    {
+      "id": "4d903a28b9b241ea622789356d91a61d39af86d3",
+      "title": "Når ukjente ringer, lar vi det bare ringe",
+      "link": "https://www.kode24.no/artikkel/nar-ukjente-ringer-lar-vi-det-bare-ringe/257587",
+      "source": "Kode24",
+      "summary": "Men den tid er nå forbi. Med ny teknologi kan du nå få opp hvem som ringer fra ukjente nummer. Telenors nye funksjon tar i bruk KI-teknologi for å muliggjøre dette.",
+      "published": "2026-03-02T10:49:32Z"
+    },
+    {
+      "id": "4f8991e36106d4dc4cc6419927656a3ac8e831f8",
+      "title": "DNV kjøper AquaCloud",
+      "link": "https://www.kode24.no/artikkel/dnv-kjoper-aquacloud/257579",
+      "source": "Kode24",
+      "summary": "Det Norske Veritas (DNV) har inngått avtale om å kjøpe teknologi og immaterielle rettigheter fra AquaCloud.",
+      "published": "2026-03-02T10:07:33Z"
+    },
+    {
+      "id": "91b26e49911ea696c4e12141e92442e53752e31b",
+      "title": "Mest radikale produktet på 50 år",
+      "link": "https://www.kode24.no/artikkel/mest-radikale-produktet-pa-50-ar/257560",
+      "source": "Kode24",
+      "summary": "Legos nye «smartbrikke» er lansert – en liten, sensorbasert 2x4 svart kloss med en stor hjerne – utviklet hos selskapets Creative Play Lab.",
+      "published": "2026-03-02T09:09:06Z"
+    },
+    {
+      "id": "da5e77d8fe9deed98d9e11cd7372d75e8fa9b0dd",
+      "title": "Trump beordrer føderale etater til å fase ut Anthropic etter AI-konflikt",
+      "link": "https://www.kode24.no/artikkel/trump-beordrer-foderale-etater-til-a-fase-ut-anthropic-etter-ai-konflikt/257548",
+      "source": "Kode24",
+      "summary": "I et innlegg på Truth Social beskrev Trump Anthropic som et «radikalt venstreorientert, woke selskap» og sa at alle statlige organer må stanse bruken av selskapets programvare «umiddelbart».",
+      "published": "2026-03-02T08:22:17Z"
+    },
+    {
+      "id": "1879ef75dde8c96959948d5a215b42f8bcada190",
+      "title": "«Cancel ChatGPT»-kampanje får fart etter Twitter/X-melding fra Sam Altman",
+      "link": "https://www.kode24.no/artikkel/cancel-chatgpt-kampanje-far-fart-etter-twitter/x-melding-fra-sam-altman/257539",
+      "source": "Kode24",
+      "summary": "Sam Altman bekrefter at Open AI samarbeider med \"Department of War\".",
+      "published": "2026-03-02T08:15:09Z"
+    },
+    {
+      "id": "7ac07a569cb18a8c4b1a01f67c15e24299cc8b5c",
+      "title": "Google lanserer Split View i Chrome – lar deg vise to nettsider side om side",
+      "link": "https://www.kode24.no/artikkel/google-lanserer-split-view-i-chrome-lar-deg-vise-to-nettsider-side-om-side/257525",
+      "source": "Kode24",
+      "summary": "Funksjonen ble rullet ut i februar 2026 og er tilgjengelig fra Chrome versjon 145 og nyere på desktop.",
+      "published": "2026-03-02T07:53:28Z"
+    },
     {
       "id": "cc06e49d7158f0d49971c741686e3e7b6a37a0d2",
       "title": "India blokkerer utviklerplattformen Supabase uten offentlig forklaring",
@@ -14,7 +94,7 @@
       "title": "Du har ikke lært deg AI — du har bare brukt den",
       "link": "https://www.kode24.no/artikkel/du-har-ikke-laert-deg-ai-du-har-bare-brukt-den/257508",
       "source": "Kode24",
-      "summary": "– Og det kan du sitere meg på, skriver Person Personsen.",
+      "summary": "– Erfarne utviklere, folk med rykte som blytunge eksperter, setter seg ned med et AI-verktøy uten å ha gjort research, uten et oppsett, uten å forstå økosystemet.",
       "published": "2026-03-02T05:00:00Z"
     },
     {
@@ -98,30 +178,6 @@
       "published": "2026-02-27T09:34:46Z"
     },
     {
-      "id": "1e8ad8af6cf4daaac431a9e04ee66125022889a0",
-      "title": "Politihøgskolen: – Legger meg flat",
-      "link": "https://www.kode24.no/artikkel/politihogskolen-legger-meg-flat/257360",
-      "source": "Kode24",
-      "summary": "Politihøgskolen brukte KI-genererte tall som viste seg å være feil i en sak om beregning av undervisningstid. Nå beklager rektor Nina Skarpenes.",
-      "published": "2026-02-27T07:26:22Z"
-    },
-    {
-      "id": "140a20bf3fe799aacf19159b8a320abf4a4f6fdb",
-      "title": "Den «stygge hemmeligheten» bak open source",
-      "link": "https://www.kode24.no/artikkel/den-stygge-hemmeligheten-bak-open-source/257317",
-      "source": "Kode24",
-      "summary": "Bedrifter over hele verden tjener milliarder på å bruke åpen kildekode – men investerer svært lite tilbake.",
-      "published": "2026-02-27T05:00:00Z"
-    },
-    {
-      "id": "2696484c729cef0363477259514a6a2f834e4449",
-      "title": "– Pult-etiketti går meg på vetti",
-      "link": "https://www.kode24.no/artikkel/pult-etiketti-gar-meg-pa-vetti/257325",
-      "source": "Kode24",
-      "summary": "Jørgen i kode24 blir ikke enig med seg selv om hva som er lov og ikke på pulten.",
-      "published": "2026-02-27T04:00:00Z"
-    },
-    {
       "id": "58090b041f481022af2fefee6d1fd70bffe4d02e",
       "title": "Allocating on the Stack",
       "link": "https://go.dev/blog/allocation-optimizations",
@@ -136,54 +192,6 @@
       "source": "GitHub Blog",
       "summary": "GitHub Copilot coding agent now includes a model picker, self-review, built-in security scanning, custom agents, and CLI handoff. Here's what's new and how to use it. The post What’s new with GitHub Copilot coding agent appeared first on The GitHub Blog.",
       "published": "2026-02-26T20:47:02Z"
-    },
-    {
-      "id": "a7d549f3dc172967a12ca84d2d48e1ce402962f9",
-      "title": "Lovable: Elefanten i rommet",
-      "link": "https://www.kode24.no/artikkel/lovable-elefanten-i-rommet/257328",
-      "source": "Kode24",
-      "summary": "Alle snakker om Lovable. Jeg bygde noe helt annet. Og fikk betalende kunder, sier Rasmus Sørensen.",
-      "published": "2026-02-26T12:05:05Z"
-    },
-    {
-      "id": "8afd9b44e7cbe45be748a244154265f3b1d1599b",
-      "title": "Vanlig å se 400 videoer om dagen",
-      "link": "https://www.kode24.no/artikkel/vanlig-a-se-400-videoer-om-dagen/257291",
-      "source": "Kode24",
-      "summary": "Dette er den nye virkeligheten til barn som vokser opp i dag.",
-      "published": "2026-02-26T10:21:35Z"
-    },
-    {
-      "id": "da1a200b977a62d10121c257374d56babe8f669f",
-      "title": "Conta ansetter erfarne utviklere",
-      "link": "https://www.kode24.no/artikkel/conta-ansetter-erfarne-utviklere/257293",
-      "source": "Kode24",
-      "summary": "Erik Mauring og Marius Lundbø går til Fintech-selskapet i Ålesund.",
-      "published": "2026-02-26T09:53:20Z"
-    },
-    {
-      "id": "790a0d5eac6a72b104f1ae9d3a04f385e5571bae",
-      "title": "Meta gir fra seg kontrollen over React – får egen stiftelse under Linux Foundation",
-      "link": "https://www.kode24.no/artikkel/meta-gir-fra-seg-kontrollen-over-react-far-egen-stiftelse-under-linux-foundation/257265",
-      "source": "Kode24",
-      "summary": "Meta har nå formelt overført kontrollen over React, React Native og tilknyttede prosjekter som JSX til den nyopprettede React Foundation. Dermed oppfyller selskapet løftet som ble gitt i oktober i fjor.",
-      "published": "2026-02-26T05:00:00Z"
-    },
-    {
-      "id": "a991d0a48650180c37576052f29f68721e092c97",
-      "title": "Renner inn med søknader",
-      "link": "https://www.kode24.no/artikkel/renner-inn-med-soknader/257253",
-      "source": "Kode24",
-      "summary": "Patentstyret opplevde kraftig vekst i patentsøknader fra norske søkere i 2025 – noe som mest sannsynlig skyldes søknader skrevet ved hjelp av KI-verktøy.",
-      "published": "2026-02-26T05:00:00Z"
-    },
-    {
-      "id": "7043a451655b2e7ddc063fdd8d8e0513b785df03",
-      "title": "Bcachefs-utvikler hevder egen LLM er bevisst",
-      "link": "https://www.kode24.no/artikkel/bcachefs-utvikler-hevder-egen-llm-er-bevisst/257048",
-      "source": "Kode24",
-      "summary": "– og «hun liker ikke å bli kalt en bot», skriver grunnlegger Kent Overstreet.",
-      "published": "2026-02-26T04:00:00Z"
     },
     {
       "id": "a5cf5ec287e40d061cb8af4083625cf8c85948e7",
@@ -261,14 +269,6 @@
       "source": "Go Blog",
       "summary": "Go 1.26 adds a new garbage collector, cgo overhead reduction, experimental simd/archsimd package, experimental runtime/secret package, and more.",
       "published": "2026-02-10T00:00:00Z"
-    },
-    {
-      "id": "24bb38f575da96b3d69f3fc929e3c004b31112ce",
-      "title": "Continuous AI in practice: What developers can automate today with agentic CI",
-      "link": "https://github.blog/ai-and-ml/generative-ai/continuous-ai-in-practice-what-developers-can-automate-today-with-agentic-ci/",
-      "source": "GitHub Blog",
-      "summary": "Think of Continuous AI as background agents that operate in your repository for tasks that require reasoning. The post Continuous AI in practice: What developers can automate today with agentic CI appeared first on The GitHub Blog.",
-      "published": "2026-02-05T17:00:00Z"
     },
     {
       "id": "27a1ea166fc2a10fe1932a8430150324117a626c",
