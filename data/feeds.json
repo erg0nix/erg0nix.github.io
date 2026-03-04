@@ -1,6 +1,87 @@
 {
-  "generated_at": "2026-03-03T06:57:59.122753Z",
+  "generated_at": "2026-03-04T06:54:46.104620Z",
   "items": [
+    {
+      "id": "10dee544c59ceeba15dc9ab1c7ccaff8478a0d59",
+      "title": "Mac mini-boom",
+      "link": "https://www.kode24.no/artikkel/mac-mini-boom/257709",
+      "source": "Kode24",
+      "summary": "Salget av Mac mini skyter i været. Alle skal teste OpenClaw og ingen vil laste ned på egen maskin.",
+      "published": "2026-03-04T05:00:00Z"
+    },
+    {
+      "id": "33f9eeaca1822597a58738001b36ad4d55c1fa1d",
+      "title": "How we rebuilt the search architecture for high availability in GitHub Enterprise Server",
+      "link": "https://github.blog/engineering/architecture-optimization/how-we-rebuilt-the-search-architecture-for-high-availability-in-github-enterprise-server/",
+      "source": "GitHub Blog",
+      "summary": "Here's how we the search experience better, faster, and more resilient for GHES customers. The post How we rebuilt the search architecture for high availability in GitHub Enterprise Server appeared first on The GitHub Blog.",
+      "published": "2026-03-03T18:45:09Z",
+      "image": "https://github.blog/wp-content/uploads/2026/03/CCR.png?resize=1280%2C720"
+    },
+    {
+      "id": "936e72f091247729de61bc7e4f6f251042d1cbd7",
+      "title": "Join or host a GitHub Copilot Dev Days event near you",
+      "link": "https://github.blog/ai-and-ml/github-copilot/join-or-host-a-github-copilot-dev-days-event-near-you/",
+      "source": "GitHub Blog",
+      "summary": "GitHub Copilot Dev Days is a global series of hands-on, in-person, community-led events designed to help developers explore real-world, AI-assisted coding. The post Join or host a GitHub Copilot Dev Days event near you appeared first on The GitHub Blog.",
+      "published": "2026-03-03T16:55:00Z"
+    },
+    {
+      "id": "9b612a4d799ada24178fa2a6a46bdfd7809e652c",
+      "title": "Varsler mulig datalekkasje",
+      "link": "https://www.kode24.no/artikkel/varsler-mulig-datalekkasje-1/257721",
+      "source": "Kode24",
+      "summary": "Den kulturelle skolesekken ser ut til å ha fått stjålet data, som har lekket på dark web.",
+      "published": "2026-03-03T13:34:58Z"
+    },
+    {
+      "id": "53038d5402dc300e0bdfad62b0b051b7219a72f3",
+      "title": "KI-utviklingen skaper nye sikkerhetsutfordringer",
+      "link": "https://www.kode24.no/artikkel/ki-utviklingen-skaper-nye-sikkerhetsutfordringer/257703",
+      "source": "Kode24",
+      "summary": "KI-utviklingen fører til økt behov for å skjerme kritisk infrastruktur, opplyser Kartverket.",
+      "published": "2026-03-03T12:17:42Z"
+    },
+    {
+      "id": "41849297a5b30415e4d60289a65cde3321392ab2",
+      "title": "Ble frustrert – lagde løsning",
+      "link": "https://www.kode24.no/artikkel/ble-frustrert-lagde-losning/257678",
+      "source": "Kode24",
+      "summary": "Han har laget en markedsplass for småjobber. – Hver gang jeg trengte hjelp med noe, enten det var flytting eller maling endte jeg opp med å lete gjennom Facebook-grupper:",
+      "published": "2026-03-03T10:29:22Z"
+    },
+    {
+      "id": "21d63cfd8910fbda8671052dfa6a313f67762993",
+      "title": "Spår oppkjøp av Tailwind",
+      "link": "https://www.kode24.no/artikkel/spar-oppkjop-av-tailwind/257687",
+      "source": "Kode24",
+      "summary": "Youtuber Fireship spekulerer i at Vercel vil kjøpe prosjektet.",
+      "published": "2026-03-03T10:19:06Z"
+    },
+    {
+      "id": "d239e94a64544ed1bcf3dec05eab8d5789d1b7a6",
+      "title": "Google utvikler ny modell for kvantesikker HTTPS i Chrome",
+      "link": "https://www.kode24.no/artikkel/google-utvikler-ny-modell-for-kvantesikker-https-i-chrome/257668",
+      "source": "Kode24",
+      "summary": "Skal bruke en såkalt Merkle-trestruktur, for å redusere båndbredde.",
+      "published": "2026-03-03T08:51:19Z"
+    },
+    {
+      "id": "53fb8e1773e78a662e2b2f9d50dfc6121ced0e38",
+      "title": "AWS bekrefter droneangrep",
+      "link": "https://www.kode24.no/artikkel/aws-bekrefter-droneangrep/257653",
+      "source": "Kode24",
+      "summary": "Ødela datasentre i De forente arabiske emirater.",
+      "published": "2026-03-03T08:17:43Z"
+    },
+    {
+      "id": "82b150b9dfc100c4e7397825dff8ed1d40a75ea9",
+      "title": "Hacket ved et uhell",
+      "link": "https://www.kode24.no/artikkel/hacket-ved-et-uhell/257643",
+      "source": "Kode24",
+      "summary": "Franskmann sier han hacket 7000 robotstøvsugere ved uhell.",
+      "published": "2026-03-03T07:47:32Z"
+    },
     {
       "id": "5997111f600e09d328b9b4f90ed05e551a422432",
       "title": "Motorola inngår samarbeid med GrapheneOS – får mobil med personvernfokus",
@@ -106,76 +187,12 @@
       "published": "2026-03-01T09:06:10Z"
     },
     {
-      "id": "42cd55e4692b4a6e5b1dc7001f43ea560de7490c",
-      "title": "Ondsinnet Go-modul stjeler passord",
-      "link": "https://www.kode24.no/artikkel/ondsinnet-go-modul-stjeler-passord/257477",
-      "source": "Kode24",
-      "summary": "Deretter installerer den Linux-bakdøren Rekoobe, ifølge sikkerhetsforskere.",
-      "published": "2026-03-01T08:56:37Z"
-    },
-    {
-      "id": "c6a6d9247ba008a7578a29e24a8013cff14a8c0e",
-      "title": "Meta saksøker annonsører i Brasil, Kina og Vietnam for kjendissvindel",
-      "link": "https://www.kode24.no/artikkel/meta-saksoker-annonsorer-i-brasil-kina-og-vietnam-for-kjendissvindel/257415",
-      "source": "Kode24",
-      "summary": "Sakene retter seg særlig mot såkalte «celeb-bait»-svindler.",
-      "published": "2026-02-28T05:00:00Z"
-    },
-    {
-      "id": "239a0c28a0d013fee71a75a70055d4057880aff8",
-      "title": "Microsoft advarer utviklere",
-      "link": "https://www.kode24.no/artikkel/microsoft-advarer-utviklere/257425",
-      "source": "Kode24",
-      "summary": "Falske Next.js-prosjekter med hackerprogramvare retter seg mot utviklere som søker jobb.",
-      "published": "2026-02-28T04:00:00Z"
-    },
-    {
       "id": "4d83a08938a44bf3cb7111399e9e1dfe2439e6ca",
       "title": "From idea to pull request: A practical guide to building with GitHub Copilot CLI",
       "link": "https://github.blog/ai-and-ml/github-copilot/from-idea-to-pull-request-a-practical-guide-to-building-with-github-copilot-cli/",
       "source": "GitHub Blog",
       "summary": "A hands-on guide to using GitHub Copilot CLI to move from intent to reviewable changes, and how that work flows naturally into your IDE and GitHub. The post From idea to pull request: A practical guide to building with GitHub Copilot CLI appeared first on The GitHub Blog.",
       "published": "2026-02-27T16:00:00Z"
-    },
-    {
-      "id": "937c148036da8257b96b3097fa2ed8faa023cc60",
-      "title": "Den neste storhetstida for utviklere er der fremme i horisonten!",
-      "link": "https://www.kode24.no/artikkel/den-neste-storhetstida-for-utviklere-er-der-fremme-i-horisonten/257452",
-      "source": "Kode24",
-      "summary": "– Om vi ser tilbake i historien på alle gangene hvor kosten for noe har gått dramatisk ned, har etterspørselen gått opp, sier Simen W. Olsen, CEO i Sokkel",
-      "published": "2026-02-27T12:45:38Z"
-    },
-    {
-      "id": "6479b53f81254e8a8b240eec7a0f34a15779293e",
-      "title": "Morten Smebye går til People Made Machines",
-      "link": "https://www.kode24.no/artikkel/morten-smebye-gar-til-people-made-machines/257441",
-      "source": "Kode24",
-      "summary": "Skal bli senior AI-engineer.",
-      "published": "2026-02-27T12:13:19Z"
-    },
-    {
-      "id": "500bbc018c082b437f4e71f26c9c26efc759cd29",
-      "title": "Kjent utvikler ble hacket etter phishing-angrep: – Flaut å innrømme",
-      "link": "https://www.kode24.no/artikkel/kjent-utvikler-ble-hacket-etter-phishing-angrep-flaut-a-innromme/257403",
-      "source": "Kode24",
-      "summary": "Den profilerte utvikleren Christian Heilmann har mistet tilgang til X-kontoen sin etter å ha gått rett i en phishing-felle.",
-      "published": "2026-02-27T11:23:21Z"
-    },
-    {
-      "id": "fe202d05fab38fb7a481d835b52559b81a8759ac",
-      "title": "Skal overvåke medarbeidernes høflighet med KI",
-      "link": "https://www.kode24.no/artikkel/skal-overvake-medarbeidernes-hoflighet-med-ki/257389",
-      "source": "Kode24",
-      "summary": "Burger King implementerer KI-botten «Patty» i hodetelefonene til ansatte. De skal kontrollere om ansatte sier «vær så snill» og «takk».",
-      "published": "2026-02-27T11:07:08Z"
-    },
-    {
-      "id": "d34f55bfb7128106ca2fa886748ada052910adf7",
-      "title": "Ny norsk KI-sky",
-      "link": "https://www.kode24.no/artikkel/ny-norsk-ki-sky/257376",
-      "source": "Kode24",
-      "summary": "– Vil gi norske virksomheter et reelt alternativ for lagring på norsk jord.",
-      "published": "2026-02-27T09:34:46Z"
     },
     {
       "id": "58090b041f481022af2fefee6d1fd70bffe4d02e",
@@ -245,22 +262,6 @@
       "summary": "Discover GitHub Agentic Workflows, now in technical preview. Build automations using coding agents in GitHub Actions to handle triage, documentation, code quality, and more. The post Automate repository tasks with GitHub Agentic Workflows appeared first on The GitHub Blog.",
       "published": "2026-02-13T14:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2026/02/Quotes_Option1.jpg"
-    },
-    {
-      "id": "e3f9dbd3023c1ba94a84f2f4bce6fd476b0ce520",
-      "title": "Welcome to the Eternal September of open source. Here’s what we plan to do for maintainers.",
-      "link": "https://github.blog/open-source/maintainers/welcome-to-the-eternal-september-of-open-source-heres-what-we-plan-to-do-for-maintainers/",
-      "source": "GitHub Blog",
-      "summary": "Open source is hitting an “Eternal September.” As contribution friction drops, maintainers are adapting with new trust signals, triage approaches, and community-led solutions. The post Welcome to the Eternal September of open source. Here’s what we plan to do for maintainers. appeared first on The...",
-      "published": "2026-02-12T20:14:11Z"
-    },
-    {
-      "id": "4261a2e01753510a458c4cac37582bffaf64e87e",
-      "title": "GitHub availability report: January 2026",
-      "link": "https://github.blog/news-insights/company-news/github-availability-report-january-2026/",
-      "source": "GitHub Blog",
-      "summary": "In January, we experienced two incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: January 2026 appeared first on The GitHub Blog.",
-      "published": "2026-02-11T23:12:34Z"
     },
     {
       "id": "31eec40bc1c05267cc88f467ee25f91e7c3db6d7",
