@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-03-04T06:54:46.104620Z",
+  "generated_at": "2026-03-05T06:58:38.333793Z",
   "items": [
+    {
+      "id": "63eba4185734417e3d5a722c9602db5823860bb6",
+      "title": "OpenClaw går forbi Linux og React på GitHub",
+      "link": "https://www.kode24.no/artikkel/openclaw-gar-forbi-linux-og-react-pa-github/257833",
+      "source": "Kode24",
+      "summary": "– men eksperter advarer om sikkerhetsrisiko.",
+      "published": "2026-03-05T04:00:00Z"
+    },
+    {
+      "id": "40955959e0086a21d0b089ce01e878fe4a32e91d",
+      "title": "– En positiv historie om KI",
+      "link": "https://www.kode24.no/artikkel/en-positiv-historie-om-ki/257820",
+      "source": "Kode24",
+      "summary": "Filmen «My AI Election» har Norgespremiere på Humanfestivalen. – På en måte er dette en positiv historie om KI, sier regissøren.",
+      "published": "2026-03-05T04:00:00Z"
+    },
+    {
+      "id": "748a569f36eb7a232e13489255b5d0e49010bdec",
+      "title": "Facebook var nede",
+      "link": "https://www.kode24.no/artikkel/facebook-var-nede/257796",
+      "source": "Kode24",
+      "summary": "Meta var nede i omtrent tre timer natt til onsdag. Noe som påvirket både private og kommersielle aktører på tjenester som Facebook, Instagram og WhatsApp.",
+      "published": "2026-03-04T09:25:24Z"
+    },
+    {
+      "id": "d4fec05d1f5b6659219da36b98ae470defd31ae5",
+      "title": "Kent C. Dodds ble kvitt dependabots-mas med KI",
+      "link": "https://www.kode24.no/artikkel/kent-c-dodds-ble-kvitt-dependabots-mas-med-ki/257775",
+      "source": "Kode24",
+      "summary": "Cloudflare skrev om Next.js på ei uke med KI, Kent C. Dodds ble kvitt dependabots mas, og sprites i CSS.",
+      "published": "2026-03-04T08:42:46Z"
+    },
+    {
+      "id": "f24e22077e51be67f3b1d9396fbf58a223f5788a",
+      "title": "OpenAI lanserer GPT-5.3 Instant",
+      "link": "https://www.kode24.no/artikkel/openai-lanserer-gpt-53-instant/257765",
+      "source": "Kode24",
+      "summary": "lover færre «moralprekener» og mer naturlige svar.",
+      "published": "2026-03-04T08:02:06Z"
+    },
+    {
+      "id": "d91f3845aa4bf680070fb30009b13085324ed6bc",
+      "title": "83 % av virksomheter stoler på open source for sine mest sensitive systemer",
+      "link": "https://www.kode24.no/artikkel/83-av-virksomheter-stoler-pa-open-source-for-sine-mest-sensitive-systemer/257754",
+      "source": "Kode24",
+      "summary": "Flere virksomheter enn noen gang bruker åpen kildekode til å håndtere kritiske sikkerhetssystemer som identitets- og tilgangsstyring (IAM).",
+      "published": "2026-03-04T07:33:56Z"
+    },
     {
       "id": "10dee544c59ceeba15dc9ab1c7ccaff8478a0d59",
       "title": "Mac mini-boom",
@@ -137,54 +185,6 @@
       "source": "Kode24",
       "summary": "Legos nye «smartbrikke» er lansert – en liten, sensorbasert 2x4 svart kloss med en stor hjerne – utviklet hos selskapets Creative Play Lab.",
       "published": "2026-03-02T09:09:06Z"
-    },
-    {
-      "id": "da5e77d8fe9deed98d9e11cd7372d75e8fa9b0dd",
-      "title": "Trump beordrer føderale etater til å fase ut Anthropic etter AI-konflikt",
-      "link": "https://www.kode24.no/artikkel/trump-beordrer-foderale-etater-til-a-fase-ut-anthropic-etter-ai-konflikt/257548",
-      "source": "Kode24",
-      "summary": "I et innlegg på Truth Social beskrev Trump Anthropic som et «radikalt venstreorientert, woke selskap» og sa at alle statlige organer må stanse bruken av selskapets programvare «umiddelbart».",
-      "published": "2026-03-02T08:22:17Z"
-    },
-    {
-      "id": "1879ef75dde8c96959948d5a215b42f8bcada190",
-      "title": "«Cancel ChatGPT»-kampanje får fart etter Twitter/X-melding fra Sam Altman",
-      "link": "https://www.kode24.no/artikkel/cancel-chatgpt-kampanje-far-fart-etter-twitter/x-melding-fra-sam-altman/257539",
-      "source": "Kode24",
-      "summary": "Sam Altman bekrefter at Open AI samarbeider med \"Department of War\".",
-      "published": "2026-03-02T08:15:09Z"
-    },
-    {
-      "id": "7ac07a569cb18a8c4b1a01f67c15e24299cc8b5c",
-      "title": "Google lanserer Split View i Chrome – lar deg vise to nettsider side om side",
-      "link": "https://www.kode24.no/artikkel/google-lanserer-split-view-i-chrome-lar-deg-vise-to-nettsider-side-om-side/257525",
-      "source": "Kode24",
-      "summary": "Funksjonen ble rullet ut i februar 2026 og er tilgjengelig fra Chrome versjon 145 og nyere på desktop.",
-      "published": "2026-03-02T07:53:28Z"
-    },
-    {
-      "id": "cc06e49d7158f0d49971c741686e3e7b6a37a0d2",
-      "title": "India blokkerer utviklerplattformen Supabase uten offentlig forklaring",
-      "link": "https://www.kode24.no/artikkel/india-blokkerer-utviklerplattformen-supabase-uten-offentlig-forklaring/257497",
-      "source": "Kode24",
-      "summary": "Beslutningen ble ifølge TechCrunch fattet 24. februar under paragraf 69A i landets IT-lovgivning, som gir regjeringen myndighet til å begrense tilgang til nettinnhold.",
-      "published": "2026-03-02T05:00:00Z"
-    },
-    {
-      "id": "5991fb0e4ec8a47f6006cf5d3792b78e19b6be68",
-      "title": "Du har ikke lært deg AI — du har bare brukt den",
-      "link": "https://www.kode24.no/artikkel/du-har-ikke-laert-deg-ai-du-har-bare-brukt-den/257508",
-      "source": "Kode24",
-      "summary": "– Erfarne utviklere, folk med rykte som blytunge eksperter, setter seg ned med et AI-verktøy uten å ha gjort research, uten et oppsett, uten å forstå økosystemet.",
-      "published": "2026-03-02T05:00:00Z"
-    },
-    {
-      "id": "b04019d1cb3a9449b13e2c54c87020562f80c3ff",
-      "title": "Microsoft-topper advarer: KI kan svekke fremtidens utviklere",
-      "link": "https://www.kode24.no/artikkel/microsoft-topper-advarer-ki-kan-svekke-fremtidens-utviklere/257485",
-      "source": "Kode24",
-      "summary": "To av Microsofts mest profilerte teknologiledere advarer nå om at kunstig intelligens kan endre programvareyrket på en måte som truer rekrutteringen av neste generasjon utviklere.",
-      "published": "2026-03-01T09:06:10Z"
     },
     {
       "id": "4d83a08938a44bf3cb7111399e9e1dfe2439e6ca",
