@@ -1,6 +1,55 @@
 {
-  "generated_at": "2026-03-06T06:56:09.819650Z",
+  "generated_at": "2026-03-07T06:48:49.292290Z",
   "items": [
+    {
+      "id": "707398b4285d8b96734fdfde43ef1ec0512db965",
+      "title": "Sam Altman lurer på om man kan lage nasjonal KI",
+      "link": "https://www.kode24.no/artikkel/sam-altman-lurer-pa-om-man-kan-lage-nasjonal-ki/258035",
+      "source": "Kode24",
+      "summary": "En noe snodig samtale utspant seg på X med lederen av en av de største KI-selskapene.",
+      "published": "2026-03-07T06:00:00Z"
+    },
+    {
+      "id": "52554caae66b1971ff321f17134b723f18bca71c",
+      "title": "Stunt i Oslo: – Folk må stille spørsmål",
+      "link": "https://www.kode24.no/artikkel/stunt-i-oslo-folk-ma-stille-sporsmal/258013",
+      "source": "Kode24",
+      "summary": "– Målet vårt er at folk begynner å stille spørsmål, søker alternativer, og tar tilbake internett, sier sier Haakon Rølmann i Vivaldi Technologies AS.",
+      "published": "2026-03-07T05:00:00Z"
+    },
+    {
+      "id": "0d3cf4125f8889e9a569bda85b06a4b81ce7d0de",
+      "title": "How to scan for vulnerabilities with GitHub Security Lab’s open source AI-powered framework",
+      "link": "https://github.blog/security/how-to-scan-for-vulnerabilities-with-github-security-labs-open-source-ai-powered-framework/",
+      "source": "GitHub Blog",
+      "summary": "GitHub Security Lab Taskflow Agent is very effective at finding Auth Bypasses, IDORs, Token Leaks, and other high-impact vulnerabilities. The post How to scan for vulnerabilities with GitHub Security Lab’s open source AI-powered framework appeared first on The GitHub Blog.",
+      "published": "2026-03-06T21:09:04Z",
+      "image": "https://github.blog/wp-content/uploads/2026/03/ai-high-level-overview5.excalidraw.png?resize=1024%2C779"
+    },
+    {
+      "id": "b88aba8990931a0f0f3c3f3612789f773dde032c",
+      "title": "Hun er blant Norges fremste tech kvinner",
+      "link": "https://www.kode24.no/artikkel/hun-er-blant-norges-fremste-tech-kvinner/258000",
+      "source": "Kode24",
+      "summary": "Ane Sandvik i Microsoft Norge er kåret til en av Norges 50 fremste tech kvinner.",
+      "published": "2026-03-06T10:20:22Z"
+    },
+    {
+      "id": "238f2b7fab7615e45fc2894e32fc5f0c22b42d5f",
+      "title": "Dette er Norges 50 beste tech-kvinner 2026",
+      "link": "https://www.kode24.no/artikkel/dette-er-norges-50-beste-tech-kvinner-2026/257894",
+      "source": "Kode24",
+      "summary": "Årets beste teknologikvinner kåres for tiende gang. – Viktigere enn noen gang med mangfold, mener Abelia-sjef, som er ansvarlig for kåringen.",
+      "published": "2026-03-06T08:00:00Z"
+    },
+    {
+      "id": "4ca397a58f25c352bd838d0c7d6b15bd7e2ca285",
+      "title": "Internett fortsatt nesten helt nede i Iran",
+      "link": "https://www.kode24.no/artikkel/internett-fortsatt-nesten-helt-nede-i-iran/257974",
+      "source": "Kode24",
+      "summary": "Torsdag er internettdekningen i Iran fortsatt helt nede på rundt 1 prosent av det normale, ifølge overvåkingsorganisasjonen Netblocks.",
+      "published": "2026-03-06T07:54:56Z"
+    },
     {
       "id": "97d0f9e35ac0bbc788d8283a712c231ee84c251f",
       "title": "Lar AI-agenter styre Kubernetes i produksjon",
@@ -156,46 +205,6 @@
       "published": "2026-03-03T12:17:42Z"
     },
     {
-      "id": "41849297a5b30415e4d60289a65cde3321392ab2",
-      "title": "Ble frustrert – lagde løsning",
-      "link": "https://www.kode24.no/artikkel/ble-frustrert-lagde-losning/257678",
-      "source": "Kode24",
-      "summary": "Han har laget en markedsplass for småjobber. – Hver gang jeg trengte hjelp med noe, enten det var flytting eller maling endte jeg opp med å lete gjennom Facebook-grupper:",
-      "published": "2026-03-03T10:29:22Z"
-    },
-    {
-      "id": "21d63cfd8910fbda8671052dfa6a313f67762993",
-      "title": "Spår oppkjøp av Tailwind",
-      "link": "https://www.kode24.no/artikkel/spar-oppkjop-av-tailwind/257687",
-      "source": "Kode24",
-      "summary": "Youtuber Fireship spekulerer i at Vercel vil kjøpe prosjektet.",
-      "published": "2026-03-03T10:19:06Z"
-    },
-    {
-      "id": "d239e94a64544ed1bcf3dec05eab8d5789d1b7a6",
-      "title": "Google utvikler ny modell for kvantesikker HTTPS i Chrome",
-      "link": "https://www.kode24.no/artikkel/google-utvikler-ny-modell-for-kvantesikker-https-i-chrome/257668",
-      "source": "Kode24",
-      "summary": "Skal bruke en såkalt Merkle-trestruktur, for å redusere båndbredde.",
-      "published": "2026-03-03T08:51:19Z"
-    },
-    {
-      "id": "53fb8e1773e78a662e2b2f9d50dfc6121ced0e38",
-      "title": "AWS bekrefter droneangrep",
-      "link": "https://www.kode24.no/artikkel/aws-bekrefter-droneangrep/257653",
-      "source": "Kode24",
-      "summary": "Ødela datasentre i De forente arabiske emirater.",
-      "published": "2026-03-03T08:17:43Z"
-    },
-    {
-      "id": "82b150b9dfc100c4e7397825dff8ed1d40a75ea9",
-      "title": "Hacket ved et uhell",
-      "link": "https://www.kode24.no/artikkel/hacket-ved-et-uhell/257643",
-      "source": "Kode24",
-      "summary": "Franskmann sier han hacket 7000 robotstøvsugere ved uhell.",
-      "published": "2026-03-03T07:47:32Z"
-    },
-    {
       "id": "bb24950f59e52d7bd3093dccfa35606012ec6c98",
       "title": "GitHub for Beginners: Getting started with GitHub Issues and Projects",
       "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-issues-and-projects/",
@@ -243,15 +252,6 @@
       "summary": "AI is rewiring developer preferences through convenience loops. Octoverse 2025 reveals how AI compatibility is becoming the new standard for technology choice. The post How AI is reshaping developer choice (and Octoverse data proves it) appeared first on The GitHub Blog.",
       "published": "2026-02-19T17:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2025/10/octoverse-2025-top-programming-languages.png?resize=1024%2C576"
-    },
-    {
-      "id": "76e30ecee00ab4335c0780a4eadb8e6bfa30c212",
-      "title": "What to expect for open source in 2026",
-      "link": "https://github.blog/open-source/maintainers/what-to-expect-for-open-source-in-2026/",
-      "source": "GitHub Blog",
-      "summary": "Let’s dig into the 2025’s open source data on GitHub to see what we can learn about the future. The post What to expect for open source in 2026 appeared first on The GitHub Blog.",
-      "published": "2026-02-18T18:41:42Z",
-      "image": "https://github.blog/wp-content/uploads/2025/10/octoverse-2025-fastest-growing-open-source-projects-by-contributors.png?resize=1440%2C810"
     },
     {
       "id": "da0de1cb530d005fcd81b7886c89d308ce375756",
