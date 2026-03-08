@@ -1,6 +1,14 @@
 {
-  "generated_at": "2026-03-07T06:48:49.292290Z",
+  "generated_at": "2026-03-08T06:50:34.484416Z",
   "items": [
+    {
+      "id": "6e42e859aff46734125e4a5062b1185048abb52e",
+      "title": "Open VSX passerer 300 millioner månedlige nedlastinger",
+      "link": "https://www.kode24.no/artikkel/open-vsx-passerer-300-millioner-manedlige-nedlastinger/257952",
+      "source": "Kode24",
+      "summary": "Milepælen viser hvor viktig registeret har blitt for utviklerverktøy basert på Visual Studio Code-økosystemet.",
+      "published": "2026-03-08T05:00:00Z"
+    },
     {
       "id": "707398b4285d8b96734fdfde43ef1ec0512db965",
       "title": "Sam Altman lurer på om man kan lage nasjonal KI",
@@ -195,14 +203,6 @@
       "source": "Kode24",
       "summary": "Den kulturelle skolesekken ser ut til å ha fått stjålet data, som har lekket på dark web.",
       "published": "2026-03-03T13:34:58Z"
-    },
-    {
-      "id": "53038d5402dc300e0bdfad62b0b051b7219a72f3",
-      "title": "KI-utviklingen skaper nye sikkerhetsutfordringer",
-      "link": "https://www.kode24.no/artikkel/ki-utviklingen-skaper-nye-sikkerhetsutfordringer/257703",
-      "source": "Kode24",
-      "summary": "KI-utviklingen fører til økt behov for å skjerme kritisk infrastruktur, opplyser Kartverket.",
-      "published": "2026-03-03T12:17:42Z"
     },
     {
       "id": "bb24950f59e52d7bd3093dccfa35606012ec6c98",
