@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-03-08T06:50:34.484416Z",
+  "generated_at": "2026-03-09T07:07:34.384763Z",
   "items": [
+    {
+      "id": "5fc77c867726005bab7686f99f6e008c06e3f870",
+      "title": "Ønsker du fart og flyt? Da må vi snakke samme språk først",
+      "link": "https://www.kode24.no/artikkel/onsker-du-fart-og-flyt-da-ma-vi-snakke-samme-sprak-forst/257984",
+      "source": "Kode24",
+      "summary": "Marielle Mortensdatter mener man må snakke samme språk på arbeidsplassen: – Når hele teamet bruker de samme ordene for de samme tingene, forsvinner ganske mange misforståelser.",
+      "published": "2026-03-09T05:00:00Z"
+    },
+    {
+      "id": "4d9f6889a123a7d7c08e49c1949f21af9159f6df",
+      "title": "Inviterer alle til sikkerhets-meetup",
+      "link": "https://www.kode24.no/artikkel/inviterer-alle-til-sikkerhets-meetup/258033",
+      "source": "Kode24",
+      "summary": "Vil gi innsikt i hvordan de jobber med sikkerhet. – Vi opplever daglig angrep mot datasystemer, en utfordring som bare fortsetter å øke.",
+      "published": "2026-03-09T05:00:00Z"
+    },
     {
       "id": "6e42e859aff46734125e4a5062b1185048abb52e",
       "title": "Open VSX passerer 300 millioner månedlige nedlastinger",
@@ -172,14 +188,6 @@
       "published": "2026-03-04T07:33:56Z"
     },
     {
-      "id": "10dee544c59ceeba15dc9ab1c7ccaff8478a0d59",
-      "title": "Mac mini-boom",
-      "link": "https://www.kode24.no/artikkel/mac-mini-boom/257709",
-      "source": "Kode24",
-      "summary": "Salget av Mac mini skyter i været. Alle skal teste OpenClaw og ingen vil laste ned på egen maskin.",
-      "published": "2026-03-04T05:00:00Z"
-    },
-    {
       "id": "33f9eeaca1822597a58738001b36ad4d55c1fa1d",
       "title": "How we rebuilt the search architecture for high availability in GitHub Enterprise Server",
       "link": "https://github.blog/engineering/architecture-optimization/how-we-rebuilt-the-search-architecture-for-high-availability-in-github-enterprise-server/",
@@ -195,14 +203,6 @@
       "source": "GitHub Blog",
       "summary": "GitHub Copilot Dev Days is a global series of hands-on, in-person, community-led events designed to help developers explore real-world, AI-assisted coding. The post Join or host a GitHub Copilot Dev Days event near you appeared first on The GitHub Blog.",
       "published": "2026-03-03T16:55:00Z"
-    },
-    {
-      "id": "9b612a4d799ada24178fa2a6a46bdfd7809e652c",
-      "title": "Varsler mulig datalekkasje",
-      "link": "https://www.kode24.no/artikkel/varsler-mulig-datalekkasje-1/257721",
-      "source": "Kode24",
-      "summary": "Den kulturelle skolesekken ser ut til å ha fått stjålet data, som har lekket på dark web.",
-      "published": "2026-03-03T13:34:58Z"
     },
     {
       "id": "bb24950f59e52d7bd3093dccfa35606012ec6c98",
