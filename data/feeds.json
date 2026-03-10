@@ -1,13 +1,62 @@
 {
-  "generated_at": "2026-03-09T07:07:34.384763Z",
+  "generated_at": "2026-03-10T06:56:21.431800Z",
   "items": [
     {
-      "id": "5fc77c867726005bab7686f99f6e008c06e3f870",
-      "title": "Ønsker du fart og flyt? Da må vi snakke samme språk først",
-      "link": "https://www.kode24.no/artikkel/onsker-du-fart-og-flyt-da-ma-vi-snakke-samme-sprak-forst/257984",
+      "id": "5ccd40f8fb6c25b14a2014fadf89b705bfd99f28",
+      "title": "Hva om huset ditt kunne snakke tilbake til deg?",
+      "link": "https://www.kode24.no/artikkel/hva-om-huset-ditt-kunne-snakke-tilbake-til-deg/258122",
       "source": "Kode24",
-      "summary": "Marielle Mortensdatter mener man må snakke samme språk på arbeidsplassen: – Når hele teamet bruker de samme ordene for de samme tingene, forsvinner ganske mange misforståelser.",
-      "published": "2026-03-09T05:00:00Z"
+      "summary": "Magnus Rødseth har mange prosjekter på gang. Ute hos Gjensidig utvikler han «Hei Huset!» – en AI-løsning for huseiere.",
+      "published": "2026-03-10T05:00:00Z"
+    },
+    {
+      "id": "54ed6272c0b1e0e3145cb5fecc59f1f9c42e8289",
+      "title": "Venstrehendte er bedre i konkurranser",
+      "link": "https://www.kode24.no/artikkel/venstrehendte-er-bedre-i-konkurranser/258150",
+      "source": "Kode24",
+      "summary": "Venstrehendte har en fordel i konkurranse, mens høyrehendte har en tendens til å være bedre til å samarbeide. Det viser ny forskning.",
+      "published": "2026-03-10T05:00:00Z"
+    },
+    {
+      "id": "12010c07729d59b6c067724bb1c319accbced337",
+      "title": "Under the hood: Security architecture of GitHub Agentic Workflows",
+      "link": "https://github.blog/ai-and-ml/generative-ai/under-the-hood-security-architecture-of-github-agentic-workflows/",
+      "source": "GitHub Blog",
+      "summary": "GitHub Agentic Workflows are built with isolation, constrained outputs, and comprehensive logging. Learn how our threat model and security architecture help teams run agents safely in GitHub Actions. The post Under the hood: Security architecture of GitHub Agentic Workflows appeared first on The...",
+      "published": "2026-03-09T16:00:00Z",
+      "image": "https://github.blog/wp-content/uploads/2026/03/image1.jpg?resize=1024%2C949"
+    },
+    {
+      "id": "8e977a2fb3807c06eb2381a0ef83bf0bf665b05f",
+      "title": "Nicolai Tangen åpner NM i KI neste uke: – Fantastisk initiativ!",
+      "link": "https://www.kode24.no/artikkel/nicolai-tangen-apner-nm-i-ki-neste-uke-fantastisk-initiativ/258087",
+      "source": "Kode24",
+      "summary": "En uke før norgesmesterskapet i KI har arrangørene nådd målet om 1000 deltakere. Nå håper de på enda flere kvinner. Og lokker med Oljefondet-sjefen.",
+      "published": "2026-03-09T13:28:13Z"
+    },
+    {
+      "id": "158c3a908005ee6d83c3c530bb1fd28ae1991c3d",
+      "title": "BankID-appen med nye krav: Du må bekrefte identiteten din",
+      "link": "https://www.kode24.no/artikkel/bankid-appen-med-nye-krav-du-ma-bekrefte-identiteten-din/258158",
+      "source": "Kode24",
+      "summary": "EU-krav gjør at du må finne fram passet ditt og skanne ansiktet ditt med BankID-appen.",
+      "published": "2026-03-09T11:58:16Z"
+    },
+    {
+      "id": "a1afebd28dbe0754decf5f2c1b151029d121dc44",
+      "title": "– KI er et stort problem for likestilling",
+      "link": "https://www.kode24.no/artikkel/ki-er-et-stort-problem-for-likestilling/258092",
+      "source": "Kode24",
+      "summary": "Mye av dataen kunstig intelligens er trent på er direkte diskriminerende, påpeker utvikler Elise Kristiansen. – Det er strukturell automatisering av gamle kjønnsroller, skriver hun.",
+      "published": "2026-03-09T09:35:16Z"
+    },
+    {
+      "id": "1e18508a5efc688c10b0686a8cb8c622f8fbc37a",
+      "title": "Menn under 30 vil helst forhandle lønna selv",
+      "link": "https://www.kode24.no/artikkel/menn-under-30-vil-helst-forhandle-lonna-selv/258071",
+      "source": "Kode24",
+      "summary": "Unge norske menn har større aksept for lønnsforskjeller og vil helst forhandle lønna selv, ifølge en ny undersøkelse.",
+      "published": "2026-03-09T08:08:07Z"
     },
     {
       "id": "4d9f6889a123a7d7c08e49c1949f21af9159f6df",
@@ -15,6 +64,14 @@
       "link": "https://www.kode24.no/artikkel/inviterer-alle-til-sikkerhets-meetup/258033",
       "source": "Kode24",
       "summary": "Vil gi innsikt i hvordan de jobber med sikkerhet. – Vi opplever daglig angrep mot datasystemer, en utfordring som bare fortsetter å øke.",
+      "published": "2026-03-09T05:00:00Z"
+    },
+    {
+      "id": "5fc77c867726005bab7686f99f6e008c06e3f870",
+      "title": "Ønsker du fart og flyt? Da må vi snakke samme språk først",
+      "link": "https://www.kode24.no/artikkel/onsker-du-fart-og-flyt-da-ma-vi-snakke-samme-sprak-forst/257984",
+      "source": "Kode24",
+      "summary": "Marielle Mortensdatter mener man må snakke samme språk på arbeidsplassen: – Når hele teamet bruker de samme ordene for de samme tingene, forsvinner ganske mange misforståelser.",
       "published": "2026-03-09T05:00:00Z"
     },
     {
@@ -140,54 +197,6 @@
       "published": "2026-03-05T07:31:01Z"
     },
     {
-      "id": "40955959e0086a21d0b089ce01e878fe4a32e91d",
-      "title": "– En positiv historie om KI",
-      "link": "https://www.kode24.no/artikkel/en-positiv-historie-om-ki/257820",
-      "source": "Kode24",
-      "summary": "Filmen «My AI Election» har Norgespremiere på Humanfestivalen. – På en måte er dette en positiv historie om KI, sier regissøren.",
-      "published": "2026-03-05T04:00:00Z"
-    },
-    {
-      "id": "63eba4185734417e3d5a722c9602db5823860bb6",
-      "title": "OpenClaw går forbi Linux og React på GitHub",
-      "link": "https://www.kode24.no/artikkel/openclaw-gar-forbi-linux-og-react-pa-github/257833",
-      "source": "Kode24",
-      "summary": "– men eksperter advarer om sikkerhetsrisiko.",
-      "published": "2026-03-05T04:00:00Z"
-    },
-    {
-      "id": "748a569f36eb7a232e13489255b5d0e49010bdec",
-      "title": "Facebook var nede",
-      "link": "https://www.kode24.no/artikkel/facebook-var-nede/257796",
-      "source": "Kode24",
-      "summary": "Meta var nede i omtrent tre timer natt til onsdag. Noe som påvirket både private og kommersielle aktører på tjenester som Facebook, Instagram og WhatsApp.",
-      "published": "2026-03-04T09:25:24Z"
-    },
-    {
-      "id": "d4fec05d1f5b6659219da36b98ae470defd31ae5",
-      "title": "Kent C. Dodds ble kvitt dependabots-mas med KI",
-      "link": "https://www.kode24.no/artikkel/kent-c-dodds-ble-kvitt-dependabots-mas-med-ki/257775",
-      "source": "Kode24",
-      "summary": "Cloudflare skrev om Next.js på ei uke med KI, Kent C. Dodds ble kvitt dependabots mas, og sprites i CSS.",
-      "published": "2026-03-04T08:42:46Z"
-    },
-    {
-      "id": "f24e22077e51be67f3b1d9396fbf58a223f5788a",
-      "title": "OpenAI lanserer GPT-5.3 Instant",
-      "link": "https://www.kode24.no/artikkel/openai-lanserer-gpt-53-instant/257765",
-      "source": "Kode24",
-      "summary": "lover færre «moralprekener» og mer naturlige svar.",
-      "published": "2026-03-04T08:02:06Z"
-    },
-    {
-      "id": "d91f3845aa4bf680070fb30009b13085324ed6bc",
-      "title": "83 % av virksomheter stoler på open source for sine mest sensitive systemer",
-      "link": "https://www.kode24.no/artikkel/83-av-virksomheter-stoler-pa-open-source-for-sine-mest-sensitive-systemer/257754",
-      "source": "Kode24",
-      "summary": "Flere virksomheter enn noen gang bruker åpen kildekode til å håndtere kritiske sikkerhetssystemer som identitets- og tilgangsstyring (IAM).",
-      "published": "2026-03-04T07:33:56Z"
-    },
-    {
       "id": "33f9eeaca1822597a58738001b36ad4d55c1fa1d",
       "title": "How we rebuilt the search architecture for high availability in GitHub Enterprise Server",
       "link": "https://github.blog/engineering/architecture-optimization/how-we-rebuilt-the-search-architecture-for-high-availability-in-github-enterprise-server/",
@@ -243,15 +252,6 @@
       "source": "GitHub Blog",
       "summary": "Most multi-agent workflow failures come down to missing structure, not model capability. Learn the three engineering patterns that make agent systems reliable. The post Multi-agent workflows often fail. Here’s how to engineer ones that don’t. appeared first on The GitHub Blog.",
       "published": "2026-02-24T16:00:00Z"
-    },
-    {
-      "id": "89a3c2e919e7ac7a991431b856c0a3143c89d887",
-      "title": "How AI is reshaping developer choice (and Octoverse data proves it)",
-      "link": "https://github.blog/ai-and-ml/generative-ai/how-ai-is-reshaping-developer-choice-and-octoverse-data-proves-it/",
-      "source": "GitHub Blog",
-      "summary": "AI is rewiring developer preferences through convenience loops. Octoverse 2025 reveals how AI compatibility is becoming the new standard for technology choice. The post How AI is reshaping developer choice (and Octoverse data proves it) appeared first on The GitHub Blog.",
-      "published": "2026-02-19T17:00:00Z",
-      "image": "https://github.blog/wp-content/uploads/2025/10/octoverse-2025-top-programming-languages.png?resize=1024%2C576"
     },
     {
       "id": "da0de1cb530d005fcd81b7886c89d308ce375756",
