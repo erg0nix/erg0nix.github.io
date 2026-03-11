@@ -1,12 +1,92 @@
 {
-  "generated_at": "2026-03-10T06:56:21.431800Z",
+  "generated_at": "2026-03-11T06:59:48.499490Z",
   "items": [
+    {
+      "id": "c4bb03c689b684ac56b92f104f3ba2bec48a5872",
+      "title": "Mange nye features i JavaScript",
+      "link": "https://www.kode24.no/artikkel/mange-nye-features-i-javascript/258258",
+      "source": "Kode24",
+      "summary": "Forrige uke løftet MDN Web Docs frem flere nye features i både JavaScript og CSS, forteller Evind Dovland i BEKK.",
+      "published": "2026-03-11T05:00:00Z"
+    },
+    {
+      "id": "2c266a540706cf605db577c71e34145e205c9153",
+      "title": "OpenClaw-hypen vekker liv i Tomas' Raspberry Pi",
+      "link": "https://www.kode24.no/artikkel/openclaw-hypen-vekker-liv-i-tomas-raspberry-pi/258141",
+      "source": "Kode24",
+      "summary": "Lenge lå Raspberry Pi-en til Tomas Hensrud Gulla ubrukt i en skuff. Men med OpenClaw-hypen fikk han plutselig bruk for den.",
+      "published": "2026-03-11T05:00:00Z"
+    },
+    {
+      "id": "a475df7260ed5134b04fc1560530040b91f83d06",
+      "title": "The era of “AI as text” is over. Execution is the new interface.",
+      "link": "https://github.blog/ai-and-ml/github-copilot/the-era-of-ai-as-text-is-over-execution-is-the-new-interface/",
+      "source": "GitHub Blog",
+      "summary": "AI is shifting from prompt-response interactions to programmable execution. See how the GitHub Copilot SDK enables agentic workflows directly inside your applications. The post The era of “AI as text” is over. Execution is the new interface. appeared first on The GitHub Blog.",
+      "published": "2026-03-10T20:16:01Z"
+    },
+    {
+      "id": "3f2b309c73f4fef897de9fbf3c0e43080c80b721",
+      "title": "Tidens billigste Macbook slippes",
+      "link": "https://www.kode24.no/artikkel/tidens-billigste-macbook-slippes/258242",
+      "source": "Kode24",
+      "summary": "Macbook Neo slippes i morgen! Er den en god investering eller bare en oppgradert iPad? Noen mener den minner om laptopen fra 90-tallet.",
+      "published": "2026-03-10T11:18:55Z"
+    },
+    {
+      "id": "ab249598916ecf281079176a7588a65d6a7a1dad",
+      "title": "Utviklingsfeil gav tilgang til norsk droneregister",
+      "link": "https://www.kode24.no/artikkel/utviklingsfeil-gav-tilgang-til-norsk-droneregister/258290",
+      "source": "Kode24",
+      "summary": "Feilen gav tilgang til navn og informasjon om piloter. Luftfartstilsynet vet ikke om sårbarheten har blitt utnyttet.",
+      "published": "2026-03-10T11:03:12Z"
+    },
+    {
+      "id": "106e1a4e86311d95851a8d43ac01f1f58faa5dfe",
+      "title": "Anthropic stevner Trump-administrasjonen for utestengelse",
+      "link": "https://www.kode24.no/artikkel/anthropic-stevner-trump-administrasjonen-for-utestengelse/258261",
+      "source": "Kode24",
+      "summary": "Trump-administrasjonen vil bruke KI-teknologi til masseovervåking og autonome våpensystemer. Nå går saken til retten.",
+      "published": "2026-03-10T10:11:36Z"
+    },
+    {
+      "id": "df2f6addf1e7c022d734dae229ab0c1c49b3fd61",
+      "title": "Menn bruker KI som sparringspartner - kvinner til oversetting",
+      "link": "https://www.kode24.no/artikkel/menn-bruker-ki-som-sparringspartner-kvinner-til-oversetting/258234",
+      "source": "Kode24",
+      "summary": "Studenters kjønn gir ulik bruk av KI. Men kanskje ikke på studier der koding er en del av faget, vedgår Direktoratet for høyere utdanning og kompetanse.",
+      "published": "2026-03-10T09:46:07Z"
+    },
+    {
+      "id": "879aa763ab628a94bfc8fd0042ff9e11b4ba1236",
+      "title": "Cursor lanserer KI-agenter som alltid følger med",
+      "link": "https://www.kode24.no/artikkel/cursor-lanserer-ki-agenter-som-alltid-folger-med/258224",
+      "source": "Kode24",
+      "summary": "Skal kunne gjøre utvikleroppgaver automatisk, ifølge utviklerne selv.",
+      "published": "2026-03-10T09:04:47Z"
+    },
+    {
+      "id": "2543724c567e434338406f99ae0af64478dc12a7",
+      "title": "TikTok sponser The Gathering",
+      "link": "https://www.kode24.no/artikkel/tiktok-sponser-the-gathering/258206",
+      "source": "Kode24",
+      "summary": "– Tilbakemeldingene har vært svært gode, forteller presseansvarlig Simon Eriksen Valvik",
+      "published": "2026-03-10T08:30:26Z"
+    },
+    {
+      "id": "143ce95a7e9d798be354e40c6f0625029a6dd8d7",
+      "title": "Kronprinsen besøkte Elcare Nordic",
+      "link": "https://www.kode24.no/artikkel/kronprinsen-besokte-elcare-nordic/258192",
+      "source": "Kode24",
+      "summary": "Mandag var Kronprins Haakon på besøk hos Elcare Nordic som reparer 750 elektronikkprodukter hver eneste dag. Her fikk han en omvisning og møtte ansatte.",
+      "published": "2026-03-10T08:07:35Z"
+    },
     {
       "id": "5ccd40f8fb6c25b14a2014fadf89b705bfd99f28",
       "title": "Hva om huset ditt kunne snakke tilbake til deg?",
       "link": "https://www.kode24.no/artikkel/hva-om-huset-ditt-kunne-snakke-tilbake-til-deg/258122",
       "source": "Kode24",
-      "summary": "Magnus Rødseth har mange prosjekter på gang. Ute hos Gjensidig utvikler han «Hei Huset!» – en AI-løsning for huseiere.",
+      "summary": "Magnus Rødseth har mange prosjekter på gang. Hos Gjensidige utvikler han «Hei Huset!» – en AI-løsning for huseiere.",
       "published": "2026-03-10T05:00:00Z"
     },
     {
@@ -108,38 +188,6 @@
       "image": "https://github.blog/wp-content/uploads/2026/03/ai-high-level-overview5.excalidraw.png?resize=1024%2C779"
     },
     {
-      "id": "b88aba8990931a0f0f3c3f3612789f773dde032c",
-      "title": "Hun er blant Norges fremste tech kvinner",
-      "link": "https://www.kode24.no/artikkel/hun-er-blant-norges-fremste-tech-kvinner/258000",
-      "source": "Kode24",
-      "summary": "Ane Sandvik i Microsoft Norge er kåret til en av Norges 50 fremste tech kvinner.",
-      "published": "2026-03-06T10:20:22Z"
-    },
-    {
-      "id": "238f2b7fab7615e45fc2894e32fc5f0c22b42d5f",
-      "title": "Dette er Norges 50 beste tech-kvinner 2026",
-      "link": "https://www.kode24.no/artikkel/dette-er-norges-50-beste-tech-kvinner-2026/257894",
-      "source": "Kode24",
-      "summary": "Årets beste teknologikvinner kåres for tiende gang. – Viktigere enn noen gang med mangfold, mener Abelia-sjef, som er ansvarlig for kåringen.",
-      "published": "2026-03-06T08:00:00Z"
-    },
-    {
-      "id": "4ca397a58f25c352bd838d0c7d6b15bd7e2ca285",
-      "title": "Internett fortsatt nesten helt nede i Iran",
-      "link": "https://www.kode24.no/artikkel/internett-fortsatt-nesten-helt-nede-i-iran/257974",
-      "source": "Kode24",
-      "summary": "Torsdag er internettdekningen i Iran fortsatt helt nede på rundt 1 prosent av det normale, ifølge overvåkingsorganisasjonen Netblocks.",
-      "published": "2026-03-06T07:54:56Z"
-    },
-    {
-      "id": "97d0f9e35ac0bbc788d8283a712c231ee84c251f",
-      "title": "Lar AI-agenter styre Kubernetes i produksjon",
-      "link": "https://www.kode24.no/artikkel/lar-ai-agenter-styre-kubernetes-i-produksjon/257954",
-      "source": "Kode24",
-      "summary": "– Vi er flere som bruker systemet allerede, forteller Per Buer i Varnish Software.",
-      "published": "2026-03-06T05:00:00Z"
-    },
-    {
       "id": "10795aa75b7f975fc1812e815452471d23c56dee",
       "title": "60 million Copilot code reviews and counting",
       "link": "https://github.blog/ai-and-ml/github-copilot/60-million-copilot-code-reviews-and-counting/",
@@ -155,46 +203,6 @@
       "source": "GitHub Blog",
       "summary": "Developers connected to Andela share how they’re learning AI tools inside real production workflows. The post Scaling AI opportunity across the globe: Learnings from GitHub and Andela appeared first on The GitHub Blog.",
       "published": "2026-03-05T17:00:00Z"
-    },
-    {
-      "id": "cbfdc5cac22d54380c896486a9cf412663dbef72",
-      "title": "Europol: Markedsplass for stjålne data stengt ned i Amsterdam",
-      "link": "https://www.kode24.no/artikkel/europol-markedsplass-for-stjalne-data-stengt-ned-i-amsterdam/257929",
-      "source": "Kode24",
-      "summary": "Europol har stengt ned LeakBase, en av verdens største markedsplasser for stjålne data, og beslaglagt serveren i Amsterdam.",
-      "published": "2026-03-05T14:29:30Z"
-    },
-    {
-      "id": "2e13c910529443dfacab98d168649f9117a6d9bf",
-      "title": "Innfører mobilfri arbeidsplass",
-      "link": "https://www.kode24.no/artikkel/innforer-mobilfri-arbeidsplass/257886",
-      "source": "Kode24",
-      "summary": "Iskremvogner over hele landet blir mobilfrie i sommer. Licc tar grep og vil at ungdommen skal være med tilstede.",
-      "published": "2026-03-05T11:49:27Z"
-    },
-    {
-      "id": "3c8f553458d26f0cc972e15e3fde4cc166a3bf0d",
-      "title": "Vil redusere digital avhengighet",
-      "link": "https://www.kode24.no/artikkel/vil-redusere-digital-avhengighet/257874",
-      "source": "Kode24",
-      "summary": "Redpill Linpro lanserer ny tjeneste for virksomheter som vil redusere digital avhengighet og få mer kontroll over egne data og systemer.",
-      "published": "2026-03-05T10:19:34Z"
-    },
-    {
-      "id": "35e5ad8a114010ab5a8bca753020abd99f9df15e",
-      "title": "Nytt initiativ gir utviklere ett API for hundrevis av mobilnett",
-      "link": "https://www.kode24.no/artikkel/nytt-initiativ-gir-utviklere-ett-api-for-hundrevis-av-mobilnett/257860",
-      "source": "Kode24",
-      "summary": "Mobilbransjeorganisasjonen GSMA vil gjøre mobilnett langt enklere å bruke for utviklere.",
-      "published": "2026-03-05T07:53:27Z"
-    },
-    {
-      "id": "8a3dc724a5f75e1b3e58addfbfa9df317f7f426a",
-      "title": "Hvem tjener på dine konsentrasjonsvansker?",
-      "link": "https://www.kode24.no/artikkel/hvem-tjener-pa-dine-konsentrasjonsvansker/257847",
-      "source": "Kode24",
-      "summary": "– Oppmerksomhetsøkonomien er svært forstyrrende. Som student er dyp konsentrasjon en av de gjeveste ferdighetene man kan tilegne seg, skriver student Sindre Lund (20).",
-      "published": "2026-03-05T07:31:01Z"
     },
     {
       "id": "33f9eeaca1822597a58738001b36ad4d55c1fa1d",
@@ -244,14 +252,6 @@
       "source": "GitHub Blog",
       "summary": "GitHub Copilot coding agent now includes a model picker, self-review, built-in security scanning, custom agents, and CLI handoff. Here's what's new and how to use it. The post What’s new with GitHub Copilot coding agent appeared first on The GitHub Blog.",
       "published": "2026-02-26T20:47:02Z"
-    },
-    {
-      "id": "a5cf5ec287e40d061cb8af4083625cf8c85948e7",
-      "title": "Multi-agent workflows often fail. Here’s how to engineer ones that don’t.",
-      "link": "https://github.blog/ai-and-ml/generative-ai/multi-agent-workflows-often-fail-heres-how-to-engineer-ones-that-dont/",
-      "source": "GitHub Blog",
-      "summary": "Most multi-agent workflow failures come down to missing structure, not model capability. Learn the three engineering patterns that make agent systems reliable. The post Multi-agent workflows often fail. Here’s how to engineer ones that don’t. appeared first on The GitHub Blog.",
-      "published": "2026-02-24T16:00:00Z"
     },
     {
       "id": "da0de1cb530d005fcd81b7886c89d308ce375756",
