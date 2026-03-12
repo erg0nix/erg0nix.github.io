@@ -1,6 +1,102 @@
 {
-  "generated_at": "2026-03-11T06:59:48.499490Z",
+  "generated_at": "2026-03-12T07:01:39.306127Z",
   "items": [
+    {
+      "id": "7a6103b0d058c3d60f5c45bfd9fd62205a6f55c1",
+      "title": "kode24-dagen: Nå kan ikke-utviklere også kode",
+      "link": "https://www.kode24.no/artikkel/kode24-dagen-na-kan-ikke-utviklere-ogsa-kode/258430",
+      "source": "Kode24",
+      "summary": "Claude Code har endret manges hverdag. – Jeg bruker det hver dag og har fått både utviklere og ikke utviklere til å bruke det, sier Ulrik Rise som skal på kode24-dagen.",
+      "published": "2026-03-12T07:00:00Z"
+    },
+    {
+      "id": "fe06259ef02df396fb3c9021385a99e5584e528f",
+      "title": "Han utvikler programvaren til ambulansene",
+      "link": "https://www.kode24.no/artikkel/han-utvikler-programvaren-til-ambulansene/258317",
+      "source": "Kode24",
+      "summary": "Einar Ingebrigtsen er arkitekt og en av utviklerne bak programvaren som brukes i ambulanser og luftambulanser. – Her kan man ikke bare lage software som sitter i skyer.",
+      "published": "2026-03-12T04:01:00Z"
+    },
+    {
+      "id": "fbe8f2af0ff86b59a6d2c0cc7bab1bec0845dc77",
+      "title": "GitHub availability report: February 2026",
+      "link": "https://github.blog/news-insights/company-news/github-availability-report-february-2026/",
+      "source": "GitHub Blog",
+      "summary": "In February, we experienced six incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: February 2026 appeared first on The GitHub Blog.",
+      "published": "2026-03-12T03:23:54Z"
+    },
+    {
+      "id": "fc59f28847d2d427dd306cdfa555028805f644d2",
+      "title": "Addressing GitHub’s recent availability issues",
+      "link": "https://github.blog/news-insights/company-news/addressing-githubs-recent-availability-issues-2/",
+      "source": "GitHub Blog",
+      "summary": "GitHub recently experienced several availability incidents. We understand the impact these outages have on our customers and are sharing details on the stabilization work we’re prioritizing right now. The post Addressing GitHub’s recent availability issues appeared first on The GitHub Blog.",
+      "published": "2026-03-11T21:41:51Z"
+    },
+    {
+      "id": "bb390fde7a6dd094aff8c36af183bdad3e11d763",
+      "title": "Skatteetaten har problemer – får opp andres navn",
+      "link": "https://www.kode24.no/artikkel/skatteetaten-har-problemer-far-opp-andres-navn/258481",
+      "source": "Kode24",
+      "summary": "Skatteetaten bekrefter at de undersøker pågående problemer.",
+      "published": "2026-03-11T14:46:37Z"
+    },
+    {
+      "id": "1f36472e548c88a342a0dfd7d0380413d8598125",
+      "title": "Stor nedbemanning",
+      "link": "https://www.kode24.no/artikkel/stor-nedbemanning/258442",
+      "source": "Kode24",
+      "summary": "Vend reorganiserer, noe som fører til nedbemanning i avdelingen for teknologi og UX-funksjon. – Klar over at dette skaper usikkerhet.",
+      "published": "2026-03-11T13:13:25Z"
+    },
+    {
+      "id": "740a596c88eb43b232302515ec9623b8b50b9f3c",
+      "title": "Formalkrav foran kompetanse – det offentliges blindsone",
+      "link": "https://www.kode24.no/artikkel/formalkrav-foran-kompetanse-det-offentliges-blindsone/258403",
+      "source": "Kode24",
+      "summary": "– Det paradoksale er at det offentlige selv jevnlig fremhever verdien av mangfold, skriver Tom Erik Frydelund",
+      "published": "2026-03-11T11:05:32Z"
+    },
+    {
+      "id": "8692ac9249add48e93a4ef7961239fa7407b94b8",
+      "title": "Meta kjøper Moltbook",
+      "link": "https://www.kode24.no/artikkel/meta-kjoper-moltbook/257263",
+      "source": "Kode24",
+      "summary": "Meta fortsetter oppkjøpene innen kunstig intelligens og kunngjør nå at selskapet kjøper opp plattformen Moltbook – et sosialt nettverk laget spesielt for KI-agenter.",
+      "published": "2026-03-11T09:53:46Z"
+    },
+    {
+      "id": "de05b861273557ec590596f0e78c5b4af13ca472",
+      "title": "Skal skille menneskeskapte bøker fra KI-genererte",
+      "link": "https://www.kode24.no/artikkel/skal-skille-menneskeskapte-boker-fra-ki-genererte/258359",
+      "source": "Kode24",
+      "summary": "Forfatterforeningen i Storbritannia (SoA) innfører en ordning som skal gjøre at man kan identifisere bøker skrevet av mennesker.",
+      "published": "2026-03-11T09:53:00Z"
+    },
+    {
+      "id": "91fcbfffd2281bf4e1bc3a26aa86ea15990cbe4b",
+      "title": "Forskning: Fagforeninger kutter lønnsgapet mellom kjønnene",
+      "link": "https://www.kode24.no/artikkel/forskning-fagforeninger-kutter-lonnsgapet-mellom-kjonnene/258331",
+      "source": "Kode24",
+      "summary": "Kvinner får mer å rutte med når de er med i en fagforening, enn ikke, viser NTNU-studie.",
+      "published": "2026-03-11T09:17:19Z"
+    },
+    {
+      "id": "50bbfa4ac307f35327de056b1bd6ccdad8979604",
+      "title": "Nå kan det gå mot ny KI-lovgivning for å beskytte kunstnere",
+      "link": "https://www.kode24.no/artikkel/na-kan-det-ga-mot-ny-ki-lovgivning-for-a-beskytte-kunstnere/258349",
+      "source": "Kode24",
+      "summary": "Tirsdag tok EU-parlamentet tydelig standpunkt for kunstnere i møte med KI-selskaper.",
+      "published": "2026-03-11T09:14:19Z"
+    },
+    {
+      "id": "187a9afd9d9f9b7dc9fb5489816d18e63a64c1c6",
+      "title": "Barn og unge får være oppfinnere for en dag",
+      "link": "https://www.kode24.no/artikkel/barn-og-unge-far-vaere-oppfinnere-for-en-dag/258339",
+      "source": "Kode24",
+      "summary": "NITO og vitensentrene i Norge inviterer barn og unge til å delta på Barnas ingeniørdag 14. mars. Nå skal interessen for realfag og teknologi blant unge vekkes og styrke rekrutteringen i fremtiden.",
+      "published": "2026-03-11T09:07:32Z"
+    },
     {
       "id": "c4bb03c689b684ac56b92f104f3ba2bec48a5872",
       "title": "Mange nye features i JavaScript",
@@ -90,12 +186,13 @@
       "published": "2026-03-10T05:00:00Z"
     },
     {
-      "id": "54ed6272c0b1e0e3145cb5fecc59f1f9c42e8289",
-      "title": "Venstrehendte er bedre i konkurranser",
-      "link": "https://www.kode24.no/artikkel/venstrehendte-er-bedre-i-konkurranser/258150",
-      "source": "Kode24",
-      "summary": "Venstrehendte har en fordel i konkurranse, mens høyrehendte har en tendens til å være bedre til å samarbeide. Det viser ny forskning.",
-      "published": "2026-03-10T05:00:00Z"
+      "id": "8a2a9a67f325fa75bc77381476c3b987b43a57ea",
+      "title": "//go:fix inline and the source-level inliner",
+      "link": "https://go.dev/blog/inliner",
+      "source": "Go Blog",
+      "summary": "How Go 1.26's source-level inliner works, and how it can help you with self-service API migrations.",
+      "published": "2026-03-10T00:00:00Z",
+      "image": "https://go.dev/gopls/assets/inline-before.png"
     },
     {
       "id": "12010c07729d59b6c067724bb1c319accbced337",
@@ -105,78 +202,6 @@
       "summary": "GitHub Agentic Workflows are built with isolation, constrained outputs, and comprehensive logging. Learn how our threat model and security architecture help teams run agents safely in GitHub Actions. The post Under the hood: Security architecture of GitHub Agentic Workflows appeared first on The...",
       "published": "2026-03-09T16:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2026/03/image1.jpg?resize=1024%2C949"
-    },
-    {
-      "id": "8e977a2fb3807c06eb2381a0ef83bf0bf665b05f",
-      "title": "Nicolai Tangen åpner NM i KI neste uke: – Fantastisk initiativ!",
-      "link": "https://www.kode24.no/artikkel/nicolai-tangen-apner-nm-i-ki-neste-uke-fantastisk-initiativ/258087",
-      "source": "Kode24",
-      "summary": "En uke før norgesmesterskapet i KI har arrangørene nådd målet om 1000 deltakere. Nå håper de på enda flere kvinner. Og lokker med Oljefondet-sjefen.",
-      "published": "2026-03-09T13:28:13Z"
-    },
-    {
-      "id": "158c3a908005ee6d83c3c530bb1fd28ae1991c3d",
-      "title": "BankID-appen med nye krav: Du må bekrefte identiteten din",
-      "link": "https://www.kode24.no/artikkel/bankid-appen-med-nye-krav-du-ma-bekrefte-identiteten-din/258158",
-      "source": "Kode24",
-      "summary": "EU-krav gjør at du må finne fram passet ditt og skanne ansiktet ditt med BankID-appen.",
-      "published": "2026-03-09T11:58:16Z"
-    },
-    {
-      "id": "a1afebd28dbe0754decf5f2c1b151029d121dc44",
-      "title": "– KI er et stort problem for likestilling",
-      "link": "https://www.kode24.no/artikkel/ki-er-et-stort-problem-for-likestilling/258092",
-      "source": "Kode24",
-      "summary": "Mye av dataen kunstig intelligens er trent på er direkte diskriminerende, påpeker utvikler Elise Kristiansen. – Det er strukturell automatisering av gamle kjønnsroller, skriver hun.",
-      "published": "2026-03-09T09:35:16Z"
-    },
-    {
-      "id": "1e18508a5efc688c10b0686a8cb8c622f8fbc37a",
-      "title": "Menn under 30 vil helst forhandle lønna selv",
-      "link": "https://www.kode24.no/artikkel/menn-under-30-vil-helst-forhandle-lonna-selv/258071",
-      "source": "Kode24",
-      "summary": "Unge norske menn har større aksept for lønnsforskjeller og vil helst forhandle lønna selv, ifølge en ny undersøkelse.",
-      "published": "2026-03-09T08:08:07Z"
-    },
-    {
-      "id": "4d9f6889a123a7d7c08e49c1949f21af9159f6df",
-      "title": "Inviterer alle til sikkerhets-meetup",
-      "link": "https://www.kode24.no/artikkel/inviterer-alle-til-sikkerhets-meetup/258033",
-      "source": "Kode24",
-      "summary": "Vil gi innsikt i hvordan de jobber med sikkerhet. – Vi opplever daglig angrep mot datasystemer, en utfordring som bare fortsetter å øke.",
-      "published": "2026-03-09T05:00:00Z"
-    },
-    {
-      "id": "5fc77c867726005bab7686f99f6e008c06e3f870",
-      "title": "Ønsker du fart og flyt? Da må vi snakke samme språk først",
-      "link": "https://www.kode24.no/artikkel/onsker-du-fart-og-flyt-da-ma-vi-snakke-samme-sprak-forst/257984",
-      "source": "Kode24",
-      "summary": "Marielle Mortensdatter mener man må snakke samme språk på arbeidsplassen: – Når hele teamet bruker de samme ordene for de samme tingene, forsvinner ganske mange misforståelser.",
-      "published": "2026-03-09T05:00:00Z"
-    },
-    {
-      "id": "6e42e859aff46734125e4a5062b1185048abb52e",
-      "title": "Open VSX passerer 300 millioner månedlige nedlastinger",
-      "link": "https://www.kode24.no/artikkel/open-vsx-passerer-300-millioner-manedlige-nedlastinger/257952",
-      "source": "Kode24",
-      "summary": "Milepælen viser hvor viktig registeret har blitt for utviklerverktøy basert på Visual Studio Code-økosystemet.",
-      "published": "2026-03-08T05:00:00Z"
-    },
-    {
-      "id": "707398b4285d8b96734fdfde43ef1ec0512db965",
-      "title": "Sam Altman lurer på om man kan lage nasjonal KI",
-      "link": "https://www.kode24.no/artikkel/sam-altman-lurer-pa-om-man-kan-lage-nasjonal-ki/258035",
-      "source": "Kode24",
-      "summary": "En noe snodig samtale utspant seg på X med lederen av en av de største KI-selskapene.",
-      "published": "2026-03-07T06:00:00Z"
-    },
-    {
-      "id": "52554caae66b1971ff321f17134b723f18bca71c",
-      "title": "Stunt i Oslo: – Folk må stille spørsmål",
-      "link": "https://www.kode24.no/artikkel/stunt-i-oslo-folk-ma-stille-sporsmal/258013",
-      "source": "Kode24",
-      "summary": "– Målet vårt er at folk begynner å stille spørsmål, søker alternativer, og tar tilbake internett, sier sier Haakon Rølmann i Vivaldi Technologies AS.",
-      "published": "2026-03-07T05:00:00Z"
     },
     {
       "id": "0d3cf4125f8889e9a569bda85b06a4b81ce7d0de",
@@ -230,28 +255,12 @@
       "published": "2026-03-02T17:00:00Z"
     },
     {
-      "id": "4d83a08938a44bf3cb7111399e9e1dfe2439e6ca",
-      "title": "From idea to pull request: A practical guide to building with GitHub Copilot CLI",
-      "link": "https://github.blog/ai-and-ml/github-copilot/from-idea-to-pull-request-a-practical-guide-to-building-with-github-copilot-cli/",
-      "source": "GitHub Blog",
-      "summary": "A hands-on guide to using GitHub Copilot CLI to move from intent to reviewable changes, and how that work flows naturally into your IDE and GitHub. The post From idea to pull request: A practical guide to building with GitHub Copilot CLI appeared first on The GitHub Blog.",
-      "published": "2026-02-27T16:00:00Z"
-    },
-    {
       "id": "58090b041f481022af2fefee6d1fd70bffe4d02e",
       "title": "Allocating on the Stack",
       "link": "https://go.dev/blog/allocation-optimizations",
       "source": "Go Blog",
       "summary": "A description of some of the recent changes to do allocations on the stack instead of the heap.",
       "published": "2026-02-27T00:00:00Z"
-    },
-    {
-      "id": "3eb540cba64fb301863e4446a2ba63dff7466ab4",
-      "title": "What’s new with GitHub Copilot coding agent",
-      "link": "https://github.blog/ai-and-ml/github-copilot/whats-new-with-github-copilot-coding-agent/",
-      "source": "GitHub Blog",
-      "summary": "GitHub Copilot coding agent now includes a model picker, self-review, built-in security scanning, custom agents, and CLI handoff. Here's what's new and how to use it. The post What’s new with GitHub Copilot coding agent appeared first on The GitHub Blog.",
-      "published": "2026-02-26T20:47:02Z"
     },
     {
       "id": "da0de1cb530d005fcd81b7886c89d308ce375756",
@@ -321,14 +330,6 @@
       "summary": "Go 1.25 introduces experimental support for encoding/json/jsontext and encoding/json/v2 packages.",
       "published": "2025-09-09T00:00:00Z",
       "image": "https://go.dev/blog/jsonv2-exp/api.png"
-    },
-    {
-      "id": "6b8800a031bd9a738f21d97ce03a973790b851bb",
-      "title": "Testing Time (and other asynchronicities)",
-      "link": "https://go.dev/blog/testing-time",
-      "source": "Go Blog",
-      "summary": "A discussion of testing asynchronous code and an exploration of the `testing/synctest` package. Based on the GopherCon Europe 2025 talk with the same title.",
-      "published": "2025-08-26T00:00:00Z"
     }
   ]
 }
