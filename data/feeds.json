@@ -1,6 +1,47 @@
 {
-  "generated_at": "2026-03-12T07:01:39.306127Z",
+  "generated_at": "2026-03-13T07:00:16.060191Z",
   "items": [
+    {
+      "id": "b0099af9b49f7937bb8688233a966619559ec995",
+      "title": "Motedesignere protesterer mot KI på catwalken",
+      "link": "https://www.kode24.no/artikkel/motedesignere-protesterer-mot-ki-pa-catwalken/255679",
+      "source": "Kode24",
+      "summary": "Under vårens moteuker går designere bort fra KI-lignende perfeksjon. De vil heller framheve det upolerte, menneskelige avtrykket, ifølge trendrapport.",
+      "published": "2026-03-13T05:00:00Z"
+    },
+    {
+      "id": "7ddb60979d72674c269c4eca1f16b6c029662e7d",
+      "title": "Continuous AI for accessibility: How GitHub transforms feedback into inclusion",
+      "link": "https://github.blog/ai-and-ml/github-copilot/continuous-ai-for-accessibility-how-github-transforms-feedback-into-inclusion/",
+      "source": "GitHub Blog",
+      "summary": "AI automates triage for accessibility feedback, allowing us to focus on fixing barriers—turning a chaotic backlog into continuous, rapid resolutions. The post Continuous AI for accessibility: How GitHub transforms feedback into inclusion appeared first on The GitHub Blog.",
+      "published": "2026-03-12T16:00:00Z",
+      "image": "https://github.blog/wp-content/uploads/2026/03/Screenshot-2026-03-11-at-12.37.19-PM.png?resize=1395%2C244"
+    },
+    {
+      "id": "4d7d3d68f1899a37ea046c237fb3e43e21911d3f",
+      "title": "Computas henter fra Knowit og rett fra NTNU",
+      "link": "https://www.kode24.no/artikkel/computas-henter-fra-knowit-og-rett-fra-ntnu/258557",
+      "source": "Kode24",
+      "summary": "Seniorutvikler Klaus Safto skal styrke Trondheims-kontoret, mens Solveig Heitmann kommer fra studiet til Oslo-kontoret.",
+      "published": "2026-03-12T14:30:17Z"
+    },
+    {
+      "id": "59fb150e9e0de5922b25692cf853e772727f8510",
+      "title": "Pokémon Go-modell skal trene leveringsroboter",
+      "link": "https://www.kode24.no/artikkel/pokemon-go-modell-skal-trene-leveringsroboter/258504",
+      "source": "Kode24",
+      "summary": "Niantic Spatial inngår samarbeid med ingeniører i Coco Robotics for å ta autonome leveringsroboter til neste nivå.",
+      "published": "2026-03-12T11:58:10Z"
+    },
+    {
+      "id": "5be48f8d2b4521b132662709b1ee6a99b9239191",
+      "title": "Første gang på kode24-dagen: – Veldig bra",
+      "link": "https://www.kode24.no/artikkel/forste-gang-pa-kode24-dagen-veldig-bra/258518",
+      "source": "Kode24",
+      "summary": "Blant 240 deltakere på årets kode24-dag er to «ferskinger» i Comrod.",
+      "published": "2026-03-12T09:46:40Z"
+    },
     {
       "id": "7a6103b0d058c3d60f5c45bfd9fd62205a6f55c1",
       "title": "kode24-dagen: Nå kan ikke-utviklere også kode",
@@ -35,10 +76,10 @@
     },
     {
       "id": "bb390fde7a6dd094aff8c36af183bdad3e11d763",
-      "title": "Skatteetaten har problemer – får opp andres navn",
-      "link": "https://www.kode24.no/artikkel/skatteetaten-har-problemer-far-opp-andres-navn/258481",
+      "title": "Skatteetaten beklager problemer – fikk opp andres navn",
+      "link": "https://www.kode24.no/artikkel/skatteetaten-beklager-problemer-fikk-opp-andres-navn/258481",
       "source": "Kode24",
-      "summary": "Skatteetaten bekrefter at de undersøker pågående problemer.",
+      "summary": "Skatteetaten bekrefter at problemene er rettet.",
       "published": "2026-03-11T14:46:37Z"
     },
     {
@@ -154,38 +195,6 @@
       "published": "2026-03-10T09:46:07Z"
     },
     {
-      "id": "879aa763ab628a94bfc8fd0042ff9e11b4ba1236",
-      "title": "Cursor lanserer KI-agenter som alltid følger med",
-      "link": "https://www.kode24.no/artikkel/cursor-lanserer-ki-agenter-som-alltid-folger-med/258224",
-      "source": "Kode24",
-      "summary": "Skal kunne gjøre utvikleroppgaver automatisk, ifølge utviklerne selv.",
-      "published": "2026-03-10T09:04:47Z"
-    },
-    {
-      "id": "2543724c567e434338406f99ae0af64478dc12a7",
-      "title": "TikTok sponser The Gathering",
-      "link": "https://www.kode24.no/artikkel/tiktok-sponser-the-gathering/258206",
-      "source": "Kode24",
-      "summary": "– Tilbakemeldingene har vært svært gode, forteller presseansvarlig Simon Eriksen Valvik",
-      "published": "2026-03-10T08:30:26Z"
-    },
-    {
-      "id": "143ce95a7e9d798be354e40c6f0625029a6dd8d7",
-      "title": "Kronprinsen besøkte Elcare Nordic",
-      "link": "https://www.kode24.no/artikkel/kronprinsen-besokte-elcare-nordic/258192",
-      "source": "Kode24",
-      "summary": "Mandag var Kronprins Haakon på besøk hos Elcare Nordic som reparer 750 elektronikkprodukter hver eneste dag. Her fikk han en omvisning og møtte ansatte.",
-      "published": "2026-03-10T08:07:35Z"
-    },
-    {
-      "id": "5ccd40f8fb6c25b14a2014fadf89b705bfd99f28",
-      "title": "Hva om huset ditt kunne snakke tilbake til deg?",
-      "link": "https://www.kode24.no/artikkel/hva-om-huset-ditt-kunne-snakke-tilbake-til-deg/258122",
-      "source": "Kode24",
-      "summary": "Magnus Rødseth har mange prosjekter på gang. Hos Gjensidige utvikler han «Hei Huset!» – en AI-løsning for huseiere.",
-      "published": "2026-03-10T05:00:00Z"
-    },
-    {
       "id": "8a2a9a67f325fa75bc77381476c3b987b43a57ea",
       "title": "//go:fix inline and the source-level inliner",
       "link": "https://go.dev/blog/inliner",
@@ -245,14 +254,6 @@
       "source": "GitHub Blog",
       "summary": "GitHub Copilot Dev Days is a global series of hands-on, in-person, community-led events designed to help developers explore real-world, AI-assisted coding. The post Join or host a GitHub Copilot Dev Days event near you appeared first on The GitHub Blog.",
       "published": "2026-03-03T16:55:00Z"
-    },
-    {
-      "id": "bb24950f59e52d7bd3093dccfa35606012ec6c98",
-      "title": "GitHub for Beginners: Getting started with GitHub Issues and Projects",
-      "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-issues-and-projects/",
-      "source": "GitHub Blog",
-      "summary": "Learn how to get organized and collaborate more efficiently with this step-by-step tutorial. The post GitHub for Beginners: Getting started with GitHub Issues and Projects appeared first on The GitHub Blog.",
-      "published": "2026-03-02T17:00:00Z"
     },
     {
       "id": "58090b041f481022af2fefee6d1fd70bffe4d02e",
