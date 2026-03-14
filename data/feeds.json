@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-03-13T07:00:16.060191Z",
+  "generated_at": "2026-03-14T06:53:48.436448Z",
   "items": [
+    {
+      "id": "e52b741d8fa47ee965e4e70a63063fe60a089f1d",
+      "title": "Slik kan vi forsvare oss mot KI-«dommedag»",
+      "link": "https://www.kode24.no/artikkel/slik-kan-vi-forsvare-oss-mot-ki-dommedag/258642",
+      "source": "Kode24",
+      "summary": "Tankesmien Langsikt peker på tre scenarioer for autonome KI-katastrofer. Og måter å forebygge dem på. – Lite sannsynlig, mener forsker.",
+      "published": "2026-03-13T15:58:36Z"
+    },
+    {
+      "id": "94d6eaf04eefc135fffd4021ba644456bab603a9",
+      "title": "Regjeringen vil gi politiet mer tilgang til persondata",
+      "link": "https://www.kode24.no/artikkel/regjeringen-vil-gi-politiet-mer-tilgang-til-persondata/258628",
+      "source": "Kode24",
+      "summary": "Politiet skal få bruke ansiktsbilder og fingeravtrykk fra grensekontroller til å teste og utvikle informasjonssystemer, om regjeringen får viljen sin.",
+      "published": "2026-03-13T12:26:12Z"
+    },
+    {
+      "id": "1c40f6f6a56c1e8ebc0b8fcb46f207adc45bb6f9",
+      "title": "Google maps blir personlig",
+      "link": "https://www.kode24.no/artikkel/google-maps-blir-personlig/258586",
+      "source": "Kode24",
+      "summary": "Google Maps lanserer i dag en ny AI-drevet funksjon «Ask Maps» – som kommer med svært detaljerte og personlige svar. Funksjonen er allerede en snakkis på nett.",
+      "published": "2026-03-13T08:37:54Z"
+    },
+    {
+      "id": "536b692904ac0398ddb0f4a6fecc04555e746667",
+      "title": "Vipps med best omdømme i Norge – Tesla og Meta blant taperne",
+      "link": "https://www.kode24.no/artikkel/vipps-med-best-omdomme-i-norge-tesla-og-meta-blant-taperne/258575",
+      "source": "Kode24",
+      "summary": "Norgesgruppen og Tine faller på Apelands omdømmemåling. Matpriser og metanhemmere ligger bak, tror byrået. Vipps topper målingen for tredje år på rad.",
+      "published": "2026-03-13T07:14:53Z"
+    },
     {
       "id": "b0099af9b49f7937bb8688233a966619559ec995",
       "title": "Motedesignere protesterer mot KI på catwalken",
@@ -163,38 +195,6 @@
       "published": "2026-03-10T20:16:01Z"
     },
     {
-      "id": "3f2b309c73f4fef897de9fbf3c0e43080c80b721",
-      "title": "Tidens billigste Macbook slippes",
-      "link": "https://www.kode24.no/artikkel/tidens-billigste-macbook-slippes/258242",
-      "source": "Kode24",
-      "summary": "Macbook Neo slippes i morgen! Er den en god investering eller bare en oppgradert iPad? Noen mener den minner om laptopen fra 90-tallet.",
-      "published": "2026-03-10T11:18:55Z"
-    },
-    {
-      "id": "ab249598916ecf281079176a7588a65d6a7a1dad",
-      "title": "Utviklingsfeil gav tilgang til norsk droneregister",
-      "link": "https://www.kode24.no/artikkel/utviklingsfeil-gav-tilgang-til-norsk-droneregister/258290",
-      "source": "Kode24",
-      "summary": "Feilen gav tilgang til navn og informasjon om piloter. Luftfartstilsynet vet ikke om sårbarheten har blitt utnyttet.",
-      "published": "2026-03-10T11:03:12Z"
-    },
-    {
-      "id": "106e1a4e86311d95851a8d43ac01f1f58faa5dfe",
-      "title": "Anthropic stevner Trump-administrasjonen for utestengelse",
-      "link": "https://www.kode24.no/artikkel/anthropic-stevner-trump-administrasjonen-for-utestengelse/258261",
-      "source": "Kode24",
-      "summary": "Trump-administrasjonen vil bruke KI-teknologi til masseovervåking og autonome våpensystemer. Nå går saken til retten.",
-      "published": "2026-03-10T10:11:36Z"
-    },
-    {
-      "id": "df2f6addf1e7c022d734dae229ab0c1c49b3fd61",
-      "title": "Menn bruker KI som sparringspartner - kvinner til oversetting",
-      "link": "https://www.kode24.no/artikkel/menn-bruker-ki-som-sparringspartner-kvinner-til-oversetting/258234",
-      "source": "Kode24",
-      "summary": "Studenters kjønn gir ulik bruk av KI. Men kanskje ikke på studier der koding er en del av faget, vedgår Direktoratet for høyere utdanning og kompetanse.",
-      "published": "2026-03-10T09:46:07Z"
-    },
-    {
       "id": "8a2a9a67f325fa75bc77381476c3b987b43a57ea",
       "title": "//go:fix inline and the source-level inliner",
       "link": "https://go.dev/blog/inliner",
@@ -243,7 +243,7 @@
       "title": "How we rebuilt the search architecture for high availability in GitHub Enterprise Server",
       "link": "https://github.blog/engineering/architecture-optimization/how-we-rebuilt-the-search-architecture-for-high-availability-in-github-enterprise-server/",
       "source": "GitHub Blog",
-      "summary": "Here's how we the search experience better, faster, and more resilient for GHES customers. The post How we rebuilt the search architecture for high availability in GitHub Enterprise Server appeared first on The GitHub Blog.",
+      "summary": "Here's how we made the search experience better, faster, and more resilient for GHES customers. The post How we rebuilt the search architecture for high availability in GitHub Enterprise Server appeared first on The GitHub Blog.",
       "published": "2026-03-03T18:45:09Z",
       "image": "https://github.blog/wp-content/uploads/2026/03/CCR.png?resize=1280%2C720"
     },
