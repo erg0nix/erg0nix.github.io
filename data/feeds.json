@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-03-15T07:03:29.303082Z",
+  "generated_at": "2026-03-16T07:24:13.588085Z",
   "items": [
+    {
+      "id": "ef1ff82335b2a25b6833095a22939e08e4b5e552",
+      "title": "Reuters: Vurderer nedbemanninger",
+      "link": "https://www.kode24.no/artikkel/reuters-vurderer-nedbemanninger/258705",
+      "source": "Kode24",
+      "summary": "Teknologiselskapet Meta vurderer store nedbemanninger som kan ramme 20 prosent eller mer av arbeidsstyrken, opplyser tre kilder til Reuters.",
+      "published": "2026-03-16T06:57:12Z"
+    },
+    {
+      "id": "3600a00fa08dc8d57fd38cb183f056d13d9bec9f",
+      "title": "Kan KI-kjæledyr erstatte våre firbente venner?",
+      "link": "https://www.kode24.no/artikkel/kan-ki-kjaeledyr-erstatte-vare-firbente-venner/258605",
+      "source": "Kode24",
+      "summary": "For 25 år siden eide nesten ethvert barn en Furby og enhver husholdning prøvde å holde Tamagotchien i live. Er tek-kjæledyrene tilbake i form av KI og kan de erstatte et kjæledyr?",
+      "published": "2026-03-16T05:00:00Z"
+    },
     {
       "id": "e52b741d8fa47ee965e4e70a63063fe60a089f1d",
       "title": "Slik kan vi forsvare oss mot KI-«dommedag»",
@@ -169,22 +185,6 @@
       "source": "Kode24",
       "summary": "NITO og vitensentrene i Norge inviterer barn og unge til å delta på Barnas ingeniørdag 14. mars. Nå skal interessen for realfag og teknologi blant unge vekkes og styrke rekrutteringen i fremtiden.",
       "published": "2026-03-11T09:07:32Z"
-    },
-    {
-      "id": "c4bb03c689b684ac56b92f104f3ba2bec48a5872",
-      "title": "Mange nye features i JavaScript",
-      "link": "https://www.kode24.no/artikkel/mange-nye-features-i-javascript/258258",
-      "source": "Kode24",
-      "summary": "Forrige uke løftet MDN Web Docs frem flere nye features i både JavaScript og CSS, forteller Evind Dovland i BEKK.",
-      "published": "2026-03-11T05:00:00Z"
-    },
-    {
-      "id": "2c266a540706cf605db577c71e34145e205c9153",
-      "title": "OpenClaw-hypen vekker liv i Tomas' Raspberry Pi",
-      "link": "https://www.kode24.no/artikkel/openclaw-hypen-vekker-liv-i-tomas-raspberry-pi/258141",
-      "source": "Kode24",
-      "summary": "Lenge lå Raspberry Pi-en til Tomas Hensrud Gulla ubrukt i en skuff. Men med OpenClaw-hypen fikk han plutselig bruk for den.",
-      "published": "2026-03-11T05:00:00Z"
     },
     {
       "id": "a475df7260ed5134b04fc1560530040b91f83d06",
