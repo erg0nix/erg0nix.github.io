@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-03-16T07:24:13.588085Z",
+  "generated_at": "2026-03-17T07:10:00.400801Z",
   "items": [
+    {
+      "id": "3973f154295fda0d7eb772efc7f1e6ab8b9d6e9d",
+      "title": "Overveldet av KI-verktøy? Slik unngår du å bli KI-utmattet",
+      "link": "https://www.kode24.no/artikkel/overveldet-av-ki-verktoy-slik-unngar-du-a-bli-ki-utmattet/258731",
+      "source": "Kode24",
+      "summary": "Hvordan du bruker KI-verktøy kan avgjøre om du blir helt utslitt eller om du forebygger utbrenthet, viser ny studie.",
+      "published": "2026-03-17T05:00:00Z"
+    },
+    {
+      "id": "94bb716432fe67269940c71b352834ebbdd69ee4",
+      "title": "Nvidia utfordrer OpenClaw: – Positivt",
+      "link": "https://www.kode24.no/artikkel/nvidia-utfordrer-openclaw-positivt/258772",
+      "source": "Kode24",
+      "summary": "Teknologiselskapet Nvidia bygger angivelig en ny åpen kildekode‑plattform ved navn NemoClaw. Den lages for KI-agenter i bedrifter.",
+      "published": "2026-03-17T05:00:00Z"
+    },
+    {
+      "id": "60ec921f0667a64da0bb8b023ae2db28afe5e164",
+      "title": "GitHub for Beginners: Getting started with GitHub Actions",
+      "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-actions/",
+      "source": "GitHub Blog",
+      "summary": "Set up your first GitHub Actions workflow in this how-to guide. The post GitHub for Beginners: Getting started with GitHub Actions appeared first on The GitHub Blog.",
+      "published": "2026-03-16T16:00:00Z"
+    },
+    {
+      "id": "0dc2e3dc8f452739a22651e7b965fba30ee6668d",
+      "title": "Perplexity lanserer «Personal Computer»",
+      "link": "https://www.kode24.no/artikkel/perplexity-lanserer-personal-computer/258379",
+      "source": "Kode24",
+      "summary": "– en KI-agent som jobber døgnet rundt, skriver selskapet selv.",
+      "published": "2026-03-16T13:34:57Z"
+    },
+    {
+      "id": "4faaba3eb49d656fc9d26bd5e287318b442c4671",
+      "title": "NSM advarer Linux-brukere: Oppdater umiddelbart!",
+      "link": "https://www.kode24.no/artikkel/nsm-advarer-linux-brukere-oppdater-umiddelbart/258786",
+      "source": "Kode24",
+      "summary": "Nasjonal sikkerhetsmyndighet varsler om sårbarheter som lar trusselaktører endre policyer og lese vilkårlig data i minne.",
+      "published": "2026-03-16T12:51:47Z"
+    },
+    {
+      "id": "61340eff25b2a40110c792de20139dcb6d502dc5",
+      "title": "KI skal redde elefanter fra Indias jernbaner",
+      "link": "https://www.kode24.no/artikkel/ki-skal-redde-elefanter-fra-indias-jernbaner/258756",
+      "source": "Kode24",
+      "summary": "Nytt KI-system i India skal bekjempe elefantulykker på jernbanesporet.",
+      "published": "2026-03-16T09:44:07Z"
+    },
+    {
+      "id": "820040db136ea5545d40bb3689830834f97935d8",
+      "title": "Atlassian kutter 1 600 ansatte og endrer CTO-rollen",
+      "link": "https://www.kode24.no/artikkel/atlassian-kutter-1-600-ansatte-og-endrer-cto-rollen/258057",
+      "source": "Kode24",
+      "summary": "Programvareselskapet Atlassian varsler at rundt 1 600 ansatte mister jobben, tilsvarende omtrent 10 prosent av selskapets globale arbeidsstyrke.",
+      "published": "2026-03-16T09:01:05Z"
+    },
+    {
+      "id": "6db430ec3976a1e86749c93c807e1fce6b07ba0b",
+      "title": "TypeScript 6.0 RC lansert",
+      "link": "https://www.kode24.no/artikkel/typescript-60-rc-lansert/258381",
+      "source": "Kode24",
+      "summary": "Regnes som en av de viktigste siden språket ble lansert i 2014.",
+      "published": "2026-03-16T08:18:30Z"
+    },
+    {
+      "id": "ae913b108091c4a39a2375bb7b63a27ddbbf3682",
+      "title": "Advarer bedrifter mot å droppe nyutdannede",
+      "link": "https://www.kode24.no/artikkel/advarer-bedrifter-mot-a-droppe-nyutdannede/258607",
+      "source": "Kode24",
+      "summary": "– Stenger vi døra for de ferske utviklerne nå, risikerer vi å gå glipp av den mest KI-modne generasjonen noensinne, sier Ukas Koder, Helena Skants.",
+      "published": "2026-03-16T07:45:00Z"
+    },
     {
       "id": "ef1ff82335b2a25b6833095a22939e08e4b5e552",
       "title": "Reuters: Vurderer nedbemanninger",
@@ -123,70 +195,6 @@
       "published": "2026-03-11T21:41:51Z"
     },
     {
-      "id": "bb390fde7a6dd094aff8c36af183bdad3e11d763",
-      "title": "Skatteetaten beklager problemer – fikk opp andres navn",
-      "link": "https://www.kode24.no/artikkel/skatteetaten-beklager-problemer-fikk-opp-andres-navn/258481",
-      "source": "Kode24",
-      "summary": "Skatteetaten bekrefter at problemene er rettet.",
-      "published": "2026-03-11T14:46:37Z"
-    },
-    {
-      "id": "1f36472e548c88a342a0dfd7d0380413d8598125",
-      "title": "Stor nedbemanning",
-      "link": "https://www.kode24.no/artikkel/stor-nedbemanning/258442",
-      "source": "Kode24",
-      "summary": "Vend reorganiserer, noe som fører til nedbemanning i avdelingen for teknologi og UX-funksjon. – Klar over at dette skaper usikkerhet.",
-      "published": "2026-03-11T13:13:25Z"
-    },
-    {
-      "id": "740a596c88eb43b232302515ec9623b8b50b9f3c",
-      "title": "Formalkrav foran kompetanse – det offentliges blindsone",
-      "link": "https://www.kode24.no/artikkel/formalkrav-foran-kompetanse-det-offentliges-blindsone/258403",
-      "source": "Kode24",
-      "summary": "– Det paradoksale er at det offentlige selv jevnlig fremhever verdien av mangfold, skriver Tom Erik Frydelund",
-      "published": "2026-03-11T11:05:32Z"
-    },
-    {
-      "id": "8692ac9249add48e93a4ef7961239fa7407b94b8",
-      "title": "Meta kjøper Moltbook",
-      "link": "https://www.kode24.no/artikkel/meta-kjoper-moltbook/257263",
-      "source": "Kode24",
-      "summary": "Meta fortsetter oppkjøpene innen kunstig intelligens og kunngjør nå at selskapet kjøper opp plattformen Moltbook – et sosialt nettverk laget spesielt for KI-agenter.",
-      "published": "2026-03-11T09:53:46Z"
-    },
-    {
-      "id": "de05b861273557ec590596f0e78c5b4af13ca472",
-      "title": "Skal skille menneskeskapte bøker fra KI-genererte",
-      "link": "https://www.kode24.no/artikkel/skal-skille-menneskeskapte-boker-fra-ki-genererte/258359",
-      "source": "Kode24",
-      "summary": "Forfatterforeningen i Storbritannia (SoA) innfører en ordning som skal gjøre at man kan identifisere bøker skrevet av mennesker.",
-      "published": "2026-03-11T09:53:00Z"
-    },
-    {
-      "id": "91fcbfffd2281bf4e1bc3a26aa86ea15990cbe4b",
-      "title": "Forskning: Fagforeninger kutter lønnsgapet mellom kjønnene",
-      "link": "https://www.kode24.no/artikkel/forskning-fagforeninger-kutter-lonnsgapet-mellom-kjonnene/258331",
-      "source": "Kode24",
-      "summary": "Kvinner får mer å rutte med når de er med i en fagforening, enn ikke, viser NTNU-studie.",
-      "published": "2026-03-11T09:17:19Z"
-    },
-    {
-      "id": "50bbfa4ac307f35327de056b1bd6ccdad8979604",
-      "title": "Nå kan det gå mot ny KI-lovgivning for å beskytte kunstnere",
-      "link": "https://www.kode24.no/artikkel/na-kan-det-ga-mot-ny-ki-lovgivning-for-a-beskytte-kunstnere/258349",
-      "source": "Kode24",
-      "summary": "Tirsdag tok EU-parlamentet tydelig standpunkt for kunstnere i møte med KI-selskaper.",
-      "published": "2026-03-11T09:14:19Z"
-    },
-    {
-      "id": "187a9afd9d9f9b7dc9fb5489816d18e63a64c1c6",
-      "title": "Barn og unge får være oppfinnere for en dag",
-      "link": "https://www.kode24.no/artikkel/barn-og-unge-far-vaere-oppfinnere-for-en-dag/258339",
-      "source": "Kode24",
-      "summary": "NITO og vitensentrene i Norge inviterer barn og unge til å delta på Barnas ingeniørdag 14. mars. Nå skal interessen for realfag og teknologi blant unge vekkes og styrke rekrutteringen i fremtiden.",
-      "published": "2026-03-11T09:07:32Z"
-    },
-    {
       "id": "a475df7260ed5134b04fc1560530040b91f83d06",
       "title": "The era of “AI as text” is over. Execution is the new interface.",
       "link": "https://github.blog/ai-and-ml/github-copilot/the-era-of-ai-as-text-is-over-execution-is-the-new-interface/",
@@ -246,14 +254,6 @@
       "summary": "Here's how we made the search experience better, faster, and more resilient for GHES customers. The post How we rebuilt the search architecture for high availability in GitHub Enterprise Server appeared first on The GitHub Blog.",
       "published": "2026-03-03T18:45:09Z",
       "image": "https://github.blog/wp-content/uploads/2026/03/CCR.png?resize=1280%2C720"
-    },
-    {
-      "id": "936e72f091247729de61bc7e4f6f251042d1cbd7",
-      "title": "Join or host a GitHub Copilot Dev Days event near you",
-      "link": "https://github.blog/ai-and-ml/github-copilot/join-or-host-a-github-copilot-dev-days-event-near-you/",
-      "source": "GitHub Blog",
-      "summary": "GitHub Copilot Dev Days is a global series of hands-on, in-person, community-led events designed to help developers explore real-world, AI-assisted coding. The post Join or host a GitHub Copilot Dev Days event near you appeared first on The GitHub Blog.",
-      "published": "2026-03-03T16:55:00Z"
     },
     {
       "id": "58090b041f481022af2fefee6d1fd70bffe4d02e",
