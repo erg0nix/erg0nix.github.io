@@ -1,6 +1,94 @@
 {
-  "generated_at": "2026-03-17T07:10:00.400801Z",
+  "generated_at": "2026-03-18T07:06:48.352367Z",
   "items": [
+    {
+      "id": "741ce7c51b831afc6895a2843240d3042987345b",
+      "title": "Får Firefox en ny logo?",
+      "link": "https://www.kode24.no/artikkel/far-firefox-en-ny-logo/258901",
+      "source": "Kode24",
+      "summary": "Spekulasjonene svirrer: Skal Firefox få ny logo neste uke?",
+      "published": "2026-03-18T05:00:00Z"
+    },
+    {
+      "id": "9792733bd3016de5e91a15453cc2f8120f824dad",
+      "title": "– AAAAAAAAA hvorfor må ting være så drit",
+      "link": "https://www.kode24.no/artikkel/aaaaaaaaa-hvorfor-ma-ting-vaere-sa-drit/258945",
+      "source": "Kode24",
+      "summary": "Platform Engineer Yngve Molnes i Geodata er frustrert over Claude-onboarding.",
+      "published": "2026-03-18T05:00:00Z"
+    },
+    {
+      "id": "b916a5f5f736fba0073c37def5cbad9631699cf1",
+      "title": "Investing in the people shaping open source and securing the future together",
+      "link": "https://github.blog/security/supply-chain-security/investing-in-the-people-shaping-open-source-and-securing-the-future-together/",
+      "source": "GitHub Blog",
+      "summary": "See how GitHub is investing in open source security funding maintainers, partnering with Alpha-Omega, and expanding access to help reduce burden and strengthen software supply chains. The post Investing in the people shaping open source and securing the future together appeared first on The GitHub...",
+      "published": "2026-03-17T16:00:00Z"
+    },
+    {
+      "id": "1c249c9387b2bea8b4daaba12c9b01431d5c75e0",
+      "title": "Experis-sjefen slutter i stillingen sin",
+      "link": "https://www.kode24.no/artikkel/experis-sjefen-slutter-i-stillingen-sin/258998",
+      "source": "Kode24",
+      "summary": "Trygve Solem har fratrådt sin rolle som leder for Experis Norge.",
+      "published": "2026-03-17T15:58:21Z"
+    },
+    {
+      "id": "973247afd59dc5df0919b32c83f4d27f610be7c2",
+      "title": "Politiet har IT-problemer",
+      "link": "https://www.kode24.no/artikkel/politiet-har-it-problemer/258984",
+      "source": "Kode24",
+      "summary": "Politiet har problemer med å utstede pass og ID-kort tirsdag ettermiddag på grunn av IT-problemer.",
+      "published": "2026-03-17T15:01:58Z"
+    },
+    {
+      "id": "e051b6bf076e1fa1166c4c75a18f0527d3fabd23",
+      "title": "Tar til orde for ansvarlig KI-bruk i bedrifter",
+      "link": "https://www.kode24.no/artikkel/tar-til-orde-for-ansvarlig-ki-bruk-i-bedrifter/258923",
+      "source": "Kode24",
+      "summary": "– Vi må ikke være redd for å bruke KI, men vi må være bevisste på risikoen med KI, sier Tita Bach i DNV.",
+      "published": "2026-03-17T14:39:19Z"
+    },
+    {
+      "id": "ba014dbc860806600085509d103b0d112fd406e1",
+      "title": "Nordea kutter: – En prosess som vil pågå",
+      "link": "https://www.kode24.no/artikkel/nordea-kutter-en-prosess-som-vil-paga/258950",
+      "source": "Kode24",
+      "summary": "Den nordiske storbanken Nordea skal kutte rundt 1.500 årsverk. Hvem det går utover er ikke kjent.",
+      "published": "2026-03-17T13:04:03Z"
+    },
+    {
+      "id": "53274550233ed8a9b7e6b502c88cca75786b895c",
+      "title": "Ble headhuntet til utviklergigant",
+      "link": "https://www.kode24.no/artikkel/ble-headhuntet-til-utviklergigant/258912",
+      "source": "Kode24",
+      "summary": "– Det er et selskap med høye ambisjoner og standarder, og jeg tror genuint på visjonen om å gjøre webutvikling bedre, forteller utvikler Aurora Scharff om den nye rollen.",
+      "published": "2026-03-17T11:11:31Z"
+    },
+    {
+      "id": "c14a3371cf4f404456a7e1061c70d2bafcb5e7c6",
+      "title": "Nytt GlassWorm-angrep sprer skadevare via kompromitterte GitHub-repoer",
+      "link": "https://www.kode24.no/artikkel/nytt-glassworm-angrep-sprer-skadevare-via-kompromitterte-github-repoer/258059",
+      "source": "Kode24",
+      "summary": "Angriper Python-prosjekter i følge The Hacker News.",
+      "published": "2026-03-17T09:31:12Z"
+    },
+    {
+      "id": "632da877b51fcf45e7edec6ebc6d44cc04e98860",
+      "title": "Cursor lanserer KI-agenter som stopper sikkerhetshull før kode publiseres",
+      "link": "https://www.kode24.no/artikkel/cursor-lanserer-ki-agenter-som-stopper-sikkerhetshull-for-kode-publiseres/258031",
+      "source": "Kode24",
+      "summary": "Utviklerverktøyet Cursor har utviklet en serie KI-agenter som automatisk overvåker kode og stopper sårbarheter før de havner i produksjon.",
+      "published": "2026-03-17T09:13:49Z"
+    },
+    {
+      "id": "d025cbec1f2d5376391eb6a0028ec22dad2168b6",
+      "title": "Kartverket har modernisert Norgeskartet: – Eit generasjonsskifte",
+      "link": "https://www.kode24.no/artikkel/kartverket-har-modernisert-norgeskartet-eit-generasjonsskifte/258854",
+      "source": "Kode24",
+      "summary": "Ved å gå fra AngularJS til React 19 skal norgeskart.no bli raskare, meir stabilt og lettare å vidareutvikle. – I større grad retta mot sluttbrukaren, sier team lead Mortada Abel Kasale.",
+      "published": "2026-03-17T08:09:29Z"
+    },
     {
       "id": "3973f154295fda0d7eb772efc7f1e6ab8b9d6e9d",
       "title": "Overveldet av KI-verktøy? Slik unngår du å bli KI-utmattet",
@@ -90,46 +178,6 @@
       "published": "2026-03-16T05:00:00Z"
     },
     {
-      "id": "e52b741d8fa47ee965e4e70a63063fe60a089f1d",
-      "title": "Slik kan vi forsvare oss mot KI-«dommedag»",
-      "link": "https://www.kode24.no/artikkel/slik-kan-vi-forsvare-oss-mot-ki-dommedag/258642",
-      "source": "Kode24",
-      "summary": "Tankesmien Langsikt peker på tre scenarioer for autonome KI-katastrofer. Og måter å forebygge dem på. – Lite sannsynlig, mener forsker.",
-      "published": "2026-03-13T15:58:36Z"
-    },
-    {
-      "id": "94d6eaf04eefc135fffd4021ba644456bab603a9",
-      "title": "Regjeringen vil gi politiet mer tilgang til persondata",
-      "link": "https://www.kode24.no/artikkel/regjeringen-vil-gi-politiet-mer-tilgang-til-persondata/258628",
-      "source": "Kode24",
-      "summary": "Politiet skal få bruke ansiktsbilder og fingeravtrykk fra grensekontroller til å teste og utvikle informasjonssystemer, om regjeringen får viljen sin.",
-      "published": "2026-03-13T12:26:12Z"
-    },
-    {
-      "id": "1c40f6f6a56c1e8ebc0b8fcb46f207adc45bb6f9",
-      "title": "Google maps blir personlig",
-      "link": "https://www.kode24.no/artikkel/google-maps-blir-personlig/258586",
-      "source": "Kode24",
-      "summary": "Google Maps lanserer i dag en ny AI-drevet funksjon «Ask Maps» – som kommer med svært detaljerte og personlige svar. Funksjonen er allerede en snakkis på nett.",
-      "published": "2026-03-13T08:37:54Z"
-    },
-    {
-      "id": "536b692904ac0398ddb0f4a6fecc04555e746667",
-      "title": "Vipps med best omdømme i Norge – Tesla og Meta blant taperne",
-      "link": "https://www.kode24.no/artikkel/vipps-med-best-omdomme-i-norge-tesla-og-meta-blant-taperne/258575",
-      "source": "Kode24",
-      "summary": "Norgesgruppen og Tine faller på Apelands omdømmemåling. Matpriser og metanhemmere ligger bak, tror byrået. Vipps topper målingen for tredje år på rad.",
-      "published": "2026-03-13T07:14:53Z"
-    },
-    {
-      "id": "b0099af9b49f7937bb8688233a966619559ec995",
-      "title": "Motedesignere protesterer mot KI på catwalken",
-      "link": "https://www.kode24.no/artikkel/motedesignere-protesterer-mot-ki-pa-catwalken/255679",
-      "source": "Kode24",
-      "summary": "Under vårens moteuker går designere bort fra KI-lignende perfeksjon. De vil heller framheve det upolerte, menneskelige avtrykket, ifølge trendrapport.",
-      "published": "2026-03-13T05:00:00Z"
-    },
-    {
       "id": "7ddb60979d72674c269c4eca1f16b6c029662e7d",
       "title": "Continuous AI for accessibility: How GitHub transforms feedback into inclusion",
       "link": "https://github.blog/ai-and-ml/github-copilot/continuous-ai-for-accessibility-how-github-transforms-feedback-into-inclusion/",
@@ -137,46 +185,6 @@
       "summary": "AI automates triage for accessibility feedback, allowing us to focus on fixing barriers—turning a chaotic backlog into continuous, rapid resolutions. The post Continuous AI for accessibility: How GitHub transforms feedback into inclusion appeared first on The GitHub Blog.",
       "published": "2026-03-12T16:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2026/03/Screenshot-2026-03-11-at-12.37.19-PM.png?resize=1395%2C244"
-    },
-    {
-      "id": "4d7d3d68f1899a37ea046c237fb3e43e21911d3f",
-      "title": "Computas henter fra Knowit og rett fra NTNU",
-      "link": "https://www.kode24.no/artikkel/computas-henter-fra-knowit-og-rett-fra-ntnu/258557",
-      "source": "Kode24",
-      "summary": "Seniorutvikler Klaus Safto skal styrke Trondheims-kontoret, mens Solveig Heitmann kommer fra studiet til Oslo-kontoret.",
-      "published": "2026-03-12T14:30:17Z"
-    },
-    {
-      "id": "59fb150e9e0de5922b25692cf853e772727f8510",
-      "title": "Pokémon Go-modell skal trene leveringsroboter",
-      "link": "https://www.kode24.no/artikkel/pokemon-go-modell-skal-trene-leveringsroboter/258504",
-      "source": "Kode24",
-      "summary": "Niantic Spatial inngår samarbeid med ingeniører i Coco Robotics for å ta autonome leveringsroboter til neste nivå.",
-      "published": "2026-03-12T11:58:10Z"
-    },
-    {
-      "id": "5be48f8d2b4521b132662709b1ee6a99b9239191",
-      "title": "Første gang på kode24-dagen: – Veldig bra",
-      "link": "https://www.kode24.no/artikkel/forste-gang-pa-kode24-dagen-veldig-bra/258518",
-      "source": "Kode24",
-      "summary": "Blant 240 deltakere på årets kode24-dag er to «ferskinger» i Comrod.",
-      "published": "2026-03-12T09:46:40Z"
-    },
-    {
-      "id": "7a6103b0d058c3d60f5c45bfd9fd62205a6f55c1",
-      "title": "kode24-dagen: Nå kan ikke-utviklere også kode",
-      "link": "https://www.kode24.no/artikkel/kode24-dagen-na-kan-ikke-utviklere-ogsa-kode/258430",
-      "source": "Kode24",
-      "summary": "Claude Code har endret manges hverdag. – Jeg bruker det hver dag og har fått både utviklere og ikke utviklere til å bruke det, sier Ulrik Rise som skal på kode24-dagen.",
-      "published": "2026-03-12T07:00:00Z"
-    },
-    {
-      "id": "fe06259ef02df396fb3c9021385a99e5584e528f",
-      "title": "Han utvikler programvaren til ambulansene",
-      "link": "https://www.kode24.no/artikkel/han-utvikler-programvaren-til-ambulansene/258317",
-      "source": "Kode24",
-      "summary": "Einar Ingebrigtsen er arkitekt og en av utviklerne bak programvaren som brukes i ambulanser og luftambulanser. – Her kan man ikke bare lage software som sitter i skyer.",
-      "published": "2026-03-12T04:01:00Z"
     },
     {
       "id": "fbe8f2af0ff86b59a6d2c0cc7bab1bec0845dc77",
@@ -245,15 +253,6 @@
       "source": "GitHub Blog",
       "summary": "Developers connected to Andela share how they’re learning AI tools inside real production workflows. The post Scaling AI opportunity across the globe: Learnings from GitHub and Andela appeared first on The GitHub Blog.",
       "published": "2026-03-05T17:00:00Z"
-    },
-    {
-      "id": "33f9eeaca1822597a58738001b36ad4d55c1fa1d",
-      "title": "How we rebuilt the search architecture for high availability in GitHub Enterprise Server",
-      "link": "https://github.blog/engineering/architecture-optimization/how-we-rebuilt-the-search-architecture-for-high-availability-in-github-enterprise-server/",
-      "source": "GitHub Blog",
-      "summary": "Here's how we made the search experience better, faster, and more resilient for GHES customers. The post How we rebuilt the search architecture for high availability in GitHub Enterprise Server appeared first on The GitHub Blog.",
-      "published": "2026-03-03T18:45:09Z",
-      "image": "https://github.blog/wp-content/uploads/2026/03/CCR.png?resize=1280%2C720"
     },
     {
       "id": "58090b041f481022af2fefee6d1fd70bffe4d02e",
