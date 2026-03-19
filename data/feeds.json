@@ -1,6 +1,86 @@
 {
-  "generated_at": "2026-03-18T07:06:48.352367Z",
+  "generated_at": "2026-03-19T07:03:20.514735Z",
   "items": [
+    {
+      "id": "d5915a312b3c264a19d48f726f4b7e9c0bfd6d45",
+      "title": "Ny satsing skal beskytte open source-utviklere mot KI-generert “slop”",
+      "link": "https://www.kode24.no/artikkel/ny-satsing-skal-beskytte-open-source-utviklere-mot-ki-generert-slop/259160",
+      "source": "Kode24",
+      "summary": "Bak satsingen står flere av de største teknologiselskapene, inkludert Google, Microsoft, OpenAI, Amazon Web Services, GitHub og Anthropic.",
+      "published": "2026-03-19T06:00:00Z"
+    },
+    {
+      "id": "33aa1a044bb0b1aba3ee990eb81487d0b0933980",
+      "title": "Samler håndverkere, advokater, lån og forsikring på én markedplass",
+      "link": "https://www.kode24.no/artikkel/samler-handverkere-advokater-lan-og-forsikring-pa-en-markedplass/259120",
+      "source": "Kode24",
+      "summary": "1881 Group og Tjenestetorget lanserer én skandinavisk konkurrent til MittAnbud, Renteradar og andre markedsplasser. – Vi gjør det enkelt for forbrukerne, sier Anders Wetting.",
+      "published": "2026-03-19T05:00:00Z"
+    },
+    {
+      "id": "628e552590eeea0f17881d965325a8627304ec0a",
+      "title": "Apple tetter WebKit-sårbarhet",
+      "link": "https://www.kode24.no/artikkel/apple-tetter-webkit-sarbarhet/259134",
+      "source": "Kode24",
+      "summary": "Beskrives som en feil i WebKits Navigation API.",
+      "published": "2026-03-19T05:00:00Z"
+    },
+    {
+      "id": "a05f097fe798b990ddc6a158e01fc2daf708c42b",
+      "title": "Instagram fjerner kryptering i DMs",
+      "link": "https://www.kode24.no/artikkel/instagram-fjerner-kryptering-i-dms/259101",
+      "source": "Kode24",
+      "summary": "Instagram fjerner ende-til-ende-kryptering for private meldinger.",
+      "published": "2026-03-18T13:50:48Z"
+    },
+    {
+      "id": "1946da7326732fbd90b833fd8b9406d8234d76e2",
+      "title": "Advarer om hacking på WhatsApp- og Signal",
+      "link": "https://www.kode24.no/artikkel/advarer-om-hacking-pa-whatsapp-og-signal/259073",
+      "source": "Kode24",
+      "summary": "Nasjonal kommunikasjonsmyndighet (Nkom) ber folk være ekstra oppmerksomme på WhatsApp- og Signal-kontoene sine.",
+      "published": "2026-03-18T11:51:24Z"
+    },
+    {
+      "id": "2d95cb0aa204604cd65a507a00951441aa0110d9",
+      "title": "Avvikler produksjonen av Galaxy Z TriFold",
+      "link": "https://www.kode24.no/artikkel/avvikler-produksjonen-av-galaxy-z-trifold/259057",
+      "source": "Kode24",
+      "summary": "Det skjer kun tre tre måneder etter lansering.",
+      "published": "2026-03-18T09:48:01Z"
+    },
+    {
+      "id": "6eeb29789e96194e83f8a32db6c34dd57b6a88fd",
+      "title": "Schibsteds åpner videoverktøy for alle",
+      "link": "https://www.kode24.no/artikkel/schibsteds-apner-videoverktoy-for-alle/259034",
+      "source": "Kode24",
+      "summary": "Nå kan alle utviklere lage ferdige nyhetsvideoer av tekst. Schibsted ønsker tilbakemeldinger og testing.",
+      "published": "2026-03-18T09:02:07Z"
+    },
+    {
+      "id": "e36c408af5d223ea0ca62e59a709fd61f2a2394e",
+      "title": "Harvard-studie om utviklere forbauser forskere",
+      "link": "https://www.kode24.no/artikkel/harvard-studie-om-utviklere-forbauser-forskere/259042",
+      "source": "Kode24",
+      "summary": "Bruker mer tid på programmering etter de tok i bruk KI.",
+      "published": "2026-03-18T08:58:14Z"
+    },
+    {
+      "id": "55bcbadccd54886b280e0830a4277b61faf7dbcc",
+      "title": "Huseierne satser digitalt: – Smartere bruk av data",
+      "link": "https://www.kode24.no/artikkel/huseierne-satser-digitalt-smartere-bruk-av-data/259010",
+      "source": "Kode24",
+      "summary": "Huseierne henter fra Lyse og Kreftforeningen for å satse på tjenesten Fikse og digital markedsføring.",
+      "published": "2026-03-18T08:28:20Z"
+    },
+    {
+      "id": "225fab0e5502298752e095ba2b0dc114343daf29",
+      "title": "Brukte Claude på 40 år gammel kode",
+      "link": "https://www.kode24.no/artikkel/brukte-claude-pa-40-ar-gammel-kode/259015",
+      "source": "Kode24",
+      "summary": "Microsoft-sjef fant skjulte sårbarheter i Apple II-maskin.",
+      "published": "2026-03-18T08:19:00Z"
+    },
     {
       "id": "741ce7c51b831afc6895a2843240d3042987345b",
       "title": "Får Firefox en ny logo?",
@@ -35,10 +115,10 @@
     },
     {
       "id": "973247afd59dc5df0919b32c83f4d27f610be7c2",
-      "title": "Politiet har IT-problemer",
-      "link": "https://www.kode24.no/artikkel/politiet-har-it-problemer/258984",
+      "title": "IT-problemer hos politiet",
+      "link": "https://www.kode24.no/artikkel/it-problemer-hos-politiet/258984",
       "source": "Kode24",
-      "summary": "Politiet har problemer med å utstede pass og ID-kort tirsdag ettermiddag på grunn av IT-problemer.",
+      "summary": "Politiet hadde problemer med å utstede pass og ID-kort tirsdag ettermiddag på grunn av IT-problemer. Problemet ble løst på kvelden.",
       "published": "2026-03-17T15:01:58Z"
     },
     {
@@ -90,92 +170,12 @@
       "published": "2026-03-17T08:09:29Z"
     },
     {
-      "id": "3973f154295fda0d7eb772efc7f1e6ab8b9d6e9d",
-      "title": "Overveldet av KI-verktøy? Slik unngår du å bli KI-utmattet",
-      "link": "https://www.kode24.no/artikkel/overveldet-av-ki-verktoy-slik-unngar-du-a-bli-ki-utmattet/258731",
-      "source": "Kode24",
-      "summary": "Hvordan du bruker KI-verktøy kan avgjøre om du blir helt utslitt eller om du forebygger utbrenthet, viser ny studie.",
-      "published": "2026-03-17T05:00:00Z"
-    },
-    {
-      "id": "94bb716432fe67269940c71b352834ebbdd69ee4",
-      "title": "Nvidia utfordrer OpenClaw: – Positivt",
-      "link": "https://www.kode24.no/artikkel/nvidia-utfordrer-openclaw-positivt/258772",
-      "source": "Kode24",
-      "summary": "Teknologiselskapet Nvidia bygger angivelig en ny åpen kildekode‑plattform ved navn NemoClaw. Den lages for KI-agenter i bedrifter.",
-      "published": "2026-03-17T05:00:00Z"
-    },
-    {
       "id": "60ec921f0667a64da0bb8b023ae2db28afe5e164",
       "title": "GitHub for Beginners: Getting started with GitHub Actions",
       "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-actions/",
       "source": "GitHub Blog",
       "summary": "Set up your first GitHub Actions workflow in this how-to guide. The post GitHub for Beginners: Getting started with GitHub Actions appeared first on The GitHub Blog.",
       "published": "2026-03-16T16:00:00Z"
-    },
-    {
-      "id": "0dc2e3dc8f452739a22651e7b965fba30ee6668d",
-      "title": "Perplexity lanserer «Personal Computer»",
-      "link": "https://www.kode24.no/artikkel/perplexity-lanserer-personal-computer/258379",
-      "source": "Kode24",
-      "summary": "– en KI-agent som jobber døgnet rundt, skriver selskapet selv.",
-      "published": "2026-03-16T13:34:57Z"
-    },
-    {
-      "id": "4faaba3eb49d656fc9d26bd5e287318b442c4671",
-      "title": "NSM advarer Linux-brukere: Oppdater umiddelbart!",
-      "link": "https://www.kode24.no/artikkel/nsm-advarer-linux-brukere-oppdater-umiddelbart/258786",
-      "source": "Kode24",
-      "summary": "Nasjonal sikkerhetsmyndighet varsler om sårbarheter som lar trusselaktører endre policyer og lese vilkårlig data i minne.",
-      "published": "2026-03-16T12:51:47Z"
-    },
-    {
-      "id": "61340eff25b2a40110c792de20139dcb6d502dc5",
-      "title": "KI skal redde elefanter fra Indias jernbaner",
-      "link": "https://www.kode24.no/artikkel/ki-skal-redde-elefanter-fra-indias-jernbaner/258756",
-      "source": "Kode24",
-      "summary": "Nytt KI-system i India skal bekjempe elefantulykker på jernbanesporet.",
-      "published": "2026-03-16T09:44:07Z"
-    },
-    {
-      "id": "820040db136ea5545d40bb3689830834f97935d8",
-      "title": "Atlassian kutter 1 600 ansatte og endrer CTO-rollen",
-      "link": "https://www.kode24.no/artikkel/atlassian-kutter-1-600-ansatte-og-endrer-cto-rollen/258057",
-      "source": "Kode24",
-      "summary": "Programvareselskapet Atlassian varsler at rundt 1 600 ansatte mister jobben, tilsvarende omtrent 10 prosent av selskapets globale arbeidsstyrke.",
-      "published": "2026-03-16T09:01:05Z"
-    },
-    {
-      "id": "6db430ec3976a1e86749c93c807e1fce6b07ba0b",
-      "title": "TypeScript 6.0 RC lansert",
-      "link": "https://www.kode24.no/artikkel/typescript-60-rc-lansert/258381",
-      "source": "Kode24",
-      "summary": "Regnes som en av de viktigste siden språket ble lansert i 2014.",
-      "published": "2026-03-16T08:18:30Z"
-    },
-    {
-      "id": "ae913b108091c4a39a2375bb7b63a27ddbbf3682",
-      "title": "Advarer bedrifter mot å droppe nyutdannede",
-      "link": "https://www.kode24.no/artikkel/advarer-bedrifter-mot-a-droppe-nyutdannede/258607",
-      "source": "Kode24",
-      "summary": "– Stenger vi døra for de ferske utviklerne nå, risikerer vi å gå glipp av den mest KI-modne generasjonen noensinne, sier Ukas Koder, Helena Skants.",
-      "published": "2026-03-16T07:45:00Z"
-    },
-    {
-      "id": "ef1ff82335b2a25b6833095a22939e08e4b5e552",
-      "title": "Reuters: Vurderer nedbemanninger",
-      "link": "https://www.kode24.no/artikkel/reuters-vurderer-nedbemanninger/258705",
-      "source": "Kode24",
-      "summary": "Teknologiselskapet Meta vurderer store nedbemanninger som kan ramme 20 prosent eller mer av arbeidsstyrken, opplyser tre kilder til Reuters.",
-      "published": "2026-03-16T06:57:12Z"
-    },
-    {
-      "id": "3600a00fa08dc8d57fd38cb183f056d13d9bec9f",
-      "title": "Kan KI-kjæledyr erstatte våre firbente venner?",
-      "link": "https://www.kode24.no/artikkel/kan-ki-kjaeledyr-erstatte-vare-firbente-venner/258605",
-      "source": "Kode24",
-      "summary": "For 25 år siden eide nesten ethvert barn en Furby og enhver husholdning prøvde å holde Tamagotchien i live. Er tek-kjæledyrene tilbake i form av KI og kan de erstatte et kjæledyr?",
-      "published": "2026-03-16T05:00:00Z"
     },
     {
       "id": "7ddb60979d72674c269c4eca1f16b6c029662e7d",
