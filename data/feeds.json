@@ -1,6 +1,70 @@
 {
-  "generated_at": "2026-03-19T07:03:20.514735Z",
+  "generated_at": "2026-03-20T07:01:45.695663Z",
   "items": [
+    {
+      "id": "1cfa8502f90b35caac5846fa0bcb2a458d8d91dc",
+      "title": "Gått viralt",
+      "link": "https://www.kode24.no/artikkel/gatt-viralt/259234",
+      "source": "Kode24",
+      "summary": "Den siste tiden har videoen til Forbrukerrådet gått viralt. En reklame der det advares mot enshittification av plattformer. Drittifisering har skapt overskrifter verden rundt.",
+      "published": "2026-03-20T06:00:00Z"
+    },
+    {
+      "id": "bb30b84bf855660b4a32e22098b360e82de47036",
+      "title": "Vite skal være 10 til 30 ganger raskere",
+      "link": "https://www.kode24.no/artikkel/vite-skal-vaere-10-til-30-ganger-raskere/259282",
+      "source": "Kode24",
+      "summary": "– Dette føyer seg inn i en tydelig trend, skriver Joachim Maksim i Bekk.",
+      "published": "2026-03-20T05:00:00Z"
+    },
+    {
+      "id": "9c996c73c65e9f69186486bd12544d71957685c4",
+      "title": "Rethinking open source mentorship in the AI era",
+      "link": "https://github.blog/open-source/maintainers/rethinking-open-source-mentorship-in-the-ai-era/",
+      "source": "GitHub Blog",
+      "summary": "As contribution volume grows, mentorship signals are harder to read. The 3 Cs framework helps maintainers mentor more strategically... without burning out. The post Rethinking open source mentorship in the AI era appeared first on The GitHub Blog.",
+      "published": "2026-03-19T18:00:00Z"
+    },
+    {
+      "id": "9b9b3d39c034577f5d3dae078cf943df158b5905",
+      "title": "How Squad runs coordinated AI agents inside your repository",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-squad-runs-coordinated-ai-agents-inside-your-repository/",
+      "source": "GitHub Blog",
+      "summary": "An inside look at repository-native orchestration with GitHub Copilot and the design patterns behind multi-agent workflows that stay inspectable, predictable, and collaborative. The post How Squad runs coordinated AI agents inside your repository appeared first on The GitHub Blog.",
+      "published": "2026-03-19T16:09:50Z"
+    },
+    {
+      "id": "67f74b42ae72283a48e7a3e949ccdd92500dfb03",
+      "title": "Cloudflare anker millionbot etter blokkeringstvist i Italia",
+      "link": "https://www.kode24.no/artikkel/cloudflare-anker-millionbot-etter-blokkeringstvist-i-italia/259243",
+      "source": "Kode24",
+      "summary": "Cloudflare har anket en bot på 14,2 millioner euro fra italienske myndigheter etter å ha nektet å blokkere nettsider via sin DNS-tjeneste 1.1.1.1.",
+      "published": "2026-03-19T12:58:30Z"
+    },
+    {
+      "id": "49ca8accc8e791782904e84062de908a41b5c8bf",
+      "title": "Vil gi deg mer plass – og færre forstyrrelser",
+      "link": "https://www.kode24.no/artikkel/vil-gi-deg-mer-plass-og-faerre-forstyrrelser/259257",
+      "source": "Kode24",
+      "summary": "Vivaldi lanserer nå versjon 7.9 av sin nettleser, med nye funksjoner som skal gi brukerne mer kontroll, mer skjermplass og en mer uforstyrret nettleseropplevelse.",
+      "published": "2026-03-19T12:58:27Z"
+    },
+    {
+      "id": "586c0995e389ddc8c577e7e60c61db119b130fb6",
+      "title": "Ja, du kan lade mobilen over natten",
+      "link": "https://www.kode24.no/artikkel/ja-du-kan-lade-mobilen-over-natten/259218",
+      "source": "Kode24",
+      "summary": "Du kan lade mobilen over natten – men visste du dette trikset?",
+      "published": "2026-03-19T10:40:36Z"
+    },
+    {
+      "id": "5c07f60e73c2c46a30a301c18f309037225972f1",
+      "title": "Skal bruke KI til å gjøre gull av ubrukte kundedata",
+      "link": "https://www.kode24.no/artikkel/skal-bruke-ki-til-a-gjore-gull-av-ubrukte-kundedata/259136",
+      "source": "Kode24",
+      "summary": "Det nystartede KI-selskapet Compethic vil hjelpe bedrifter med å utnytte verdifulle kundedata som i dag ofte går tapt.",
+      "published": "2026-03-19T08:12:01Z"
+    },
     {
       "id": "d5915a312b3c264a19d48f726f4b7e9c0bfd6d45",
       "title": "Ny satsing skal beskytte open source-utviklere mot KI-generert “slop”",
@@ -122,54 +186,6 @@
       "published": "2026-03-17T15:01:58Z"
     },
     {
-      "id": "e051b6bf076e1fa1166c4c75a18f0527d3fabd23",
-      "title": "Tar til orde for ansvarlig KI-bruk i bedrifter",
-      "link": "https://www.kode24.no/artikkel/tar-til-orde-for-ansvarlig-ki-bruk-i-bedrifter/258923",
-      "source": "Kode24",
-      "summary": "– Vi må ikke være redd for å bruke KI, men vi må være bevisste på risikoen med KI, sier Tita Bach i DNV.",
-      "published": "2026-03-17T14:39:19Z"
-    },
-    {
-      "id": "ba014dbc860806600085509d103b0d112fd406e1",
-      "title": "Nordea kutter: – En prosess som vil pågå",
-      "link": "https://www.kode24.no/artikkel/nordea-kutter-en-prosess-som-vil-paga/258950",
-      "source": "Kode24",
-      "summary": "Den nordiske storbanken Nordea skal kutte rundt 1.500 årsverk. Hvem det går utover er ikke kjent.",
-      "published": "2026-03-17T13:04:03Z"
-    },
-    {
-      "id": "53274550233ed8a9b7e6b502c88cca75786b895c",
-      "title": "Ble headhuntet til utviklergigant",
-      "link": "https://www.kode24.no/artikkel/ble-headhuntet-til-utviklergigant/258912",
-      "source": "Kode24",
-      "summary": "– Det er et selskap med høye ambisjoner og standarder, og jeg tror genuint på visjonen om å gjøre webutvikling bedre, forteller utvikler Aurora Scharff om den nye rollen.",
-      "published": "2026-03-17T11:11:31Z"
-    },
-    {
-      "id": "c14a3371cf4f404456a7e1061c70d2bafcb5e7c6",
-      "title": "Nytt GlassWorm-angrep sprer skadevare via kompromitterte GitHub-repoer",
-      "link": "https://www.kode24.no/artikkel/nytt-glassworm-angrep-sprer-skadevare-via-kompromitterte-github-repoer/258059",
-      "source": "Kode24",
-      "summary": "Angriper Python-prosjekter i følge The Hacker News.",
-      "published": "2026-03-17T09:31:12Z"
-    },
-    {
-      "id": "632da877b51fcf45e7edec6ebc6d44cc04e98860",
-      "title": "Cursor lanserer KI-agenter som stopper sikkerhetshull før kode publiseres",
-      "link": "https://www.kode24.no/artikkel/cursor-lanserer-ki-agenter-som-stopper-sikkerhetshull-for-kode-publiseres/258031",
-      "source": "Kode24",
-      "summary": "Utviklerverktøyet Cursor har utviklet en serie KI-agenter som automatisk overvåker kode og stopper sårbarheter før de havner i produksjon.",
-      "published": "2026-03-17T09:13:49Z"
-    },
-    {
-      "id": "d025cbec1f2d5376391eb6a0028ec22dad2168b6",
-      "title": "Kartverket har modernisert Norgeskartet: – Eit generasjonsskifte",
-      "link": "https://www.kode24.no/artikkel/kartverket-har-modernisert-norgeskartet-eit-generasjonsskifte/258854",
-      "source": "Kode24",
-      "summary": "Ved å gå fra AngularJS til React 19 skal norgeskart.no bli raskare, meir stabilt og lettare å vidareutvikle. – I større grad retta mot sluttbrukaren, sier team lead Mortada Abel Kasale.",
-      "published": "2026-03-17T08:09:29Z"
-    },
-    {
       "id": "60ec921f0667a64da0bb8b023ae2db28afe5e164",
       "title": "GitHub for Beginners: Getting started with GitHub Actions",
       "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-actions/",
@@ -236,23 +252,6 @@
       "summary": "GitHub Security Lab Taskflow Agent is very effective at finding Auth Bypasses, IDORs, Token Leaks, and other high-impact vulnerabilities. The post How to scan for vulnerabilities with GitHub Security Lab’s open source AI-powered framework appeared first on The GitHub Blog.",
       "published": "2026-03-06T21:09:04Z",
       "image": "https://github.blog/wp-content/uploads/2026/03/ai-high-level-overview5.excalidraw.png?resize=1024%2C779"
-    },
-    {
-      "id": "10795aa75b7f975fc1812e815452471d23c56dee",
-      "title": "60 million Copilot code reviews and counting",
-      "link": "https://github.blog/ai-and-ml/github-copilot/60-million-copilot-code-reviews-and-counting/",
-      "source": "GitHub Blog",
-      "summary": "How Copilot code review helps teams keep up with AI-accelerated code changes. The post 60 million Copilot code reviews and counting appeared first on The GitHub Blog.",
-      "published": "2026-03-05T20:10:43Z",
-      "image": "https://github.blog/wp-content/uploads/2026/03/Screenshot-2026-03-05-at-10.29.41-AM.png?resize=1024%2C435"
-    },
-    {
-      "id": "f37b60ea3afff0938d038e22b3296a13f63858eb",
-      "title": "Scaling AI opportunity across the globe: Learnings from GitHub and Andela",
-      "link": "https://github.blog/developer-skills/career-growth/scaling-ai-opportunity-across-the-globe-learnings-from-github-and-andela/",
-      "source": "GitHub Blog",
-      "summary": "Developers connected to Andela share how they’re learning AI tools inside real production workflows. The post Scaling AI opportunity across the globe: Learnings from GitHub and Andela appeared first on The GitHub Blog.",
-      "published": "2026-03-05T17:00:00Z"
     },
     {
       "id": "58090b041f481022af2fefee6d1fd70bffe4d02e",
