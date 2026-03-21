@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-03-20T07:01:45.695663Z",
+  "generated_at": "2026-03-21T06:51:30.091934Z",
   "items": [
+    {
+      "id": "0f0f8bdc3b1d7620d6b01983b8e7e354afd05450",
+      "title": "Ilder kjøpt opp av gigant",
+      "link": "https://www.kode24.no/artikkel/ilder-kjopt-opp-av-gigant/259463",
+      "source": "Kode24",
+      "summary": "Nordlo kjøper IT-raketten Ilder. Nå ønsker de å tredoble omsetningen.",
+      "published": "2026-03-21T06:00:00Z"
+    },
+    {
+      "id": "ef9804002540f73ef58fc2eda31abdde5b4a3bfe",
+      "title": "6.000 kroner for en Casio-kalkulator?",
+      "link": "https://www.kode24.no/artikkel/6000-kroner-for-en-casio-kalkulator/259387",
+      "source": "Kode24",
+      "summary": "Hadde du betalt 600 dollar for denne luksuskalkulatoren? Hva om det var et samleobjekt?",
+      "published": "2026-03-21T05:00:00Z"
+    },
+    {
+      "id": "81fa7bc64012e4af4f0f41ecd1cb6cc52a1319e5",
+      "title": "Én person drev 373.000 nettsider med overgrepsmateriale av barn",
+      "link": "https://www.kode24.no/artikkel/en-person-drev-373000-nettsider-med-overgrepsmateriale-av-barn/259444",
+      "source": "Kode24",
+      "summary": "Europol aksjonerte i mars mot nettsider på det mørke nettet etter fem års etterforskning. 440 kunder ble identifisert.",
+      "published": "2026-03-20T12:58:26Z"
+    },
+    {
+      "id": "cb88d003063c2f1f3b5abf7e6f07702904a4cfcf",
+      "title": "Trym og Dima på første rad for å delta i NM i KI",
+      "link": "https://www.kode24.no/artikkel/trym-og-dima-pa-forste-rad-for-a-delta-i-nm-i-ki/258648",
+      "source": "Kode24",
+      "summary": "Det står om 1 millioner kroner i premiepotten i det «kuleste» oljefondsjefen har blitt invitert til å åpne. – Norge trenger dere, sier Nicolai Tangen.",
+      "published": "2026-03-20T10:37:53Z"
+    },
+    {
+      "id": "3455d2e038bfe6978dbc74f6a85f88f0f0cbfe1e",
+      "title": "Norsk sky-tjeneste lanserer KI-VPS",
+      "link": "https://www.kode24.no/artikkel/norsk-sky-tjeneste-lanserer-ki-vps/259409",
+      "source": "Kode24",
+      "summary": "Deploi har bygget en ny tjeneste hvor du kan bruker KI-Skills for ditt VPS-oppsett.",
+      "published": "2026-03-20T10:14:53Z"
+    },
+    {
+      "id": "872bc1831990f1e46665a5e41d427bbe283f9f60",
+      "title": "Java 26 lansert uten LTS – men fortsatt viktig for utviklere",
+      "link": "https://www.kode24.no/artikkel/java-26-lansert-uten-lts-men-fortsatt-viktig-for-utviklere/259391",
+      "source": "Kode24",
+      "summary": "Java 26 er nå lansert av Oracle, med en rekke forbedringer innen ytelse, sikkerhet og utvikleropplevelse – til tross for at dette ikke er en såkalt langtidsstøttet (LTS) versjon.",
+      "published": "2026-03-20T09:44:46Z"
+    },
+    {
+      "id": "76f93605b5f2499374e3f1ab280d195412d2ae9e",
+      "title": "Millionavtale med Lånekassen",
+      "link": "https://www.kode24.no/artikkel/millionavtale-med-lanekassen/259364",
+      "source": "Kode24",
+      "summary": "IT-selskapet Atea har inngått en millionavtale med Lånekassen. Rammeavtalen er estimert til 150 millioner kroner.",
+      "published": "2026-03-20T09:14:25Z"
+    },
+    {
+      "id": "17f074e307a9179a035bcff58af884141eac8dbf",
+      "title": "Én av fire stortings-politikere dukker opp på det mørke nettet",
+      "link": "https://www.kode24.no/artikkel/en-av-fire-stortings-politikere-dukker-opp-pa-det-morke-nettet/259323",
+      "source": "Kode24",
+      "summary": "Hver fjerde stortingspolitiker har fått sine personlige opplysninger eksponert på det mørke nettet, viser ny undersøkelse.",
+      "published": "2026-03-20T08:14:01Z"
+    },
+    {
+      "id": "5fa6e2b732ef518f8d9882ada6c6ccfe7d698c16",
+      "title": "Plategigant saksøker KI-selskap for bruk av tekster",
+      "link": "https://www.kode24.no/artikkel/plategigant-saksoker-ki-selskap-for-bruk-av-tekster/259307",
+      "source": "Kode24",
+      "summary": "Plateselskapet BMG saksøker Anthropic som de mener har brukt tekster fra artistene sine til å trene KI-modellen Claude. Blant dem er Rolling Stones.",
+      "published": "2026-03-20T07:38:06Z"
+    },
     {
       "id": "1cfa8502f90b35caac5846fa0bcb2a458d8d91dc",
       "title": "Gått viralt",
@@ -106,84 +178,12 @@
       "published": "2026-03-18T11:51:24Z"
     },
     {
-      "id": "2d95cb0aa204604cd65a507a00951441aa0110d9",
-      "title": "Avvikler produksjonen av Galaxy Z TriFold",
-      "link": "https://www.kode24.no/artikkel/avvikler-produksjonen-av-galaxy-z-trifold/259057",
-      "source": "Kode24",
-      "summary": "Det skjer kun tre tre måneder etter lansering.",
-      "published": "2026-03-18T09:48:01Z"
-    },
-    {
-      "id": "6eeb29789e96194e83f8a32db6c34dd57b6a88fd",
-      "title": "Schibsteds åpner videoverktøy for alle",
-      "link": "https://www.kode24.no/artikkel/schibsteds-apner-videoverktoy-for-alle/259034",
-      "source": "Kode24",
-      "summary": "Nå kan alle utviklere lage ferdige nyhetsvideoer av tekst. Schibsted ønsker tilbakemeldinger og testing.",
-      "published": "2026-03-18T09:02:07Z"
-    },
-    {
-      "id": "e36c408af5d223ea0ca62e59a709fd61f2a2394e",
-      "title": "Harvard-studie om utviklere forbauser forskere",
-      "link": "https://www.kode24.no/artikkel/harvard-studie-om-utviklere-forbauser-forskere/259042",
-      "source": "Kode24",
-      "summary": "Bruker mer tid på programmering etter de tok i bruk KI.",
-      "published": "2026-03-18T08:58:14Z"
-    },
-    {
-      "id": "55bcbadccd54886b280e0830a4277b61faf7dbcc",
-      "title": "Huseierne satser digitalt: – Smartere bruk av data",
-      "link": "https://www.kode24.no/artikkel/huseierne-satser-digitalt-smartere-bruk-av-data/259010",
-      "source": "Kode24",
-      "summary": "Huseierne henter fra Lyse og Kreftforeningen for å satse på tjenesten Fikse og digital markedsføring.",
-      "published": "2026-03-18T08:28:20Z"
-    },
-    {
-      "id": "225fab0e5502298752e095ba2b0dc114343daf29",
-      "title": "Brukte Claude på 40 år gammel kode",
-      "link": "https://www.kode24.no/artikkel/brukte-claude-pa-40-ar-gammel-kode/259015",
-      "source": "Kode24",
-      "summary": "Microsoft-sjef fant skjulte sårbarheter i Apple II-maskin.",
-      "published": "2026-03-18T08:19:00Z"
-    },
-    {
-      "id": "741ce7c51b831afc6895a2843240d3042987345b",
-      "title": "Får Firefox en ny logo?",
-      "link": "https://www.kode24.no/artikkel/far-firefox-en-ny-logo/258901",
-      "source": "Kode24",
-      "summary": "Spekulasjonene svirrer: Skal Firefox få ny logo neste uke?",
-      "published": "2026-03-18T05:00:00Z"
-    },
-    {
-      "id": "9792733bd3016de5e91a15453cc2f8120f824dad",
-      "title": "– AAAAAAAAA hvorfor må ting være så drit",
-      "link": "https://www.kode24.no/artikkel/aaaaaaaaa-hvorfor-ma-ting-vaere-sa-drit/258945",
-      "source": "Kode24",
-      "summary": "Platform Engineer Yngve Molnes i Geodata er frustrert over Claude-onboarding.",
-      "published": "2026-03-18T05:00:00Z"
-    },
-    {
       "id": "b916a5f5f736fba0073c37def5cbad9631699cf1",
       "title": "Investing in the people shaping open source and securing the future together",
       "link": "https://github.blog/security/supply-chain-security/investing-in-the-people-shaping-open-source-and-securing-the-future-together/",
       "source": "GitHub Blog",
       "summary": "See how GitHub is investing in open source security funding maintainers, partnering with Alpha-Omega, and expanding access to help reduce burden and strengthen software supply chains. The post Investing in the people shaping open source and securing the future together appeared first on The GitHub...",
       "published": "2026-03-17T16:00:00Z"
-    },
-    {
-      "id": "1c249c9387b2bea8b4daaba12c9b01431d5c75e0",
-      "title": "Experis-sjefen slutter i stillingen sin",
-      "link": "https://www.kode24.no/artikkel/experis-sjefen-slutter-i-stillingen-sin/258998",
-      "source": "Kode24",
-      "summary": "Trygve Solem har fratrådt sin rolle som leder for Experis Norge.",
-      "published": "2026-03-17T15:58:21Z"
-    },
-    {
-      "id": "973247afd59dc5df0919b32c83f4d27f610be7c2",
-      "title": "IT-problemer hos politiet",
-      "link": "https://www.kode24.no/artikkel/it-problemer-hos-politiet/258984",
-      "source": "Kode24",
-      "summary": "Politiet hadde problemer med å utstede pass og ID-kort tirsdag ettermiddag på grunn av IT-problemer. Problemet ble løst på kvelden.",
-      "published": "2026-03-17T15:01:58Z"
     },
     {
       "id": "60ec921f0667a64da0bb8b023ae2db28afe5e164",
