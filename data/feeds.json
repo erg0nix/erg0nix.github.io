@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-03-22T06:56:58.086086Z",
+  "generated_at": "2026-03-23T07:16:48.929256Z",
   "items": [
+    {
+      "id": "5c80045cc06c0a985f4ffb76b66aa74aca375376",
+      "title": "Nito-topp: Fagforeninger er bakpå i møte med KI",
+      "link": "https://www.kode24.no/artikkel/nito-topp-fagforeninger-er-bakpa-i-mote-med-ki/259230",
+      "source": "Kode24",
+      "summary": "Nordiske fagforeninger vil kreve åpenhet og personvern når jobbverktøy bruker KI til å overvåke ansatte. Må dokumentere mer, krever Bjørn Tore Sund i Nito.",
+      "published": "2026-03-23T06:07:04Z"
+    },
+    {
+      "id": "d83a964635093c365e3d08fd5c1e0ea637c86d91",
+      "title": "Nora hjelper utviklere med å vibbekode sikkert",
+      "link": "https://www.kode24.no/artikkel/nora-hjelper-utviklere-med-a-vibbekode-sikkert/259088",
+      "source": "Kode24",
+      "summary": "KI kan lage logikkfeil som ikke fanges opp av sikkerhetsskannere, forteller Ukas Koder.",
+      "published": "2026-03-23T05:00:00Z"
+    },
     {
       "id": "0f0f8bdc3b1d7620d6b01983b8e7e354afd05450",
       "title": "Ilder kjøpt opp av gigant",
@@ -160,22 +176,6 @@
       "source": "Kode24",
       "summary": "Beskrives som en feil i WebKits Navigation API.",
       "published": "2026-03-19T05:00:00Z"
-    },
-    {
-      "id": "a05f097fe798b990ddc6a158e01fc2daf708c42b",
-      "title": "Instagram fjerner kryptering i DMs",
-      "link": "https://www.kode24.no/artikkel/instagram-fjerner-kryptering-i-dms/259101",
-      "source": "Kode24",
-      "summary": "Instagram fjerner ende-til-ende-kryptering for private meldinger.",
-      "published": "2026-03-18T13:50:48Z"
-    },
-    {
-      "id": "1946da7326732fbd90b833fd8b9406d8234d76e2",
-      "title": "Advarer om hacking på WhatsApp- og Signal",
-      "link": "https://www.kode24.no/artikkel/advarer-om-hacking-pa-whatsapp-og-signal/259073",
-      "source": "Kode24",
-      "summary": "Nasjonal kommunikasjonsmyndighet (Nkom) ber folk være ekstra oppmerksomme på WhatsApp- og Signal-kontoene sine.",
-      "published": "2026-03-18T11:51:24Z"
     },
     {
       "id": "b916a5f5f736fba0073c37def5cbad9631699cf1",
