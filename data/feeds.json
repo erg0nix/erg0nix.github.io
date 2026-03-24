@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-03-23T07:16:48.929256Z",
+  "generated_at": "2026-03-24T07:09:54.916658Z",
   "items": [
+    {
+      "id": "105cb6d46763e9187010c098f46c54b7303d2fe3",
+      "title": "Slik løser de 40-årskrisen",
+      "link": "https://www.kode24.no/artikkel/slik-loser-de-40-arskrisen/259601",
+      "source": "Kode24",
+      "summary": "– 40-årskrisen toppet seg ved å melde seg på NM i KI, sier Lars Erik Brekne Johnsen til kode24.",
+      "published": "2026-03-24T05:00:00Z"
+    },
+    {
+      "id": "2f28ff690717c5b0b69455e678a421526fe16f12",
+      "title": "GitHub expands application security coverage with AI‑powered detections",
+      "link": "https://github.blog/security/application-security/github-expands-application-security-coverage-with-ai-powered-detections/",
+      "source": "GitHub Blog",
+      "summary": "CodeQL and AI‑powered detections work together in GitHub Code Security to identify vulnerabilities across more languages and frameworks. The post GitHub expands application security coverage with AI‑powered detections appeared first on The GitHub Blog.",
+      "published": "2026-03-23T16:00:00Z"
+    },
+    {
+      "id": "c57f2d2c20758131bd32b8327eb3823b4065a8fd",
+      "title": "– De beste utviklerne koder knapt lenger",
+      "link": "https://www.kode24.no/artikkel/de-beste-utviklerne-koder-knapt-lenger/259565",
+      "source": "Kode24",
+      "summary": "I august 2025 hadde jeg mitt «oh shit»-moment med agentisk koding. Det var da jeg så potensialet i Spec-Driven Development.",
+      "published": "2026-03-23T13:40:59Z"
+    },
+    {
+      "id": "848c08795b850706f3852b212387fc9eb74375c7",
+      "title": "Frankrike mistenker Musk for å oppmuntre til deepfakes",
+      "link": "https://www.kode24.no/artikkel/frankrike-mistenker-musk-for-a-oppmuntre-til-deepfakes/259534",
+      "source": "Kode24",
+      "summary": "Elon Musk skal ha oppmuntret til seksualiserte deepfakes gjennom Grok på X for å øke selskapets verdi før den planlagte børsnoteringen i juni, mener franske myndigheter.",
+      "published": "2026-03-23T13:16:19Z"
+    },
+    {
+      "id": "4d879f71730f26ec6a71c9f5fabc1770b8e44281",
+      "title": "Slik gikk det i NM i KI",
+      "link": "https://www.kode24.no/artikkel/slik-gikk-det-i-nm-i-ki/259522",
+      "source": "Kode24",
+      "summary": "21-åringer vant foran et erfaren lag. 3100 personer blåste arrangørenes forventninger av banen.",
+      "published": "2026-03-23T07:34:32Z"
+    },
     {
       "id": "5c80045cc06c0a985f4ffb76b66aa74aca375376",
       "title": "Nito-topp: Fagforeninger er bakpå i møte med KI",
@@ -15,6 +55,14 @@
       "link": "https://www.kode24.no/artikkel/nora-hjelper-utviklere-med-a-vibbekode-sikkert/259088",
       "source": "Kode24",
       "summary": "KI kan lage logikkfeil som ikke fanges opp av sikkerhetsskannere, forteller Ukas Koder.",
+      "published": "2026-03-23T05:00:00Z"
+    },
+    {
+      "id": "b779846e8214a19e35f2f4e96729a50650bfc5c7",
+      "title": "Slik vant to 21-åringer norgesmesterskapet",
+      "link": "https://www.kode24.no/artikkel/slik-vant-to-21-aringer-norgesmesterskapet/259548",
+      "source": "Kode24",
+      "summary": "Claude Code stod sentralt da to unge menn vant både førsteplassen og «unge under 23 årsklassen» i NM i KI 2026. – Vurderte aldri å bruke OpenAI, sier Thobias M. Knudsen.",
       "published": "2026-03-23T05:00:00Z"
     },
     {
@@ -138,46 +186,6 @@
       "published": "2026-03-19T12:58:27Z"
     },
     {
-      "id": "586c0995e389ddc8c577e7e60c61db119b130fb6",
-      "title": "Ja, du kan lade mobilen over natten",
-      "link": "https://www.kode24.no/artikkel/ja-du-kan-lade-mobilen-over-natten/259218",
-      "source": "Kode24",
-      "summary": "Du kan lade mobilen over natten – men visste du dette trikset?",
-      "published": "2026-03-19T10:40:36Z"
-    },
-    {
-      "id": "5c07f60e73c2c46a30a301c18f309037225972f1",
-      "title": "Skal bruke KI til å gjøre gull av ubrukte kundedata",
-      "link": "https://www.kode24.no/artikkel/skal-bruke-ki-til-a-gjore-gull-av-ubrukte-kundedata/259136",
-      "source": "Kode24",
-      "summary": "Det nystartede KI-selskapet Compethic vil hjelpe bedrifter med å utnytte verdifulle kundedata som i dag ofte går tapt.",
-      "published": "2026-03-19T08:12:01Z"
-    },
-    {
-      "id": "d5915a312b3c264a19d48f726f4b7e9c0bfd6d45",
-      "title": "Ny satsing skal beskytte open source-utviklere mot KI-generert “slop”",
-      "link": "https://www.kode24.no/artikkel/ny-satsing-skal-beskytte-open-source-utviklere-mot-ki-generert-slop/259160",
-      "source": "Kode24",
-      "summary": "Bak satsingen står flere av de største teknologiselskapene, inkludert Google, Microsoft, OpenAI, Amazon Web Services, GitHub og Anthropic.",
-      "published": "2026-03-19T06:00:00Z"
-    },
-    {
-      "id": "33aa1a044bb0b1aba3ee990eb81487d0b0933980",
-      "title": "Samler håndverkere, advokater, lån og forsikring på én markedplass",
-      "link": "https://www.kode24.no/artikkel/samler-handverkere-advokater-lan-og-forsikring-pa-en-markedplass/259120",
-      "source": "Kode24",
-      "summary": "1881 Group og Tjenestetorget lanserer én skandinavisk konkurrent til MittAnbud, Renteradar og andre markedsplasser. – Vi gjør det enkelt for forbrukerne, sier Anders Wetting.",
-      "published": "2026-03-19T05:00:00Z"
-    },
-    {
-      "id": "628e552590eeea0f17881d965325a8627304ec0a",
-      "title": "Apple tetter WebKit-sårbarhet",
-      "link": "https://www.kode24.no/artikkel/apple-tetter-webkit-sarbarhet/259134",
-      "source": "Kode24",
-      "summary": "Beskrives som en feil i WebKits Navigation API.",
-      "published": "2026-03-19T05:00:00Z"
-    },
-    {
       "id": "b916a5f5f736fba0073c37def5cbad9631699cf1",
       "title": "Investing in the people shaping open source and securing the future together",
       "link": "https://github.blog/security/supply-chain-security/investing-in-the-people-shaping-open-source-and-securing-the-future-together/",
@@ -243,15 +251,6 @@
       "summary": "GitHub Agentic Workflows are built with isolation, constrained outputs, and comprehensive logging. Learn how our threat model and security architecture help teams run agents safely in GitHub Actions. The post Under the hood: Security architecture of GitHub Agentic Workflows appeared first on The...",
       "published": "2026-03-09T16:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2026/03/image1.jpg?resize=1024%2C949"
-    },
-    {
-      "id": "0d3cf4125f8889e9a569bda85b06a4b81ce7d0de",
-      "title": "How to scan for vulnerabilities with GitHub Security Lab’s open source AI-powered framework",
-      "link": "https://github.blog/security/how-to-scan-for-vulnerabilities-with-github-security-labs-open-source-ai-powered-framework/",
-      "source": "GitHub Blog",
-      "summary": "GitHub Security Lab Taskflow Agent is very effective at finding Auth Bypasses, IDORs, Token Leaks, and other high-impact vulnerabilities. The post How to scan for vulnerabilities with GitHub Security Lab’s open source AI-powered framework appeared first on The GitHub Blog.",
-      "published": "2026-03-06T21:09:04Z",
-      "image": "https://github.blog/wp-content/uploads/2026/03/ai-high-level-overview5.excalidraw.png?resize=1024%2C779"
     },
     {
       "id": "58090b041f481022af2fefee6d1fd70bffe4d02e",
