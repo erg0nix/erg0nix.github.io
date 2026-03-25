@@ -1,6 +1,63 @@
 {
-  "generated_at": "2026-03-24T07:09:54.916658Z",
+  "generated_at": "2026-03-25T07:07:37.214741Z",
   "items": [
+    {
+      "id": "30399261724001d43224a0ce83c44d70e603b74c",
+      "title": "Building AI-powered GitHub issue triage with the Copilot SDK",
+      "link": "https://github.blog/ai-and-ml/github-copilot/building-ai-powered-github-issue-triage-with-the-copilot-sdk/",
+      "source": "GitHub Blog",
+      "summary": "Learn how to integrate the Copilot SDK into a React Native app to generate AI-powered issue summaries, with production patterns for graceful degradation and caching. The post Building AI-powered GitHub issue triage with the Copilot SDK appeared first on The GitHub Blog.",
+      "published": "2026-03-24T16:00:00Z",
+      "image": "https://github.blog/wp-content/uploads/2026/03/Screenshot-2026-03-19-at-11.37.43-AM.png?resize=1305%2C835"
+    },
+    {
+      "id": "e4d4cb9f7e82971fb0b3645c781fdaa40466342f",
+      "title": "– Hvis du nekter å bruke KI, er du basically tjukk i huet",
+      "link": "https://www.kode24.no/artikkel/hvis-du-nekter-a-bruke-ki-er-du-basically-tjukk-i-huet/259609",
+      "source": "Kode24",
+      "summary": "Oljefondet-sjef Nicolai Tangen forsikrer kode24 om at alle utviklere i fondet bruker KI.",
+      "published": "2026-03-24T14:46:00Z"
+    },
+    {
+      "id": "c786033692f8e51c6382fe54f11efa4a166a0921",
+      "title": "Slik jobber ansatte i Oljefondet med KI",
+      "link": "https://www.kode24.no/artikkel/slik-jobber-ansatte-i-oljefondet-med-ki/259744",
+      "source": "Kode24",
+      "summary": "Ansatte har blitt pålagt å bruke kunstig intelligens. Nå forteller de om hvordan de lager egne agenter for å jobbe mer effektivt i Oljefondet.",
+      "published": "2026-03-24T14:43:42Z"
+    },
+    {
+      "id": "e6713f2c1eb66c233476a98b039b2a4dfd97ffeb",
+      "title": "Elektro- og datateknologi topper søkerveksten i år",
+      "link": "https://www.kode24.no/artikkel/elektro-og-datateknologi-topper-sokerveksten-i-ar/259713",
+      "source": "Kode24",
+      "summary": "Interessen for yrkesfag på videregående bare øker, blant dem linjen elektro og datateknologi.",
+      "published": "2026-03-24T12:35:29Z"
+    },
+    {
+      "id": "d91fa78befbc7709ba8375228a930e2e23cb7c61",
+      "title": "NTNU lanserer språkmodell: – Trygg KI-tjeneste",
+      "link": "https://www.kode24.no/artikkel/ntnu-lanserer-sprakmodell-trygg-ki-tjeneste/259632",
+      "source": "Kode24",
+      "summary": "Ansatte og studenter skal gjennom GPT NTNU få tilgang til fire språkmodeller på egne servere, skriver Khrono.",
+      "published": "2026-03-24T11:46:57Z"
+    },
+    {
+      "id": "173e4f4595da3713564485c962953a42473ff099",
+      "title": "Selskapets snittalder er 21 år",
+      "link": "https://www.kode24.no/artikkel/selskapets-snittalder-er-21-ar/259597",
+      "source": "Kode24",
+      "summary": "Det unge cybersikkerhetsselskapet fra Trondheim har en snittalder på 21 år. – Vi jobber nå med flere av de største selskapene i fintech og DeFi.",
+      "published": "2026-03-24T10:19:45Z"
+    },
+    {
+      "id": "5c008b079718f1a14c1743e713bbb8a80ff5b09f",
+      "title": "Sliter med å bli enige",
+      "link": "https://www.kode24.no/artikkel/sliter-med-a-bli-enige/259686",
+      "source": "Kode24",
+      "summary": "Juryen i en rettssak mot Google og Meta sier den sliter med å komme til enighet når det gjelder ett av selskapene.",
+      "published": "2026-03-24T10:09:31Z"
+    },
     {
       "id": "105cb6d46763e9187010c098f46c54b7303d2fe3",
       "title": "Slik løser de 40-årskrisen",
@@ -8,6 +65,15 @@
       "source": "Kode24",
       "summary": "– 40-årskrisen toppet seg ved å melde seg på NM i KI, sier Lars Erik Brekne Johnsen til kode24.",
       "published": "2026-03-24T05:00:00Z"
+    },
+    {
+      "id": "a5addf8606df3e8a369a2fc506ad4a05f7e158ef",
+      "title": "Type Construction and Cycle Detection",
+      "link": "https://go.dev/blog/type-construction-and-cycle-detection",
+      "source": "Go Blog",
+      "summary": "Go 1.26 simplifies type construction and enhances cycle detection for certain kinds of recursive types.",
+      "published": "2026-03-24T00:00:00Z",
+      "image": "https://go.dev/blog/type-construction-and-cycle-detection/01.svg"
     },
     {
       "id": "2f28ff690717c5b0b69455e678a421526fe16f12",
@@ -122,38 +188,6 @@
       "published": "2026-03-20T09:14:25Z"
     },
     {
-      "id": "17f074e307a9179a035bcff58af884141eac8dbf",
-      "title": "Én av fire stortings-politikere dukker opp på det mørke nettet",
-      "link": "https://www.kode24.no/artikkel/en-av-fire-stortings-politikere-dukker-opp-pa-det-morke-nettet/259323",
-      "source": "Kode24",
-      "summary": "Hver fjerde stortingspolitiker har fått sine personlige opplysninger eksponert på det mørke nettet, viser ny undersøkelse.",
-      "published": "2026-03-20T08:14:01Z"
-    },
-    {
-      "id": "5fa6e2b732ef518f8d9882ada6c6ccfe7d698c16",
-      "title": "Plategigant saksøker KI-selskap for bruk av tekster",
-      "link": "https://www.kode24.no/artikkel/plategigant-saksoker-ki-selskap-for-bruk-av-tekster/259307",
-      "source": "Kode24",
-      "summary": "Plateselskapet BMG saksøker Anthropic som de mener har brukt tekster fra artistene sine til å trene KI-modellen Claude. Blant dem er Rolling Stones.",
-      "published": "2026-03-20T07:38:06Z"
-    },
-    {
-      "id": "1cfa8502f90b35caac5846fa0bcb2a458d8d91dc",
-      "title": "Gått viralt",
-      "link": "https://www.kode24.no/artikkel/gatt-viralt/259234",
-      "source": "Kode24",
-      "summary": "Den siste tiden har videoen til Forbrukerrådet gått viralt. En reklame der det advares mot enshittification av plattformer. Drittifisering har skapt overskrifter verden rundt.",
-      "published": "2026-03-20T06:00:00Z"
-    },
-    {
-      "id": "bb30b84bf855660b4a32e22098b360e82de47036",
-      "title": "Vite skal være 10 til 30 ganger raskere",
-      "link": "https://www.kode24.no/artikkel/vite-skal-vaere-10-til-30-ganger-raskere/259282",
-      "source": "Kode24",
-      "summary": "– Dette føyer seg inn i en tydelig trend, skriver Joachim Maksim i Bekk.",
-      "published": "2026-03-20T05:00:00Z"
-    },
-    {
       "id": "9c996c73c65e9f69186486bd12544d71957685c4",
       "title": "Rethinking open source mentorship in the AI era",
       "link": "https://github.blog/open-source/maintainers/rethinking-open-source-mentorship-in-the-ai-era/",
@@ -168,22 +202,6 @@
       "source": "GitHub Blog",
       "summary": "An inside look at repository-native orchestration with GitHub Copilot and the design patterns behind multi-agent workflows that stay inspectable, predictable, and collaborative. The post How Squad runs coordinated AI agents inside your repository appeared first on The GitHub Blog.",
       "published": "2026-03-19T16:09:50Z"
-    },
-    {
-      "id": "67f74b42ae72283a48e7a3e949ccdd92500dfb03",
-      "title": "Cloudflare anker millionbot etter blokkeringstvist i Italia",
-      "link": "https://www.kode24.no/artikkel/cloudflare-anker-millionbot-etter-blokkeringstvist-i-italia/259243",
-      "source": "Kode24",
-      "summary": "Cloudflare har anket en bot på 14,2 millioner euro fra italienske myndigheter etter å ha nektet å blokkere nettsider via sin DNS-tjeneste 1.1.1.1.",
-      "published": "2026-03-19T12:58:30Z"
-    },
-    {
-      "id": "49ca8accc8e791782904e84062de908a41b5c8bf",
-      "title": "Vil gi deg mer plass – og færre forstyrrelser",
-      "link": "https://www.kode24.no/artikkel/vil-gi-deg-mer-plass-og-faerre-forstyrrelser/259257",
-      "source": "Kode24",
-      "summary": "Vivaldi lanserer nå versjon 7.9 av sin nettleser, med nye funksjoner som skal gi brukerne mer kontroll, mer skjermplass og en mer uforstyrret nettleseropplevelse.",
-      "published": "2026-03-19T12:58:27Z"
     },
     {
       "id": "b916a5f5f736fba0073c37def5cbad9631699cf1",
@@ -242,15 +260,6 @@
       "summary": "How Go 1.26's source-level inliner works, and how it can help you with self-service API migrations.",
       "published": "2026-03-10T00:00:00Z",
       "image": "https://go.dev/gopls/assets/inline-before.png"
-    },
-    {
-      "id": "12010c07729d59b6c067724bb1c319accbced337",
-      "title": "Under the hood: Security architecture of GitHub Agentic Workflows",
-      "link": "https://github.blog/ai-and-ml/generative-ai/under-the-hood-security-architecture-of-github-agentic-workflows/",
-      "source": "GitHub Blog",
-      "summary": "GitHub Agentic Workflows are built with isolation, constrained outputs, and comprehensive logging. Learn how our threat model and security architecture help teams run agents safely in GitHub Actions. The post Under the hood: Security architecture of GitHub Agentic Workflows appeared first on The...",
-      "published": "2026-03-09T16:00:00Z",
-      "image": "https://github.blog/wp-content/uploads/2026/03/image1.jpg?resize=1024%2C949"
     },
     {
       "id": "58090b041f481022af2fefee6d1fd70bffe4d02e",
@@ -319,15 +328,6 @@
       "source": "Go Blog",
       "summary": "Help shape the future of Go",
       "published": "2025-09-16T00:00:00Z"
-    },
-    {
-      "id": "639b104e14371d578e8f084d74dea2e6a43cb901",
-      "title": "A new experimental Go API for JSON",
-      "link": "https://go.dev/blog/jsonv2-exp",
-      "source": "Go Blog",
-      "summary": "Go 1.25 introduces experimental support for encoding/json/jsontext and encoding/json/v2 packages.",
-      "published": "2025-09-09T00:00:00Z",
-      "image": "https://go.dev/blog/jsonv2-exp/api.png"
     }
   ]
 }
