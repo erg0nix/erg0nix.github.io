@@ -1,6 +1,72 @@
 {
-  "generated_at": "2026-03-26T07:15:13.343938Z",
+  "generated_at": "2026-03-27T07:14:18.497996Z",
   "items": [
+    {
+      "id": "5eefddc9236201e0632a9abc8d5dd28b37ef2e54",
+      "title": "Etterlyser felles språk om hva KI er på arbeidsplassen",
+      "link": "https://www.kode24.no/artikkel/etterlyser-felles-sprak-om-hva-ki-er-pa-arbeidsplassen/259504",
+      "source": "Kode24",
+      "summary": "Arbeidsgivere og ansatte snakker forbi hverandre om KI-krav på jobben. Regjeringen håper å løse problemet med en handlingsplan om KI.",
+      "published": "2026-03-27T07:00:00Z"
+    },
+    {
+      "id": "4890de2b33b4feab25ec65413a359cf3968e189f",
+      "title": "What’s coming to our GitHub Actions 2026 security roadmap",
+      "link": "https://github.blog/news-insights/product-news/whats-coming-to-our-github-actions-2026-security-roadmap/",
+      "source": "GitHub Blog",
+      "summary": "A look at GitHub Actions’ 2026 roadmap, outlining how secure defaults, policy controls, and CI/CD observability harden the software supply chain end to end. The post What’s coming to our GitHub Actions 2026 security roadmap appeared first on The GitHub Blog.",
+      "published": "2026-03-26T16:49:14Z",
+      "image": "https://github.blog/wp-content/uploads/2026/03/Screenshot-2026-03-26-at-12.34.47-PM.png?resize=1070%2C611"
+    },
+    {
+      "id": "4cf17543a9e8bfb41f8d4a5f5928e77de75486d6",
+      "title": "A year of open source vulnerability trends: CVEs, advisories, and malware",
+      "link": "https://github.blog/security/supply-chain-security/a-year-of-open-source-vulnerability-trends-cves-advisories-and-malware/",
+      "source": "GitHub Blog",
+      "summary": "Reviewed advisories hit a four-year low, malware advisories surged, and CNA publishing grew—here’s what changed and what it means for your triage and response. The post A year of open source vulnerability trends: CVEs, advisories, and malware appeared first on The GitHub Blog.",
+      "published": "2026-03-26T16:00:00Z",
+      "image": "https://github.blog/wp-content/uploads/2026/03/1-GHADB-Feeds-vs-Backfill.png?resize=4290%2C2640"
+    },
+    {
+      "id": "d3fc0064ab1582da6848f91423f74fe85a4c5268",
+      "title": "Pamela i anti-KI-film",
+      "link": "https://www.kode24.no/artikkel/pamela-i-anti-ki-film/260026",
+      "source": "Kode24",
+      "summary": "Amerikansk klesmerke og skuespiller protesterer mot KI-modeller i ny reklamefilm.",
+      "published": "2026-03-26T15:27:41Z"
+    },
+    {
+      "id": "8c456b5fe34263049d74a4ec374e3df698b6f31d",
+      "title": "– Takk for at du inviterte meg til Det hvite hus",
+      "link": "https://www.kode24.no/artikkel/takk-for-at-du-inviterte-meg-til-det-hvite-hus/259984",
+      "source": "Kode24",
+      "summary": "Her er førstedame Melania Trump ledsaget av en robot.",
+      "published": "2026-03-26T12:40:58Z"
+    },
+    {
+      "id": "8cd8a5da38cf406aff6f811f58ad71fc23542cf6",
+      "title": "Legger ned Sora",
+      "link": "https://www.kode24.no/artikkel/legger-ned-sora/259968",
+      "source": "Kode24",
+      "summary": "OpenAI har besluttet å legge ned Sora, videogenereringsteknologien de lanserte i 2024.",
+      "published": "2026-03-26T12:02:54Z"
+    },
+    {
+      "id": "9bbd7cfaac51890925e2393eb200f81a4b48258d",
+      "title": "Fra skjemaer til KI: Lærdommer fra et hackathon-prosjekt",
+      "link": "https://www.kode24.no/artikkel/fra-skjemaer-til-ki-laerdommer-fra-et-hackathon-prosjekt/259905",
+      "source": "Kode24",
+      "summary": "Sercan Leylek var lei alle nettskjemaene i byråkratiet. Derfor bygget han og kolleger en agent som kutter skjema-tiden, forteller han.",
+      "published": "2026-03-26T08:48:06Z"
+    },
+    {
+      "id": "7c9b593839cad4c70c4a4ffe930785feed33c250",
+      "title": "Høyre krever at regjeringen tar grep",
+      "link": "https://www.kode24.no/artikkel/hoyre-krever-at-regjeringen-tar-grep/259950",
+      "source": "Kode24",
+      "summary": "Høyre vil få bukt med KI-juks på skolene og fremmer forslag til Stortinget.",
+      "published": "2026-03-26T07:29:41Z"
+    },
     {
       "id": "766da5030ef9e25ae8da795fe332d12bfad69556",
       "title": "KI-profiler deltar i konkurranser – skaperne holder seg anonyme",
@@ -131,22 +197,6 @@
       "published": "2026-03-24T10:19:45Z"
     },
     {
-      "id": "5c008b079718f1a14c1743e713bbb8a80ff5b09f",
-      "title": "Sliter med å bli enige",
-      "link": "https://www.kode24.no/artikkel/sliter-med-a-bli-enige/259686",
-      "source": "Kode24",
-      "summary": "Juryen i en rettssak mot Google og Meta sier den sliter med å komme til enighet når det gjelder ett av selskapene.",
-      "published": "2026-03-24T10:09:31Z"
-    },
-    {
-      "id": "105cb6d46763e9187010c098f46c54b7303d2fe3",
-      "title": "Slik løser de 40-årskrisen",
-      "link": "https://www.kode24.no/artikkel/slik-loser-de-40-arskrisen/259601",
-      "source": "Kode24",
-      "summary": "– 40-årskrisen toppet seg ved å melde seg på NM i KI, sier Lars Erik Brekne Johnsen til kode24.",
-      "published": "2026-03-24T05:00:00Z"
-    },
-    {
       "id": "a5addf8606df3e8a369a2fc506ad4a05f7e158ef",
       "title": "Type Construction and Cycle Detection",
       "link": "https://go.dev/blog/type-construction-and-cycle-detection",
@@ -162,38 +212,6 @@
       "source": "GitHub Blog",
       "summary": "CodeQL and AI‑powered detections work together in GitHub Code Security to identify vulnerabilities across more languages and frameworks. The post GitHub expands application security coverage with AI‑powered detections appeared first on The GitHub Blog.",
       "published": "2026-03-23T16:00:00Z"
-    },
-    {
-      "id": "c57f2d2c20758131bd32b8327eb3823b4065a8fd",
-      "title": "– De beste utviklerne koder knapt lenger",
-      "link": "https://www.kode24.no/artikkel/de-beste-utviklerne-koder-knapt-lenger/259565",
-      "source": "Kode24",
-      "summary": "I august 2025 hadde jeg mitt «oh shit»-moment med agentisk koding. Det var da jeg så potensialet i Spec-Driven Development.",
-      "published": "2026-03-23T13:40:59Z"
-    },
-    {
-      "id": "848c08795b850706f3852b212387fc9eb74375c7",
-      "title": "Frankrike mistenker Musk for å oppmuntre til deepfakes",
-      "link": "https://www.kode24.no/artikkel/frankrike-mistenker-musk-for-a-oppmuntre-til-deepfakes/259534",
-      "source": "Kode24",
-      "summary": "Elon Musk skal ha oppmuntret til seksualiserte deepfakes gjennom Grok på X for å øke selskapets verdi før den planlagte børsnoteringen i juni, mener franske myndigheter.",
-      "published": "2026-03-23T13:16:19Z"
-    },
-    {
-      "id": "4d879f71730f26ec6a71c9f5fabc1770b8e44281",
-      "title": "Slik gikk det i NM i KI",
-      "link": "https://www.kode24.no/artikkel/slik-gikk-det-i-nm-i-ki/259522",
-      "source": "Kode24",
-      "summary": "21-åringer vant foran et erfaren lag. 3100 personer blåste arrangørenes forventninger av banen.",
-      "published": "2026-03-23T07:34:32Z"
-    },
-    {
-      "id": "5c80045cc06c0a985f4ffb76b66aa74aca375376",
-      "title": "Nito-topp: Fagforeninger er bakpå i møte med KI",
-      "link": "https://www.kode24.no/artikkel/nito-topp-fagforeninger-er-bakpa-i-mote-med-ki/259230",
-      "source": "Kode24",
-      "summary": "Nordiske fagforeninger vil kreve åpenhet og personvern når jobbverktøy bruker KI til å overvåke ansatte. Må dokumentere mer, krever Bjørn Tore Sund i Nito.",
-      "published": "2026-03-23T06:07:04Z"
     },
     {
       "id": "9c996c73c65e9f69186486bd12544d71957685c4",
@@ -235,22 +253,6 @@
       "summary": "AI automates triage for accessibility feedback, allowing us to focus on fixing barriers—turning a chaotic backlog into continuous, rapid resolutions. The post Continuous AI for accessibility: How GitHub transforms feedback into inclusion appeared first on The GitHub Blog.",
       "published": "2026-03-12T16:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2026/03/Screenshot-2026-03-11-at-12.37.19-PM.png?resize=1395%2C244"
-    },
-    {
-      "id": "fbe8f2af0ff86b59a6d2c0cc7bab1bec0845dc77",
-      "title": "GitHub availability report: February 2026",
-      "link": "https://github.blog/news-insights/company-news/github-availability-report-february-2026/",
-      "source": "GitHub Blog",
-      "summary": "In February, we experienced six incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: February 2026 appeared first on The GitHub Blog.",
-      "published": "2026-03-12T03:23:54Z"
-    },
-    {
-      "id": "fc59f28847d2d427dd306cdfa555028805f644d2",
-      "title": "Addressing GitHub’s recent availability issues",
-      "link": "https://github.blog/news-insights/company-news/addressing-githubs-recent-availability-issues-2/",
-      "source": "GitHub Blog",
-      "summary": "GitHub recently experienced several availability incidents. We understand the impact these outages have on our customers and are sharing details on the stabilization work we’re prioritizing right now. The post Addressing GitHub’s recent availability issues appeared first on The GitHub Blog.",
-      "published": "2026-03-11T21:41:51Z"
     },
     {
       "id": "8a2a9a67f325fa75bc77381476c3b987b43a57ea",
