@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-03-27T07:14:18.497996Z",
+  "generated_at": "2026-03-28T07:03:46.434371Z",
   "items": [
+    {
+      "id": "3d160ef54c4569cc6a88f50f4647f07af57678e3",
+      "title": "– Nervepirrende",
+      "link": "https://www.kode24.no/artikkel/nervepirrende/260008",
+      "source": "Kode24",
+      "summary": "Orbit NTNU har hatt en nervepirrende uke og forteller at de venter på ny tid for rakettoppskyting.",
+      "published": "2026-03-28T05:00:00Z"
+    },
+    {
+      "id": "32103fda906ed468a8ea157fc2b6cfb42fa3a09f",
+      "title": "Hackere hevder de har brutt seg inn i FBI-toppens epost",
+      "link": "https://www.kode24.no/artikkel/hackere-hevder-de-har-brutt-seg-inn-i-fbi-toppens-epost/260174",
+      "source": "Kode24",
+      "summary": "Hackere med bånd til Iran hevder de har brutt seg inn i FBI-direktøren Kash Patels personlige epost. En kilde i USAs justisdepartement bekrefter innbrudd.",
+      "published": "2026-03-27T15:16:32Z"
+    },
+    {
+      "id": "3f3f7932cac6f08b362dbb77ba4e23aec58a8312",
+      "title": "Mener NM-regler ikke ble fulgt: – Sykt skuffet",
+      "link": "https://www.kode24.no/artikkel/mener-nm-regler-ikke-ble-fulgt-sykt-skuffet/260058",
+      "source": "Kode24",
+      "summary": "En person anklager vinnerlaget i NM i KI for å hardkode i en agent-oppgave. Arrrangøren avviser juks. – Standardpraksis og ikke i strid med reglene.",
+      "published": "2026-03-27T14:30:00Z"
+    },
+    {
+      "id": "9e8ecbd5729faacb77c933b1a5e47ca708e7e741",
+      "title": "Wikipedia forbyr KI-genererte artikler",
+      "link": "https://www.kode24.no/artikkel/wikipedia-forbyr-ki-genererte-artikler/260117",
+      "source": "Kode24",
+      "summary": "Fra nå av skal KI kun brukes til grunnleggende redigering eller til å oversette tekster fra ett språk til et annet.",
+      "published": "2026-03-27T13:01:38Z"
+    },
+    {
+      "id": "f61d9f53f2b294f5b2a0869bacca5c8174b1709f",
+      "title": "Ajax-nettsiden hacket",
+      "link": "https://www.kode24.no/artikkel/ajax-nettsiden-hacket/260076",
+      "source": "Kode24",
+      "summary": "Nettsiden til den nederlandske fotballklubben Ajax er blitt hacket.",
+      "published": "2026-03-27T09:59:55Z"
+    },
+    {
+      "id": "63e9fe319b19891aca429da5faba5e08998dccc3",
+      "title": "– Tek-gigantene har ansvar for at de ikke skaper avhengighet",
+      "link": "https://www.kode24.no/artikkel/tek-gigantene-har-ansvar-for-at-de-ikke-skaper-avhengighet/260042",
+      "source": "Kode24",
+      "summary": "Kjennelsen mot Meta og Google, der en kvinne fikk medhold i søksmål om avhengighet av sosiale medier, er en god nyhet, mener digitaliseringsminister Karianne Tung.",
+      "published": "2026-03-27T07:25:12Z"
+    },
     {
       "id": "5eefddc9236201e0632a9abc8d5dd28b37ef2e54",
       "title": "Etterlyser felles språk om hva KI er på arbeidsplassen",
@@ -140,14 +188,6 @@
       "published": "2026-03-25T08:21:26Z"
     },
     {
-      "id": "cb914895de71f67ddde2e378a9c12944f6461427",
-      "title": "Sats henter inn sikkerhetseksperter etter IT-hendelse",
-      "link": "https://www.kode24.no/artikkel/sats-henter-inn-sikkerhetseksperter-etter-it-hendelse/259780",
-      "source": "Kode24",
-      "summary": "Treningskjeden har oppdaget «uautorisert tilgang» til IT-miljøet sitt. Det er ikke indikasjoner på at personopplysninger er påvirket.",
-      "published": "2026-03-25T07:37:25Z"
-    },
-    {
       "id": "30399261724001d43224a0ce83c44d70e603b74c",
       "title": "Building AI-powered GitHub issue triage with the Copilot SDK",
       "link": "https://github.blog/ai-and-ml/github-copilot/building-ai-powered-github-issue-triage-with-the-copilot-sdk/",
@@ -155,46 +195,6 @@
       "summary": "Learn how to integrate the Copilot SDK into a React Native app to generate AI-powered issue summaries, with production patterns for graceful degradation and caching. The post Building AI-powered GitHub issue triage with the Copilot SDK appeared first on The GitHub Blog.",
       "published": "2026-03-24T16:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2026/03/Screenshot-2026-03-19-at-11.37.43-AM.png?resize=1305%2C835"
-    },
-    {
-      "id": "e4d4cb9f7e82971fb0b3645c781fdaa40466342f",
-      "title": "– Hvis du nekter å bruke KI, er du basically tjukk i huet",
-      "link": "https://www.kode24.no/artikkel/hvis-du-nekter-a-bruke-ki-er-du-basically-tjukk-i-huet/259609",
-      "source": "Kode24",
-      "summary": "Oljefondet-sjef Nicolai Tangen forsikrer kode24 om at alle utviklere i fondet bruker KI.",
-      "published": "2026-03-24T14:46:00Z"
-    },
-    {
-      "id": "c786033692f8e51c6382fe54f11efa4a166a0921",
-      "title": "Slik jobber ansatte i Oljefondet med KI",
-      "link": "https://www.kode24.no/artikkel/slik-jobber-ansatte-i-oljefondet-med-ki/259744",
-      "source": "Kode24",
-      "summary": "Ansatte har blitt pålagt å bruke kunstig intelligens. Nå forteller de om hvordan de lager egne agenter for å jobbe mer effektivt i Oljefondet.",
-      "published": "2026-03-24T14:43:42Z"
-    },
-    {
-      "id": "e6713f2c1eb66c233476a98b039b2a4dfd97ffeb",
-      "title": "Elektro- og datateknologi topper søkerveksten i år",
-      "link": "https://www.kode24.no/artikkel/elektro-og-datateknologi-topper-sokerveksten-i-ar/259713",
-      "source": "Kode24",
-      "summary": "Interessen for yrkesfag på videregående bare øker, blant dem linjen elektro og datateknologi.",
-      "published": "2026-03-24T12:35:29Z"
-    },
-    {
-      "id": "d91fa78befbc7709ba8375228a930e2e23cb7c61",
-      "title": "NTNU lanserer språkmodell: – Trygg KI-tjeneste",
-      "link": "https://www.kode24.no/artikkel/ntnu-lanserer-sprakmodell-trygg-ki-tjeneste/259632",
-      "source": "Kode24",
-      "summary": "Ansatte og studenter skal gjennom GPT NTNU få tilgang til fire språkmodeller på egne servere, skriver Khrono.",
-      "published": "2026-03-24T11:46:57Z"
-    },
-    {
-      "id": "173e4f4595da3713564485c962953a42473ff099",
-      "title": "Selskapets snittalder er 21 år",
-      "link": "https://www.kode24.no/artikkel/selskapets-snittalder-er-21-ar/259597",
-      "source": "Kode24",
-      "summary": "Det unge cybersikkerhetsselskapet fra Trondheim har en snittalder på 21 år. – Vi jobber nå med flere av de største selskapene i fintech og DeFi.",
-      "published": "2026-03-24T10:19:45Z"
     },
     {
       "id": "a5addf8606df3e8a369a2fc506ad4a05f7e158ef",
