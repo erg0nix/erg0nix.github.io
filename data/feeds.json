@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-03-29T07:09:45.203880Z",
+  "generated_at": "2026-03-30T07:48:50.196678Z",
   "items": [
+    {
+      "id": "9cc28c309061cb5dea8133856a46a3d082b17aa9",
+      "title": "Sliter med ingeniør-mangel tross økt KI-bruk",
+      "link": "https://www.kode24.no/artikkel/sliter-med-ingenior-mangel-tross-okt-ki-bruk/259798",
+      "source": "Kode24",
+      "summary": "Over seks av ti ingeniørbedrifter bruker nå KI. Samtidig sliter halvparten av dem med å få tak i ingeniører, ifølge undersøkelse.",
+      "published": "2026-03-30T06:00:00Z"
+    },
+    {
+      "id": "436bd7a607426a0b200a7307430e1723772b30b7",
+      "title": "Vil ha mer åpenhet om KI sitt klimaavtrykk",
+      "link": "https://www.kode24.no/artikkel/vil-ha-mer-apenhet-om-ki-sitt-klimaavtrykk/260055",
+      "source": "Kode24",
+      "summary": "– Ettersom skisesongen bare blir kortere og kortere, og ekstremvær herjer når jeg skal bade, så må vi snakke mer om miljøavtrykket til KI, sier teknologen Alis Wiken Wilson.",
+      "published": "2026-03-30T04:00:00Z"
+    },
     {
       "id": "3d160ef54c4569cc6a88f50f4647f07af57678e3",
       "title": "– Nervepirrende",
@@ -170,22 +186,6 @@
       "source": "Kode24",
       "summary": "Meta dømt til å betale 3,6 milliarder kroner i erstatning. En jury i New Mexico slo tirsdag fast at sosiale medier-selskapet Meta har brutt delstatens forbrukerlov.",
       "published": "2026-03-25T11:50:56Z"
-    },
-    {
-      "id": "c4100f11f4daf475928b8de37453af64c2e5d0be",
-      "title": "Påskenøtter og påskeeggjakt",
-      "link": "https://www.kode24.no/artikkel/paskenotter-og-paskeeggjakt/259738",
-      "source": "Kode24",
-      "summary": "Personlige påskeegg, påskeharer på vandring og påskenøtter hos Vipps og Novacare. kode24 ønsker alle utviklere og lesere en god påske!",
-      "published": "2026-03-25T08:28:13Z"
-    },
-    {
-      "id": "c4a66ae74f5f352bb9193ab595adf040c9c041b4",
-      "title": "Norge får nytt nødnett – tar i bruk video, foto og KI",
-      "link": "https://www.kode24.no/artikkel/norge-far-nytt-nodnett-tar-i-bruk-video-foto-og-ki/259803",
-      "source": "Kode24",
-      "summary": "En utviklingsavtale for nytt nødnett ble tirsdag signert av digitaliseringsminister Karianne Tung, Nkom og mobiloperatørene Lyse, Telenor og Telia.",
-      "published": "2026-03-25T08:21:26Z"
     },
     {
       "id": "30399261724001d43224a0ce83c44d70e603b74c",
