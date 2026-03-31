@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-03-30T07:48:50.196678Z",
+  "generated_at": "2026-03-31T07:21:39.975288Z",
   "items": [
+    {
+      "id": "b877493228d9f4965b1d1bacdbf1cc169d41b80a",
+      "title": "– KI gjør ikke designeren overflødig. Men til de viktigste strategene i teamet",
+      "link": "https://www.kode24.no/artikkel/ki-gjor-ikke-designeren-overflodig-men-til-de-viktigste-strategene-i-teamet/260226",
+      "source": "Kode24",
+      "summary": "– Det er en farlig fristelse i KI-tidsalderen: Å tro at en prompt kan erstatte et brukerintervju, skriver Anna Steinsund i konsulentselskapet Miles.",
+      "published": "2026-03-31T06:00:00Z"
+    },
+    {
+      "id": "192597012e686dc482089c600cc4e4816e84c676",
+      "title": "Fikk dans stjålet av KI",
+      "link": "https://www.kode24.no/artikkel/fikk-dans-stjalet-av-ki/259482",
+      "source": "Kode24",
+      "summary": "Kjetil Krogstad fant igjen en dansevideo han laget i 2023 på Instagram. Da var han blitt til en dansende kanin. – Helt etisk feil.",
+      "published": "2026-03-31T04:00:00Z"
+    },
+    {
+      "id": "4aae0faa62213d2e28c4453604949e1d1c3035c2",
+      "title": "GitHub for Beginners: Getting started with GitHub security",
+      "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-security/",
+      "source": "GitHub Blog",
+      "summary": "Learn how to secure your projects and keep them safe with GitHub Advanced Security. The post GitHub for Beginners: Getting started with GitHub security appeared first on The GitHub Blog.",
+      "published": "2026-03-30T16:00:00Z"
+    },
+    {
+      "id": "a5ff0fb83a11d100f8dcddc77edc84775a98fca3",
+      "title": "313 akademikere har undertegnet opprop",
+      "link": "https://www.kode24.no/artikkel/313-akademikere-har-undertegnet-opprop/260324",
+      "source": "Kode24",
+      "summary": "313 ansatte i offentlig sektor har skrevt under et opprop. Akademikerne er kritiske til KI i offentlig sektor.",
+      "published": "2026-03-30T13:08:07Z"
+    },
+    {
+      "id": "89a3bc67876886e07acfe4332ec610f940765e37",
+      "title": "Epinova henter ekspert på brukergrensesnitt",
+      "link": "https://www.kode24.no/artikkel/epinova-henter-ekspert-pa-brukergrensesnitt/260257",
+      "source": "Kode24",
+      "summary": "– Jeg trives best når jeg løse et skikkelig problem på en elegant måte, sier Bjørn Kamfjord. Nå skal han fordype seg i Optimizely.",
+      "published": "2026-03-30T12:00:00Z"
+    },
+    {
+      "id": "11ad3c893d9610433219ff003ab835dd11c8b37a",
+      "title": "Mange er teknologisk innlåst på Snapchat",
+      "link": "https://www.kode24.no/artikkel/mange-er-teknologisk-innlast-pa-snapchat/260094",
+      "source": "Kode24",
+      "summary": "Er du en av dem som har etterlatt deg et halvt liv inne på Snapchat? – Du kan ikke regne med at bildene du har på Snap nå er tilgjengelig der om 20 år, sier ekspert.",
+      "published": "2026-03-30T09:23:41Z"
+    },
     {
       "id": "9cc28c309061cb5dea8133856a46a3d082b17aa9",
       "title": "Sliter med ingeniør-mangel tross økt KI-bruk",
@@ -140,52 +188,12 @@
       "published": "2026-03-26T05:00:00Z"
     },
     {
-      "id": "2f3de81d5876ddb85a4a1a8225626b7fbc921424",
-      "title": "Vant rettssak mot Meta og Google",
-      "link": "https://www.kode24.no/artikkel/vant-rettssak-mot-meta-og-google/259940",
-      "source": "Kode24",
-      "summary": "Kvinne vant rettssak mot Meta og Google om avhengighet av sosiale medier.",
-      "published": "2026-03-25T20:54:59Z"
-    },
-    {
       "id": "a04cd87161d449d219452e26a1c469fe77d24f4d",
       "title": "Updates to GitHub Copilot interaction data usage policy",
       "link": "https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/",
       "source": "GitHub Blog",
       "summary": "From April 24 onward, interaction data—specifically inputs, outputs, code snippets, and associated context—from Copilot Free, Pro, and Pro+ users will be used to train and improve our AI models unless they opt out. The post Updates to GitHub Copilot interaction data usage policy appeared first on...",
       "published": "2026-03-25T19:02:29Z"
-    },
-    {
-      "id": "be284fd593f2554f2e30293baf664cbf0979f0fa",
-      "title": "Slik lærer de opp tillitsvalgte i KI",
-      "link": "https://www.kode24.no/artikkel/slik-laerer-de-opp-tillitsvalgte-i-ki/259813",
-      "source": "Kode24",
-      "summary": "Nesten 1000 tillitsvalgte har deltatt på KI-opplæring i regi av Finansforbundet. Men mer må gjøres, vedgår de.",
-      "published": "2026-03-25T16:57:58Z"
-    },
-    {
-      "id": "bc4c73713b725ac086379bedb018466603dc08a1",
-      "title": "Rykter: Apples «Siri» blir en app",
-      "link": "https://www.kode24.no/artikkel/rykter-apples-siri-blir-en-app/259879",
-      "source": "Kode24",
-      "summary": "Snart kan du chatte med Siri når «hun» blir en app – dersom spekulasjonene stemmer.",
-      "published": "2026-03-25T13:47:03Z"
-    },
-    {
-      "id": "3d979213bb286848fd47d975b7ac0d1358468402",
-      "title": "Garth går fra Itera til Glitni",
-      "link": "https://www.kode24.no/artikkel/garth-gar-fra-itera-til-glitni/259830",
-      "source": "Kode24",
-      "summary": "Han er en fullstack dataingeniør som aller best liker det som ligger nederst i stacken. – Får du grunnmuren riktig, gjør du hverdagen bedre for alle andre, sier Garth Theron.",
-      "published": "2026-03-25T11:53:18Z"
-    },
-    {
-      "id": "d3411b9a06209de73c922e07e0478bbf9f5cd7cd",
-      "title": "Meta anker dom",
-      "link": "https://www.kode24.no/artikkel/meta-anker-dom/259841",
-      "source": "Kode24",
-      "summary": "Meta dømt til å betale 3,6 milliarder kroner i erstatning. En jury i New Mexico slo tirsdag fast at sosiale medier-selskapet Meta har brutt delstatens forbrukerlov.",
-      "published": "2026-03-25T11:50:56Z"
     },
     {
       "id": "30399261724001d43224a0ce83c44d70e603b74c",
@@ -244,15 +252,6 @@
       "source": "GitHub Blog",
       "summary": "Set up your first GitHub Actions workflow in this how-to guide. The post GitHub for Beginners: Getting started with GitHub Actions appeared first on The GitHub Blog.",
       "published": "2026-03-16T16:00:00Z"
-    },
-    {
-      "id": "7ddb60979d72674c269c4eca1f16b6c029662e7d",
-      "title": "Continuous AI for accessibility: How GitHub transforms feedback into inclusion",
-      "link": "https://github.blog/ai-and-ml/github-copilot/continuous-ai-for-accessibility-how-github-transforms-feedback-into-inclusion/",
-      "source": "GitHub Blog",
-      "summary": "AI automates triage for accessibility feedback, allowing us to focus on fixing barriers—turning a chaotic backlog into continuous, rapid resolutions. The post Continuous AI for accessibility: How GitHub transforms feedback into inclusion appeared first on The GitHub Blog.",
-      "published": "2026-03-12T16:00:00Z",
-      "image": "https://github.blog/wp-content/uploads/2026/03/Screenshot-2026-03-11-at-12.37.19-PM.png?resize=1395%2C244"
     },
     {
       "id": "8a2a9a67f325fa75bc77381476c3b987b43a57ea",
