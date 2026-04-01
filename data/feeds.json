@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-03-31T07:21:39.975288Z",
+  "generated_at": "2026-04-01T07:27:08.112202Z",
   "items": [
+    {
+      "id": "3de333e96db8aeb3826707af145eb475d71a84e0",
+      "title": "Danner lynteam: – Mye fortere når man bare er to",
+      "link": "https://www.kode24.no/artikkel/danner-lynteam-mye-fortere-nar-man-bare-er-to/260280",
+      "source": "Kode24",
+      "summary": "– Jeg har gjort det meste alene, men brukt noen frilansere for å speede opp utviklingen, sier Rodi Ali om kulturappen han har utviklet.",
+      "published": "2026-04-01T06:00:00Z"
+    },
+    {
+      "id": "885758aa9a308ae54f7f11f6bb3a9e298496d5f4",
+      "title": "Agent-driven development in Copilot Applied Science",
+      "link": "https://github.blog/ai-and-ml/github-copilot/agent-driven-development-in-copilot-applied-science/",
+      "source": "GitHub Blog",
+      "summary": "I used coding agents to build agents that automated part of my job. Here's what I learned about working better with coding agents. The post Agent-driven development in Copilot Applied Science appeared first on The GitHub Blog.",
+      "published": "2026-03-31T16:00:00Z"
+    },
+    {
+      "id": "8cf874bf0059eb6ef7c582d754218721ae11d6e4",
+      "title": "Gir leger oversikt over sykdom - i sanntid",
+      "link": "https://www.kode24.no/artikkel/gir-leger-oversikt-over-sykdom-i-sanntid/260288",
+      "source": "Kode24",
+      "summary": "Å lage den prisvinnende tjenesten for leger var tricky, ifølge tech lead Gutorm Høgåsen. – Det inkluderte integrasjon med helseregistre, IdPorten, KS og Altinn, forteller han.",
+      "published": "2026-03-31T11:00:00Z"
+    },
+    {
+      "id": "21009af477f44ffbd2fcfb28a0acaf8210d7f1e2",
+      "title": "Oljefondet er avhengig av amerikanske tek-selskaper",
+      "link": "https://www.kode24.no/artikkel/oljefondet-er-avhengig-av-amerikanske-tek-selskaper/259824",
+      "source": "Kode24",
+      "summary": "Mens debatten om digital suverenitet pågår, tjener Oljefondet på at amerikanske teknologiselskap gjør det bra. Lite å investere i i Europa, påpeker Tangen.",
+      "published": "2026-03-31T09:30:00Z"
+    },
     {
       "id": "b877493228d9f4965b1d1bacdbf1cc169d41b80a",
       "title": "– KI gjør ikke designeren overflødig. Men til de viktigste strategene i teamet",
@@ -164,30 +196,6 @@
       "published": "2026-03-26T12:02:54Z"
     },
     {
-      "id": "9bbd7cfaac51890925e2393eb200f81a4b48258d",
-      "title": "Fra skjemaer til KI: Lærdommer fra et hackathon-prosjekt",
-      "link": "https://www.kode24.no/artikkel/fra-skjemaer-til-ki-laerdommer-fra-et-hackathon-prosjekt/259905",
-      "source": "Kode24",
-      "summary": "Sercan Leylek var lei alle nettskjemaene i byråkratiet. Derfor bygget han og kolleger en agent som kutter skjema-tiden, forteller han.",
-      "published": "2026-03-26T08:48:06Z"
-    },
-    {
-      "id": "7c9b593839cad4c70c4a4ffe930785feed33c250",
-      "title": "Høyre krever at regjeringen tar grep",
-      "link": "https://www.kode24.no/artikkel/hoyre-krever-at-regjeringen-tar-grep/259950",
-      "source": "Kode24",
-      "summary": "Høyre vil få bukt med KI-juks på skolene og fremmer forslag til Stortinget.",
-      "published": "2026-03-26T07:29:41Z"
-    },
-    {
-      "id": "766da5030ef9e25ae8da795fe332d12bfad69556",
-      "title": "KI-profiler deltar i konkurranser – skaperne holder seg anonyme",
-      "link": "https://www.kode24.no/artikkel/ki-profiler-deltar-i-konkurranser-skaperne-holder-seg-anonyme/259553",
-      "source": "Kode24",
-      "summary": "Influenser-prisutdelingene arrangeres på rekke og rad. Skaperne bak deltakerne som deltar holder seg anonyme.",
-      "published": "2026-03-26T05:00:00Z"
-    },
-    {
       "id": "a04cd87161d449d219452e26a1c469fe77d24f4d",
       "title": "Updates to GitHub Copilot interaction data usage policy",
       "link": "https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/",
@@ -244,14 +252,6 @@
       "source": "GitHub Blog",
       "summary": "See how GitHub is investing in open source security funding maintainers, partnering with Alpha-Omega, and expanding access to help reduce burden and strengthen software supply chains. The post Investing in the people shaping open source and securing the future together appeared first on The GitHub...",
       "published": "2026-03-17T16:00:00Z"
-    },
-    {
-      "id": "60ec921f0667a64da0bb8b023ae2db28afe5e164",
-      "title": "GitHub for Beginners: Getting started with GitHub Actions",
-      "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-actions/",
-      "source": "GitHub Blog",
-      "summary": "Set up your first GitHub Actions workflow in this how-to guide. The post GitHub for Beginners: Getting started with GitHub Actions appeared first on The GitHub Blog.",
-      "published": "2026-03-16T16:00:00Z"
     },
     {
       "id": "8a2a9a67f325fa75bc77381476c3b987b43a57ea",
