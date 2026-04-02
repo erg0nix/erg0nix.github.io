@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-04-01T07:27:08.112202Z",
+  "generated_at": "2026-04-02T07:18:57.019767Z",
   "items": [
+    {
+      "id": "43ca7ac7ce2ddfdfd2dd9ab21f2e77ae0b521c5c",
+      "title": "– Det ser hensynløst ut, men det er fremtiden",
+      "link": "https://www.kode24.no/artikkel/det-ser-hensynlost-ut-men-det-er-fremtiden/260376",
+      "source": "Kode24",
+      "summary": "Løsningen er ikke å skrive mer kode for hånd, men å forstå hvilken disiplin det nye paradigmet krever, sier teknisk leder Maureen Bryne i Askeladden & Co.",
+      "published": "2026-04-02T04:00:00Z"
+    },
+    {
+      "id": "83b1db65b274ee699437494618ec0014eef1d2b0",
+      "title": "Securing the open source supply chain across GitHub",
+      "link": "https://github.blog/security/supply-chain-security/securing-the-open-source-supply-chain-across-github/",
+      "source": "GitHub Blog",
+      "summary": "Recent attacks on open source focus on exfiltrating secrets; here are the prevention steps you can take today, plus a look at the security capabilities GitHub is working on. The post Securing the open source supply chain across GitHub appeared first on The GitHub Blog.",
+      "published": "2026-04-01T19:20:12Z"
+    },
+    {
+      "id": "777b1b1b4246c155ff1c2e447a639c0276e81a76",
+      "title": "Run multiple agents at once with /fleet in Copilot CLI",
+      "link": "https://github.blog/ai-and-ml/github-copilot/run-multiple-agents-at-once-with-fleet-in-copilot-cli/",
+      "source": "GitHub Blog",
+      "summary": "/fleet lets Copilot CLI dispatch multiple agents in parallel. Learn how to write prompts that split work across files, declare dependencies, and avoid common pitfalls. The post Run multiple agents at once with /fleet in Copilot CLI appeared first on The GitHub Blog.",
+      "published": "2026-04-01T15:00:00Z"
+    },
+    {
+      "id": "585b175f650fec259aa33089d473b2cd266299fc",
+      "title": "– Veldig glad for at jeg ikke ga opp da det stormet som verst",
+      "link": "https://www.kode24.no/artikkel/veldig-glad-for-at-jeg-ikke-ga-opp-da-det-stormet-som-verst/260308",
+      "source": "Kode24",
+      "summary": "Lars Fredrik Holst-Try passet ikke inn på barneskolen og holdt på å gi opp studiene. Et mafiaspill ble løsningen.",
+      "published": "2026-04-01T08:00:00Z"
+    },
     {
       "id": "3de333e96db8aeb3826707af145eb475d71a84e0",
       "title": "Danner lynteam: – Mye fortere når man bare er to",
@@ -180,22 +212,6 @@
       "published": "2026-03-26T15:27:41Z"
     },
     {
-      "id": "8c456b5fe34263049d74a4ec374e3df698b6f31d",
-      "title": "– Takk for at du inviterte meg til Det hvite hus",
-      "link": "https://www.kode24.no/artikkel/takk-for-at-du-inviterte-meg-til-det-hvite-hus/259984",
-      "source": "Kode24",
-      "summary": "Her er førstedame Melania Trump ledsaget av en robot.",
-      "published": "2026-03-26T12:40:58Z"
-    },
-    {
-      "id": "8cd8a5da38cf406aff6f811f58ad71fc23542cf6",
-      "title": "Legger ned Sora",
-      "link": "https://www.kode24.no/artikkel/legger-ned-sora/259968",
-      "source": "Kode24",
-      "summary": "OpenAI har besluttet å legge ned Sora, videogenereringsteknologien de lanserte i 2024.",
-      "published": "2026-03-26T12:02:54Z"
-    },
-    {
       "id": "a04cd87161d449d219452e26a1c469fe77d24f4d",
       "title": "Updates to GitHub Copilot interaction data usage policy",
       "link": "https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/",
@@ -236,22 +252,6 @@
       "source": "GitHub Blog",
       "summary": "As contribution volume grows, mentorship signals are harder to read. The 3 Cs framework helps maintainers mentor more strategically... without burning out. The post Rethinking open source mentorship in the AI era appeared first on The GitHub Blog.",
       "published": "2026-03-19T18:00:00Z"
-    },
-    {
-      "id": "9b9b3d39c034577f5d3dae078cf943df158b5905",
-      "title": "How Squad runs coordinated AI agents inside your repository",
-      "link": "https://github.blog/ai-and-ml/github-copilot/how-squad-runs-coordinated-ai-agents-inside-your-repository/",
-      "source": "GitHub Blog",
-      "summary": "An inside look at repository-native orchestration with GitHub Copilot and the design patterns behind multi-agent workflows that stay inspectable, predictable, and collaborative. The post How Squad runs coordinated AI agents inside your repository appeared first on The GitHub Blog.",
-      "published": "2026-03-19T16:09:50Z"
-    },
-    {
-      "id": "b916a5f5f736fba0073c37def5cbad9631699cf1",
-      "title": "Investing in the people shaping open source and securing the future together",
-      "link": "https://github.blog/security/supply-chain-security/investing-in-the-people-shaping-open-source-and-securing-the-future-together/",
-      "source": "GitHub Blog",
-      "summary": "See how GitHub is investing in open source security funding maintainers, partnering with Alpha-Omega, and expanding access to help reduce burden and strengthen software supply chains. The post Investing in the people shaping open source and securing the future together appeared first on The GitHub...",
-      "published": "2026-03-17T16:00:00Z"
     },
     {
       "id": "8a2a9a67f325fa75bc77381476c3b987b43a57ea",
