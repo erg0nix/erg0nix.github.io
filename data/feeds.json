@@ -1,6 +1,23 @@
 {
-  "generated_at": "2026-04-03T07:15:39.604013Z",
+  "generated_at": "2026-04-04T07:06:01.298059Z",
   "items": [
+    {
+      "id": "6f638a8af4313fe6512a586dddc4ce25ff083c98",
+      "title": "– Folk yter ikke sitt beste når de blir overvåket",
+      "link": "https://www.kode24.no/artikkel/folk-yter-ikke-sitt-beste-nar-de-blir-overvaket/260402",
+      "source": "Kode24",
+      "summary": "Hvilken type leder ønsker du å være? Det er et spørsmål de færreste stiller seg i en travel hverdag, men svaret vises likevel, hver dag, i små valg og handlinger.",
+      "published": "2026-04-04T04:00:00Z"
+    },
+    {
+      "id": "e8e1078f8e55d5b46e84c86a8036b162bd875961",
+      "title": "The uphill climb of making diff lines performant",
+      "link": "https://github.blog/engineering/architecture-optimization/the-uphill-climb-of-making-diff-lines-performant/",
+      "source": "GitHub Blog",
+      "summary": "The path to better performance is often found in simplicity. The post The uphill climb of making diff lines performant appeared first on The GitHub Blog.",
+      "published": "2026-04-03T16:00:00Z",
+      "image": "https://github.blog/wp-content/uploads/2026/04/3.png?resize=960%2C1340"
+    },
     {
       "id": "43ca7ac7ce2ddfdfd2dd9ab21f2e77ae0b521c5c",
       "title": "– Det ser hensynløst ut, men det er fremtiden",
@@ -204,14 +221,6 @@
       "image": "https://github.blog/wp-content/uploads/2026/03/1-GHADB-Feeds-vs-Backfill.png?resize=4290%2C2640"
     },
     {
-      "id": "d3fc0064ab1582da6848f91423f74fe85a4c5268",
-      "title": "Pamela i anti-KI-film",
-      "link": "https://www.kode24.no/artikkel/pamela-i-anti-ki-film/260026",
-      "source": "Kode24",
-      "summary": "Amerikansk klesmerke og skuespiller protesterer mot KI-modeller i ny reklamefilm.",
-      "published": "2026-03-26T15:27:41Z"
-    },
-    {
       "id": "a04cd87161d449d219452e26a1c469fe77d24f4d",
       "title": "Updates to GitHub Copilot interaction data usage policy",
       "link": "https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/",
@@ -244,14 +253,6 @@
       "source": "GitHub Blog",
       "summary": "CodeQL and AI‑powered detections work together in GitHub Code Security to identify vulnerabilities across more languages and frameworks. The post GitHub expands application security coverage with AI‑powered detections appeared first on The GitHub Blog.",
       "published": "2026-03-23T16:00:00Z"
-    },
-    {
-      "id": "9c996c73c65e9f69186486bd12544d71957685c4",
-      "title": "Rethinking open source mentorship in the AI era",
-      "link": "https://github.blog/open-source/maintainers/rethinking-open-source-mentorship-in-the-ai-era/",
-      "source": "GitHub Blog",
-      "summary": "As contribution volume grows, mentorship signals are harder to read. The 3 Cs framework helps maintainers mentor more strategically... without burning out. The post Rethinking open source mentorship in the AI era appeared first on The GitHub Blog.",
-      "published": "2026-03-19T18:00:00Z"
     },
     {
       "id": "8a2a9a67f325fa75bc77381476c3b987b43a57ea",
