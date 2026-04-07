@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-04-06T07:50:22.390917Z",
+  "generated_at": "2026-04-07T07:24:05.809559Z",
   "items": [
+    {
+      "id": "82c663ed0cc3491c3fa3c7e755b896e751e4ebf6",
+      "title": "Mange bruker søvnapper – men få opplever bedre søvn",
+      "link": "https://www.kode24.no/artikkel/mange-bruker-sovnapper-men-fa-opplever-bedre-sovn/260418",
+      "source": "Kode24",
+      "summary": "Bare 15 prosent opplever forbedret søvn med apper, viser forskning.",
+      "published": "2026-04-07T06:34:57Z"
+    },
+    {
+      "id": "20dd77ebba1199dd4d7be435bab4dca78e2886b6",
+      "title": "Solgte «enkel» matapp dyrt i 2017: – Ville det vært mulig i dag?",
+      "link": "https://www.kode24.no/artikkel/solgte-enkel-matapp-dyrt-i-2017-ville-det-vaert-mulig-i-dag/260148",
+      "source": "Kode24",
+      "summary": "– I dag kan hvem som helst «vibe-kode» en app på en helg. Er verdien av teknisk kompetanse i ferd med å endre seg fundamentalt, spør Njaal Gjerde.",
+      "published": "2026-04-07T06:00:00Z"
+    },
+    {
+      "id": "179233adf9aa1538924928a5ae6f6901da09be95",
+      "title": "– Mitt beste tips er å se utenfor LLM-er",
+      "link": "https://www.kode24.no/artikkel/mitt-beste-tips-er-a-se-utenfor-llm-er/260295",
+      "source": "Kode24",
+      "summary": "Ukas koder Seran Shanmugathas mener at mye av KI-praten nå handler om agenter og kodegenerering, men påpeker at det også finnes andre interessante spor.",
+      "published": "2026-04-07T04:00:00Z"
+    },
+    {
+      "id": "be95f7e0a06401d0ef6c7e4a161190fa0db163c0",
+      "title": "GitHub Copilot CLI combines model families for a second opinion",
+      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-combines-model-families-for-a-second-opinion/",
+      "source": "GitHub Blog",
+      "summary": "Discover how Rubber Duck provides a different perspective to GitHub Copilot CLI. The post GitHub Copilot CLI combines model families for a second opinion appeared first on The GitHub Blog.",
+      "published": "2026-04-06T21:53:49Z"
+    },
     {
       "id": "6f638a8af4313fe6512a586dddc4ce25ff083c98",
       "title": "– Folk yter ikke sitt beste når de blir overvåket",
@@ -179,30 +211,6 @@
       "published": "2026-03-27T13:01:38Z"
     },
     {
-      "id": "f61d9f53f2b294f5b2a0869bacca5c8174b1709f",
-      "title": "Ajax-nettsiden hacket",
-      "link": "https://www.kode24.no/artikkel/ajax-nettsiden-hacket/260076",
-      "source": "Kode24",
-      "summary": "Nettsiden til den nederlandske fotballklubben Ajax er blitt hacket.",
-      "published": "2026-03-27T09:59:55Z"
-    },
-    {
-      "id": "63e9fe319b19891aca429da5faba5e08998dccc3",
-      "title": "– Tek-gigantene har ansvar for at de ikke skaper avhengighet",
-      "link": "https://www.kode24.no/artikkel/tek-gigantene-har-ansvar-for-at-de-ikke-skaper-avhengighet/260042",
-      "source": "Kode24",
-      "summary": "Kjennelsen mot Meta og Google, der en kvinne fikk medhold i søksmål om avhengighet av sosiale medier, er en god nyhet, mener digitaliseringsminister Karianne Tung.",
-      "published": "2026-03-27T07:25:12Z"
-    },
-    {
-      "id": "5eefddc9236201e0632a9abc8d5dd28b37ef2e54",
-      "title": "Etterlyser felles språk om hva KI er på arbeidsplassen",
-      "link": "https://www.kode24.no/artikkel/etterlyser-felles-sprak-om-hva-ki-er-pa-arbeidsplassen/259504",
-      "source": "Kode24",
-      "summary": "Arbeidsgivere og ansatte snakker forbi hverandre om KI-krav på jobben. Regjeringen håper å løse problemet med en handlingsplan om KI.",
-      "published": "2026-03-27T07:00:00Z"
-    },
-    {
       "id": "4890de2b33b4feab25ec65413a359cf3968e189f",
       "title": "What’s coming to our GitHub Actions 2026 security roadmap",
       "link": "https://github.blog/news-insights/product-news/whats-coming-to-our-github-actions-2026-security-roadmap/",
@@ -245,14 +253,6 @@
       "summary": "Go 1.26 simplifies type construction and enhances cycle detection for certain kinds of recursive types.",
       "published": "2026-03-24T00:00:00Z",
       "image": "https://go.dev/blog/type-construction-and-cycle-detection/01.svg"
-    },
-    {
-      "id": "2f28ff690717c5b0b69455e678a421526fe16f12",
-      "title": "GitHub expands application security coverage with AI‑powered detections",
-      "link": "https://github.blog/security/application-security/github-expands-application-security-coverage-with-ai-powered-detections/",
-      "source": "GitHub Blog",
-      "summary": "CodeQL and AI‑powered detections work together in GitHub Code Security to identify vulnerabilities across more languages and frameworks. The post GitHub expands application security coverage with AI‑powered detections appeared first on The GitHub Blog.",
-      "published": "2026-03-23T16:00:00Z"
     },
     {
       "id": "8a2a9a67f325fa75bc77381476c3b987b43a57ea",
