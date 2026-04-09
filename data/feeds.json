@@ -1,6 +1,55 @@
 {
-  "generated_at": "2026-04-08T07:27:16.124784Z",
+  "generated_at": "2026-04-09T07:42:59.467720Z",
   "items": [
+    {
+      "id": "b129d836c77c8e3f1494b39cb1a31caef6b72747",
+      "title": "1 av 4 er skeptiske til KI-shopping",
+      "link": "https://www.kode24.no/artikkel/1-av-4-er-skeptiske-til-ki-shopping/260456",
+      "source": "Kode24",
+      "summary": "Flere norske forbrukere stoler ikke på teknologien bak KI-shopping: – Dette handler ikke om at folk ikke ser nytten. Det handler om tillit, sier professor.",
+      "published": "2026-04-09T06:30:00Z"
+    },
+    {
+      "id": "d39917740bdabbb50059160ee3f7ec29575da496",
+      "title": "GitHub availability report: March 2026",
+      "link": "https://github.blog/news-insights/company-news/github-availability-report-march-2026/",
+      "source": "GitHub Blog",
+      "summary": "In March, we experienced four incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: March 2026 appeared first on The GitHub Blog.",
+      "published": "2026-04-09T02:21:17Z"
+    },
+    {
+      "id": "2c0ef3390ac2385cfa208180e44ebcb9b790906f",
+      "title": "GitHub Universe is back: We want you to take the stage",
+      "link": "https://github.blog/news-insights/company-news/github-universe-is-back-we-want-you-to-take-the-stage/",
+      "source": "GitHub Blog",
+      "summary": "Get inspired by five of the most memorable, magical, and quirky Universe sessions to date. The post GitHub Universe is back: We want you to take the stage appeared first on The GitHub Blog.",
+      "published": "2026-04-08T16:35:46Z",
+      "image": "https://github.blog/wp-content/uploads/2026/04/Image-1.jpeg?resize=1024%2C683"
+    },
+    {
+      "id": "3904e580c1b66c571e948e2b84f51efabcbb7879",
+      "title": "Map-fil gjorde at Anthropic lekket 500.000 kodelinjer",
+      "link": "https://www.kode24.no/artikkel/map-fil-gjorde-at-anthropic-lekket-500000-kodelinjer/260549",
+      "source": "Kode24",
+      "summary": "Hva skjedde, hvorfor og hvilke konsekvenser fikk det da hele verden fikk kikke under panseret på Claude Code? kode24 hjelper deg.",
+      "published": "2026-04-08T13:31:24Z"
+    },
+    {
+      "id": "7cdf3b008f614c2604164be31abae66ab36b37cf",
+      "title": "Tekniske problemer for politiet og banker",
+      "link": "https://www.kode24.no/artikkel/tekniske-problemer-for-politiet-og-banker/260533",
+      "source": "Kode24",
+      "summary": "En feil etter teknisk vedlikehold hos Tieto rammet norske banker. En annen hendelse rammet politiet og førte til trøbbel på Oslo Lufthavn. Problemene er nå løst.",
+      "published": "2026-04-08T08:09:59Z"
+    },
+    {
+      "id": "f45eb48ff8a0e9993a9a5e36eea34f92cf33e651",
+      "title": "Slik vil han forme samfunnet: OpenAI med politiske forslag",
+      "link": "https://www.kode24.no/artikkel/slik-vil-han-forme-samfunnet-openai-med-politiske-forslag/260525",
+      "source": "Kode24",
+      "summary": "Robotskatt, firedagers arbeidsuke og offentlige fond skal dempe KIs konsekvenser på samfunnet.",
+      "published": "2026-04-08T07:57:48Z"
+    },
     {
       "id": "daf85d837a6c0809686f4aeda0ce02024f51c08f",
       "title": "Ti grep som forbedrer .NET-kodebasen din",
@@ -179,38 +228,6 @@
       "published": "2026-03-30T13:08:07Z"
     },
     {
-      "id": "89a3bc67876886e07acfe4332ec610f940765e37",
-      "title": "Epinova henter ekspert på brukergrensesnitt",
-      "link": "https://www.kode24.no/artikkel/epinova-henter-ekspert-pa-brukergrensesnitt/260257",
-      "source": "Kode24",
-      "summary": "– Jeg trives best når jeg løse et skikkelig problem på en elegant måte, sier Bjørn Kamfjord. Nå skal han fordype seg i Optimizely.",
-      "published": "2026-03-30T12:00:00Z"
-    },
-    {
-      "id": "11ad3c893d9610433219ff003ab835dd11c8b37a",
-      "title": "Mange er teknologisk innlåst på Snapchat",
-      "link": "https://www.kode24.no/artikkel/mange-er-teknologisk-innlast-pa-snapchat/260094",
-      "source": "Kode24",
-      "summary": "Er du en av dem som har etterlatt deg et halvt liv inne på Snapchat? – Du kan ikke regne med at bildene du har på Snap nå er tilgjengelig der om 20 år, sier ekspert.",
-      "published": "2026-03-30T09:23:41Z"
-    },
-    {
-      "id": "9cc28c309061cb5dea8133856a46a3d082b17aa9",
-      "title": "Sliter med ingeniør-mangel tross økt KI-bruk",
-      "link": "https://www.kode24.no/artikkel/sliter-med-ingenior-mangel-tross-okt-ki-bruk/259798",
-      "source": "Kode24",
-      "summary": "Over seks av ti ingeniørbedrifter bruker nå KI. Samtidig sliter halvparten av dem med å få tak i ingeniører, ifølge undersøkelse.",
-      "published": "2026-03-30T06:00:00Z"
-    },
-    {
-      "id": "436bd7a607426a0b200a7307430e1723772b30b7",
-      "title": "Vil ha mer åpenhet om KI sitt klimaavtrykk",
-      "link": "https://www.kode24.no/artikkel/vil-ha-mer-apenhet-om-ki-sitt-klimaavtrykk/260055",
-      "source": "Kode24",
-      "summary": "– Ettersom skisesongen bare blir kortere og kortere, og ekstremvær herjer når jeg skal bade, så må vi snakke mer om miljøavtrykket til KI, sier teknologen Alis Wiken Wilson.",
-      "published": "2026-03-30T04:00:00Z"
-    },
-    {
       "id": "4890de2b33b4feab25ec65413a359cf3968e189f",
       "title": "What’s coming to our GitHub Actions 2026 security roadmap",
       "link": "https://github.blog/news-insights/product-news/whats-coming-to-our-github-actions-2026-security-roadmap/",
@@ -227,23 +244,6 @@
       "summary": "Reviewed advisories hit a four-year low, malware advisories surged, and CNA publishing grew—here’s what changed and what it means for your triage and response. The post A year of open source vulnerability trends: CVEs, advisories, and malware appeared first on The GitHub Blog.",
       "published": "2026-03-26T16:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2026/03/1-GHADB-Feeds-vs-Backfill.png?resize=4290%2C2640"
-    },
-    {
-      "id": "a04cd87161d449d219452e26a1c469fe77d24f4d",
-      "title": "Updates to GitHub Copilot interaction data usage policy",
-      "link": "https://github.blog/news-insights/company-news/updates-to-github-copilot-interaction-data-usage-policy/",
-      "source": "GitHub Blog",
-      "summary": "From April 24 onward, interaction data—specifically inputs, outputs, code snippets, and associated context—from Copilot Free, Pro, and Pro+ users will be used to train and improve our AI models unless they opt out. The post Updates to GitHub Copilot interaction data usage policy appeared first on...",
-      "published": "2026-03-25T19:02:29Z"
-    },
-    {
-      "id": "30399261724001d43224a0ce83c44d70e603b74c",
-      "title": "Building AI-powered GitHub issue triage with the Copilot SDK",
-      "link": "https://github.blog/ai-and-ml/github-copilot/building-ai-powered-github-issue-triage-with-the-copilot-sdk/",
-      "source": "GitHub Blog",
-      "summary": "Learn how to integrate the Copilot SDK into a React Native app to generate AI-powered issue summaries, with production patterns for graceful degradation and caching. The post Building AI-powered GitHub issue triage with the Copilot SDK appeared first on The GitHub Blog.",
-      "published": "2026-03-24T16:00:00Z",
-      "image": "https://github.blog/wp-content/uploads/2026/03/Screenshot-2026-03-19-at-11.37.43-AM.png?resize=1305%2C835"
     },
     {
       "id": "a5addf8606df3e8a369a2fc506ad4a05f7e158ef",
