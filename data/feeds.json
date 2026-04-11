@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-04-10T07:47:55.988872Z",
+  "generated_at": "2026-04-11T07:05:54.458980Z",
   "items": [
+    {
+      "id": "ef47cbbdfa3141659387b93d07875094a2b264b2",
+      "title": "GitHub Copilot CLI for Beginners: Getting started with GitHub Copilot CLI",
+      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-getting-started-with-github-copilot-cli/",
+      "source": "GitHub Blog",
+      "summary": "GitHub for Beginners: Getting started with the GitHub Copilot CLI, a step-by-step tutorial. The post GitHub Copilot CLI for Beginners: Getting started with GitHub Copilot CLI appeared first on The GitHub Blog.",
+      "published": "2026-04-10T16:00:00Z"
+    },
+    {
+      "id": "2fc92584e141559a569162e5c772ae87207ef4d9",
+      "title": "Smartbriller skal lede blind løper gjennom maraton",
+      "link": "https://www.kode24.no/artikkel/smartbriller-skal-lede-blind-loper-gjennom-maraton/260605",
+      "source": "Kode24",
+      "summary": "Britiske Clarke Reynolds (45) skal gjennomføre et maraton ved hjelp av smartbriller. Ved bruk av teknlogien guides han gjennom løpet.",
+      "published": "2026-04-10T12:25:00Z"
+    },
+    {
+      "id": "68f33e3dbcb88985970f4a90bf8323cca119f7f8",
+      "title": "Amazons «eldre» lesebrett blir ubrukelige",
+      "link": "https://www.kode24.no/artikkel/amazons-eldre-lesebrett-blir-ubrukelige/260736",
+      "source": "Kode24",
+      "summary": "Flere modeller av Amazons lesebrett Kindle blir snart ikke mulig å oppdatere med nye ebøker. Det har opprørt nettgigantens kunder.",
+      "published": "2026-04-10T11:16:25Z"
+    },
+    {
+      "id": "3e058e03968e8c18db9519cd47e8568e3feb3903",
+      "title": "Bruker «lilla team» mot trusler mot helsedata",
+      "link": "https://www.kode24.no/artikkel/bruker-lilla-team-mot-trusler-mot-helsedata/260584",
+      "source": "Kode24",
+      "summary": "Norsk helsenett bruker ikke rene blå og røde lag for å teste sikkerhet i en urolig verden, men en miks som arbeidsmetode. – Det er «oss mot problemet»-kultur.",
+      "published": "2026-04-10T09:21:27Z"
+    },
     {
       "id": "ebfac1070370d2da4c97cf627cb8dc16126ec6f3",
       "title": "Dømt: Lagde KI-porno av kjendis",
@@ -188,36 +220,12 @@
       "published": "2026-04-01T15:00:00Z"
     },
     {
-      "id": "585b175f650fec259aa33089d473b2cd266299fc",
-      "title": "– Veldig glad for at jeg ikke ga opp da det stormet som verst",
-      "link": "https://www.kode24.no/artikkel/veldig-glad-for-at-jeg-ikke-ga-opp-da-det-stormet-som-verst/260308",
-      "source": "Kode24",
-      "summary": "Lars Fredrik Holst-Try passet ikke inn på barneskolen og holdt på å gi opp studiene. Et mafiaspill ble løsningen.",
-      "published": "2026-04-01T08:00:00Z"
-    },
-    {
-      "id": "3de333e96db8aeb3826707af145eb475d71a84e0",
-      "title": "Danner lynteam: – Mye fortere når man bare er to",
-      "link": "https://www.kode24.no/artikkel/danner-lynteam-mye-fortere-nar-man-bare-er-to/260280",
-      "source": "Kode24",
-      "summary": "– Jeg har gjort det meste alene, men brukt noen frilansere for å speede opp utviklingen, sier Rodi Ali om kulturappen han har utviklet.",
-      "published": "2026-04-01T06:00:00Z"
-    },
-    {
       "id": "885758aa9a308ae54f7f11f6bb3a9e298496d5f4",
       "title": "Agent-driven development in Copilot Applied Science",
       "link": "https://github.blog/ai-and-ml/github-copilot/agent-driven-development-in-copilot-applied-science/",
       "source": "GitHub Blog",
       "summary": "I used coding agents to build agents that automated part of my job. Here's what I learned about working better with coding agents. The post Agent-driven development in Copilot Applied Science appeared first on The GitHub Blog.",
       "published": "2026-03-31T16:00:00Z"
-    },
-    {
-      "id": "8cf874bf0059eb6ef7c582d754218721ae11d6e4",
-      "title": "Gir leger oversikt over sykdom - i sanntid",
-      "link": "https://www.kode24.no/artikkel/gir-leger-oversikt-over-sykdom-i-sanntid/260288",
-      "source": "Kode24",
-      "summary": "Å lage den prisvinnende tjenesten for leger var tricky, ifølge tech lead Gutorm Høgåsen. – Det inkluderte integrasjon med helseregistre, IdPorten, KS og Altinn, forteller han.",
-      "published": "2026-03-31T11:00:00Z"
     },
     {
       "id": "4aae0faa62213d2e28c4453604949e1d1c3035c2",
@@ -235,15 +243,6 @@
       "summary": "A look at GitHub Actions’ 2026 roadmap, outlining how secure defaults, policy controls, and CI/CD observability harden the software supply chain end to end. The post What’s coming to our GitHub Actions 2026 security roadmap appeared first on The GitHub Blog.",
       "published": "2026-03-26T16:49:14Z",
       "image": "https://github.blog/wp-content/uploads/2026/03/Screenshot-2026-03-26-at-12.34.47-PM.png?resize=1070%2C611"
-    },
-    {
-      "id": "4cf17543a9e8bfb41f8d4a5f5928e77de75486d6",
-      "title": "A year of open source vulnerability trends: CVEs, advisories, and malware",
-      "link": "https://github.blog/security/supply-chain-security/a-year-of-open-source-vulnerability-trends-cves-advisories-and-malware/",
-      "source": "GitHub Blog",
-      "summary": "Reviewed advisories hit a four-year low, malware advisories surged, and CNA publishing grew—here’s what changed and what it means for your triage and response. The post A year of open source vulnerability trends: CVEs, advisories, and malware appeared first on The GitHub Blog.",
-      "published": "2026-03-26T16:00:00Z",
-      "image": "https://github.blog/wp-content/uploads/2026/03/1-GHADB-Feeds-vs-Backfill.png?resize=4290%2C2640"
     },
     {
       "id": "a5addf8606df3e8a369a2fc506ad4a05f7e158ef",
