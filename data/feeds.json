@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-04-12T07:20:29.794467Z",
+  "generated_at": "2026-04-13T08:10:18.764626Z",
   "items": [
+    {
+      "id": "27231d631acf853b85be82cd1fc2f8207ba57b39",
+      "title": "Slik brukes KI i norske styrerom",
+      "link": "https://www.kode24.no/artikkel/slik-brukes-ki-i-norske-styrerom/260816",
+      "source": "Kode24",
+      "summary": "Styremedlemmer putter sensitiv informasjon i KI-verktøy. – Overrasker, sier professor.",
+      "published": "2026-04-13T07:17:01Z"
+    },
+    {
+      "id": "5cd8468ceadaf87b27f169f6cf9258243f5e303f",
+      "title": "–Teknologibransjen har ikke råd til å fortsette som før",
+      "link": "https://www.kode24.no/artikkel/teknologibransjen-har-ikke-rad-til-a-fortsette-som-for/260686",
+      "source": "Kode24",
+      "summary": "– Kvinner forsvinner fra IT-ledelse — ikke fordi de velger det, men fordi bransjen ikke gir dem grunn til å bli, skriver Zoya Shah i Dataforeningen.",
+      "published": "2026-04-13T06:00:00Z"
+    },
+    {
+      "id": "957096ad1d72ae36ceb096a69ab2fd41b3970d89",
+      "title": "50.000 i premiepott på «eksklusivt» KI-hackaton",
+      "link": "https://www.kode24.no/artikkel/50000-i-premiepott-pa-eksklusivt-ki-hackaton/260731",
+      "source": "Kode24",
+      "summary": "Ingen vibbekodende ikke-teknolog får være med når Oslo Enhanced Hackaton går av stabelen tirsdag. – Fordi det er gøy, sier arrangøren.",
+      "published": "2026-04-13T04:00:00Z"
+    },
     {
       "id": "ef47cbbdfa3141659387b93d07875094a2b264b2",
       "title": "GitHub Copilot CLI for Beginners: Getting started with GitHub Copilot CLI",
@@ -163,28 +187,12 @@
       "published": "2026-04-07T06:00:00Z"
     },
     {
-      "id": "179233adf9aa1538924928a5ae6f6901da09be95",
-      "title": "– Mitt beste tips er å se utenfor LLM-er",
-      "link": "https://www.kode24.no/artikkel/mitt-beste-tips-er-a-se-utenfor-llm-er/260295",
-      "source": "Kode24",
-      "summary": "Ukas koder Seran Shanmugathas mener at mye av KI-praten nå handler om agenter og kodegenerering, men påpeker at det også finnes andre interessante spor.",
-      "published": "2026-04-07T04:00:00Z"
-    },
-    {
       "id": "be95f7e0a06401d0ef6c7e4a161190fa0db163c0",
       "title": "GitHub Copilot CLI combines model families for a second opinion",
       "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-combines-model-families-for-a-second-opinion/",
       "source": "GitHub Blog",
       "summary": "Discover how Rubber Duck provides a different perspective to GitHub Copilot CLI. The post GitHub Copilot CLI combines model families for a second opinion appeared first on The GitHub Blog.",
       "published": "2026-04-06T21:53:49Z"
-    },
-    {
-      "id": "6f638a8af4313fe6512a586dddc4ce25ff083c98",
-      "title": "– Folk yter ikke sitt beste når de blir overvåket",
-      "link": "https://www.kode24.no/artikkel/folk-yter-ikke-sitt-beste-nar-de-blir-overvaket/260402",
-      "source": "Kode24",
-      "summary": "Hvilken type leder ønsker du å være? Det er et spørsmål de færreste stiller seg i en travel hverdag, men svaret vises likevel, hver dag, i små valg og handlinger.",
-      "published": "2026-04-04T04:00:00Z"
     },
     {
       "id": "e8e1078f8e55d5b46e84c86a8036b162bd875961",
@@ -194,14 +202,6 @@
       "summary": "The path to better performance is often found in simplicity. The post The uphill climb of making diff lines performant appeared first on The GitHub Blog.",
       "published": "2026-04-03T16:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2026/04/3.png?resize=960%2C1340"
-    },
-    {
-      "id": "43ca7ac7ce2ddfdfd2dd9ab21f2e77ae0b521c5c",
-      "title": "– Det ser hensynløst ut, men det er fremtiden",
-      "link": "https://www.kode24.no/artikkel/det-ser-hensynlost-ut-men-det-er-fremtiden/260376",
-      "source": "Kode24",
-      "summary": "Løsningen er ikke å skrive mer kode for hånd, men å forstå hvilken disiplin det nye paradigmet krever, sier teknisk leder Maureen Bryne i Askeladden & Co.",
-      "published": "2026-04-02T04:00:00Z"
     },
     {
       "id": "83b1db65b274ee699437494618ec0014eef1d2b0",
