@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-04-13T08:10:18.764626Z",
+  "generated_at": "2026-04-14T07:53:28.703671Z",
   "items": [
+    {
+      "id": "df00fc3feefb6e9a0fcea3c9610a05c560d605c9",
+      "title": "80 millioner til nye studier",
+      "link": "https://www.kode24.no/artikkel/80-millioner-til-nye-studier/260974",
+      "source": "Kode24",
+      "summary": "Regjeringen tildeler 80 milloner kroner til fagskoler for utvikling av nye utdanninger innen helse, beredskap og teknologi.",
+      "published": "2026-04-14T06:56:34Z"
+    },
+    {
+      "id": "7cbe1d545baebfe52fedb835af30f05a3ae1040e",
+      "title": "– Gode grunner til å utvikle norske modeller, ikke minst suverenitet",
+      "link": "https://www.kode24.no/artikkel/gode-grunner-til-a-utvikle-norske-modeller-ikke-minst-suverenitet/260931",
+      "source": "Kode24",
+      "summary": "Nasjonalbiblioteket planlegger å lansere deres første serie med Borealis-modeller i slutten av april. Avdelingsdirektør Wilfred Østgulen forteller mer om bakgrunnen.",
+      "published": "2026-04-14T06:00:00Z"
+    },
+    {
+      "id": "6891cdcb211d1569932e77eb05525786da962d42",
+      "title": "Nav brukte Google Oversetter til personopplysninger",
+      "link": "https://www.kode24.no/artikkel/nav-brukte-google-oversetter-til-personopplysninger/260913",
+      "source": "Kode24",
+      "summary": "Ansatte brøt personopplysningssikkerheten da de skulle oversette søknader. – Gratistjenester benytter personopplysninger som «betaling», advarer Datatilsynet.",
+      "published": "2026-04-14T04:00:00Z"
+    },
+    {
+      "id": "9231e5372c306683f606d4ec04aee5b680d1cee4",
+      "title": "GitHub for Beginners: Getting started with GitHub Pages",
+      "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-pages/",
+      "source": "GitHub Blog",
+      "summary": "Learn how to create a free website for any repository on GitHub Pages. The post GitHub for Beginners: Getting started with GitHub Pages appeared first on The GitHub Blog.",
+      "published": "2026-04-13T15:00:00Z"
+    },
+    {
+      "id": "eb19d8c34efc4a03404bca698124c84800b3f005",
+      "title": "Vil oppdage kreft tidlig og navigere uten GPS",
+      "link": "https://www.kode24.no/artikkel/vil-oppdage-kreft-tidlig-og-navigere-uten-gps/260885",
+      "source": "Kode24",
+      "summary": "80 millioner kroner brukes på å opprette senter for kvanteteknologi ved Universitetet i Bergen til høsten.",
+      "published": "2026-04-13T12:33:00Z"
+    },
+    {
+      "id": "ccea1ae04130134de23bed97e94f840fdef9f709",
+      "title": "IT-topper om IT-studier: – Etterspørselen er fortsatt svært høy",
+      "link": "https://www.kode24.no/artikkel/it-topper-om-it-studier-ettersporselen-er-fortsatt-svaert-hoy/260609",
+      "source": "Kode24",
+      "summary": "Onsdag er det frist for å søke høyere utdanning. – Vi kommer til å trenge flere som tar ansvar for hvordan teknologi faktisk brukes.",
+      "published": "2026-04-13T09:48:50Z"
+    },
     {
       "id": "27231d631acf853b85be82cd1fc2f8207ba57b39",
       "title": "Slik brukes KI i norske styrerom",
@@ -147,46 +195,6 @@
       "published": "2026-04-08T06:00:00Z"
     },
     {
-      "id": "e30b83fe55c672473759bcfeb2452e01a37c8407",
-      "title": "Bruker ChatGPT for å finne riktig studium: – Advarer",
-      "link": "https://www.kode24.no/artikkel/bruker-chatgpt-for-a-finne-riktig-studium-advarer/260465",
-      "source": "Kode24",
-      "summary": "Om én uke er det søknadsfrist for høyere utdanning. Én av syv bruker KI-tjenester for å finne riktig studium: – Kan forsterke fordommer og tradisjonelle kjønnsmønstre.",
-      "published": "2026-04-08T04:00:00Z"
-    },
-    {
-      "id": "a8983f8cc726b469c925c357237349bafcc1ae6b",
-      "title": "Årets aprilspøker: Fra tanke-kontroll til «git sorry»",
-      "link": "https://www.kode24.no/artikkel/arets-aprilspoker-fra-tanke-kontroll-til-git-sorry/260448",
-      "source": "Kode24",
-      "summary": "Flere internasjonale teknologiselskaper slang seg med på aprilsnarr-toget også i år.",
-      "published": "2026-04-07T13:32:31Z"
-    },
-    {
-      "id": "560d8cdac53c55e1e332ff36ad61f59c70e26e44",
-      "title": "Sats-innbrudd lekket personinformasjon",
-      "link": "https://www.kode24.no/artikkel/sats-innbrudd-lekket-personinformasjon/260430",
-      "source": "Kode24",
-      "summary": "Gjerningspersonene fikk uautorisert tilgang til en filserver for delt lagring, opplyser Sats til kode24. – Beklagelig, sier toppsjefen.",
-      "published": "2026-04-07T07:58:55Z"
-    },
-    {
-      "id": "82c663ed0cc3491c3fa3c7e755b896e751e4ebf6",
-      "title": "Mange bruker søvnapper – men få opplever bedre søvn",
-      "link": "https://www.kode24.no/artikkel/mange-bruker-sovnapper-men-fa-opplever-bedre-sovn/260418",
-      "source": "Kode24",
-      "summary": "Bare 15 prosent opplever forbedret søvn med apper, viser forskning.",
-      "published": "2026-04-07T06:34:57Z"
-    },
-    {
-      "id": "20dd77ebba1199dd4d7be435bab4dca78e2886b6",
-      "title": "Solgte «enkel» matapp dyrt i 2017: – Ville det vært mulig i dag?",
-      "link": "https://www.kode24.no/artikkel/solgte-enkel-matapp-dyrt-i-2017-ville-det-vaert-mulig-i-dag/260148",
-      "source": "Kode24",
-      "summary": "– I dag kan hvem som helst «vibe-kode» en app på en helg. Er verdien av teknisk kompetanse i ferd med å endre seg fundamentalt, spør Njaal Gjerde.",
-      "published": "2026-04-07T06:00:00Z"
-    },
-    {
       "id": "be95f7e0a06401d0ef6c7e4a161190fa0db163c0",
       "title": "GitHub Copilot CLI combines model families for a second opinion",
       "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-combines-model-families-for-a-second-opinion/",
@@ -234,15 +242,6 @@
       "source": "GitHub Blog",
       "summary": "Learn how to secure your projects and keep them safe with GitHub Advanced Security. The post GitHub for Beginners: Getting started with GitHub security appeared first on The GitHub Blog.",
       "published": "2026-03-30T16:00:00Z"
-    },
-    {
-      "id": "4890de2b33b4feab25ec65413a359cf3968e189f",
-      "title": "What’s coming to our GitHub Actions 2026 security roadmap",
-      "link": "https://github.blog/news-insights/product-news/whats-coming-to-our-github-actions-2026-security-roadmap/",
-      "source": "GitHub Blog",
-      "summary": "A look at GitHub Actions’ 2026 roadmap, outlining how secure defaults, policy controls, and CI/CD observability harden the software supply chain end to end. The post What’s coming to our GitHub Actions 2026 security roadmap appeared first on The GitHub Blog.",
-      "published": "2026-03-26T16:49:14Z",
-      "image": "https://github.blog/wp-content/uploads/2026/03/Screenshot-2026-03-26-at-12.34.47-PM.png?resize=1070%2C611"
     },
     {
       "id": "a5addf8606df3e8a369a2fc506ad4a05f7e158ef",
