@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-04-14T07:53:28.703671Z",
+  "generated_at": "2026-04-15T07:54:14.662509Z",
   "items": [
+    {
+      "id": "5b6bb634e72fa0c8785eb676b514da04cc9f087d",
+      "title": "– Forbud mot KI er dømt til å feile",
+      "link": "https://www.kode24.no/artikkel/forbud-mot-ki-er-domt-til-a-feile/260952",
+      "source": "Kode24",
+      "summary": "– KI er allerede sentral i hvordan tekst blir til. Nå handler det om ansvarlig bruk – ikke forbud, skriver ansvarlig redaktør i kode24, Hilde Schjerve.",
+      "published": "2026-04-15T06:00:00Z"
+    },
+    {
+      "id": "00055cb2633e1ff9f623a1f8bdaaf7dd4242d398",
+      "title": "Slik gikk de fra et «Frankensteins monster» til en sikker autentisering",
+      "link": "https://www.kode24.no/artikkel/slik-gikk-de-fra-et-frankensteins-monster-til-en-sikker-autentisering/260845",
+      "source": "Kode24",
+      "summary": "– Autentisering og autorisering er en jungel av forskjellige anbefalinger og metoder, så det gjelder å holde tunga rett i munnen, skriver Pål Bøckmann i Alv.",
+      "published": "2026-04-15T04:00:00Z"
+    },
+    {
+      "id": "74982bd25f5617e749d1198904e74c98399219c5",
+      "title": "Hack the AI agent: Build agentic AI security skills with the GitHub Secure Code Game",
+      "link": "https://github.blog/security/hack-the-ai-agent-build-agentic-ai-security-skills-with-the-github-secure-code-game/",
+      "source": "GitHub Blog",
+      "summary": "Learn to find and exploit real-world agentic AI vulnerabilities through five progressive challenges in this free, open source game that over 10,000 developers have already used to sharpen their security skills. The post Hack the AI agent: Build agentic AI security skills with the GitHub Secure Code...",
+      "published": "2026-04-14T18:17:59Z"
+    },
+    {
+      "id": "d2c6d0ad5451973328ab3b6e735c2d27eee51294",
+      "title": "How exposed is your code? Find out in minutes—for free",
+      "link": "https://github.blog/security/application-security/how-exposed-is-your-code-find-out-in-minutes-for-free/",
+      "source": "GitHub Blog",
+      "summary": "The new Code Security Risk Assessment gives you a one-click view of vulnerabilities across your organization, at no cost. The post How exposed is your code? Find out in minutes—for free appeared first on The GitHub Blog.",
+      "published": "2026-04-14T15:00:00Z"
+    },
+    {
+      "id": "1c45a9147b8efe569794d24b6fb06df39dcd2f15",
+      "title": "Ønsker mer teknologi i grunnskolen: – Må være kritiske",
+      "link": "https://www.kode24.no/artikkel/onsker-mer-teknologi-i-grunnskolen-ma-vaere-kritiske/260874",
+      "source": "Kode24",
+      "summary": "IT-topper etterlyser mer teknologi i grunnskolen. – Vi må være kritiske til når elevene skal bruke hva, svarer Kunnskapsdepartementet.",
+      "published": "2026-04-14T09:00:32Z"
+    },
+    {
+      "id": "9aa955a32143b15fe8f25da53c50a68c39b377d8",
+      "title": "Meta-sjefen kloner seg selv",
+      "link": "https://www.kode24.no/artikkel/meta-sjefen-kloner-seg-selv/260986",
+      "source": "Kode24",
+      "summary": "Mark Zuckerberg kloner angivelig seg selv med KI for å erstatte seg selv i møter.",
+      "published": "2026-04-14T07:45:12Z"
+    },
     {
       "id": "df00fc3feefb6e9a0fcea3c9610a05c560d605c9",
       "title": "80 millioner til nye studier",
@@ -163,38 +211,6 @@
       "image": "https://github.blog/wp-content/uploads/2026/04/Image-1.jpeg?resize=1024%2C683"
     },
     {
-      "id": "3904e580c1b66c571e948e2b84f51efabcbb7879",
-      "title": "Map-fil gjorde at Anthropic lekket 500.000 kodelinjer",
-      "link": "https://www.kode24.no/artikkel/map-fil-gjorde-at-anthropic-lekket-500000-kodelinjer/260549",
-      "source": "Kode24",
-      "summary": "Hva skjedde, hvorfor og hvilke konsekvenser fikk det da hele verden fikk kikke under panseret på Claude Code? kode24 hjelper deg.",
-      "published": "2026-04-08T13:31:24Z"
-    },
-    {
-      "id": "7cdf3b008f614c2604164be31abae66ab36b37cf",
-      "title": "Tekniske problemer for politiet og banker",
-      "link": "https://www.kode24.no/artikkel/tekniske-problemer-for-politiet-og-banker/260533",
-      "source": "Kode24",
-      "summary": "En feil etter teknisk vedlikehold hos Tieto rammet norske banker. En annen hendelse rammet politiet og førte til trøbbel på Oslo Lufthavn. Problemene er nå løst.",
-      "published": "2026-04-08T08:09:59Z"
-    },
-    {
-      "id": "f45eb48ff8a0e9993a9a5e36eea34f92cf33e651",
-      "title": "Slik vil han forme samfunnet: OpenAI med politiske forslag",
-      "link": "https://www.kode24.no/artikkel/slik-vil-han-forme-samfunnet-openai-med-politiske-forslag/260525",
-      "source": "Kode24",
-      "summary": "Robotskatt, firedagers arbeidsuke og offentlige fond skal dempe KIs konsekvenser på samfunnet.",
-      "published": "2026-04-08T07:57:48Z"
-    },
-    {
-      "id": "daf85d837a6c0809686f4aeda0ce02024f51c08f",
-      "title": "Ti grep som forbedrer .NET-kodebasen din",
-      "link": "https://www.kode24.no/artikkel/ti-grep-som-forbedrer-net-kodebasen-din/260445",
-      "source": "Kode24",
-      "summary": "– Det handler om friksjon. Hvor lett det er å lese koden, endre den og stole på den, skriver utvikler Steinar Kollerud. Her er hans .NET-tips.",
-      "published": "2026-04-08T06:00:00Z"
-    },
-    {
       "id": "be95f7e0a06401d0ef6c7e4a161190fa0db163c0",
       "title": "GitHub Copilot CLI combines model families for a second opinion",
       "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-combines-model-families-for-a-second-opinion/",
@@ -226,22 +242,6 @@
       "source": "GitHub Blog",
       "summary": "/fleet lets Copilot CLI dispatch multiple agents in parallel. Learn how to write prompts that split work across files, declare dependencies, and avoid common pitfalls. The post Run multiple agents at once with /fleet in Copilot CLI appeared first on The GitHub Blog.",
       "published": "2026-04-01T15:00:00Z"
-    },
-    {
-      "id": "885758aa9a308ae54f7f11f6bb3a9e298496d5f4",
-      "title": "Agent-driven development in Copilot Applied Science",
-      "link": "https://github.blog/ai-and-ml/github-copilot/agent-driven-development-in-copilot-applied-science/",
-      "source": "GitHub Blog",
-      "summary": "I used coding agents to build agents that automated part of my job. Here's what I learned about working better with coding agents. The post Agent-driven development in Copilot Applied Science appeared first on The GitHub Blog.",
-      "published": "2026-03-31T16:00:00Z"
-    },
-    {
-      "id": "4aae0faa62213d2e28c4453604949e1d1c3035c2",
-      "title": "GitHub for Beginners: Getting started with GitHub security",
-      "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-security/",
-      "source": "GitHub Blog",
-      "summary": "Learn how to secure your projects and keep them safe with GitHub Advanced Security. The post GitHub for Beginners: Getting started with GitHub security appeared first on The GitHub Blog.",
-      "published": "2026-03-30T16:00:00Z"
     },
     {
       "id": "a5addf8606df3e8a369a2fc506ad4a05f7e158ef",
