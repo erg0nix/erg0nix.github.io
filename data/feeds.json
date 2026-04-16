@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-04-15T07:54:14.662509Z",
+  "generated_at": "2026-04-16T07:54:43.008885Z",
   "items": [
+    {
+      "id": "3044bc8d23b97e47a3b199131515a22025423f31",
+      "title": "Kunne spore toppolitikere: Åpner tilsyn med Telia",
+      "link": "https://www.kode24.no/artikkel/kunne-spore-toppolitikere-apner-tilsyn-med-telia/261170",
+      "source": "Kode24",
+      "summary": "Sikkerhetshull og konfigurasjonsfeil gjorde Telia-kunder sporbare i årevis. Nå åpner Nkom tilsyn med selskapet.",
+      "published": "2026-04-16T06:47:35Z"
+    },
+    {
+      "id": "c445254c76bacdd9c99341d2e9a86bc8814eb50a",
+      "title": "Advarer mot å la KI tenke for deg",
+      "link": "https://www.kode24.no/artikkel/advarer-mot-a-la-ki-tenke-for-deg/261010",
+      "source": "Kode24",
+      "summary": "– Verktøy kommer og går, men evnen til å forstå problemer, stille gode spørsmål, se risiko og bygge med mening blir bare viktigere, sier Ukas Koder, Neda Maria Kaizumi.",
+      "published": "2026-04-16T06:00:00Z"
+    },
+    {
+      "id": "83fadd06f1a56d72223c08f2c6e8a592a42a06a7",
+      "title": "Stø-utviklere har ikke håndkodet på et halvt år",
+      "link": "https://www.kode24.no/artikkel/sto-utviklere-har-ikke-handkodet-pa-et-halvt-ar/261045",
+      "source": "Kode24",
+      "summary": "Selskapet bak BankID og BankAxept lar ansatte bruke så mye KI de vil. Tarald Riise liker å bli mer ansvarlig for produkt og kvalitet og mindre «Code Monkey».",
+      "published": "2026-04-16T04:00:00Z"
+    },
+    {
+      "id": "a33f7e9579f50d0ee92ca3ba48f3b0b48026e765",
+      "title": "Build a personal organization command center with GitHub Copilot CLI",
+      "link": "https://github.blog/ai-and-ml/github-copilot/build-a-personal-organization-command-center-with-github-copilot-cli/",
+      "source": "GitHub Blog",
+      "summary": "Learn about the productivity tool one GitHub engineer built, and how AI supported the development process. The post Build a personal organization command center with GitHub Copilot CLI appeared first on The GitHub Blog.",
+      "published": "2026-04-15T17:00:00Z"
+    },
+    {
+      "id": "112dec94e77939b52b9560ea4fe16b458bd0e8a8",
+      "title": "Developer policy update: Intermediary liability, copyright, and transparency",
+      "link": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-intermediary-liability-copyright-and-transparency/",
+      "source": "GitHub Blog",
+      "summary": "We’re sharing recent policy updates that developers should know about, updating our Transparency Center with the full year of 2025 data, and looking to what’s ahead. The post Developer policy update: Intermediary liability, copyright, and transparency appeared first on The GitHub Blog.",
+      "published": "2026-04-15T15:00:00Z"
+    },
+    {
+      "id": "0bc21b310e82c58ed11de5b037dcfa4cc5fedaaa",
+      "title": "Nedbemanner over hele verden",
+      "link": "https://www.kode24.no/artikkel/nedbemanner-over-hele-verden/261122",
+      "source": "Kode24",
+      "summary": "Snapchat skal kutte 1.000 årsverk globalt. Selskapet vil kutte hele 16 prosent av staben.",
+      "published": "2026-04-15T11:15:41Z"
+    },
+    {
+      "id": "7b6b74eeac918c6fcee416ea3b31f58c0ed10d5e",
+      "title": "Kongelig besøk hos Startuplab",
+      "link": "https://www.kode24.no/artikkel/kongelig-besok-hos-startuplab/261027",
+      "source": "Kode24",
+      "summary": "Kronprins Haakon og prins Sverre Magnus har flere oppdrag i dag. Dagen startet hos Forskningsparken der de besøkte gründerselskapet Auk – senere i dag skal de åpne Norges første kodebibliotek.",
+      "published": "2026-04-15T10:11:45Z"
+    },
+    {
+      "id": "34bfb5167cefacb0c3ee10f200c8abd30f6a337d",
+      "title": "MacBook Neo: Gamechangeren Windows trengte",
+      "link": "https://www.kode24.no/artikkel/macbook-neo-gamechangeren-windows-trengte/261084",
+      "source": "Kode24",
+      "summary": "Microsoft kommer til å slå tilbake og oppgradere operativsystemet, skriver journalist i The Verge, som har dekket Microsoft, PC og teknologi i over 20 år.",
+      "published": "2026-04-15T08:12:27Z"
+    },
+    {
+      "id": "9f2907fe9646469abcc6d88237c5d483ecba0be9",
+      "title": "Outlook Lite pensjoneres",
+      "link": "https://www.kode24.no/artikkel/outlook-lite-pensjoneres/261094",
+      "source": "Kode24",
+      "summary": "Android-brukere får ikke lenger e-post i appen etter 25. mai. Microsoft vil spare penger.",
+      "published": "2026-04-15T08:12:18Z"
+    },
     {
       "id": "5b6bb634e72fa0c8785eb676b514da04cc9f087d",
       "title": "– Forbud mot KI er dømt til å feile",
@@ -138,62 +210,6 @@
       "published": "2026-04-10T12:25:00Z"
     },
     {
-      "id": "68f33e3dbcb88985970f4a90bf8323cca119f7f8",
-      "title": "Amazons «eldre» lesebrett blir ubrukelige",
-      "link": "https://www.kode24.no/artikkel/amazons-eldre-lesebrett-blir-ubrukelige/260736",
-      "source": "Kode24",
-      "summary": "Flere modeller av Amazons lesebrett Kindle blir snart ikke mulig å oppdatere med nye ebøker. Det har opprørt nettgigantens kunder.",
-      "published": "2026-04-10T11:16:25Z"
-    },
-    {
-      "id": "3e058e03968e8c18db9519cd47e8568e3feb3903",
-      "title": "Bruker «lilla team» mot trusler mot helsedata",
-      "link": "https://www.kode24.no/artikkel/bruker-lilla-team-mot-trusler-mot-helsedata/260584",
-      "source": "Kode24",
-      "summary": "Norsk helsenett bruker ikke rene blå og røde lag for å teste sikkerhet i en urolig verden, men en miks som arbeidsmetode. – Det er «oss mot problemet»-kultur.",
-      "published": "2026-04-10T09:21:27Z"
-    },
-    {
-      "id": "ebfac1070370d2da4c97cf627cb8dc16126ec6f3",
-      "title": "Dømt: Lagde KI-porno av kjendis",
-      "link": "https://www.kode24.no/artikkel/domt-lagde-ki-porno-av-kjendis/260676",
-      "source": "Kode24",
-      "summary": "Mann laget KI-porno av svensk TV-kjendis – dømt til ett års fengsel.",
-      "published": "2026-04-10T06:48:55Z"
-    },
-    {
-      "id": "7b04b9f3bb237fe3776ee8b0734c61260ae073f3",
-      "title": "Utviklere! Hva blir vår rolle nå, når koding er løst?",
-      "link": "https://www.kode24.no/artikkel/utviklere-hva-blir-var-rolle-na-nar-koding-er-lost/260588",
-      "source": "Kode24",
-      "summary": "Tre tiår med evolusjon – ett år med revolusjon.",
-      "published": "2026-04-10T04:00:00Z"
-    },
-    {
-      "id": "2998bb7e958d7bfc9e55df26339b05ef8f645593",
-      "title": "Kameraene ble gjemt i såpedispensere",
-      "link": "https://www.kode24.no/artikkel/kameraene-ble-gjemt-i-sapedispensere/260648",
-      "source": "Kode24",
-      "summary": "En tidligere ansatt i Sopra Steria står tiltalt for å ha filmet kolleger i skjul på toalettet. Rettssaken pågår denne uken.",
-      "published": "2026-04-09T11:41:48Z"
-    },
-    {
-      "id": "8790b7c50e39e024ea70b812e69a8ec15ab1b0d6",
-      "title": "Helsevesenet i Skotland hacket",
-      "link": "https://www.kode24.no/artikkel/helsevesenet-i-skotland-hacket/260629",
-      "source": "Kode24",
-      "summary": "Flere domener knyttet til helsevesenet i Skotland (NHS) er hacket. Lenker videresendte folk til ulovlige strømmetjenester for sport.",
-      "published": "2026-04-09T09:48:35Z"
-    },
-    {
-      "id": "b129d836c77c8e3f1494b39cb1a31caef6b72747",
-      "title": "1 av 4 er skeptiske til KI-shopping",
-      "link": "https://www.kode24.no/artikkel/1-av-4-er-skeptiske-til-ki-shopping/260456",
-      "source": "Kode24",
-      "summary": "Flere norske forbrukere stoler ikke på teknologien bak KI-shopping: – Dette handler ikke om at folk ikke ser nytten. Det handler om tillit, sier professor.",
-      "published": "2026-04-09T06:30:00Z"
-    },
-    {
       "id": "d39917740bdabbb50059160ee3f7ec29575da496",
       "title": "GitHub availability report: March 2026",
       "link": "https://github.blog/news-insights/company-news/github-availability-report-march-2026/",
@@ -226,22 +242,6 @@
       "summary": "The path to better performance is often found in simplicity. The post The uphill climb of making diff lines performant appeared first on The GitHub Blog.",
       "published": "2026-04-03T16:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2026/04/3.png?resize=960%2C1340"
-    },
-    {
-      "id": "83b1db65b274ee699437494618ec0014eef1d2b0",
-      "title": "Securing the open source supply chain across GitHub",
-      "link": "https://github.blog/security/supply-chain-security/securing-the-open-source-supply-chain-across-github/",
-      "source": "GitHub Blog",
-      "summary": "Recent attacks on open source focus on exfiltrating secrets; here are the prevention steps you can take today, plus a look at the security capabilities GitHub is working on. The post Securing the open source supply chain across GitHub appeared first on The GitHub Blog.",
-      "published": "2026-04-01T19:20:12Z"
-    },
-    {
-      "id": "777b1b1b4246c155ff1c2e447a639c0276e81a76",
-      "title": "Run multiple agents at once with /fleet in Copilot CLI",
-      "link": "https://github.blog/ai-and-ml/github-copilot/run-multiple-agents-at-once-with-fleet-in-copilot-cli/",
-      "source": "GitHub Blog",
-      "summary": "/fleet lets Copilot CLI dispatch multiple agents in parallel. Learn how to write prompts that split work across files, declare dependencies, and avoid common pitfalls. The post Run multiple agents at once with /fleet in Copilot CLI appeared first on The GitHub Blog.",
-      "published": "2026-04-01T15:00:00Z"
     },
     {
       "id": "a5addf8606df3e8a369a2fc506ad4a05f7e158ef",
