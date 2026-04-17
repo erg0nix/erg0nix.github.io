@@ -1,6 +1,47 @@
 {
-  "generated_at": "2026-04-16T07:54:43.008885Z",
+  "generated_at": "2026-04-17T07:54:46.921727Z",
   "items": [
+    {
+      "id": "3e128623338079198982c8893b97ef48fbb65400",
+      "title": "To nye web-teknologier imponerer meg stort",
+      "link": "https://www.kode24.no/artikkel/to-nye-web-teknologier-imponerer-meg-stort/261191",
+      "source": "Kode24",
+      "summary": "Det går stadig lengre tid mellom hver gang jeg blir skikkelig imponert over ny webteknologi. Men Pretext og «HTML in Canvas» imponerer!",
+      "published": "2026-04-17T06:00:00Z"
+    },
+    {
+      "id": "4493d3fe6a5a718be70173e1222a79fff0f944ca",
+      "title": "19 nominerte til årets Digitaliseringspris",
+      "link": "https://www.kode24.no/artikkel/19-nominerte-til-arets-digitaliseringspris/261249",
+      "source": "Kode24",
+      "summary": "Folkehelseinstituttet kan stikke av med en ny pris for KoSy-prosjektet. Se hvem de 18 andre nominerte er.",
+      "published": "2026-04-17T04:00:00Z"
+    },
+    {
+      "id": "9feaf2bc61478f9077ebcaa44895c0b94f990581",
+      "title": "How GitHub uses eBPF to improve deployment safety",
+      "link": "https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/",
+      "source": "GitHub Blog",
+      "summary": "Learn how Github uses eBPF to detect and prevent circular dependencies in its deployment tooling. The post How GitHub uses eBPF to improve deployment safety appeared first on The GitHub Blog.",
+      "published": "2026-04-16T16:00:00Z",
+      "image": "https://github.blog/wp-content/uploads/2026/04/Screenshot-2026-04-06-at-6.36.24-PM.png?resize=1433%2C194"
+    },
+    {
+      "id": "c6213dfb345004ffcff06a92e01eb9174393479d",
+      "title": "To IT-studenter kjemper om lederverv",
+      "link": "https://www.kode24.no/artikkel/to-it-studenter-kjemper-om-lederverv/261065",
+      "source": "Kode24",
+      "summary": "Denne helgen får Nito Studentene en IT-student som er pro KI-bruk til leder. Spørsmålet er hva han skal hete.",
+      "published": "2026-04-16T12:10:21Z"
+    },
+    {
+      "id": "b5ede2509160f8e97410b556a63450887be75138",
+      "title": "Konkurransetilsynet ser på oppkjøp av Eplehuset",
+      "link": "https://www.kode24.no/artikkel/konkurransetilsynet-ser-pa-oppkjop-av-eplehuset/261212",
+      "source": "Kode24",
+      "summary": "Konkurransetilsynet: Elkjøps oppkjøp av Eplehuset må vurderes nærmere.",
+      "published": "2026-04-16T09:39:44Z"
+    },
     {
       "id": "3044bc8d23b97e47a3b199131515a22025423f31",
       "title": "Kunne spore toppolitikere: Åpner tilsyn med Telia",
@@ -170,44 +211,12 @@
       "published": "2026-04-13T09:48:50Z"
     },
     {
-      "id": "27231d631acf853b85be82cd1fc2f8207ba57b39",
-      "title": "Slik brukes KI i norske styrerom",
-      "link": "https://www.kode24.no/artikkel/slik-brukes-ki-i-norske-styrerom/260816",
-      "source": "Kode24",
-      "summary": "Styremedlemmer putter sensitiv informasjon i KI-verktøy. – Overrasker, sier professor.",
-      "published": "2026-04-13T07:17:01Z"
-    },
-    {
-      "id": "5cd8468ceadaf87b27f169f6cf9258243f5e303f",
-      "title": "–Teknologibransjen har ikke råd til å fortsette som før",
-      "link": "https://www.kode24.no/artikkel/teknologibransjen-har-ikke-rad-til-a-fortsette-som-for/260686",
-      "source": "Kode24",
-      "summary": "– Kvinner forsvinner fra IT-ledelse — ikke fordi de velger det, men fordi bransjen ikke gir dem grunn til å bli, skriver Zoya Shah i Dataforeningen.",
-      "published": "2026-04-13T06:00:00Z"
-    },
-    {
-      "id": "957096ad1d72ae36ceb096a69ab2fd41b3970d89",
-      "title": "50.000 i premiepott på «eksklusivt» KI-hackaton",
-      "link": "https://www.kode24.no/artikkel/50000-i-premiepott-pa-eksklusivt-ki-hackaton/260731",
-      "source": "Kode24",
-      "summary": "Ingen vibbekodende ikke-teknolog får være med når Oslo Enhanced Hackaton går av stabelen tirsdag. – Fordi det er gøy, sier arrangøren.",
-      "published": "2026-04-13T04:00:00Z"
-    },
-    {
       "id": "ef47cbbdfa3141659387b93d07875094a2b264b2",
       "title": "GitHub Copilot CLI for Beginners: Getting started with GitHub Copilot CLI",
       "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-getting-started-with-github-copilot-cli/",
       "source": "GitHub Blog",
       "summary": "GitHub for Beginners: Getting started with the GitHub Copilot CLI, a step-by-step tutorial. The post GitHub Copilot CLI for Beginners: Getting started with GitHub Copilot CLI appeared first on The GitHub Blog.",
       "published": "2026-04-10T16:00:00Z"
-    },
-    {
-      "id": "2fc92584e141559a569162e5c772ae87207ef4d9",
-      "title": "Smartbriller skal lede blind løper gjennom maraton",
-      "link": "https://www.kode24.no/artikkel/smartbriller-skal-lede-blind-loper-gjennom-maraton/260605",
-      "source": "Kode24",
-      "summary": "Britiske Clarke Reynolds (45) skal gjennomføre et maraton ved hjelp av smartbriller. Ved bruk av teknlogien guides han gjennom løpet.",
-      "published": "2026-04-10T12:25:00Z"
     },
     {
       "id": "d39917740bdabbb50059160ee3f7ec29575da496",
@@ -233,15 +242,6 @@
       "source": "GitHub Blog",
       "summary": "Discover how Rubber Duck provides a different perspective to GitHub Copilot CLI. The post GitHub Copilot CLI combines model families for a second opinion appeared first on The GitHub Blog.",
       "published": "2026-04-06T21:53:49Z"
-    },
-    {
-      "id": "e8e1078f8e55d5b46e84c86a8036b162bd875961",
-      "title": "The uphill climb of making diff lines performant",
-      "link": "https://github.blog/engineering/architecture-optimization/the-uphill-climb-of-making-diff-lines-performant/",
-      "source": "GitHub Blog",
-      "summary": "The path to better performance is often found in simplicity. The post The uphill climb of making diff lines performant appeared first on The GitHub Blog.",
-      "published": "2026-04-03T16:00:00Z",
-      "image": "https://github.blog/wp-content/uploads/2026/04/3.png?resize=960%2C1340"
     },
     {
       "id": "a5addf8606df3e8a369a2fc506ad4a05f7e158ef",
