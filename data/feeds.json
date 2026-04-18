@@ -1,10 +1,60 @@
 {
-  "generated_at": "2026-04-17T07:54:46.921727Z",
+  "generated_at": "2026-04-18T07:14:42.790555Z",
   "items": [
     {
+      "id": "bd72f0e69988fcb34ac023f86d693fd4a65af1a9",
+      "title": "Building an emoji list generator with the GitHub Copilot CLI",
+      "link": "https://github.blog/ai-and-ml/github-copilot/building-an-emoji-list-generator-with-the-github-copilot-cli/",
+      "source": "GitHub Blog",
+      "summary": "See how we created an emoji list generator during the Rubber Duck Thursday stream. The post Building an emoji list generator with the GitHub Copilot CLI appeared first on The GitHub Blog.",
+      "published": "2026-04-17T18:00:00Z",
+      "image": "https://github.blog/wp-content/uploads/2026/04/list.png?resize=1869%2C1944"
+    },
+    {
+      "id": "19ba0a3472f1d0d7d0b7c1d4381054d209b60a43",
+      "title": "Bringing more transparency to GitHub’s status page",
+      "link": "https://github.blog/news-insights/company-news/bringing-more-transparency-to-githubs-status-page/",
+      "source": "GitHub Blog",
+      "summary": "Changes to the status page will provide more specific data, so you'll have better insight into the overall health of the platform. The post Bringing more transparency to GitHub’s status page appeared first on The GitHub Blog.",
+      "published": "2026-04-17T16:00:00Z",
+      "image": "https://github.blog/wp-content/uploads/2026/04/image-6.png?resize=2084%2C1756"
+    },
+    {
+      "id": "0521c4baf2e76c5455268343eb56fc6ba5613de1",
+      "title": "Advarer mot Mythos-effekt på sikkerheten",
+      "link": "https://www.kode24.no/artikkel/advarer-mot-mythos-effekt-pa-sikkerheten/261302",
+      "source": "Kode24",
+      "summary": "Anthropic holder tilbake den kraftige modellen som avdekker sårbarheter i IT-systemer. Men tilsvarende kan lages allerede nå, ifølge forskere.",
+      "published": "2026-04-17T11:23:03Z"
+    },
+    {
+      "id": "e4b3cec9bfe91279b7d7da628bfb7522a429e3c0",
+      "title": "Unge fikk advarsel etter storaksjon mot datakriminalitet",
+      "link": "https://www.kode24.no/artikkel/unge-fikk-advarsel-etter-storaksjon-mot-datakriminalitet/261306",
+      "source": "Kode24",
+      "summary": "78 nordmenn har blitt identifisert som brukere av ulovlige DDoS-tjenester, og fått en advarsel. Én mann får en straffesak mot seg.",
+      "published": "2026-04-17T09:15:07Z"
+    },
+    {
+      "id": "f7d7a62557b38be225ad3e43183ce69ac0aeb4ce",
+      "title": "Bluesky-brukere har problemer",
+      "link": "https://www.kode24.no/artikkel/bluesky-brukere-har-problemer/261314",
+      "source": "Kode24",
+      "summary": "Bluesky har opplevd et DDoS-angrep de siste 24-timene.",
+      "published": "2026-04-17T08:43:14Z"
+    },
+    {
+      "id": "37a80627de109bce38f10b67f4403055b21ee7db",
+      "title": "Nedbemanner utviklere",
+      "link": "https://www.kode24.no/artikkel/nedbemanner-utviklere/261290",
+      "source": "Kode24",
+      "summary": "Renault nedbemanner opptil 20 prosent av ingeniørene sine.",
+      "published": "2026-04-17T07:25:53Z"
+    },
+    {
       "id": "3e128623338079198982c8893b97ef48fbb65400",
-      "title": "To nye web-teknologier imponerer meg stort",
-      "link": "https://www.kode24.no/artikkel/to-nye-web-teknologier-imponerer-meg-stort/261191",
+      "title": "– To nye webteknologier imponerer meg stort",
+      "link": "https://www.kode24.no/artikkel/to-nye-webteknologier-imponerer-meg-stort/261191",
       "source": "Kode24",
       "summary": "Det går stadig lengre tid mellom hver gang jeg blir skikkelig imponert over ny webteknologi. Men Pretext og «HTML in Canvas» imponerer!",
       "published": "2026-04-17T06:00:00Z"
@@ -171,44 +221,12 @@
       "published": "2026-04-14T06:56:34Z"
     },
     {
-      "id": "7cbe1d545baebfe52fedb835af30f05a3ae1040e",
-      "title": "– Gode grunner til å utvikle norske modeller, ikke minst suverenitet",
-      "link": "https://www.kode24.no/artikkel/gode-grunner-til-a-utvikle-norske-modeller-ikke-minst-suverenitet/260931",
-      "source": "Kode24",
-      "summary": "Nasjonalbiblioteket planlegger å lansere deres første serie med Borealis-modeller i slutten av april. Avdelingsdirektør Wilfred Østgulen forteller mer om bakgrunnen.",
-      "published": "2026-04-14T06:00:00Z"
-    },
-    {
-      "id": "6891cdcb211d1569932e77eb05525786da962d42",
-      "title": "Nav brukte Google Oversetter til personopplysninger",
-      "link": "https://www.kode24.no/artikkel/nav-brukte-google-oversetter-til-personopplysninger/260913",
-      "source": "Kode24",
-      "summary": "Ansatte brøt personopplysningssikkerheten da de skulle oversette søknader. – Gratistjenester benytter personopplysninger som «betaling», advarer Datatilsynet.",
-      "published": "2026-04-14T04:00:00Z"
-    },
-    {
       "id": "9231e5372c306683f606d4ec04aee5b680d1cee4",
       "title": "GitHub for Beginners: Getting started with GitHub Pages",
       "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-pages/",
       "source": "GitHub Blog",
       "summary": "Learn how to create a free website for any repository on GitHub Pages. The post GitHub for Beginners: Getting started with GitHub Pages appeared first on The GitHub Blog.",
       "published": "2026-04-13T15:00:00Z"
-    },
-    {
-      "id": "eb19d8c34efc4a03404bca698124c84800b3f005",
-      "title": "Vil oppdage kreft tidlig og navigere uten GPS",
-      "link": "https://www.kode24.no/artikkel/vil-oppdage-kreft-tidlig-og-navigere-uten-gps/260885",
-      "source": "Kode24",
-      "summary": "80 millioner kroner brukes på å opprette senter for kvanteteknologi ved Universitetet i Bergen til høsten.",
-      "published": "2026-04-13T12:33:00Z"
-    },
-    {
-      "id": "ccea1ae04130134de23bed97e94f840fdef9f709",
-      "title": "IT-topper om IT-studier: – Etterspørselen er fortsatt svært høy",
-      "link": "https://www.kode24.no/artikkel/it-topper-om-it-studier-ettersporselen-er-fortsatt-svaert-hoy/260609",
-      "source": "Kode24",
-      "summary": "Onsdag er det frist for å søke høyere utdanning. – Vi kommer til å trenge flere som tar ansvar for hvordan teknologi faktisk brukes.",
-      "published": "2026-04-13T09:48:50Z"
     },
     {
       "id": "ef47cbbdfa3141659387b93d07875094a2b264b2",
@@ -225,23 +243,6 @@
       "source": "GitHub Blog",
       "summary": "In March, we experienced four incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: March 2026 appeared first on The GitHub Blog.",
       "published": "2026-04-09T02:21:17Z"
-    },
-    {
-      "id": "2c0ef3390ac2385cfa208180e44ebcb9b790906f",
-      "title": "GitHub Universe is back: We want you to take the stage",
-      "link": "https://github.blog/news-insights/company-news/github-universe-is-back-we-want-you-to-take-the-stage/",
-      "source": "GitHub Blog",
-      "summary": "Get inspired by five of the most memorable, magical, and quirky Universe sessions to date. The post GitHub Universe is back: We want you to take the stage appeared first on The GitHub Blog.",
-      "published": "2026-04-08T16:35:46Z",
-      "image": "https://github.blog/wp-content/uploads/2026/04/Image-1.jpeg?resize=1024%2C683"
-    },
-    {
-      "id": "be95f7e0a06401d0ef6c7e4a161190fa0db163c0",
-      "title": "GitHub Copilot CLI combines model families for a second opinion",
-      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-combines-model-families-for-a-second-opinion/",
-      "source": "GitHub Blog",
-      "summary": "Discover how Rubber Duck provides a different perspective to GitHub Copilot CLI. The post GitHub Copilot CLI combines model families for a second opinion appeared first on The GitHub Blog.",
-      "published": "2026-04-06T21:53:49Z"
     },
     {
       "id": "a5addf8606df3e8a369a2fc506ad4a05f7e158ef",
