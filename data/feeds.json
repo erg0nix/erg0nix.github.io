@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-04-19T07:25:22.512535Z",
+  "generated_at": "2026-04-20T08:16:04.780279Z",
   "items": [
+    {
+      "id": "f94027c1dc4863f510855138d4c1f9bb224964e2",
+      "title": "Systemoppdatering gav teknisk trøbbel",
+      "link": "https://www.kode24.no/artikkel/systemoppdatering-gav-teknisk-trobbel/261460",
+      "source": "Kode24",
+      "summary": "Norsk Tipping hadde søndag ettermiddag tekniske problemer med Oddsen. Det gjorde at det ikke var mulig å levere oddsspill.",
+      "published": "2026-04-20T07:02:00Z"
+    },
+    {
+      "id": "860a9ebb06ad2cbbcc5bac1c3e4033f306d32007",
+      "title": "Ludvig viste bachelor-oppgaven sin til kronprinsen",
+      "link": "https://www.kode24.no/artikkel/ludvig-viste-bachelor-oppgaven-sin-til-kronprinsen/261358",
+      "source": "Kode24",
+      "summary": "Det var spenning i rommet da kronprins og prins fikk se prosjektet som skal gi navigatører bedre situasjonsforståelse til sjøs. – Veldig stas!",
+      "published": "2026-04-20T05:00:00Z"
+    },
+    {
+      "id": "e78ce1da2c59829f8d0c1cd67cea997da2d61f08",
+      "title": "– Utviklere overdriver faren ved vendor locking",
+      "link": "https://www.kode24.no/artikkel/utviklere-overdriver-faren-ved-vendor-locking/261067",
+      "source": "Kode24",
+      "summary": "– Prosjekter går sjelden dårlig fordi man valgte feil skyplattform, skriver utvikler Steinar Kollerud.",
+      "published": "2026-04-20T04:00:00Z"
+    },
     {
       "id": "bd72f0e69988fcb34ac023f86d693fd4a65af1a9",
       "title": "Building an emoji list generator with the GitHub Copilot CLI",
@@ -195,30 +219,6 @@
       "source": "GitHub Blog",
       "summary": "The new Code Security Risk Assessment gives you a one-click view of vulnerabilities across your organization, at no cost. The post How exposed is your code? Find out in minutes—for free appeared first on The GitHub Blog.",
       "published": "2026-04-14T15:00:00Z"
-    },
-    {
-      "id": "1c45a9147b8efe569794d24b6fb06df39dcd2f15",
-      "title": "Ønsker mer teknologi i grunnskolen: – Må være kritiske",
-      "link": "https://www.kode24.no/artikkel/onsker-mer-teknologi-i-grunnskolen-ma-vaere-kritiske/260874",
-      "source": "Kode24",
-      "summary": "IT-topper etterlyser mer teknologi i grunnskolen. – Vi må være kritiske til når elevene skal bruke hva, svarer Kunnskapsdepartementet.",
-      "published": "2026-04-14T09:00:32Z"
-    },
-    {
-      "id": "9aa955a32143b15fe8f25da53c50a68c39b377d8",
-      "title": "Meta-sjefen kloner seg selv",
-      "link": "https://www.kode24.no/artikkel/meta-sjefen-kloner-seg-selv/260986",
-      "source": "Kode24",
-      "summary": "Mark Zuckerberg kloner angivelig seg selv med KI for å erstatte seg selv i møter.",
-      "published": "2026-04-14T07:45:12Z"
-    },
-    {
-      "id": "df00fc3feefb6e9a0fcea3c9610a05c560d605c9",
-      "title": "80 millioner til nye studier",
-      "link": "https://www.kode24.no/artikkel/80-millioner-til-nye-studier/260974",
-      "source": "Kode24",
-      "summary": "Regjeringen tildeler 80 milloner kroner til fagskoler for utvikling av nye utdanninger innen helse, beredskap og teknologi.",
-      "published": "2026-04-14T06:56:34Z"
     },
     {
       "id": "9231e5372c306683f606d4ec04aee5b680d1cee4",
