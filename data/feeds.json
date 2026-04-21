@@ -1,6 +1,63 @@
 {
-  "generated_at": "2026-04-20T08:16:04.780279Z",
+  "generated_at": "2026-04-21T07:59:12.602900Z",
   "items": [
+    {
+      "id": "5a8e8ea023504a9f22c92a1b1ecd91aae0129720",
+      "title": "Apples toppsjef går av – arvtaker er klar",
+      "link": "https://www.kode24.no/artikkel/apples-toppsjef-gar-av-arvtaker-er-klar/261596",
+      "source": "Kode24",
+      "summary": "Tim Cook går av som øverste leder i teknologiselskapet Apple etter 15 år. Han blir i stedet styreleder, og John Ternus blir ny toppsjef.",
+      "published": "2026-04-21T06:42:18Z"
+    },
+    {
+      "id": "1ce74c948ebf18863d4eca7bff92b28520761b9b",
+      "title": "– Har kjent på at jeg må «leve opp til» tittelen utvikler",
+      "link": "https://www.kode24.no/artikkel/har-kjent-pa-at-jeg-ma-leve-opp-til-tittelen-utvikler/261537",
+      "source": "Kode24",
+      "summary": "Ukas Koder bruker KI hele tiden. Og mener bransjen endrer seg raskere enn man tror.",
+      "published": "2026-04-21T06:00:00Z"
+    },
+    {
+      "id": "5a945fe6736c157a6439dbb4d264b3c74b55602f",
+      "title": "«Token»-lengsel går viralt: Her får de så mange de vil",
+      "link": "https://www.kode24.no/artikkel/token-lengsel-gar-viralt-her-far-de-sa-mange-de-vil/260811",
+      "source": "Kode24",
+      "summary": "Mens folk verden rundt klager over begrenset KI-kreditt, får Stø-utviklere eksperimentere fritt. – Har økt forbruksgrensene fremfor å strupe innovasjonen.",
+      "published": "2026-04-21T04:00:00Z"
+    },
+    {
+      "id": "de9a8f67ffc7aa66533b705d6089e0b254e9abfc",
+      "title": "Changes to GitHub Copilot Individual plans",
+      "link": "https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/",
+      "source": "GitHub Blog",
+      "summary": "We're making these changes to ensure a reliable and predictable experience for existing customers. The post Changes to GitHub Copilot Individual plans appeared first on The GitHub Blog.",
+      "published": "2026-04-20T18:15:28Z",
+      "image": "https://github.blog/wp-content/uploads/2026/04/Screenshot-2026-04-20-at-2.05.12-PM.png?resize=1024%2C898"
+    },
+    {
+      "id": "d9bcf36bf52946f49e7d9e82ec413e0a31328a79",
+      "title": "Highlights from Git 2.54",
+      "link": "https://github.blog/open-source/git/highlights-from-git-2-54/",
+      "source": "GitHub Blog",
+      "summary": "The open source Git project just released Git 2.54. Here is GitHub’s look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.54 appeared first on The GitHub Blog.",
+      "published": "2026-04-20T16:43:57Z"
+    },
+    {
+      "id": "5b9f38f1b5c8ccc7976c72ecffc8ff41410e637f",
+      "title": "Reuters: Meta skal si opp 8000 ansatte i mai",
+      "link": "https://www.kode24.no/artikkel/reuters-meta-skal-si-opp-8000-ansatte-i-mai/261494",
+      "source": "Kode24",
+      "summary": "20. mai kommer den første bølgen med oppsigelser. Flere kutt kommer senere i år, ifølge nyhetsbyrå.",
+      "published": "2026-04-20T10:52:05Z"
+    },
+    {
+      "id": "ec39b96214cf29e2a816743179cef6075fcadc17",
+      "title": "Han vant valgthrilleren hos Nito-studentene",
+      "link": "https://www.kode24.no/artikkel/han-vant-valgthrilleren-hos-nito-studentene/261422",
+      "source": "Kode24",
+      "summary": "IT-student Jarand Byrkjeland tar over stafettpinnen.",
+      "published": "2026-04-20T09:00:00Z"
+    },
     {
       "id": "f94027c1dc4863f510855138d4c1f9bb224964e2",
       "title": "Systemoppdatering gav teknisk trøbbel",
@@ -19,8 +76,8 @@
     },
     {
       "id": "e78ce1da2c59829f8d0c1cd67cea997da2d61f08",
-      "title": "– Utviklere overdriver faren ved vendor locking",
-      "link": "https://www.kode24.no/artikkel/utviklere-overdriver-faren-ved-vendor-locking/261067",
+      "title": "– Utviklere overdriver faren ved vendor lock-in",
+      "link": "https://www.kode24.no/artikkel/utviklere-overdriver-faren-ved-vendor-lock-in/261067",
       "source": "Kode24",
       "summary": "– Prosjekter går sjelden dårlig fordi man valgte feil skyplattform, skriver utvikler Steinar Kollerud.",
       "published": "2026-04-20T04:00:00Z"
@@ -165,46 +222,6 @@
       "published": "2026-04-15T11:15:41Z"
     },
     {
-      "id": "7b6b74eeac918c6fcee416ea3b31f58c0ed10d5e",
-      "title": "Kongelig besøk hos Startuplab",
-      "link": "https://www.kode24.no/artikkel/kongelig-besok-hos-startuplab/261027",
-      "source": "Kode24",
-      "summary": "Kronprins Haakon og prins Sverre Magnus har flere oppdrag i dag. Dagen startet hos Forskningsparken der de besøkte gründerselskapet Auk – senere i dag skal de åpne Norges første kodebibliotek.",
-      "published": "2026-04-15T10:11:45Z"
-    },
-    {
-      "id": "34bfb5167cefacb0c3ee10f200c8abd30f6a337d",
-      "title": "MacBook Neo: Gamechangeren Windows trengte",
-      "link": "https://www.kode24.no/artikkel/macbook-neo-gamechangeren-windows-trengte/261084",
-      "source": "Kode24",
-      "summary": "Microsoft kommer til å slå tilbake og oppgradere operativsystemet, skriver journalist i The Verge, som har dekket Microsoft, PC og teknologi i over 20 år.",
-      "published": "2026-04-15T08:12:27Z"
-    },
-    {
-      "id": "9f2907fe9646469abcc6d88237c5d483ecba0be9",
-      "title": "Outlook Lite pensjoneres",
-      "link": "https://www.kode24.no/artikkel/outlook-lite-pensjoneres/261094",
-      "source": "Kode24",
-      "summary": "Android-brukere får ikke lenger e-post i appen etter 25. mai. Microsoft vil spare penger.",
-      "published": "2026-04-15T08:12:18Z"
-    },
-    {
-      "id": "5b6bb634e72fa0c8785eb676b514da04cc9f087d",
-      "title": "– Forbud mot KI er dømt til å feile",
-      "link": "https://www.kode24.no/artikkel/forbud-mot-ki-er-domt-til-a-feile/260952",
-      "source": "Kode24",
-      "summary": "– KI er allerede sentral i hvordan tekst blir til. Nå handler det om ansvarlig bruk – ikke forbud, skriver ansvarlig redaktør i kode24, Hilde Schjerve.",
-      "published": "2026-04-15T06:00:00Z"
-    },
-    {
-      "id": "00055cb2633e1ff9f623a1f8bdaaf7dd4242d398",
-      "title": "Slik gikk de fra et «Frankensteins monster» til en sikker autentisering",
-      "link": "https://www.kode24.no/artikkel/slik-gikk-de-fra-et-frankensteins-monster-til-en-sikker-autentisering/260845",
-      "source": "Kode24",
-      "summary": "– Autentisering og autorisering er en jungel av forskjellige anbefalinger og metoder, så det gjelder å holde tunga rett i munnen, skriver Pål Bøckmann i Alv.",
-      "published": "2026-04-15T04:00:00Z"
-    },
-    {
       "id": "74982bd25f5617e749d1198904e74c98399219c5",
       "title": "Hack the AI agent: Build agentic AI security skills with the GitHub Secure Code Game",
       "link": "https://github.blog/security/hack-the-ai-agent-build-agentic-ai-security-skills-with-the-github-secure-code-game/",
@@ -227,22 +244,6 @@
       "source": "GitHub Blog",
       "summary": "Learn how to create a free website for any repository on GitHub Pages. The post GitHub for Beginners: Getting started with GitHub Pages appeared first on The GitHub Blog.",
       "published": "2026-04-13T15:00:00Z"
-    },
-    {
-      "id": "ef47cbbdfa3141659387b93d07875094a2b264b2",
-      "title": "GitHub Copilot CLI for Beginners: Getting started with GitHub Copilot CLI",
-      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-getting-started-with-github-copilot-cli/",
-      "source": "GitHub Blog",
-      "summary": "GitHub for Beginners: Getting started with the GitHub Copilot CLI, a step-by-step tutorial. The post GitHub Copilot CLI for Beginners: Getting started with GitHub Copilot CLI appeared first on The GitHub Blog.",
-      "published": "2026-04-10T16:00:00Z"
-    },
-    {
-      "id": "d39917740bdabbb50059160ee3f7ec29575da496",
-      "title": "GitHub availability report: March 2026",
-      "link": "https://github.blog/news-insights/company-news/github-availability-report-march-2026/",
-      "source": "GitHub Blog",
-      "summary": "In March, we experienced four incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: March 2026 appeared first on The GitHub Blog.",
-      "published": "2026-04-09T02:21:17Z"
     },
     {
       "id": "a5addf8606df3e8a369a2fc506ad4a05f7e158ef",
