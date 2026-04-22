@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-04-21T07:59:12.602900Z",
+  "generated_at": "2026-04-22T07:55:34.573681Z",
   "items": [
+    {
+      "id": "728f6b6a8099889a429d9d292c66968f2abc7d03",
+      "title": "ChatGPT etterforskes etter «norsk» masseskyting",
+      "link": "https://www.kode24.no/artikkel/chatgpt-etterforskes-etter-norsk-masseskyting/261662",
+      "source": "Kode24",
+      "summary": "Phoenix Ikner stilte flere spørsmål til ChatGPT før han skjøt flere mennesker på et universitet.",
+      "published": "2026-04-22T06:16:19Z"
+    },
+    {
+      "id": "be0bf72102fae633f382fa08d9495f1ed8641cf5",
+      "title": "Bygget MCP-server oppå tjeneste: Starter oftere i Claude",
+      "link": "https://www.kode24.no/artikkel/bygget-mcp-server-oppa-tjeneste-starter-oftere-i-claude/261407",
+      "source": "Kode24",
+      "summary": "I stedet for å besøke nettsider kan brukere hente inn data via KI-agenter med MCP-servere. Abhishek Thakur la like godt en oppå REST-API-et til Brønnøysundregistrene.",
+      "published": "2026-04-22T06:00:00Z"
+    },
+    {
+      "id": "009352616cf521bdbc68e1a10b4fdf248ac0958a",
+      "title": "– De strukturelle problemene med dagens kunstige intelligens",
+      "link": "https://www.kode24.no/artikkel/de-strukturelle-problemene-med-dagens-kunstige-intelligens/261273",
+      "source": "Kode24",
+      "summary": "– Default-scenarioet er det hvor vi taper, men med kloke valg og samarbeid kan vi minimere eller unngå flere av dem, skriver Magnus Elden.",
+      "published": "2026-04-22T04:00:00Z"
+    },
+    {
+      "id": "1f2457c18c5d44d52c7118b5ce471659cf2291d0",
+      "title": "– Stor forskjell på å skrive med KI og å la KI skrive for deg",
+      "link": "https://www.kode24.no/artikkel/stor-forskjell-pa-a-skrive-med-ki-og-a-la-ki-skrive-for-deg/261535",
+      "source": "Kode24",
+      "summary": "– Jeg møter mange som enten lar KI skrive alt for seg, eller som bruker det som en skrivevenn. Forskjellen på de to er ganske stor, sier tekstdoktor Christine Calvert.",
+      "published": "2026-04-21T12:30:00Z"
+    },
+    {
+      "id": "b4e4d571f7a3619cd055bdc8ac74279d3e23ebd9",
+      "title": "Tar av på LinkedIn: – Alt må ikke gjøres så forbanna riktig",
+      "link": "https://www.kode24.no/artikkel/tar-av-pa-linkedin-alt-ma-ikke-gjores-sa-forbanna-riktig/261403",
+      "source": "Kode24",
+      "summary": "«Gnu Bar» i Stavanger er blitt et LinkedIn-fenomen. Nå med 3.000 følgere. – Det er morsommere å gjøre noe helt annet enn det folk forventer av en bar.",
+      "published": "2026-04-21T08:30:00Z"
+    },
     {
       "id": "5a8e8ea023504a9f22c92a1b1ecd91aae0129720",
       "title": "Apples toppsjef går av – arvtaker er klar",
@@ -166,38 +206,6 @@
       "published": "2026-04-16T12:10:21Z"
     },
     {
-      "id": "b5ede2509160f8e97410b556a63450887be75138",
-      "title": "Konkurransetilsynet ser på oppkjøp av Eplehuset",
-      "link": "https://www.kode24.no/artikkel/konkurransetilsynet-ser-pa-oppkjop-av-eplehuset/261212",
-      "source": "Kode24",
-      "summary": "Konkurransetilsynet: Elkjøps oppkjøp av Eplehuset må vurderes nærmere.",
-      "published": "2026-04-16T09:39:44Z"
-    },
-    {
-      "id": "3044bc8d23b97e47a3b199131515a22025423f31",
-      "title": "Kunne spore toppolitikere: Åpner tilsyn med Telia",
-      "link": "https://www.kode24.no/artikkel/kunne-spore-toppolitikere-apner-tilsyn-med-telia/261170",
-      "source": "Kode24",
-      "summary": "Sikkerhetshull og konfigurasjonsfeil gjorde Telia-kunder sporbare i årevis. Nå åpner Nkom tilsyn med selskapet.",
-      "published": "2026-04-16T06:47:35Z"
-    },
-    {
-      "id": "c445254c76bacdd9c99341d2e9a86bc8814eb50a",
-      "title": "Advarer mot å la KI tenke for deg",
-      "link": "https://www.kode24.no/artikkel/advarer-mot-a-la-ki-tenke-for-deg/261010",
-      "source": "Kode24",
-      "summary": "– Verktøy kommer og går, men evnen til å forstå problemer, stille gode spørsmål, se risiko og bygge med mening blir bare viktigere, sier Ukas Koder, Neda Maria Kaizumi.",
-      "published": "2026-04-16T06:00:00Z"
-    },
-    {
-      "id": "83fadd06f1a56d72223c08f2c6e8a592a42a06a7",
-      "title": "Stø-utviklere har ikke håndkodet på et halvt år",
-      "link": "https://www.kode24.no/artikkel/sto-utviklere-har-ikke-handkodet-pa-et-halvt-ar/261045",
-      "source": "Kode24",
-      "summary": "Selskapet bak BankID og BankAxept lar ansatte bruke så mye KI de vil. Tarald Riise liker å bli mer ansvarlig for produkt og kvalitet og mindre «Code Monkey».",
-      "published": "2026-04-16T04:00:00Z"
-    },
-    {
       "id": "a33f7e9579f50d0ee92ca3ba48f3b0b48026e765",
       "title": "Build a personal organization command center with GitHub Copilot CLI",
       "link": "https://github.blog/ai-and-ml/github-copilot/build-a-personal-organization-command-center-with-github-copilot-cli/",
@@ -212,14 +220,6 @@
       "source": "GitHub Blog",
       "summary": "We’re sharing recent policy updates that developers should know about, updating our Transparency Center with the full year of 2025 data, and looking to what’s ahead. The post Developer policy update: Intermediary liability, copyright, and transparency appeared first on The GitHub Blog.",
       "published": "2026-04-15T15:00:00Z"
-    },
-    {
-      "id": "0bc21b310e82c58ed11de5b037dcfa4cc5fedaaa",
-      "title": "Nedbemanner over hele verden",
-      "link": "https://www.kode24.no/artikkel/nedbemanner-over-hele-verden/261122",
-      "source": "Kode24",
-      "summary": "Snapchat skal kutte 1.000 årsverk globalt. Selskapet vil kutte hele 16 prosent av staben.",
-      "published": "2026-04-15T11:15:41Z"
     },
     {
       "id": "74982bd25f5617e749d1198904e74c98399219c5",
