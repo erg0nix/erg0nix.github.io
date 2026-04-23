@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-04-22T07:55:34.573681Z",
+  "generated_at": "2026-04-23T08:01:57.802310Z",
   "items": [
+    {
+      "id": "9508d9101d4306ea38b7cf49571b29271ddeda2c",
+      "title": "Datainnbrudd hos Rituals",
+      "link": "https://www.kode24.no/artikkel/datainnbrudd-hos-rituals/261785",
+      "source": "Kode24",
+      "summary": "Både norske og europeiske kunder skal ha fått lekket navn, telefonnummer og adresse.",
+      "published": "2026-04-23T07:05:15Z"
+    },
+    {
+      "id": "1eb2ecac6f6020ce46da7076ce5675a7f522b191",
+      "title": "Tekniske problemer hos SSB",
+      "link": "https://www.kode24.no/artikkel/tekniske-problemer-hos-ssb/261802",
+      "source": "Kode24",
+      "summary": "SSB opplever tekniske problemer knyttet til statistikkbanken torsdag morgen.",
+      "published": "2026-04-23T06:48:44Z"
+    },
+    {
+      "id": "30c9fb085dbf3f7d03c91d39921b80dae8c46c94",
+      "title": "Derfor får ikke utviklere bygge de beste løsningene",
+      "link": "https://www.kode24.no/artikkel/derfor-far-ikke-utviklere-bygge-de-beste-losningene/261750",
+      "source": "Kode24",
+      "summary": "Mange store selskaper ender opp med «greie nok» systemer – selv om de har dyktige utviklere. Ny forskning peker på en klassisk årsak mange vil kjenne igjen, ifølge innleggsforfatterne.",
+      "published": "2026-04-23T04:00:00Z"
+    },
+    {
+      "id": "00bb5d4261b6c83ca09fb40049623f42f465f0d6",
+      "title": "Erfaring med data fra land, vann og luftrommet",
+      "link": "https://www.kode24.no/artikkel/erfaring-med-data-fra-land-vann-og-luftrommet/261770",
+      "source": "Kode24",
+      "summary": "Twoday styrker laget – én av dem er Morten Stakkeland, som har jobbet data på land, til sjøs og i lufta.",
+      "published": "2026-04-22T12:39:27Z"
+    },
+    {
+      "id": "a07f393bb194a857361f0c5de27245adfaa7e0da",
+      "title": "Ukrainer til norske utviklere: – Hack Russland!",
+      "link": "https://www.kode24.no/artikkel/ukrainer-til-norske-utviklere-hack-russland/261610",
+      "source": "Kode24",
+      "summary": "Cyberkrigen mellom Ukraina og Russland har eskalert de siste årene. kode24s lesere blir oppfordret til å bidra i kampen.",
+      "published": "2026-04-22T12:30:00Z"
+    },
+    {
+      "id": "b6ddf267ebdeaa421ccb50fe8c8df14ab427c402",
+      "title": "Run, Robot, Run!",
+      "link": "https://www.kode24.no/artikkel/run-robot-run/261676",
+      "source": "Kode24",
+      "summary": "Roboten «Lightning» deltok i et halvmaraton og slo den menneskelige rekorden med syv minutter, som viser en ny milepæl i utviklingen av roboter.",
+      "published": "2026-04-22T07:47:33Z"
+    },
     {
       "id": "728f6b6a8099889a429d9d292c66968f2abc7d03",
       "title": "ChatGPT etterforskes etter «norsk» masseskyting",
@@ -14,7 +62,7 @@
       "title": "Bygget MCP-server oppå tjeneste: Starter oftere i Claude",
       "link": "https://www.kode24.no/artikkel/bygget-mcp-server-oppa-tjeneste-starter-oftere-i-claude/261407",
       "source": "Kode24",
-      "summary": "I stedet for å besøke nettsider kan brukere hente inn data via KI-agenter med MCP-servere. Abhishek Thakur la like godt en oppå REST-API-et til Brønnøysundregistrene.",
+      "summary": "I stedet for å besøke nettsider kan brukere hente inn data via KI-agenter med MCP-servere. Abhishek Thakur bygget like godt en oppå REST-API-et til Brønnøysundregistrene.",
       "published": "2026-04-22T06:00:00Z"
     },
     {
@@ -149,46 +197,6 @@
       "published": "2026-04-17T11:23:03Z"
     },
     {
-      "id": "e4b3cec9bfe91279b7d7da628bfb7522a429e3c0",
-      "title": "Unge fikk advarsel etter storaksjon mot datakriminalitet",
-      "link": "https://www.kode24.no/artikkel/unge-fikk-advarsel-etter-storaksjon-mot-datakriminalitet/261306",
-      "source": "Kode24",
-      "summary": "78 nordmenn har blitt identifisert som brukere av ulovlige DDoS-tjenester, og fått en advarsel. Én mann får en straffesak mot seg.",
-      "published": "2026-04-17T09:15:07Z"
-    },
-    {
-      "id": "f7d7a62557b38be225ad3e43183ce69ac0aeb4ce",
-      "title": "Bluesky-brukere har problemer",
-      "link": "https://www.kode24.no/artikkel/bluesky-brukere-har-problemer/261314",
-      "source": "Kode24",
-      "summary": "Bluesky har opplevd et DDoS-angrep de siste 24-timene.",
-      "published": "2026-04-17T08:43:14Z"
-    },
-    {
-      "id": "37a80627de109bce38f10b67f4403055b21ee7db",
-      "title": "Nedbemanner utviklere",
-      "link": "https://www.kode24.no/artikkel/nedbemanner-utviklere/261290",
-      "source": "Kode24",
-      "summary": "Renault nedbemanner opptil 20 prosent av ingeniørene sine.",
-      "published": "2026-04-17T07:25:53Z"
-    },
-    {
-      "id": "3e128623338079198982c8893b97ef48fbb65400",
-      "title": "– To nye webteknologier imponerer meg stort",
-      "link": "https://www.kode24.no/artikkel/to-nye-webteknologier-imponerer-meg-stort/261191",
-      "source": "Kode24",
-      "summary": "Det går stadig lengre tid mellom hver gang jeg blir skikkelig imponert over ny webteknologi. Men Pretext og «HTML in Canvas» imponerer!",
-      "published": "2026-04-17T06:00:00Z"
-    },
-    {
-      "id": "4493d3fe6a5a718be70173e1222a79fff0f944ca",
-      "title": "19 nominerte til årets Digitaliseringspris",
-      "link": "https://www.kode24.no/artikkel/19-nominerte-til-arets-digitaliseringspris/261249",
-      "source": "Kode24",
-      "summary": "Folkehelseinstituttet kan stikke av med en ny pris for KoSy-prosjektet. Se hvem de 18 andre nominerte er.",
-      "published": "2026-04-17T04:00:00Z"
-    },
-    {
       "id": "9feaf2bc61478f9077ebcaa44895c0b94f990581",
       "title": "How GitHub uses eBPF to improve deployment safety",
       "link": "https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/",
@@ -196,14 +204,6 @@
       "summary": "Learn how Github uses eBPF to detect and prevent circular dependencies in its deployment tooling. The post How GitHub uses eBPF to improve deployment safety appeared first on The GitHub Blog.",
       "published": "2026-04-16T16:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2026/04/Screenshot-2026-04-06-at-6.36.24-PM.png?resize=1433%2C194"
-    },
-    {
-      "id": "c6213dfb345004ffcff06a92e01eb9174393479d",
-      "title": "To IT-studenter kjemper om lederverv",
-      "link": "https://www.kode24.no/artikkel/to-it-studenter-kjemper-om-lederverv/261065",
-      "source": "Kode24",
-      "summary": "Denne helgen får Nito Studentene en IT-student som er pro KI-bruk til leder. Spørsmålet er hva han skal hete.",
-      "published": "2026-04-16T12:10:21Z"
     },
     {
       "id": "a33f7e9579f50d0ee92ca3ba48f3b0b48026e765",
