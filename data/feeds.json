@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-04-23T08:01:57.802310Z",
+  "generated_at": "2026-04-24T08:10:32.357377Z",
   "items": [
+    {
+      "id": "5517f82a6e2139a196d5f81e185d863c648bf108",
+      "title": "Datatilsynet bekymret for aldersgrense for sosiale medier",
+      "link": "https://www.kode24.no/artikkel/datatilsynet-bekymret-for-aldersgrense-for-sosiale-medier/261969",
+      "source": "Kode24",
+      "summary": "Regjeringen vil ha aldersgrense på 16 år. Men store mengder personopplysninger og tredjepartsløsninger bekymrer Datatilsynet.",
+      "published": "2026-04-24T07:49:32Z"
+    },
+    {
+      "id": "40bbf07ccd8cfb80935553216a58e23032357d8f",
+      "title": "Vant pris for brukeropplevelse – risikerer å bli lagt ned",
+      "link": "https://www.kode24.no/artikkel/vant-pris-for-brukeropplevelse-risikerer-a-bli-lagt-ned/261946",
+      "source": "Kode24",
+      "summary": "Lille norske leksikon vant akkurat Brukeropplevelsesprisen på Yggdrasil-konferansen. Nå risikerer de å bli lagt ned på grunn av pengemangel.",
+      "published": "2026-04-24T07:01:02Z"
+    },
+    {
+      "id": "71728032ebe4e59ed5f761ded619d4a15ab7a21d",
+      "title": "Avviser «vibbekoding»: – Dårleg som fagterm",
+      "link": "https://www.kode24.no/artikkel/avviser-vibbekoding-darleg-som-fagterm/260839",
+      "source": "Kode24",
+      "summary": "Driv utviklarar med vibbekoding, KI-assistert utvikling eller kanskje bionisk systemering? kode24 undersøker kva verbet skal heite.",
+      "published": "2026-04-24T06:00:00Z"
+    },
+    {
+      "id": "1075beadeb6b28100b248e654954ddcb4e1c13f4",
+      "title": "Vil innføre aldersgrense",
+      "link": "https://www.kode24.no/artikkel/vil-innfore-aldersgrense/261931",
+      "source": "Kode24",
+      "summary": "Regjeringen vil forby sosiale medier fram til året man fyller 16.",
+      "published": "2026-04-24T05:41:03Z"
+    },
+    {
+      "id": "b27d1114babf744ea68825f7aed72c1e9f2f45cc",
+      "title": "– Du kan bryte seks regelverk uten å vite det",
+      "link": "https://www.kode24.no/artikkel/du-kan-bryte-seks-regelverk-uten-a-vite-det/261851",
+      "source": "Kode24",
+      "summary": "– KI gjør det enkelt å lage innhold med andres stemme, ansikt eller stil. Men er det lov? Ikke alltid, skriver Merete Nygaard.",
+      "published": "2026-04-24T04:00:00Z"
+    },
+    {
+      "id": "8864a5e3b5853bfcbc0173501948d160a18f1b5e",
+      "title": "Mange vil studere kvanteteknologi",
+      "link": "https://www.kode24.no/artikkel/mange-vil-studere-kvanteteknologi/261826",
+      "source": "Kode24",
+      "summary": "For tredje år på rad er Bergen den mest populære studiebyen i Norge utenfor Oslo. Mange har søkt på det nye studiet kvanteteknologi ved UiB. Også NTNU og UiO ser dette studiet er populært.",
+      "published": "2026-04-23T08:10:30Z"
+    },
     {
       "id": "9508d9101d4306ea38b7cf49571b29271ddeda2c",
       "title": "Datainnbrudd hos Rituals",
@@ -14,7 +62,7 @@
       "title": "Tekniske problemer hos SSB",
       "link": "https://www.kode24.no/artikkel/tekniske-problemer-hos-ssb/261802",
       "source": "Kode24",
-      "summary": "SSB opplever tekniske problemer knyttet til statistikkbanken torsdag morgen.",
+      "summary": "SSB opplevde tekniske problemer knyttet til statistikkbanken torsdag morgen. Problemene er nå løst.",
       "published": "2026-04-23T06:48:44Z"
     },
     {
@@ -131,46 +179,6 @@
       "published": "2026-04-20T16:43:57Z"
     },
     {
-      "id": "5b9f38f1b5c8ccc7976c72ecffc8ff41410e637f",
-      "title": "Reuters: Meta skal si opp 8000 ansatte i mai",
-      "link": "https://www.kode24.no/artikkel/reuters-meta-skal-si-opp-8000-ansatte-i-mai/261494",
-      "source": "Kode24",
-      "summary": "20. mai kommer den første bølgen med oppsigelser. Flere kutt kommer senere i år, ifølge nyhetsbyrå.",
-      "published": "2026-04-20T10:52:05Z"
-    },
-    {
-      "id": "ec39b96214cf29e2a816743179cef6075fcadc17",
-      "title": "Han vant valgthrilleren hos Nito-studentene",
-      "link": "https://www.kode24.no/artikkel/han-vant-valgthrilleren-hos-nito-studentene/261422",
-      "source": "Kode24",
-      "summary": "IT-student Jarand Byrkjeland tar over stafettpinnen.",
-      "published": "2026-04-20T09:00:00Z"
-    },
-    {
-      "id": "f94027c1dc4863f510855138d4c1f9bb224964e2",
-      "title": "Systemoppdatering gav teknisk trøbbel",
-      "link": "https://www.kode24.no/artikkel/systemoppdatering-gav-teknisk-trobbel/261460",
-      "source": "Kode24",
-      "summary": "Norsk Tipping hadde søndag ettermiddag tekniske problemer med Oddsen. Det gjorde at det ikke var mulig å levere oddsspill.",
-      "published": "2026-04-20T07:02:00Z"
-    },
-    {
-      "id": "860a9ebb06ad2cbbcc5bac1c3e4033f306d32007",
-      "title": "Ludvig viste bachelor-oppgaven sin til kronprinsen",
-      "link": "https://www.kode24.no/artikkel/ludvig-viste-bachelor-oppgaven-sin-til-kronprinsen/261358",
-      "source": "Kode24",
-      "summary": "Det var spenning i rommet da kronprins og prins fikk se prosjektet som skal gi navigatører bedre situasjonsforståelse til sjøs. – Veldig stas!",
-      "published": "2026-04-20T05:00:00Z"
-    },
-    {
-      "id": "e78ce1da2c59829f8d0c1cd67cea997da2d61f08",
-      "title": "– Utviklere overdriver faren ved vendor lock-in",
-      "link": "https://www.kode24.no/artikkel/utviklere-overdriver-faren-ved-vendor-lock-in/261067",
-      "source": "Kode24",
-      "summary": "– Prosjekter går sjelden dårlig fordi man valgte feil skyplattform, skriver utvikler Steinar Kollerud.",
-      "published": "2026-04-20T04:00:00Z"
-    },
-    {
       "id": "bd72f0e69988fcb34ac023f86d693fd4a65af1a9",
       "title": "Building an emoji list generator with the GitHub Copilot CLI",
       "link": "https://github.blog/ai-and-ml/github-copilot/building-an-emoji-list-generator-with-the-github-copilot-cli/",
@@ -187,14 +195,6 @@
       "summary": "Changes to the status page will provide more specific data, so you'll have better insight into the overall health of the platform. The post Bringing more transparency to GitHub’s status page appeared first on The GitHub Blog.",
       "published": "2026-04-17T16:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2026/04/image-6.png?resize=2084%2C1756"
-    },
-    {
-      "id": "0521c4baf2e76c5455268343eb56fc6ba5613de1",
-      "title": "Advarer mot Mythos-effekt på sikkerheten",
-      "link": "https://www.kode24.no/artikkel/advarer-mot-mythos-effekt-pa-sikkerheten/261302",
-      "source": "Kode24",
-      "summary": "Anthropic holder tilbake den kraftige modellen som avdekker sårbarheter i IT-systemer. Men tilsvarende kan lages allerede nå, ifølge forskere.",
-      "published": "2026-04-17T11:23:03Z"
     },
     {
       "id": "9feaf2bc61478f9077ebcaa44895c0b94f990581",
