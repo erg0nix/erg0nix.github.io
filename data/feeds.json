@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-04-26T07:45:23.757958Z",
+  "generated_at": "2026-04-27T08:32:07.097670Z",
   "items": [
+    {
+      "id": "cc13634832bacfe0ac4b2fb64efcb8e0d188e118",
+      "title": "Rettssak mellom Musk og OpenAI",
+      "link": "https://www.kode24.no/artikkel/rettssak-mellom-musk-og-openai/262033",
+      "source": "Kode24",
+      "summary": "Tek-milliardær Elon Musk har gått til sak mot OpenAIs administrerende direktør Sam Altman. Rettssaken starter i dag.",
+      "published": "2026-04-27T06:55:10Z"
+    },
+    {
+      "id": "5d27b30cd5720d9f47cce8161042e42fc7d0f394",
+      "title": "– Får erfaringer jeg kan ta med meg tilbake til utviklerrollen",
+      "link": "https://www.kode24.no/artikkel/far-erfaringer-jeg-kan-ta-med-meg-tilbake-til-utviklerrollen/261893",
+      "source": "Kode24",
+      "summary": "Utvikler Annette Giørtz er både utvikler og skiinstruktør. – Det gir meg en fin variasjon i hverdagen. Spesielt gjelder det kommunikasjon og ledelse.",
+      "published": "2026-04-27T04:00:00Z"
+    },
     {
       "id": "fb7b641ee98bc91c65b189bb468256f0db3c22b6",
       "title": "Slik får du Disneys strekk-effekt",
@@ -144,22 +160,6 @@
       "source": "Kode24",
       "summary": "– Jeg møter mange som enten lar KI skrive alt for seg, eller som bruker det som en skrivevenn. Forskjellen på de to er ganske stor, sier tekstdoktor Christine Calvert.",
       "published": "2026-04-21T12:30:00Z"
-    },
-    {
-      "id": "b4e4d571f7a3619cd055bdc8ac74279d3e23ebd9",
-      "title": "Tar av på LinkedIn: – Alt må ikke gjøres så forbanna riktig",
-      "link": "https://www.kode24.no/artikkel/tar-av-pa-linkedin-alt-ma-ikke-gjores-sa-forbanna-riktig/261403",
-      "source": "Kode24",
-      "summary": "«Gnu Bar» i Stavanger er blitt et LinkedIn-fenomen. Nå med 3.000 følgere. – Det er morsommere å gjøre noe helt annet enn det folk forventer av en bar.",
-      "published": "2026-04-21T08:30:00Z"
-    },
-    {
-      "id": "5a8e8ea023504a9f22c92a1b1ecd91aae0129720",
-      "title": "Apples toppsjef går av – arvtaker er klar",
-      "link": "https://www.kode24.no/artikkel/apples-toppsjef-gar-av-arvtaker-er-klar/261596",
-      "source": "Kode24",
-      "summary": "Tim Cook går av som øverste leder i teknologiselskapet Apple etter 15 år. Han blir i stedet styreleder, og John Ternus blir ny toppsjef.",
-      "published": "2026-04-21T06:42:18Z"
     },
     {
       "id": "de9a8f67ffc7aa66533b705d6089e0b254e9abfc",
