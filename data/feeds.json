@@ -1,10 +1,50 @@
 {
-  "generated_at": "2026-04-27T08:32:07.097670Z",
+  "generated_at": "2026-04-28T08:30:22.800916Z",
   "items": [
     {
+      "id": "8991578fdfbad91e7770aca6644ede423f6da416",
+      "title": "Remarkable nedbemanner igjen",
+      "link": "https://www.kode24.no/artikkel/remarkable-nedbemanner-igjen/262141",
+      "source": "Kode24",
+      "summary": "Opp mot 200 ansatte og toppsjefen må gå i ny kuttrunde.",
+      "published": "2026-04-28T07:54:56Z"
+    },
+    {
+      "id": "acdad29e82ac507c15b5c1375b07a136f1afeff9",
+      "title": "Full fest i «KI-bobla»: – Alt er overdrevet",
+      "link": "https://www.kode24.no/artikkel/full-fest-i-ki-bobla-alt-er-overdrevet/262058",
+      "source": "Kode24",
+      "summary": "Robert Næss i Nordea tror KI-bobla bygger seg opp, men mener at en sprekk ikke vil ha så store konsekvenser for utviklere.",
+      "published": "2026-04-28T05:57:00Z"
+    },
+    {
+      "id": "e3a500d89d466bad5c8f9b9e34ff908841fa3cb0",
+      "title": "Er elendig i nynorsk – laga nynorskspråket «Brunost»",
+      "link": "https://www.kode24.no/artikkel/er-elendig-i-nynorsk-laga-nynorskspraket-brunost/261889",
+      "source": "Kode24",
+      "summary": "Han brukar ikkje nynorsk sjølv, men har laga programmeringsspråket Brunost – på nynorsk. Snart kan det også bli laga Vaffel og Syltetøy.",
+      "published": "2026-04-28T04:00:00Z"
+    },
+    {
+      "id": "56eb77a0a63e00ec3b139f0b9ae819dc3def5570",
+      "title": "GitHub Copilot is moving to usage-based billing",
+      "link": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
+      "source": "GitHub Blog",
+      "summary": "Starting June 1, your Copilot usage will consume GitHub AI Credits. The post GitHub Copilot is moving to usage-based billing appeared first on The GitHub Blog.",
+      "published": "2026-04-27T15:58:22Z"
+    },
+    {
+      "id": "5867b77c09194be4ef27e978e3cfe13f1598ff00",
+      "title": "Bedriftsledere bekymrer seg for ansattes KI-bruk",
+      "link": "https://www.kode24.no/artikkel/bedriftsledere-bekymrer-seg-for-ansattes-ki-bruk/262092",
+      "source": "Kode24",
+      "summary": "Mange ledere frykter ansattes bruk av uautoriserte KI-tjenester. Og flere ser KI som en IT-sikkerhetsrisiko, ifølge Atea-rapport.",
+      "published": "2026-04-27T11:04:43Z"
+    },
+    {
       "id": "cc13634832bacfe0ac4b2fb64efcb8e0d188e118",
-      "title": "Rettssak mellom Musk og OpenAI",
-      "link": "https://www.kode24.no/artikkel/rettssak-mellom-musk-og-openai/262033",
+      "title": "Rettsstriden mellom Musk og OpenAI begynner",
+      "link": "https://www.kode24.no/artikkel/rettsstriden-mellom-musk-og-openai-begynner/262033",
       "source": "Kode24",
       "summary": "Tek-milliardær Elon Musk har gått til sak mot OpenAIs administrerende direktør Sam Altman. Rettssaken starter i dag.",
       "published": "2026-04-27T06:55:10Z"
@@ -130,38 +170,6 @@
       "published": "2026-04-22T07:47:33Z"
     },
     {
-      "id": "728f6b6a8099889a429d9d292c66968f2abc7d03",
-      "title": "ChatGPT etterforskes etter «norsk» masseskyting",
-      "link": "https://www.kode24.no/artikkel/chatgpt-etterforskes-etter-norsk-masseskyting/261662",
-      "source": "Kode24",
-      "summary": "Phoenix Ikner stilte flere spørsmål til ChatGPT før han skjøt flere mennesker på et universitet.",
-      "published": "2026-04-22T06:16:19Z"
-    },
-    {
-      "id": "be0bf72102fae633f382fa08d9495f1ed8641cf5",
-      "title": "Bygget MCP-server oppå tjeneste: Starter oftere i Claude",
-      "link": "https://www.kode24.no/artikkel/bygget-mcp-server-oppa-tjeneste-starter-oftere-i-claude/261407",
-      "source": "Kode24",
-      "summary": "I stedet for å besøke nettsider kan brukere hente inn data via KI-agenter med MCP-servere. Abhishek Thakur bygget like godt en oppå REST-API-et til Brønnøysundregistrene.",
-      "published": "2026-04-22T06:00:00Z"
-    },
-    {
-      "id": "009352616cf521bdbc68e1a10b4fdf248ac0958a",
-      "title": "– De strukturelle problemene med dagens kunstige intelligens",
-      "link": "https://www.kode24.no/artikkel/de-strukturelle-problemene-med-dagens-kunstige-intelligens/261273",
-      "source": "Kode24",
-      "summary": "– Default-scenarioet er det hvor vi taper, men med kloke valg og samarbeid kan vi minimere eller unngå flere av dem, skriver Magnus Elden.",
-      "published": "2026-04-22T04:00:00Z"
-    },
-    {
-      "id": "1f2457c18c5d44d52c7118b5ce471659cf2291d0",
-      "title": "– Stor forskjell på å skrive med KI og å la KI skrive for deg",
-      "link": "https://www.kode24.no/artikkel/stor-forskjell-pa-a-skrive-med-ki-og-a-la-ki-skrive-for-deg/261535",
-      "source": "Kode24",
-      "summary": "– Jeg møter mange som enten lar KI skrive alt for seg, eller som bruker det som en skrivevenn. Forskjellen på de to er ganske stor, sier tekstdoktor Christine Calvert.",
-      "published": "2026-04-21T12:30:00Z"
-    },
-    {
       "id": "de9a8f67ffc7aa66533b705d6089e0b254e9abfc",
       "title": "Changes to GitHub Copilot Individual plans",
       "link": "https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/",
@@ -236,14 +244,6 @@
       "source": "GitHub Blog",
       "summary": "The new Code Security Risk Assessment gives you a one-click view of vulnerabilities across your organization, at no cost. The post How exposed is your code? Find out in minutes—for free appeared first on The GitHub Blog.",
       "published": "2026-04-14T15:00:00Z"
-    },
-    {
-      "id": "9231e5372c306683f606d4ec04aee5b680d1cee4",
-      "title": "GitHub for Beginners: Getting started with GitHub Pages",
-      "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-github-pages/",
-      "source": "GitHub Blog",
-      "summary": "Learn how to create a free website for any repository on GitHub Pages. The post GitHub for Beginners: Getting started with GitHub Pages appeared first on The GitHub Blog.",
-      "published": "2026-04-13T15:00:00Z"
     },
     {
       "id": "a5addf8606df3e8a369a2fc506ad4a05f7e158ef",
