@@ -1,12 +1,85 @@
 {
-  "generated_at": "2026-04-28T08:30:22.800916Z",
+  "generated_at": "2026-04-29T08:24:25.558455Z",
   "items": [
+    {
+      "id": "ee7601dbc396f29cc5ff13b669723d5d68af9deb",
+      "title": "Appfarm avlyser internship i sommer",
+      "link": "https://www.kode24.no/artikkel/appfarm-avlyser-internship-i-sommer/262227",
+      "source": "Kode24",
+      "summary": "Fire studenter mistet jobben de skulle hatt i sommer. – Tung beslutning, sier app-selskapet, som trenger penger til en investering.",
+      "published": "2026-04-29T07:55:53Z"
+    },
+    {
+      "id": "dce51c5ffb7e25d32a6a7d50be0b6ca821fa461d",
+      "title": "Meta får EU-kritikk: Risikerer store bøter",
+      "link": "https://www.kode24.no/artikkel/meta-far-eu-kritikk-risikerer-store-boter/262234",
+      "source": "Kode24",
+      "summary": "EU mener at Meta unnlater å forhindre at barn under 13 år bruker Instagram og Facebook, og dermed muligens eksponerer dem for upassende innhold.",
+      "published": "2026-04-29T07:50:51Z"
+    },
+    {
+      "id": "098629adb1876130fbb3d239b1cd3bf3622b82a4",
+      "title": "Vil straffe teknologiselskaper som tillater voldelige kulter",
+      "link": "https://www.kode24.no/artikkel/vil-straffe-teknologiselskaper-som-tillater-voldelige-kulter/262213",
+      "source": "Kode24",
+      "summary": "Familien tror jenta gamer, men hun er blitt med i den sadistiske nettsekten 764. Nå foreslår SV å straffe teknologiselskaper som lar voldelige kulter å operere på plattformene deres.",
+      "published": "2026-04-29T07:01:28Z"
+    },
+    {
+      "id": "9d91ddc35a9bff4ee14a3f5a3017a8c0326247f5",
+      "title": "Musk vitnet i OpenAI-saken",
+      "link": "https://www.kode24.no/artikkel/musk-vitnet-i-openai-saken/262197",
+      "source": "Kode24",
+      "summary": "Elon Musk inntok tirsdag vitneboksen i søksmålet mot OpenAI, som står bak ChatGPT. Han mener han ble forrådt da selskapet gikk i en mer kommersiell retning.",
+      "published": "2026-04-29T06:41:32Z"
+    },
+    {
+      "id": "d5470965781fe7bbc6e5116aac22338c38810473",
+      "title": "– Hvorfor er sikkerhet så vanskelig å få til i produktutvikling?",
+      "link": "https://www.kode24.no/artikkel/hvorfor-er-sikkerhet-sa-vanskelig-a-fa-til-i-produktutvikling/261510",
+      "source": "Kode24",
+      "summary": "– Det handler sjelden om én dårlig beslutning eller én person som ikke bryr seg. Det handler oftere om at mange fornuftige hensyn kolliderer, skriver Synne Stokkevåg Berg.",
+      "published": "2026-04-29T04:00:00Z"
+    },
+    {
+      "id": "a4318660ab44578c136b77b1dbc7b43995176b3d",
+      "title": "GitHub for Beginners: Getting started with Markdown",
+      "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-markdown/",
+      "source": "GitHub Blog",
+      "summary": "Discover how to format and edit your comments and posts using Markdown. The post GitHub for Beginners: Getting started with Markdown appeared first on The GitHub Blog.",
+      "published": "2026-04-28T18:00:00Z"
+    },
+    {
+      "id": "36a108a844f7d2598dda89a253dcd08dcc045b76",
+      "title": "Securing the git push pipeline: Responding to a critical remote code execution vulnerability",
+      "link": "https://github.blog/security/securing-the-git-push-pipeline-responding-to-a-critical-remote-code-execution-vulnerability/",
+      "source": "GitHub Blog",
+      "summary": "How we validated, fixed, and investigated a critical vulnerability in under two hours, and confirmed no exploitation. The post Securing the git push pipeline: Responding to a critical remote code execution vulnerability appeared first on The GitHub Blog.",
+      "published": "2026-04-28T15:30:00Z"
+    },
+    {
+      "id": "5275b037bc294d56ebaeee18889293c954aa500f",
+      "title": "– Ikke lag komponenter for komponentenes skyld",
+      "link": "https://www.kode24.no/artikkel/ikke-lag-komponenter-for-komponentenes-skyld/262001",
+      "source": "Kode24",
+      "summary": "– Når vi bygger designsystem, bør vi stille et enkelt spørsmål før vi lager en ny komponent: Kan dette løses enklere med det webstandarden allerede gir oss, skriver Designsystemet-teamet.",
+      "published": "2026-04-28T11:00:00Z"
+    },
+    {
+      "id": "b553962bb3ac049db1283c32e86a1dbf9599d183",
+      "title": "An update on GitHub availability",
+      "link": "https://github.blog/news-insights/company-news/an-update-on-github-availability/",
+      "source": "GitHub Blog",
+      "summary": "Here’s what we’ve done—and what we’re still doing—to improve our availability and reliability. The post An update on GitHub availability appeared first on The GitHub Blog.",
+      "published": "2026-04-28T10:01:37Z",
+      "image": "https://github.blog/wp-content/uploads/2026/04/record-accelleration-1920x1080-2.png?resize=1920%2C1080"
+    },
     {
       "id": "8991578fdfbad91e7770aca6644ede423f6da416",
       "title": "Remarkable nedbemanner igjen",
       "link": "https://www.kode24.no/artikkel/remarkable-nedbemanner-igjen/262141",
       "source": "Kode24",
-      "summary": "Opp mot 200 ansatte og toppsjefen må gå i ny kuttrunde.",
+      "summary": "Opp mot 200 ansatte og toppsjefen må gå i ny kuttrunde. Selskapet vil ikke opplyse hvor mange utviklere som må gå.",
       "published": "2026-04-28T07:54:56Z"
     },
     {
@@ -122,54 +195,6 @@
       "published": "2026-04-23T08:10:30Z"
     },
     {
-      "id": "9508d9101d4306ea38b7cf49571b29271ddeda2c",
-      "title": "Datainnbrudd hos Rituals",
-      "link": "https://www.kode24.no/artikkel/datainnbrudd-hos-rituals/261785",
-      "source": "Kode24",
-      "summary": "Både norske og europeiske kunder skal ha fått lekket navn, telefonnummer og adresse.",
-      "published": "2026-04-23T07:05:15Z"
-    },
-    {
-      "id": "1eb2ecac6f6020ce46da7076ce5675a7f522b191",
-      "title": "Tekniske problemer hos SSB",
-      "link": "https://www.kode24.no/artikkel/tekniske-problemer-hos-ssb/261802",
-      "source": "Kode24",
-      "summary": "SSB opplevde tekniske problemer knyttet til statistikkbanken torsdag morgen. Problemene er nå løst.",
-      "published": "2026-04-23T06:48:44Z"
-    },
-    {
-      "id": "30c9fb085dbf3f7d03c91d39921b80dae8c46c94",
-      "title": "Derfor får ikke utviklere bygge de beste løsningene",
-      "link": "https://www.kode24.no/artikkel/derfor-far-ikke-utviklere-bygge-de-beste-losningene/261750",
-      "source": "Kode24",
-      "summary": "Mange store selskaper ender opp med «greie nok» systemer – selv om de har dyktige utviklere. Ny forskning peker på en klassisk årsak mange vil kjenne igjen, ifølge innleggsforfatterne.",
-      "published": "2026-04-23T04:00:00Z"
-    },
-    {
-      "id": "00bb5d4261b6c83ca09fb40049623f42f465f0d6",
-      "title": "Erfaring med data fra land, vann og luftrommet",
-      "link": "https://www.kode24.no/artikkel/erfaring-med-data-fra-land-vann-og-luftrommet/261770",
-      "source": "Kode24",
-      "summary": "Twoday styrker laget – én av dem er Morten Stakkeland, som har jobbet data på land, til sjøs og i lufta.",
-      "published": "2026-04-22T12:39:27Z"
-    },
-    {
-      "id": "a07f393bb194a857361f0c5de27245adfaa7e0da",
-      "title": "Ukrainer til norske utviklere: – Hack Russland!",
-      "link": "https://www.kode24.no/artikkel/ukrainer-til-norske-utviklere-hack-russland/261610",
-      "source": "Kode24",
-      "summary": "Cyberkrigen mellom Ukraina og Russland har eskalert de siste årene. kode24s lesere blir oppfordret til å bidra i kampen.",
-      "published": "2026-04-22T12:30:00Z"
-    },
-    {
-      "id": "b6ddf267ebdeaa421ccb50fe8c8df14ab427c402",
-      "title": "Run, Robot, Run!",
-      "link": "https://www.kode24.no/artikkel/run-robot-run/261676",
-      "source": "Kode24",
-      "summary": "Roboten «Lightning» deltok i et halvmaraton og slo den menneskelige rekorden med syv minutter, som viser en ny milepæl i utviklingen av roboter.",
-      "published": "2026-04-22T07:47:33Z"
-    },
-    {
       "id": "de9a8f67ffc7aa66533b705d6089e0b254e9abfc",
       "title": "Changes to GitHub Copilot Individual plans",
       "link": "https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/",
@@ -220,30 +245,6 @@
       "source": "GitHub Blog",
       "summary": "Learn about the productivity tool one GitHub engineer built, and how AI supported the development process. The post Build a personal organization command center with GitHub Copilot CLI appeared first on The GitHub Blog.",
       "published": "2026-04-15T17:00:00Z"
-    },
-    {
-      "id": "112dec94e77939b52b9560ea4fe16b458bd0e8a8",
-      "title": "Developer policy update: Intermediary liability, copyright, and transparency",
-      "link": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-intermediary-liability-copyright-and-transparency/",
-      "source": "GitHub Blog",
-      "summary": "We’re sharing recent policy updates that developers should know about, updating our Transparency Center with the full year of 2025 data, and looking to what’s ahead. The post Developer policy update: Intermediary liability, copyright, and transparency appeared first on The GitHub Blog.",
-      "published": "2026-04-15T15:00:00Z"
-    },
-    {
-      "id": "74982bd25f5617e749d1198904e74c98399219c5",
-      "title": "Hack the AI agent: Build agentic AI security skills with the GitHub Secure Code Game",
-      "link": "https://github.blog/security/hack-the-ai-agent-build-agentic-ai-security-skills-with-the-github-secure-code-game/",
-      "source": "GitHub Blog",
-      "summary": "Learn to find and exploit real-world agentic AI vulnerabilities through five progressive challenges in this free, open source game that over 10,000 developers have already used to sharpen their security skills. The post Hack the AI agent: Build agentic AI security skills with the GitHub Secure Code...",
-      "published": "2026-04-14T18:17:59Z"
-    },
-    {
-      "id": "d2c6d0ad5451973328ab3b6e735c2d27eee51294",
-      "title": "How exposed is your code? Find out in minutes—for free",
-      "link": "https://github.blog/security/application-security/how-exposed-is-your-code-find-out-in-minutes-for-free/",
-      "source": "GitHub Blog",
-      "summary": "The new Code Security Risk Assessment gives you a one-click view of vulnerabilities across your organization, at no cost. The post How exposed is your code? Find out in minutes—for free appeared first on The GitHub Blog.",
-      "published": "2026-04-14T15:00:00Z"
     },
     {
       "id": "a5addf8606df3e8a369a2fc506ad4a05f7e158ef",
