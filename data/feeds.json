@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-04-29T08:24:25.558455Z",
+  "generated_at": "2026-04-30T08:27:07.005426Z",
   "items": [
+    {
+      "id": "831df1b8b67146067337bfbf13a4c838d3acc514",
+      "title": "Forsvaret om ukrainsk «bønn»: – Hacking er ulovlig",
+      "link": "https://www.kode24.no/artikkel/forsvaret-om-ukrainsk-bonn-hacking-er-ulovlig/262280",
+      "source": "Kode24",
+      "summary": "Ukraina vil gjerne ha norsk hjelp til å skape uro i Russland. Det norske cyberforsvaret setter foten ned. – Bidra ved å samarbeide om utvikling.",
+      "published": "2026-04-30T06:00:00Z"
+    },
+    {
+      "id": "17859709d0eae32462ee136a253270356040102d",
+      "title": "Frykter KI skal ta gleden med utvikling fra ham",
+      "link": "https://www.kode24.no/artikkel/frykter-ki-skal-ta-gleden-med-utvikling-fra-ham/262110",
+      "source": "Kode24",
+      "summary": "– Hvis vi outsourcer den kjedelige biten for å fokusere utelukkende på effektivitet, tror jeg vi mister noe fundamentalt, skriver Tanet Trimas.",
+      "published": "2026-04-30T04:00:00Z"
+    },
+    {
+      "id": "21c7ecfdddf853a6a35c7d5662e0dc35e738d2fc",
+      "title": "Krever at studiestedene lærer studentene KI",
+      "link": "https://www.kode24.no/artikkel/krever-at-studiestedene-laerer-studentene-ki/262170",
+      "source": "Kode24",
+      "summary": "Nito-studentene tar til orde for at universiteter og høyskoler trener studenter opp i hvordan KI fungerer. – 90 prosent av studentene bruker det.",
+      "published": "2026-04-29T11:00:00Z"
+    },
     {
       "id": "ee7601dbc396f29cc5ff13b669723d5d68af9deb",
       "title": "Appfarm avlyser internship i sommer",
       "link": "https://www.kode24.no/artikkel/appfarm-avlyser-internship-i-sommer/262227",
       "source": "Kode24",
-      "summary": "Fire studenter mistet jobben de skulle hatt i sommer. – Tung beslutning, sier app-selskapet, som trenger penger til en investering.",
+      "summary": "Fire studenter mistet jobben de skulle hatt i sommer. – Tung beslutning, sier app-selskapet, som trenger penger til investeringer. Studentleder reagerer.",
       "published": "2026-04-29T07:55:53Z"
     },
     {
@@ -169,30 +193,6 @@
       "source": "Kode24",
       "summary": "Driv utviklarar med vibbekoding, KI-assistert utvikling eller kanskje bionisk systemering? kode24 undersøker kva verbet skal heite.",
       "published": "2026-04-24T06:00:00Z"
-    },
-    {
-      "id": "1075beadeb6b28100b248e654954ddcb4e1c13f4",
-      "title": "Vil innføre aldersgrense",
-      "link": "https://www.kode24.no/artikkel/vil-innfore-aldersgrense/261931",
-      "source": "Kode24",
-      "summary": "Regjeringen vil forby sosiale medier fram til året man fyller 16.",
-      "published": "2026-04-24T05:41:03Z"
-    },
-    {
-      "id": "b27d1114babf744ea68825f7aed72c1e9f2f45cc",
-      "title": "– Du kan bryte seks regelverk uten å vite det",
-      "link": "https://www.kode24.no/artikkel/du-kan-bryte-seks-regelverk-uten-a-vite-det/261851",
-      "source": "Kode24",
-      "summary": "– KI gjør det enkelt å lage innhold med andres stemme, ansikt eller stil. Men er det lov? Ikke alltid, skriver Merete Nygaard.",
-      "published": "2026-04-24T04:00:00Z"
-    },
-    {
-      "id": "8864a5e3b5853bfcbc0173501948d160a18f1b5e",
-      "title": "Mange vil studere kvanteteknologi",
-      "link": "https://www.kode24.no/artikkel/mange-vil-studere-kvanteteknologi/261826",
-      "source": "Kode24",
-      "summary": "For tredje år på rad er Bergen den mest populære studiebyen i Norge utenfor Oslo. Mange har søkt på det nye studiet kvanteteknologi ved UiB. Også NTNU og UiO ser dette studiet er populært.",
-      "published": "2026-04-23T08:10:30Z"
     },
     {
       "id": "de9a8f67ffc7aa66533b705d6089e0b254e9abfc",
