@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-04-30T08:27:07.005426Z",
+  "generated_at": "2026-05-01T08:18:18.727294Z",
   "items": [
+    {
+      "id": "0471ed35e3bc3a8d7c746ae0b0a010c88af17fac",
+      "title": "– IKT vil være et av de viktigste fagområdene",
+      "link": "https://www.kode24.no/artikkel/ikt-vil-vaere-et-av-de-viktigste-fagomradene/262320",
+      "source": "Kode24",
+      "summary": "– Vi ser et økende antall varslede nedbemanninger, skriver Tekna-presidenten på 1. mai. Hun har likevel troen på IT-bransjen.",
+      "published": "2026-05-01T06:00:00Z"
+    },
+    {
+      "id": "a2ce877f4bf30b5484f9253cf2a6be5c2a2d8cef",
+      "title": "GitHub Copilot CLI for Beginners: Interactive v. non-interactive mode",
+      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-interactive-v-non-interactive-mode/",
+      "source": "GitHub Blog",
+      "summary": "Learn the difference between CLI interactive v. non-interactive modes. The post GitHub Copilot CLI for Beginners: Interactive v. non-interactive mode appeared first on The GitHub Blog.",
+      "published": "2026-04-30T16:09:02Z"
+    },
+    {
+      "id": "bd1bf99281d774ddb3e198f24799850ddd414292",
+      "title": "Strid om tilgang til Mythos skaper uro",
+      "link": "https://www.kode24.no/artikkel/strid-om-tilgang-til-mythos-skaper-uro/262422",
+      "source": "Kode24",
+      "summary": "Trump-administrasjonen går mot Anthropics plan om å utvide tilgangen til den nye, kraftige KI-modellen, skriver Wall Street Journal.",
+      "published": "2026-04-30T11:49:28Z"
+    },
+    {
+      "id": "b51ef4f2c1813953389aa504d222c940a4c778dc",
+      "title": "Schibsted tar betalt for personvern. – Sa opp abonnementet",
+      "link": "https://www.kode24.no/artikkel/schibsted-tar-betalt-for-personvern-sa-opp-abonnementet/262393",
+      "source": "Kode24",
+      "summary": "Fra mai må du betale for å slippe personrettede annonser hos Schibsted. Det vekker harme og reaksjoner. Også Datatilsynet reagerer.",
+      "published": "2026-04-30T10:10:11Z"
+    },
+    {
+      "id": "6b1b56777fce1efafc942dfa1fb91efa86a4f902",
+      "title": "Vil studere kvanteteknologi: – Venter høyt snitt",
+      "link": "https://www.kode24.no/artikkel/vil-studere-kvanteteknologi-venter-hoyt-snitt/262282",
+      "source": "Kode24",
+      "summary": "Regjeringens 100 nye studieplasser innen kvantevitenskap er et viktig steg, sier NHO. Studenter venter høyt snitt ved de nye studiene.",
+      "published": "2026-04-30T09:00:00Z"
+    },
+    {
+      "id": "24a43020bca480fcd3711a65738dd66c1e3a716b",
+      "title": "OpenAI kan være i ferd med å lage mobiltelefon",
+      "link": "https://www.kode24.no/artikkel/openai-kan-vaere-i-ferd-med-a-lage-mobiltelefon/262372",
+      "source": "Kode24",
+      "summary": "Teknologiselskapet vil redefinere smarttelefonen og bruke KI i stedet for apper, ifølge en sikkerhetsanalytiker som følger tek-trender.",
+      "published": "2026-04-30T08:02:49Z"
+    },
     {
       "id": "831df1b8b67146067337bfbf13a4c838d3acc514",
       "title": "Forsvaret om ukrainsk «bønn»: – Hacking er ulovlig",
@@ -155,46 +203,6 @@
       "published": "2026-04-27T04:00:00Z"
     },
     {
-      "id": "fb7b641ee98bc91c65b189bb468256f0db3c22b6",
-      "title": "Slik får du Disneys strekk-effekt",
-      "link": "https://www.kode24.no/artikkel/slik-far-du-disneys-strekk-effekt/261719",
-      "source": "Kode24",
-      "summary": "Skvist web, funksjonelle mapper og ny måte å definere serverkomponenter — i denne ukas ForrigeUke.",
-      "published": "2026-04-24T12:30:00Z"
-    },
-    {
-      "id": "94db80db135767da9539b1a963745532da7756b3",
-      "title": "Nytt IKT-studie populært blant kvinner",
-      "link": "https://www.kode24.no/artikkel/nytt-ikt-studie-populaert-blant-kvinner/261977",
-      "source": "Kode24",
-      "summary": "Det nye studiet «Ansvarlig digitalisering» ved Universitetet i Agder (UiA) har fått mange førstegangssøkere – og tiltrekker seg mange flere kvinner enn menn.",
-      "published": "2026-04-24T09:09:22Z"
-    },
-    {
-      "id": "5517f82a6e2139a196d5f81e185d863c648bf108",
-      "title": "Datatilsynet bekymret for aldersgrense for sosiale medier",
-      "link": "https://www.kode24.no/artikkel/datatilsynet-bekymret-for-aldersgrense-for-sosiale-medier/261969",
-      "source": "Kode24",
-      "summary": "Regjeringen vil ha aldersgrense på 16 år. Men store mengder personopplysninger og tredjepartsløsninger bekymrer Datatilsynet.",
-      "published": "2026-04-24T07:49:32Z"
-    },
-    {
-      "id": "40bbf07ccd8cfb80935553216a58e23032357d8f",
-      "title": "Vant pris for brukeropplevelse – risikerer å bli lagt ned",
-      "link": "https://www.kode24.no/artikkel/vant-pris-for-brukeropplevelse-risikerer-a-bli-lagt-ned/261946",
-      "source": "Kode24",
-      "summary": "Lille norske leksikon vant akkurat Brukeropplevelsesprisen på Yggdrasil-konferansen. Nå risikerer de å bli lagt ned på grunn av pengemangel.",
-      "published": "2026-04-24T07:01:02Z"
-    },
-    {
-      "id": "71728032ebe4e59ed5f761ded619d4a15ab7a21d",
-      "title": "Avviser «vibbekoding»: – Dårleg som fagterm",
-      "link": "https://www.kode24.no/artikkel/avviser-vibbekoding-darleg-som-fagterm/260839",
-      "source": "Kode24",
-      "summary": "Driv utviklarar med vibbekoding, KI-assistert utvikling eller kanskje bionisk systemering? kode24 undersøker kva verbet skal heite.",
-      "published": "2026-04-24T06:00:00Z"
-    },
-    {
       "id": "de9a8f67ffc7aa66533b705d6089e0b254e9abfc",
       "title": "Changes to GitHub Copilot Individual plans",
       "link": "https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/",
@@ -237,14 +245,6 @@
       "summary": "Learn how Github uses eBPF to detect and prevent circular dependencies in its deployment tooling. The post How GitHub uses eBPF to improve deployment safety appeared first on The GitHub Blog.",
       "published": "2026-04-16T16:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2026/04/Screenshot-2026-04-06-at-6.36.24-PM.png?resize=1433%2C194"
-    },
-    {
-      "id": "a33f7e9579f50d0ee92ca3ba48f3b0b48026e765",
-      "title": "Build a personal organization command center with GitHub Copilot CLI",
-      "link": "https://github.blog/ai-and-ml/github-copilot/build-a-personal-organization-command-center-with-github-copilot-cli/",
-      "source": "GitHub Blog",
-      "summary": "Learn about the productivity tool one GitHub engineer built, and how AI supported the development process. The post Build a personal organization command center with GitHub Copilot CLI appeared first on The GitHub Blog.",
-      "published": "2026-04-15T17:00:00Z"
     },
     {
       "id": "a5addf8606df3e8a369a2fc506ad4a05f7e158ef",
