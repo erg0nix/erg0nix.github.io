@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-05-04T08:34:30.030205Z",
+  "generated_at": "2026-05-05T08:16:34.540579Z",
   "items": [
+    {
+      "id": "57333e0f11e8947e577532ec0896758789a5824b",
+      "title": "Bruker Claude Code: Færre detaljer, mer arkitektur",
+      "link": "https://www.kode24.no/artikkel/bruker-claude-code-faerre-detaljer-mer-arkitektur/262253",
+      "source": "Kode24",
+      "summary": "Verktøyet Ukas koder bruker mest, er Claude Code. – Det erstatter ikke det å faktisk forstå hva som skjer under panseret, sier Andreas Flått.",
+      "published": "2026-05-05T04:00:00Z"
+    },
+    {
+      "id": "45a489221d5a9f278631b4f868a46f6f2e8d90a9",
+      "title": "Register now for OpenClaw: After Hours @ GitHub",
+      "link": "https://github.blog/open-source/register-now-for-openclaw-after-hours-github/",
+      "source": "GitHub Blog",
+      "summary": "OpenClaw builders will gather at GitHub HQ during Microsoft Build 2026 for demos and conversations. Join in person, or watch the livestream on Twitch. The post Register now for OpenClaw: After Hours @ GitHub appeared first on The GitHub Blog.",
+      "published": "2026-05-04T15:00:00Z"
+    },
+    {
+      "id": "6dcff0a7a14c960660cf657d30ac9d20446a3843",
+      "title": "Kina forbyr å la KI ta menneskers jobb",
+      "link": "https://www.kode24.no/artikkel/kina-forbyr-a-la-ki-ta-menneskers-jobb/262532",
+      "source": "Kode24",
+      "summary": "En kinesisk domstol har bestemt at det er ulovlig å erstatte menneskelige arbeidere med kunstig intelligens, skriver The Register.",
+      "published": "2026-05-04T14:30:14Z"
+    },
     {
       "id": "d11a500fa9427b740ed5d0648655f9ba6d8bda9c",
       "title": "Spotify skal verifisere artister",
@@ -27,8 +51,8 @@
     },
     {
       "id": "9c03d0396d6bb2793e99ac1e74f787156914d61a",
-      "title": "Tar «smiskende KI» og «KI-svip» inn i ordliste",
-      "link": "https://www.kode24.no/artikkel/tar-smiskende-ki-og-ki-svip-inn-i-ordliste/262272",
+      "title": "Tar «smiskende KI» og «KI-skvip» inn i ordliste",
+      "link": "https://www.kode24.no/artikkel/tar-smiskende-ki-og-ki-skvip-inn-i-ordliste/262272",
       "source": "Kode24",
       "summary": "Teknologirådet oppdaterer listen sin over kunstig intelligens-begreper. Og snuser på «AIholic» og «suverenitetsvasking».",
       "published": "2026-05-04T06:00:00Z"
@@ -170,14 +194,6 @@
       "published": "2026-04-28T15:30:00Z"
     },
     {
-      "id": "5275b037bc294d56ebaeee18889293c954aa500f",
-      "title": "– Ikke lag komponenter for komponentenes skyld",
-      "link": "https://www.kode24.no/artikkel/ikke-lag-komponenter-for-komponentenes-skyld/262001",
-      "source": "Kode24",
-      "summary": "– Når vi bygger designsystem, bør vi stille et enkelt spørsmål før vi lager en ny komponent: Kan dette løses enklere med det webstandarden allerede gir oss, skriver Designsystemet-teamet.",
-      "published": "2026-04-28T11:00:00Z"
-    },
-    {
       "id": "b553962bb3ac049db1283c32e86a1dbf9599d183",
       "title": "An update on GitHub availability",
       "link": "https://github.blog/news-insights/company-news/an-update-on-github-availability/",
@@ -185,14 +201,6 @@
       "summary": "Here’s what we’ve done—and what we’re still doing—to improve our availability and reliability. The post An update on GitHub availability appeared first on The GitHub Blog.",
       "published": "2026-04-28T10:01:37Z",
       "image": "https://github.blog/wp-content/uploads/2026/04/record-accelleration-1920x1080-2.png?resize=1920%2C1080"
-    },
-    {
-      "id": "8991578fdfbad91e7770aca6644ede423f6da416",
-      "title": "Remarkable nedbemanner igjen",
-      "link": "https://www.kode24.no/artikkel/remarkable-nedbemanner-igjen/262141",
-      "source": "Kode24",
-      "summary": "Opp mot 200 ansatte og toppsjefen må gå i ny kuttrunde. Selskapet vil ikke opplyse hvor mange utviklere som må gå.",
-      "published": "2026-04-28T07:54:56Z"
     },
     {
       "id": "56eb77a0a63e00ec3b139f0b9ae819dc3def5570",
@@ -236,15 +244,6 @@
       "summary": "Changes to the status page will provide more specific data, so you'll have better insight into the overall health of the platform. The post Bringing more transparency to GitHub’s status page appeared first on The GitHub Blog.",
       "published": "2026-04-17T16:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2026/04/image-6.png?resize=2084%2C1756"
-    },
-    {
-      "id": "9feaf2bc61478f9077ebcaa44895c0b94f990581",
-      "title": "How GitHub uses eBPF to improve deployment safety",
-      "link": "https://github.blog/engineering/infrastructure/how-github-uses-ebpf-to-improve-deployment-safety/",
-      "source": "GitHub Blog",
-      "summary": "Learn how Github uses eBPF to detect and prevent circular dependencies in its deployment tooling. The post How GitHub uses eBPF to improve deployment safety appeared first on The GitHub Blog.",
-      "published": "2026-04-16T16:00:00Z",
-      "image": "https://github.blog/wp-content/uploads/2026/04/Screenshot-2026-04-06-at-6.36.24-PM.png?resize=1433%2C194"
     },
     {
       "id": "a5addf8606df3e8a369a2fc506ad4a05f7e158ef",
