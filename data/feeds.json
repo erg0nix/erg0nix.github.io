@@ -1,6 +1,95 @@
 {
-  "generated_at": "2026-05-05T08:16:34.540579Z",
+  "generated_at": "2026-05-07T08:39:29.450292Z",
   "items": [
+    {
+      "id": "b68646adf4f6c1a2e9105e58a145ca88b3f648b8",
+      "title": "Ny sjef for KI Norge",
+      "link": "https://www.kode24.no/artikkel/ny-sjef-for-ki-norge/262668",
+      "source": "Kode24",
+      "summary": "Den tidligere Nav-direktøren Hans Christian Holte blir ny sjef for KI Norge.",
+      "published": "2026-05-07T07:04:46Z"
+    },
+    {
+      "id": "70e6303262a4195e36b77cc49ebb4d734e225a2d",
+      "title": "Slik skal staten holde på unge IT-utdannede",
+      "link": "https://www.kode24.no/artikkel/slik-skal-staten-holde-pa-unge-it-utdannede/262278",
+      "source": "Kode24",
+      "summary": "Politiets IT-enhet har opprettet et program som tok dem fra 30 signeringer i 2021 til 600 søkere i fjor. – Vi trengte sterkere rammer.",
+      "published": "2026-05-07T04:00:00Z"
+    },
+    {
+      "id": "faa4d1def87585f69df04cda3aa9f63acc17428c",
+      "title": "Validating agentic behavior when “correct” isn’t deterministic",
+      "link": "https://github.blog/ai-and-ml/generative-ai/validating-agentic-behavior-when-correct-isnt-deterministic/",
+      "source": "GitHub Blog",
+      "summary": "How to build the “Trust Layer” for Github Copilot Coding Agents without brittle scripts or black-box judgements by using dominatory analysis. The post Validating agentic behavior when “correct” isn’t deterministic appeared first on The GitHub Blog.",
+      "published": "2026-05-06T21:16:31Z",
+      "image": "https://github.blog/wp-content/uploads/2026/05/Screenshot-2026-05-05-at-6.10.57-PM.png?resize=1024%2C582"
+    },
+    {
+      "id": "b29b9d94263368b5febb449daac8e69fd6d1581d",
+      "title": "Tyske nettsider i trøbbel",
+      "link": "https://www.kode24.no/artikkel/tyske-nettsider-i-trobbel/262655",
+      "source": "Kode24",
+      "summary": "Det siste døgnet har tyske nettsider opplevd mye trøbbel. De var nede i flere timer sent tirsdag kveld. Problemet sammen med såkalte DNSSEC-signaturer.",
+      "published": "2026-05-06T13:22:36Z"
+    },
+    {
+      "id": "bea79b1e216b65f11755cc5f06f5e75c98671cb4",
+      "title": "– 1567 ting skjedde i frontend-verdenen",
+      "link": "https://www.kode24.no/artikkel/1567-ting-skjedde-i-frontend-verdenen/262603",
+      "source": "Kode24",
+      "summary": "Dette var uken for ulike preferanser 🐯🦁, løping 🏃, mangoer 🥭 – og 1567 ting skjedde i frontend-verdenen.",
+      "published": "2026-05-06T08:27:52Z"
+    },
+    {
+      "id": "c700fb94902cc18172ad69dff37f6098371b5bf9",
+      "title": "Amerikanske forlag til KI-søksmål mot Meta",
+      "link": "https://www.kode24.no/artikkel/amerikanske-forlag-til-ki-soksmal-mot-meta/262589",
+      "source": "Kode24",
+      "summary": "En gruppe amerikanske forlag saksøker Meta og anklager dem for å ha stjålet millioner av deres bøker og artikler til å trene opp Metas språkmodell Llama.",
+      "published": "2026-05-06T07:23:46Z"
+    },
+    {
+      "id": "a2f41f1a8aae4fe37f836b5cea41d49161ae958a",
+      "title": "– Råd til sjefen: Ikke stritt imot hjemmekontoret",
+      "link": "https://www.kode24.no/artikkel/rad-til-sjefen-ikke-stritt-imot-hjemmekontoret/262340",
+      "source": "Kode24",
+      "summary": "– Mer bruk av hjemmekontor kan skape et dilemma mellom fleksibilitet og kontroll, skriver Anniken Grønstad. Hun anbefaler at ansatte lyttes til.",
+      "published": "2026-05-06T04:00:00Z"
+    },
+    {
+      "id": "30a6c60710e78b92e07dd6e58fad3f0faf15576c",
+      "title": "Welcome to Maintainer Month: Celebrating the people behind the code",
+      "link": "https://github.blog/open-source/maintainers/welcome-to-maintainer-month-celebrating-the-people-behind-the-code/",
+      "source": "GitHub Blog",
+      "summary": "What maintainers are telling us, what we've shipped, and how to celebrate the people behind open source. The post Welcome to Maintainer Month: Celebrating the people behind the code appeared first on The GitHub Blog.",
+      "published": "2026-05-05T14:30:00Z"
+    },
+    {
+      "id": "e6227775cfda1a95c86b4c5080a5f0a98d70a64e",
+      "title": "Populær læringsplattform hacket – fremstår alvorlig",
+      "link": "https://www.kode24.no/artikkel/populaer-laeringsplattform-hacket-fremstar-alvorlig/262575",
+      "source": "Kode24",
+      "summary": "Læringsplattformen Canvas, som brukes av over 7000 læresteder over hele verden, er hacket for andre gang på åtte måneder.",
+      "published": "2026-05-05T12:28:16Z"
+    },
+    {
+      "id": "328d69f05a229f99190000bcec46c95bb91d97b8",
+      "title": "– Mindre mas å jobbe in-house",
+      "link": "https://www.kode24.no/artikkel/mindre-mas-a-jobbe-in-house/262042",
+      "source": "Kode24",
+      "summary": "Fra konsulentbransjen til in-house: – Det er mindre mas om fakturering av timer, sier Julie Fengås, som er produktdesigner i politiets IT-enhet.",
+      "published": "2026-05-05T09:30:00Z"
+    },
+    {
+      "id": "812c6e24ab4b42361bb2fd34124b197373b17251",
+      "title": "– Vi må bli mer disiplinerte",
+      "link": "https://www.kode24.no/artikkel/vi-ma-bli-mer-disiplinerte/262250",
+      "source": "Kode24",
+      "summary": "– KI gjør oss raskere. Derfor må vi bli mer disiplinerte. KI i utvikling – det er ikke lenger et spørsmål om vi skal bruke det. Det gjør vi allerede, og bruken kommer bare til å øke.",
+      "published": "2026-05-05T08:11:19Z"
+    },
     {
       "id": "57333e0f11e8947e577532ec0896758789a5824b",
       "title": "Bruker Claude Code: Færre detaljer, mer arkitektur",
@@ -106,78 +195,6 @@
       "published": "2026-04-30T09:00:00Z"
     },
     {
-      "id": "24a43020bca480fcd3711a65738dd66c1e3a716b",
-      "title": "OpenAI kan være i ferd med å lage mobiltelefon",
-      "link": "https://www.kode24.no/artikkel/openai-kan-vaere-i-ferd-med-a-lage-mobiltelefon/262372",
-      "source": "Kode24",
-      "summary": "Teknologiselskapet vil redefinere smarttelefonen og bruke KI i stedet for apper, ifølge en sikkerhetsanalytiker som følger tek-trender.",
-      "published": "2026-04-30T08:02:49Z"
-    },
-    {
-      "id": "831df1b8b67146067337bfbf13a4c838d3acc514",
-      "title": "Forsvaret om ukrainsk «bønn»: – Hacking er ulovlig",
-      "link": "https://www.kode24.no/artikkel/forsvaret-om-ukrainsk-bonn-hacking-er-ulovlig/262280",
-      "source": "Kode24",
-      "summary": "Ukraina vil gjerne ha norsk hjelp til å skape uro i Russland. Det norske cyberforsvaret setter foten ned. – Bidra ved å samarbeide om utvikling.",
-      "published": "2026-04-30T06:00:00Z"
-    },
-    {
-      "id": "17859709d0eae32462ee136a253270356040102d",
-      "title": "Frykter KI skal ta gleden med utvikling fra ham",
-      "link": "https://www.kode24.no/artikkel/frykter-ki-skal-ta-gleden-med-utvikling-fra-ham/262110",
-      "source": "Kode24",
-      "summary": "– Hvis vi outsourcer den kjedelige biten for å fokusere utelukkende på effektivitet, tror jeg vi mister noe fundamentalt, skriver Tanet Trimas.",
-      "published": "2026-04-30T04:00:00Z"
-    },
-    {
-      "id": "21c7ecfdddf853a6a35c7d5662e0dc35e738d2fc",
-      "title": "Krever at studiestedene lærer studentene KI",
-      "link": "https://www.kode24.no/artikkel/krever-at-studiestedene-laerer-studentene-ki/262170",
-      "source": "Kode24",
-      "summary": "Nito-studentene tar til orde for at universiteter og høyskoler trener studenter opp i hvordan KI fungerer. – 90 prosent av studentene bruker det.",
-      "published": "2026-04-29T11:00:00Z"
-    },
-    {
-      "id": "ee7601dbc396f29cc5ff13b669723d5d68af9deb",
-      "title": "Appfarm avlyser internship i sommer",
-      "link": "https://www.kode24.no/artikkel/appfarm-avlyser-internship-i-sommer/262227",
-      "source": "Kode24",
-      "summary": "Fire studenter mistet jobben de skulle hatt i sommer. – Tung beslutning, sier app-selskapet, som trenger penger til investeringer. Studentleder reagerer.",
-      "published": "2026-04-29T07:55:53Z"
-    },
-    {
-      "id": "dce51c5ffb7e25d32a6a7d50be0b6ca821fa461d",
-      "title": "Meta får EU-kritikk: Risikerer store bøter",
-      "link": "https://www.kode24.no/artikkel/meta-far-eu-kritikk-risikerer-store-boter/262234",
-      "source": "Kode24",
-      "summary": "EU mener at Meta unnlater å forhindre at barn under 13 år bruker Instagram og Facebook, og dermed muligens eksponerer dem for upassende innhold.",
-      "published": "2026-04-29T07:50:51Z"
-    },
-    {
-      "id": "098629adb1876130fbb3d239b1cd3bf3622b82a4",
-      "title": "Vil straffe teknologiselskaper som tillater voldelige kulter",
-      "link": "https://www.kode24.no/artikkel/vil-straffe-teknologiselskaper-som-tillater-voldelige-kulter/262213",
-      "source": "Kode24",
-      "summary": "Familien tror jenta gamer, men hun er blitt med i den sadistiske nettsekten 764. Nå foreslår SV å straffe teknologiselskaper som lar voldelige kulter å operere på plattformene deres.",
-      "published": "2026-04-29T07:01:28Z"
-    },
-    {
-      "id": "9d91ddc35a9bff4ee14a3f5a3017a8c0326247f5",
-      "title": "Musk vitnet i OpenAI-saken",
-      "link": "https://www.kode24.no/artikkel/musk-vitnet-i-openai-saken/262197",
-      "source": "Kode24",
-      "summary": "Elon Musk inntok tirsdag vitneboksen i søksmålet mot OpenAI, som står bak ChatGPT. Han mener han ble forrådt da selskapet gikk i en mer kommersiell retning.",
-      "published": "2026-04-29T06:41:32Z"
-    },
-    {
-      "id": "d5470965781fe7bbc6e5116aac22338c38810473",
-      "title": "– Hvorfor er sikkerhet så vanskelig å få til i produktutvikling?",
-      "link": "https://www.kode24.no/artikkel/hvorfor-er-sikkerhet-sa-vanskelig-a-fa-til-i-produktutvikling/261510",
-      "source": "Kode24",
-      "summary": "– Det handler sjelden om én dårlig beslutning eller én person som ikke bryr seg. Det handler oftere om at mange fornuftige hensyn kolliderer, skriver Synne Stokkevåg Berg.",
-      "published": "2026-04-29T04:00:00Z"
-    },
-    {
       "id": "a4318660ab44578c136b77b1dbc7b43995176b3d",
       "title": "GitHub for Beginners: Getting started with Markdown",
       "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-markdown/",
@@ -226,24 +243,6 @@
       "source": "GitHub Blog",
       "summary": "The open source Git project just released Git 2.54. Here is GitHub’s look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.54 appeared first on The GitHub Blog.",
       "published": "2026-04-20T16:43:57Z"
-    },
-    {
-      "id": "bd72f0e69988fcb34ac023f86d693fd4a65af1a9",
-      "title": "Building an emoji list generator with the GitHub Copilot CLI",
-      "link": "https://github.blog/ai-and-ml/github-copilot/building-an-emoji-list-generator-with-the-github-copilot-cli/",
-      "source": "GitHub Blog",
-      "summary": "See how we created an emoji list generator during the Rubber Duck Thursday stream. The post Building an emoji list generator with the GitHub Copilot CLI appeared first on The GitHub Blog.",
-      "published": "2026-04-17T18:00:00Z",
-      "image": "https://github.blog/wp-content/uploads/2026/04/list.png?resize=1869%2C1944"
-    },
-    {
-      "id": "19ba0a3472f1d0d7d0b7c1d4381054d209b60a43",
-      "title": "Bringing more transparency to GitHub’s status page",
-      "link": "https://github.blog/news-insights/company-news/bringing-more-transparency-to-githubs-status-page/",
-      "source": "GitHub Blog",
-      "summary": "Changes to the status page will provide more specific data, so you'll have better insight into the overall health of the platform. The post Bringing more transparency to GitHub’s status page appeared first on The GitHub Blog.",
-      "published": "2026-04-17T16:00:00Z",
-      "image": "https://github.blog/wp-content/uploads/2026/04/image-6.png?resize=2084%2C1756"
     },
     {
       "id": "a5addf8606df3e8a369a2fc506ad4a05f7e158ef",
