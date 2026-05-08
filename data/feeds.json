@@ -1,6 +1,63 @@
 {
-  "generated_at": "2026-05-07T08:39:29.450292Z",
+  "generated_at": "2026-05-08T07:46:35.845147Z",
   "items": [
+    {
+      "id": "7a9639f55cf755cbd92819c6a8e115fb88a36fab",
+      "title": "Når personvern koster penger",
+      "link": "https://www.kode24.no/artikkel/nar-personvern-koster-penger/262670",
+      "source": "Kode24",
+      "summary": "– Skal jeg virkelig betale 39 kroner ekstra per måned for å slippe personrettet reklame på Aftenposten, spør ansvarlig redaktør Hilde Schjerve i denne kommentaren.",
+      "published": "2026-05-08T04:00:00Z"
+    },
+    {
+      "id": "6c8ded0caa31e4b77dba9d6841f99cca2d0e1864",
+      "title": "Improving token efficiency in GitHub Agentic Workflows",
+      "link": "https://github.blog/ai-and-ml/github-copilot/improving-token-efficiency-in-github-agentic-workflows/",
+      "source": "GitHub Blog",
+      "summary": "Agentic workflows that run on every pull request can quietly accumulate large API bills. Here's how we instrumented our own production workflows, found the inefficiencies, and built agents to fix them. The post Improving token efficiency in GitHub Agentic Workflows appeared first on The GitHub Blog.",
+      "published": "2026-05-07T23:00:00Z",
+      "image": "https://github.blog/wp-content/uploads/2026/05/graph.png?resize=1024%2C504"
+    },
+    {
+      "id": "4c120c6511e2b6ffadf3e028d18eca75480852b5",
+      "title": "Agent pull requests are everywhere. Here’s how to review them.",
+      "link": "https://github.blog/ai-and-ml/generative-ai/agent-pull-requests-are-everywhere-heres-how-to-review-them/",
+      "source": "GitHub Blog",
+      "summary": "A practical guide to reviewing agent-generated pull requests: what to look for, where issues hide, and how to catch technical debt before it ships. The post Agent pull requests are everywhere. Here’s how to review them. appeared first on The GitHub Blog.",
+      "published": "2026-05-07T19:00:00Z"
+    },
+    {
+      "id": "81064f5041426fd44ba4b4234e9c1f0a21b38368",
+      "title": "Vine gjør comeback – kun med ekte innhold",
+      "link": "https://www.kode24.no/artikkel/vine-gjor-comeback-kun-med-ekte-innhold/262742",
+      "source": "Kode24",
+      "summary": "Appen fra 2013 relanseres. Den går fra å hete Vine til Devine og skal bekjempe KI-innhold på kortformat-apper.",
+      "published": "2026-05-07T13:55:33Z"
+    },
+    {
+      "id": "aea6be4a326bb9e874e7f6ab6579088ee6fd4872",
+      "title": "Stortinget sabler ned digital suverenitet-forslag",
+      "link": "https://www.kode24.no/artikkel/stortinget-sabler-ned-digital-suverenitet-forslag/262315",
+      "source": "Kode24",
+      "summary": "SV vil ha statlig sky og bli kvitt Microsoft i løpet av året. – Ikke forsvarlig, mener Ap og Høyre, som peker på privat sektor i stedet.",
+      "published": "2026-05-07T13:32:33Z"
+    },
+    {
+      "id": "12f4dcef313d3d266c6d19e883de3ffc43356319",
+      "title": "Ny sjef for KI Norge: – Et godt valg",
+      "link": "https://www.kode24.no/artikkel/ny-sjef-for-ki-norge-et-godt-valg/262712",
+      "source": "Kode24",
+      "summary": "Tidligere Nav-direktør Hans Christian Holte blir ny sjef for KI Norge. Toppsjef i Sopra Steria Kjell Rusti har full tillit.",
+      "published": "2026-05-07T10:52:36Z"
+    },
+    {
+      "id": "b00137526e54f6fadc8b9101ace4fca3a89d0491",
+      "title": "– Norsk tek-bransje er ikke så internasjonal som den liker å tro",
+      "link": "https://www.kode24.no/artikkel/norsk-tek-bransje-er-ikke-sa-internasjonal-som-den-liker-a-tro/262502",
+      "source": "Kode24",
+      "summary": "Kvinner med internasjonal bakgrunn begrenses systematisk av norske tek-selskaper, mener Neda Maria Kaizumi. – De møter to barrierer, ikke én, skriver hun.",
+      "published": "2026-05-07T09:00:00Z"
+    },
     {
       "id": "b68646adf4f6c1a2e9105e58a145ca88b3f648b8",
       "title": "Ny sjef for KI Norge",
@@ -147,52 +204,12 @@
       "published": "2026-05-04T06:00:00Z"
     },
     {
-      "id": "d7b17a79038d02dde04390868665704c055e6fb4",
-      "title": "– Brukerne dine stoler ikke på KI-en din. Det er ditt problem",
-      "link": "https://www.kode24.no/artikkel/brukerne-dine-stoler-ikke-pa-ki-en-din-det-er-ditt-problem/262143",
-      "source": "Kode24",
-      "summary": "– Som produktdesigner ser jeg dette hver dag: teknologien funker, men tilliten uteblir, skriver Anna Steinsund.",
-      "published": "2026-05-04T04:00:00Z"
-    },
-    {
-      "id": "0471ed35e3bc3a8d7c746ae0b0a010c88af17fac",
-      "title": "– IKT vil være et av de viktigste fagområdene",
-      "link": "https://www.kode24.no/artikkel/ikt-vil-vaere-et-av-de-viktigste-fagomradene/262320",
-      "source": "Kode24",
-      "summary": "– Vi ser et økende antall varslede nedbemanninger, skriver Tekna-presidenten på 1. mai. Hun har likevel troen på IT-bransjen.",
-      "published": "2026-05-01T06:00:00Z"
-    },
-    {
       "id": "a2ce877f4bf30b5484f9253cf2a6be5c2a2d8cef",
       "title": "GitHub Copilot CLI for Beginners: Interactive v. non-interactive mode",
       "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-interactive-v-non-interactive-mode/",
       "source": "GitHub Blog",
       "summary": "Learn the difference between CLI interactive v. non-interactive modes. The post GitHub Copilot CLI for Beginners: Interactive v. non-interactive mode appeared first on The GitHub Blog.",
       "published": "2026-04-30T16:09:02Z"
-    },
-    {
-      "id": "bd1bf99281d774ddb3e198f24799850ddd414292",
-      "title": "Strid om tilgang til Mythos skaper uro",
-      "link": "https://www.kode24.no/artikkel/strid-om-tilgang-til-mythos-skaper-uro/262422",
-      "source": "Kode24",
-      "summary": "Trump-administrasjonen går mot Anthropics plan om å utvide tilgangen til den nye, kraftige KI-modellen, skriver Wall Street Journal.",
-      "published": "2026-04-30T11:49:28Z"
-    },
-    {
-      "id": "b51ef4f2c1813953389aa504d222c940a4c778dc",
-      "title": "Schibsted tar betalt for personvern. – Sa opp abonnementet",
-      "link": "https://www.kode24.no/artikkel/schibsted-tar-betalt-for-personvern-sa-opp-abonnementet/262393",
-      "source": "Kode24",
-      "summary": "Fra mai må du betale for å slippe personrettede annonser hos Schibsted. Det vekker harme og reaksjoner. Også Datatilsynet reagerer.",
-      "published": "2026-04-30T10:10:11Z"
-    },
-    {
-      "id": "6b1b56777fce1efafc942dfa1fb91efa86a4f902",
-      "title": "Vil studere kvanteteknologi: – Venter høyt snitt",
-      "link": "https://www.kode24.no/artikkel/vil-studere-kvanteteknologi-venter-hoyt-snitt/262282",
-      "source": "Kode24",
-      "summary": "Regjeringens 100 nye studieplasser innen kvantevitenskap er et viktig steg, sier NHO. Studenter venter høyt snitt ved de nye studiene.",
-      "published": "2026-04-30T09:00:00Z"
     },
     {
       "id": "a4318660ab44578c136b77b1dbc7b43995176b3d",
@@ -226,23 +243,6 @@
       "source": "GitHub Blog",
       "summary": "Starting June 1, your Copilot usage will consume GitHub AI Credits. The post GitHub Copilot is moving to usage-based billing appeared first on The GitHub Blog.",
       "published": "2026-04-27T15:58:22Z"
-    },
-    {
-      "id": "de9a8f67ffc7aa66533b705d6089e0b254e9abfc",
-      "title": "Changes to GitHub Copilot Individual plans",
-      "link": "https://github.blog/news-insights/company-news/changes-to-github-copilot-individual-plans/",
-      "source": "GitHub Blog",
-      "summary": "We're making these changes to ensure a reliable and predictable experience for existing customers. The post Changes to GitHub Copilot Individual plans appeared first on The GitHub Blog.",
-      "published": "2026-04-20T18:15:28Z",
-      "image": "https://github.blog/wp-content/uploads/2026/04/Screenshot-2026-04-20-at-2.05.12-PM.png?resize=1024%2C898"
-    },
-    {
-      "id": "d9bcf36bf52946f49e7d9e82ec413e0a31328a79",
-      "title": "Highlights from Git 2.54",
-      "link": "https://github.blog/open-source/git/highlights-from-git-2-54/",
-      "source": "GitHub Blog",
-      "summary": "The open source Git project just released Git 2.54. Here is GitHub’s look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.54 appeared first on The GitHub Blog.",
-      "published": "2026-04-20T16:43:57Z"
     },
     {
       "id": "a5addf8606df3e8a369a2fc506ad4a05f7e158ef",
