@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-05-08T07:46:35.845147Z",
+  "generated_at": "2026-05-09T08:00:53.667654Z",
   "items": [
+    {
+      "id": "01d2500a36720720a4c2bf0c5968576fe6cd9b63",
+      "title": "Why age assurance laws matter for developers",
+      "link": "https://github.blog/news-insights/policy-news-and-insights/why-age-assurance-laws-matter-for-developers/",
+      "source": "GitHub Blog",
+      "summary": "Youth safety requirements are moving down the tech stack to operating systems and app stores—raising new questions for open source developers. The post Why age assurance laws matter for developers appeared first on The GitHub Blog.",
+      "published": "2026-05-08T16:30:00Z"
+    },
+    {
+      "id": "30dab6583593cb8daf6b1a3ac949ec2f9b1ee5fc",
+      "title": "How researchers are using GitHub Innovation Graph data to reveal the “digital complexity” of nations",
+      "link": "https://github.blog/news-insights/policy-news-and-insights/how-researchers-are-using-github-innovation-graph-data-to-reveal-the-digital-complexity-of-nations/",
+      "source": "GitHub Blog",
+      "summary": "Researchers share in an interview how they used GitHub data to predict GDP, inequality, and emissions in ways that traditional economic data misses, along with our Q4 2025 data release. The post How researchers are using GitHub Innovation Graph data to reveal the “digital complexity” of nations...",
+      "published": "2026-05-08T15:00:00Z"
+    },
+    {
+      "id": "2cf9428387835d3b9b1e4e5aaefe817addc960b3",
+      "title": "Nasjonal dugnad for å «hjelpe» nordmenn vekk fra «Big Tech»",
+      "link": "https://www.kode24.no/artikkel/nasjonal-dugnad-for-a-hjelpe-nordmenn-vekk-fra-big-tech/262762",
+      "source": "Kode24",
+      "summary": "Hudd og Vivaldi vil gjøre nordmenn «fri» fra Google og Facebook på frigjøringsdagen.",
+      "published": "2026-05-08T13:57:04Z"
+    },
+    {
+      "id": "7d08153e405d58c9383eae42aa22367c6993778f",
+      "title": "Stø får mer tid til å rette BankID-avvik",
+      "link": "https://www.kode24.no/artikkel/sto-far-mer-tid-til-a-rette-bankid-avvik/262795",
+      "source": "Kode24",
+      "summary": "Digitaliseringsminister Karianne Tung slår fast at BankID ikke kan «miste sin klassifisering over natten». Stø AS mener de ikke trenger å rekke noen frist.",
+      "published": "2026-05-08T11:43:39Z"
+    },
+    {
+      "id": "df76fdeb074f762e707252ff8cedcf54a4b07b68",
+      "title": "Får milliardgebyr for å sende personopplysninger til Russland",
+      "link": "https://www.kode24.no/artikkel/far-milliardgebyr-for-a-sende-personopplysninger-til-russland/262836",
+      "source": "Kode24",
+      "summary": "Den russiskeide taxiappen Yango får et gebyr på 100 millioner euro av det nederlandske datatilsynet.",
+      "published": "2026-05-08T11:03:22Z"
+    },
+    {
+      "id": "b1234e31db2053269a26450cf22a8d5010090798",
+      "title": "– Slik hindrer jeg at mitt eget agentsystem blir et ekkokammer",
+      "link": "https://www.kode24.no/artikkel/slik-hindrer-jeg-at-mitt-eget-agentsystem-blir-et-ekkokammer/262499",
+      "source": "Kode24",
+      "summary": "Etter seks uker var agenten Bjørn E. Vaage bygget blitt til et ekkokammer. Disse grepene tok han for å rydde opp.",
+      "published": "2026-05-08T09:00:00Z"
+    },
+    {
+      "id": "972f1286c1dc1b5a41e7d93cb8cd1bfaaf1d8454",
+      "title": "Cloudflare sier opp 1100",
+      "link": "https://www.kode24.no/artikkel/cloudflare-sier-opp-1100/262778",
+      "source": "Kode24",
+      "summary": "En av fem ansatte må gå når KI-selskapet skal rigge seg for KI-framtida. Sjefene vil ha «de rette folkene».",
+      "published": "2026-05-08T07:51:55Z"
+    },
     {
       "id": "7a9639f55cf755cbd92819c6a8e115fb88a36fab",
       "title": "Når personvern koster penger",
@@ -31,7 +87,7 @@
       "title": "Vine gjør comeback – kun med ekte innhold",
       "link": "https://www.kode24.no/artikkel/vine-gjor-comeback-kun-med-ekte-innhold/262742",
       "source": "Kode24",
-      "summary": "Appen fra 2013 relanseres. Den går fra å hete Vine til Devine og skal bekjempe KI-innhold på kortformat-apper.",
+      "summary": "Appen fra 2013 relanseres. Den går fra å hete Vine til Divine og skal bekjempe KI-innhold på kortformat-apper.",
       "published": "2026-05-07T13:55:33Z"
     },
     {
@@ -164,46 +220,6 @@
       "published": "2026-05-04T15:00:00Z"
     },
     {
-      "id": "6dcff0a7a14c960660cf657d30ac9d20446a3843",
-      "title": "Kina forbyr å la KI ta menneskers jobb",
-      "link": "https://www.kode24.no/artikkel/kina-forbyr-a-la-ki-ta-menneskers-jobb/262532",
-      "source": "Kode24",
-      "summary": "En kinesisk domstol har bestemt at det er ulovlig å erstatte menneskelige arbeidere med kunstig intelligens, skriver The Register.",
-      "published": "2026-05-04T14:30:14Z"
-    },
-    {
-      "id": "d11a500fa9427b740ed5d0648655f9ba6d8bda9c",
-      "title": "Spotify skal verifisere artister",
-      "link": "https://www.kode24.no/artikkel/spotify-skal-verifisere-artister/262292",
-      "source": "Kode24",
-      "summary": "Spotify innfører verifisering av artister. De vil sette en stopper for KI-musikk.",
-      "published": "2026-05-04T07:16:30Z"
-    },
-    {
-      "id": "59e27b826fa9381c45177cbddaefa6d8b96fdc94",
-      "title": "Gamestop vil kjøpe Ebay",
-      "link": "https://www.kode24.no/artikkel/gamestop-vil-kjope-ebay/262468",
-      "source": "Kode24",
-      "summary": "Spillbutikkjeden har lagt inn et bud på 55,5 milliarder dollar for å kjøpe netthandelsgiganten. Målet er å utfordre Amazon.",
-      "published": "2026-05-04T06:52:50Z"
-    },
-    {
-      "id": "d5976c00a75d26865bac44c983f36d99f2a7401b",
-      "title": "Oscar-akademiet vil slå hardt ned på KI",
-      "link": "https://www.kode24.no/artikkel/oscar-akademiet-vil-sla-hardt-ned-pa-ki/262456",
-      "source": "Kode24",
-      "summary": "Oscar-regelverket strammes inn: Filmer som bruker KI i skuespiller- eller manussammenheng vil ikke bli vurdert.",
-      "published": "2026-05-04T06:23:46Z"
-    },
-    {
-      "id": "9c03d0396d6bb2793e99ac1e74f787156914d61a",
-      "title": "Tar «smiskende KI» og «KI-skvip» inn i ordliste",
-      "link": "https://www.kode24.no/artikkel/tar-smiskende-ki-og-ki-skvip-inn-i-ordliste/262272",
-      "source": "Kode24",
-      "summary": "Teknologirådet oppdaterer listen sin over kunstig intelligens-begreper. Og snuser på «AIholic» og «suverenitetsvasking».",
-      "published": "2026-05-04T06:00:00Z"
-    },
-    {
       "id": "a2ce877f4bf30b5484f9253cf2a6be5c2a2d8cef",
       "title": "GitHub Copilot CLI for Beginners: Interactive v. non-interactive mode",
       "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-interactive-v-non-interactive-mode/",
@@ -226,23 +242,6 @@
       "source": "GitHub Blog",
       "summary": "How we validated, fixed, and investigated a critical vulnerability in under two hours, and confirmed no exploitation. The post Securing the git push pipeline: Responding to a critical remote code execution vulnerability appeared first on The GitHub Blog.",
       "published": "2026-04-28T15:30:00Z"
-    },
-    {
-      "id": "b553962bb3ac049db1283c32e86a1dbf9599d183",
-      "title": "An update on GitHub availability",
-      "link": "https://github.blog/news-insights/company-news/an-update-on-github-availability/",
-      "source": "GitHub Blog",
-      "summary": "Here’s what we’ve done—and what we’re still doing—to improve our availability and reliability. The post An update on GitHub availability appeared first on The GitHub Blog.",
-      "published": "2026-04-28T10:01:37Z",
-      "image": "https://github.blog/wp-content/uploads/2026/04/record-accelleration-1920x1080-2.png?resize=1920%2C1080"
-    },
-    {
-      "id": "56eb77a0a63e00ec3b139f0b9ae819dc3def5570",
-      "title": "GitHub Copilot is moving to usage-based billing",
-      "link": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
-      "source": "GitHub Blog",
-      "summary": "Starting June 1, your Copilot usage will consume GitHub AI Credits. The post GitHub Copilot is moving to usage-based billing appeared first on The GitHub Blog.",
-      "published": "2026-04-27T15:58:22Z"
     },
     {
       "id": "a5addf8606df3e8a369a2fc506ad4a05f7e158ef",
