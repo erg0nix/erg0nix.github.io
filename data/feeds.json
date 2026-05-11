@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-10T08:12:01.348700Z",
+  "generated_at": "2026-05-11T09:47:46.884784Z",
   "items": [
+    {
+      "id": "5b44f05702216e826c091065e667b0c50c21a304",
+      "title": "Tung om IT-Sunnmøre: – Utrolig mindset",
+      "link": "https://www.kode24.no/artikkel/tung-om-it-sunnmore-utrolig-mindset/262890",
+      "source": "Kode24",
+      "summary": "Sunnmøre er tradisjonelt kjent for shipping, fisk og møbelforretningene sine. Nå er noe i ferd med å skje – det er blitt et sted for utvikling av ny teknologi.",
+      "published": "2026-05-11T07:57:46Z"
+    },
+    {
+      "id": "36e8bc442ba3b48e6a19a6a1e785d8351ca68f8b",
+      "title": "Mener KI ikke er en trussel",
+      "link": "https://www.kode24.no/artikkel/mener-ki-ikke-er-en-trussel/262818",
+      "source": "Kode24",
+      "summary": "Erik Edin er ikke bekymret for KI og bruker mange verktøy på jobb. – Vi bruker GitHub Copilot for det meste siden det er der vi har lisens.",
+      "published": "2026-05-11T04:00:00Z"
+    },
     {
       "id": "01d2500a36720720a4c2bf0c5968576fe6cd9b63",
       "title": "Why age assurance laws matter for developers",
@@ -194,22 +210,6 @@
       "source": "Kode24",
       "summary": "Fra konsulentbransjen til in-house: – Det er mindre mas om fakturering av timer, sier Julie Fengås, som er produktdesigner i politiets IT-enhet.",
       "published": "2026-05-05T09:30:00Z"
-    },
-    {
-      "id": "812c6e24ab4b42361bb2fd34124b197373b17251",
-      "title": "– Vi må bli mer disiplinerte",
-      "link": "https://www.kode24.no/artikkel/vi-ma-bli-mer-disiplinerte/262250",
-      "source": "Kode24",
-      "summary": "– KI gjør oss raskere. Derfor må vi bli mer disiplinerte. KI i utvikling – det er ikke lenger et spørsmål om vi skal bruke det. Det gjør vi allerede, og bruken kommer bare til å øke.",
-      "published": "2026-05-05T08:11:19Z"
-    },
-    {
-      "id": "57333e0f11e8947e577532ec0896758789a5824b",
-      "title": "Bruker Claude Code: Færre detaljer, mer arkitektur",
-      "link": "https://www.kode24.no/artikkel/bruker-claude-code-faerre-detaljer-mer-arkitektur/262253",
-      "source": "Kode24",
-      "summary": "Verktøyet Ukas koder bruker mest, er Claude Code. – Det erstatter ikke det å faktisk forstå hva som skjer under panseret, sier Andreas Flått.",
-      "published": "2026-05-05T04:00:00Z"
     },
     {
       "id": "45a489221d5a9f278631b4f868a46f6f2e8d90a9",
