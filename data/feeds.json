@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-05-11T09:47:46.884784Z",
+  "generated_at": "2026-05-12T08:45:20.476417Z",
   "items": [
+    {
+      "id": "66dbddbd75b13f7d9c374271f9de2762cd602253",
+      "title": "Boikotter KI ut året: – Gjorde meg mindre glad",
+      "link": "https://www.kode24.no/artikkel/boikotter-ki-ut-aret-gjorde-meg-mindre-glad/262919",
+      "source": "Kode24",
+      "summary": "Teknologen har gått fra å være positivt innstilt til KI, til å ville klare seg helt uten. – Gøy å være rebell ved å være vanlig.",
+      "published": "2026-05-12T04:00:00Z"
+    },
+    {
+      "id": "91e1570cb842f10436b00f93bb8c7257413a7394",
+      "title": "GitHub for Beginners: Getting started with OSS contributions",
+      "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-oss-contributions/",
+      "source": "GitHub Blog",
+      "summary": "Learn how to find opportunities to contribute to the open source community. The post GitHub for Beginners: Getting started with OSS contributions appeared first on The GitHub Blog.",
+      "published": "2026-05-11T16:00:00Z"
+    },
+    {
+      "id": "f9b2fe967410d01a63a8897a03c830bccd8a51ba",
+      "title": "Acos går til oppsigelser for å «modernisere arbeidsmetoder»",
+      "link": "https://www.kode24.no/artikkel/acos-gar-til-oppsigelser-for-a-modernisere-arbeidsmetoder/262924",
+      "source": "Kode24",
+      "summary": "Selskapet vil ikke opplyse hvor mange ansatte de kvitter seg med for å gå «AI native».",
+      "published": "2026-05-11T09:48:21Z"
+    },
     {
       "id": "5b44f05702216e826c091065e667b0c50c21a304",
       "title": "Tung om IT-Sunnmøre: – Utrolig mindset",
@@ -196,22 +220,6 @@
       "published": "2026-05-05T14:30:00Z"
     },
     {
-      "id": "e6227775cfda1a95c86b4c5080a5f0a98d70a64e",
-      "title": "Populær læringsplattform hacket – fremstår alvorlig",
-      "link": "https://www.kode24.no/artikkel/populaer-laeringsplattform-hacket-fremstar-alvorlig/262575",
-      "source": "Kode24",
-      "summary": "Læringsplattformen Canvas, som brukes av over 7000 læresteder over hele verden, er hacket for andre gang på åtte måneder.",
-      "published": "2026-05-05T12:28:16Z"
-    },
-    {
-      "id": "328d69f05a229f99190000bcec46c95bb91d97b8",
-      "title": "– Mindre mas å jobbe in-house",
-      "link": "https://www.kode24.no/artikkel/mindre-mas-a-jobbe-in-house/262042",
-      "source": "Kode24",
-      "summary": "Fra konsulentbransjen til in-house: – Det er mindre mas om fakturering av timer, sier Julie Fengås, som er produktdesigner i politiets IT-enhet.",
-      "published": "2026-05-05T09:30:00Z"
-    },
-    {
       "id": "45a489221d5a9f278631b4f868a46f6f2e8d90a9",
       "title": "Register now for OpenClaw: After Hours @ GitHub",
       "link": "https://github.blog/open-source/register-now-for-openclaw-after-hours-github/",
@@ -234,14 +242,6 @@
       "source": "GitHub Blog",
       "summary": "Discover how to format and edit your comments and posts using Markdown. The post GitHub for Beginners: Getting started with Markdown appeared first on The GitHub Blog.",
       "published": "2026-04-28T18:00:00Z"
-    },
-    {
-      "id": "36a108a844f7d2598dda89a253dcd08dcc045b76",
-      "title": "Securing the git push pipeline: Responding to a critical remote code execution vulnerability",
-      "link": "https://github.blog/security/securing-the-git-push-pipeline-responding-to-a-critical-remote-code-execution-vulnerability/",
-      "source": "GitHub Blog",
-      "summary": "How we validated, fixed, and investigated a critical vulnerability in under two hours, and confirmed no exploitation. The post Securing the git push pipeline: Responding to a critical remote code execution vulnerability appeared first on The GitHub Blog.",
-      "published": "2026-04-28T15:30:00Z"
     },
     {
       "id": "a5addf8606df3e8a369a2fc506ad4a05f7e158ef",
