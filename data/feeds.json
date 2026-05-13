@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-05-12T08:45:20.476417Z",
+  "generated_at": "2026-05-13T08:49:03.464908Z",
   "items": [
+    {
+      "id": "6417bc450f2b3a6561a55f4a82d7c599d4f025bf",
+      "title": "– Norske virksomheter står nå overfor et reelt veivalg",
+      "link": "https://www.kode24.no/artikkel/norske-virksomheter-star-na-overfor-et-reelt-veivalg-1/262856",
+      "source": "Kode24",
+      "summary": "– Man kan fortsette å bygge videre på løsninger som gradvis mister relevans, eller ta et steg tilbake og bygge en arkitektur som er tilpasset den virkeligheten vi er på vei inn i, skriver Eivind L. Kvisterøy i Nutanix.",
+      "published": "2026-05-13T08:00:00Z"
+    },
+    {
+      "id": "5f3ab4f729c1325cbf301beee75e4b6b55c9a595",
+      "title": "Teknologitopper på vei til Kina",
+      "link": "https://www.kode24.no/artikkel/teknologitopper-pa-vei-til-kina/263098",
+      "source": "Kode24",
+      "summary": "Elon Musk og Donald trump er på vei til Kina. Trump vil be Xi «åpne Kina».",
+      "published": "2026-05-13T06:47:34Z"
+    },
+    {
+      "id": "24d7f2f5b3c7cf1eacbb32d110b7977677115ada",
+      "title": "Delte reaksjoner på KI-boikott: – Svaret er ikke å slutte",
+      "link": "https://www.kode24.no/artikkel/delte-reaksjoner-pa-ki-boikott-svaret-er-ikke-a-slutte/263038",
+      "source": "Kode24",
+      "summary": "En kjent norsk teknolog dropper KI ut 2026. Noen heier, mens andre mener han vil sakke akterut. – Undervurderer hvor fort dette går.",
+      "published": "2026-05-13T04:00:00Z"
+    },
+    {
+      "id": "af4a4bbb10706a72a2312abfc02b739060116fad",
+      "title": "GitHub Copilot individual plans: Introducing flex allotments in Pro and Pro+, and a new Max plan",
+      "link": "https://github.blog/news-insights/company-news/github-copilot-individual-plans-introducing-flex-allotments-in-pro-and-pro-and-a-new-max-plan/",
+      "source": "GitHub Blog",
+      "summary": "Starting June 1, our lineup of individual plans will update based on your feedback. The post GitHub Copilot individual plans: Introducing flex allotments in Pro and Pro+, and a new Max plan appeared first on The GitHub Blog.",
+      "published": "2026-05-12T17:35:41Z"
+    },
+    {
+      "id": "213186c8239e169a96610836734835244447c141",
+      "title": "Dungeons & Desktops: Building a procedurally generated roguelike with GitHub Copilot CLI",
+      "link": "https://github.blog/ai-and-ml/github-copilot/dungeons-desktops-building-a-procedurally-generated-roguelike-with-github-copilot-cli/",
+      "source": "GitHub Blog",
+      "summary": "Learn how one Hubber used GitHub Copilot CLI to build an extension that turns any codebase into a unique, roguelike dungeon. The post Dungeons & Desktops: Building a procedurally generated roguelike with GitHub Copilot CLI appeared first on The GitHub Blog.",
+      "published": "2026-05-12T15:00:00Z",
+      "image": "https://github.blog/wp-content/uploads/2026/05/Screenshot-2026-05-01-at-3.53.00-PM.png?resize=1024%2C432"
+    },
+    {
+      "id": "16820280d74618819b188ea47ec330cc50196bb9",
+      "title": "Går viralt: 8 millioner visninger",
+      "link": "https://www.kode24.no/artikkel/gar-viralt-8-millioner-visninger/262881",
+      "source": "Kode24",
+      "summary": "Retro-spillbutikk tar av på Instagram med millioner av visninger på ett enkelt innlegg. – I en verden som beveger seg ekstremt fort, er retrospill som en varm klem, sier butikkeier Hannah Norfleet.",
+      "published": "2026-05-12T12:41:28Z"
+    },
+    {
+      "id": "462c841bc6f38af5fd7bbb79b0bb034c67b807bf",
+      "title": "IT-systemer påvirket etter angrep mot kommune",
+      "link": "https://www.kode24.no/artikkel/it-systemer-pavirket-etter-angrep-mot-kommune/263049",
+      "source": "Kode24",
+      "summary": "Lørenskog kommune ble i helgen utsatt for et dataangrep som påvirker flere av kommunens IT-systemer. Angriperen skal ha lagt igjen et brev til kommunen.",
+      "published": "2026-05-12T10:10:19Z"
+    },
+    {
+      "id": "e0796cb2b3fde5df029ae9fdc8f06a24872a488d",
+      "title": "Techfolk stilte til start – og de fleste kom i mål",
+      "link": "https://www.kode24.no/artikkel/techfolk-stilte-til-start-og-de-fleste-kom-i-mal/262940",
+      "source": "Kode24",
+      "summary": "Rekordmange deltok på Holmenkollstafetten i 2026. Teknologi- og IT-bransjen var godt representert i kategorien bedrifts- og mosjonistlag.",
+      "published": "2026-05-12T07:55:08Z"
+    },
     {
       "id": "66dbddbd75b13f7d9c374271f9de2762cd602253",
       "title": "Boikotter KI ut året: – Gjorde meg mindre glad",
@@ -155,22 +220,6 @@
       "published": "2026-05-07T09:00:00Z"
     },
     {
-      "id": "b68646adf4f6c1a2e9105e58a145ca88b3f648b8",
-      "title": "Ny sjef for KI Norge",
-      "link": "https://www.kode24.no/artikkel/ny-sjef-for-ki-norge/262668",
-      "source": "Kode24",
-      "summary": "Den tidligere Nav-direktøren Hans Christian Holte blir ny sjef for KI Norge.",
-      "published": "2026-05-07T07:04:46Z"
-    },
-    {
-      "id": "70e6303262a4195e36b77cc49ebb4d734e225a2d",
-      "title": "Slik skal staten holde på unge IT-utdannede",
-      "link": "https://www.kode24.no/artikkel/slik-skal-staten-holde-pa-unge-it-utdannede/262278",
-      "source": "Kode24",
-      "summary": "Politiets IT-enhet har opprettet et program som tok dem fra 30 signeringer i 2021 til 600 søkere i fjor. – Vi trengte sterkere rammer.",
-      "published": "2026-05-07T04:00:00Z"
-    },
-    {
       "id": "faa4d1def87585f69df04cda3aa9f63acc17428c",
       "title": "Validating agentic behavior when “correct” isn’t deterministic",
       "link": "https://github.blog/ai-and-ml/generative-ai/validating-agentic-behavior-when-correct-isnt-deterministic/",
@@ -178,38 +227,6 @@
       "summary": "How to build the “Trust Layer” for Github Copilot Coding Agents without brittle scripts or black-box judgements by using dominatory analysis. The post Validating agentic behavior when “correct” isn’t deterministic appeared first on The GitHub Blog.",
       "published": "2026-05-06T21:16:31Z",
       "image": "https://github.blog/wp-content/uploads/2026/05/Screenshot-2026-05-05-at-6.10.57-PM.png?resize=1024%2C582"
-    },
-    {
-      "id": "b29b9d94263368b5febb449daac8e69fd6d1581d",
-      "title": "Tyske nettsider i trøbbel",
-      "link": "https://www.kode24.no/artikkel/tyske-nettsider-i-trobbel/262655",
-      "source": "Kode24",
-      "summary": "Det siste døgnet har tyske nettsider opplevd mye trøbbel. De var nede i flere timer sent tirsdag kveld. Problemet sammen med såkalte DNSSEC-signaturer.",
-      "published": "2026-05-06T13:22:36Z"
-    },
-    {
-      "id": "bea79b1e216b65f11755cc5f06f5e75c98671cb4",
-      "title": "– 1567 ting skjedde i frontend-verdenen",
-      "link": "https://www.kode24.no/artikkel/1567-ting-skjedde-i-frontend-verdenen/262603",
-      "source": "Kode24",
-      "summary": "Dette var uken for ulike preferanser 🐯🦁, løping 🏃, mangoer 🥭 – og 1567 ting skjedde i frontend-verdenen.",
-      "published": "2026-05-06T08:27:52Z"
-    },
-    {
-      "id": "c700fb94902cc18172ad69dff37f6098371b5bf9",
-      "title": "Amerikanske forlag til KI-søksmål mot Meta",
-      "link": "https://www.kode24.no/artikkel/amerikanske-forlag-til-ki-soksmal-mot-meta/262589",
-      "source": "Kode24",
-      "summary": "En gruppe amerikanske forlag saksøker Meta og anklager dem for å ha stjålet millioner av deres bøker og artikler til å trene opp Metas språkmodell Llama.",
-      "published": "2026-05-06T07:23:46Z"
-    },
-    {
-      "id": "a2f41f1a8aae4fe37f836b5cea41d49161ae958a",
-      "title": "– Råd til sjefen: Ikke stritt imot hjemmekontoret",
-      "link": "https://www.kode24.no/artikkel/rad-til-sjefen-ikke-stritt-imot-hjemmekontoret/262340",
-      "source": "Kode24",
-      "summary": "– Mer bruk av hjemmekontor kan skape et dilemma mellom fleksibilitet og kontroll, skriver Anniken Grønstad. Hun anbefaler at ansatte lyttes til.",
-      "published": "2026-05-06T04:00:00Z"
     },
     {
       "id": "30a6c60710e78b92e07dd6e58fad3f0faf15576c",
@@ -226,22 +243,6 @@
       "source": "GitHub Blog",
       "summary": "OpenClaw builders will gather at GitHub HQ during Microsoft Build 2026 for demos and conversations. Join in person, or watch the livestream on Twitch. The post Register now for OpenClaw: After Hours @ GitHub appeared first on The GitHub Blog.",
       "published": "2026-05-04T15:00:00Z"
-    },
-    {
-      "id": "a2ce877f4bf30b5484f9253cf2a6be5c2a2d8cef",
-      "title": "GitHub Copilot CLI for Beginners: Interactive v. non-interactive mode",
-      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-interactive-v-non-interactive-mode/",
-      "source": "GitHub Blog",
-      "summary": "Learn the difference between CLI interactive v. non-interactive modes. The post GitHub Copilot CLI for Beginners: Interactive v. non-interactive mode appeared first on The GitHub Blog.",
-      "published": "2026-04-30T16:09:02Z"
-    },
-    {
-      "id": "a4318660ab44578c136b77b1dbc7b43995176b3d",
-      "title": "GitHub for Beginners: Getting started with Markdown",
-      "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-markdown/",
-      "source": "GitHub Blog",
-      "summary": "Discover how to format and edit your comments and posts using Markdown. The post GitHub for Beginners: Getting started with Markdown appeared first on The GitHub Blog.",
-      "published": "2026-04-28T18:00:00Z"
     },
     {
       "id": "a5addf8606df3e8a369a2fc506ad4a05f7e158ef",
