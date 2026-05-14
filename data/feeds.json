@@ -1,6 +1,31 @@
 {
-  "generated_at": "2026-05-13T08:49:03.464908Z",
+  "generated_at": "2026-05-14T08:41:54.832203Z",
   "items": [
+    {
+      "id": "1f8dc70f2c39a800c62dcc11683b881d29b8c6a7",
+      "title": "Slik formes sikkerhet av produktvalgene man tar",
+      "link": "https://www.kode24.no/artikkel/slik-formes-sikkerhet-av-produktvalgene-man-tar/263243",
+      "source": "Kode24",
+      "summary": "Mye av det som påvirker sikkerheten i et produkt skjer lenge før noen oppdager en konkret sårbarhet.",
+      "published": "2026-05-14T04:01:00Z"
+    },
+    {
+      "id": "8ef4bb22be97a37d2431a724e6cd9381e719286b",
+      "title": "Dungeons & Desktops: 10 roguelikes that never die (because their communities won’t let them)",
+      "link": "https://github.blog/open-source/gaming/dungeons-desktops-10-roguelikes-that-never-die-because-their-communities-wont-let-them/",
+      "source": "GitHub Blog",
+      "summary": "Roguelikes don’t die. They fork, mutate, get argued over, rewritten, abandoned, and revived again. Sometimes all at once. The post Dungeons & Desktops: 10 roguelikes that never die (because their communities won’t let them) appeared first on The GitHub Blog.",
+      "published": "2026-05-13T16:00:00Z",
+      "image": "https://github.blog/wp-content/uploads/2026/05/Screenshot-2026-05-08-at-2.44.35-PM.png?resize=1024%2C640"
+    },
+    {
+      "id": "9d217759d2e6c60587af8901f941a86ddc03b38c",
+      "title": "Kristofer hentes fra bank til fersk bedrift",
+      "link": "https://www.kode24.no/artikkel/kristofer-hentes-fra-bank-til-fersk-bedrift/263150",
+      "source": "Kode24",
+      "summary": "Frontend-ekspert og arkitekt, Kristofer Walters, går fra Sparebank 1 Utvikling til Arktaria, til tross for KI-uro. – Jeg er ikke redd for å gå tilbake til konsulentbransjen, sier han.",
+      "published": "2026-05-13T11:00:00Z"
+    },
     {
       "id": "6417bc450f2b3a6561a55f4a82d7c599d4f025bf",
       "title": "– Norske virksomheter står nå overfor et reelt veivalg",
@@ -204,22 +229,6 @@
       "published": "2026-05-07T13:32:33Z"
     },
     {
-      "id": "12f4dcef313d3d266c6d19e883de3ffc43356319",
-      "title": "Ny sjef for KI Norge: – Et godt valg",
-      "link": "https://www.kode24.no/artikkel/ny-sjef-for-ki-norge-et-godt-valg/262712",
-      "source": "Kode24",
-      "summary": "Tidligere Nav-direktør Hans Christian Holte blir ny sjef for KI Norge. Toppsjef i Sopra Steria Kjell Rusti har full tillit.",
-      "published": "2026-05-07T10:52:36Z"
-    },
-    {
-      "id": "b00137526e54f6fadc8b9101ace4fca3a89d0491",
-      "title": "– Norsk tek-bransje er ikke så internasjonal som den liker å tro",
-      "link": "https://www.kode24.no/artikkel/norsk-tek-bransje-er-ikke-sa-internasjonal-som-den-liker-a-tro/262502",
-      "source": "Kode24",
-      "summary": "Kvinner med internasjonal bakgrunn begrenses systematisk av norske tek-selskaper, mener Neda Maria Kaizumi. – De møter to barrierer, ikke én, skriver hun.",
-      "published": "2026-05-07T09:00:00Z"
-    },
-    {
       "id": "faa4d1def87585f69df04cda3aa9f63acc17428c",
       "title": "Validating agentic behavior when “correct” isn’t deterministic",
       "link": "https://github.blog/ai-and-ml/generative-ai/validating-agentic-behavior-when-correct-isnt-deterministic/",
@@ -235,14 +244,6 @@
       "source": "GitHub Blog",
       "summary": "What maintainers are telling us, what we've shipped, and how to celebrate the people behind open source. The post Welcome to Maintainer Month: Celebrating the people behind the code appeared first on The GitHub Blog.",
       "published": "2026-05-05T14:30:00Z"
-    },
-    {
-      "id": "45a489221d5a9f278631b4f868a46f6f2e8d90a9",
-      "title": "Register now for OpenClaw: After Hours @ GitHub",
-      "link": "https://github.blog/open-source/register-now-for-openclaw-after-hours-github/",
-      "source": "GitHub Blog",
-      "summary": "OpenClaw builders will gather at GitHub HQ during Microsoft Build 2026 for demos and conversations. Join in person, or watch the livestream on Twitch. The post Register now for OpenClaw: After Hours @ GitHub appeared first on The GitHub Blog.",
-      "published": "2026-05-04T15:00:00Z"
     },
     {
       "id": "a5addf8606df3e8a369a2fc506ad4a05f7e158ef",
