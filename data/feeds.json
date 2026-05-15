@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-05-14T08:41:54.832203Z",
+  "generated_at": "2026-05-15T08:53:22.925792Z",
   "items": [
+    {
+      "id": "bef226f523f250780aed87c00ac51ee275cadaf1",
+      "title": "Ikke alle er like begeistret over Googles KI-lansering",
+      "link": "https://www.kode24.no/artikkel/ikke-alle-er-like-begeistret-over-googles-ki-lansering/263273",
+      "source": "Kode24",
+      "summary": "Dette var uken for relaterbare diskusjoner, brannsikkerhet og etiske dilemmaer — og 748 ting som skjedde i frontend-verdenen.",
+      "published": "2026-05-15T07:57:33Z"
+    },
+    {
+      "id": "eaf091e436b2d0b96fac63ee92fad8a4b330b7df",
+      "title": "– Nerdene har fått løpefeber",
+      "link": "https://www.kode24.no/artikkel/nerdene-har-fatt-lopefeber/263207",
+      "source": "Kode24",
+      "summary": "IT-nerdene er for lengst blitt sosiale. Nå løper de fort også.",
+      "published": "2026-05-15T04:00:00Z"
+    },
+    {
+      "id": "b42fa6285dbb3f54e308a4a4e96cddad1a426878",
+      "title": "GitHub availability report: April 2026",
+      "link": "https://github.blog/news-insights/company-news/github-availability-report-april-2026/",
+      "source": "GitHub Blog",
+      "summary": "In April, we experienced 10 incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: April 2026 appeared first on The GitHub Blog.",
+      "published": "2026-05-14T22:02:43Z"
+    },
+    {
+      "id": "27f3bc14e1aa3e39b951a6c55f93d100db7a1b96",
+      "title": "From latency to instant: Modernizing GitHub Issues navigation performance",
+      "link": "https://github.blog/engineering/architecture-optimization/from-latency-to-instant-modernizing-github-issues-navigation-performance/",
+      "source": "GitHub Blog",
+      "summary": "How the GitHub Issues team used client-side caching, smart prefetching, and service workers to make navigation feel instant. The post From latency to instant: Modernizing GitHub Issues navigation performance appeared first on The GitHub Blog.",
+      "published": "2026-05-14T16:00:00Z",
+      "image": "https://github.blog/wp-content/uploads/2026/05/trafficDistro.png?resize=1024%2C336"
+    },
     {
       "id": "1f8dc70f2c39a800c62dcc11683b881d29b8c6a7",
       "title": "Slik formes sikkerhet av produktvalgene man tar",
@@ -211,39 +244,6 @@
       "source": "GitHub Blog",
       "summary": "A practical guide to reviewing agent-generated pull requests: what to look for, where issues hide, and how to catch technical debt before it ships. The post Agent pull requests are everywhere. Here’s how to review them. appeared first on The GitHub Blog.",
       "published": "2026-05-07T19:00:00Z"
-    },
-    {
-      "id": "81064f5041426fd44ba4b4234e9c1f0a21b38368",
-      "title": "Vine gjør comeback – kun med ekte innhold",
-      "link": "https://www.kode24.no/artikkel/vine-gjor-comeback-kun-med-ekte-innhold/262742",
-      "source": "Kode24",
-      "summary": "Appen fra 2013 relanseres. Den går fra å hete Vine til Divine og skal bekjempe KI-innhold på kortformat-apper.",
-      "published": "2026-05-07T13:55:33Z"
-    },
-    {
-      "id": "aea6be4a326bb9e874e7f6ab6579088ee6fd4872",
-      "title": "Stortinget sabler ned digital suverenitet-forslag",
-      "link": "https://www.kode24.no/artikkel/stortinget-sabler-ned-digital-suverenitet-forslag/262315",
-      "source": "Kode24",
-      "summary": "SV vil ha statlig sky og bli kvitt Microsoft i løpet av året. – Ikke forsvarlig, mener Ap og Høyre, som peker på privat sektor i stedet.",
-      "published": "2026-05-07T13:32:33Z"
-    },
-    {
-      "id": "faa4d1def87585f69df04cda3aa9f63acc17428c",
-      "title": "Validating agentic behavior when “correct” isn’t deterministic",
-      "link": "https://github.blog/ai-and-ml/generative-ai/validating-agentic-behavior-when-correct-isnt-deterministic/",
-      "source": "GitHub Blog",
-      "summary": "How to build the “Trust Layer” for Github Copilot Coding Agents without brittle scripts or black-box judgements by using dominatory analysis. The post Validating agentic behavior when “correct” isn’t deterministic appeared first on The GitHub Blog.",
-      "published": "2026-05-06T21:16:31Z",
-      "image": "https://github.blog/wp-content/uploads/2026/05/Screenshot-2026-05-05-at-6.10.57-PM.png?resize=1024%2C582"
-    },
-    {
-      "id": "30a6c60710e78b92e07dd6e58fad3f0faf15576c",
-      "title": "Welcome to Maintainer Month: Celebrating the people behind the code",
-      "link": "https://github.blog/open-source/maintainers/welcome-to-maintainer-month-celebrating-the-people-behind-the-code/",
-      "source": "GitHub Blog",
-      "summary": "What maintainers are telling us, what we've shipped, and how to celebrate the people behind open source. The post Welcome to Maintainer Month: Celebrating the people behind the code appeared first on The GitHub Blog.",
-      "published": "2026-05-05T14:30:00Z"
     },
     {
       "id": "a5addf8606df3e8a369a2fc506ad4a05f7e158ef",
