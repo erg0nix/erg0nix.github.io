@@ -1,6 +1,31 @@
 {
-  "generated_at": "2026-05-15T08:53:22.925792Z",
+  "generated_at": "2026-05-16T08:08:57.265826Z",
   "items": [
+    {
+      "id": "c8f1a5799a76d5b1d5875ebdfddcb166588cd942",
+      "title": "Building a general-purpose accessibility agent—and what we learned in the process",
+      "link": "https://github.blog/ai-and-ml/github-copilot/building-a-general-purpose-accessibility-agent-and-what-we-learned-in-the-process/",
+      "source": "GitHub Blog",
+      "summary": "Learn about the experimental general-purpose accessibility agent that GitHub is piloting. The post Building a general-purpose accessibility agent—and what we learned in the process appeared first on The GitHub Blog.",
+      "published": "2026-05-15T16:00:00Z",
+      "image": "https://github.blog/wp-content/uploads/2026/05/image1.png?resize=1024%2C908"
+    },
+    {
+      "id": "747595adb92aa17ad4f63f62500114cfefaff496",
+      "title": "Raising the bar: Quality, shared responsibility, and the future of GitHub’s bug bounty program",
+      "link": "https://github.blog/security/raising-the-bar-quality-shared-responsibility-and-the-future-of-githubs-bug-bounty-program/",
+      "source": "GitHub Blog",
+      "summary": "We're updating our bug bounty program standards to prioritize quality submissions, clarify shared responsibility boundaries, and evolve how we reward low-risk findings. The post Raising the bar: Quality, shared responsibility, and the future of GitHub’s bug bounty program appeared first on The...",
+      "published": "2026-05-15T14:00:00Z"
+    },
+    {
+      "id": "94256c96e01d980453cc6a02b9941862a5b7b224",
+      "title": "– Egne prosjekter er alfa omega for å få jobb",
+      "link": "https://www.kode24.no/artikkel/egne-prosjekter-er-alfa-omega-for-a-fa-jobb/263199",
+      "source": "Kode24",
+      "summary": "Birk Tangen (26) fikk sommerjobb basert på sideprosjekter han har ved siden av studiene. – Viktig også å skryte av prosjektene sine.",
+      "published": "2026-05-15T11:00:00Z"
+    },
     {
       "id": "bef226f523f250780aed87c00ac51ee275cadaf1",
       "title": "Ikke alle er like begeistret over Googles KI-lansering",
@@ -219,31 +244,6 @@
       "source": "Kode24",
       "summary": "En av fem ansatte må gå når KI-selskapet skal rigge seg for KI-framtida. Sjefene vil ha «de rette folkene».",
       "published": "2026-05-08T07:51:55Z"
-    },
-    {
-      "id": "7a9639f55cf755cbd92819c6a8e115fb88a36fab",
-      "title": "Når personvern koster penger",
-      "link": "https://www.kode24.no/artikkel/nar-personvern-koster-penger/262670",
-      "source": "Kode24",
-      "summary": "– Skal jeg virkelig betale 39 kroner ekstra per måned for å slippe personrettet reklame på Aftenposten, spør ansvarlig redaktør Hilde Schjerve i denne kommentaren.",
-      "published": "2026-05-08T04:00:00Z"
-    },
-    {
-      "id": "6c8ded0caa31e4b77dba9d6841f99cca2d0e1864",
-      "title": "Improving token efficiency in GitHub Agentic Workflows",
-      "link": "https://github.blog/ai-and-ml/github-copilot/improving-token-efficiency-in-github-agentic-workflows/",
-      "source": "GitHub Blog",
-      "summary": "Agentic workflows that run on every pull request can quietly accumulate large API bills. Here's how we instrumented our own production workflows, found the inefficiencies, and built agents to fix them. The post Improving token efficiency in GitHub Agentic Workflows appeared first on The GitHub Blog.",
-      "published": "2026-05-07T23:00:00Z",
-      "image": "https://github.blog/wp-content/uploads/2026/05/graph.png?resize=1024%2C504"
-    },
-    {
-      "id": "4c120c6511e2b6ffadf3e028d18eca75480852b5",
-      "title": "Agent pull requests are everywhere. Here’s how to review them.",
-      "link": "https://github.blog/ai-and-ml/generative-ai/agent-pull-requests-are-everywhere-heres-how-to-review-them/",
-      "source": "GitHub Blog",
-      "summary": "A practical guide to reviewing agent-generated pull requests: what to look for, where issues hide, and how to catch technical debt before it ships. The post Agent pull requests are everywhere. Here’s how to review them. appeared first on The GitHub Blog.",
-      "published": "2026-05-07T19:00:00Z"
     },
     {
       "id": "a5addf8606df3e8a369a2fc506ad4a05f7e158ef",
