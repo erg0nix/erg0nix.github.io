@@ -1,6 +1,14 @@
 {
-  "generated_at": "2026-05-17T08:25:19.458623Z",
+  "generated_at": "2026-05-18T10:12:05.412306Z",
   "items": [
+    {
+      "id": "1daca06a3bc4ee8cb7fd392c5a93fce71255698d",
+      "title": "– Det har aldri vært lettere å lage dritt",
+      "link": "https://www.kode24.no/artikkel/det-har-aldri-vaert-lettere-a-lage-dritt/263076",
+      "source": "Kode24",
+      "summary": "– Du trenger nesten ikke å kunne kode lenger. Du trenger nesten ikke å åpne dokumentasjonen, skriver konsulent Julie Krøgnes.",
+      "published": "2026-05-18T04:00:00Z"
+    },
     {
       "id": "c8f1a5799a76d5b1d5875ebdfddcb166588cd942",
       "title": "Building a general-purpose accessibility agent—and what we learned in the process",
@@ -236,14 +244,6 @@
       "source": "Kode24",
       "summary": "Etter seks uker var agenten Bjørn E. Vaage bygget blitt til et ekkokammer. Disse grepene tok han for å rydde opp.",
       "published": "2026-05-08T09:00:00Z"
-    },
-    {
-      "id": "972f1286c1dc1b5a41e7d93cb8cd1bfaaf1d8454",
-      "title": "Cloudflare sier opp 1100",
-      "link": "https://www.kode24.no/artikkel/cloudflare-sier-opp-1100/262778",
-      "source": "Kode24",
-      "summary": "En av fem ansatte må gå når KI-selskapet skal rigge seg for KI-framtida. Sjefene vil ha «de rette folkene».",
-      "published": "2026-05-08T07:51:55Z"
     },
     {
       "id": "a5addf8606df3e8a369a2fc506ad4a05f7e158ef",
