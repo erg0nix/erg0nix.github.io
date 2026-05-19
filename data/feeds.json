@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-05-18T10:12:05.412306Z",
+  "generated_at": "2026-05-19T09:53:15.466891Z",
   "items": [
+    {
+      "id": "febcaf4160077e6842606cd179dda8f6442d5162",
+      "title": "Agentathon og koding: Slik bruker Eika KI",
+      "link": "https://www.kode24.no/artikkel/agentathon-og-koding-slik-bruker-eika-ki/263021",
+      "source": "Kode24",
+      "summary": "Eika-gruppen ønsker seg Claude. Først må de få lov til å sende bankdata til USA.",
+      "published": "2026-05-19T09:00:00Z"
+    },
+    {
+      "id": "234265501665485ee8c8db9d125e779e240b2b43",
+      "title": "Elon Musk tapte søksmål mot OpenAI – varsler anke",
+      "link": "https://www.kode24.no/artikkel/elon-musk-tapte-soksmal-mot-openai-varsler-anke/263400",
+      "source": "Kode24",
+      "summary": "OpenAI vant fram i rettstvisten mot milliardær Elon Musk. En jury i Oakland i California kom fram til at Musk leverte søksmålet sitt for sent.",
+      "published": "2026-05-19T05:41:17Z"
+    },
+    {
+      "id": "85287aa8876a1e4efba0270d7b5e985e4a3125c8",
+      "title": "– Vi ser så mange KI-startups nå",
+      "link": "https://www.kode24.no/artikkel/vi-ser-sa-mange-ki-startups-na/263308",
+      "source": "Kode24",
+      "summary": "Ukas koder legger merke til hvordan vi ser så mange KI-startups nå: – En person kan i dag levere det som før krevde et helt team.",
+      "published": "2026-05-19T04:00:00Z"
+    },
+    {
+      "id": "8cc0a03cd4360c33d365d17128a5572daf7b91ee",
+      "title": "Take your local GitHub sessions anywhere",
+      "link": "https://github.blog/news-insights/product-news/take-your-local-github-sessions-anywhere/",
+      "source": "GitHub Blog",
+      "summary": "Kick off work in VS Code or the CLI, finish it from your phone. Remote control for GitHub Copilot sessions is now generally available on github.com and GitHub Mobile. The post Take your local GitHub sessions anywhere appeared first on The GitHub Blog.",
+      "published": "2026-05-18T16:54:53Z"
+    },
+    {
+      "id": "d010abeda94911bea91b79e8d48e8cedbd938d99",
+      "title": "Paven varsler rundskriv om krig og KI",
+      "link": "https://www.kode24.no/artikkel/paven-varsler-rundskriv-om-krig-og-ki/263352",
+      "source": "Kode24",
+      "summary": "Pave Leo skal uttale seg om hvordan bevare menneskene i KI-tidsalderen.",
+      "published": "2026-05-18T12:45:00Z"
+    },
+    {
+      "id": "c25fce73e9fc9f682f5d209862fee056e13712b9",
+      "title": "Vipps satte ny rekord på 17. mai",
+      "link": "https://www.kode24.no/artikkel/vipps-satte-ny-rekord-pa-17-mai/263360",
+      "source": "Kode24",
+      "summary": "Nordmenn vippset over 3,2 millioner ganger på 17. mai. Dermed ble den gamle rekorden, som var fra 17. mai i fjor, slått.",
+      "published": "2026-05-18T12:27:53Z"
+    },
+    {
+      "id": "2d0e43f328247fe7524815a7afa672bd8db79e76",
+      "title": "Nå kommer smartlinsene",
+      "link": "https://www.kode24.no/artikkel/na-kommer-smartlinsene/263329",
+      "source": "Kode24",
+      "summary": "Kan smarte kontaktlinser erstatte smarte briller?",
+      "published": "2026-05-18T12:01:49Z"
+    },
     {
       "id": "1daca06a3bc4ee8cb7fd392c5a93fce71255698d",
       "title": "– Det har aldri vært lettere å lage dritt",
@@ -182,68 +238,12 @@
       "published": "2026-05-11T09:48:21Z"
     },
     {
-      "id": "5b44f05702216e826c091065e667b0c50c21a304",
-      "title": "Tung om IT-Sunnmøre: – Utrolig mindset",
-      "link": "https://www.kode24.no/artikkel/tung-om-it-sunnmore-utrolig-mindset/262890",
-      "source": "Kode24",
-      "summary": "Sunnmøre er tradisjonelt kjent for shipping, fisk og møbelforretningene sine. Nå er noe i ferd med å skje – det er blitt et sted for utvikling av ny teknologi.",
-      "published": "2026-05-11T07:57:46Z"
-    },
-    {
-      "id": "36e8bc442ba3b48e6a19a6a1e785d8351ca68f8b",
-      "title": "Mener KI ikke er en trussel",
-      "link": "https://www.kode24.no/artikkel/mener-ki-ikke-er-en-trussel/262818",
-      "source": "Kode24",
-      "summary": "Erik Edin er ikke bekymret for KI og bruker mange verktøy på jobb. – Vi bruker GitHub Copilot for det meste siden det er der vi har lisens.",
-      "published": "2026-05-11T04:00:00Z"
-    },
-    {
       "id": "01d2500a36720720a4c2bf0c5968576fe6cd9b63",
       "title": "Why age assurance laws matter for developers",
       "link": "https://github.blog/news-insights/policy-news-and-insights/why-age-assurance-laws-matter-for-developers/",
       "source": "GitHub Blog",
       "summary": "Youth safety requirements are moving down the tech stack to operating systems and app stores—raising new questions for open source developers. The post Why age assurance laws matter for developers appeared first on The GitHub Blog.",
       "published": "2026-05-08T16:30:00Z"
-    },
-    {
-      "id": "30dab6583593cb8daf6b1a3ac949ec2f9b1ee5fc",
-      "title": "How researchers are using GitHub Innovation Graph data to reveal the “digital complexity” of nations",
-      "link": "https://github.blog/news-insights/policy-news-and-insights/how-researchers-are-using-github-innovation-graph-data-to-reveal-the-digital-complexity-of-nations/",
-      "source": "GitHub Blog",
-      "summary": "Researchers share in an interview how they used GitHub data to predict GDP, inequality, and emissions in ways that traditional economic data misses, along with our Q4 2025 data release. The post How researchers are using GitHub Innovation Graph data to reveal the “digital complexity” of nations...",
-      "published": "2026-05-08T15:00:00Z"
-    },
-    {
-      "id": "2cf9428387835d3b9b1e4e5aaefe817addc960b3",
-      "title": "Nasjonal dugnad for å «hjelpe» nordmenn vekk fra «Big Tech»",
-      "link": "https://www.kode24.no/artikkel/nasjonal-dugnad-for-a-hjelpe-nordmenn-vekk-fra-big-tech/262762",
-      "source": "Kode24",
-      "summary": "Hudd og Vivaldi vil gjøre nordmenn «fri» fra Google og Facebook på frigjøringsdagen.",
-      "published": "2026-05-08T13:57:04Z"
-    },
-    {
-      "id": "7d08153e405d58c9383eae42aa22367c6993778f",
-      "title": "Stø får mer tid til å rette BankID-avvik",
-      "link": "https://www.kode24.no/artikkel/sto-far-mer-tid-til-a-rette-bankid-avvik/262795",
-      "source": "Kode24",
-      "summary": "Digitaliseringsminister Karianne Tung slår fast at BankID ikke kan «miste sin klassifisering over natten». Stø AS mener de ikke trenger å rekke noen frist.",
-      "published": "2026-05-08T11:43:39Z"
-    },
-    {
-      "id": "df76fdeb074f762e707252ff8cedcf54a4b07b68",
-      "title": "Får milliardgebyr for å sende personopplysninger til Russland",
-      "link": "https://www.kode24.no/artikkel/far-milliardgebyr-for-a-sende-personopplysninger-til-russland/262836",
-      "source": "Kode24",
-      "summary": "Den russiskeide taxiappen Yango får et gebyr på 100 millioner euro av det nederlandske datatilsynet.",
-      "published": "2026-05-08T11:03:22Z"
-    },
-    {
-      "id": "b1234e31db2053269a26450cf22a8d5010090798",
-      "title": "– Slik hindrer jeg at mitt eget agentsystem blir et ekkokammer",
-      "link": "https://www.kode24.no/artikkel/slik-hindrer-jeg-at-mitt-eget-agentsystem-blir-et-ekkokammer/262499",
-      "source": "Kode24",
-      "summary": "Etter seks uker var agenten Bjørn E. Vaage bygget blitt til et ekkokammer. Disse grepene tok han for å rydde opp.",
-      "published": "2026-05-08T09:00:00Z"
     },
     {
       "id": "a5addf8606df3e8a369a2fc506ad4a05f7e158ef",
