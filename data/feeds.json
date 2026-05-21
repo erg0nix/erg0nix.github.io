@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-05-20T09:40:42.972160Z",
+  "generated_at": "2026-05-21T09:49:44.455927Z",
   "items": [
+    {
+      "id": "adb36e0d2b3b525454dbf3f08291b2cea45d64fb",
+      "title": "OpenAI sikter på børsnotering til høsten",
+      "link": "https://www.kode24.no/artikkel/openai-sikter-pa-borsnotering-til-hosten/263653",
+      "source": "Kode24",
+      "summary": "KI-selskapet jobber med en hemmelig søknad om børsnotering, som ventes å bli kunngjort om kort tid.",
+      "published": "2026-05-21T06:01:08Z"
+    },
+    {
+      "id": "c1c1e9c2cf90086d2794b4f4d0905f9388ddc667",
+      "title": "Anmeldes for svindelannonser i 27 land",
+      "link": "https://www.kode24.no/artikkel/anmeldes-for-svindelannonser-i-27-land/263639",
+      "source": "Kode24",
+      "summary": "30 forbrukerorganisasjoner i 27 land anmelder flere sosiale medier-giganter både til EU-kommisjonen og nasjonale forbrukermyndigheter for falske annonser.",
+      "published": "2026-05-21T05:53:37Z"
+    },
+    {
+      "id": "0d2a940b1c4cada85332173a14e6b35393b1448b",
+      "title": "– Slik holder du KI-en i ørene",
+      "link": "https://www.kode24.no/artikkel/slik-holder-du-ki-en-i-orene/263382",
+      "source": "Kode24",
+      "summary": "– Når kode kan produseres raskere enn noensinne, blir det også viktigere enn noen gang å rydde i den. Med Fallow kan du trygt overlate ryddejobben til KI-agenten, uten å gi fra deg kontrollen, skriver Kurt Lekanger.",
+      "published": "2026-05-21T04:00:00Z"
+    },
+    {
+      "id": "6c7e2becac7fdc0ab38ed742b5e6b8cf8dc3b39e",
+      "title": "Investigating unauthorized access to GitHub-owned repositories",
+      "link": "https://github.blog/security/investigating-unauthorized-access-to-githubs-internal-repositories/",
+      "source": "GitHub Blog",
+      "summary": "If any impact is discovered, customers will be notified via established incident response and notification channels. The post Investigating unauthorized access to GitHub-owned repositories appeared first on The GitHub Blog.",
+      "published": "2026-05-20T21:07:38Z"
+    },
+    {
+      "id": "5292817901d245bd159abe543be707d964a6b8cf",
+      "title": "Søkemotoren blir en KI‑agent",
+      "link": "https://www.kode24.no/artikkel/sokemotoren-blir-en-kiagent/263551",
+      "source": "Kode24",
+      "summary": "Verdens mest brukte søkemotor har sett nesten lik ut siden 2001. Men tirsdag kveld kunngjorde Google store endringer på sin årlige utviklerkonferanse I/O i California.",
+      "published": "2026-05-20T10:25:55Z"
+    },
     {
       "id": "94721a45bd55423e266edaa4e0448e03de5bcd20",
       "title": "Kriminalomsorgen skal ha nye fotlenker: – Behovene er endret",
@@ -155,22 +195,6 @@
       "published": "2026-05-15T11:00:00Z"
     },
     {
-      "id": "bef226f523f250780aed87c00ac51ee275cadaf1",
-      "title": "Ikke alle er like begeistret over Googles KI-lansering",
-      "link": "https://www.kode24.no/artikkel/ikke-alle-er-like-begeistret-over-googles-ki-lansering/263273",
-      "source": "Kode24",
-      "summary": "Dette var uken for relaterbare diskusjoner, brannsikkerhet og etiske dilemmaer — og 748 ting som skjedde i frontend-verdenen.",
-      "published": "2026-05-15T07:57:33Z"
-    },
-    {
-      "id": "eaf091e436b2d0b96fac63ee92fad8a4b330b7df",
-      "title": "– Nerdene har fått løpefeber",
-      "link": "https://www.kode24.no/artikkel/nerdene-har-fatt-lopefeber/263207",
-      "source": "Kode24",
-      "summary": "IT-nerdene er for lengst blitt sosiale. Nå løper de fort også.",
-      "published": "2026-05-15T04:00:00Z"
-    },
-    {
       "id": "b42fa6285dbb3f54e308a4a4e96cddad1a426878",
       "title": "GitHub availability report: April 2026",
       "link": "https://github.blog/news-insights/company-news/github-availability-report-april-2026/",
@@ -188,14 +212,6 @@
       "image": "https://github.blog/wp-content/uploads/2026/05/trafficDistro.png?resize=1024%2C336"
     },
     {
-      "id": "1f8dc70f2c39a800c62dcc11683b881d29b8c6a7",
-      "title": "Slik formes sikkerhet av produktvalgene man tar",
-      "link": "https://www.kode24.no/artikkel/slik-formes-sikkerhet-av-produktvalgene-man-tar/263243",
-      "source": "Kode24",
-      "summary": "Mye av det som påvirker sikkerheten i et produkt skjer lenge før noen oppdager en konkret sårbarhet.",
-      "published": "2026-05-14T04:01:00Z"
-    },
-    {
       "id": "8ef4bb22be97a37d2431a724e6cd9381e719286b",
       "title": "Dungeons & Desktops: 10 roguelikes that never die (because their communities won’t let them)",
       "link": "https://github.blog/open-source/gaming/dungeons-desktops-10-roguelikes-that-never-die-because-their-communities-wont-let-them/",
@@ -203,14 +219,6 @@
       "summary": "Roguelikes don’t die. They fork, mutate, get argued over, rewritten, abandoned, and revived again. Sometimes all at once. The post Dungeons & Desktops: 10 roguelikes that never die (because their communities won’t let them) appeared first on The GitHub Blog.",
       "published": "2026-05-13T16:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2026/05/Screenshot-2026-05-08-at-2.44.35-PM.png?resize=1024%2C640"
-    },
-    {
-      "id": "9d217759d2e6c60587af8901f941a86ddc03b38c",
-      "title": "Kristofer hentes fra bank til fersk bedrift",
-      "link": "https://www.kode24.no/artikkel/kristofer-hentes-fra-bank-til-fersk-bedrift/263150",
-      "source": "Kode24",
-      "summary": "Frontend-ekspert og arkitekt, Kristofer Walters, går fra Sparebank 1 Utvikling til Arktaria, til tross for KI-uro. – Jeg er ikke redd for å gå tilbake til konsulentbransjen, sier han.",
-      "published": "2026-05-13T11:00:00Z"
     },
     {
       "id": "af4a4bbb10706a72a2312abfc02b739060116fad",
@@ -236,14 +244,6 @@
       "source": "GitHub Blog",
       "summary": "Learn how to find opportunities to contribute to the open source community. The post GitHub for Beginners: Getting started with OSS contributions appeared first on The GitHub Blog.",
       "published": "2026-05-11T16:00:00Z"
-    },
-    {
-      "id": "01d2500a36720720a4c2bf0c5968576fe6cd9b63",
-      "title": "Why age assurance laws matter for developers",
-      "link": "https://github.blog/news-insights/policy-news-and-insights/why-age-assurance-laws-matter-for-developers/",
-      "source": "GitHub Blog",
-      "summary": "Youth safety requirements are moving down the tech stack to operating systems and app stores—raising new questions for open source developers. The post Why age assurance laws matter for developers appeared first on The GitHub Blog.",
-      "published": "2026-05-08T16:30:00Z"
     },
     {
       "id": "a5addf8606df3e8a369a2fc506ad4a05f7e158ef",
