@@ -1,6 +1,55 @@
 {
-  "generated_at": "2026-05-21T09:49:44.455927Z",
+  "generated_at": "2026-05-22T09:34:17.451364Z",
   "items": [
+    {
+      "id": "6f4621482a90af990d6873e4475b1b84ec436032",
+      "title": "Uka for mimring og halting – og 3713 andre ting",
+      "link": "https://www.kode24.no/artikkel/uka-for-mimring-og-halting-og-3713-andre-ting/263667",
+      "source": "Kode24",
+      "summary": "Mens vi lada opp til 17. mai, var frontendverdenen preget av sikkerhetspatching, kompromitterte npm-pakker og supply chain-drama. Vi ser på hva som skjedde.",
+      "published": "2026-05-22T06:00:00Z"
+    },
+    {
+      "id": "ed36ea112af91f906ef7d55cb8206159448b5952",
+      "title": "– Når sikkerheten henger etter",
+      "link": "https://www.kode24.no/artikkel/nar-sikkerheten-henger-etter/262690",
+      "source": "Kode24",
+      "summary": "– Sikkerhetsarbeid kan fort kjennes stort og rotete, skriver Synne Stokkevåg Berg. Hun forteller hvordan produktleder kan bidra når teamet trenger oversikt og langvarige arbeidsmetoder.",
+      "published": "2026-05-22T04:00:00Z"
+    },
+    {
+      "id": "a7b33a1ca77b5dec3b309e5b4acc54552ad64b2c",
+      "title": "Beyond the engine: 10 open source projects shaping how games actually get made",
+      "link": "https://github.blog/open-source/gaming/beyond-the-engine-10-open-source-projects-shaping-how-games-actually-get-made/",
+      "source": "GitHub Blog",
+      "summary": "Check out these 10 open source tools that help game developers create art, animation, levels, audio, dialogue, debug UIs, and engine-ready assets. The post Beyond the engine: 10 open source projects shaping how games actually get made appeared first on The GitHub Blog.",
+      "published": "2026-05-21T18:00:00Z",
+      "image": "https://github.blog/wp-content/uploads/2026/05/blockbench.png"
+    },
+    {
+      "id": "6554e2d38a0e5608a2018003ecabca6db6d16d26",
+      "title": "Building GitHub’s next chapter in accessibility",
+      "link": "https://github.blog/open-source/building-githubs-next-chapter-in-accessibility/",
+      "source": "GitHub Blog",
+      "summary": "Explore our update on GitHub’s accessibility strategy, and learn how you can join us in building a culture of accessibility. The post Building GitHub’s next chapter in accessibility appeared first on The GitHub Blog.",
+      "published": "2026-05-21T16:00:00Z"
+    },
+    {
+      "id": "70d6f401ae0cd500c2814b1fc145024ed68b9f17",
+      "title": "Advarer mot stor angrepsaktivitet",
+      "link": "https://www.kode24.no/artikkel/advarer-mot-stor-angrepsaktivitet/263695",
+      "source": "Kode24",
+      "summary": "Et bredt nasjonalt cybersikkerhetsmiljø advarer nå om at norske virksomheter utsettes for stor digital angrepsaktivitet.",
+      "published": "2026-05-21T10:15:48Z"
+    },
+    {
+      "id": "e32ce9e733ff1c12a687998471fa356d2f48afea",
+      "title": "X bøtelagt",
+      "link": "https://www.kode24.no/artikkel/x-botelagt/263682",
+      "source": "Kode24",
+      "summary": "En australsk domstol har slått fast at Elon Musks selskap X må betale en bot på 650.000 australske dollar, rundt 4,3 millioner norske kroner, etter at selskapet ikke har redegjort for hvordan plattformen beskytter barn.",
+      "published": "2026-05-21T09:51:58Z"
+    },
     {
       "id": "adb36e0d2b3b525454dbf3f08291b2cea45d64fb",
       "title": "OpenAI sikter på børsnotering til høsten",
@@ -24,6 +73,14 @@
       "source": "Kode24",
       "summary": "– Når kode kan produseres raskere enn noensinne, blir det også viktigere enn noen gang å rydde i den. Med Fallow kan du trygt overlate ryddejobben til KI-agenten, uten å gi fra deg kontrollen, skriver Kurt Lekanger.",
       "published": "2026-05-21T04:00:00Z"
+    },
+    {
+      "id": "7ae1dda67f7f810e6d77f7a3e7778ae9abd39902",
+      "title": "Introducing the pkg.go.dev API",
+      "link": "https://go.dev/blog/pkgsite-api",
+      "source": "Go Blog",
+      "summary": "Introducing the new programmatic API for pkg.go.dev, allowing developers to fetch package and module data directly.",
+      "published": "2026-05-21T00:00:00Z"
     },
     {
       "id": "6c7e2becac7fdc0ab38ed742b5e6b8cf8dc3b39e",
@@ -146,30 +203,6 @@
       "published": "2026-05-18T12:45:00Z"
     },
     {
-      "id": "c25fce73e9fc9f682f5d209862fee056e13712b9",
-      "title": "Vipps satte ny rekord på 17. mai",
-      "link": "https://www.kode24.no/artikkel/vipps-satte-ny-rekord-pa-17-mai/263360",
-      "source": "Kode24",
-      "summary": "Nordmenn vippset over 3,2 millioner ganger på 17. mai. Dermed ble den gamle rekorden, som var fra 17. mai i fjor, slått.",
-      "published": "2026-05-18T12:27:53Z"
-    },
-    {
-      "id": "2d0e43f328247fe7524815a7afa672bd8db79e76",
-      "title": "Nå kommer smartlinsene",
-      "link": "https://www.kode24.no/artikkel/na-kommer-smartlinsene/263329",
-      "source": "Kode24",
-      "summary": "Kan smarte kontaktlinser erstatte smarte briller?",
-      "published": "2026-05-18T12:01:49Z"
-    },
-    {
-      "id": "1daca06a3bc4ee8cb7fd392c5a93fce71255698d",
-      "title": "– Det har aldri vært lettere å lage dritt",
-      "link": "https://www.kode24.no/artikkel/det-har-aldri-vaert-lettere-a-lage-dritt/263076",
-      "source": "Kode24",
-      "summary": "– Du trenger nesten ikke å kunne kode lenger. Du trenger nesten ikke å åpne dokumentasjonen, skriver konsulent Julie Krøgnes.",
-      "published": "2026-05-18T04:00:00Z"
-    },
-    {
       "id": "c8f1a5799a76d5b1d5875ebdfddcb166588cd942",
       "title": "Building a general-purpose accessibility agent—and what we learned in the process",
       "link": "https://github.blog/ai-and-ml/github-copilot/building-a-general-purpose-accessibility-agent-and-what-we-learned-in-the-process/",
@@ -185,14 +218,6 @@
       "source": "GitHub Blog",
       "summary": "We're updating our bug bounty program standards to prioritize quality submissions, clarify shared responsibility boundaries, and evolve how we reward low-risk findings. The post Raising the bar: Quality, shared responsibility, and the future of GitHub’s bug bounty program appeared first on The...",
       "published": "2026-05-15T14:00:00Z"
-    },
-    {
-      "id": "94256c96e01d980453cc6a02b9941862a5b7b224",
-      "title": "– Egne prosjekter er alfa omega for å få jobb",
-      "link": "https://www.kode24.no/artikkel/egne-prosjekter-er-alfa-omega-for-a-fa-jobb/263199",
-      "source": "Kode24",
-      "summary": "Birk Tangen (26) fikk sommerjobb basert på sideprosjekter han har ved siden av studiene. – Viktig også å skryte av prosjektene sine.",
-      "published": "2026-05-15T11:00:00Z"
     },
     {
       "id": "b42fa6285dbb3f54e308a4a4e96cddad1a426878",
@@ -227,23 +252,6 @@
       "source": "GitHub Blog",
       "summary": "Starting June 1, our lineup of individual plans will update based on your feedback. The post GitHub Copilot individual plans: Introducing flex allotments in Pro and Pro+, and a new Max plan appeared first on The GitHub Blog.",
       "published": "2026-05-12T17:35:41Z"
-    },
-    {
-      "id": "213186c8239e169a96610836734835244447c141",
-      "title": "Dungeons & Desktops: Building a procedurally generated roguelike with GitHub Copilot CLI",
-      "link": "https://github.blog/ai-and-ml/github-copilot/dungeons-desktops-building-a-procedurally-generated-roguelike-with-github-copilot-cli/",
-      "source": "GitHub Blog",
-      "summary": "Learn how one Hubber used GitHub Copilot CLI to build an extension that turns any codebase into a unique, roguelike dungeon. The post Dungeons & Desktops: Building a procedurally generated roguelike with GitHub Copilot CLI appeared first on The GitHub Blog.",
-      "published": "2026-05-12T15:00:00Z",
-      "image": "https://github.blog/wp-content/uploads/2026/05/Screenshot-2026-05-01-at-3.53.00-PM.png?resize=1024%2C432"
-    },
-    {
-      "id": "91e1570cb842f10436b00f93bb8c7257413a7394",
-      "title": "GitHub for Beginners: Getting started with OSS contributions",
-      "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-oss-contributions/",
-      "source": "GitHub Blog",
-      "summary": "Learn how to find opportunities to contribute to the open source community. The post GitHub for Beginners: Getting started with OSS contributions appeared first on The GitHub Blog.",
-      "published": "2026-05-11T16:00:00Z"
     },
     {
       "id": "a5addf8606df3e8a369a2fc506ad4a05f7e158ef",
@@ -322,14 +330,6 @@
       "summary": "Go 1.25 introduces a new tool in the diagnostic toolbox, flight recording.",
       "published": "2025-09-26T00:00:00Z",
       "image": "https://go.dev/blog/flight-recorder/flight_recorder_1.png"
-    },
-    {
-      "id": "b5b3e74991c32c3b5cbe7cf03a7a338e26edb205",
-      "title": "It's survey time! How has Go has been working out for you?",
-      "link": "https://go.dev/blog/survey2025-announce",
-      "source": "Go Blog",
-      "summary": "Help shape the future of Go",
-      "published": "2025-09-16T00:00:00Z"
     }
   ]
 }
