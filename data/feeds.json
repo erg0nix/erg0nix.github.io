@@ -1,6 +1,47 @@
 {
-  "generated_at": "2026-05-22T09:34:17.451364Z",
+  "generated_at": "2026-05-23T08:24:09.555416Z",
   "items": [
+    {
+      "id": "ca39c58003dd1626546b46c00d67d6244602f61f",
+      "title": "GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents for the third year in a row",
+      "link": "https://github.blog/ai-and-ml/github-copilot/github-recognized-as-a-leader-in-the-gartner-magic-quadrant-for-enterprise-ai-coding-agents-for-the-third-year-in-a-row/",
+      "source": "GitHub Blog",
+      "summary": "We are committed to empowering every developer by building an open, secure, and AI-powered platform that defines the future of software development. The post GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents for the third year in a row appeared first on...",
+      "published": "2026-05-22T16:10:21Z",
+      "image": "https://github.blog/wp-content/uploads/2026/05/Figure1-2.png?resize=926%2C1024"
+    },
+    {
+      "id": "92a3b3fba60c53696f74b3538245f0844957cf67",
+      "title": "Jubeltall for kode24",
+      "link": "https://www.kode24.no/artikkel/jubeltall-for-kode24/263730",
+      "source": "Kode24",
+      "summary": "Kode24 vokser videre, og styrker posisjonen som Norges viktigste digitale møteplass for utviklere.",
+      "published": "2026-05-22T12:00:00Z"
+    },
+    {
+      "id": "401564d256b01969720bcc91fa95b58457f31b2e",
+      "title": "Utvikleren som kan vinne «The Voice»",
+      "link": "https://www.kode24.no/artikkel/utvikleren-som-kan-vinne-the-voice/263717",
+      "source": "Kode24",
+      "summary": "For ti år siden la Trym Bjønnes musikken til side og ble utvikler. Fredag står han i semifinalen i «The Voice» på TV 2. Går han videre, kan ha vinne hele talentkonkurransen!",
+      "published": "2026-05-22T09:45:00Z"
+    },
+    {
+      "id": "3825fef482d8bd6e2cfee01d7918a87ff55e089c",
+      "title": "Avviser at de bygger på «amerikansk» kildekode",
+      "link": "https://www.kode24.no/artikkel/avviser-at-de-bygger-pa-amerikansk-kildekode/263617",
+      "source": "Kode24",
+      "summary": "– Verken Hudd eller Vivaldi har noen gang hevdet å være «helt uavhengig» av amerikansk teknologi, sier selskapene. Men de vil ha nordmenn bort fra Big Tech.",
+      "published": "2026-05-22T08:00:00Z"
+    },
+    {
+      "id": "54d7c5ba043ff699e0f03d2efa22263699d85e58",
+      "title": "«Ingen» bruker app som koster 173 millioner kroner å utvikle",
+      "link": "https://www.kode24.no/artikkel/ingen-bruker-app-som-koster-173-millioner-kroner-a-utvikle/263758",
+      "source": "Kode24",
+      "summary": "Entur-appen skulle samle hele kollektiv-Norge, men under 3 prosent av kollektivbillettene i Norge kjøpes gjennom denne appen, skriver Aftenposten.",
+      "published": "2026-05-22T07:32:54Z"
+    },
     {
       "id": "6f4621482a90af990d6873e4475b1b84ec436032",
       "title": "Uka for mimring og halting – og 3713 andre ting",
@@ -163,44 +204,12 @@
       "published": "2026-05-19T10:24:00Z"
     },
     {
-      "id": "febcaf4160077e6842606cd179dda8f6442d5162",
-      "title": "Agentathon og koding: Slik bruker Eika KI",
-      "link": "https://www.kode24.no/artikkel/agentathon-og-koding-slik-bruker-eika-ki/263021",
-      "source": "Kode24",
-      "summary": "Eika-gruppen ønsker seg Claude. Først må de få lov til å sende bankdata til USA.",
-      "published": "2026-05-19T09:00:00Z"
-    },
-    {
-      "id": "234265501665485ee8c8db9d125e779e240b2b43",
-      "title": "Elon Musk tapte søksmål mot OpenAI – varsler anke",
-      "link": "https://www.kode24.no/artikkel/elon-musk-tapte-soksmal-mot-openai-varsler-anke/263400",
-      "source": "Kode24",
-      "summary": "OpenAI vant fram i rettstvisten mot milliardær Elon Musk. En jury i Oakland i California kom fram til at Musk leverte søksmålet sitt for sent.",
-      "published": "2026-05-19T05:41:17Z"
-    },
-    {
-      "id": "85287aa8876a1e4efba0270d7b5e985e4a3125c8",
-      "title": "– Vi ser så mange KI-startups nå",
-      "link": "https://www.kode24.no/artikkel/vi-ser-sa-mange-ki-startups-na/263308",
-      "source": "Kode24",
-      "summary": "Ukas koder legger merke til hvordan vi ser så mange KI-startups nå: – En person kan i dag levere det som før krevde et helt team.",
-      "published": "2026-05-19T04:00:00Z"
-    },
-    {
       "id": "8cc0a03cd4360c33d365d17128a5572daf7b91ee",
       "title": "Take your local GitHub sessions anywhere",
       "link": "https://github.blog/news-insights/product-news/take-your-local-github-sessions-anywhere/",
       "source": "GitHub Blog",
       "summary": "Kick off work in VS Code or the CLI, finish it from your phone. Remote control for GitHub Copilot sessions is now generally available on github.com and GitHub Mobile. The post Take your local GitHub sessions anywhere appeared first on The GitHub Blog.",
       "published": "2026-05-18T16:54:53Z"
-    },
-    {
-      "id": "d010abeda94911bea91b79e8d48e8cedbd938d99",
-      "title": "Paven varsler rundskriv om krig og KI",
-      "link": "https://www.kode24.no/artikkel/paven-varsler-rundskriv-om-krig-og-ki/263352",
-      "source": "Kode24",
-      "summary": "Pave Leo skal uttale seg om hvordan bevare menneskene i KI-tidsalderen.",
-      "published": "2026-05-18T12:45:00Z"
     },
     {
       "id": "c8f1a5799a76d5b1d5875ebdfddcb166588cd942",
@@ -244,14 +253,6 @@
       "summary": "Roguelikes don’t die. They fork, mutate, get argued over, rewritten, abandoned, and revived again. Sometimes all at once. The post Dungeons & Desktops: 10 roguelikes that never die (because their communities won’t let them) appeared first on The GitHub Blog.",
       "published": "2026-05-13T16:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2026/05/Screenshot-2026-05-08-at-2.44.35-PM.png?resize=1024%2C640"
-    },
-    {
-      "id": "af4a4bbb10706a72a2312abfc02b739060116fad",
-      "title": "GitHub Copilot individual plans: Introducing flex allotments in Pro and Pro+, and a new Max plan",
-      "link": "https://github.blog/news-insights/company-news/github-copilot-individual-plans-introducing-flex-allotments-in-pro-and-pro-and-a-new-max-plan/",
-      "source": "GitHub Blog",
-      "summary": "Starting June 1, our lineup of individual plans will update based on your feedback. The post GitHub Copilot individual plans: Introducing flex allotments in Pro and Pro+, and a new Max plan appeared first on The GitHub Blog.",
-      "published": "2026-05-12T17:35:41Z"
     },
     {
       "id": "a5addf8606df3e8a369a2fc506ad4a05f7e158ef",
