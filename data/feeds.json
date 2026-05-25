@@ -1,6 +1,14 @@
 {
-  "generated_at": "2026-05-24T08:33:45.588567Z",
+  "generated_at": "2026-05-25T10:16:20.733846Z",
   "items": [
+    {
+      "id": "7c28c020f79857a8dd9368e700388e3b10345e3b",
+      "title": "Tre grunner til at virksomheters KI-strategier risikerer å mislykkes",
+      "link": "https://www.kode24.no/artikkel/tre-grunner-til-at-virksomheters-ki-strategier-risikerer-a-mislykkes/262801",
+      "source": "Kode24",
+      "summary": "– KI er ikke bare enda et IT-prosjekt, skriver Eivind Kvisterøy.",
+      "published": "2026-05-25T04:00:00Z"
+    },
     {
       "id": "ca39c58003dd1626546b46c00d67d6244602f61f",
       "title": "GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents for the third year in a row",
@@ -194,14 +202,6 @@
       "source": "Kode24",
       "summary": "Senior systemarkitekt Freddy Mello starter i Yne. – Jeg ønsket meg nye utfordringer og et litt nytt perspektiv.",
       "published": "2026-05-19T11:45:06Z"
-    },
-    {
-      "id": "13d810c04ccf37b6f43deaf2a9405ebbb9e02a45",
-      "title": "Teknisk trøbbel skapte apotek-krøll",
-      "link": "https://www.kode24.no/artikkel/teknisk-trobbel-skapte-apotek-kroll/263455",
-      "source": "Kode24",
-      "summary": "Alle norske apotek hadde tirsdag problemer med IT-systemet som brukes for å få tak i resepter fra reseptformidleren.",
-      "published": "2026-05-19T10:24:00Z"
     },
     {
       "id": "8cc0a03cd4360c33d365d17128a5572daf7b91ee",
