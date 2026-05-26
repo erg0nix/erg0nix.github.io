@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-05-25T10:16:20.733846Z",
+  "generated_at": "2026-05-26T10:02:46.174610Z",
   "items": [
+    {
+      "id": "de643b1110a91e22f1c9559718929750d23f19f4",
+      "title": "Pavens første «manifest»: Advarer mot KI og beklager slaveriet",
+      "link": "https://www.kode24.no/artikkel/pavens-forste-manifest-advarer-mot-ki-og-beklager-slaveriet/263865",
+      "source": "Kode24",
+      "summary": "Pave Leo tar til orde for å «avvæpne» kunstig intelligens (KI) og advarer om nye former for slaveri i kjølvannet av den teknologiske omveltningen.",
+      "published": "2026-05-26T06:14:26Z"
+    },
+    {
+      "id": "b1cddd8a33288945a0e9f2e455b379dce65ac5a2",
+      "title": "– Det er litt rart å være erfaren utvikler akkurat nå",
+      "link": "https://www.kode24.no/artikkel/det-er-litt-rart-a-vaere-erfaren-utvikler-akkurat-na/263571",
+      "source": "Kode24",
+      "summary": "Utvikler Long Hyunh reflekterer over den nye formen for produktivitet i KI-tiden.",
+      "published": "2026-05-26T04:00:00Z"
+    },
+    {
+      "id": "0e8f3c738373ce68e9b46c90485119194d18620e",
+      "title": "GitHub for Beginners: Getting started with Git and GitHub in VS Code",
+      "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-git-and-github-in-vs-code/",
+      "source": "GitHub Blog",
+      "summary": "Discover how to use VS Code to interact with GitHub and maintain your projects. The post GitHub for Beginners: Getting started with Git and GitHub in VS Code appeared first on The GitHub Blog.",
+      "published": "2026-05-25T16:00:00Z"
+    },
     {
       "id": "7c28c020f79857a8dd9368e700388e3b10345e3b",
       "title": "Tre grunner til at virksomheters KI-strategier risikerer å mislykkes",
@@ -188,22 +212,6 @@
       "published": "2026-05-20T04:00:00Z"
     },
     {
-      "id": "25832d3668ac8f2f89d37eb928bf0bda15ed7913",
-      "title": "Får kjeft for disko-logo: Spotify lover å endre tilbake",
-      "link": "https://www.kode24.no/artikkel/far-kjeft-for-disko-logo-spotify-lover-a-endre-tilbake/263487",
-      "source": "Kode24",
-      "summary": "20-årsjubileet til musikkappen skulle skinne. Det var ikke alle brukerne glade for.",
-      "published": "2026-05-19T12:56:20Z"
-    },
-    {
-      "id": "b65a9b1e74fba8643eddd83d916db5053b09a578",
-      "title": "– Jeg ønsket et litt nytt perspektiv",
-      "link": "https://www.kode24.no/artikkel/jeg-onsket-et-litt-nytt-perspektiv/263472",
-      "source": "Kode24",
-      "summary": "Senior systemarkitekt Freddy Mello starter i Yne. – Jeg ønsket meg nye utfordringer og et litt nytt perspektiv.",
-      "published": "2026-05-19T11:45:06Z"
-    },
-    {
       "id": "8cc0a03cd4360c33d365d17128a5572daf7b91ee",
       "title": "Take your local GitHub sessions anywhere",
       "link": "https://github.blog/news-insights/product-news/take-your-local-github-sessions-anywhere/",
@@ -244,15 +252,6 @@
       "summary": "How the GitHub Issues team used client-side caching, smart prefetching, and service workers to make navigation feel instant. The post From latency to instant: Modernizing GitHub Issues navigation performance appeared first on The GitHub Blog.",
       "published": "2026-05-14T16:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2026/05/trafficDistro.png?resize=1024%2C336"
-    },
-    {
-      "id": "8ef4bb22be97a37d2431a724e6cd9381e719286b",
-      "title": "Dungeons & Desktops: 10 roguelikes that never die (because their communities won’t let them)",
-      "link": "https://github.blog/open-source/gaming/dungeons-desktops-10-roguelikes-that-never-die-because-their-communities-wont-let-them/",
-      "source": "GitHub Blog",
-      "summary": "Roguelikes don’t die. They fork, mutate, get argued over, rewritten, abandoned, and revived again. Sometimes all at once. The post Dungeons & Desktops: 10 roguelikes that never die (because their communities won’t let them) appeared first on The GitHub Blog.",
-      "published": "2026-05-13T16:00:00Z",
-      "image": "https://github.blog/wp-content/uploads/2026/05/Screenshot-2026-05-08-at-2.44.35-PM.png?resize=1024%2C640"
     },
     {
       "id": "a5addf8606df3e8a369a2fc506ad4a05f7e158ef",
