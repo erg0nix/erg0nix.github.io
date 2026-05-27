@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-05-26T10:02:46.174610Z",
+  "generated_at": "2026-05-27T09:59:55.262726Z",
   "items": [
+    {
+      "id": "d169607d38b5a6c487e112d199afc4c0a1d7dafc",
+      "title": "– Bygg egne prosjekter",
+      "link": "https://www.kode24.no/artikkel/bygg-egne-prosjekter/263893",
+      "source": "Kode24",
+      "summary": "Utdanning er viktig for grunnmuren, men prosjektene jeg har laget er det som faktisk har åpnet dører, sier Ukas koder Thomas Nordby Sørensen.",
+      "published": "2026-05-27T06:00:00Z"
+    },
+    {
+      "id": "c727b0a913d30ab22b038416bc1747b1d599606e",
+      "title": "– Da PC-en min begynte å tegne linjer til Kina",
+      "link": "https://www.kode24.no/artikkel/da-pc-en-min-begynte-a-tegne-linjer-til-kina/263807",
+      "source": "Kode24",
+      "summary": "– Word koblet seg til Microsofts servere i Hongkong, skriver Ola Lie. Slik gikk han fram for å lage et verktøy som overvåker trafikken via PC-en hans.",
+      "published": "2026-05-27T04:00:00Z"
+    },
+    {
+      "id": "ffcce9ae6f3db0b2ef98fd47e6d1f66cc7ebe91d",
+      "title": "Telenor vurderer mindre produktteam: – En utvikler kan gjøre mer",
+      "link": "https://www.kode24.no/artikkel/telenor-vurderer-mindre-produktteam-en-utvikler-kan-gjore-mer/263879",
+      "source": "Kode24",
+      "summary": "Teleselskapet jobber med å implementere KI i en rekke kjerneprosesser. Og ser for seg at produktteam ikke vil trenge tre eller flere roller lenger.",
+      "published": "2026-05-26T12:06:36Z"
+    },
+    {
+      "id": "566c222dbf658b961697e9b88fed9d460e9f7e31",
+      "title": "Datasenter i Narvik med svensk kraftavtale",
+      "link": "https://www.kode24.no/artikkel/datasenter-i-narvik-med-svensk-kraftavtale/263888",
+      "source": "Kode24",
+      "summary": "Datasenteret utenfor Narvik skal de første årene drives med strøm fra svenske Vattenfall.",
+      "published": "2026-05-26T09:52:24Z"
+    },
     {
       "id": "de643b1110a91e22f1c9559718929750d23f19f4",
       "title": "Pavens første «manifest»: Advarer mot KI og beklager slaveriet",
@@ -157,10 +189,10 @@
     },
     {
       "id": "6c7e2becac7fdc0ab38ed742b5e6b8cf8dc3b39e",
-      "title": "Investigating unauthorized access to GitHub-owned repositories",
+      "title": "Investigation update: GitHub Enterprise Server signing key rotation",
       "link": "https://github.blog/security/investigating-unauthorized-access-to-githubs-internal-repositories/",
       "source": "GitHub Blog",
-      "summary": "If any impact is discovered, customers will be notified via established incident response and notification channels. The post Investigating unauthorized access to GitHub-owned repositories appeared first on The GitHub Blog.",
+      "summary": "GitHub Enterprise Server customers need to take immediate action. The post Investigation update: GitHub Enterprise Server signing key rotation appeared first on The GitHub Blog.",
       "published": "2026-05-20T21:07:38Z"
     },
     {
@@ -178,38 +210,6 @@
       "source": "Kode24",
       "summary": "Kriminalomsorgen er i en prossess om anskaffelse av ny teknologi. – Vi har hatt samme løsning i en årrekke, og vi ser at behovene våre er endret.",
       "published": "2026-05-20T08:36:32Z"
-    },
-    {
-      "id": "8ebe9b9668b63c8b0b72e95386dc0ab27134176f",
-      "title": "BankID-avgjørelse utsatt til etter sommeren",
-      "link": "https://www.kode24.no/artikkel/bankid-avgjorelse-utsatt-til-etter-sommeren/263525",
-      "source": "Kode24",
-      "summary": "Stø kan miste det høyeste sikkerhetsnivået i kodebrikke-saken. Nå varsler nasjonal kommunikasjonsmyndighet at en avgjørelse ikke kommer før til høsten.",
-      "published": "2026-05-20T07:06:01Z"
-    },
-    {
-      "id": "3cc1d6e7399dc514b9a9125588c6936f4e38ea13",
-      "title": "Over 50.000 ansatte kan gå ut i streik",
-      "link": "https://www.kode24.no/artikkel/over-50000-ansatte-kan-ga-ut-i-streik/263517",
-      "source": "Kode24",
-      "summary": "Fagforeningen i Samsung Electronics varsler streik fra torsdag etter at forhandlingene med ledelsen brøt sammen.",
-      "published": "2026-05-20T06:59:25Z"
-    },
-    {
-      "id": "d31ee810148c2cea77c46138a5f36b28311e6d07",
-      "title": "Uautorisert tilgang til GitHub-repoer",
-      "link": "https://www.kode24.no/artikkel/uautorisert-tilgang-til-github-repoer/263506",
-      "source": "Kode24",
-      "summary": "3800 interne arkiver er angrepet etter at en ansatts enhet hadde en ondsinnet VS Code-utvidelse. Angriperen vil ha over 50.000 dollar.",
-      "published": "2026-05-20T06:37:58Z"
-    },
-    {
-      "id": "7c82026487b6768c5df45b57a5d06442b0596d11",
-      "title": "– Mange feil er rett foran deg",
-      "link": "https://www.kode24.no/artikkel/mange-feil-er-rett-foran-deg/263226",
-      "source": "Kode24",
-      "summary": "– Du trenger ikke være ekspert for å finne tilgjengelighetsfeil, skriver Uu-tilsynet. De forteller hvordan du kan oppdage dem før brukerne gjør det.",
-      "published": "2026-05-20T04:00:00Z"
     },
     {
       "id": "8cc0a03cd4360c33d365d17128a5572daf7b91ee",
