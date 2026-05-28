@@ -1,6 +1,70 @@
 {
-  "generated_at": "2026-05-27T09:59:55.262726Z",
+  "generated_at": "2026-05-28T10:09:57.850031Z",
   "items": [
+    {
+      "id": "922224318b70796e3348695cace25b6fe91c4285",
+      "title": "DNB har tekniske problemer",
+      "link": "https://www.kode24.no/artikkel/dnb-har-tekniske-problemer/264111",
+      "source": "Kode24",
+      "summary": "Flere banker har driftsproblemer torsdag formiddag.",
+      "published": "2026-05-28T08:45:15Z"
+    },
+    {
+      "id": "a66c2150cb7e75bff4142e87a00745b292cea191",
+      "title": "Tekna tar ut 176 ansatte i staten ved en streik",
+      "link": "https://www.kode24.no/artikkel/tekna-tar-ut-176-ansatte-i-staten-ved-en-streik/264093",
+      "source": "Kode24",
+      "summary": "Digitaliseringsdepartementet er blant de som blir rammet dersom det ikke blir en løsning før fredag.",
+      "published": "2026-05-28T07:54:39Z"
+    },
+    {
+      "id": "23064f12dfa27360dd48ffbde29901e2d082a5f9",
+      "title": "Utvikleren skal gi ut musikk etter The Voice",
+      "link": "https://www.kode24.no/artikkel/utvikleren-skal-gi-ut-musikk-etter-the-voice/264073",
+      "source": "Kode24",
+      "summary": "Trym Bjønnes røyk ut av semifinalen i The Voice. Nå er det tilbake til utviklerjobben, men 44-åringen vil jobbe litt redusert fremover for å kunne gi ut ny musikk.",
+      "published": "2026-05-28T07:18:24Z"
+    },
+    {
+      "id": "0d57380ef710e0e27cc4e431b413959bfc275b5b",
+      "title": "Om KI-debatten: – Det skal ikke være noen stor skam å snu",
+      "link": "https://www.kode24.no/artikkel/om-ki-debatten-det-skal-ikke-vaere-noen-stor-skam-a-snu/263831",
+      "source": "Kode24",
+      "summary": "Michael Odden reagerer på skyttergravene i KI-debatten blant utviklere. – Kanskje er ikke alle som er uenige med deg dum, ludditt eller teknofascist, skriver han.",
+      "published": "2026-05-28T04:00:00Z"
+    },
+    {
+      "id": "b446fe4f95035458e39e1e8b027f4db1cb6304ac",
+      "title": "Helseplattformen består. Professor etterlyste bruker-perspektivet",
+      "link": "https://www.kode24.no/artikkel/helseplattformen-bestar-professor-etterlyste-bruker-perspektivet/264038",
+      "source": "Kode24",
+      "summary": "MDG og Frp fikk ikke med seg flertallet i Stortinget på å finne alternativer til den omstridte helsetjenesten i Midt-Norge.",
+      "published": "2026-05-27T14:32:58Z"
+    },
+    {
+      "id": "788596220ce2cd5b233a184dba2e85c8934e9af0",
+      "title": "Fyller Oslo Konserthus med tech-kvinner: – Handler om tilhørighet",
+      "link": "https://www.kode24.no/artikkel/fyller-oslo-konserthus-med-tech-kvinner-handler-om-tilhorighet/263999",
+      "source": "Kode24",
+      "summary": "ODA Inspiration Day samler kvinner fra hele tech-bransjen i Norge. Hvor viktig er det med en slik møteplass? Vi spør leder og utvikler Alis Wiken Wilson.",
+      "published": "2026-05-27T11:33:46Z"
+    },
+    {
+      "id": "81dd546f2d0655a87065230ff7f18480f09c5d96",
+      "title": "SpaceX tildelt milliardkontrakt av USAs forsvar",
+      "link": "https://www.kode24.no/artikkel/spacex-tildelt-milliardkontrakt-av-usas-forsvar/264017",
+      "source": "Kode24",
+      "summary": "Elon Musks SpaceX har blitt tildelt en kontrakt på 2,29 milliarder dollar, tilsvarende rundt 21 milliarder norske kroner, av det amerikanske militæret.",
+      "published": "2026-05-27T10:00:04Z"
+    },
+    {
+      "id": "79bc0b5a2cc78e2c1bd14a045c144344a2eb4223",
+      "title": "Ukraina med KI-ambisjoner: Fra digital til agentisk stat",
+      "link": "https://www.kode24.no/artikkel/ukraina-med-ki-ambisjoner-fra-digital-til-agentisk-stat/263938",
+      "source": "Kode24",
+      "summary": "Ukraina lager én offentlig agent så innbyggerne skal slippe å lete etter offentlige nettsider og skjemaer. – Man skal bare skrive en chat.",
+      "published": "2026-05-27T08:32:54Z"
+    },
     {
       "id": "d169607d38b5a6c487e112d199afc4c0a1d7dafc",
       "title": "– Bygg egne prosjekter",
@@ -108,19 +172,11 @@
     },
     {
       "id": "6f4621482a90af990d6873e4475b1b84ec436032",
-      "title": "Uka for mimring og halting – og 3713 andre ting",
-      "link": "https://www.kode24.no/artikkel/uka-for-mimring-og-halting-og-3713-andre-ting/263667",
+      "title": "Sikkerhetspatching i Next.js",
+      "link": "https://www.kode24.no/artikkel/sikkerhetspatching-i-nextjs/263667",
       "source": "Kode24",
       "summary": "Mens vi lada opp til 17. mai, var frontendverdenen preget av sikkerhetspatching, kompromitterte npm-pakker og supply chain-drama. Vi ser på hva som skjedde.",
       "published": "2026-05-22T06:00:00Z"
-    },
-    {
-      "id": "ed36ea112af91f906ef7d55cb8206159448b5952",
-      "title": "– Når sikkerheten henger etter",
-      "link": "https://www.kode24.no/artikkel/nar-sikkerheten-henger-etter/262690",
-      "source": "Kode24",
-      "summary": "– Sikkerhetsarbeid kan fort kjennes stort og rotete, skriver Synne Stokkevåg Berg. Hun forteller hvordan produktleder kan bidra når teamet trenger oversikt og langvarige arbeidsmetoder.",
-      "published": "2026-05-22T04:00:00Z"
     },
     {
       "id": "a7b33a1ca77b5dec3b309e5b4acc54552ad64b2c",
@@ -140,46 +196,6 @@
       "published": "2026-05-21T16:00:00Z"
     },
     {
-      "id": "70d6f401ae0cd500c2814b1fc145024ed68b9f17",
-      "title": "Advarer mot stor angrepsaktivitet",
-      "link": "https://www.kode24.no/artikkel/advarer-mot-stor-angrepsaktivitet/263695",
-      "source": "Kode24",
-      "summary": "Et bredt nasjonalt cybersikkerhetsmiljø advarer nå om at norske virksomheter utsettes for stor digital angrepsaktivitet.",
-      "published": "2026-05-21T10:15:48Z"
-    },
-    {
-      "id": "e32ce9e733ff1c12a687998471fa356d2f48afea",
-      "title": "X bøtelagt",
-      "link": "https://www.kode24.no/artikkel/x-botelagt/263682",
-      "source": "Kode24",
-      "summary": "En australsk domstol har slått fast at Elon Musks selskap X må betale en bot på 650.000 australske dollar, rundt 4,3 millioner norske kroner, etter at selskapet ikke har redegjort for hvordan plattformen beskytter barn.",
-      "published": "2026-05-21T09:51:58Z"
-    },
-    {
-      "id": "adb36e0d2b3b525454dbf3f08291b2cea45d64fb",
-      "title": "OpenAI sikter på børsnotering til høsten",
-      "link": "https://www.kode24.no/artikkel/openai-sikter-pa-borsnotering-til-hosten/263653",
-      "source": "Kode24",
-      "summary": "KI-selskapet jobber med en hemmelig søknad om børsnotering, som ventes å bli kunngjort om kort tid.",
-      "published": "2026-05-21T06:01:08Z"
-    },
-    {
-      "id": "c1c1e9c2cf90086d2794b4f4d0905f9388ddc667",
-      "title": "Anmeldes for svindelannonser i 27 land",
-      "link": "https://www.kode24.no/artikkel/anmeldes-for-svindelannonser-i-27-land/263639",
-      "source": "Kode24",
-      "summary": "30 forbrukerorganisasjoner i 27 land anmelder flere sosiale medier-giganter både til EU-kommisjonen og nasjonale forbrukermyndigheter for falske annonser.",
-      "published": "2026-05-21T05:53:37Z"
-    },
-    {
-      "id": "0d2a940b1c4cada85332173a14e6b35393b1448b",
-      "title": "– Slik holder du KI-en i ørene",
-      "link": "https://www.kode24.no/artikkel/slik-holder-du-ki-en-i-orene/263382",
-      "source": "Kode24",
-      "summary": "– Når kode kan produseres raskere enn noensinne, blir det også viktigere enn noen gang å rydde i den. Med Fallow kan du trygt overlate ryddejobben til KI-agenten, uten å gi fra deg kontrollen, skriver Kurt Lekanger.",
-      "published": "2026-05-21T04:00:00Z"
-    },
-    {
       "id": "7ae1dda67f7f810e6d77f7a3e7778ae9abd39902",
       "title": "Introducing the pkg.go.dev API",
       "link": "https://go.dev/blog/pkgsite-api",
@@ -194,22 +210,6 @@
       "source": "GitHub Blog",
       "summary": "GitHub Enterprise Server customers need to take immediate action. The post Investigation update: GitHub Enterprise Server signing key rotation appeared first on The GitHub Blog.",
       "published": "2026-05-20T21:07:38Z"
-    },
-    {
-      "id": "5292817901d245bd159abe543be707d964a6b8cf",
-      "title": "Søkemotoren blir en KI‑agent",
-      "link": "https://www.kode24.no/artikkel/sokemotoren-blir-en-kiagent/263551",
-      "source": "Kode24",
-      "summary": "Verdens mest brukte søkemotor har sett nesten lik ut siden 2001. Men tirsdag kveld kunngjorde Google store endringer på sin årlige utviklerkonferanse I/O i California.",
-      "published": "2026-05-20T10:25:55Z"
-    },
-    {
-      "id": "94721a45bd55423e266edaa4e0448e03de5bcd20",
-      "title": "Kriminalomsorgen skal ha nye fotlenker: – Behovene er endret",
-      "link": "https://www.kode24.no/artikkel/kriminalomsorgen-skal-ha-nye-fotlenker-behovene-er-endret/263437",
-      "source": "Kode24",
-      "summary": "Kriminalomsorgen er i en prossess om anskaffelse av ny teknologi. – Vi har hatt samme løsning i en årrekke, og vi ser at behovene våre er endret.",
-      "published": "2026-05-20T08:36:32Z"
     },
     {
       "id": "8cc0a03cd4360c33d365d17128a5572daf7b91ee",
