@@ -1,12 +1,69 @@
 {
-  "generated_at": "2026-05-28T10:09:57.850031Z",
+  "generated_at": "2026-05-29T09:59:17.894588Z",
   "items": [
     {
-      "id": "922224318b70796e3348695cace25b6fe91c4285",
-      "title": "DNB har tekniske problemer",
-      "link": "https://www.kode24.no/artikkel/dnb-har-tekniske-problemer/264111",
+      "id": "98e2866d972dae296c79a25b8febe3311d3edd36",
+      "title": "Akademikerne enige med staten. Ingen IT-ansatte går ut i streik",
+      "link": "https://www.kode24.no/artikkel/akademikerne-enige-med-staten-ingen-it-ansatte-gar-ut-i-streik/264240",
       "source": "Kode24",
-      "summary": "Flere banker har driftsproblemer torsdag formiddag.",
+      "summary": "Tekna stod klare ti lå ta ut 176 statsansatte. Nå slipper de å streike. – Vi har fått gjennomslag, sier Akademikerne.",
+      "published": "2026-05-29T09:34:25Z"
+    },
+    {
+      "id": "bc977bfdfac2f02656040070fb0f0edff3b0ee04",
+      "title": "Professor er positiv til én offentlig KI-chat: – Gigantisk IT-prosjekt",
+      "link": "https://www.kode24.no/artikkel/professor-er-positiv-til-en-offentlig-ki-chat-gigantisk-it-prosjekt/264063",
+      "source": "Kode24",
+      "summary": "Digitaliseringsministeren holder fast på Altinn og Helsenorge, og vil ikke kopiere Ukrainas samling av alle offentlige tjenester til én KI-chat. – Teknisk er det gjørbart, kontrer KI-professor.",
+      "published": "2026-05-29T08:00:00Z"
+    },
+    {
+      "id": "55c27c6d3c4123253a532d26d4534750569278f4",
+      "title": "Spielberg om KI-bruk: – Ikke la den ha siste ordet",
+      "link": "https://www.kode24.no/artikkel/spielberg-om-ki-bruk-ikke-la-den-ha-siste-ordet/264225",
+      "source": "Kode24",
+      "summary": "Steven Spielberg går ut mot bruken av kunstig intelligens i filmproduksjon i podkasten til Michelle Obama.",
+      "published": "2026-05-29T05:48:50Z"
+    },
+    {
+      "id": "bfc1de904960da83a221c340b71f858b81e07d99",
+      "title": "Sam Altman avlyser jobb-apokalypsen",
+      "link": "https://www.kode24.no/artikkel/sam-altman-avlyser-jobb-apokalypsen/264127",
+      "source": "Kode24",
+      "summary": "– I 2016 tenkte jeg stadig vekk at vi var altfor mange utviklere på jobb. Nå tenker jeg at vi kanskje er litt for få, forteller Jørgen i kode24.",
+      "published": "2026-05-29T04:00:00Z"
+    },
+    {
+      "id": "7d34cb8e1d450de0aa394f77055dde96091158fc",
+      "title": "Still a developer. Just outside. Our latest GitHub Shop collection is here.",
+      "link": "https://github.blog/news-insights/company-news/still-a-developer-just-outside-our-latest-github-shop-collection-is-here/",
+      "source": "GitHub Blog",
+      "summary": "The ESC collection lets you escape the confines of your desk and get out into the sun where good ideas are bound to happen. The post Still a developer. Just outside. Our latest GitHub Shop collection is here. appeared first on The GitHub Blog.",
+      "published": "2026-05-28T18:18:43Z",
+      "image": "https://github.blog/wp-content/uploads/2026/05/Blog_Image_02.png?resize=1024%2C576"
+    },
+    {
+      "id": "d485b45ca9115937b3a30ce0ea76b512977b38b1",
+      "title": "Tek Norge vil ha mer KI i bedriftene. Tekna advarer mot tvang",
+      "link": "https://www.kode24.no/artikkel/tek-norge-vil-ha-mer-ki-i-bedriftene-tekna-advarer-mot-tvang/263805",
+      "source": "Kode24",
+      "summary": "Norge faller bakpå i KI-bruk i forhold til resten av Norden. – KI bør brukes der det er lurt, og ikke bare «mest mulig», svarer Tekna.",
+      "published": "2026-05-28T11:00:00Z"
+    },
+    {
+      "id": "27accdb33911487c64262197f9546ce0dfeb876a",
+      "title": "Dropper aldersgrense-gebyr etter EØS-kritikk",
+      "link": "https://www.kode24.no/artikkel/dropper-aldersgrense-gebyr-etter-eos-kritikk/264148",
+      "source": "Kode24",
+      "summary": "Regjeringen foreslo i fjor en lov som skulle tvinge tech-selskapene til å innføre aldersgrenser i Norge. Nå er pålegget mot selskapene borte fra forslaget.",
+      "published": "2026-05-28T10:54:19Z"
+    },
+    {
+      "id": "922224318b70796e3348695cace25b6fe91c4285",
+      "title": "Tekniske problemer i DNB – rettet",
+      "link": "https://www.kode24.no/artikkel/tekniske-problemer-i-dnb-rettet/264111",
+      "source": "Kode24",
+      "summary": "Flere banker har driftsproblemer torsdag formiddag. DNB melder om at feilen er rettet.",
       "published": "2026-05-28T08:45:15Z"
     },
     {
@@ -122,14 +179,6 @@
       "published": "2026-05-25T16:00:00Z"
     },
     {
-      "id": "7c28c020f79857a8dd9368e700388e3b10345e3b",
-      "title": "Tre grunner til at virksomheters KI-strategier risikerer å mislykkes",
-      "link": "https://www.kode24.no/artikkel/tre-grunner-til-at-virksomheters-ki-strategier-risikerer-a-mislykkes/262801",
-      "source": "Kode24",
-      "summary": "– KI er ikke bare enda et IT-prosjekt, skriver Eivind Kvisterøy.",
-      "published": "2026-05-25T04:00:00Z"
-    },
-    {
       "id": "ca39c58003dd1626546b46c00d67d6244602f61f",
       "title": "GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents for the third year in a row",
       "link": "https://github.blog/ai-and-ml/github-copilot/github-recognized-as-a-leader-in-the-gartner-magic-quadrant-for-enterprise-ai-coding-agents-for-the-third-year-in-a-row/",
@@ -137,46 +186,6 @@
       "summary": "We are committed to empowering every developer by building an open, secure, and AI-powered platform that defines the future of software development. The post GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents for the third year in a row appeared first on...",
       "published": "2026-05-22T16:10:21Z",
       "image": "https://github.blog/wp-content/uploads/2026/05/Figure1-2.png?resize=926%2C1024"
-    },
-    {
-      "id": "92a3b3fba60c53696f74b3538245f0844957cf67",
-      "title": "Jubeltall for kode24",
-      "link": "https://www.kode24.no/artikkel/jubeltall-for-kode24/263730",
-      "source": "Kode24",
-      "summary": "Kode24 vokser videre, og styrker posisjonen som Norges viktigste digitale møteplass for utviklere.",
-      "published": "2026-05-22T12:00:00Z"
-    },
-    {
-      "id": "401564d256b01969720bcc91fa95b58457f31b2e",
-      "title": "Utvikleren som kan vinne «The Voice»",
-      "link": "https://www.kode24.no/artikkel/utvikleren-som-kan-vinne-the-voice/263717",
-      "source": "Kode24",
-      "summary": "For ti år siden la Trym Bjønnes musikken til side og ble utvikler. Fredag står han i semifinalen i «The Voice» på TV 2. Går han videre, kan ha vinne hele talentkonkurransen!",
-      "published": "2026-05-22T09:45:00Z"
-    },
-    {
-      "id": "3825fef482d8bd6e2cfee01d7918a87ff55e089c",
-      "title": "Avviser at de bygger på «amerikansk» kildekode",
-      "link": "https://www.kode24.no/artikkel/avviser-at-de-bygger-pa-amerikansk-kildekode/263617",
-      "source": "Kode24",
-      "summary": "– Verken Hudd eller Vivaldi har noen gang hevdet å være «helt uavhengig» av amerikansk teknologi, sier selskapene. Men de vil ha nordmenn bort fra Big Tech.",
-      "published": "2026-05-22T08:00:00Z"
-    },
-    {
-      "id": "54d7c5ba043ff699e0f03d2efa22263699d85e58",
-      "title": "«Ingen» bruker app som koster 173 millioner kroner å utvikle",
-      "link": "https://www.kode24.no/artikkel/ingen-bruker-app-som-koster-173-millioner-kroner-a-utvikle/263758",
-      "source": "Kode24",
-      "summary": "Entur-appen skulle samle hele kollektiv-Norge, men under 3 prosent av kollektivbillettene i Norge kjøpes gjennom denne appen, skriver Aftenposten.",
-      "published": "2026-05-22T07:32:54Z"
-    },
-    {
-      "id": "6f4621482a90af990d6873e4475b1b84ec436032",
-      "title": "Sikkerhetspatching i Next.js",
-      "link": "https://www.kode24.no/artikkel/sikkerhetspatching-i-nextjs/263667",
-      "source": "Kode24",
-      "summary": "Mens vi lada opp til 17. mai, var frontendverdenen preget av sikkerhetspatching, kompromitterte npm-pakker og supply chain-drama. Vi ser på hva som skjedde.",
-      "published": "2026-05-22T06:00:00Z"
     },
     {
       "id": "a7b33a1ca77b5dec3b309e5b4acc54552ad64b2c",
@@ -243,15 +252,6 @@
       "source": "GitHub Blog",
       "summary": "In April, we experienced 10 incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: April 2026 appeared first on The GitHub Blog.",
       "published": "2026-05-14T22:02:43Z"
-    },
-    {
-      "id": "27f3bc14e1aa3e39b951a6c55f93d100db7a1b96",
-      "title": "From latency to instant: Modernizing GitHub Issues navigation performance",
-      "link": "https://github.blog/engineering/architecture-optimization/from-latency-to-instant-modernizing-github-issues-navigation-performance/",
-      "source": "GitHub Blog",
-      "summary": "How the GitHub Issues team used client-side caching, smart prefetching, and service workers to make navigation feel instant. The post From latency to instant: Modernizing GitHub Issues navigation performance appeared first on The GitHub Blog.",
-      "published": "2026-05-14T16:00:00Z",
-      "image": "https://github.blog/wp-content/uploads/2026/05/trafficDistro.png?resize=1024%2C336"
     },
     {
       "id": "a5addf8606df3e8a369a2fc506ad4a05f7e158ef",
