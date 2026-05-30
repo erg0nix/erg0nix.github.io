@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-05-29T09:59:17.894588Z",
+  "generated_at": "2026-05-30T08:32:04.280044Z",
   "items": [
+    {
+      "id": "79ec4d272f944080c0f2b150e4ab3503b47cef92",
+      "title": "Får PC-blomster til å gro med hjernesignal",
+      "link": "https://www.kode24.no/artikkel/far-pc-blomster-til-a-gro-med-hjernesignal/264254",
+      "source": "Kode24",
+      "summary": "Oda-nettverket løfter fram forskning og kvinner som ellers ikke får så mye oppmerksomhet. – Vil vekk fra tech bros, til tech us, uttaler arrangøren.",
+      "published": "2026-05-29T13:16:47Z"
+    },
+    {
+      "id": "ba23138ebe7e093ac4618afa55557a272a264030",
+      "title": "Jobber i mannsdominert miljø: Trives blant tek-kvinner",
+      "link": "https://www.kode24.no/artikkel/jobber-i-mannsdominert-miljo-trives-blant-tek-kvinner/264278",
+      "source": "Kode24",
+      "summary": "Se bildene fra den 20. Oda-dagen! Utvikler Francesca Lumor er innom for første gang.",
+      "published": "2026-05-29T12:51:13Z"
+    },
+    {
+      "id": "d6acc9ba5629f6060f83f8f2f55b2d0af18d59ae",
+      "title": "– Et lite manifest mot perfeksjonsfellen",
+      "link": "https://www.kode24.no/artikkel/et-lite-manifest-mot-perfeksjonsfellen/264166",
+      "source": "Kode24",
+      "summary": "– Hvis jeg skal være ærlig, er det aldri hoppene som har vært den største bommerten. Det er ventingen, skriver Tom Erik Frydenlund i NovaCare om å styre en organisasjon.",
+      "published": "2026-05-29T11:00:00Z"
+    },
     {
       "id": "98e2866d972dae296c79a25b8febe3311d3edd36",
       "title": "Akademikerne enige med staten. Ingen IT-ansatte går ut i streik",
@@ -145,30 +169,6 @@
       "source": "Kode24",
       "summary": "Teleselskapet jobber med å implementere KI i en rekke kjerneprosesser. Og ser for seg at produktteam ikke vil trenge tre eller flere roller lenger.",
       "published": "2026-05-26T12:06:36Z"
-    },
-    {
-      "id": "566c222dbf658b961697e9b88fed9d460e9f7e31",
-      "title": "Datasenter i Narvik med svensk kraftavtale",
-      "link": "https://www.kode24.no/artikkel/datasenter-i-narvik-med-svensk-kraftavtale/263888",
-      "source": "Kode24",
-      "summary": "Datasenteret utenfor Narvik skal de første årene drives med strøm fra svenske Vattenfall.",
-      "published": "2026-05-26T09:52:24Z"
-    },
-    {
-      "id": "de643b1110a91e22f1c9559718929750d23f19f4",
-      "title": "Pavens første «manifest»: Advarer mot KI og beklager slaveriet",
-      "link": "https://www.kode24.no/artikkel/pavens-forste-manifest-advarer-mot-ki-og-beklager-slaveriet/263865",
-      "source": "Kode24",
-      "summary": "Pave Leo tar til orde for å «avvæpne» kunstig intelligens (KI) og advarer om nye former for slaveri i kjølvannet av den teknologiske omveltningen.",
-      "published": "2026-05-26T06:14:26Z"
-    },
-    {
-      "id": "b1cddd8a33288945a0e9f2e455b379dce65ac5a2",
-      "title": "– Det er litt rart å være erfaren utvikler akkurat nå",
-      "link": "https://www.kode24.no/artikkel/det-er-litt-rart-a-vaere-erfaren-utvikler-akkurat-na/263571",
-      "source": "Kode24",
-      "summary": "Utvikler Long Hyunh reflekterer over den nye formen for produktivitet i KI-tiden.",
-      "published": "2026-05-26T04:00:00Z"
     },
     {
       "id": "0e8f3c738373ce68e9b46c90485119194d18620e",
