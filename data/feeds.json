@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-05-31T08:50:59.112781Z",
+  "generated_at": "2026-06-01T11:42:27.153900Z",
   "items": [
+    {
+      "id": "9a1b76402399a9b0097019205722b3a2efc1e3cd",
+      "title": "Nvida lanserer revolusjonerende PC-brikke",
+      "link": "https://www.kode24.no/artikkel/nvida-lanserer-revolusjonerende-pc-brikke/264322",
+      "source": "Kode24",
+      "summary": "Nvidia kunngjør RTX Spark på Computex 2026, og mener den er den mest effektive PC-brikken som noen gang er bygget.",
+      "published": "2026-06-01T07:03:03Z"
+    },
+    {
+      "id": "ea0af49839f2a9bcf4343f50ee8e5baec77b46da",
+      "title": "– DORA legger ansvaret på styret. Men du arver det",
+      "link": "https://www.kode24.no/artikkel/dora-legger-ansvaret-pa-styret-men-du-arver-det/263951",
+      "source": "Kode24",
+      "summary": "Utviklerne og arkitektene må rydde opp, selv om loven gjør styret og daglig leder personlig ansvarlig for digital motstandsdyktighet, ifølge Marielle Mortensdatter i CoWork.",
+      "published": "2026-06-01T04:00:00Z"
+    },
     {
       "id": "79ec4d272f944080c0f2b150e4ab3503b47cef92",
       "title": "Får PC-blomster til å gro med hjernesignal",
@@ -153,22 +169,6 @@
       "source": "Kode24",
       "summary": "Utdanning er viktig for grunnmuren, men prosjektene jeg har laget er det som faktisk har åpnet dører, sier Ukas koder Thomas Nordby Sørensen.",
       "published": "2026-05-27T06:00:00Z"
-    },
-    {
-      "id": "c727b0a913d30ab22b038416bc1747b1d599606e",
-      "title": "– Da PC-en min begynte å tegne linjer til Kina",
-      "link": "https://www.kode24.no/artikkel/da-pc-en-min-begynte-a-tegne-linjer-til-kina/263807",
-      "source": "Kode24",
-      "summary": "– Word koblet seg til Microsofts servere i Hongkong, skriver Ola Lie. Slik gikk han fram for å lage et verktøy som overvåker trafikken via PC-en hans.",
-      "published": "2026-05-27T04:00:00Z"
-    },
-    {
-      "id": "ffcce9ae6f3db0b2ef98fd47e6d1f66cc7ebe91d",
-      "title": "Telenor vurderer mindre produktteam: – En utvikler kan gjøre mer",
-      "link": "https://www.kode24.no/artikkel/telenor-vurderer-mindre-produktteam-en-utvikler-kan-gjore-mer/263879",
-      "source": "Kode24",
-      "summary": "Teleselskapet jobber med å implementere KI i en rekke kjerneprosesser. Og ser for seg at produktteam ikke vil trenge tre eller flere roller lenger.",
-      "published": "2026-05-26T12:06:36Z"
     },
     {
       "id": "0e8f3c738373ce68e9b46c90485119194d18620e",
