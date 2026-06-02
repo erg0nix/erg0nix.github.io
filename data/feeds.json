@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-06-01T11:42:27.153900Z",
+  "generated_at": "2026-06-02T10:42:46.795398Z",
   "items": [
+    {
+      "id": "23b0a03d52cf478b8ba146835eeb27fdb334ffbe",
+      "title": "Utviklere fortviler over nye GitHub Copilot-priser",
+      "link": "https://www.kode24.no/artikkel/utviklere-fortviler-over-nye-github-copilot-priser/264447",
+      "source": "Kode24",
+      "summary": "Microsoft har nå innført sin nye prismodell, som kan skape høyere regninger for mange utviklere.",
+      "published": "2026-06-02T07:47:10Z"
+    },
+    {
+      "id": "bcb4d4864afc25ff53ce131f56e85b38b69148f7",
+      "title": "Anthropic vil børsnoteres",
+      "link": "https://www.kode24.no/artikkel/anthropic-vil-borsnoteres/264413",
+      "source": "Kode24",
+      "summary": "KI-giganten Anthropic sendte mandag et utkast til å bli notert på børs i USA.",
+      "published": "2026-06-02T05:59:06Z"
+    },
+    {
+      "id": "997ee7124a718a0ba2fc70c3e6e837b6ad5b877a",
+      "title": "Eriks prosjekt tok av på Reddit: – Veldig gøy",
+      "link": "https://www.kode24.no/artikkel/eriks-prosjekt-tok-av-pa-reddit-veldig-goy/264376",
+      "source": "Kode24",
+      "summary": "– Jeg gjorde det mange utviklere gjør når de irriterer seg over et problem lenge nok: Jeg begynte å bygge løsningen selv, skriver Erik Lange om Eventclock.org.",
+      "published": "2026-06-02T03:00:00Z"
+    },
     {
       "id": "9a1b76402399a9b0097019205722b3a2efc1e3cd",
       "title": "Nvida lanserer revolusjonerende PC-brikke",
@@ -145,30 +169,6 @@
       "source": "Kode24",
       "summary": "ODA Inspiration Day samler kvinner fra hele tech-bransjen i Norge. Hvor viktig er det med en slik møteplass? Vi spør leder og utvikler Alis Wiken Wilson.",
       "published": "2026-05-27T11:33:46Z"
-    },
-    {
-      "id": "81dd546f2d0655a87065230ff7f18480f09c5d96",
-      "title": "SpaceX tildelt milliardkontrakt av USAs forsvar",
-      "link": "https://www.kode24.no/artikkel/spacex-tildelt-milliardkontrakt-av-usas-forsvar/264017",
-      "source": "Kode24",
-      "summary": "Elon Musks SpaceX har blitt tildelt en kontrakt på 2,29 milliarder dollar, tilsvarende rundt 21 milliarder norske kroner, av det amerikanske militæret.",
-      "published": "2026-05-27T10:00:04Z"
-    },
-    {
-      "id": "79bc0b5a2cc78e2c1bd14a045c144344a2eb4223",
-      "title": "Ukraina med KI-ambisjoner: Fra digital til agentisk stat",
-      "link": "https://www.kode24.no/artikkel/ukraina-med-ki-ambisjoner-fra-digital-til-agentisk-stat/263938",
-      "source": "Kode24",
-      "summary": "Ukraina lager én offentlig agent så innbyggerne skal slippe å lete etter offentlige nettsider og skjemaer. – Man skal bare skrive en chat.",
-      "published": "2026-05-27T08:32:54Z"
-    },
-    {
-      "id": "d169607d38b5a6c487e112d199afc4c0a1d7dafc",
-      "title": "– Bygg egne prosjekter",
-      "link": "https://www.kode24.no/artikkel/bygg-egne-prosjekter/263893",
-      "source": "Kode24",
-      "summary": "Utdanning er viktig for grunnmuren, men prosjektene jeg har laget er det som faktisk har åpnet dører, sier Ukas koder Thomas Nordby Sørensen.",
-      "published": "2026-05-27T06:00:00Z"
     },
     {
       "id": "0e8f3c738373ce68e9b46c90485119194d18620e",
