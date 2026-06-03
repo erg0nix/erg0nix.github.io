@@ -1,6 +1,79 @@
 {
-  "generated_at": "2026-06-02T10:42:46.795398Z",
+  "generated_at": "2026-06-03T11:06:08.139790Z",
   "items": [
+    {
+      "id": "235950dfd92eb590cb48607d5eb24b032c190dcb",
+      "title": "Google slår Microsoft blant norske IT-studenter",
+      "link": "https://www.kode24.no/artikkel/google-slar-microsoft-blant-norske-it-studenter/264530",
+      "source": "Kode24",
+      "summary": "Mens Capgemini er inne på topp ti-lista til Universum for 2026, på bekostning av Skatteetaten.",
+      "published": "2026-06-03T08:52:52Z"
+    },
+    {
+      "id": "b9e3e76ed4586f35ec09e8205f57d6d9e2b7b44e",
+      "title": "Klager inn Schibsted: – Personvern er en grunnleggende rettighet",
+      "link": "https://www.kode24.no/artikkel/klager-inn-schibsted-personvern-er-en-grunnleggende-rettighet/264578",
+      "source": "Kode24",
+      "summary": "Forbrukerrådet klager Schibsted inn til Datatilsynet, etter krav om betaling for å slippe sporing.",
+      "published": "2026-06-03T07:38:30Z"
+    },
+    {
+      "id": "1c33890d99c50e51f8bd70c9fad4073048112aa5",
+      "title": "Microsoft lover du nå kan slippe OpenClaw løs i Windows",
+      "link": "https://www.kode24.no/artikkel/microsoft-lover-du-na-kan-slippe-openclaw-los-i-windows/264545",
+      "source": "Kode24",
+      "summary": "Et nytt KI-OS, mer fokus på agenter og mer utviklerfokus i Windows: Her er fire nyheter fra årets Microsoft Build.",
+      "published": "2026-06-03T07:15:02Z"
+    },
+    {
+      "id": "f3284c10335e0225f8b2ddaf7685484b66441e43",
+      "title": "Norsk Tipping angrepet",
+      "link": "https://www.kode24.no/artikkel/norsk-tipping-angrepet/264553",
+      "source": "Kode24",
+      "summary": "DDOS-angrep skapte tregheter.",
+      "published": "2026-06-03T06:49:58Z"
+    },
+    {
+      "id": "596f1ce909a6502f160c658cb3226bb493f42855",
+      "title": "Max (28) trener i arbeidstida: – Synes det er fantastisk",
+      "link": "https://www.kode24.no/artikkel/max-28-trener-i-arbeidstida-synes-det-er-fantastisk/264360",
+      "source": "Kode24",
+      "summary": "Flere tilbyr trening i arbeidstida, men det når ikke alltid de som trenger det mest, advarer forsker i Stami.",
+      "published": "2026-06-03T03:00:00Z"
+    },
+    {
+      "id": "12c63ecc9a134d40d6871524e36e41494b98e7cf",
+      "title": "GitHub Copilot app: The agent-native desktop experience",
+      "link": "https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/",
+      "source": "GitHub Blog",
+      "summary": "At Microsoft Build 2026, GitHub introduced new tools, updates, and surfaces so agents can work the way you already work. The post GitHub Copilot app: The agent-native desktop experience appeared first on The GitHub Blog.",
+      "published": "2026-06-02T17:30:03Z",
+      "image": "https://github.blog/wp-content/uploads/2026/06/CCRPlatform_BlogImage_01.jpg?resize=1024%2C637"
+    },
+    {
+      "id": "4397800de1df8f9f58153189cc00eb9221edf205",
+      "title": "Trekker norsk bok etter KI-spor",
+      "link": "https://www.kode24.no/artikkel/trekker-norsk-bok-etter-ki-spor/264504",
+      "source": "Kode24",
+      "summary": "«Selvfølgelig – her får du teksten om kunstgressbaner og ballbinger i Norge, skrevet i samme litterære og drøftende stil som resten av prosjektet ditt.»",
+      "published": "2026-06-02T11:30:34Z"
+    },
+    {
+      "id": "bad7c25f8cdf6a9a2b686c783f2cd56dd4d9bbcf",
+      "title": "Frykter at Nito Studentene forsvinner fra Oslo",
+      "link": "https://www.kode24.no/artikkel/frykter-at-nito-studentene-forsvinner-fra-oslo/264485",
+      "source": "Kode24",
+      "summary": "Krav om å bli juridisk enhet utestenger i praksis Nito Studentene fra Oslo-universiteter, hevder studentforeningen til Khrono.",
+      "published": "2026-06-02T10:43:52Z"
+    },
+    {
+      "id": "c8f841221680cc5023f99f2e9d2b05ca259bce97",
+      "title": "Vet ikke når norsk helse-chat er på plass: – Tidkrevende",
+      "link": "https://www.kode24.no/artikkel/vet-ikke-nar-norsk-helse-chat-er-pa-plass-tidkrevende/264326",
+      "source": "Kode24",
+      "summary": "1. juni fikk Helsenorge-appen et KI-søk, som første steg på veien til en mulig offentlig helse-chat. – Må gå stegvis frem, mener Norsk helsenett.",
+      "published": "2026-06-02T09:57:24Z"
+    },
     {
       "id": "23b0a03d52cf478b8ba146835eeb27fdb334ffbe",
       "title": "Utviklere fortviler over nye GitHub Copilot-priser",
@@ -107,70 +180,6 @@
       "image": "https://github.blog/wp-content/uploads/2026/05/Blog_Image_02.png?resize=1024%2C576"
     },
     {
-      "id": "d485b45ca9115937b3a30ce0ea76b512977b38b1",
-      "title": "Tek Norge vil ha mer KI i bedriftene. Tekna advarer mot tvang",
-      "link": "https://www.kode24.no/artikkel/tek-norge-vil-ha-mer-ki-i-bedriftene-tekna-advarer-mot-tvang/263805",
-      "source": "Kode24",
-      "summary": "Norge faller bakpå i KI-bruk i forhold til resten av Norden. – KI bør brukes der det er lurt, og ikke bare «mest mulig», svarer Tekna.",
-      "published": "2026-05-28T11:00:00Z"
-    },
-    {
-      "id": "27accdb33911487c64262197f9546ce0dfeb876a",
-      "title": "Dropper aldersgrense-gebyr etter EØS-kritikk",
-      "link": "https://www.kode24.no/artikkel/dropper-aldersgrense-gebyr-etter-eos-kritikk/264148",
-      "source": "Kode24",
-      "summary": "Regjeringen foreslo i fjor en lov som skulle tvinge tech-selskapene til å innføre aldersgrenser i Norge. Nå er pålegget mot selskapene borte fra forslaget.",
-      "published": "2026-05-28T10:54:19Z"
-    },
-    {
-      "id": "922224318b70796e3348695cace25b6fe91c4285",
-      "title": "Tekniske problemer i DNB – rettet",
-      "link": "https://www.kode24.no/artikkel/tekniske-problemer-i-dnb-rettet/264111",
-      "source": "Kode24",
-      "summary": "Flere banker har driftsproblemer torsdag formiddag. DNB melder om at feilen er rettet.",
-      "published": "2026-05-28T08:45:15Z"
-    },
-    {
-      "id": "a66c2150cb7e75bff4142e87a00745b292cea191",
-      "title": "Tekna tar ut 176 ansatte i staten ved en streik",
-      "link": "https://www.kode24.no/artikkel/tekna-tar-ut-176-ansatte-i-staten-ved-en-streik/264093",
-      "source": "Kode24",
-      "summary": "Digitaliseringsdepartementet er blant de som blir rammet dersom det ikke blir en løsning før fredag.",
-      "published": "2026-05-28T07:54:39Z"
-    },
-    {
-      "id": "23064f12dfa27360dd48ffbde29901e2d082a5f9",
-      "title": "Utvikleren skal gi ut musikk etter The Voice",
-      "link": "https://www.kode24.no/artikkel/utvikleren-skal-gi-ut-musikk-etter-the-voice/264073",
-      "source": "Kode24",
-      "summary": "Trym Bjønnes røyk ut av semifinalen i The Voice. Nå er det tilbake til utviklerjobben, men 44-åringen vil jobbe litt redusert fremover for å kunne gi ut ny musikk.",
-      "published": "2026-05-28T07:18:24Z"
-    },
-    {
-      "id": "0d57380ef710e0e27cc4e431b413959bfc275b5b",
-      "title": "Om KI-debatten: – Det skal ikke være noen stor skam å snu",
-      "link": "https://www.kode24.no/artikkel/om-ki-debatten-det-skal-ikke-vaere-noen-stor-skam-a-snu/263831",
-      "source": "Kode24",
-      "summary": "Michael Odden reagerer på skyttergravene i KI-debatten blant utviklere. – Kanskje er ikke alle som er uenige med deg dum, ludditt eller teknofascist, skriver han.",
-      "published": "2026-05-28T04:00:00Z"
-    },
-    {
-      "id": "b446fe4f95035458e39e1e8b027f4db1cb6304ac",
-      "title": "Helseplattformen består. Professor etterlyste bruker-perspektivet",
-      "link": "https://www.kode24.no/artikkel/helseplattformen-bestar-professor-etterlyste-bruker-perspektivet/264038",
-      "source": "Kode24",
-      "summary": "MDG og Frp fikk ikke med seg flertallet i Stortinget på å finne alternativer til den omstridte helsetjenesten i Midt-Norge.",
-      "published": "2026-05-27T14:32:58Z"
-    },
-    {
-      "id": "788596220ce2cd5b233a184dba2e85c8934e9af0",
-      "title": "Fyller Oslo Konserthus med tech-kvinner: – Handler om tilhørighet",
-      "link": "https://www.kode24.no/artikkel/fyller-oslo-konserthus-med-tech-kvinner-handler-om-tilhorighet/263999",
-      "source": "Kode24",
-      "summary": "ODA Inspiration Day samler kvinner fra hele tech-bransjen i Norge. Hvor viktig er det med en slik møteplass? Vi spør leder og utvikler Alis Wiken Wilson.",
-      "published": "2026-05-27T11:33:46Z"
-    },
-    {
       "id": "0e8f3c738373ce68e9b46c90485119194d18620e",
       "title": "GitHub for Beginners: Getting started with Git and GitHub in VS Code",
       "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-git-and-github-in-vs-code/",
@@ -244,14 +253,6 @@
       "source": "GitHub Blog",
       "summary": "We're updating our bug bounty program standards to prioritize quality submissions, clarify shared responsibility boundaries, and evolve how we reward low-risk findings. The post Raising the bar: Quality, shared responsibility, and the future of GitHub’s bug bounty program appeared first on The...",
       "published": "2026-05-15T14:00:00Z"
-    },
-    {
-      "id": "b42fa6285dbb3f54e308a4a4e96cddad1a426878",
-      "title": "GitHub availability report: April 2026",
-      "link": "https://github.blog/news-insights/company-news/github-availability-report-april-2026/",
-      "source": "GitHub Blog",
-      "summary": "In April, we experienced 10 incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: April 2026 appeared first on The GitHub Blog.",
-      "published": "2026-05-14T22:02:43Z"
     },
     {
       "id": "a5addf8606df3e8a369a2fc506ad4a05f7e158ef",
