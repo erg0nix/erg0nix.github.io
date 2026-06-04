@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-06-03T11:06:08.139790Z",
+  "generated_at": "2026-06-04T10:00:56.331859Z",
   "items": [
+    {
+      "id": "0a0dc05da74f51e0a17cd2a5ad106ff01030bcf5",
+      "title": "Norsk Tipping angrepet for andre gang denne uka",
+      "link": "https://www.kode24.no/artikkel/norsk-tipping-angrepet-for-andre-gang-denne-uka/264674",
+      "source": "Kode24",
+      "summary": "Ble DDOS-et både tirsdag og onsdag.",
+      "published": "2026-06-04T06:35:03Z"
+    },
+    {
+      "id": "701f6e488da21000fe884c87c226df838cb697f9",
+      "title": "Telia- og Ice-feil lot svindlere tjuvlåne nummeret ditt",
+      "link": "https://www.kode24.no/artikkel/telia-og-ice-feil-lot-svindlere-tjuvlane-nummeret-ditt/264664",
+      "source": "Kode24",
+      "summary": "\"Spoofing\" skulle ikke være mulig, men var det likevel, melder NRK.",
+      "published": "2026-06-04T06:29:20Z"
+    },
+    {
+      "id": "67ba9cd2b444d2a402b40974a3ce526f9820bf29",
+      "title": "Fortviler over Altinn-overgang: – Vi er fortsatt bekymret og spente",
+      "link": "https://www.kode24.no/artikkel/fortviler-over-altinn-overgang-vi-er-fortsatt-bekymret-og-spente/262908",
+      "source": "Kode24",
+      "summary": "Regnskap Norge sendte i vår inn en «alvorlig bekymringsmelding» om for brå overgang fra Altinn 2 til Altinn 3. Enkelte har fått midlertidige overgangsløsninger, svarer statsråden.",
+      "published": "2026-06-04T03:00:00Z"
+    },
+    {
+      "id": "609d83a9501e9d0a710bf32a3445e5ad6b163422",
+      "title": "Er JavaScript-animasjoner tregere enn CSS-animasjoner?",
+      "link": "https://www.kode24.no/artikkel/er-javascript-animasjoner-tregere-enn-css-animasjoner/264453",
+      "source": "Kode24",
+      "summary": "CSS vs. JavaScript, komponentarkitektur for React Server Components og npm strammer til forsyningskjeden, i ukas ForrigeUke.",
+      "published": "2026-06-03T10:50:38Z"
+    },
     {
       "id": "235950dfd92eb590cb48607d5eb24b032c190dcb",
       "title": "Google slår Microsoft blant norske IT-studenter",
@@ -137,38 +169,6 @@
       "source": "Kode24",
       "summary": "– Hvis jeg skal være ærlig, er det aldri hoppene som har vært den største bommerten. Det er ventingen, skriver Tom Erik Frydenlund i NovaCare om å styre en organisasjon.",
       "published": "2026-05-29T11:00:00Z"
-    },
-    {
-      "id": "98e2866d972dae296c79a25b8febe3311d3edd36",
-      "title": "Akademikerne enige med staten. Ingen IT-ansatte går ut i streik",
-      "link": "https://www.kode24.no/artikkel/akademikerne-enige-med-staten-ingen-it-ansatte-gar-ut-i-streik/264240",
-      "source": "Kode24",
-      "summary": "Tekna stod klare ti lå ta ut 176 statsansatte. Nå slipper de å streike. – Vi har fått gjennomslag, sier Akademikerne.",
-      "published": "2026-05-29T09:34:25Z"
-    },
-    {
-      "id": "bc977bfdfac2f02656040070fb0f0edff3b0ee04",
-      "title": "Professor er positiv til én offentlig KI-chat: – Gigantisk IT-prosjekt",
-      "link": "https://www.kode24.no/artikkel/professor-er-positiv-til-en-offentlig-ki-chat-gigantisk-it-prosjekt/264063",
-      "source": "Kode24",
-      "summary": "Digitaliseringsministeren holder fast på Altinn og Helsenorge, og vil ikke kopiere Ukrainas samling av alle offentlige tjenester til én KI-chat. – Teknisk er det gjørbart, kontrer KI-professor.",
-      "published": "2026-05-29T08:00:00Z"
-    },
-    {
-      "id": "55c27c6d3c4123253a532d26d4534750569278f4",
-      "title": "Spielberg om KI-bruk: – Ikke la den ha siste ordet",
-      "link": "https://www.kode24.no/artikkel/spielberg-om-ki-bruk-ikke-la-den-ha-siste-ordet/264225",
-      "source": "Kode24",
-      "summary": "Steven Spielberg går ut mot bruken av kunstig intelligens i filmproduksjon i podkasten til Michelle Obama.",
-      "published": "2026-05-29T05:48:50Z"
-    },
-    {
-      "id": "bfc1de904960da83a221c340b71f858b81e07d99",
-      "title": "Sam Altman avlyser jobb-apokalypsen",
-      "link": "https://www.kode24.no/artikkel/sam-altman-avlyser-jobb-apokalypsen/264127",
-      "source": "Kode24",
-      "summary": "– I 2016 tenkte jeg stadig vekk at vi var altfor mange utviklere på jobb. Nå tenker jeg at vi kanskje er litt for få, forteller Jørgen i kode24.",
-      "published": "2026-05-29T04:00:00Z"
     },
     {
       "id": "7d34cb8e1d450de0aa394f77055dde96091158fc",
