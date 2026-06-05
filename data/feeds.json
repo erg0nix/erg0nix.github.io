@@ -1,6 +1,70 @@
 {
-  "generated_at": "2026-06-04T10:00:56.331859Z",
+  "generated_at": "2026-06-05T09:58:01.258407Z",
   "items": [
+    {
+      "id": "1c7e1ba1b18c9d17c5de47914234fb9ebe21b894",
+      "title": "Bemanner opp for å bistå når Altinn 2 slukkes",
+      "link": "https://www.kode24.no/artikkel/bemanner-opp-for-a-bista-nar-altinn-2-slukkes/264790",
+      "source": "Kode24",
+      "summary": "Digitaliseringsdirektoratet forbereder seg på trøbbel når alle må over på ny plattform. – Helt nødvendig.",
+      "published": "2026-06-05T07:56:59Z"
+    },
+    {
+      "id": "e7d86f556791b84c880f2bab2369616af1919c8d",
+      "title": "Anthropic advarer: KI blir smartere, uten hjelp fra mennesker",
+      "link": "https://www.kode24.no/artikkel/anthropic-advarer-ki-blir-smartere-uten-hjelp-fra-mennesker/264811",
+      "source": "Kode24",
+      "summary": "KI-selskapet Anthropic ber om en pause i utviklingen av de kraftigste KI-modellene, fordi det er tegn til at de begynner å bli smartere uten menneskers hjelp.",
+      "published": "2026-06-05T06:13:10Z"
+    },
+    {
+      "id": "17cf0ed1bcf5a6c86baef107bfd2f90c45ceef09",
+      "title": "– Takk Gud for dyrere KI",
+      "link": "https://www.kode24.no/artikkel/takk-gud-for-dyrere-ki/264765",
+      "source": "Kode24",
+      "summary": "– Kostnaden på KI må speile kostnadene KI har på verden, skriver Ole Petter i ukas nyhetsbrev.",
+      "published": "2026-06-05T03:00:00Z"
+    },
+    {
+      "id": "435a8429c18e0a6483dfbbc071731713f6926fe3",
+      "title": "– Snakk med sjefen om fotball-VM nå!",
+      "link": "https://www.kode24.no/artikkel/snakk-med-sjefen-om-fotball-vm-na/264749",
+      "source": "Kode24",
+      "summary": "Selv om VM er ekstraordinært, er ikke arbeidslivet satt på pause. Eksperter råder deg til å snakke med sjefen allerede nå.",
+      "published": "2026-06-05T02:55:00Z"
+    },
+    {
+      "id": "cc2e5061e1650625eb63b62a82d70ae15b42100f",
+      "title": "GitHub Universe is back: All together now, in the agentic era",
+      "link": "https://github.blog/news-insights/company-news/github-universe-is-back-all-together-now-in-the-agentic-era/",
+      "source": "GitHub Blog",
+      "summary": "GitHub Universe is back: returning to the historic Fort Mason Center in San Francisco on October 28–29, 2026. The post GitHub Universe is back: All together now, in the agentic era appeared first on The GitHub Blog.",
+      "published": "2026-06-04T16:00:00Z"
+    },
+    {
+      "id": "e40e1debe1db6705936d3af0c0582fc1d44d1d46",
+      "title": "Testet KI på 35 oppgaver: Mindre effektivt enn ventet",
+      "link": "https://www.kode24.no/artikkel/testet-ki-pa-35-oppgaver-mindre-effektivt-enn-ventet/264685",
+      "source": "Kode24",
+      "summary": "Ni ansatte i Teknologirådet erfarte at KI-verktøy hadde liten effekt på produktivitet, relevans og kvalitet.",
+      "published": "2026-06-04T11:40:39Z"
+    },
+    {
+      "id": "b145d23af67eb52860434c4a6c4e5611c48dafb4",
+      "title": "Nav må betale tre til fire ganger mer for sine 600 Copilot-brukere",
+      "link": "https://www.kode24.no/artikkel/nav-ma-betale-tre-til-fire-ganger-mer-for-sine-600-copilot-brukere/264699",
+      "source": "Kode24",
+      "summary": "– Jeg tror det er trygt å si at tida for KI på tilbud er over, sier plattformutvikler Hans Kristian Flaatten i Nav, etter GitHub Copilot-prisendring.",
+      "published": "2026-06-04T08:41:10Z"
+    },
+    {
+      "id": "0d3a1ba0fdbaba4176b2f8e3e4653f9edc35a2db",
+      "title": "Elkjøp får 20 millioner i gebyr fra Datatilsynet",
+      "link": "https://www.kode24.no/artikkel/elkjop-far-20-millioner-i-gebyr-fra-datatilsynet/264719",
+      "source": "Kode24",
+      "summary": "Mener de brøt personvernreglene for kundeklubben med seks millioner medlemmer.",
+      "published": "2026-06-04T08:31:37Z"
+    },
     {
       "id": "0a0dc05da74f51e0a17cd2a5ad106ff01030bcf5",
       "title": "Norsk Tipping angrepet for andre gang denne uka",
@@ -115,62 +179,6 @@
       "published": "2026-06-02T07:47:10Z"
     },
     {
-      "id": "bcb4d4864afc25ff53ce131f56e85b38b69148f7",
-      "title": "Anthropic vil børsnoteres",
-      "link": "https://www.kode24.no/artikkel/anthropic-vil-borsnoteres/264413",
-      "source": "Kode24",
-      "summary": "KI-giganten Anthropic sendte mandag et utkast til å bli notert på børs i USA.",
-      "published": "2026-06-02T05:59:06Z"
-    },
-    {
-      "id": "997ee7124a718a0ba2fc70c3e6e837b6ad5b877a",
-      "title": "Eriks prosjekt tok av på Reddit: – Veldig gøy",
-      "link": "https://www.kode24.no/artikkel/eriks-prosjekt-tok-av-pa-reddit-veldig-goy/264376",
-      "source": "Kode24",
-      "summary": "– Jeg gjorde det mange utviklere gjør når de irriterer seg over et problem lenge nok: Jeg begynte å bygge løsningen selv, skriver Erik Lange om Eventclock.org.",
-      "published": "2026-06-02T03:00:00Z"
-    },
-    {
-      "id": "9a1b76402399a9b0097019205722b3a2efc1e3cd",
-      "title": "Nvida lanserer revolusjonerende PC-brikke",
-      "link": "https://www.kode24.no/artikkel/nvida-lanserer-revolusjonerende-pc-brikke/264322",
-      "source": "Kode24",
-      "summary": "Nvidia kunngjør RTX Spark på Computex 2026, og mener den er den mest effektive PC-brikken som noen gang er bygget.",
-      "published": "2026-06-01T07:03:03Z"
-    },
-    {
-      "id": "ea0af49839f2a9bcf4343f50ee8e5baec77b46da",
-      "title": "– DORA legger ansvaret på styret. Men du arver det",
-      "link": "https://www.kode24.no/artikkel/dora-legger-ansvaret-pa-styret-men-du-arver-det/263951",
-      "source": "Kode24",
-      "summary": "Utviklerne og arkitektene må rydde opp, selv om loven gjør styret og daglig leder personlig ansvarlig for digital motstandsdyktighet, ifølge Marielle Mortensdatter i CoWork.",
-      "published": "2026-06-01T04:00:00Z"
-    },
-    {
-      "id": "79ec4d272f944080c0f2b150e4ab3503b47cef92",
-      "title": "Får PC-blomster til å gro med hjernesignal",
-      "link": "https://www.kode24.no/artikkel/far-pc-blomster-til-a-gro-med-hjernesignal/264254",
-      "source": "Kode24",
-      "summary": "Oda-nettverket løfter fram forskning og kvinner som ellers ikke får så mye oppmerksomhet. – Vil vekk fra tech bros, til tech us, uttaler arrangøren.",
-      "published": "2026-05-29T13:16:47Z"
-    },
-    {
-      "id": "ba23138ebe7e093ac4618afa55557a272a264030",
-      "title": "Jobber i mannsdominert miljø: Trives blant tek-kvinner",
-      "link": "https://www.kode24.no/artikkel/jobber-i-mannsdominert-miljo-trives-blant-tek-kvinner/264278",
-      "source": "Kode24",
-      "summary": "Se bildene fra den 20. Oda-dagen! Utvikler Francesca Lumor er innom for første gang.",
-      "published": "2026-05-29T12:51:13Z"
-    },
-    {
-      "id": "d6acc9ba5629f6060f83f8f2f55b2d0af18d59ae",
-      "title": "– Et lite manifest mot perfeksjonsfellen",
-      "link": "https://www.kode24.no/artikkel/et-lite-manifest-mot-perfeksjonsfellen/264166",
-      "source": "Kode24",
-      "summary": "– Hvis jeg skal være ærlig, er det aldri hoppene som har vært den største bommerten. Det er ventingen, skriver Tom Erik Frydenlund i NovaCare om å styre en organisasjon.",
-      "published": "2026-05-29T11:00:00Z"
-    },
-    {
       "id": "7d34cb8e1d450de0aa394f77055dde96091158fc",
       "title": "Still a developer. Just outside. Our latest GitHub Shop collection is here.",
       "link": "https://github.blog/news-insights/company-news/still-a-developer-just-outside-our-latest-github-shop-collection-is-here/",
@@ -245,14 +253,6 @@
       "summary": "Learn about the experimental general-purpose accessibility agent that GitHub is piloting. The post Building a general-purpose accessibility agent—and what we learned in the process appeared first on The GitHub Blog.",
       "published": "2026-05-15T16:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2026/05/image1.png?resize=1024%2C908"
-    },
-    {
-      "id": "747595adb92aa17ad4f63f62500114cfefaff496",
-      "title": "Raising the bar: Quality, shared responsibility, and the future of GitHub’s bug bounty program",
-      "link": "https://github.blog/security/raising-the-bar-quality-shared-responsibility-and-the-future-of-githubs-bug-bounty-program/",
-      "source": "GitHub Blog",
-      "summary": "We're updating our bug bounty program standards to prioritize quality submissions, clarify shared responsibility boundaries, and evolve how we reward low-risk findings. The post Raising the bar: Quality, shared responsibility, and the future of GitHub’s bug bounty program appeared first on The...",
-      "published": "2026-05-15T14:00:00Z"
     },
     {
       "id": "a5addf8606df3e8a369a2fc506ad4a05f7e158ef",
