@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-06-05T09:58:01.258407Z",
+  "generated_at": "2026-06-06T08:38:14.914720Z",
   "items": [
+    {
+      "id": "61abbc9bffdce7c1b806f73d62a0293435c6a30e",
+      "title": "Rock & React: – Dette vil skille de gode fra resten",
+      "link": "https://www.kode24.no/artikkel/rock-react-dette-vil-skille-de-gode-fra-resten/264836",
+      "source": "Kode24",
+      "summary": "Det er fortsatt et poeng å gå på fagkonferanser, mener arrangøren av årets React Norway på Rockefeller.",
+      "published": "2026-06-05T13:40:00Z"
+    },
+    {
+      "id": "361cf78bcba199828e7335f7a84f30b978d7ff7d",
+      "title": "Norsk Tipping utsatt for nok et hackerangrep",
+      "link": "https://www.kode24.no/artikkel/norsk-tipping-utsatt-for-nok-et-hackerangrep/264880",
+      "source": "Kode24",
+      "summary": "Fredag ble Norsk Tipping sine tjenester utsatt for et tredje hackerangrep denne uken.",
+      "published": "2026-06-05T12:52:46Z"
+    },
+    {
+      "id": "c10492f0a4295aec94c174e32474966cf3c5fe1a",
+      "title": "– Vi har en tendens til å kaste KI på de fleste problemstillinger",
+      "link": "https://www.kode24.no/artikkel/vi-har-en-tendens-til-a-kaste-ki-pa-de-fleste-problemstillinger/264422",
+      "source": "Kode24",
+      "summary": "– Jeg mener det er viktig at vi fremover bruker KI mer bærekraftig, sier Ukas Koder, Åsne Stige.",
+      "published": "2026-06-05T12:00:00Z"
+    },
     {
       "id": "1c7e1ba1b18c9d17c5de47914234fb9ebe21b894",
       "title": "Bemanner opp for å bistå når Altinn 2 slukkes",
@@ -153,30 +177,6 @@
       "source": "Kode24",
       "summary": "«Selvfølgelig – her får du teksten om kunstgressbaner og ballbinger i Norge, skrevet i samme litterære og drøftende stil som resten av prosjektet ditt.»",
       "published": "2026-06-02T11:30:34Z"
-    },
-    {
-      "id": "bad7c25f8cdf6a9a2b686c783f2cd56dd4d9bbcf",
-      "title": "Frykter at Nito Studentene forsvinner fra Oslo",
-      "link": "https://www.kode24.no/artikkel/frykter-at-nito-studentene-forsvinner-fra-oslo/264485",
-      "source": "Kode24",
-      "summary": "Krav om å bli juridisk enhet utestenger i praksis Nito Studentene fra Oslo-universiteter, hevder studentforeningen til Khrono.",
-      "published": "2026-06-02T10:43:52Z"
-    },
-    {
-      "id": "c8f841221680cc5023f99f2e9d2b05ca259bce97",
-      "title": "Vet ikke når norsk helse-chat er på plass: – Tidkrevende",
-      "link": "https://www.kode24.no/artikkel/vet-ikke-nar-norsk-helse-chat-er-pa-plass-tidkrevende/264326",
-      "source": "Kode24",
-      "summary": "1. juni fikk Helsenorge-appen et KI-søk, som første steg på veien til en mulig offentlig helse-chat. – Må gå stegvis frem, mener Norsk helsenett.",
-      "published": "2026-06-02T09:57:24Z"
-    },
-    {
-      "id": "23b0a03d52cf478b8ba146835eeb27fdb334ffbe",
-      "title": "Utviklere fortviler over nye GitHub Copilot-priser",
-      "link": "https://www.kode24.no/artikkel/utviklere-fortviler-over-nye-github-copilot-priser/264447",
-      "source": "Kode24",
-      "summary": "Microsoft har nå innført sin nye prismodell, som kan skape høyere regninger for mange utviklere.",
-      "published": "2026-06-02T07:47:10Z"
     },
     {
       "id": "7d34cb8e1d450de0aa394f77055dde96091158fc",
