@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-06-07T09:19:10.888130Z",
+  "generated_at": "2026-06-08T11:03:32.616288Z",
   "items": [
+    {
+      "id": "0102d2a6542826e0c4f75c9c84d0a8f8ba2736d4",
+      "title": "Utvikler slipper å bruke KI på religiøst grunnlag",
+      "link": "https://www.kode24.no/artikkel/utvikler-slipper-a-bruke-ki-pa-religiost-grunnlag/264918",
+      "source": "Kode24",
+      "summary": "Pavens KI-brev kan gi flere grunnlag for å søke om det samme.",
+      "published": "2026-06-08T08:27:17Z"
+    },
+    {
+      "id": "a223c15b557188d6d03503e7a626cd9ea3b38977",
+      "title": "Telenor kjøper GlobalConnect",
+      "link": "https://www.kode24.no/artikkel/telenor-kjoper-globalconnect/264928",
+      "source": "Kode24",
+      "summary": "De 125.000 fiberkundene til GlobalConnect blir snart Telenor-kunder, etter at Konkurransetilsynet gir grønt lys.",
+      "published": "2026-06-08T07:46:59Z"
+    },
+    {
+      "id": "2cd18dbac2b5d3b8f54736aec30f418e19a3b861",
+      "title": "Sjefer er mer glade i KI enn de ansatte",
+      "link": "https://www.kode24.no/artikkel/sjefer-er-mer-glade-i-ki-enn-de-ansatte/264908",
+      "source": "Kode24",
+      "summary": "Ledelsen både bruker mer KI, og er mer fornøyd med den, viser ny rapport.",
+      "published": "2026-06-08T06:45:00Z"
+    },
+    {
+      "id": "d365327d362e2fd248a8a52d9285cce324e425b0",
+      "title": "Sommertid i staten: – Har ikke så stor betydning lenger",
+      "link": "https://www.kode24.no/artikkel/sommertid-i-staten-har-ikke-sa-stor-betydning-lenger/264451",
+      "source": "Kode24",
+      "summary": "Sommertid gjør at mange jobber kortere dager hele sommeren. Direktøren i Nav trodde det var tull, men ordningen kan høres bedre ut enn den er.",
+      "published": "2026-06-08T03:00:00Z"
+    },
     {
       "id": "61abbc9bffdce7c1b806f73d62a0293435c6a30e",
       "title": "Rock & React: – Dette vil skille de gode fra resten",
@@ -138,30 +170,6 @@
       "published": "2026-06-03T07:38:30Z"
     },
     {
-      "id": "1c33890d99c50e51f8bd70c9fad4073048112aa5",
-      "title": "Microsoft lover du nå kan slippe OpenClaw løs i Windows",
-      "link": "https://www.kode24.no/artikkel/microsoft-lover-du-na-kan-slippe-openclaw-los-i-windows/264545",
-      "source": "Kode24",
-      "summary": "Et nytt KI-OS, mer fokus på agenter og mer utviklerfokus i Windows: Her er fire nyheter fra årets Microsoft Build.",
-      "published": "2026-06-03T07:15:02Z"
-    },
-    {
-      "id": "f3284c10335e0225f8b2ddaf7685484b66441e43",
-      "title": "Norsk Tipping angrepet",
-      "link": "https://www.kode24.no/artikkel/norsk-tipping-angrepet/264553",
-      "source": "Kode24",
-      "summary": "DDOS-angrep skapte tregheter.",
-      "published": "2026-06-03T06:49:58Z"
-    },
-    {
-      "id": "596f1ce909a6502f160c658cb3226bb493f42855",
-      "title": "Max (28) trener i arbeidstida: – Synes det er fantastisk",
-      "link": "https://www.kode24.no/artikkel/max-28-trener-i-arbeidstida-synes-det-er-fantastisk/264360",
-      "source": "Kode24",
-      "summary": "Flere tilbyr trening i arbeidstida, men det når ikke alltid de som trenger det mest, advarer forsker i Stami.",
-      "published": "2026-06-03T03:00:00Z"
-    },
-    {
       "id": "12c63ecc9a134d40d6871524e36e41494b98e7cf",
       "title": "GitHub Copilot app: The agent-native desktop experience",
       "link": "https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/",
@@ -169,14 +177,6 @@
       "summary": "At Microsoft Build 2026, GitHub introduced new tools, updates, and surfaces so agents can work the way you already work. The post GitHub Copilot app: The agent-native desktop experience appeared first on The GitHub Blog.",
       "published": "2026-06-02T17:30:03Z",
       "image": "https://github.blog/wp-content/uploads/2026/06/CCRPlatform_BlogImage_01.jpg?resize=1024%2C637"
-    },
-    {
-      "id": "4397800de1df8f9f58153189cc00eb9221edf205",
-      "title": "Trekker norsk bok etter KI-spor",
-      "link": "https://www.kode24.no/artikkel/trekker-norsk-bok-etter-ki-spor/264504",
-      "source": "Kode24",
-      "summary": "«Selvfølgelig – her får du teksten om kunstgressbaner og ballbinger i Norge, skrevet i samme litterære og drøftende stil som resten av prosjektet ditt.»",
-      "published": "2026-06-02T11:30:34Z"
     },
     {
       "id": "7d34cb8e1d450de0aa394f77055dde96091158fc",
