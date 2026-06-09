@@ -1,6 +1,70 @@
 {
-  "generated_at": "2026-06-08T11:03:32.616288Z",
+  "generated_at": "2026-06-09T09:52:21.322472Z",
   "items": [
+    {
+      "id": "6d6e0234f034db41e435a3109f72ff6e5b68db85",
+      "title": "WWDC26: Gir utviklere gratis KI-bruk i appene deres",
+      "link": "https://www.kode24.no/artikkel/wwdc26-gir-utviklere-gratis-ki-bruk-i-appene-deres/265079",
+      "source": "Kode24",
+      "summary": "Mens brukerne får Siri AI, får utviklere tilgang på KI uten kostnad. Her er nyhetene fra Apples Word Wide Developers Conference 2026.",
+      "published": "2026-06-09T08:22:26Z"
+    },
+    {
+      "id": "ce2ee72a1facc7c5b2d590a5dac7b13b02b28f25",
+      "title": "VM-fotballen sender data 500 ganger i sekundet",
+      "link": "https://www.kode24.no/artikkel/vm-fotballen-sender-data-500-ganger-i-sekundet/265081",
+      "source": "Kode24",
+      "summary": "Sensorer i ballen, kameraer på dommerne – BBC har besøkt Fifas hovedkontor i Zürich for å se på teknologien som benyttes under mesterskapet.",
+      "published": "2026-06-09T07:32:01Z"
+    },
+    {
+      "id": "eb47968ded0a9706bbbcb6e4d549561c8bfcd1e0",
+      "title": "OpenAI søker om å komme på børs",
+      "link": "https://www.kode24.no/artikkel/openai-soker-om-a-komme-pa-bors/265066",
+      "source": "Kode24",
+      "summary": "– Men det kan ta noe tid, advarer Sam Altman.",
+      "published": "2026-06-09T06:32:55Z"
+    },
+    {
+      "id": "b1651b6a4a4d6092cbf37eddc3eee34f1614447f",
+      "title": "– Vibbemanns­-blod kan ein lukte milevis",
+      "link": "https://www.kode24.no/artikkel/vibbemanns-blod-kan-ein-lukte-milevis/264631",
+      "source": "Kode24",
+      "summary": "Tor Gjøsæter fant \"vidåpne\" hull i en norsk, vibbekoda app med Claude, og viser deg hvordan.",
+      "published": "2026-06-09T03:00:00Z"
+    },
+    {
+      "id": "19cba630e695086263bbc7f48d31f9cb850755e5",
+      "title": "GitHub for Beginners: Answers to some common questions",
+      "link": "https://github.blog/developer-skills/github/github-for-beginners-answers-to-some-common-questions/",
+      "source": "GitHub Blog",
+      "summary": "Find the answers to some of the most common GitHub-related questions. The post GitHub for Beginners: Answers to some common questions appeared first on The GitHub Blog.",
+      "published": "2026-06-08T16:00:00Z"
+    },
+    {
+      "id": "4b4781c3c6834e1d4fc8cfbeb1d7e2de138e2b25",
+      "title": "Flere banker sliter fordi Tieto har trøbbel",
+      "link": "https://www.kode24.no/artikkel/flere-banker-sliter-fordi-tieto-har-trobbel/265025",
+      "source": "Kode24",
+      "summary": "– Vi har ikke detaljene på hvor mange kunder som er rammet, men det er klart at det dreier seg om et stort antall.",
+      "published": "2026-06-08T13:09:23Z"
+    },
+    {
+      "id": "35f2b546fbf7754eef5417e65e6fd07affc4f49e",
+      "title": "Ga opp Microsoft-exit etter «komplekse avhengigheter»",
+      "link": "https://www.kode24.no/artikkel/ga-opp-microsoft-exit-etter-komplekse-avhengigheter/264936",
+      "source": "Kode24",
+      "summary": "Danske kommuner har testet alternativer til Big Tech, med tyske Nextcloud på toppen av lista. Men ikke alle kom i mål, melder Digi.",
+      "published": "2026-06-08T11:04:14Z"
+    },
+    {
+      "id": "8d173407ea289691834360633c1dc38c749c97fc",
+      "title": "Donerer til open source, ber deg gjøre det samme",
+      "link": "https://www.kode24.no/artikkel/donerer-til-open-source-ber-deg-gjore-det-samme/264634",
+      "source": "Kode24",
+      "summary": "– Hvis du bygger inntekt på åpen kildekode, er det vanskelig å argumentere for at du ikke har noen forpliktelser, skriver Eirik Hodne i Geodata, som nå betaler for seg.",
+      "published": "2026-06-08T10:24:00Z"
+    },
     {
       "id": "0102d2a6542826e0c4f75c9c84d0a8f8ba2736d4",
       "title": "Utvikler slipper å bruke KI på religiøst grunnlag",
@@ -114,62 +178,6 @@
       "published": "2026-06-04T08:41:10Z"
     },
     {
-      "id": "0d3a1ba0fdbaba4176b2f8e3e4653f9edc35a2db",
-      "title": "Elkjøp får 20 millioner i gebyr fra Datatilsynet",
-      "link": "https://www.kode24.no/artikkel/elkjop-far-20-millioner-i-gebyr-fra-datatilsynet/264719",
-      "source": "Kode24",
-      "summary": "Mener de brøt personvernreglene for kundeklubben med seks millioner medlemmer.",
-      "published": "2026-06-04T08:31:37Z"
-    },
-    {
-      "id": "0a0dc05da74f51e0a17cd2a5ad106ff01030bcf5",
-      "title": "Norsk Tipping angrepet for andre gang denne uka",
-      "link": "https://www.kode24.no/artikkel/norsk-tipping-angrepet-for-andre-gang-denne-uka/264674",
-      "source": "Kode24",
-      "summary": "Ble DDOS-et både tirsdag og onsdag.",
-      "published": "2026-06-04T06:35:03Z"
-    },
-    {
-      "id": "701f6e488da21000fe884c87c226df838cb697f9",
-      "title": "Telia- og Ice-feil lot svindlere tjuvlåne nummeret ditt",
-      "link": "https://www.kode24.no/artikkel/telia-og-ice-feil-lot-svindlere-tjuvlane-nummeret-ditt/264664",
-      "source": "Kode24",
-      "summary": "\"Spoofing\" skulle ikke være mulig, men var det likevel, melder NRK.",
-      "published": "2026-06-04T06:29:20Z"
-    },
-    {
-      "id": "67ba9cd2b444d2a402b40974a3ce526f9820bf29",
-      "title": "Fortviler over Altinn-overgang: – Vi er fortsatt bekymret og spente",
-      "link": "https://www.kode24.no/artikkel/fortviler-over-altinn-overgang-vi-er-fortsatt-bekymret-og-spente/262908",
-      "source": "Kode24",
-      "summary": "Regnskap Norge sendte i vår inn en «alvorlig bekymringsmelding» om for brå overgang fra Altinn 2 til Altinn 3. Enkelte har fått midlertidige overgangsløsninger, svarer statsråden.",
-      "published": "2026-06-04T03:00:00Z"
-    },
-    {
-      "id": "609d83a9501e9d0a710bf32a3445e5ad6b163422",
-      "title": "Er JavaScript-animasjoner tregere enn CSS-animasjoner?",
-      "link": "https://www.kode24.no/artikkel/er-javascript-animasjoner-tregere-enn-css-animasjoner/264453",
-      "source": "Kode24",
-      "summary": "CSS vs. JavaScript, komponentarkitektur for React Server Components og npm strammer til forsyningskjeden, i ukas ForrigeUke.",
-      "published": "2026-06-03T10:50:38Z"
-    },
-    {
-      "id": "235950dfd92eb590cb48607d5eb24b032c190dcb",
-      "title": "Google slår Microsoft blant norske IT-studenter",
-      "link": "https://www.kode24.no/artikkel/google-slar-microsoft-blant-norske-it-studenter/264530",
-      "source": "Kode24",
-      "summary": "Mens Capgemini er inne på topp ti-lista til Universum for 2026, på bekostning av Skatteetaten.",
-      "published": "2026-06-03T08:52:52Z"
-    },
-    {
-      "id": "b9e3e76ed4586f35ec09e8205f57d6d9e2b7b44e",
-      "title": "Klager inn Schibsted: – Personvern er en grunnleggende rettighet",
-      "link": "https://www.kode24.no/artikkel/klager-inn-schibsted-personvern-er-en-grunnleggende-rettighet/264578",
-      "source": "Kode24",
-      "summary": "Forbrukerrådet klager Schibsted inn til Datatilsynet, etter krav om betaling for å slippe sporing.",
-      "published": "2026-06-03T07:38:30Z"
-    },
-    {
       "id": "12c63ecc9a134d40d6871524e36e41494b98e7cf",
       "title": "GitHub Copilot app: The agent-native desktop experience",
       "link": "https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/",
@@ -244,15 +252,6 @@
       "source": "GitHub Blog",
       "summary": "Kick off work in VS Code or the CLI, finish it from your phone. Remote control for GitHub Copilot sessions is now generally available on github.com and GitHub Mobile. The post Take your local GitHub sessions anywhere appeared first on The GitHub Blog.",
       "published": "2026-05-18T16:54:53Z"
-    },
-    {
-      "id": "c8f1a5799a76d5b1d5875ebdfddcb166588cd942",
-      "title": "Building a general-purpose accessibility agent—and what we learned in the process",
-      "link": "https://github.blog/ai-and-ml/github-copilot/building-a-general-purpose-accessibility-agent-and-what-we-learned-in-the-process/",
-      "source": "GitHub Blog",
-      "summary": "Learn about the experimental general-purpose accessibility agent that GitHub is piloting. The post Building a general-purpose accessibility agent—and what we learned in the process appeared first on The GitHub Blog.",
-      "published": "2026-05-15T16:00:00Z",
-      "image": "https://github.blog/wp-content/uploads/2026/05/image1.png?resize=1024%2C908"
     },
     {
       "id": "a5addf8606df3e8a369a2fc506ad4a05f7e158ef",
