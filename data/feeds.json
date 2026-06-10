@@ -1,6 +1,55 @@
 {
-  "generated_at": "2026-06-09T09:52:21.322472Z",
+  "generated_at": "2026-06-10T10:09:18.340271Z",
   "items": [
+    {
+      "id": "32ea6ef97f88af6f10b8b06bf5e6ec8bcc297e85",
+      "title": "Bruker KI-kofter fulle av feil: «Forvrengte framstillinger»",
+      "link": "https://www.kode24.no/artikkel/bruker-ki-kofter-fulle-av-feil-forvrengte-framstillinger/265013",
+      "source": "Kode24",
+      "summary": "KI sliter med å gjenskape bunader og kofter. – Resultatet kan bli kulturelt forvrengte framstillinger og feil bilde av kulturen, advarer ekspert.",
+      "published": "2026-06-10T08:10:02Z"
+    },
+    {
+      "id": "86233e8c1f48ba30bcb497e194ab4030733bb824",
+      "title": "Anthropic slipper sin hittil kraftigste KI-modell – men med begrensninger",
+      "link": "https://www.kode24.no/artikkel/anthropic-slipper-sin-hittil-kraftigste-ki-modell-men-med-begrensninger/265194",
+      "source": "Kode24",
+      "summary": "KI-giganten Anthropic har sluppet modellen Fable 5, selskapets mest avanserte hittil. Men allmennheten får ikke tilgang til alle dens tjenester.",
+      "published": "2026-06-10T06:47:05Z"
+    },
+    {
+      "id": "9eef0f7b2c8064795e4fc94b3aa04ab38830e5b3",
+      "title": "– Jeg tror Apple kan ta innersvingen på hele bransjen",
+      "link": "https://www.kode24.no/artikkel/jeg-tror-apple-kan-ta-innersvingen-pa-hele-bransjen/265120",
+      "source": "Kode24",
+      "summary": "– Det er noen geniale grep Apple har tatt i det skjulte her, som OpenAI bør skjelve i buksa av, forklarer Jørgen i kode24.",
+      "published": "2026-06-10T03:00:00Z"
+    },
+    {
+      "id": "6c989365ddb125b6cbbc3ba8f170b7a9f7055ec0",
+      "title": "From one-off prompts to workflows: How to use custom agents in GitHub Copilot CLI",
+      "link": "https://github.blog/ai-and-ml/github-copilot/from-one-off-prompts-to-workflows-how-to-use-custom-agents-in-github-copilot-cli/",
+      "source": "GitHub Blog",
+      "summary": "Custom agents let GitHub Copilot CLI understand your stack and team workflows, turning one-off terminal prompts into repeatable, reviewable processes. The post From one-off prompts to workflows: How to use custom agents in GitHub Copilot CLI appeared first on The GitHub Blog.",
+      "published": "2026-06-09T16:00:00Z",
+      "image": "https://github.blog/wp-content/uploads/2026/05/screenshot.png?resize=1024%2C296"
+    },
+    {
+      "id": "3483b6bbca1e6abb35c5c8434d87a7e672cdb2f8",
+      "title": "Enda flere utviklere bruker Navs Nais",
+      "link": "https://www.kode24.no/artikkel/enda-flere-utviklere-bruker-navs-nais/264190",
+      "source": "Kode24",
+      "summary": "Ble utviklet for interne behov, men i dag bruker 1.000 utviklere plattformen. – Vi får stadig ny funksjonalitet til en enklere hverdag.",
+      "published": "2026-06-09T10:53:27Z"
+    },
+    {
+      "id": "8aa76082d762f8283b76b444df275885e3d8b4fc",
+      "title": "Teknisk feil rammet apotek over hele landet",
+      "link": "https://www.kode24.no/artikkel/teknisk-feil-rammet-apotek-over-hele-landet/265124",
+      "source": "Kode24",
+      "summary": "– Vi har dessverre en feil hos en underleverandør som påvirker de fleste apotek, sa Vitus Apotek tirsdag, men nå skal trøbbelet være over.",
+      "published": "2026-06-09T10:48:25Z"
+    },
     {
       "id": "6d6e0234f034db41e435a3109f72ff6e5b68db85",
       "title": "WWDC26: Gir utviklere gratis KI-bruk i appene deres",
@@ -130,52 +179,12 @@
       "published": "2026-06-05T07:56:59Z"
     },
     {
-      "id": "e7d86f556791b84c880f2bab2369616af1919c8d",
-      "title": "Anthropic advarer: KI blir smartere, uten hjelp fra mennesker",
-      "link": "https://www.kode24.no/artikkel/anthropic-advarer-ki-blir-smartere-uten-hjelp-fra-mennesker/264811",
-      "source": "Kode24",
-      "summary": "KI-selskapet Anthropic ber om en pause i utviklingen av de kraftigste KI-modellene, fordi det er tegn til at de begynner å bli smartere uten menneskers hjelp.",
-      "published": "2026-06-05T06:13:10Z"
-    },
-    {
-      "id": "17cf0ed1bcf5a6c86baef107bfd2f90c45ceef09",
-      "title": "– Takk Gud for dyrere KI",
-      "link": "https://www.kode24.no/artikkel/takk-gud-for-dyrere-ki/264765",
-      "source": "Kode24",
-      "summary": "– Kostnaden på KI må speile kostnadene KI har på verden, skriver Ole Petter i ukas nyhetsbrev.",
-      "published": "2026-06-05T03:00:00Z"
-    },
-    {
-      "id": "435a8429c18e0a6483dfbbc071731713f6926fe3",
-      "title": "– Snakk med sjefen om fotball-VM nå!",
-      "link": "https://www.kode24.no/artikkel/snakk-med-sjefen-om-fotball-vm-na/264749",
-      "source": "Kode24",
-      "summary": "Selv om VM er ekstraordinært, er ikke arbeidslivet satt på pause. Eksperter råder deg til å snakke med sjefen allerede nå.",
-      "published": "2026-06-05T02:55:00Z"
-    },
-    {
       "id": "cc2e5061e1650625eb63b62a82d70ae15b42100f",
       "title": "GitHub Universe is back: All together now, in the agentic era",
       "link": "https://github.blog/news-insights/company-news/github-universe-is-back-all-together-now-in-the-agentic-era/",
       "source": "GitHub Blog",
       "summary": "GitHub Universe is back: returning to the historic Fort Mason Center in San Francisco on October 28–29, 2026. The post GitHub Universe is back: All together now, in the agentic era appeared first on The GitHub Blog.",
       "published": "2026-06-04T16:00:00Z"
-    },
-    {
-      "id": "e40e1debe1db6705936d3af0c0582fc1d44d1d46",
-      "title": "Testet KI på 35 oppgaver: Mindre effektivt enn ventet",
-      "link": "https://www.kode24.no/artikkel/testet-ki-pa-35-oppgaver-mindre-effektivt-enn-ventet/264685",
-      "source": "Kode24",
-      "summary": "Ni ansatte i Teknologirådet erfarte at KI-verktøy hadde liten effekt på produktivitet, relevans og kvalitet.",
-      "published": "2026-06-04T11:40:39Z"
-    },
-    {
-      "id": "b145d23af67eb52860434c4a6c4e5611c48dafb4",
-      "title": "Nav må betale tre til fire ganger mer for sine 600 Copilot-brukere",
-      "link": "https://www.kode24.no/artikkel/nav-ma-betale-tre-til-fire-ganger-mer-for-sine-600-copilot-brukere/264699",
-      "source": "Kode24",
-      "summary": "– Jeg tror det er trygt å si at tida for KI på tilbud er over, sier plattformutvikler Hans Kristian Flaatten i Nav, etter GitHub Copilot-prisendring.",
-      "published": "2026-06-04T08:41:10Z"
     },
     {
       "id": "12c63ecc9a134d40d6871524e36e41494b98e7cf",
@@ -244,14 +253,6 @@
       "source": "GitHub Blog",
       "summary": "GitHub Enterprise Server customers need to take immediate action. The post Investigation update: GitHub Enterprise Server signing key rotation appeared first on The GitHub Blog.",
       "published": "2026-05-20T21:07:38Z"
-    },
-    {
-      "id": "8cc0a03cd4360c33d365d17128a5572daf7b91ee",
-      "title": "Take your local GitHub sessions anywhere",
-      "link": "https://github.blog/news-insights/product-news/take-your-local-github-sessions-anywhere/",
-      "source": "GitHub Blog",
-      "summary": "Kick off work in VS Code or the CLI, finish it from your phone. Remote control for GitHub Copilot sessions is now generally available on github.com and GitHub Mobile. The post Take your local GitHub sessions anywhere appeared first on The GitHub Blog.",
-      "published": "2026-05-18T16:54:53Z"
     },
     {
       "id": "a5addf8606df3e8a369a2fc506ad4a05f7e158ef",
