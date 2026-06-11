@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-06-10T10:09:18.340271Z",
+  "generated_at": "2026-06-11T10:42:29.071503Z",
   "items": [
+    {
+      "id": "86af6bc83db7328e501d71d1072035c6f13e6364",
+      "title": "– Hei, vibbekoder! Du får ingen opphavsrett til dine vibbekoda greier!",
+      "link": "https://www.kode24.no/artikkel/hei-vibbekoder-du-far-ingen-opphavsrett-til-dine-vibbekoda-greier/265275",
+      "source": "Kode24",
+      "summary": "– Dette kan sjokkere deg og dine fagfeller, men sånn er det, advarer jurist Kirill Miazine.",
+      "published": "2026-06-11T09:23:11Z"
+    },
+    {
+      "id": "fd3203f3da65c6f2789a035b5cde16d5f90b8a07",
+      "title": "Tysk domstol: Google er ansvarlig for deres KI-oppsummeringer",
+      "link": "https://www.kode24.no/artikkel/tysk-domstol-google-er-ansvarlig-for-deres-ki-oppsummeringer/265318",
+      "source": "Kode24",
+      "summary": "KI-oppsummeringer i Google, som tidligere har løyet om norske politikere, er ikke det samme som tradisjonelle søkeresultater, slår München-domstol fast.",
+      "published": "2026-06-11T08:34:26Z"
+    },
+    {
+      "id": "3b506f5ca8fce26d18313161ace74c1be7835543",
+      "title": "Fersk rapport: «Bot-passing» spiser opp spart tid",
+      "link": "https://www.kode24.no/artikkel/fersk-rapport-bot-passing-spiser-opp-spart-tid/265316",
+      "source": "Kode24",
+      "summary": "KI sparer en kanskje tid på arbeidsplassen, men man bruker den opp igjen på å fikse rotet, viser ny forskning. Fenomenet har fått navn «botsitting».",
+      "published": "2026-06-11T07:42:32Z"
+    },
+    {
+      "id": "7b3e79d7ede2fa1c00cef706229f6b3219a7ad19",
+      "title": "Oslo-politiet tester droner med elektrosjokk-våpen",
+      "link": "https://www.kode24.no/artikkel/oslo-politiet-tester-droner-med-elektrosjokk-vapen/265307",
+      "source": "Kode24",
+      "summary": "Men den er i det minste styrt av et menneske.",
+      "published": "2026-06-11T06:22:05Z"
+    },
+    {
+      "id": "74e35ce4c08f4fcbc958400e17c4bd5c2cd61079",
+      "title": "IT-bransjen feirer pride: – Vi vet at ikke alle er enige",
+      "link": "https://www.kode24.no/artikkel/it-bransjen-feirer-pride-vi-vet-at-ikke-alle-er-enige/264621",
+      "source": "Kode24",
+      "summary": "Vipps selger gavepapir i regnbuefarger, Sopra Steria har «rave» og Nav flagger. – Og det er et verdivalg vi står trygt i, sier Vipps.",
+      "published": "2026-06-11T03:00:00Z"
+    },
+    {
+      "id": "e0bef26f7c96c1ae147898648442f7cf87b39102",
+      "title": "Give GitHub Copilot CLI real code intelligence with language servers",
+      "link": "https://github.blog/ai-and-ml/github-copilot/give-github-copilot-cli-real-code-intelligence-with-language-servers/",
+      "source": "GitHub Blog",
+      "summary": "Install and configure LSP servers for GitHub Copilot CLI, replacing brute-force grep/decompile with real code intelligence. The post Give GitHub Copilot CLI real code intelligence with language servers appeared first on The GitHub Blog.",
+      "published": "2026-06-10T16:00:00Z"
+    },
+    {
+      "id": "56755a953b2d299213fa917ceff28c32b58e9094",
+      "title": "Agenten Nils Georg firedoblet produksjonen: – Ganske drastisk",
+      "link": "https://www.kode24.no/artikkel/agenten-nils-georg-firedoblet-produksjonen-ganske-drastisk/265209",
+      "source": "Kode24",
+      "summary": "Hallstein Brøtan lar KI-agenten hjelpe dem med bank-utvikling, og hevder å ikke ha skrevet egen kode siden i fjor.",
+      "published": "2026-06-10T12:48:34Z"
+    },
+    {
+      "id": "ebf6750054dca8d27023528a4e40794e017ae166",
+      "title": "Konsulenten Elise hater å oppdatere CV-en: «Går kaldt nedover ryggen»",
+      "link": "https://www.kode24.no/artikkel/konsulenten-elise-hater-a-oppdatere-cv-en-gar-kaldt-nedover-ryggen/265176",
+      "source": "Kode24",
+      "summary": "– Men kanskje problemet egentlig ikke er at personallederen min Even er et ondt menneske, vedgår Elise Kristiansen.",
+      "published": "2026-06-10T10:50:12Z"
+    },
+    {
+      "id": "541a30f0912e6b2c38abe4ea69a1dcd922790fcb",
+      "title": "NTB fjerner KI-bilder: «Svært alvorlig»",
+      "link": "https://www.kode24.no/artikkel/ntb-fjerner-ki-bilder-svaert-alvorlig/265231",
+      "source": "Kode24",
+      "summary": "\"KI-påvirkede\" bilder slapp gjennom ved en feil, og de kan ikke love at det aldri skjer igjen.",
+      "published": "2026-06-10T09:09:15Z"
+    },
     {
       "id": "32ea6ef97f88af6f10b8b06bf5e6ec8bcc297e85",
       "title": "Bruker KI-kofter fulle av feil: «Forvrengte framstillinger»",
@@ -115,70 +187,6 @@
       "published": "2026-06-08T10:24:00Z"
     },
     {
-      "id": "0102d2a6542826e0c4f75c9c84d0a8f8ba2736d4",
-      "title": "Utvikler slipper å bruke KI på religiøst grunnlag",
-      "link": "https://www.kode24.no/artikkel/utvikler-slipper-a-bruke-ki-pa-religiost-grunnlag/264918",
-      "source": "Kode24",
-      "summary": "Pavens KI-brev kan gi flere grunnlag for å søke om det samme.",
-      "published": "2026-06-08T08:27:17Z"
-    },
-    {
-      "id": "a223c15b557188d6d03503e7a626cd9ea3b38977",
-      "title": "Telenor kjøper GlobalConnect",
-      "link": "https://www.kode24.no/artikkel/telenor-kjoper-globalconnect/264928",
-      "source": "Kode24",
-      "summary": "De 125.000 fiberkundene til GlobalConnect blir snart Telenor-kunder, etter at Konkurransetilsynet gir grønt lys.",
-      "published": "2026-06-08T07:46:59Z"
-    },
-    {
-      "id": "2cd18dbac2b5d3b8f54736aec30f418e19a3b861",
-      "title": "Sjefer er mer glade i KI enn de ansatte",
-      "link": "https://www.kode24.no/artikkel/sjefer-er-mer-glade-i-ki-enn-de-ansatte/264908",
-      "source": "Kode24",
-      "summary": "Ledelsen både bruker mer KI, og er mer fornøyd med den, viser ny rapport.",
-      "published": "2026-06-08T06:45:00Z"
-    },
-    {
-      "id": "d365327d362e2fd248a8a52d9285cce324e425b0",
-      "title": "Sommertid i staten: – Har ikke så stor betydning lenger",
-      "link": "https://www.kode24.no/artikkel/sommertid-i-staten-har-ikke-sa-stor-betydning-lenger/264451",
-      "source": "Kode24",
-      "summary": "Sommertid gjør at mange jobber kortere dager hele sommeren. Direktøren i Nav trodde det var tull, men ordningen kan høres bedre ut enn den er.",
-      "published": "2026-06-08T03:00:00Z"
-    },
-    {
-      "id": "61abbc9bffdce7c1b806f73d62a0293435c6a30e",
-      "title": "Rock & React: – Dette vil skille de gode fra resten",
-      "link": "https://www.kode24.no/artikkel/rock-react-dette-vil-skille-de-gode-fra-resten/264836",
-      "source": "Kode24",
-      "summary": "Det er fortsatt et poeng å gå på fagkonferanser, mener arrangøren av årets React Norway på Rockefeller.",
-      "published": "2026-06-05T13:40:00Z"
-    },
-    {
-      "id": "361cf78bcba199828e7335f7a84f30b978d7ff7d",
-      "title": "Norsk Tipping utsatt for nok et hackerangrep",
-      "link": "https://www.kode24.no/artikkel/norsk-tipping-utsatt-for-nok-et-hackerangrep/264880",
-      "source": "Kode24",
-      "summary": "Fredag ble Norsk Tipping sine tjenester utsatt for et tredje hackerangrep denne uken.",
-      "published": "2026-06-05T12:52:46Z"
-    },
-    {
-      "id": "c10492f0a4295aec94c174e32474966cf3c5fe1a",
-      "title": "– Vi har en tendens til å kaste KI på de fleste problemstillinger",
-      "link": "https://www.kode24.no/artikkel/vi-har-en-tendens-til-a-kaste-ki-pa-de-fleste-problemstillinger/264422",
-      "source": "Kode24",
-      "summary": "– Jeg mener det er viktig at vi fremover bruker KI mer bærekraftig, sier Ukas Koder, Åsne Stige.",
-      "published": "2026-06-05T12:00:00Z"
-    },
-    {
-      "id": "1c7e1ba1b18c9d17c5de47914234fb9ebe21b894",
-      "title": "Bemanner opp for å bistå når Altinn 2 slukkes",
-      "link": "https://www.kode24.no/artikkel/bemanner-opp-for-a-bista-nar-altinn-2-slukkes/264790",
-      "source": "Kode24",
-      "summary": "Digitaliseringsdirektoratet forbereder seg på trøbbel når alle må over på ny plattform. – Helt nødvendig.",
-      "published": "2026-06-05T07:56:59Z"
-    },
-    {
       "id": "cc2e5061e1650625eb63b62a82d70ae15b42100f",
       "title": "GitHub Universe is back: All together now, in the agentic era",
       "link": "https://github.blog/news-insights/company-news/github-universe-is-back-all-together-now-in-the-agentic-era/",
@@ -245,14 +253,6 @@
       "source": "Go Blog",
       "summary": "Introducing the new programmatic API for pkg.go.dev, allowing developers to fetch package and module data directly.",
       "published": "2026-05-21T00:00:00Z"
-    },
-    {
-      "id": "6c7e2becac7fdc0ab38ed742b5e6b8cf8dc3b39e",
-      "title": "Investigation update: GitHub Enterprise Server signing key rotation",
-      "link": "https://github.blog/security/investigating-unauthorized-access-to-githubs-internal-repositories/",
-      "source": "GitHub Blog",
-      "summary": "GitHub Enterprise Server customers need to take immediate action. The post Investigation update: GitHub Enterprise Server signing key rotation appeared first on The GitHub Blog.",
-      "published": "2026-05-20T21:07:38Z"
     },
     {
       "id": "a5addf8606df3e8a369a2fc506ad4a05f7e158ef",
