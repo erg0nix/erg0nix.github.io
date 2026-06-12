@@ -1,12 +1,77 @@
 {
-  "generated_at": "2026-06-11T10:42:29.071503Z",
+  "generated_at": "2026-06-12T10:19:17.472398Z",
   "items": [
+    {
+      "id": "99b59ba5cfc5a1eb8140704faa50286e4767d997",
+      "title": "Sparebanken Norge nedbemanner minst 100 – sparer utviklerne",
+      "link": "https://www.kode24.no/artikkel/sparebanken-norge-nedbemanner-minst-100-sparer-utviklerne/265450",
+      "source": "Kode24",
+      "summary": "Sparebanken Norge kutter mellom 100 og 120 årsverk for å bli mer lønnsom.",
+      "published": "2026-06-12T08:26:46Z"
+    },
+    {
+      "id": "6a46b621e6c08a101b3527c5a116f0fcbe1f0b82",
+      "title": "Cloudflare kjøper Vite: «Alltid litt skummelt»",
+      "link": "https://www.kode24.no/artikkel/cloudflare-kjoper-vite-alltid-litt-skummelt/265459",
+      "source": "Kode24",
+      "summary": "VoidZero kjøpt opp av Cloudflare, React Compiler skrives om til Rust og State of CSS 2026 har åpnet for innsendinger, i ukas ForrigeUke.",
+      "published": "2026-06-12T07:38:48Z"
+    },
+    {
+      "id": "9a8546086e6860506f5abdcc4daf71d1c4f7fad1",
+      "title": "Sverige anbefaler 13-årsgrense på mobil",
+      "link": "https://www.kode24.no/artikkel/sverige-anbefaler-13-arsgrense-pa-mobil/265437",
+      "source": "Kode24",
+      "summary": "Mobiltelefonen fortrenger lek, sosialisering og skolearbeid, mener myndighetene.",
+      "published": "2026-06-12T06:35:51Z"
+    },
+    {
+      "id": "fe96a17c72a550992e80c8988b5726ab3f4031da",
+      "title": "Svar på årets lønns­undersøkelse!",
+      "link": "https://www.kode24.no/artikkel/svar-pa-arets-lonnsundersokelse/265385",
+      "source": "Kode24",
+      "summary": "Årets store undersøkelse er ute, om lønn, KI og hvordan du har det på jobb. – For hvor ble det av debatten rundt åpent kontorlandskap?",
+      "published": "2026-06-12T03:00:00Z"
+    },
+    {
+      "id": "d212494617a7f2514f65a00dbf26177ebc429e9d",
+      "title": "GitHub availability report: May 2026",
+      "link": "https://github.blog/news-insights/company-news/github-availability-report-may-2026/",
+      "source": "GitHub Blog",
+      "summary": "In May, we experienced nine incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: May 2026 appeared first on The GitHub Blog.",
+      "published": "2026-06-11T21:30:15Z"
+    },
+    {
+      "id": "8a6f28e3f280178c9787a0c50b269aa652cccf08",
+      "title": "Making secret scanning more trustworthy: Reducing false positives at scale",
+      "link": "https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale/",
+      "source": "GitHub Blog",
+      "summary": "Alerts are more trustworthy and actionable when noise is reduced. See how we improved the verification step with context-aware LLM reasoning. The post Making secret scanning more trustworthy: Reducing false positives at scale appeared first on The GitHub Blog.",
+      "published": "2026-06-11T16:00:00Z",
+      "image": "https://github.blog/wp-content/uploads/2026/06/blog-post-1.png?resize=1024%2C576"
+    },
+    {
+      "id": "d30572f7cf7f013ef34e356a3263540995552f86",
+      "title": "TV 2 rigger seg for 1 million VM-seere på nett: – Sykt mye!",
+      "link": "https://www.kode24.no/artikkel/tv-2-rigger-seg-for-1-million-vm-seere-pa-nett-sykt-mye/265217",
+      "source": "Kode24",
+      "summary": "Den største frykten TV 2-utviklerne før fotball-VM, er at det er noe de ikke har tenkt på.",
+      "published": "2026-06-11T11:23:52Z"
+    },
+    {
+      "id": "801b0814dc9415924608605c29b0e088a095920e",
+      "title": "Kinesiske bedrifter driver «stille nedbemanning», OpenClaw tar over",
+      "link": "https://www.kode24.no/artikkel/kinesiske-bedrifter-driver-stille-nedbemanning-openclaw-tar-over/265367",
+      "source": "Kode24",
+      "summary": "Kinesiske selskaper unngår masseoppsigelser knyttet til KI, men kutter ansatte litt og litt for å opprettholde stabiliteten.",
+      "published": "2026-06-11T11:00:55Z"
+    },
     {
       "id": "86af6bc83db7328e501d71d1072035c6f13e6364",
       "title": "– Hei, vibbekoder! Du får ingen opphavsrett til dine vibbekoda greier!",
       "link": "https://www.kode24.no/artikkel/hei-vibbekoder-du-far-ingen-opphavsrett-til-dine-vibbekoda-greier/265275",
       "source": "Kode24",
-      "summary": "– Dette kan sjokkere deg og dine fagfeller, men sånn er det, advarer jurist Kirill Miazine.",
+      "summary": "– Dette kan sjokkere deg og dine fagfeller, men sånn er det, advarer advokat Kirill Miazine.",
       "published": "2026-06-11T09:23:11Z"
     },
     {
@@ -131,60 +196,12 @@
       "published": "2026-06-09T08:22:26Z"
     },
     {
-      "id": "ce2ee72a1facc7c5b2d590a5dac7b13b02b28f25",
-      "title": "VM-fotballen sender data 500 ganger i sekundet",
-      "link": "https://www.kode24.no/artikkel/vm-fotballen-sender-data-500-ganger-i-sekundet/265081",
-      "source": "Kode24",
-      "summary": "Sensorer i ballen, kameraer på dommerne – BBC har besøkt Fifas hovedkontor i Zürich for å se på teknologien som benyttes under mesterskapet.",
-      "published": "2026-06-09T07:32:01Z"
-    },
-    {
-      "id": "eb47968ded0a9706bbbcb6e4d549561c8bfcd1e0",
-      "title": "OpenAI søker om å komme på børs",
-      "link": "https://www.kode24.no/artikkel/openai-soker-om-a-komme-pa-bors/265066",
-      "source": "Kode24",
-      "summary": "– Men det kan ta noe tid, advarer Sam Altman.",
-      "published": "2026-06-09T06:32:55Z"
-    },
-    {
-      "id": "b1651b6a4a4d6092cbf37eddc3eee34f1614447f",
-      "title": "– Vibbemanns­-blod kan ein lukte milevis",
-      "link": "https://www.kode24.no/artikkel/vibbemanns-blod-kan-ein-lukte-milevis/264631",
-      "source": "Kode24",
-      "summary": "Tor Gjøsæter fant \"vidåpne\" hull i en norsk, vibbekoda app med Claude, og viser deg hvordan.",
-      "published": "2026-06-09T03:00:00Z"
-    },
-    {
       "id": "19cba630e695086263bbc7f48d31f9cb850755e5",
       "title": "GitHub for Beginners: Answers to some common questions",
       "link": "https://github.blog/developer-skills/github/github-for-beginners-answers-to-some-common-questions/",
       "source": "GitHub Blog",
       "summary": "Find the answers to some of the most common GitHub-related questions. The post GitHub for Beginners: Answers to some common questions appeared first on The GitHub Blog.",
       "published": "2026-06-08T16:00:00Z"
-    },
-    {
-      "id": "4b4781c3c6834e1d4fc8cfbeb1d7e2de138e2b25",
-      "title": "Flere banker sliter fordi Tieto har trøbbel",
-      "link": "https://www.kode24.no/artikkel/flere-banker-sliter-fordi-tieto-har-trobbel/265025",
-      "source": "Kode24",
-      "summary": "– Vi har ikke detaljene på hvor mange kunder som er rammet, men det er klart at det dreier seg om et stort antall.",
-      "published": "2026-06-08T13:09:23Z"
-    },
-    {
-      "id": "35f2b546fbf7754eef5417e65e6fd07affc4f49e",
-      "title": "Ga opp Microsoft-exit etter «komplekse avhengigheter»",
-      "link": "https://www.kode24.no/artikkel/ga-opp-microsoft-exit-etter-komplekse-avhengigheter/264936",
-      "source": "Kode24",
-      "summary": "Danske kommuner har testet alternativer til Big Tech, med tyske Nextcloud på toppen av lista. Men ikke alle kom i mål, melder Digi.",
-      "published": "2026-06-08T11:04:14Z"
-    },
-    {
-      "id": "8d173407ea289691834360633c1dc38c749c97fc",
-      "title": "Donerer til open source, ber deg gjøre det samme",
-      "link": "https://www.kode24.no/artikkel/donerer-til-open-source-ber-deg-gjore-det-samme/264634",
-      "source": "Kode24",
-      "summary": "– Hvis du bygger inntekt på åpen kildekode, er det vanskelig å argumentere for at du ikke har noen forpliktelser, skriver Eirik Hodne i Geodata, som nå betaler for seg.",
-      "published": "2026-06-08T10:24:00Z"
     },
     {
       "id": "cc2e5061e1650625eb63b62a82d70ae15b42100f",
@@ -228,23 +245,6 @@
       "summary": "We are committed to empowering every developer by building an open, secure, and AI-powered platform that defines the future of software development. The post GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents for the third year in a row appeared first on...",
       "published": "2026-05-22T16:10:21Z",
       "image": "https://github.blog/wp-content/uploads/2026/05/Figure1-2.png?resize=926%2C1024"
-    },
-    {
-      "id": "a7b33a1ca77b5dec3b309e5b4acc54552ad64b2c",
-      "title": "Beyond the engine: 10 open source projects shaping how games actually get made",
-      "link": "https://github.blog/open-source/gaming/beyond-the-engine-10-open-source-projects-shaping-how-games-actually-get-made/",
-      "source": "GitHub Blog",
-      "summary": "Check out these 10 open source tools that help game developers create art, animation, levels, audio, dialogue, debug UIs, and engine-ready assets. The post Beyond the engine: 10 open source projects shaping how games actually get made appeared first on The GitHub Blog.",
-      "published": "2026-05-21T18:00:00Z",
-      "image": "https://github.blog/wp-content/uploads/2026/05/blockbench.png"
-    },
-    {
-      "id": "6554e2d38a0e5608a2018003ecabca6db6d16d26",
-      "title": "Building GitHub’s next chapter in accessibility",
-      "link": "https://github.blog/open-source/building-githubs-next-chapter-in-accessibility/",
-      "source": "GitHub Blog",
-      "summary": "Explore our update on GitHub’s accessibility strategy, and learn how you can join us in building a culture of accessibility. The post Building GitHub’s next chapter in accessibility appeared first on The GitHub Blog.",
-      "published": "2026-05-21T16:00:00Z"
     },
     {
       "id": "7ae1dda67f7f810e6d77f7a3e7778ae9abd39902",
