@@ -1,6 +1,31 @@
 {
-  "generated_at": "2026-06-12T10:19:17.472398Z",
+  "generated_at": "2026-06-13T09:21:40.054695Z",
   "items": [
+    {
+      "id": "7b8dd1dbf8a124eaab8a4bd9b7301c88c4511463",
+      "title": "How we made GitHub Copilot CLI more selective about delegation",
+      "link": "https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation/",
+      "source": "GitHub Blog",
+      "summary": "Better orchestration, fewer handoffs, faster progress, without a single new knob. The post How we made GitHub Copilot CLI more selective about delegation appeared first on The GitHub Blog.",
+      "published": "2026-06-12T22:26:23Z",
+      "image": "https://github.blog/wp-content/uploads/2026/06/fig1-tool-failures.gif?resize=768%2C432"
+    },
+    {
+      "id": "85d4500cd8b5c56f753cbb5a70242d50a12a035d",
+      "title": "KI Norge: – Vi skal bli verdens mest digitaliserte land, og lede an trygg KI-bruk",
+      "link": "https://www.kode24.no/artikkel/ki-norge-vi-skal-bli-verdens-mest-digitaliserte-land-og-lede-an-trygg-ki-bruk/265536",
+      "source": "Kode24",
+      "summary": "Fredag lanserte digitaliseringsminister Karianne Tung KI Norge: En ny nasjonal arena som skal legge til rette for \"god og ansvarlig bruk av kunstig intelligens\".",
+      "published": "2026-06-12T12:35:48Z"
+    },
+    {
+      "id": "a48cb06eb23c75270f04bc00bb381ee165d218ac",
+      "title": "Mista sommer­jobben: – Frustrerende og kjipt",
+      "link": "https://www.kode24.no/artikkel/mista-sommerjobben-frustrerende-og-kjipt/265486",
+      "source": "Kode24",
+      "summary": "Henriette Nystad fikk sommerjobben i Appfarm oktober året før, men i mars brøt selskapet kontrakten.",
+      "published": "2026-06-12T10:37:41Z"
+    },
     {
       "id": "99b59ba5cfc5a1eb8140704faa50286e4767d997",
       "title": "Sparebanken Norge nedbemanner minst 100 – sparer utviklerne",
@@ -180,22 +205,6 @@
       "published": "2026-06-09T10:53:27Z"
     },
     {
-      "id": "8aa76082d762f8283b76b444df275885e3d8b4fc",
-      "title": "Teknisk feil rammet apotek over hele landet",
-      "link": "https://www.kode24.no/artikkel/teknisk-feil-rammet-apotek-over-hele-landet/265124",
-      "source": "Kode24",
-      "summary": "– Vi har dessverre en feil hos en underleverandør som påvirker de fleste apotek, sa Vitus Apotek tirsdag, men nå skal trøbbelet være over.",
-      "published": "2026-06-09T10:48:25Z"
-    },
-    {
-      "id": "6d6e0234f034db41e435a3109f72ff6e5b68db85",
-      "title": "WWDC26: Gir utviklere gratis KI-bruk i appene deres",
-      "link": "https://www.kode24.no/artikkel/wwdc26-gir-utviklere-gratis-ki-bruk-i-appene-deres/265079",
-      "source": "Kode24",
-      "summary": "Mens brukerne får Siri AI, får utviklere tilgang på KI uten kostnad. Her er nyhetene fra Apples Word Wide Developers Conference 2026.",
-      "published": "2026-06-09T08:22:26Z"
-    },
-    {
       "id": "19cba630e695086263bbc7f48d31f9cb850755e5",
       "title": "GitHub for Beginners: Answers to some common questions",
       "link": "https://github.blog/developer-skills/github/github-for-beginners-answers-to-some-common-questions/",
@@ -236,15 +245,6 @@
       "source": "GitHub Blog",
       "summary": "Discover how to use VS Code to interact with GitHub and maintain your projects. The post GitHub for Beginners: Getting started with Git and GitHub in VS Code appeared first on The GitHub Blog.",
       "published": "2026-05-25T16:00:00Z"
-    },
-    {
-      "id": "ca39c58003dd1626546b46c00d67d6244602f61f",
-      "title": "GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents for the third year in a row",
-      "link": "https://github.blog/ai-and-ml/github-copilot/github-recognized-as-a-leader-in-the-gartner-magic-quadrant-for-enterprise-ai-coding-agents-for-the-third-year-in-a-row/",
-      "source": "GitHub Blog",
-      "summary": "We are committed to empowering every developer by building an open, secure, and AI-powered platform that defines the future of software development. The post GitHub recognized as a Leader in the Gartner® Magic Quadrant™ for Enterprise AI Coding Agents for the third year in a row appeared first on...",
-      "published": "2026-05-22T16:10:21Z",
-      "image": "https://github.blog/wp-content/uploads/2026/05/Figure1-2.png?resize=926%2C1024"
     },
     {
       "id": "7ae1dda67f7f810e6d77f7a3e7778ae9abd39902",
