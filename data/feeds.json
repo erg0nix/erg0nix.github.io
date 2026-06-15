@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-06-14T09:40:57.680308Z",
+  "generated_at": "2026-06-15T12:23:30.995603Z",
   "items": [
+    {
+      "id": "0d47918fae267f09c5e10814816c22f2b9aa2c6a",
+      "title": "Vedtar ny lov: Blir lettere å få offentlige data",
+      "link": "https://www.kode24.no/artikkel/vedtar-ny-lov-blir-lettere-a-fa-offentlige-data/265583",
+      "source": "Kode24",
+      "summary": "Offentlig sektor må registrere all type data de deler i en nasjonal datakatalog. Frp og Sp er bekymret for kostnadene for kommunene.",
+      "published": "2026-06-15T08:44:46Z"
+    },
+    {
+      "id": "5f766a839fcbf1270bf0e27ba71cddb16fbf0941",
+      "title": "Knut Magnus (28) ny IOT-utvikler: – Brenner for miljø",
+      "link": "https://www.kode24.no/artikkel/knut-magnus-28-ny-iot-utvikler-brenner-for-miljo/265610",
+      "source": "Kode24",
+      "summary": "Knut Magnus Aasrud (28) skal utvikle solcelle-løsningene til Sunday Power.",
+      "published": "2026-06-15T08:31:00Z"
+    },
+    {
+      "id": "7f7dcd1590f02f912dbbb6a2418110cb780c341a",
+      "title": "Alle modellene spår ulike vinnere av VM",
+      "link": "https://www.kode24.no/artikkel/alle-modellene-spar-ulike-vinnere-av-vm/265594",
+      "source": "Kode24",
+      "summary": "Årets fotball-VM i Nord-Amerika blir det første hvor ChatGPT og andre KI-verktøy er tilgjengelig, og de benyttes til å både hjelpe lagene og spå mulige vinnere.",
+      "published": "2026-06-15T08:30:59Z"
+    },
+    {
+      "id": "ac4d632dc80776bb43fef59080f94e391e339057",
+      "title": "USA skrudde av Anthropic-modell: – Støtt heller Europa",
+      "link": "https://www.kode24.no/artikkel/usa-skrudde-av-anthropic-modell-stott-heller-europa/265560",
+      "source": "Kode24",
+      "summary": "Norske utviklere og KI-eksperter ber folk få opp øya etter at Trump-administrasjonen skrudde av de nyeste modellene.",
+      "published": "2026-06-15T06:39:48Z"
+    },
+    {
+      "id": "6dc356dbc390cdda0dfbeb70d6554df4e0d726b6",
+      "title": "Tise vokser etter eBay-oppkjøp: – Finner vi dyktige folk, har vi rom for flere",
+      "link": "https://www.kode24.no/artikkel/tise-vokser-etter-ebay-oppkjop-finner-vi-dyktige-folk-har-vi-rom-for-flere/264617",
+      "source": "Kode24",
+      "summary": "I høst ville Tise ikke si hva som skjer med de ansatte i Norge etter eBay-oppkjøpet. Nå har de hentet utviklere fra Tidal, Kahoot og Shortcut, og sikter på oppstart i Tyskland.",
+      "published": "2026-06-15T03:00:00Z"
+    },
     {
       "id": "7b8dd1dbf8a124eaab8a4bd9b7301c88c4511463",
       "title": "How we made GitHub Copilot CLI more selective about delegation",
@@ -156,38 +196,6 @@
       "published": "2026-06-10T10:50:12Z"
     },
     {
-      "id": "541a30f0912e6b2c38abe4ea69a1dcd922790fcb",
-      "title": "NTB fjerner KI-bilder: «Svært alvorlig»",
-      "link": "https://www.kode24.no/artikkel/ntb-fjerner-ki-bilder-svaert-alvorlig/265231",
-      "source": "Kode24",
-      "summary": "\"KI-påvirkede\" bilder slapp gjennom ved en feil, og de kan ikke love at det aldri skjer igjen.",
-      "published": "2026-06-10T09:09:15Z"
-    },
-    {
-      "id": "32ea6ef97f88af6f10b8b06bf5e6ec8bcc297e85",
-      "title": "Bruker KI-kofter fulle av feil: «Forvrengte framstillinger»",
-      "link": "https://www.kode24.no/artikkel/bruker-ki-kofter-fulle-av-feil-forvrengte-framstillinger/265013",
-      "source": "Kode24",
-      "summary": "KI sliter med å gjenskape bunader og kofter. – Resultatet kan bli kulturelt forvrengte framstillinger og feil bilde av kulturen, advarer ekspert.",
-      "published": "2026-06-10T08:10:02Z"
-    },
-    {
-      "id": "86233e8c1f48ba30bcb497e194ab4030733bb824",
-      "title": "Anthropic slipper sin hittil kraftigste KI-modell – men med begrensninger",
-      "link": "https://www.kode24.no/artikkel/anthropic-slipper-sin-hittil-kraftigste-ki-modell-men-med-begrensninger/265194",
-      "source": "Kode24",
-      "summary": "KI-giganten Anthropic har sluppet modellen Fable 5, selskapets mest avanserte hittil. Men allmennheten får ikke tilgang til alle dens tjenester.",
-      "published": "2026-06-10T06:47:05Z"
-    },
-    {
-      "id": "9eef0f7b2c8064795e4fc94b3aa04ab38830e5b3",
-      "title": "– Jeg tror Apple kan ta innersvingen på hele bransjen",
-      "link": "https://www.kode24.no/artikkel/jeg-tror-apple-kan-ta-innersvingen-pa-hele-bransjen/265120",
-      "source": "Kode24",
-      "summary": "– Det er noen geniale grep Apple har tatt i det skjulte her, som OpenAI bør skjelve i buksa av, forklarer Jørgen i kode24.",
-      "published": "2026-06-10T03:00:00Z"
-    },
-    {
       "id": "6c989365ddb125b6cbbc3ba8f170b7a9f7055ec0",
       "title": "From one-off prompts to workflows: How to use custom agents in GitHub Copilot CLI",
       "link": "https://github.blog/ai-and-ml/github-copilot/from-one-off-prompts-to-workflows-how-to-use-custom-agents-in-github-copilot-cli/",
@@ -195,14 +203,6 @@
       "summary": "Custom agents let GitHub Copilot CLI understand your stack and team workflows, turning one-off terminal prompts into repeatable, reviewable processes. The post From one-off prompts to workflows: How to use custom agents in GitHub Copilot CLI appeared first on The GitHub Blog.",
       "published": "2026-06-09T16:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2026/05/screenshot.png?resize=1024%2C296"
-    },
-    {
-      "id": "3483b6bbca1e6abb35c5c8434d87a7e672cdb2f8",
-      "title": "Enda flere utviklere bruker Navs Nais",
-      "link": "https://www.kode24.no/artikkel/enda-flere-utviklere-bruker-navs-nais/264190",
-      "source": "Kode24",
-      "summary": "Ble utviklet for interne behov, men i dag bruker 1.000 utviklere plattformen. – Vi får stadig ny funksjonalitet til en enklere hverdag.",
-      "published": "2026-06-09T10:53:27Z"
     },
     {
       "id": "19cba630e695086263bbc7f48d31f9cb850755e5",
