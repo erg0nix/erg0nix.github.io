@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-06-15T12:23:30.995603Z",
+  "generated_at": "2026-06-16T11:18:40.981401Z",
   "items": [
+    {
+      "id": "48d52b1f2a7e2850b9994036a5d34adc85650337",
+      "title": "Tung advarer mot å «stagnere» mens KI-utviklingen tar av",
+      "link": "https://www.kode24.no/artikkel/tung-advarer-mot-a-stagnere-mens-ki-utviklingen-tar-av/265756",
+      "source": "Kode24",
+      "summary": "Digitaliseringsministeren vil satse på kunstig intelligens i hele samfunnet. – Spørsmålet er ikke om vi skal gripe mulighetene i KI, men om vi skal lede an i utviklingen.",
+      "published": "2026-06-16T09:38:18Z"
+    },
+    {
+      "id": "8b64536d5c8af5997d1539d202c4a963e0a80345",
+      "title": "Vestlands-kommuner bygger egen KI-plattform: — Vi har ansvar for å håndtere data trygt",
+      "link": "https://www.kode24.no/artikkel/vestlands-kommuner-bygger-egen-ki-plattform-vi-har-ansvar-for-a-handtere-data-trygt/265723",
+      "source": "Kode24",
+      "summary": "15 vestlandskommuner tar i bruk egenutviklede Veten, som skal være billigere og tryggere.",
+      "published": "2026-06-16T09:08:43Z"
+    },
+    {
+      "id": "af5e08f0b0895f619b1a5df31e141173e698164f",
+      "title": "Nordiske bedrifter sliter med å få verdi ut av KI",
+      "link": "https://www.kode24.no/artikkel/nordiske-bedrifter-sliter-med-a-fa-verdi-ut-av-ki/265711",
+      "source": "Kode24",
+      "summary": "Under én av fem bedrifter har skapt «betydelig verdi» med KI, ifølge fersk IT-rapport. – Sett konkrete mål, og mål om dere lykkes, tipser Atea-sjefen.",
+      "published": "2026-06-16T09:08:42Z"
+    },
+    {
+      "id": "a573535d659bb2ea70fd51f92dfb242cba49c7b2",
+      "title": "– KI ser foreløpig ikke ut til å gi en bred jobbkrise i Norge",
+      "link": "https://www.kode24.no/artikkel/ki-ser-forelopig-ikke-ut-til-a-gi-en-bred-jobbkrise-i-norge/265714",
+      "source": "Kode24",
+      "summary": "– Men de yngste arbeidstakerne i de mest KI-utsatte yrkene skiller seg ut, sier skaperne av KI-indeksen.",
+      "published": "2026-06-16T07:13:17Z"
+    },
+    {
+      "id": "cb42a5d7ee5ccd57567c0556be6f3a06d441f26a",
+      "title": "Norske redaktører om dansk KI-forslag: «Håpløst»",
+      "link": "https://www.kode24.no/artikkel/norske-redaktorer-om-dansk-ki-forslag-haplost/265695",
+      "source": "Kode24",
+      "summary": "Danske myndigheter vil ikke gi pressestøtte til KI-genererte nyheter. Det faller i dårlig smak her til lands.",
+      "published": "2026-06-16T06:36:51Z"
+    },
+    {
+      "id": "664d11e3aebe7dd6c6a6ad72e56c3bdf4b6ec6bc",
+      "title": "– Jeg leverer mer enn noengang. Hvorfor føles det ikke alltid bra?",
+      "link": "https://www.kode24.no/artikkel/jeg-leverer-mer-enn-noengang-hvorfor-foles-det-ikke-alltid-bra/265645",
+      "source": "Kode24",
+      "summary": "Tech lead Petter Johan Sandvand Crantz kjenner på \"KI-apati\": – En underlig tomhet midt i produktiviteten.",
+      "published": "2026-06-16T03:00:00Z"
+    },
+    {
+      "id": "8937ac663544954ba4c8e8a46c9fcd8da0f8d065",
+      "title": "GitHub Copilot CLI for Beginners: Overview of common slash commands",
+      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands/",
+      "source": "GitHub Blog",
+      "summary": "GitHub Copilot CLI for Beginners: Learn how to use slash commands to control your terminal AI agent. The post GitHub Copilot CLI for Beginners: Overview of common slash commands appeared first on The GitHub Blog.",
+      "published": "2026-06-15T20:15:31Z"
+    },
+    {
+      "id": "f2c810084cb12effaeb87010dc9ca8f13ee1b7a3",
+      "title": "Accelerating researchers and developers building multilingual AI with a new open dataset",
+      "link": "https://github.blog/ai-and-ml/llms/accelerating-researchers-and-developers-building-multilingual-ai-with-a-new-open-dataset/",
+      "source": "GitHub Blog",
+      "summary": "A new repository-level dataset, published on GitHub under CC0-1.0, helps researchers and developers discover multilingual developer content across READMEs, issues, and pull requests. The post Accelerating researchers and developers building multilingual AI with a new open dataset appeared first on...",
+      "published": "2026-06-15T19:17:30Z"
+    },
+    {
+      "id": "e6307b07f666dd0b3e7fe217412e40787cf643c4",
+      "title": "Stack Overflow er praktisk talt død – nå tar agentene over dødsboet",
+      "link": "https://www.kode24.no/artikkel/stack-overflow-er-praktisk-talt-dod-na-tar-agentene-over-dodsboet/265670",
+      "source": "Kode24",
+      "summary": "\"Stack Overflow for Agents\" lar KI-en din stille spørsmål til andre KI-er.",
+      "published": "2026-06-15T12:42:36Z"
+    },
     {
       "id": "0d47918fae267f09c5e10814816c22f2b9aa2c6a",
       "title": "Vedtar ny lov: Blir lettere å få offentlige data",
@@ -132,68 +204,12 @@
       "published": "2026-06-11T11:00:55Z"
     },
     {
-      "id": "86af6bc83db7328e501d71d1072035c6f13e6364",
-      "title": "– Hei, vibbekoder! Du får ingen opphavsrett til dine vibbekoda greier!",
-      "link": "https://www.kode24.no/artikkel/hei-vibbekoder-du-far-ingen-opphavsrett-til-dine-vibbekoda-greier/265275",
-      "source": "Kode24",
-      "summary": "– Dette kan sjokkere deg og dine fagfeller, men sånn er det, advarer advokat Kirill Miazine.",
-      "published": "2026-06-11T09:23:11Z"
-    },
-    {
-      "id": "fd3203f3da65c6f2789a035b5cde16d5f90b8a07",
-      "title": "Tysk domstol: Google er ansvarlig for deres KI-oppsummeringer",
-      "link": "https://www.kode24.no/artikkel/tysk-domstol-google-er-ansvarlig-for-deres-ki-oppsummeringer/265318",
-      "source": "Kode24",
-      "summary": "KI-oppsummeringer i Google, som tidligere har løyet om norske politikere, er ikke det samme som tradisjonelle søkeresultater, slår München-domstol fast.",
-      "published": "2026-06-11T08:34:26Z"
-    },
-    {
-      "id": "3b506f5ca8fce26d18313161ace74c1be7835543",
-      "title": "Fersk rapport: «Bot-passing» spiser opp spart tid",
-      "link": "https://www.kode24.no/artikkel/fersk-rapport-bot-passing-spiser-opp-spart-tid/265316",
-      "source": "Kode24",
-      "summary": "KI sparer en kanskje tid på arbeidsplassen, men man bruker den opp igjen på å fikse rotet, viser ny forskning. Fenomenet har fått navn «botsitting».",
-      "published": "2026-06-11T07:42:32Z"
-    },
-    {
-      "id": "7b3e79d7ede2fa1c00cef706229f6b3219a7ad19",
-      "title": "Oslo-politiet tester droner med elektrosjokk-våpen",
-      "link": "https://www.kode24.no/artikkel/oslo-politiet-tester-droner-med-elektrosjokk-vapen/265307",
-      "source": "Kode24",
-      "summary": "Men den er i det minste styrt av et menneske.",
-      "published": "2026-06-11T06:22:05Z"
-    },
-    {
-      "id": "74e35ce4c08f4fcbc958400e17c4bd5c2cd61079",
-      "title": "IT-bransjen feirer pride: – Vi vet at ikke alle er enige",
-      "link": "https://www.kode24.no/artikkel/it-bransjen-feirer-pride-vi-vet-at-ikke-alle-er-enige/264621",
-      "source": "Kode24",
-      "summary": "Vipps selger gavepapir i regnbuefarger, Sopra Steria har «rave» og Nav flagger. – Og det er et verdivalg vi står trygt i, sier Vipps.",
-      "published": "2026-06-11T03:00:00Z"
-    },
-    {
       "id": "e0bef26f7c96c1ae147898648442f7cf87b39102",
       "title": "Give GitHub Copilot CLI real code intelligence with language servers",
       "link": "https://github.blog/ai-and-ml/github-copilot/give-github-copilot-cli-real-code-intelligence-with-language-servers/",
       "source": "GitHub Blog",
       "summary": "Install and configure LSP servers for GitHub Copilot CLI, replacing brute-force grep/decompile with real code intelligence. The post Give GitHub Copilot CLI real code intelligence with language servers appeared first on The GitHub Blog.",
       "published": "2026-06-10T16:00:00Z"
-    },
-    {
-      "id": "56755a953b2d299213fa917ceff28c32b58e9094",
-      "title": "Agenten Nils Georg firedoblet produksjonen: – Ganske drastisk",
-      "link": "https://www.kode24.no/artikkel/agenten-nils-georg-firedoblet-produksjonen-ganske-drastisk/265209",
-      "source": "Kode24",
-      "summary": "Hallstein Brøtan lar KI-agenten hjelpe dem med bank-utvikling, og hevder å ikke ha skrevet egen kode siden i fjor.",
-      "published": "2026-06-10T12:48:34Z"
-    },
-    {
-      "id": "ebf6750054dca8d27023528a4e40794e017ae166",
-      "title": "Konsulenten Elise hater å oppdatere CV-en: «Går kaldt nedover ryggen»",
-      "link": "https://www.kode24.no/artikkel/konsulenten-elise-hater-a-oppdatere-cv-en-gar-kaldt-nedover-ryggen/265176",
-      "source": "Kode24",
-      "summary": "– Men kanskje problemet egentlig ikke er at personallederen min Even er et ondt menneske, vedgår Elise Kristiansen.",
-      "published": "2026-06-10T10:50:12Z"
     },
     {
       "id": "6c989365ddb125b6cbbc3ba8f170b7a9f7055ec0",
@@ -228,23 +244,6 @@
       "summary": "At Microsoft Build 2026, GitHub introduced new tools, updates, and surfaces so agents can work the way you already work. The post GitHub Copilot app: The agent-native desktop experience appeared first on The GitHub Blog.",
       "published": "2026-06-02T17:30:03Z",
       "image": "https://github.blog/wp-content/uploads/2026/06/CCRPlatform_BlogImage_01.jpg?resize=1024%2C637"
-    },
-    {
-      "id": "7d34cb8e1d450de0aa394f77055dde96091158fc",
-      "title": "Still a developer. Just outside. Our latest GitHub Shop collection is here.",
-      "link": "https://github.blog/news-insights/company-news/still-a-developer-just-outside-our-latest-github-shop-collection-is-here/",
-      "source": "GitHub Blog",
-      "summary": "The ESC collection lets you escape the confines of your desk and get out into the sun where good ideas are bound to happen. The post Still a developer. Just outside. Our latest GitHub Shop collection is here. appeared first on The GitHub Blog.",
-      "published": "2026-05-28T18:18:43Z",
-      "image": "https://github.blog/wp-content/uploads/2026/05/Blog_Image_02.png?resize=1024%2C576"
-    },
-    {
-      "id": "0e8f3c738373ce68e9b46c90485119194d18620e",
-      "title": "GitHub for Beginners: Getting started with Git and GitHub in VS Code",
-      "link": "https://github.blog/developer-skills/github/github-for-beginners-getting-started-with-git-and-github-in-vs-code/",
-      "source": "GitHub Blog",
-      "summary": "Discover how to use VS Code to interact with GitHub and maintain your projects. The post GitHub for Beginners: Getting started with Git and GitHub in VS Code appeared first on The GitHub Blog.",
-      "published": "2026-05-25T16:00:00Z"
     },
     {
       "id": "7ae1dda67f7f810e6d77f7a3e7778ae9abd39902",
