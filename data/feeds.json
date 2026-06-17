@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-06-16T11:18:40.981401Z",
+  "generated_at": "2026-06-17T11:03:35.225442Z",
   "items": [
+    {
+      "id": "7042f67c17e3967a1d6295c7388384e4ecdd5a9e",
+      "title": "Datatilsynet åpner tilsyn med Schibsted",
+      "link": "https://www.kode24.no/artikkel/datatilsynet-apner-tilsyn-med-schibsted/265921",
+      "source": "Kode24",
+      "summary": "Datatilsynet har fått 100 tips og over 30 klager på Schibsteds «consent og pay»-løsning. – Selger ikke personvern, kontrer mediekonsernet.",
+      "published": "2026-06-17T08:57:56Z"
+    },
+    {
+      "id": "bb2a5901135e14a98ec25297278d6ae528f1a6ca",
+      "title": "Microsoft gir ut Copilot Cowork – tar betalt per bruk",
+      "link": "https://www.kode24.no/artikkel/microsoft-gir-ut-copilot-cowork-tar-betalt-per-bruk/265901",
+      "source": "Kode24",
+      "summary": "Kundene til Microsoft skal måtte betale for hver gang de bruker den nye KI-agenten, Copilot Cowork, som ble lansert tirsdag. Det skal motvirke kjemperegninger.",
+      "published": "2026-06-17T08:34:04Z"
+    },
+    {
+      "id": "8c17e44bfaec03a0384e4fa072b83cee1779d7bd",
+      "title": "Npm 12 gjør deg tryggere: «På tide, si»",
+      "link": "https://www.kode24.no/artikkel/npm-12-gjor-deg-tryggere-pa-tide-si/265925",
+      "source": "Kode24",
+      "summary": "React Foundation ett år etter, tryggere standarder i npm 12 og hvordan starte et React-prosjekt i 2026, i ukas ForrigeUke.",
+      "published": "2026-06-17T08:27:13Z"
+    },
+    {
+      "id": "106c24165d12bdc48bfc289c0723037300dafffa",
+      "title": "Disse fikk årets Digitaliserings­pris",
+      "link": "https://www.kode24.no/artikkel/disse-fikk-arets-digitaliseringspris/265634",
+      "source": "Kode24",
+      "summary": "Statens vegvesen får pris for løsningen «Risikokurve», der de kombinerer KI og innovasjon.",
+      "published": "2026-06-17T06:37:08Z"
+    },
+    {
+      "id": "6901a0c76ba252e471ac35a0655efc9361537d56",
+      "title": "Tangen skrøt av stor KI-effekt: – Mer en ambisjon, sier nestsjefen",
+      "link": "https://www.kode24.no/artikkel/tangen-skrot-av-stor-ki-effekt-mer-en-ambisjon-sier-nestsjefen/265881",
+      "source": "Kode24",
+      "summary": "At Oljefondet-ansatte er 20 prosent mer produktive med KI er kanskje en overdrivelse, melder Minerva.",
+      "published": "2026-06-17T06:35:44Z"
+    },
+    {
+      "id": "d2916727220bcb5b55926dce56c319f38b772892",
+      "title": "– Staten tilbyr åpne API-er. Det vanskelige er å finne veien gjennom dem",
+      "link": "https://www.kode24.no/artikkel/staten-tilbyr-apne-api-er-det-vanskelige-er-a-finne-veien-gjennom-dem/265665",
+      "source": "Kode24",
+      "summary": "Ole Fredrik Lie lagde Wenche for å sende inn tall til staten, og fikk hjelp av Claude Code til å navigere det komplekse landskapet. – Dette er kanskje den mest undervurderte KI-bruken.",
+      "published": "2026-06-17T03:00:00Z"
+    },
+    {
+      "id": "54579fac185ee6061d4abeb27e592dc3f1941032",
+      "title": "What are git worktrees, and why should I use them?",
+      "link": "https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them/",
+      "source": "GitHub Blog",
+      "summary": "Git worktrees have been around since 2015, but it wasn't until recently they became popular. Learn what they are, how to use them, and why you might. The post What are git worktrees, and why should I use them? appeared first on The GitHub Blog.",
+      "published": "2026-06-16T20:58:54Z",
+      "image": "https://github.blog/wp-content/uploads/2026/06/Screenshot-2026-06-16-at-1.35.20-PM.png?resize=924%2C819"
+    },
+    {
+      "id": "cbd5af0c57e9b7f19fdd9765f7683e811fc878c3",
+      "title": "Musks SpaceX kjøper Cursor",
+      "link": "https://www.kode24.no/artikkel/musks-spacex-kjoper-cursor/265845",
+      "source": "Kode24",
+      "summary": "Cursor-brukere blir nå i samme eierskapsbåt som X-brukere.",
+      "published": "2026-06-16T13:04:44Z"
+    },
     {
       "id": "48d52b1f2a7e2850b9994036a5d34adc85650337",
       "title": "Tung advarer mot å «stagnere» mens KI-utviklingen tar av",
@@ -131,46 +196,6 @@
       "published": "2026-06-12T12:35:48Z"
     },
     {
-      "id": "a48cb06eb23c75270f04bc00bb381ee165d218ac",
-      "title": "Mista sommer­jobben: – Frustrerende og kjipt",
-      "link": "https://www.kode24.no/artikkel/mista-sommerjobben-frustrerende-og-kjipt/265486",
-      "source": "Kode24",
-      "summary": "Henriette Nystad fikk sommerjobben i Appfarm oktober året før, men i mars brøt selskapet kontrakten.",
-      "published": "2026-06-12T10:37:41Z"
-    },
-    {
-      "id": "99b59ba5cfc5a1eb8140704faa50286e4767d997",
-      "title": "Sparebanken Norge nedbemanner minst 100 – sparer utviklerne",
-      "link": "https://www.kode24.no/artikkel/sparebanken-norge-nedbemanner-minst-100-sparer-utviklerne/265450",
-      "source": "Kode24",
-      "summary": "Sparebanken Norge kutter mellom 100 og 120 årsverk for å bli mer lønnsom.",
-      "published": "2026-06-12T08:26:46Z"
-    },
-    {
-      "id": "6a46b621e6c08a101b3527c5a116f0fcbe1f0b82",
-      "title": "Cloudflare kjøper Vite: «Alltid litt skummelt»",
-      "link": "https://www.kode24.no/artikkel/cloudflare-kjoper-vite-alltid-litt-skummelt/265459",
-      "source": "Kode24",
-      "summary": "VoidZero kjøpt opp av Cloudflare, React Compiler skrives om til Rust og State of CSS 2026 har åpnet for innsendinger, i ukas ForrigeUke.",
-      "published": "2026-06-12T07:38:48Z"
-    },
-    {
-      "id": "9a8546086e6860506f5abdcc4daf71d1c4f7fad1",
-      "title": "Sverige anbefaler 13-årsgrense på mobil",
-      "link": "https://www.kode24.no/artikkel/sverige-anbefaler-13-arsgrense-pa-mobil/265437",
-      "source": "Kode24",
-      "summary": "Mobiltelefonen fortrenger lek, sosialisering og skolearbeid, mener myndighetene.",
-      "published": "2026-06-12T06:35:51Z"
-    },
-    {
-      "id": "fe96a17c72a550992e80c8988b5726ab3f4031da",
-      "title": "Svar på årets lønns­undersøkelse!",
-      "link": "https://www.kode24.no/artikkel/svar-pa-arets-lonnsundersokelse/265385",
-      "source": "Kode24",
-      "summary": "Årets store undersøkelse er ute, om lønn, KI og hvordan du har det på jobb. – For hvor ble det av debatten rundt åpent kontorlandskap?",
-      "published": "2026-06-12T03:00:00Z"
-    },
-    {
       "id": "d212494617a7f2514f65a00dbf26177ebc429e9d",
       "title": "GitHub availability report: May 2026",
       "link": "https://github.blog/news-insights/company-news/github-availability-report-may-2026/",
@@ -186,22 +211,6 @@
       "summary": "Alerts are more trustworthy and actionable when noise is reduced. See how we improved the verification step with context-aware LLM reasoning. The post Making secret scanning more trustworthy: Reducing false positives at scale appeared first on The GitHub Blog.",
       "published": "2026-06-11T16:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2026/06/blog-post-1.png?resize=1024%2C576"
-    },
-    {
-      "id": "d30572f7cf7f013ef34e356a3263540995552f86",
-      "title": "TV 2 rigger seg for 1 million VM-seere på nett: – Sykt mye!",
-      "link": "https://www.kode24.no/artikkel/tv-2-rigger-seg-for-1-million-vm-seere-pa-nett-sykt-mye/265217",
-      "source": "Kode24",
-      "summary": "Den største frykten TV 2-utviklerne før fotball-VM, er at det er noe de ikke har tenkt på.",
-      "published": "2026-06-11T11:23:52Z"
-    },
-    {
-      "id": "801b0814dc9415924608605c29b0e088a095920e",
-      "title": "Kinesiske bedrifter driver «stille nedbemanning», OpenClaw tar over",
-      "link": "https://www.kode24.no/artikkel/kinesiske-bedrifter-driver-stille-nedbemanning-openclaw-tar-over/265367",
-      "source": "Kode24",
-      "summary": "Kinesiske selskaper unngår masseoppsigelser knyttet til KI, men kutter ansatte litt og litt for å opprettholde stabiliteten.",
-      "published": "2026-06-11T11:00:55Z"
     },
     {
       "id": "e0bef26f7c96c1ae147898648442f7cf87b39102",
@@ -235,15 +244,6 @@
       "source": "GitHub Blog",
       "summary": "GitHub Universe is back: returning to the historic Fort Mason Center in San Francisco on October 28–29, 2026. The post GitHub Universe is back: All together now, in the agentic era appeared first on The GitHub Blog.",
       "published": "2026-06-04T16:00:00Z"
-    },
-    {
-      "id": "12c63ecc9a134d40d6871524e36e41494b98e7cf",
-      "title": "GitHub Copilot app: The agent-native desktop experience",
-      "link": "https://github.blog/news-insights/product-news/github-copilot-app-the-agent-native-desktop-experience/",
-      "source": "GitHub Blog",
-      "summary": "At Microsoft Build 2026, GitHub introduced new tools, updates, and surfaces so agents can work the way you already work. The post GitHub Copilot app: The agent-native desktop experience appeared first on The GitHub Blog.",
-      "published": "2026-06-02T17:30:03Z",
-      "image": "https://github.blog/wp-content/uploads/2026/06/CCRPlatform_BlogImage_01.jpg?resize=1024%2C637"
     },
     {
       "id": "7ae1dda67f7f810e6d77f7a3e7778ae9abd39902",
