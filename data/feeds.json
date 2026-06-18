@@ -1,6 +1,55 @@
 {
-  "generated_at": "2026-06-17T11:03:35.225442Z",
+  "generated_at": "2026-06-18T10:25:51.000303Z",
   "items": [
+    {
+      "id": "9b140ac42491c6e43e2ec7de2d049054f5e5528f",
+      "title": "C++-utviklere stoler ikke på KI",
+      "link": "https://www.kode24.no/artikkel/c-utviklere-stoler-ikke-pa-ki/266040",
+      "source": "Kode24",
+      "summary": "42 prosent bruker praktisk talt ikke KI til å skrive kode.",
+      "published": "2026-06-18T08:28:42Z"
+    },
+    {
+      "id": "13d53cef545a7356184c9891926785b6bed46bf9",
+      "title": "TV 2 om Norge-Irak: – Riggen vår fikk kjørt seg godt",
+      "link": "https://www.kode24.no/artikkel/tv-2-om-norge-irak-riggen-var-fikk-kjort-seg-godt/266023",
+      "source": "Kode24",
+      "summary": "TV 2 var spente på hvor mange som ville se Norge mot Irak i Play-appen. Fasit ble rundt 500.000 nett-seere, og ingen større tekniske problemer – uten 4K.",
+      "published": "2026-06-18T08:28:41Z"
+    },
+    {
+      "id": "bffc9eaa9149b684a3089ee4c400bd6a15928130",
+      "title": "Macron og Altman vil ha internasjonale KI-reguleringer",
+      "link": "https://www.kode24.no/artikkel/macron-og-altman-vil-ha-internasjonale-ki-reguleringer/266009",
+      "source": "Kode24",
+      "summary": "– Ikke overlat deres ansvar til KI-selskaper som mitt, sa Sam Altman i OpenAI, og støtter dermed Frankrikes president.",
+      "published": "2026-06-18T06:34:06Z"
+    },
+    {
+      "id": "6098e86b40d8c37fbdc1a660b51e720aac2a2eb9",
+      "title": "– Hjelp! KI-folka kjøper opp all programvare jeg elsker",
+      "link": "https://www.kode24.no/artikkel/hjelp-ki-folka-kjoper-opp-all-programvare-jeg-elsker/265898",
+      "source": "Kode24",
+      "summary": "– De store techselskapene skal hvitvaske seg, forteller Jørgen i kode24.",
+      "published": "2026-06-18T03:00:00Z"
+    },
+    {
+      "id": "03d23cbd049de86d9da58493ad727e1eb9539e73",
+      "title": "Getting more from each token: How Copilot improves context handling and model routing",
+      "link": "https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing/",
+      "source": "GitHub Blog",
+      "summary": "How GitHub Copilot is making more of each session go toward useful work, so your credits go further. The post Getting more from each token: How Copilot improves context handling and model routing appeared first on The GitHub Blog.",
+      "published": "2026-06-17T19:41:46Z",
+      "image": "https://github.blog/wp-content/uploads/2026/06/608776889-fa214f25-8231-4b9f-a0cc-9eff3cbb1be8.png?resize=1024%2C576"
+    },
+    {
+      "id": "427f149bf3ee85ec37f251d8d092776ef9a94291",
+      "title": "– Dette savner jeg i den nasjonale KI-satsningen",
+      "link": "https://www.kode24.no/artikkel/dette-savner-jeg-i-den-nasjonale-ki-satsningen/265903",
+      "source": "Kode24",
+      "summary": "– I finans er antakelsen at løsningen før eller siden svikter, skriver Marielle Mortensdatter, og mener KI Norges nye veilleder bør bli like streng som DORA.",
+      "published": "2026-06-17T13:41:54Z"
+    },
     {
       "id": "7042f67c17e3967a1d6295c7388384e4ecdd5a9e",
       "title": "Datatilsynet åpner tilsyn med Schibsted",
@@ -147,38 +196,6 @@
       "published": "2026-06-15T08:44:46Z"
     },
     {
-      "id": "5f766a839fcbf1270bf0e27ba71cddb16fbf0941",
-      "title": "Knut Magnus (28) ny IOT-utvikler: – Brenner for miljø",
-      "link": "https://www.kode24.no/artikkel/knut-magnus-28-ny-iot-utvikler-brenner-for-miljo/265610",
-      "source": "Kode24",
-      "summary": "Knut Magnus Aasrud (28) skal utvikle solcelle-løsningene til Sunday Power.",
-      "published": "2026-06-15T08:31:00Z"
-    },
-    {
-      "id": "7f7dcd1590f02f912dbbb6a2418110cb780c341a",
-      "title": "Alle modellene spår ulike vinnere av VM",
-      "link": "https://www.kode24.no/artikkel/alle-modellene-spar-ulike-vinnere-av-vm/265594",
-      "source": "Kode24",
-      "summary": "Årets fotball-VM i Nord-Amerika blir det første hvor ChatGPT og andre KI-verktøy er tilgjengelig, og de benyttes til å både hjelpe lagene og spå mulige vinnere.",
-      "published": "2026-06-15T08:30:59Z"
-    },
-    {
-      "id": "ac4d632dc80776bb43fef59080f94e391e339057",
-      "title": "USA skrudde av Anthropic-modell: – Støtt heller Europa",
-      "link": "https://www.kode24.no/artikkel/usa-skrudde-av-anthropic-modell-stott-heller-europa/265560",
-      "source": "Kode24",
-      "summary": "Norske utviklere og KI-eksperter ber folk få opp øya etter at Trump-administrasjonen skrudde av de nyeste modellene.",
-      "published": "2026-06-15T06:39:48Z"
-    },
-    {
-      "id": "6dc356dbc390cdda0dfbeb70d6554df4e0d726b6",
-      "title": "Tise vokser etter eBay-oppkjøp: – Finner vi dyktige folk, har vi rom for flere",
-      "link": "https://www.kode24.no/artikkel/tise-vokser-etter-ebay-oppkjop-finner-vi-dyktige-folk-har-vi-rom-for-flere/264617",
-      "source": "Kode24",
-      "summary": "I høst ville Tise ikke si hva som skjer med de ansatte i Norge etter eBay-oppkjøpet. Nå har de hentet utviklere fra Tidal, Kahoot og Shortcut, og sikter på oppstart i Tyskland.",
-      "published": "2026-06-15T03:00:00Z"
-    },
-    {
       "id": "7b8dd1dbf8a124eaab8a4bd9b7301c88c4511463",
       "title": "How we made GitHub Copilot CLI more selective about delegation",
       "link": "https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation/",
@@ -186,14 +203,6 @@
       "summary": "Better orchestration, fewer handoffs, faster progress, without a single new knob. The post How we made GitHub Copilot CLI more selective about delegation appeared first on The GitHub Blog.",
       "published": "2026-06-12T22:26:23Z",
       "image": "https://github.blog/wp-content/uploads/2026/06/fig1-tool-failures.gif?resize=768%2C432"
-    },
-    {
-      "id": "85d4500cd8b5c56f753cbb5a70242d50a12a035d",
-      "title": "KI Norge: – Vi skal bli verdens mest digitaliserte land, og lede an trygg KI-bruk",
-      "link": "https://www.kode24.no/artikkel/ki-norge-vi-skal-bli-verdens-mest-digitaliserte-land-og-lede-an-trygg-ki-bruk/265536",
-      "source": "Kode24",
-      "summary": "Fredag lanserte digitaliseringsminister Karianne Tung KI Norge: En ny nasjonal arena som skal legge til rette for \"god og ansvarlig bruk av kunstig intelligens\".",
-      "published": "2026-06-12T12:35:48Z"
     },
     {
       "id": "d212494617a7f2514f65a00dbf26177ebc429e9d",
@@ -236,14 +245,6 @@
       "source": "GitHub Blog",
       "summary": "Find the answers to some of the most common GitHub-related questions. The post GitHub for Beginners: Answers to some common questions appeared first on The GitHub Blog.",
       "published": "2026-06-08T16:00:00Z"
-    },
-    {
-      "id": "cc2e5061e1650625eb63b62a82d70ae15b42100f",
-      "title": "GitHub Universe is back: All together now, in the agentic era",
-      "link": "https://github.blog/news-insights/company-news/github-universe-is-back-all-together-now-in-the-agentic-era/",
-      "source": "GitHub Blog",
-      "summary": "GitHub Universe is back: returning to the historic Fort Mason Center in San Francisco on October 28–29, 2026. The post GitHub Universe is back: All together now, in the agentic era appeared first on The GitHub Blog.",
-      "published": "2026-06-04T16:00:00Z"
     },
     {
       "id": "7ae1dda67f7f810e6d77f7a3e7778ae9abd39902",
