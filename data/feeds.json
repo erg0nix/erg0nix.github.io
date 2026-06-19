@@ -1,6 +1,63 @@
 {
-  "generated_at": "2026-06-18T10:25:51.000303Z",
+  "generated_at": "2026-06-19T10:43:01.930225Z",
   "items": [
+    {
+      "id": "4a33d9dec2f4b477f95b75afee6c57f25f5dc941",
+      "title": "Beklager: Sendte pressemelding med KI-generert bilde",
+      "link": "https://www.kode24.no/artikkel/beklager-sendte-pressemelding-med-ki-generert-bilde/266160",
+      "source": "Kode24",
+      "summary": "Bildeteksten hevda å vise et møte blant offentlige KI-eksperter. Men noe sånt bilde ble aldri tatt, og Statens vegvesen beklager og trekker KI-bildet.",
+      "published": "2026-06-19T08:49:29Z"
+    },
+    {
+      "id": "e73d01a27e97f53c55f54e10fc59966e52905164",
+      "title": "Disse 3 problemene møter det offentlige med KI-kode",
+      "link": "https://www.kode24.no/artikkel/disse-3-problemene-moter-det-offentlige-med-ki-kode/266126",
+      "source": "Kode24",
+      "summary": "Nå vil de samarbeide tettere for å løse utfordringene rundt KI i utvikling.",
+      "published": "2026-06-19T08:13:05Z"
+    },
+    {
+      "id": "33c6b77516da46118c4f8e6dbc90d00d0cc8265f",
+      "title": "Amazon-ansatte risikerer oppsigelser etter datasenter-protest",
+      "link": "https://www.kode24.no/artikkel/amazon-ansatte-risikerer-oppsigelser-etter-datasenter-protest/266122",
+      "source": "Kode24",
+      "summary": "Amazon-ansatte støttet strengere regulering av datasentre i Seattle. Nå truer selskapet med å sparke dem.",
+      "published": "2026-06-19T08:12:51Z"
+    },
+    {
+      "id": "3a73c311dcc4bffccc6b1f6b6116d29fdd151080",
+      "title": "OpenAI åpner kontor i Stockholm",
+      "link": "https://www.kode24.no/artikkel/openai-apner-kontor-i-stockholm/266110",
+      "source": "Kode24",
+      "summary": "– Sverige har et av Europas mest avanserte teknologimiljøer og skarp ingeniørkompetanse, mener selskapet.",
+      "published": "2026-06-19T06:31:32Z"
+    },
+    {
+      "id": "ca59e4b2ce3d4b4c9edd8c03c8c15f81640f87f5",
+      "title": "Bare 15 prosent er kvinner, men: «Gi f*en i å fokusere så mye på det!»",
+      "link": "https://www.kode24.no/artikkel/bare-15-prosent-er-kvinner-men-gi-fen-i-a-fokusere-sa-mye-pa-det/266079",
+      "source": "Kode24",
+      "summary": "Mens kvinner føler seg ensomme i norske utvikleravdelinger, mener andre menn at de skal slutte å bry seg, skriver Ole Petter i ukas nyhetsbrev.",
+      "published": "2026-06-19T03:00:00Z"
+    },
+    {
+      "id": "e4c973301acc4bacaba01c19d595559c594a7b02",
+      "title": "How pull request limits are cutting down the noise",
+      "link": "https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/",
+      "source": "GitHub Blog",
+      "summary": "Learn how pull request limits can help manage contribution volume in your repositories, and see what’s next on the roadmap. The post How pull request limits are cutting down the noise appeared first on The GitHub Blog.",
+      "published": "2026-06-18T16:00:00Z",
+      "image": "https://github.blog/wp-content/uploads/2026/06/608690507-ead99df1-2879-43d6-8f5b-f04431eeefcf.jpg?resize=1024%2C566"
+    },
+    {
+      "id": "3a861bf8b5de5a784c8a1a76f31e58e730f1e00d",
+      "title": "Amélie lever startup-drømmen i USA: – For god mulighet til å si nei til!",
+      "link": "https://www.kode24.no/artikkel/amelie-lever-startup-drommen-i-usa-for-god-mulighet-til-a-si-nei-til/265425",
+      "source": "Kode24",
+      "summary": "Gründerskolen ved UiO sender utviklerstudenter til USA. Men nå er det ikke lenger bare San Fransisco som gjelder.",
+      "published": "2026-06-18T10:44:05Z"
+    },
     {
       "id": "9b140ac42491c6e43e2ec7de2d049054f5e5528f",
       "title": "C++-utviklere stoler ikke på KI",
@@ -132,38 +189,6 @@
       "published": "2026-06-16T09:08:43Z"
     },
     {
-      "id": "af5e08f0b0895f619b1a5df31e141173e698164f",
-      "title": "Nordiske bedrifter sliter med å få verdi ut av KI",
-      "link": "https://www.kode24.no/artikkel/nordiske-bedrifter-sliter-med-a-fa-verdi-ut-av-ki/265711",
-      "source": "Kode24",
-      "summary": "Under én av fem bedrifter har skapt «betydelig verdi» med KI, ifølge fersk IT-rapport. – Sett konkrete mål, og mål om dere lykkes, tipser Atea-sjefen.",
-      "published": "2026-06-16T09:08:42Z"
-    },
-    {
-      "id": "a573535d659bb2ea70fd51f92dfb242cba49c7b2",
-      "title": "– KI ser foreløpig ikke ut til å gi en bred jobbkrise i Norge",
-      "link": "https://www.kode24.no/artikkel/ki-ser-forelopig-ikke-ut-til-a-gi-en-bred-jobbkrise-i-norge/265714",
-      "source": "Kode24",
-      "summary": "– Men de yngste arbeidstakerne i de mest KI-utsatte yrkene skiller seg ut, sier skaperne av KI-indeksen.",
-      "published": "2026-06-16T07:13:17Z"
-    },
-    {
-      "id": "cb42a5d7ee5ccd57567c0556be6f3a06d441f26a",
-      "title": "Norske redaktører om dansk KI-forslag: «Håpløst»",
-      "link": "https://www.kode24.no/artikkel/norske-redaktorer-om-dansk-ki-forslag-haplost/265695",
-      "source": "Kode24",
-      "summary": "Danske myndigheter vil ikke gi pressestøtte til KI-genererte nyheter. Det faller i dårlig smak her til lands.",
-      "published": "2026-06-16T06:36:51Z"
-    },
-    {
-      "id": "664d11e3aebe7dd6c6a6ad72e56c3bdf4b6ec6bc",
-      "title": "– Jeg leverer mer enn noengang. Hvorfor føles det ikke alltid bra?",
-      "link": "https://www.kode24.no/artikkel/jeg-leverer-mer-enn-noengang-hvorfor-foles-det-ikke-alltid-bra/265645",
-      "source": "Kode24",
-      "summary": "Tech lead Petter Johan Sandvand Crantz kjenner på \"KI-apati\": – En underlig tomhet midt i produktiviteten.",
-      "published": "2026-06-16T03:00:00Z"
-    },
-    {
       "id": "8937ac663544954ba4c8e8a46c9fcd8da0f8d065",
       "title": "GitHub Copilot CLI for Beginners: Overview of common slash commands",
       "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands/",
@@ -178,22 +203,6 @@
       "source": "GitHub Blog",
       "summary": "A new repository-level dataset, published on GitHub under CC0-1.0, helps researchers and developers discover multilingual developer content across READMEs, issues, and pull requests. The post Accelerating researchers and developers building multilingual AI with a new open dataset appeared first on...",
       "published": "2026-06-15T19:17:30Z"
-    },
-    {
-      "id": "e6307b07f666dd0b3e7fe217412e40787cf643c4",
-      "title": "Stack Overflow er praktisk talt død – nå tar agentene over dødsboet",
-      "link": "https://www.kode24.no/artikkel/stack-overflow-er-praktisk-talt-dod-na-tar-agentene-over-dodsboet/265670",
-      "source": "Kode24",
-      "summary": "\"Stack Overflow for Agents\" lar KI-en din stille spørsmål til andre KI-er.",
-      "published": "2026-06-15T12:42:36Z"
-    },
-    {
-      "id": "0d47918fae267f09c5e10814816c22f2b9aa2c6a",
-      "title": "Vedtar ny lov: Blir lettere å få offentlige data",
-      "link": "https://www.kode24.no/artikkel/vedtar-ny-lov-blir-lettere-a-fa-offentlige-data/265583",
-      "source": "Kode24",
-      "summary": "Offentlig sektor må registrere all type data de deler i en nasjonal datakatalog. Frp og Sp er bekymret for kostnadene for kommunene.",
-      "published": "2026-06-15T08:44:46Z"
     },
     {
       "id": "7b8dd1dbf8a124eaab8a4bd9b7301c88c4511463",
@@ -237,14 +246,6 @@
       "summary": "Custom agents let GitHub Copilot CLI understand your stack and team workflows, turning one-off terminal prompts into repeatable, reviewable processes. The post From one-off prompts to workflows: How to use custom agents in GitHub Copilot CLI appeared first on The GitHub Blog.",
       "published": "2026-06-09T16:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2026/05/screenshot.png?resize=1024%2C296"
-    },
-    {
-      "id": "19cba630e695086263bbc7f48d31f9cb850755e5",
-      "title": "GitHub for Beginners: Answers to some common questions",
-      "link": "https://github.blog/developer-skills/github/github-for-beginners-answers-to-some-common-questions/",
-      "source": "GitHub Blog",
-      "summary": "Find the answers to some of the most common GitHub-related questions. The post GitHub for Beginners: Answers to some common questions appeared first on The GitHub Blog.",
-      "published": "2026-06-08T16:00:00Z"
     },
     {
       "id": "7ae1dda67f7f810e6d77f7a3e7778ae9abd39902",
