@@ -1,6 +1,31 @@
 {
-  "generated_at": "2026-06-19T10:43:01.930225Z",
+  "generated_at": "2026-06-20T09:22:51.320287Z",
   "items": [
+    {
+      "id": "3fac66931ef47ad20c4da19e3191e21233757d63",
+      "title": "How we built an internal data analytics agent",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-we-built-an-internal-data-analytics-agent/",
+      "source": "GitHub Blog",
+      "summary": "Qubot, our internal Copilot-powered analytics agent, allows any GitHub employee to ask questions about our data in plain language. Here's what we learned as we built it. The post How we built an internal data analytics agent appeared first on The GitHub Blog.",
+      "published": "2026-06-19T16:00:00Z",
+      "image": "https://github.blog/wp-content/uploads/2026/06/architecture.png?resize=1024%2C753"
+    },
+    {
+      "id": "4e223c22bf6ec4eff6fc76c0b2bf61e61b40ec82",
+      "title": "700 søkte sommer­jobb i Computas, disse 10 fikk en",
+      "link": "https://www.kode24.no/artikkel/700-sokte-sommerjobb-i-computas-disse-10-fikk-en/266194",
+      "source": "Kode24",
+      "summary": "Studentene skal jobbe med KI-oppdrag hos kunder som UDI og Azets.",
+      "published": "2026-06-19T12:14:19Z"
+    },
+    {
+      "id": "ec409676b6126826da3770e3ca3d66212d104490",
+      "title": "Ber skolene holde barna unna KI",
+      "link": "https://www.kode24.no/artikkel/ber-skolene-holde-barna-unna-ki/266179",
+      "source": "Kode24",
+      "summary": "– Det aller viktigste i skolen er at barna våre lærer å lese, skrive og regne, sier statsministeren, og sender ut nasjonale KI-anbefalinger til skolene.",
+      "published": "2026-06-19T10:41:58Z"
+    },
     {
       "id": "4a33d9dec2f4b477f95b75afee6c57f25f5dc941",
       "title": "Beklager: Sendte pressemelding med KI-generert bilde",
@@ -173,22 +198,6 @@
       "published": "2026-06-16T13:04:44Z"
     },
     {
-      "id": "48d52b1f2a7e2850b9994036a5d34adc85650337",
-      "title": "Tung advarer mot å «stagnere» mens KI-utviklingen tar av",
-      "link": "https://www.kode24.no/artikkel/tung-advarer-mot-a-stagnere-mens-ki-utviklingen-tar-av/265756",
-      "source": "Kode24",
-      "summary": "Digitaliseringsministeren vil satse på kunstig intelligens i hele samfunnet. – Spørsmålet er ikke om vi skal gripe mulighetene i KI, men om vi skal lede an i utviklingen.",
-      "published": "2026-06-16T09:38:18Z"
-    },
-    {
-      "id": "8b64536d5c8af5997d1539d202c4a963e0a80345",
-      "title": "Vestlands-kommuner bygger egen KI-plattform: — Vi har ansvar for å håndtere data trygt",
-      "link": "https://www.kode24.no/artikkel/vestlands-kommuner-bygger-egen-ki-plattform-vi-har-ansvar-for-a-handtere-data-trygt/265723",
-      "source": "Kode24",
-      "summary": "15 vestlandskommuner tar i bruk egenutviklede Veten, som skal være billigere og tryggere.",
-      "published": "2026-06-16T09:08:43Z"
-    },
-    {
       "id": "8937ac663544954ba4c8e8a46c9fcd8da0f8d065",
       "title": "GitHub Copilot CLI for Beginners: Overview of common slash commands",
       "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-cli-for-beginners-overview-of-common-slash-commands/",
@@ -237,15 +246,6 @@
       "source": "GitHub Blog",
       "summary": "Install and configure LSP servers for GitHub Copilot CLI, replacing brute-force grep/decompile with real code intelligence. The post Give GitHub Copilot CLI real code intelligence with language servers appeared first on The GitHub Blog.",
       "published": "2026-06-10T16:00:00Z"
-    },
-    {
-      "id": "6c989365ddb125b6cbbc3ba8f170b7a9f7055ec0",
-      "title": "From one-off prompts to workflows: How to use custom agents in GitHub Copilot CLI",
-      "link": "https://github.blog/ai-and-ml/github-copilot/from-one-off-prompts-to-workflows-how-to-use-custom-agents-in-github-copilot-cli/",
-      "source": "GitHub Blog",
-      "summary": "Custom agents let GitHub Copilot CLI understand your stack and team workflows, turning one-off terminal prompts into repeatable, reviewable processes. The post From one-off prompts to workflows: How to use custom agents in GitHub Copilot CLI appeared first on The GitHub Blog.",
-      "published": "2026-06-09T16:00:00Z",
-      "image": "https://github.blog/wp-content/uploads/2026/05/screenshot.png?resize=1024%2C296"
     },
     {
       "id": "7ae1dda67f7f810e6d77f7a3e7778ae9abd39902",
