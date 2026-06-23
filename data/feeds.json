@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-06-22T12:11:03.083516Z",
+  "generated_at": "2026-06-23T09:48:55.449766Z",
   "items": [
+    {
+      "id": "c4662777c23a5654b70e2047240ee2fd8ebe1cb9",
+      "title": "DigDir angrepet – førte til nedetida i helga",
+      "link": "https://www.kode24.no/artikkel/digdir-angrepet-forte-til-nedetida-i-helga/266435",
+      "source": "Kode24",
+      "summary": "Grunnen til at mange norske offentlige tjenester gikk ned, var et DDoS-angrep mot leverandøren.",
+      "published": "2026-06-23T08:48:02Z"
+    },
+    {
+      "id": "8d9aea1f25fd1ee7d7f82ec889b181c307560e7a",
+      "title": "Norske FotMob tar av under VM: Ble #2 av alle apper i Portugal",
+      "link": "https://www.kode24.no/artikkel/norske-fotmob-tar-av-under-vm-ble-2-av-alle-apper-i-portugal/266219",
+      "source": "Kode24",
+      "summary": "Selskapet har firedoblet den daglige nedlastingstakten siden VM sparket i gang.",
+      "published": "2026-06-23T08:02:56Z"
+    },
+    {
+      "id": "85aa9ec300f494ef02429a884171b7f5ade6e083",
+      "title": "NHO: – Finnes ingen «VM-unntaks­tilstand» i arbeidslivet",
+      "link": "https://www.kode24.no/artikkel/nho-finnes-ingen-vm-unntakstilstand-i-arbeidslivet/266410",
+      "source": "Kode24",
+      "summary": "Men det er innenfor å være trøtt på jobb, mener NHO.",
+      "published": "2026-06-23T06:15:45Z"
+    },
+    {
+      "id": "417595095be646826b6f984c57626b3e042ff9c3",
+      "title": "Oppgitt over mangfolds-debatt hos utviklere: «Fordummende»",
+      "link": "https://www.kode24.no/artikkel/oppgitt-over-mangfolds-debatt-hos-utviklere-fordummende/266337",
+      "source": "Kode24",
+      "summary": "– Vi alle tjent med å heve samtalen til et nivå hvor man ikke får inntrykk av at avsender er bedugget eller mindre begavet, skriver Jakob Sverre Løvstad etter den siste kjønnsdebatten.",
+      "published": "2026-06-23T03:00:00Z"
+    },
+    {
+      "id": "cc4cf48fcbb182bf3021bef8f48e50aa7dc4045b",
+      "title": "From pledge to practice: Building a more inclusive open source ecosystem",
+      "link": "https://github.blog/open-source/from-pledge-to-practice-building-a-more-inclusive-open-source-ecosystem/",
+      "source": "GitHub Blog",
+      "summary": "Learn about the progress we’ve made toward our accessibility goals and how you can help make open source more inclusive. The post From pledge to practice: Building a more inclusive open source ecosystem appeared first on The GitHub Blog.",
+      "published": "2026-06-22T17:20:31Z"
+    },
+    {
+      "id": "6eeabba55063957c01a0e22232d2786ebb3047bb",
+      "title": "Tung om Schibsteds annonse­modell: «Uheldig»",
+      "link": "https://www.kode24.no/artikkel/tung-om-schibsteds-annonsemodell-uheldig/266325",
+      "source": "Kode24",
+      "summary": "Schibsted krever betaling for å ikke spore lesere. Digitaliseringsministeren mener det er uheldig dersom «brukerens betalingsevne i praksis blir avgjørende for om det gis samtykke eller ikke».",
+      "published": "2026-06-22T12:47:12Z"
+    },
+    {
+      "id": "c22be66169b56b453d2eca0d4b334891b106c290",
+      "title": "Norsk politi skal sende droner fra automatiske hangarer",
+      "link": "https://www.kode24.no/artikkel/norsk-politi-skal-sende-droner-fra-automatiske-hangarer/266363",
+      "source": "Kode24",
+      "summary": "Men avviser at de skal brukes til patruljering.",
+      "published": "2026-06-22T12:16:11Z"
+    },
     {
       "id": "a0df6170c452843aa9ebe116b486c5e9d8a3f662",
       "title": "Cursors Origin er GitHub for KI-agenter: – Jeg er usikker på om vi trenger det",
@@ -132,30 +188,6 @@
       "published": "2026-06-18T08:28:42Z"
     },
     {
-      "id": "13d53cef545a7356184c9891926785b6bed46bf9",
-      "title": "TV 2 om Norge-Irak: – Riggen vår fikk kjørt seg godt",
-      "link": "https://www.kode24.no/artikkel/tv-2-om-norge-irak-riggen-var-fikk-kjort-seg-godt/266023",
-      "source": "Kode24",
-      "summary": "TV 2 var spente på hvor mange som ville se Norge mot Irak i Play-appen. Fasit ble rundt 500.000 nett-seere, og ingen større tekniske problemer – uten 4K.",
-      "published": "2026-06-18T08:28:41Z"
-    },
-    {
-      "id": "bffc9eaa9149b684a3089ee4c400bd6a15928130",
-      "title": "Macron og Altman vil ha internasjonale KI-reguleringer",
-      "link": "https://www.kode24.no/artikkel/macron-og-altman-vil-ha-internasjonale-ki-reguleringer/266009",
-      "source": "Kode24",
-      "summary": "– Ikke overlat deres ansvar til KI-selskaper som mitt, sa Sam Altman i OpenAI, og støtter dermed Frankrikes president.",
-      "published": "2026-06-18T06:34:06Z"
-    },
-    {
-      "id": "6098e86b40d8c37fbdc1a660b51e720aac2a2eb9",
-      "title": "– Hjelp! KI-folka kjøper opp all programvare jeg elsker",
-      "link": "https://www.kode24.no/artikkel/hjelp-ki-folka-kjoper-opp-all-programvare-jeg-elsker/265898",
-      "source": "Kode24",
-      "summary": "– De store techselskapene skal hvitvaske seg, forteller Jørgen i kode24.",
-      "published": "2026-06-18T03:00:00Z"
-    },
-    {
       "id": "03d23cbd049de86d9da58493ad727e1eb9539e73",
       "title": "Getting more from each token: How Copilot improves context handling and model routing",
       "link": "https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing/",
@@ -163,30 +195,6 @@
       "summary": "How GitHub Copilot is making more of each session go toward useful work, so your credits go further. The post Getting more from each token: How Copilot improves context handling and model routing appeared first on The GitHub Blog.",
       "published": "2026-06-17T19:41:46Z",
       "image": "https://github.blog/wp-content/uploads/2026/06/608776889-fa214f25-8231-4b9f-a0cc-9eff3cbb1be8.png?resize=1024%2C576"
-    },
-    {
-      "id": "427f149bf3ee85ec37f251d8d092776ef9a94291",
-      "title": "– Dette savner jeg i den nasjonale KI-satsningen",
-      "link": "https://www.kode24.no/artikkel/dette-savner-jeg-i-den-nasjonale-ki-satsningen/265903",
-      "source": "Kode24",
-      "summary": "– I finans er antakelsen at løsningen før eller siden svikter, skriver Marielle Mortensdatter, og mener KI Norges nye veilleder bør bli like streng som DORA.",
-      "published": "2026-06-17T13:41:54Z"
-    },
-    {
-      "id": "7042f67c17e3967a1d6295c7388384e4ecdd5a9e",
-      "title": "Datatilsynet åpner tilsyn med Schibsted",
-      "link": "https://www.kode24.no/artikkel/datatilsynet-apner-tilsyn-med-schibsted/265921",
-      "source": "Kode24",
-      "summary": "Datatilsynet har fått 100 tips og over 30 klager på Schibsteds «consent og pay»-løsning. – Selger ikke personvern, kontrer mediekonsernet.",
-      "published": "2026-06-17T08:57:56Z"
-    },
-    {
-      "id": "bb2a5901135e14a98ec25297278d6ae528f1a6ca",
-      "title": "Microsoft gir ut Copilot Cowork – tar betalt per bruk",
-      "link": "https://www.kode24.no/artikkel/microsoft-gir-ut-copilot-cowork-tar-betalt-per-bruk/265901",
-      "source": "Kode24",
-      "summary": "Kundene til Microsoft skal måtte betale for hver gang de bruker den nye KI-agenten, Copilot Cowork, som ble lansert tirsdag. Det skal motvirke kjemperegninger.",
-      "published": "2026-06-17T08:34:04Z"
     },
     {
       "id": "54579fac185ee6061d4abeb27e592dc3f1941032",
@@ -238,14 +246,6 @@
       "summary": "Alerts are more trustworthy and actionable when noise is reduced. See how we improved the verification step with context-aware LLM reasoning. The post Making secret scanning more trustworthy: Reducing false positives at scale appeared first on The GitHub Blog.",
       "published": "2026-06-11T16:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2026/06/blog-post-1.png?resize=1024%2C576"
-    },
-    {
-      "id": "e0bef26f7c96c1ae147898648442f7cf87b39102",
-      "title": "Give GitHub Copilot CLI real code intelligence with language servers",
-      "link": "https://github.blog/ai-and-ml/github-copilot/give-github-copilot-cli-real-code-intelligence-with-language-servers/",
-      "source": "GitHub Blog",
-      "summary": "Install and configure LSP servers for GitHub Copilot CLI, replacing brute-force grep/decompile with real code intelligence. The post Give GitHub Copilot CLI real code intelligence with language servers appeared first on The GitHub Blog.",
-      "published": "2026-06-10T16:00:00Z"
     },
     {
       "id": "7ae1dda67f7f810e6d77f7a3e7778ae9abd39902",
