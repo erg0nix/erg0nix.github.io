@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-06-23T09:48:55.449766Z",
+  "generated_at": "2026-06-24T09:37:03.804822Z",
   "items": [
+    {
+      "id": "9ef68870deebdad7ee8cfae0d215a5154bb33fe4",
+      "title": "Coop ansetter 16 nye utviklere, satser på personalisering",
+      "link": "https://www.kode24.no/artikkel/coop-ansetter-16-nye-utviklere-satser-pa-personalisering/266606",
+      "source": "Kode24",
+      "summary": "Vil bruke alt de vet om folk for å selge dem mer ting.",
+      "published": "2026-06-24T08:58:50Z"
+    },
+    {
+      "id": "1fa0a63d3e621fa41e9fa4bdf70891efb7dd3923",
+      "title": "Vil ha slutt på at Norge bare kjøper fra tek-giganter",
+      "link": "https://www.kode24.no/artikkel/vil-ha-slutt-pa-at-norge-bare-kjoper-fra-tek-giganter/266557",
+      "source": "Kode24",
+      "summary": "Forbrukerrådet, Tekna og Nito roper varsko til digitaliseringsministeren: – I dag investerer vi enorme summer i de globale teknologiselskapene. Det må ta slutt.",
+      "published": "2026-06-24T06:25:10Z"
+    },
+    {
+      "id": "841e07d8169e69f2a13dbbdd0f0a4113f18a2db7",
+      "title": "16-åring mener han fikk depresjon og angst av YouTube – inngår forlik",
+      "link": "https://www.kode24.no/artikkel/16-aring-mener-han-fikk-depresjon-og-angst-av-youtube-inngar-forlik/266547",
+      "source": "Kode24",
+      "summary": "– Vi vil fortsette kampen på vegne av alle som er rammet av avhengighet av sosiale medier, sier advokaten.",
+      "published": "2026-06-24T06:16:37Z"
+    },
+    {
+      "id": "230ad44bc5d69f77206ba24a959ba81e716260cf",
+      "title": "Raser mot Skatteetatens «løgnhals av en chatbot» etter bomtur",
+      "link": "https://www.kode24.no/artikkel/raser-mot-skatteetatens-lognhals-av-en-chatbot-etter-bomtur/266304",
+      "source": "Kode24",
+      "summary": "Hilde Skar Olsen tok buss i åtte timer etter feil svar fra Skatteetatens KI-chatbot. – Jeg ble først sjokkert, så fly forbanna, forteller hun, mens etaten forsvarer teknologien.",
+      "published": "2026-06-24T03:00:00Z"
+    },
+    {
+      "id": "8fdf484fe1ad997d5be0f86143e7e07c4d8506ed",
+      "title": "I automated my job (and it made me a better leader)",
+      "link": "https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader/",
+      "source": "GitHub Blog",
+      "summary": "Explore how my day as a senior leader looks now that I use 40 automations to help, and learn more about some of my favorites. The post I automated my job (and it made me a better leader) appeared first on The GitHub Blog.",
+      "published": "2026-06-23T16:00:00Z"
+    },
+    {
+      "id": "51615002392f9072c5833549a3c4d21562d69c12",
+      "title": "GitHub joins coalition advocating for fixes to California AI Transparency Act to protect open source",
+      "link": "https://github.blog/news-insights/policy-news-and-insights/github-joins-coalition-advocating-for-fixes-to-california-ai-transparency-act-to-protect-open-source/",
+      "source": "GitHub Blog",
+      "summary": "We’re calling for targeted amendments to resolve conflicts with open source licensing and align with international transparency frameworks while preserving regulatory intent. The post GitHub joins coalition advocating for fixes to California AI Transparency Act to protect open source appeared first...",
+      "published": "2026-06-23T15:48:00Z",
+      "image": "https://github.blog/wp-content/uploads/2026/06/Screenshot-2026-06-23-at-10.41.24-AM.png?resize=906%2C974"
+    },
+    {
+      "id": "b8072488172da15fc2ab333add4651724cb77feb",
+      "title": "Meta: Sporings­program på pause – tok opp ansattes tastetrykk",
+      "link": "https://www.kode24.no/artikkel/meta-sporingsprogram-pa-pause-tok-opp-ansattes-tastetrykk/266481",
+      "source": "Kode24",
+      "summary": "Meta setter det interne sporingsprogrammet MCI på pause etter at potensielt sensitivt data er lekket til ansatte som ikke skulle ha hatt tilgang.",
+      "published": "2026-06-23T12:55:58Z"
+    },
+    {
+      "id": "78dad4dd54bc216915623192b10a1f8fc2881425",
+      "title": "Magnus gir agenter tilgang til Sparebank 1",
+      "link": "https://www.kode24.no/artikkel/magnus-gir-agenter-tilgang-til-sparebank-1/266444",
+      "source": "Kode24",
+      "summary": "– Jeg skrev ingenting av koden for hånd, forteller utvikler Magnus Rødseth. Han koblet bankkontoen til KI-agenten, fikk øl-råd og deler nå prosjektet.",
+      "published": "2026-06-23T11:41:51Z"
+    },
     {
       "id": "c4662777c23a5654b70e2047240ee2fd8ebe1cb9",
       "title": "DigDir angrepet – førte til nedetida i helga",
@@ -131,38 +196,6 @@
       "published": "2026-06-19T08:49:29Z"
     },
     {
-      "id": "e73d01a27e97f53c55f54e10fc59966e52905164",
-      "title": "Disse 3 problemene møter det offentlige med KI-kode",
-      "link": "https://www.kode24.no/artikkel/disse-3-problemene-moter-det-offentlige-med-ki-kode/266126",
-      "source": "Kode24",
-      "summary": "Nå vil de samarbeide tettere for å løse utfordringene rundt KI i utvikling.",
-      "published": "2026-06-19T08:13:05Z"
-    },
-    {
-      "id": "33c6b77516da46118c4f8e6dbc90d00d0cc8265f",
-      "title": "Amazon-ansatte risikerer oppsigelser etter datasenter-protest",
-      "link": "https://www.kode24.no/artikkel/amazon-ansatte-risikerer-oppsigelser-etter-datasenter-protest/266122",
-      "source": "Kode24",
-      "summary": "Amazon-ansatte støttet strengere regulering av datasentre i Seattle. Nå truer selskapet med å sparke dem.",
-      "published": "2026-06-19T08:12:51Z"
-    },
-    {
-      "id": "3a73c311dcc4bffccc6b1f6b6116d29fdd151080",
-      "title": "OpenAI åpner kontor i Stockholm",
-      "link": "https://www.kode24.no/artikkel/openai-apner-kontor-i-stockholm/266110",
-      "source": "Kode24",
-      "summary": "– Sverige har et av Europas mest avanserte teknologimiljøer og skarp ingeniørkompetanse, mener selskapet.",
-      "published": "2026-06-19T06:31:32Z"
-    },
-    {
-      "id": "ca59e4b2ce3d4b4c9edd8c03c8c15f81640f87f5",
-      "title": "Bare 15 prosent er kvinner, men: «Gi f*en i å fokusere så mye på det!»",
-      "link": "https://www.kode24.no/artikkel/bare-15-prosent-er-kvinner-men-gi-fen-i-a-fokusere-sa-mye-pa-det/266079",
-      "source": "Kode24",
-      "summary": "Mens kvinner føler seg ensomme i norske utvikleravdelinger, mener andre menn at de skal slutte å bry seg, skriver Ole Petter i ukas nyhetsbrev.",
-      "published": "2026-06-19T03:00:00Z"
-    },
-    {
       "id": "e4c973301acc4bacaba01c19d595559c594a7b02",
       "title": "How pull request limits are cutting down the noise",
       "link": "https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/",
@@ -170,22 +203,6 @@
       "summary": "Learn how pull request limits can help manage contribution volume in your repositories, and see what’s next on the roadmap. The post How pull request limits are cutting down the noise appeared first on The GitHub Blog.",
       "published": "2026-06-18T16:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2026/06/608690507-ead99df1-2879-43d6-8f5b-f04431eeefcf.jpg?resize=1024%2C566"
-    },
-    {
-      "id": "3a861bf8b5de5a784c8a1a76f31e58e730f1e00d",
-      "title": "Amélie lever startup-drømmen i USA: – For god mulighet til å si nei til!",
-      "link": "https://www.kode24.no/artikkel/amelie-lever-startup-drommen-i-usa-for-god-mulighet-til-a-si-nei-til/265425",
-      "source": "Kode24",
-      "summary": "Gründerskolen ved UiO sender utviklerstudenter til USA. Men nå er det ikke lenger bare San Fransisco som gjelder.",
-      "published": "2026-06-18T10:44:05Z"
-    },
-    {
-      "id": "9b140ac42491c6e43e2ec7de2d049054f5e5528f",
-      "title": "C++-utviklere stoler ikke på KI",
-      "link": "https://www.kode24.no/artikkel/c-utviklere-stoler-ikke-pa-ki/266040",
-      "source": "Kode24",
-      "summary": "42 prosent bruker praktisk talt ikke KI til å skrive kode.",
-      "published": "2026-06-18T08:28:42Z"
     },
     {
       "id": "03d23cbd049de86d9da58493ad727e1eb9539e73",
@@ -229,23 +246,6 @@
       "summary": "Better orchestration, fewer handoffs, faster progress, without a single new knob. The post How we made GitHub Copilot CLI more selective about delegation appeared first on The GitHub Blog.",
       "published": "2026-06-12T22:26:23Z",
       "image": "https://github.blog/wp-content/uploads/2026/06/fig1-tool-failures.gif?resize=768%2C432"
-    },
-    {
-      "id": "d212494617a7f2514f65a00dbf26177ebc429e9d",
-      "title": "GitHub availability report: May 2026",
-      "link": "https://github.blog/news-insights/company-news/github-availability-report-may-2026/",
-      "source": "GitHub Blog",
-      "summary": "In May, we experienced nine incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: May 2026 appeared first on The GitHub Blog.",
-      "published": "2026-06-11T21:30:15Z"
-    },
-    {
-      "id": "8a6f28e3f280178c9787a0c50b269aa652cccf08",
-      "title": "Making secret scanning more trustworthy: Reducing false positives at scale",
-      "link": "https://github.blog/security/making-secret-scanning-more-trustworthy-reducing-false-positives-at-scale/",
-      "source": "GitHub Blog",
-      "summary": "Alerts are more trustworthy and actionable when noise is reduced. See how we improved the verification step with context-aware LLM reasoning. The post Making secret scanning more trustworthy: Reducing false positives at scale appeared first on The GitHub Blog.",
-      "published": "2026-06-11T16:00:00Z",
-      "image": "https://github.blog/wp-content/uploads/2026/06/blog-post-1.png?resize=1024%2C576"
     },
     {
       "id": "7ae1dda67f7f810e6d77f7a3e7778ae9abd39902",
