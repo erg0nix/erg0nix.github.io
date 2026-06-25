@@ -1,12 +1,36 @@
 {
-  "generated_at": "2026-06-24T09:37:03.804822Z",
+  "generated_at": "2026-06-25T09:28:01.642551Z",
   "items": [
+    {
+      "id": "bfb19775156c2983bee1a79754ed4586814d2789",
+      "title": "UiB skal lære folket om kvante. Men hva er det?",
+      "link": "https://www.kode24.no/artikkel/uib-skal-laere-folket-om-kvante-men-hva-er-det/265363",
+      "source": "Kode24",
+      "summary": "Utviklere bør bry seg om kvanteteknologi, mener forskerne i Bergen. – Dette er en teknologi som kommer, og det kan være lurt å være forberedt på det.",
+      "published": "2026-06-25T03:00:00Z"
+    },
+    {
+      "id": "f5d8e60dacf5cf3eb9c27581a4709457a51b1782",
+      "title": "Oracle kutter på grunn av KI, ikke alene: – Epidemi i bransjen",
+      "link": "https://www.kode24.no/artikkel/oracle-kutter-pa-grunn-av-ki-ikke-alene-epidemi-i-bransjen/266622",
+      "source": "Kode24",
+      "summary": "Samtidig som teknologiselskaper rapporterer rekordinntekter, kutter de titusener av ansatte – og peker på kunstig intelligens årsaken.",
+      "published": "2026-06-24T12:51:03Z"
+    },
+    {
+      "id": "1935f3a43fc95bb4c5a976a62a22fe20996112d2",
+      "title": "Lagde «katte-Pokemon Go» på gøy – nå tar det av",
+      "link": "https://www.kode24.no/artikkel/lagde-katte-pokemon-go-pa-goy-na-tar-det-av/266572",
+      "source": "Kode24",
+      "summary": "En tysk utvikler lagde et kattespill og tenkte «ha, ha». Så knelte serveren.",
+      "published": "2026-06-24T10:54:00Z"
+    },
     {
       "id": "9ef68870deebdad7ee8cfae0d215a5154bb33fe4",
       "title": "Coop ansetter 16 nye utviklere, satser på personalisering",
       "link": "https://www.kode24.no/artikkel/coop-ansetter-16-nye-utviklere-satser-pa-personalisering/266606",
       "source": "Kode24",
-      "summary": "Vil bruke alt de vet om folk for å selge dem mer ting.",
+      "summary": "Vil bruke alt de vet om folk til å selge dem mer ting.",
       "published": "2026-06-24T08:58:50Z"
     },
     {
@@ -170,30 +194,6 @@
       "summary": "Qubot, our internal Copilot-powered analytics agent, allows any GitHub employee to ask questions about our data in plain language. Here's what we learned as we built it. The post How we built an internal data analytics agent appeared first on The GitHub Blog.",
       "published": "2026-06-19T16:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2026/06/architecture.png?resize=1024%2C753"
-    },
-    {
-      "id": "4e223c22bf6ec4eff6fc76c0b2bf61e61b40ec82",
-      "title": "700 søkte sommer­jobb i Computas, disse 10 fikk en",
-      "link": "https://www.kode24.no/artikkel/700-sokte-sommerjobb-i-computas-disse-10-fikk-en/266194",
-      "source": "Kode24",
-      "summary": "Studentene skal jobbe med KI-oppdrag hos kunder som UDI og Azets.",
-      "published": "2026-06-19T12:14:19Z"
-    },
-    {
-      "id": "ec409676b6126826da3770e3ca3d66212d104490",
-      "title": "Ber skolene holde barna unna KI",
-      "link": "https://www.kode24.no/artikkel/ber-skolene-holde-barna-unna-ki/266179",
-      "source": "Kode24",
-      "summary": "– Det aller viktigste i skolen er at barna våre lærer å lese, skrive og regne, sier statsministeren, og sender ut nasjonale KI-anbefalinger til skolene.",
-      "published": "2026-06-19T10:41:58Z"
-    },
-    {
-      "id": "4a33d9dec2f4b477f95b75afee6c57f25f5dc941",
-      "title": "Beklager: Sendte pressemelding med KI-generert bilde",
-      "link": "https://www.kode24.no/artikkel/beklager-sendte-pressemelding-med-ki-generert-bilde/266160",
-      "source": "Kode24",
-      "summary": "Bildeteksten hevda å vise et møte blant offentlige KI-eksperter. Men noe sånt bilde ble aldri tatt, og Statens vegvesen beklager og trekker KI-bildet.",
-      "published": "2026-06-19T08:49:29Z"
     },
     {
       "id": "e4c973301acc4bacaba01c19d595559c594a7b02",
