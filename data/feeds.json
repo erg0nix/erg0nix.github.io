@@ -1,6 +1,95 @@
 {
-  "generated_at": "2026-06-25T09:28:01.642551Z",
+  "generated_at": "2026-06-26T09:33:35.223907Z",
   "items": [
+    {
+      "id": "867e2eb075735ac5ad9149975a78341d9c845102",
+      "title": "Mac, Playstation, Nintendo og Xbox blir dyrere, KI har skylda",
+      "link": "https://www.kode24.no/artikkel/mac-playstation-nintendo-og-xbox-blir-dyrere-ki-har-skylda/266842",
+      "source": "Kode24",
+      "summary": "– Vi har aldri før opplevd at prisen på en komponent har steget så mye på kort tid, skriver Apple i en pressemelding.",
+      "published": "2026-06-26T06:40:26Z"
+    },
+    {
+      "id": "35f011dea7e5b2a2903706309b604be66c1bb3ee",
+      "title": "Ny rapport: KI kan svekke arbeidsmiljøet",
+      "link": "https://www.kode24.no/artikkel/ny-rapport-ki-kan-svekke-arbeidsmiljoet/266782",
+      "source": "Kode24",
+      "summary": "Når mennesker styres av algoritmer, øker stressnivå og tempo, mens de mister selvstyre og mening, viser fersk rapport gjort for regjeringen.",
+      "published": "2026-06-26T03:05:00Z"
+    },
+    {
+      "id": "35803f98eed78dd7a46312c7da894483cdde8d23",
+      "title": "En normal, norsk utvikler tjener 1 million kroner i året",
+      "link": "https://www.kode24.no/artikkel/en-normal-norsk-utvikler-tjener-1-million-kroner-i-aret/266817",
+      "source": "Kode24",
+      "summary": "– Hva er en normal utvikler i 2026? spør Ole Petter i ukas nyhetsbrev, og sitter med svarene.",
+      "published": "2026-06-26T03:00:00Z"
+    },
+    {
+      "id": "e8f3e43edba27397d90d37998ead040f2075a515",
+      "title": "Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks",
+      "link": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/",
+      "source": "GitHub Blog",
+      "summary": "Explore how the GitHub Copilot agentic harness delivers strong results across multiple benchmarks and leading token efficiency, while maintaining flexibility to choose among more than 20 models. The post Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and...",
+      "published": "2026-06-25T22:59:45Z",
+      "image": "https://github.blog/wp-content/uploads/2026/06/architecture-harness-surfaces.png?resize=1024%2C592"
+    },
+    {
+      "id": "0361fec82a67ab0225caf702636eda80004256f1",
+      "title": "– KI har laget fargearket, pappa!",
+      "link": "https://www.kode24.no/artikkel/ki-har-laget-fargearket-pappa/266273",
+      "source": "Kode24",
+      "summary": "– Det er sjokkerende hvor mange som mener KI funker dritbra til alt, forteller Jørgen i kode24.",
+      "published": "2026-06-25T13:05:49Z"
+    },
+    {
+      "id": "d6eba0870eec7d052a97cd59d31b2d72087e2afc",
+      "title": "AWS lar mediehus ta betalt for KI-skraping",
+      "link": "https://www.kode24.no/artikkel/aws-lar-mediehus-ta-betalt-for-ki-skraping/266767",
+      "source": "Kode24",
+      "summary": "En ny løsning skal la publisister ta betalt per forespørsel når KI-agenter henter beskyttet innhold på nett.",
+      "published": "2026-06-25T13:05:22Z"
+    },
+    {
+      "id": "f64f834eb1b823b378de328668bfab2d2746da79",
+      "title": "Stortinget.no sliter: – Problemer på teknisk utstyr",
+      "link": "https://www.kode24.no/artikkel/stortingetno-sliter-problemer-pa-teknisk-utstyr/266753",
+      "source": "Kode24",
+      "summary": "Stortinget beklager at de har tekniske problemer med nettsida si. En sentral nettverkskomponent sliter og fører til ustabile nettsider.",
+      "published": "2026-06-25T09:52:07Z"
+    },
+    {
+      "id": "f58b31b312c4e21a877fbdf0a1d2da71e8b40f97",
+      "title": "Tung om Skatteetatens KI-blemme: – Har en liten veg å gå",
+      "link": "https://www.kode24.no/artikkel/tung-om-skatteetatens-ki-blemme-har-en-liten-veg-a-ga/266638",
+      "source": "Kode24",
+      "summary": "Statsråden forstår godt at Hilde Skar Olsen ble frustrert over bomtur etter Skatteetatens chatbot-svar. Men departementet har ikke peiling på hvor mange offentlige KI-chatboter som finnes.",
+      "published": "2026-06-25T08:47:30Z"
+    },
+    {
+      "id": "1c9b7f59f63d1451a78e7329e4abb9bc79c8a46c",
+      "title": "Nina til Arktaria: – Gjør inntrykk fra første dag",
+      "link": "https://www.kode24.no/artikkel/nina-til-arktaria-gjor-inntrykk-fra-forste-dag/266700",
+      "source": "Kode24",
+      "summary": "Nina Margrethe Smørsgård imponerte sin nye arbeidsgiver med både erfaring og grunnholdning. – Jeg liker å forstå hvordan ting faktisk henger sammen.",
+      "published": "2026-06-25T07:45:09Z"
+    },
+    {
+      "id": "581568bba4d9b663c93c7c1fc6346cb455200751",
+      "title": "IT-ansatt på Stortinget tiltalt for SMS-svindel",
+      "link": "https://www.kode24.no/artikkel/it-ansatt-pa-stortinget-tiltalt-for-sms-svindel/266685",
+      "source": "Kode24",
+      "summary": "Skal ha bidratt i kriminell gruppe som svindlet for over 14 millioner kroner.",
+      "published": "2026-06-25T06:41:57Z"
+    },
+    {
+      "id": "7bf32f21057468401626ddbd121842a63b758c91",
+      "title": "– KI er en djevel",
+      "link": "https://www.kode24.no/artikkel/ki-er-en-djevel/266670",
+      "source": "Kode24",
+      "summary": "Tore Renberg mener teknologien må holdes langt unna bøker.",
+      "published": "2026-06-25T06:34:13Z"
+    },
     {
       "id": "bfb19775156c2983bee1a79754ed4586814d2789",
       "title": "UiB skal lære folket om kvante. Men hva er det?",
@@ -99,92 +188,12 @@
       "published": "2026-06-23T08:48:02Z"
     },
     {
-      "id": "8d9aea1f25fd1ee7d7f82ec889b181c307560e7a",
-      "title": "Norske FotMob tar av under VM: Ble #2 av alle apper i Portugal",
-      "link": "https://www.kode24.no/artikkel/norske-fotmob-tar-av-under-vm-ble-2-av-alle-apper-i-portugal/266219",
-      "source": "Kode24",
-      "summary": "Selskapet har firedoblet den daglige nedlastingstakten siden VM sparket i gang.",
-      "published": "2026-06-23T08:02:56Z"
-    },
-    {
-      "id": "85aa9ec300f494ef02429a884171b7f5ade6e083",
-      "title": "NHO: – Finnes ingen «VM-unntaks­tilstand» i arbeidslivet",
-      "link": "https://www.kode24.no/artikkel/nho-finnes-ingen-vm-unntakstilstand-i-arbeidslivet/266410",
-      "source": "Kode24",
-      "summary": "Men det er innenfor å være trøtt på jobb, mener NHO.",
-      "published": "2026-06-23T06:15:45Z"
-    },
-    {
-      "id": "417595095be646826b6f984c57626b3e042ff9c3",
-      "title": "Oppgitt over mangfolds-debatt hos utviklere: «Fordummende»",
-      "link": "https://www.kode24.no/artikkel/oppgitt-over-mangfolds-debatt-hos-utviklere-fordummende/266337",
-      "source": "Kode24",
-      "summary": "– Vi alle tjent med å heve samtalen til et nivå hvor man ikke får inntrykk av at avsender er bedugget eller mindre begavet, skriver Jakob Sverre Løvstad etter den siste kjønnsdebatten.",
-      "published": "2026-06-23T03:00:00Z"
-    },
-    {
       "id": "cc4cf48fcbb182bf3021bef8f48e50aa7dc4045b",
       "title": "From pledge to practice: Building a more inclusive open source ecosystem",
       "link": "https://github.blog/open-source/from-pledge-to-practice-building-a-more-inclusive-open-source-ecosystem/",
       "source": "GitHub Blog",
       "summary": "Learn about the progress we’ve made toward our accessibility goals and how you can help make open source more inclusive. The post From pledge to practice: Building a more inclusive open source ecosystem appeared first on The GitHub Blog.",
       "published": "2026-06-22T17:20:31Z"
-    },
-    {
-      "id": "6eeabba55063957c01a0e22232d2786ebb3047bb",
-      "title": "Tung om Schibsteds annonse­modell: «Uheldig»",
-      "link": "https://www.kode24.no/artikkel/tung-om-schibsteds-annonsemodell-uheldig/266325",
-      "source": "Kode24",
-      "summary": "Schibsted krever betaling for å ikke spore lesere. Digitaliseringsministeren mener det er uheldig dersom «brukerens betalingsevne i praksis blir avgjørende for om det gis samtykke eller ikke».",
-      "published": "2026-06-22T12:47:12Z"
-    },
-    {
-      "id": "c22be66169b56b453d2eca0d4b334891b106c290",
-      "title": "Norsk politi skal sende droner fra automatiske hangarer",
-      "link": "https://www.kode24.no/artikkel/norsk-politi-skal-sende-droner-fra-automatiske-hangarer/266363",
-      "source": "Kode24",
-      "summary": "Men avviser at de skal brukes til patruljering.",
-      "published": "2026-06-22T12:16:11Z"
-    },
-    {
-      "id": "a0df6170c452843aa9ebe116b486c5e9d8a3f662",
-      "title": "Cursors Origin er GitHub for KI-agenter: – Jeg er usikker på om vi trenger det",
-      "link": "https://www.kode24.no/artikkel/cursors-origin-er-github-for-ki-agenter-jeg-er-usikker-pa-om-vi-trenger-det/266295",
-      "source": "Kode24",
-      "summary": "– GitHub ble bygget for mennesker. Origin ser ut til å bli bygget for agenter, skriver Christian Hjellestad, om en hverdag med 23 commits i sekundet.",
-      "published": "2026-06-22T11:16:39Z"
-    },
-    {
-      "id": "44987d90ba8264f78584073e31005c0b6fb8418c",
-      "title": "Mister ansatte etter Oslo Origo-nedleggelse",
-      "link": "https://www.kode24.no/artikkel/mister-ansatte-etter-oslo-origo-nedleggelse/266271",
-      "source": "Kode24",
-      "summary": "− Det er veldig uheldig at så mange slutter, sier tillitsvalgt til Digi.",
-      "published": "2026-06-22T07:40:29Z"
-    },
-    {
-      "id": "79a804c8a09d64555ab54fa3ededfeeb7e18c242",
-      "title": "Twoday tar inn 18 studenter fra hele Norge",
-      "link": "https://www.kode24.no/artikkel/twoday-tar-inn-18-studenter-fra-hele-norge/266240",
-      "source": "Kode24",
-      "summary": "Twoday har tatt inn 18 sommerstudenter fra NTNU, NHH, UiB, NMBU, UiO og OsloMet.",
-      "published": "2026-06-22T06:58:24Z"
-    },
-    {
-      "id": "2df731637f9b5b30f58b77569d57413a39d7f74b",
-      "title": "Flere offentlige tjenester nede i helga",
-      "link": "https://www.kode24.no/artikkel/flere-offentlige-tjenester-nede-i-helga/266255",
-      "source": "Kode24",
-      "summary": "– ID-porten er nok den som berører flest.",
-      "published": "2026-06-22T06:30:35Z"
-    },
-    {
-      "id": "647b60d56e4f66fe9b74be4eee25fae892ac8a92",
-      "title": "Klimaforsker til utviklere: – Unngå de kraftigste modellene!",
-      "link": "https://www.kode24.no/artikkel/klimaforsker-til-utviklere-unnga-de-kraftigste-modellene/265786",
-      "source": "Kode24",
-      "summary": "Sintef-forsker ber selskaper og utviklere tenke seg nøyere om når de bruker KI. – Det er stort sett bare enkeltstående utviklere som tar problematikken på alvor.",
-      "published": "2026-06-22T03:00:00Z"
     },
     {
       "id": "3fac66931ef47ad20c4da19e3191e21233757d63",
@@ -237,15 +246,6 @@
       "source": "GitHub Blog",
       "summary": "A new repository-level dataset, published on GitHub under CC0-1.0, helps researchers and developers discover multilingual developer content across READMEs, issues, and pull requests. The post Accelerating researchers and developers building multilingual AI with a new open dataset appeared first on...",
       "published": "2026-06-15T19:17:30Z"
-    },
-    {
-      "id": "7b8dd1dbf8a124eaab8a4bd9b7301c88c4511463",
-      "title": "How we made GitHub Copilot CLI more selective about delegation",
-      "link": "https://github.blog/ai-and-ml/how-we-made-github-copilot-cli-more-selective-about-delegation/",
-      "source": "GitHub Blog",
-      "summary": "Better orchestration, fewer handoffs, faster progress, without a single new knob. The post How we made GitHub Copilot CLI more selective about delegation appeared first on The GitHub Blog.",
-      "published": "2026-06-12T22:26:23Z",
-      "image": "https://github.blog/wp-content/uploads/2026/06/fig1-tool-failures.gif?resize=768%2C432"
     },
     {
       "id": "7ae1dda67f7f810e6d77f7a3e7778ae9abd39902",
