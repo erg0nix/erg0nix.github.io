@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-06-28T09:15:45.405726Z",
+  "generated_at": "2026-06-29T11:06:54.379508Z",
   "items": [
+    {
+      "id": "f4f0dbb993c93cf131c7df942c88e2136630aaf6",
+      "title": "Hentet 12 milloner euro fra internasjonale investorer",
+      "link": "https://www.kode24.no/artikkel/hentet-12-milloner-euro-fra-internasjonale-investorer/267016",
+      "source": "Kode24",
+      "summary": "Six Robotics har hentet inn 12 millioner euro i finansiering hos investorer. Staben er doblet på et halvt år.",
+      "published": "2026-06-29T09:10:13Z"
+    },
+    {
+      "id": "b5b02215629bc8c12acf48a5eaf65a6fb38fc77f",
+      "title": "Skatteetatens nettsider er nede",
+      "link": "https://www.kode24.no/artikkel/skatteetatens-nettsider-er-nede/267006",
+      "source": "Kode24",
+      "summary": "Flere av etatens nettjenester rammet. Skatteetaten beklager problemene overfor brukerne og jobber med å rette feilen, melder VG.",
+      "published": "2026-06-29T07:12:12Z"
+    },
+    {
+      "id": "00bddcb285777a2bd7860ed67b91d4ee9ca4c07e",
+      "title": "Sør-Korea lanserer storsatsing på KI",
+      "link": "https://www.kode24.no/artikkel/sor-korea-lanserer-storsatsing-pa-ki/266994",
+      "source": "Kode24",
+      "summary": "Sør-Koreas president Lee Jae-myung kunngjorde mandag en storsatsing på KI-datasentre og databrikker verdt tusenvis av milliarder kroner.",
+      "published": "2026-06-29T06:25:07Z"
+    },
+    {
+      "id": "ccde4a8f8eff9924eecd2182d52407366bf1386f",
+      "title": "Utfordringene til VG skjer ikke under VM-kamper, men etterpå",
+      "link": "https://www.kode24.no/artikkel/utfordringene-til-vg-skjer-ikke-under-vm-kamper-men-etterpa/266473",
+      "source": "Kode24",
+      "summary": "VG Live-teamet ser høy aktivitet på livedekningen og på tippesiden Profeten. Men utfordringene oppstår først etter kampene.",
+      "published": "2026-06-29T03:00:00Z"
+    },
     {
       "id": "2f45db97504e82c7e1214a3b8f278fe79c1eb8a3",
       "title": "GitHub and UNDP team up to advance development priorities in Ghana with open source",
@@ -154,38 +186,6 @@
       "source": "Kode24",
       "summary": "Samtidig som teknologiselskaper rapporterer rekordinntekter, kutter de titusener av ansatte – og peker på kunstig intelligens årsaken.",
       "published": "2026-06-24T12:51:03Z"
-    },
-    {
-      "id": "1935f3a43fc95bb4c5a976a62a22fe20996112d2",
-      "title": "Lagde «katte-Pokemon Go» på gøy – nå tar det av",
-      "link": "https://www.kode24.no/artikkel/lagde-katte-pokemon-go-pa-goy-na-tar-det-av/266572",
-      "source": "Kode24",
-      "summary": "En tysk utvikler lagde et kattespill og tenkte «ha, ha». Så knelte serveren.",
-      "published": "2026-06-24T10:54:00Z"
-    },
-    {
-      "id": "9ef68870deebdad7ee8cfae0d215a5154bb33fe4",
-      "title": "Coop ansetter 16 nye utviklere, satser på personalisering",
-      "link": "https://www.kode24.no/artikkel/coop-ansetter-16-nye-utviklere-satser-pa-personalisering/266606",
-      "source": "Kode24",
-      "summary": "Vil bruke alt de vet om folk til å selge dem mer ting.",
-      "published": "2026-06-24T08:58:50Z"
-    },
-    {
-      "id": "1fa0a63d3e621fa41e9fa4bdf70891efb7dd3923",
-      "title": "Vil ha slutt på at Norge bare kjøper fra tek-giganter",
-      "link": "https://www.kode24.no/artikkel/vil-ha-slutt-pa-at-norge-bare-kjoper-fra-tek-giganter/266557",
-      "source": "Kode24",
-      "summary": "Forbrukerrådet, Tekna og Nito roper varsko til digitaliseringsministeren: – I dag investerer vi enorme summer i de globale teknologiselskapene. Det må ta slutt.",
-      "published": "2026-06-24T06:25:10Z"
-    },
-    {
-      "id": "841e07d8169e69f2a13dbbdd0f0a4113f18a2db7",
-      "title": "16-åring mener han fikk depresjon og angst av YouTube – inngår forlik",
-      "link": "https://www.kode24.no/artikkel/16-aring-mener-han-fikk-depresjon-og-angst-av-youtube-inngar-forlik/266547",
-      "source": "Kode24",
-      "summary": "– Vi vil fortsette kampen på vegne av alle som er rammet av avhengighet av sosiale medier, sier advokaten.",
-      "published": "2026-06-24T06:16:37Z"
     },
     {
       "id": "8fdf484fe1ad997d5be0f86143e7e07c4d8506ed",
