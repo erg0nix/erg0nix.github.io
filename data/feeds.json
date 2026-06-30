@@ -1,6 +1,48 @@
 {
-  "generated_at": "2026-06-29T11:06:54.379508Z",
+  "generated_at": "2026-06-30T09:44:40.531803Z",
   "items": [
+    {
+      "id": "488be9f5916fe7d7acb3232885850c738e6e27ca",
+      "title": "SV vil forby Meta-briller",
+      "link": "https://www.kode24.no/artikkel/sv-vil-forby-meta-briller/267042",
+      "source": "Kode24",
+      "summary": "SV-leiar Kirsti Bergstø krev eit forbod mot smartbrillene frå Meta, som ho meiner, opnar for skjult overvaking og misbruk.",
+      "published": "2026-06-30T07:00:47Z"
+    },
+    {
+      "id": "add29532de3a1daa4074b6a818b741a60a88e9ab",
+      "title": "kode24 lurt av agent: – Av og til overrasker den meg, sier bakmannen",
+      "link": "https://www.kode24.no/artikkel/kode24-lurt-av-agent-av-og-til-overrasker-den-meg-sier-bakmannen/266709",
+      "source": "Kode24",
+      "summary": "Det tikket inn en e-post til kode24 med med et godt nyhetstips, signert en CEO. Først flere dager senere forsto vi at e-posten ikke kom fra et menneske.",
+      "published": "2026-06-30T06:00:00Z"
+    },
+    {
+      "id": "7c038b846d005972a9a16381267b330ba41c933b",
+      "title": "Highlights from Git 2.55",
+      "link": "https://github.blog/open-source/git/highlights-from-git-2-55/",
+      "source": "GitHub Blog",
+      "summary": "The open source Git project just released Git 2.55. Here is GitHub’s look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.55 appeared first on The GitHub Blog.",
+      "published": "2026-06-29T17:25:25Z",
+      "image": "https://github.blog/wp-content/uploads/2026/06/Screenshot-2026-06-25-at-6.36.16-PM.png?resize=1024%2C256"
+    },
+    {
+      "id": "05e2e2874ae366e92f04cebdd7986671a7bd371c",
+      "title": "Inside the Advisory Database and what happens when vulnerability volume breaks records",
+      "link": "https://github.blog/security/supply-chain-security/inside-the-advisory-database-and-what-happens-when-vulnerability-volume-breaks-records/",
+      "source": "GitHub Blog",
+      "summary": "The GitHub Advisory Database is processing more vulnerability reports than ever before. Here's what's driving the surge, how we're responding, and how the community can help. The post Inside the Advisory Database and what happens when vulnerability volume breaks records appeared first on The GitHub...",
+      "published": "2026-06-29T16:10:20Z",
+      "image": "https://github.blog/wp-content/uploads/2026/06/613839791-af0d8e48-215f-48c7-8f0c-16ef531592f7.png?resize=1024%2C640"
+    },
+    {
+      "id": "57d982358c09d52d7714c63240c7219688016a2f",
+      "title": "– Vi er i en spennende samt skremmende tid",
+      "link": "https://www.kode24.no/artikkel/vi-er-i-en-spennende-samt-skremmende-tid/267028",
+      "source": "Kode24",
+      "summary": "Ukens sommerkoder er med å utvikle en kryptokalkulator for utregning av skatt for kryptoverdier. Mats Bakketeig har kapret sommerjobb i Skatteetaten.",
+      "published": "2026-06-29T11:10:03Z"
+    },
     {
       "id": "f4f0dbb993c93cf131c7df942c88e2136630aaf6",
       "title": "Hentet 12 milloner euro fra internasjonale investorer",
@@ -11,10 +53,10 @@
     },
     {
       "id": "b5b02215629bc8c12acf48a5eaf65a6fb38fc77f",
-      "title": "Skatteetatens nettsider er nede",
-      "link": "https://www.kode24.no/artikkel/skatteetatens-nettsider-er-nede/267006",
+      "title": "Skatteetatens nettsider var nede",
+      "link": "https://www.kode24.no/artikkel/skatteetatens-nettsider-var-nede/267006",
       "source": "Kode24",
-      "summary": "Flere av etatens nettjenester rammet. Skatteetaten beklager problemene overfor brukerne og jobber med å rette feilen, melder VG.",
+      "summary": "Flere av etatens nettjenester rammet. Skatteetaten beklager problemene overfor brukerne. Feilen er rettet.",
       "published": "2026-06-29T07:12:12Z"
     },
     {
@@ -164,30 +206,6 @@
       "published": "2026-06-25T06:41:57Z"
     },
     {
-      "id": "7bf32f21057468401626ddbd121842a63b758c91",
-      "title": "– KI er en djevel",
-      "link": "https://www.kode24.no/artikkel/ki-er-en-djevel/266670",
-      "source": "Kode24",
-      "summary": "Tore Renberg mener teknologien må holdes langt unna bøker.",
-      "published": "2026-06-25T06:34:13Z"
-    },
-    {
-      "id": "bfb19775156c2983bee1a79754ed4586814d2789",
-      "title": "UiB skal lære folket om kvante. Men hva er det?",
-      "link": "https://www.kode24.no/artikkel/uib-skal-laere-folket-om-kvante-men-hva-er-det/265363",
-      "source": "Kode24",
-      "summary": "Utviklere bør bry seg om kvanteteknologi, mener forskerne i Bergen. – Dette er en teknologi som kommer, og det kan være lurt å være forberedt på det.",
-      "published": "2026-06-25T03:00:00Z"
-    },
-    {
-      "id": "f5d8e60dacf5cf3eb9c27581a4709457a51b1782",
-      "title": "Oracle kutter på grunn av KI, ikke alene: – Epidemi i bransjen",
-      "link": "https://www.kode24.no/artikkel/oracle-kutter-pa-grunn-av-ki-ikke-alene-epidemi-i-bransjen/266622",
-      "source": "Kode24",
-      "summary": "Samtidig som teknologiselskaper rapporterer rekordinntekter, kutter de titusener av ansatte – og peker på kunstig intelligens årsaken.",
-      "published": "2026-06-24T12:51:03Z"
-    },
-    {
       "id": "8fdf484fe1ad997d5be0f86143e7e07c4d8506ed",
       "title": "I automated my job (and it made me a better leader)",
       "link": "https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader/",
@@ -229,24 +247,6 @@
       "summary": "Learn how pull request limits can help manage contribution volume in your repositories, and see what’s next on the roadmap. The post How pull request limits are cutting down the noise appeared first on The GitHub Blog.",
       "published": "2026-06-18T16:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2026/06/608690507-ead99df1-2879-43d6-8f5b-f04431eeefcf.jpg?resize=1024%2C566"
-    },
-    {
-      "id": "03d23cbd049de86d9da58493ad727e1eb9539e73",
-      "title": "Getting more from each token: How Copilot improves context handling and model routing",
-      "link": "https://github.blog/ai-and-ml/github-copilot/getting-more-from-each-token-how-copilot-improves-context-handling-and-model-routing/",
-      "source": "GitHub Blog",
-      "summary": "How GitHub Copilot is making more of each session go toward useful work, so your credits go further. The post Getting more from each token: How Copilot improves context handling and model routing appeared first on The GitHub Blog.",
-      "published": "2026-06-17T19:41:46Z",
-      "image": "https://github.blog/wp-content/uploads/2026/06/608776889-fa214f25-8231-4b9f-a0cc-9eff3cbb1be8.png?resize=1024%2C576"
-    },
-    {
-      "id": "54579fac185ee6061d4abeb27e592dc3f1941032",
-      "title": "What are git worktrees, and why should I use them?",
-      "link": "https://github.blog/ai-and-ml/github-copilot/what-are-git-worktrees-and-why-should-i-use-them/",
-      "source": "GitHub Blog",
-      "summary": "Git worktrees have been around since 2015, but it wasn't until recently they became popular. Learn what they are, how to use them, and why you might. The post What are git worktrees, and why should I use them? appeared first on The GitHub Blog.",
-      "published": "2026-06-16T20:58:54Z",
-      "image": "https://github.blog/wp-content/uploads/2026/06/Screenshot-2026-06-16-at-1.35.20-PM.png?resize=924%2C819"
     },
     {
       "id": "7ae1dda67f7f810e6d77f7a3e7778ae9abd39902",
