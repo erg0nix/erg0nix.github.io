@@ -1,6 +1,47 @@
 {
-  "generated_at": "2026-06-30T09:44:40.531803Z",
+  "generated_at": "2026-07-01T09:55:08.252149Z",
   "items": [
+    {
+      "id": "5c332549b5f200b6113ca9ca1843bd9c46add732",
+      "title": "– Finnes ingen norsk rettspraksis på dette",
+      "link": "https://www.kode24.no/artikkel/finnes-ingen-norsk-rettspraksis-pa-dette/267055",
+      "source": "Kode24",
+      "summary": "kode24 fikk nyhetstips fra et selskap, der e-posten viste seg å være skrevet av en KI-agent. – Etter Art. 50 blir innført, vil det være svært problematisk, sier advokat.",
+      "published": "2026-07-01T08:20:33Z"
+    },
+    {
+      "id": "d95011d04ea5166a9dacdded7cca6640f21e250c",
+      "title": "USA fjerner Anthropics KI-begrensninger",
+      "link": "https://www.kode24.no/artikkel/usa-fjerner-anthropics-ki-begrensninger/267067",
+      "source": "Kode24",
+      "summary": "KI-selskapet Anthropic kan snart gjenopprette tilgangen til de kraftigste verktøyene Fable 5 og Mythos 5 verden rundt, etter at USA nå har fjernet restriksjonene.",
+      "published": "2026-07-01T07:20:29Z"
+    },
+    {
+      "id": "b481ad39a80e9a9e4ce6846d7e37f54491aa6a12",
+      "title": "Dropper KI til nytt partiprogram: – Skal være menneskeskapt",
+      "link": "https://www.kode24.no/artikkel/dropper-ki-til-nytt-partiprogram-skal-vaere-menneskeskapt/266231",
+      "source": "Kode24",
+      "summary": "Ap i Bergen er bevisste på hva de bruker kunstig intelligens til og ikke. – Ofte blir det helt utrolig pompøst.",
+      "published": "2026-07-01T05:00:00Z"
+    },
+    {
+      "id": "80162d42fbf5403a8e5d700c60b0f72bb0959104",
+      "title": "How GitHub maintains compliance for open source dependencies",
+      "link": "https://github.blog/enterprise-software/governance-and-compliance/how-github-maintains-compliance-for-open-source-dependencies/",
+      "source": "GitHub Blog",
+      "summary": "Explore how the Open Source Program Office uses GitHub’s new license compliance product to manage open source dependencies at scale. The post How GitHub maintains compliance for open source dependencies appeared first on The GitHub Blog.",
+      "published": "2026-06-30T17:28:16Z",
+      "image": "https://github.blog/wp-content/uploads/2026/06/613757407-388b97bc-ca84-416a-aac5-72e4924e5dc8.png?resize=936%2C504"
+    },
+    {
+      "id": "a1de2b10f7299ce26b00c422638c3ecb5518d0cf",
+      "title": "– Slutt å bruke interfaces på alle tjenester!",
+      "link": "https://www.kode24.no/artikkel/slutt-a-bruke-interfaces-pa-alle-tjenester/266577",
+      "source": "Kode24",
+      "summary": "– Det tar både unødvendig tid og kode, og verst av alt: Vi slutter å teste det som faktisk betyr noe, skriver Per Ola Sneve om .Net-utvikling.",
+      "published": "2026-06-30T09:06:38Z"
+    },
     {
       "id": "488be9f5916fe7d7acb3232885850c738e6e27ca",
       "title": "SV vil forby Meta-briller",
@@ -11,8 +52,8 @@
     },
     {
       "id": "add29532de3a1daa4074b6a818b741a60a88e9ab",
-      "title": "kode24 lurt av agent: – Av og til overrasker den meg, sier bakmannen",
-      "link": "https://www.kode24.no/artikkel/kode24-lurt-av-agent-av-og-til-overrasker-den-meg-sier-bakmannen/266709",
+      "title": "– Har verden blitt slik at man kan sitere en AI-agent?",
+      "link": "https://www.kode24.no/artikkel/har-verden-blitt-slik-at-man-kan-sitere-en-ai-agent/266709",
       "source": "Kode24",
       "summary": "Det tikket inn en e-post til kode24 med med et godt nyhetstips, signert en CEO. Først flere dager senere forsto vi at e-posten ikke kom fra et menneske.",
       "published": "2026-06-30T06:00:00Z"
@@ -174,38 +215,6 @@
       "published": "2026-06-25T13:05:22Z"
     },
     {
-      "id": "f64f834eb1b823b378de328668bfab2d2746da79",
-      "title": "Stortinget.no sliter: – Problemer på teknisk utstyr",
-      "link": "https://www.kode24.no/artikkel/stortingetno-sliter-problemer-pa-teknisk-utstyr/266753",
-      "source": "Kode24",
-      "summary": "Stortinget beklager at de har tekniske problemer med nettsida si. En sentral nettverkskomponent sliter og fører til ustabile nettsider.",
-      "published": "2026-06-25T09:52:07Z"
-    },
-    {
-      "id": "f58b31b312c4e21a877fbdf0a1d2da71e8b40f97",
-      "title": "Tung om Skatteetatens KI-blemme: – Har en liten veg å gå",
-      "link": "https://www.kode24.no/artikkel/tung-om-skatteetatens-ki-blemme-har-en-liten-veg-a-ga/266638",
-      "source": "Kode24",
-      "summary": "Statsråden forstår godt at Hilde Skar Olsen ble frustrert over bomtur etter Skatteetatens chatbot-svar. Men departementet har ikke peiling på hvor mange offentlige KI-chatboter som finnes.",
-      "published": "2026-06-25T08:47:30Z"
-    },
-    {
-      "id": "1c9b7f59f63d1451a78e7329e4abb9bc79c8a46c",
-      "title": "Nina til Arktaria: – Gjør inntrykk fra første dag",
-      "link": "https://www.kode24.no/artikkel/nina-til-arktaria-gjor-inntrykk-fra-forste-dag/266700",
-      "source": "Kode24",
-      "summary": "Nina Margrethe Smørsgård imponerte sin nye arbeidsgiver med både erfaring og grunnholdning. – Jeg liker å forstå hvordan ting faktisk henger sammen.",
-      "published": "2026-06-25T07:45:09Z"
-    },
-    {
-      "id": "581568bba4d9b663c93c7c1fc6346cb455200751",
-      "title": "IT-ansatt på Stortinget tiltalt for SMS-svindel",
-      "link": "https://www.kode24.no/artikkel/it-ansatt-pa-stortinget-tiltalt-for-sms-svindel/266685",
-      "source": "Kode24",
-      "summary": "Skal ha bidratt i kriminell gruppe som svindlet for over 14 millioner kroner.",
-      "published": "2026-06-25T06:41:57Z"
-    },
-    {
       "id": "8fdf484fe1ad997d5be0f86143e7e07c4d8506ed",
       "title": "I automated my job (and it made me a better leader)",
       "link": "https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader/",
@@ -238,15 +247,6 @@
       "summary": "Qubot, our internal Copilot-powered analytics agent, allows any GitHub employee to ask questions about our data in plain language. Here's what we learned as we built it. The post How we built an internal data analytics agent appeared first on The GitHub Blog.",
       "published": "2026-06-19T16:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2026/06/architecture.png?resize=1024%2C753"
-    },
-    {
-      "id": "e4c973301acc4bacaba01c19d595559c594a7b02",
-      "title": "How pull request limits are cutting down the noise",
-      "link": "https://github.blog/open-source/maintainers/how-pull-request-limits-are-cutting-down-the-noise/",
-      "source": "GitHub Blog",
-      "summary": "Learn how pull request limits can help manage contribution volume in your repositories, and see what’s next on the roadmap. The post How pull request limits are cutting down the noise appeared first on The GitHub Blog.",
-      "published": "2026-06-18T16:00:00Z",
-      "image": "https://github.blog/wp-content/uploads/2026/06/608690507-ead99df1-2879-43d6-8f5b-f04431eeefcf.jpg?resize=1024%2C566"
     },
     {
       "id": "7ae1dda67f7f810e6d77f7a3e7778ae9abd39902",
