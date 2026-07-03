@@ -1,12 +1,28 @@
 {
-  "generated_at": "2026-07-02T09:17:57.903665Z",
+  "generated_at": "2026-07-03T09:23:55.538370Z",
   "items": [
+    {
+      "id": "b630c5c6f93b0fc7a25dcef37afdc8742e55f3f8",
+      "title": "Helge Sverre lager eget språk for KI: Sema",
+      "link": "https://www.kode24.no/artikkel/helge-sverre-lager-eget-sprak-for-ki-sema/266943",
+      "source": "Kode24",
+      "summary": "– Ideen bak er litt mindre sprø enn den kan virke: Lisp kan faktisk være et av de beste språkene vi har for kodeagenter, skriver Helge Sverre Hessevik Liseth.",
+      "published": "2026-07-03T05:00:00Z"
+    },
+    {
+      "id": "bfea07974bf2f5b9386fdcb9512bf160ce0d80c1",
+      "title": "How GitHub used secret scanning to reach inbox zero",
+      "link": "https://github.blog/security/application-security/how-github-used-secret-scanning-to-reach-inbox-zero/",
+      "source": "GitHub Blog",
+      "summary": "GitHub had 20,000+ secret scanning alerts across 15,000 repositories. Here's how we separated signal from noise, built remediation workflows, and reached inbox zero in nine months. The post How GitHub used secret scanning to reach inbox zero appeared first on The GitHub Blog.",
+      "published": "2026-07-02T16:00:00Z"
+    },
     {
       "id": "2b08fe8fca4babb0c1627c3b95a5f507466eacf7",
       "title": "Nettsider opplever stor pågang",
       "link": "https://www.kode24.no/artikkel/nettsider-opplever-stor-pagang/267124",
       "source": "Kode24",
-      "summary": "Nettsider som Fotballfesten, Ullevål Stadion og Torshov Sport opplever stor pågang. Torsdag morgen er deler av nettsidene til Torshov Sport nede.",
+      "summary": "Nettsider som Fotballfesten og Torshov Sport opplever stor pågang. Torsdag morgen er deler av nettsidene til Torshov Sport nede. Det har resultert i at flere har fått kjøpt drakter selv om de ikke er på lager.",
       "published": "2026-07-02T07:37:18Z"
     },
     {
@@ -207,14 +223,6 @@
       "published": "2026-06-26T09:25:15Z"
     },
     {
-      "id": "867e2eb075735ac5ad9149975a78341d9c845102",
-      "title": "Mac, Playstation, Nintendo og Xbox blir dyrere, KI har skylda",
-      "link": "https://www.kode24.no/artikkel/mac-playstation-nintendo-og-xbox-blir-dyrere-ki-har-skylda/266842",
-      "source": "Kode24",
-      "summary": "– Vi har aldri før opplevd at prisen på en komponent har steget så mye på kort tid, skriver Apple i en pressemelding.",
-      "published": "2026-06-26T06:40:26Z"
-    },
-    {
       "id": "e8f3e43edba27397d90d37998ead040f2075a515",
       "title": "Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks",
       "link": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/",
@@ -239,14 +247,6 @@
       "summary": "We’re calling for targeted amendments to resolve conflicts with open source licensing and align with international transparency frameworks while preserving regulatory intent. The post GitHub joins coalition advocating for fixes to California AI Transparency Act to protect open source appeared first...",
       "published": "2026-06-23T15:48:00Z",
       "image": "https://github.blog/wp-content/uploads/2026/06/Screenshot-2026-06-23-at-10.41.24-AM.png?resize=906%2C974"
-    },
-    {
-      "id": "cc4cf48fcbb182bf3021bef8f48e50aa7dc4045b",
-      "title": "From pledge to practice: Building a more inclusive open source ecosystem",
-      "link": "https://github.blog/open-source/from-pledge-to-practice-building-a-more-inclusive-open-source-ecosystem/",
-      "source": "GitHub Blog",
-      "summary": "Learn about the progress we’ve made toward our accessibility goals and how you can help make open source more inclusive. The post From pledge to practice: Building a more inclusive open source ecosystem appeared first on The GitHub Blog.",
-      "published": "2026-06-22T17:20:31Z"
     },
     {
       "id": "7ae1dda67f7f810e6d77f7a3e7778ae9abd39902",
