@@ -1,6 +1,14 @@
 {
-  "generated_at": "2026-07-03T09:23:55.538370Z",
+  "generated_at": "2026-07-04T08:42:07.777297Z",
   "items": [
+    {
+      "id": "c073ba9eb1aee42f46bc4b1e691dca2df5ef070b",
+      "title": "FN-rapport: Avslører strømforbruket til KI-tjenester",
+      "link": "https://www.kode24.no/artikkel/fn-rapport-avslorer-stromforbruket-til-ki-tjenester/267150",
+      "source": "Kode24",
+      "summary": "En ny FN-rapport avslører strømforbruket og miljøavtrykket til ulike KI-tjenester.",
+      "published": "2026-07-03T07:46:45Z"
+    },
     {
       "id": "b630c5c6f93b0fc7a25dcef37afdc8742e55f3f8",
       "title": "Helge Sverre lager eget språk for KI: Sema",
@@ -213,14 +221,6 @@
       "source": "Kode24",
       "summary": "Stortinget ville ikke at stortingsrepresentanter skulle tvinges til å oppgi personopplysninger. De ba om «dispensasjon», men da advarte Schibsted om signaleffekten, skriver Altinget.",
       "published": "2026-06-26T09:29:17Z"
-    },
-    {
-      "id": "398dde4dcf854426d726ea182309a0eee7b9c02d",
-      "title": "Tillitsvalgt bekymra: Rusta bruker KI-robot til ansettelser",
-      "link": "https://www.kode24.no/artikkel/tillitsvalgt-bekymra-rusta-bruker-ki-robot-til-ansettelser/266868",
-      "source": "Kode24",
-      "summary": "Chatbotten \"Hubert\" intervjuer søkere, men tillitsvalgt Daniel Olaisen er bekymret for bruken, melder Fri Fagbevegelse.",
-      "published": "2026-06-26T09:25:15Z"
     },
     {
       "id": "e8f3e43edba27397d90d37998ead040f2075a515",
