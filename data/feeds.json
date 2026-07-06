@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-07-05T08:57:27.410947Z",
+  "generated_at": "2026-07-06T10:43:41.034429Z",
   "items": [
+    {
+      "id": "a7e554a2708a8291e8228ff258dffa53f4db2ada",
+      "title": "– Jeg bygger en profil som foreløpig er sjelden i det norske markedet",
+      "link": "https://www.kode24.no/artikkel/jeg-bygger-en-profil-som-forelopig-er-sjelden-i-det-norske-markedet/267163",
+      "source": "Kode24",
+      "summary": "Ukas koder mener mange selskaper fortsatt famler med å forstå det praktiske potensialet i maskinlæring og kvantedatamaskiner, men mener sektorer som transport, logistikk og energi må ta i bruk slike verktøy om kort tid: – Det gir gode forutsetninger for min karriere.",
+      "published": "2026-07-06T06:58:02Z"
+    },
+    {
+      "id": "f89f0e5e9889261e4911503a1bf4779ec56d96ee",
+      "title": "– Mentalt krevende å kvalitetssikre KI-generert innhold",
+      "link": "https://www.kode24.no/artikkel/mentalt-krevende-a-kvalitetssikre-ki-generert-innhold/266697",
+      "source": "Kode24",
+      "summary": "Sintef har fulgt åtte team i seks nordiske selskaper, som alle satser tungt på bruk av KI. Nils Brede Moe fant tre måter å øke gevisten – og tre barrierer.",
+      "published": "2026-07-06T04:00:00Z"
+    },
     {
       "id": "c073ba9eb1aee42f46bc4b1e691dca2df5ef070b",
       "title": "FN-rapport: Avslører strømforbruket til KI-tjenester",
@@ -205,22 +221,6 @@
       "source": "GitHub Blog",
       "summary": "How GitHub's culture and benefits helped me be the best version of myself. The post Transitioning as a Hubber appeared first on The GitHub Blog.",
       "published": "2026-06-26T12:00:00Z"
-    },
-    {
-      "id": "627f1903a1d7b1918e8de81201d8e378615f444d",
-      "title": "Vil bremse KI-bruk i Bergen kommune: – Feil gjør alvorlig skade",
-      "link": "https://www.kode24.no/artikkel/vil-bremse-ki-bruk-i-bergen-kommune-feil-gjor-alvorlig-skade/264352",
-      "source": "Kode24",
-      "summary": "Marte Teigen (R) er kritisk til KI-bilder, frykter falske kilder i kommunens rapporter, og foreslår delvis KI-forbud. Selv har hun gått på en kokosmelk-KI-smell.",
-      "published": "2026-06-26T11:00:20Z"
-    },
-    {
-      "id": "ac3886ec917e3845bd6a5417b1cf1e3d130e1725",
-      "title": "Altinget: Stortinget nektet å gå med på Schibsted-avtale",
-      "link": "https://www.kode24.no/artikkel/altinget-stortinget-nektet-a-ga-med-pa-schibsted-avtale/266851",
-      "source": "Kode24",
-      "summary": "Stortinget ville ikke at stortingsrepresentanter skulle tvinges til å oppgi personopplysninger. De ba om «dispensasjon», men da advarte Schibsted om signaleffekten, skriver Altinget.",
-      "published": "2026-06-26T09:29:17Z"
     },
     {
       "id": "e8f3e43edba27397d90d37998ead040f2075a515",
