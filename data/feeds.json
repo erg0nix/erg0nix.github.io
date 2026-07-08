@@ -1,6 +1,39 @@
 {
-  "generated_at": "2026-07-07T09:48:41.460293Z",
+  "generated_at": "2026-07-08T08:34:28.744716Z",
   "items": [
+    {
+      "id": "b477bed7cffd56834c8812396f0a06a06c7403a1",
+      "title": "– Fotball har flere mulige utfall enn det finnes atomer i universet",
+      "link": "https://www.kode24.no/artikkel/fotball-har-flere-mulige-utfall-enn-det-finnes-atomer-i-universet/267218",
+      "source": "Kode24",
+      "summary": "Kunstig intelligens gjør det nå mulig å samle inn data fra kamper over hele verden på en måte man aldri før har sett før.",
+      "published": "2026-07-08T05:00:00Z"
+    },
+    {
+      "id": "80bb8a1ea960e93bbe7d42dcb58bda29304503ee",
+      "title": "Q1 2026 Innovation Graph update: Open source collaboration is accelerating worldwide",
+      "link": "https://github.blog/news-insights/policy-news-and-insights/q1-2026-innovation-graph-update-open-source-collaboration-is-accelerating-worldwide/",
+      "source": "GitHub Blog",
+      "summary": "New Innovation Graph data shows global developer communities growing faster than ever, with collaboration reaching new highs across many economies. The post Q1 2026 Innovation Graph update: Open source collaboration is accelerating worldwide appeared first on The GitHub Blog.",
+      "published": "2026-07-07T16:00:00Z",
+      "image": "https://github.blog/wp-content/uploads/2026/07/outbound_collaboration_innovation_graph.png?resize=1024%2C500"
+    },
+    {
+      "id": "59e9f5475e0d35254650140a2a15e125348fef16",
+      "title": "FN-sjefen med sterk KI-advarsel",
+      "link": "https://www.kode24.no/artikkel/fn-sjefen-med-sterk-ki-advarsel/267233",
+      "source": "Kode24",
+      "summary": "FNs generalsekretær António Guterres advarer om farene ved kunstig intelligens.",
+      "published": "2026-07-07T12:28:34Z"
+    },
+    {
+      "id": "17109a45686dc8080314ec64f6ffcd83449e3b08",
+      "title": "Microsoft sier opp 4800 ansatte",
+      "link": "https://www.kode24.no/artikkel/microsoft-sier-opp-4800-ansatte/267206",
+      "source": "Kode24",
+      "summary": "De fleste av stillingskuttene skjer i Microsofts Xbox-avdeling og i organisasjonene for kommersielt salg.",
+      "published": "2026-07-07T08:49:02Z"
+    },
     {
       "id": "e9a9eb9fd134b98f3009addb923b6e450791cb3a",
       "title": "Norske bøker brukes til å trene KI – vekker bekymring i bokbransjen",
@@ -182,30 +215,6 @@
       "image": "https://github.blog/wp-content/uploads/2026/06/613839791-af0d8e48-215f-48c7-8f0c-16ef531592f7.png?resize=1024%2C640"
     },
     {
-      "id": "57d982358c09d52d7714c63240c7219688016a2f",
-      "title": "– Vi er i en spennende samt skremmende tid",
-      "link": "https://www.kode24.no/artikkel/vi-er-i-en-spennende-samt-skremmende-tid/267028",
-      "source": "Kode24",
-      "summary": "Ukens sommerkoder er med å utvikle en kryptokalkulator for utregning av skatt for kryptoverdier. Mats Bakketeig har kapret sommerjobb i Skatteetaten.",
-      "published": "2026-06-29T11:10:03Z"
-    },
-    {
-      "id": "f4f0dbb993c93cf131c7df942c88e2136630aaf6",
-      "title": "Hentet 12 milloner euro fra internasjonale investorer",
-      "link": "https://www.kode24.no/artikkel/hentet-12-milloner-euro-fra-internasjonale-investorer/267016",
-      "source": "Kode24",
-      "summary": "Six Robotics har hentet inn 12 millioner euro i finansiering hos investorer. Staben er doblet på et halvt år.",
-      "published": "2026-06-29T09:10:13Z"
-    },
-    {
-      "id": "b5b02215629bc8c12acf48a5eaf65a6fb38fc77f",
-      "title": "Skatteetatens nettsider var nede",
-      "link": "https://www.kode24.no/artikkel/skatteetatens-nettsider-var-nede/267006",
-      "source": "Kode24",
-      "summary": "Flere av etatens nettjenester rammet. Skatteetaten beklager problemene overfor brukerne. Feilen er rettet.",
-      "published": "2026-06-29T07:12:12Z"
-    },
-    {
       "id": "2f45db97504e82c7e1214a3b8f278fe79c1eb8a3",
       "title": "GitHub and UNDP team up to advance development priorities in Ghana with open source",
       "link": "https://github.blog/open-source/social-impact/github-and-undp-team-up-to-advance-development-priorities-in-ghana-with-open-source/",
@@ -238,15 +247,6 @@
       "source": "GitHub Blog",
       "summary": "Explore how my day as a senior leader looks now that I use 40 automations to help, and learn more about some of my favorites. The post I automated my job (and it made me a better leader) appeared first on The GitHub Blog.",
       "published": "2026-06-23T16:00:00Z"
-    },
-    {
-      "id": "51615002392f9072c5833549a3c4d21562d69c12",
-      "title": "GitHub joins coalition advocating for fixes to California AI Transparency Act to protect open source",
-      "link": "https://github.blog/news-insights/policy-news-and-insights/github-joins-coalition-advocating-for-fixes-to-california-ai-transparency-act-to-protect-open-source/",
-      "source": "GitHub Blog",
-      "summary": "We’re calling for targeted amendments to resolve conflicts with open source licensing and align with international transparency frameworks while preserving regulatory intent. The post GitHub joins coalition advocating for fixes to California AI Transparency Act to protect open source appeared first...",
-      "published": "2026-06-23T15:48:00Z",
-      "image": "https://github.blog/wp-content/uploads/2026/06/Screenshot-2026-06-23-at-10.41.24-AM.png?resize=906%2C974"
     },
     {
       "id": "7ae1dda67f7f810e6d77f7a3e7778ae9abd39902",
