@@ -1,6 +1,121 @@
 {
-  "generated_at": "2026-07-08T08:34:28.744716Z",
+  "generated_at": "2026-07-10T09:41:09.870633Z",
   "items": [
+    {
+      "id": "dc54fcf6b08f851ef851e453a64e3be7cc7c4482",
+      "title": "Nytt fra Next.js, GitHub og Safari",
+      "link": "https://www.kode24.no/artikkel/nytt-fra-nextjs-github-og-safari/267381",
+      "source": "Kode24",
+      "summary": "Et stort fokus i Next.js 16.3 har vært å gjøre nettsider laget med Next mer responsive. Samtidig forteller GitHub hvordan de håndterer en eksplosiv vekst i sikkerhetsvarsler, mens Safari åpner for kraftigere KI-assistenter med en ny MCP-server for webutviklere.",
+      "published": "2026-07-10T07:41:14Z"
+    },
+    {
+      "id": "8cdf7829c4bc2634409b8b51156ecb9e0eaad135",
+      "title": "– Ikke nødvendig med smartbrilleregler i helsevesenet",
+      "link": "https://www.kode24.no/artikkel/ikke-nodvendig-med-smartbrilleregler-i-helsevesenet/267364",
+      "source": "Kode24",
+      "summary": "Pasienter kan bli usikre og miste tillit hvis de møter helsepersonell som bruker KI-briller, mener SV. Helseministeren ser derimot ingen grunn til å innføre særregler.",
+      "published": "2026-07-10T07:22:47Z"
+    },
+    {
+      "id": "e997c3a1a6799acc0388d2f49159bdf12489e70f",
+      "title": "How GitHub gave every repository a durable owner",
+      "link": "https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/",
+      "source": "GitHub Blog",
+      "summary": "GitHub had over 14,000 repositories. Fewer than half had clear ownership. Here's how we gave every active repository a validated owner in under 45 days, archived the rest, and made ownership the foundation for everything that followed. The post How GitHub gave every repository a durable owner...",
+      "published": "2026-07-09T16:29:37Z",
+      "image": "https://github.blog/wp-content/uploads/2026/07/CleanShot-2026-07-09-at-12.21.43@2x.png?resize=683%2C1024"
+    },
+    {
+      "id": "dd4da88a8f6fc901cbd0be7a216df5febc932091",
+      "title": "Økokrim frykter datasentre kan brukes til hvitvasking",
+      "link": "https://www.kode24.no/artikkel/okokrim-frykter-datasentre-kan-brukes-til-hvitvasking/267350",
+      "source": "Kode24",
+      "summary": "Datasentre kan gi stor økonomisk profitt, noe som gjør dem attraktive for hvitvasking, advarer Økokrim-sjef Pål Lønseth.",
+      "published": "2026-07-09T09:34:27Z"
+    },
+    {
+      "id": "b17d5048d158545abb18c0681ee97dd3da1edbf4",
+      "title": "Vanskeligste problemet innen robotikk",
+      "link": "https://www.kode24.no/artikkel/vanskeligste-problemet-innen-robotikk/267336",
+      "source": "Kode24",
+      "summary": "Kina ønsker å løse det vanskeligste problemet innen robotikk – å lage hender.",
+      "published": "2026-07-09T08:46:12Z"
+    },
+    {
+      "id": "eef432d59c2ca69f0b37c46a76a572056e1888cc",
+      "title": "Skatteetaten advarer mot epost-svindel",
+      "link": "https://www.kode24.no/artikkel/skatteetaten-advarer-mot-epost-svindel/267325",
+      "source": "Kode24",
+      "summary": "Skatteetatens avsenderadresse blir misbrukt i en stor svindelbølge. Etaten kommer med en klar oppfordring til de rammede.",
+      "published": "2026-07-09T07:15:42Z"
+    },
+    {
+      "id": "4631454b53dbfac0b7b0016dc14e4a6cb7b9e658",
+      "title": "Løser utfordringer hos Kreftforeningen",
+      "link": "https://www.kode24.no/artikkel/loser-utfordringer-hos-kreftforeningen-1/267303",
+      "source": "Kode24",
+      "summary": "Det er mye spennende i vente i Bouvet i sommer. Studententene løser utfordringer hos Kreftforeningen, UD og Stavanger universitetssjukehus.",
+      "published": "2026-07-09T05:00:00Z"
+    },
+    {
+      "id": "128aa769206b1b591776b426baec397f2aba62b7",
+      "title": "Automating cross-repo documentation with GitHub Agentic Workflows",
+      "link": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/",
+      "source": "GitHub Blog",
+      "summary": "Explore how the Aspire team turns merged product changes into SME-reviewed docs pull requests, closing the gap between release and documentation. The post Automating cross-repo documentation with GitHub Agentic Workflows appeared first on The GitHub Blog.",
+      "published": "2026-07-08T21:11:56Z",
+      "image": "https://github.blog/wp-content/uploads/2026/07/diagram.png?resize=1024%2C355"
+    },
+    {
+      "id": "fe629e1504972b24779e50433c5eb8e06af74a41",
+      "title": "GitHub availability report: June 2026",
+      "link": "https://github.blog/news-insights/company-news/github-availability-report-june-2026/",
+      "source": "GitHub Blog",
+      "summary": "In June, we experienced six incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: June 2026 appeared first on The GitHub Blog.",
+      "published": "2026-07-08T19:35:51Z"
+    },
+    {
+      "id": "5b95ced4ae3e20a2a540beda82a6b2fb0c9c3a23",
+      "title": "How GitHub Copilot enables zero DNS configuration for GitHub Pages",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages/",
+      "source": "GitHub Blog",
+      "summary": "Go from an empty repository to a live custom domain with HTTPS in about 14 minutes, without manually editing a single DNS record. The post How GitHub Copilot enables zero DNS configuration for GitHub Pages appeared first on The GitHub Blog.",
+      "published": "2026-07-08T16:00:00Z",
+      "image": "https://github.blog/wp-content/uploads/2026/07/Screenshot-2026-07-07-at-3.42.14-PM.png?resize=721%2C266"
+    },
+    {
+      "id": "7ff8e28c486f7de77407bb4f7c71f6b23d990e4a",
+      "title": "Skaper overskrifter i USA – klippet er falskt",
+      "link": "https://www.kode24.no/artikkel/skaper-overskrifter-i-usa-klippet-er-falskt/267282",
+      "source": "Kode24",
+      "summary": "Den virale videoen av Erling Braut Haaland er basert på en video av den kinesiske komikeren Jin Long. Eksperter fastslår at videoen av fotballspilleren er KI-generert.",
+      "published": "2026-07-08T11:14:31Z"
+    },
+    {
+      "id": "10cf3541ebe48de74809b2161e55fcee58ef6ca7",
+      "title": "– For oss handler sommerprosjektene om mer enn rekruttering",
+      "link": "https://www.kode24.no/artikkel/for-oss-handler-sommerprosjektene-om-mer-enn-rekruttering/267269",
+      "source": "Kode24",
+      "summary": "Sommerstudentene er i gang hos Kantega Hver sommer inviterer Kantega studenter inn i ekte prosjekter, ekte fagmiljøer og ekte problemstillinger.",
+      "published": "2026-07-08T10:18:41Z"
+    },
+    {
+      "id": "6d5b6091cf105db24b4354ecb032d423878fed88",
+      "title": "Apple tapte i EU-domstolen",
+      "link": "https://www.kode24.no/artikkel/apple-tapte-i-eu-domstolen/267256",
+      "source": "Kode24",
+      "summary": "EU-domstolen har avvist Apples forsøk på å unngå unionens konkurranseregler, melder nyhetsbyrået AFP.",
+      "published": "2026-07-08T09:12:22Z"
+    },
+    {
+      "id": "12aaf5d11f895a4fd232c49119c85e92b7cc5715",
+      "title": "Forlater OpenAI etter ni år",
+      "link": "https://www.kode24.no/artikkel/forlater-openai-etter-ni-ar/267243",
+      "source": "Kode24",
+      "summary": "OpenAIs sjefs-futurist forlater selskapet etter ni år: – Datamaskiner kunne ennå ikke snakke eller tenke. Nå er jeg 34 år, har familie og en to år gammel sønn, og datamaskiner kan løse vitenskapelige problemer helt i forskningsfronten.",
+      "published": "2026-07-08T07:00:18Z"
+    },
     {
       "id": "b477bed7cffd56834c8812396f0a06a06c7403a1",
       "title": "– Fotball har flere mulige utfall enn det finnes atomer i universet",
@@ -99,30 +214,6 @@
       "published": "2026-07-02T16:00:00Z"
     },
     {
-      "id": "2b08fe8fca4babb0c1627c3b95a5f507466eacf7",
-      "title": "Nettsider opplever stor pågang",
-      "link": "https://www.kode24.no/artikkel/nettsider-opplever-stor-pagang/267124",
-      "source": "Kode24",
-      "summary": "Nettsider som Fotballfesten og Torshov Sport opplever stor pågang. Torsdag morgen er deler av nettsidene til Torshov Sport nede. Det har resultert i at flere har fått kjøpt drakter selv om de ikke er på lager.",
-      "published": "2026-07-02T07:37:18Z"
-    },
-    {
-      "id": "262d71ce6f32ab9aab7e397aa87ddc1fbd99487e",
-      "title": "Gjenskaper stemmen til avdød skuespiller",
-      "link": "https://www.kode24.no/artikkel/gjenskaper-stemmen-til-avdod-skuespiller/267110",
-      "source": "Kode24",
-      "summary": "Fans kritiserer Netflix for å ha KI-gjenskapt stemmen til avdød skuespiller.",
-      "published": "2026-07-02T07:05:18Z"
-    },
-    {
-      "id": "be5ec5183a6366cf1c59c50e8ad69e5eadba9e81",
-      "title": "KS skeptisk til Rødts KI-brems: – Bruk det heller på riktig måte",
-      "link": "https://www.kode24.no/artikkel/ks-skeptisk-til-rodts-ki-brems-bruk-det-heller-pa-riktig-mate/266527",
-      "source": "Kode24",
-      "summary": "Mens Rødt vil bremse på KI-bruken i kommuner, jobber KS med å gi hele Kommune-Norge bedre KI-verktøy. – Vi må unngå at kommuner og fagmiljøer starter på nytt hver for seg, gang på gang.",
-      "published": "2026-07-02T06:00:00Z"
-    },
-    {
       "id": "9296ace9e3392002e6f89e347d629cc89c701346",
       "title": "6 security settings every GitHub maintainer should enable this week",
       "link": "https://github.blog/security/6-security-settings-every-github-maintainer-should-enable-this-week/",
@@ -132,38 +223,6 @@
       "image": "https://github.blog/wp-content/uploads/2026/06/Screenshot-2026-06-30-at-3.28.09-PM.png?resize=1024%2C374"
     },
     {
-      "id": "5ed8734bbae34d9fd2d053d3fcfceb599e4d04fe",
-      "title": "IT-studentene fikk stortingsbesøk",
-      "link": "https://www.kode24.no/artikkel/it-studentene-fikk-stortingsbesok/267090",
-      "source": "Kode24",
-      "summary": "Rekordinteresse for internship i Accenture – fikk stortingsbesøk ved oppstart.",
-      "published": "2026-07-01T12:51:56Z"
-    },
-    {
-      "id": "5c332549b5f200b6113ca9ca1843bd9c46add732",
-      "title": "– Finnes ingen norsk rettspraksis på dette",
-      "link": "https://www.kode24.no/artikkel/finnes-ingen-norsk-rettspraksis-pa-dette/267055",
-      "source": "Kode24",
-      "summary": "kode24 fikk nyhetstips fra et selskap, der e-posten viste seg å være skrevet av en KI-agent. – Etter Art. 50 blir innført, vil det være svært problematisk, sier advokat.",
-      "published": "2026-07-01T08:20:33Z"
-    },
-    {
-      "id": "d95011d04ea5166a9dacdded7cca6640f21e250c",
-      "title": "USA fjerner Anthropics KI-begrensninger",
-      "link": "https://www.kode24.no/artikkel/usa-fjerner-anthropics-ki-begrensninger/267067",
-      "source": "Kode24",
-      "summary": "KI-selskapet Anthropic kan snart gjenopprette tilgangen til de kraftigste verktøyene Fable 5 og Mythos 5 verden rundt, etter at USA nå har fjernet restriksjonene.",
-      "published": "2026-07-01T07:20:29Z"
-    },
-    {
-      "id": "b481ad39a80e9a9e4ce6846d7e37f54491aa6a12",
-      "title": "Dropper KI til nytt partiprogram: – Skal være menneskeskapt",
-      "link": "https://www.kode24.no/artikkel/dropper-ki-til-nytt-partiprogram-skal-vaere-menneskeskapt/266231",
-      "source": "Kode24",
-      "summary": "Ap i Bergen er bevisste på hva de bruker kunstig intelligens til og ikke. – Ofte blir det helt utrolig pompøst.",
-      "published": "2026-07-01T05:00:00Z"
-    },
-    {
       "id": "80162d42fbf5403a8e5d700c60b0f72bb0959104",
       "title": "How GitHub maintains compliance for open source dependencies",
       "link": "https://github.blog/enterprise-software/governance-and-compliance/how-github-maintains-compliance-for-open-source-dependencies/",
@@ -171,30 +230,6 @@
       "summary": "Explore how the Open Source Program Office uses GitHub’s new license compliance product to manage open source dependencies at scale. The post How GitHub maintains compliance for open source dependencies appeared first on The GitHub Blog.",
       "published": "2026-06-30T17:28:16Z",
       "image": "https://github.blog/wp-content/uploads/2026/06/613757407-388b97bc-ca84-416a-aac5-72e4924e5dc8.png?resize=936%2C504"
-    },
-    {
-      "id": "a1de2b10f7299ce26b00c422638c3ecb5518d0cf",
-      "title": "– Slutt å bruke interfaces på alle tjenester!",
-      "link": "https://www.kode24.no/artikkel/slutt-a-bruke-interfaces-pa-alle-tjenester/266577",
-      "source": "Kode24",
-      "summary": "– Det tar både unødvendig tid og kode, og verst av alt: Vi slutter å teste det som faktisk betyr noe, skriver Per Ola Sneve om .Net-utvikling.",
-      "published": "2026-06-30T09:06:38Z"
-    },
-    {
-      "id": "488be9f5916fe7d7acb3232885850c738e6e27ca",
-      "title": "SV vil forby Meta-briller",
-      "link": "https://www.kode24.no/artikkel/sv-vil-forby-meta-briller/267042",
-      "source": "Kode24",
-      "summary": "SV-leiar Kirsti Bergstø krev eit forbod mot smartbrillene frå Meta, som ho meiner, opnar for skjult overvaking og misbruk.",
-      "published": "2026-06-30T07:00:47Z"
-    },
-    {
-      "id": "add29532de3a1daa4074b6a818b741a60a88e9ab",
-      "title": "– Har verden blitt slik at man kan sitere en AI-agent?",
-      "link": "https://www.kode24.no/artikkel/har-verden-blitt-slik-at-man-kan-sitere-en-ai-agent/266709",
-      "source": "Kode24",
-      "summary": "Det tikket inn en e-post til kode24 med et godt nyhetstips, signert en CEO. Først flere dager senere forsto vi at e-posten ikke kom fra et menneske.",
-      "published": "2026-06-30T06:00:00Z"
     },
     {
       "id": "7c038b846d005972a9a16381267b330ba41c933b",
@@ -213,40 +248,6 @@
       "summary": "The GitHub Advisory Database is processing more vulnerability reports than ever before. Here's what's driving the surge, how we're responding, and how the community can help. The post Inside the Advisory Database and what happens when vulnerability volume breaks records appeared first on The GitHub...",
       "published": "2026-06-29T16:10:20Z",
       "image": "https://github.blog/wp-content/uploads/2026/06/613839791-af0d8e48-215f-48c7-8f0c-16ef531592f7.png?resize=1024%2C640"
-    },
-    {
-      "id": "2f45db97504e82c7e1214a3b8f278fe79c1eb8a3",
-      "title": "GitHub and UNDP team up to advance development priorities in Ghana with open source",
-      "link": "https://github.blog/open-source/social-impact/github-and-undp-team-up-to-advance-development-priorities-in-ghana-with-open-source/",
-      "source": "GitHub Blog",
-      "summary": "GitHub joined the United Nations Development Programme in Ghana to explore how open source governance can support one of West Africa's most ambitious digital reform efforts. The post GitHub and UNDP team up to advance development priorities in Ghana with open source appeared first on The GitHub...",
-      "published": "2026-06-26T16:53:57Z",
-      "image": "https://github.blog/wp-content/uploads/2026/06/image006.jpg?resize=800%2C533"
-    },
-    {
-      "id": "3c7226096364e37d9f9dc2699c20e8f4feedd914",
-      "title": "Transitioning as a Hubber",
-      "link": "https://github.blog/developer-skills/career-growth/transitioning-as-a-hubber/",
-      "source": "GitHub Blog",
-      "summary": "How GitHub's culture and benefits helped me be the best version of myself. The post Transitioning as a Hubber appeared first on The GitHub Blog.",
-      "published": "2026-06-26T12:00:00Z"
-    },
-    {
-      "id": "e8f3e43edba27397d90d37998ead040f2075a515",
-      "title": "Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and tasks",
-      "link": "https://github.blog/ai-and-ml/github-copilot/evaluating-performance-and-efficiency-of-the-github-copilot-agentic-harness-across-models-and-tasks/",
-      "source": "GitHub Blog",
-      "summary": "Explore how the GitHub Copilot agentic harness delivers strong results across multiple benchmarks and leading token efficiency, while maintaining flexibility to choose among more than 20 models. The post Evaluating performance and efficiency of the GitHub Copilot agentic harness across models and...",
-      "published": "2026-06-25T22:59:45Z",
-      "image": "https://github.blog/wp-content/uploads/2026/06/architecture-harness-surfaces.png?resize=1024%2C592"
-    },
-    {
-      "id": "8fdf484fe1ad997d5be0f86143e7e07c4d8506ed",
-      "title": "I automated my job (and it made me a better leader)",
-      "link": "https://github.blog/developer-skills/github/i-automated-my-job-and-it-made-me-a-better-leader/",
-      "source": "GitHub Blog",
-      "summary": "Explore how my day as a senior leader looks now that I use 40 automations to help, and learn more about some of my favorites. The post I automated my job (and it made me a better leader) appeared first on The GitHub Blog.",
-      "published": "2026-06-23T16:00:00Z"
     },
     {
       "id": "7ae1dda67f7f810e6d77f7a3e7778ae9abd39902",
