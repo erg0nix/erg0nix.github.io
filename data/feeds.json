@@ -1,6 +1,23 @@
 {
-  "generated_at": "2026-07-10T09:41:09.870633Z",
+  "generated_at": "2026-07-11T08:01:18.699787Z",
   "items": [
+    {
+      "id": "9987c173fa65b620c74b3fa3dbb51cebc3a8247c",
+      "title": "Better tools made Copilot code review worse. Here’s how we actually improved it.",
+      "link": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/",
+      "source": "GitHub Blog",
+      "summary": "How migrating Copilot code review to shared Unix-style code exploration tools reduced review cost by reshaping agent workflows around pull request evidence. The post Better tools made Copilot code review worse. Here’s how we actually improved it. appeared first on The GitHub Blog.",
+      "published": "2026-07-10T15:57:47Z",
+      "image": "https://github.blog/wp-content/uploads/2026/07/1.png?resize=1024%2C478"
+    },
+    {
+      "id": "f357b7a6e91fde09cd8345902692091c50c6e9e6",
+      "title": "– I strid med EUs regler",
+      "link": "https://www.kode24.no/artikkel/i-strid-med-eus-regler/267407",
+      "source": "Kode24",
+      "summary": "EU til Meta: Gjør Instagram og Facebook mindre avhengighetsskapende.",
+      "published": "2026-07-10T11:16:47Z"
+    },
     {
       "id": "dc54fcf6b08f851ef851e453a64e3be7cc7c4482",
       "title": "Nytt fra Next.js, GitHub og Safari",
@@ -198,14 +215,6 @@
       "published": "2026-07-03T07:46:45Z"
     },
     {
-      "id": "b630c5c6f93b0fc7a25dcef37afdc8742e55f3f8",
-      "title": "Helge Sverre lager eget språk for KI: Sema",
-      "link": "https://www.kode24.no/artikkel/helge-sverre-lager-eget-sprak-for-ki-sema/266943",
-      "source": "Kode24",
-      "summary": "– Ideen bak er litt mindre sprø enn den kan virke: Lisp kan faktisk være et av de beste språkene vi har for kodeagenter, skriver Helge Sverre Hessevik Liseth.",
-      "published": "2026-07-03T05:00:00Z"
-    },
-    {
       "id": "bfea07974bf2f5b9386fdcb9512bf160ce0d80c1",
       "title": "How GitHub used secret scanning to reach inbox zero",
       "link": "https://github.blog/security/application-security/how-github-used-secret-scanning-to-reach-inbox-zero/",
@@ -239,15 +248,6 @@
       "summary": "The open source Git project just released Git 2.55. Here is GitHub’s look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.55 appeared first on The GitHub Blog.",
       "published": "2026-06-29T17:25:25Z",
       "image": "https://github.blog/wp-content/uploads/2026/06/Screenshot-2026-06-25-at-6.36.16-PM.png?resize=1024%2C256"
-    },
-    {
-      "id": "05e2e2874ae366e92f04cebdd7986671a7bd371c",
-      "title": "Inside the Advisory Database and what happens when vulnerability volume breaks records",
-      "link": "https://github.blog/security/supply-chain-security/inside-the-advisory-database-and-what-happens-when-vulnerability-volume-breaks-records/",
-      "source": "GitHub Blog",
-      "summary": "The GitHub Advisory Database is processing more vulnerability reports than ever before. Here's what's driving the surge, how we're responding, and how the community can help. The post Inside the Advisory Database and what happens when vulnerability volume breaks records appeared first on The GitHub...",
-      "published": "2026-06-29T16:10:20Z",
-      "image": "https://github.blog/wp-content/uploads/2026/06/613839791-af0d8e48-215f-48c7-8f0c-16ef531592f7.png?resize=1024%2C640"
     },
     {
       "id": "7ae1dda67f7f810e6d77f7a3e7778ae9abd39902",
