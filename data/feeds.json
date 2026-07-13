@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-07-12T08:22:23.096495Z",
+  "generated_at": "2026-07-13T09:33:46.835457Z",
   "items": [
+    {
+      "id": "9b4248e25eb04bdf71e6df1c2223927c35bf6155",
+      "title": "KI-søk kan true Wikipedias modell",
+      "link": "https://www.kode24.no/artikkel/ki-sok-kan-true-wikipedias-modell/267420",
+      "source": "Kode24",
+      "summary": "Fin ingress, ikke for lang, ikke for kort, akkurat passe lang.",
+      "published": "2026-07-13T06:28:50Z"
+    },
+    {
+      "id": "6457847d80c5f7106a9b0c6005ce035b9e03e45a",
+      "title": "Slik løste de Altinn 3-overgangen",
+      "link": "https://www.kode24.no/artikkel/slik-loste-de-altinn-3-overgangen/267392",
+      "source": "Kode24",
+      "summary": "Altinn 3-fristen og en avansert arkitektur som gjør en kritisk dataflyt sporbar.",
+      "published": "2026-07-13T05:00:00Z"
+    },
     {
       "id": "9987c173fa65b620c74b3fa3dbb51cebc3a8247c",
       "title": "Better tools made Copilot code review worse. Here’s how we actually improved it.",
@@ -197,22 +213,6 @@
       "source": "Kode24",
       "summary": "Ukas koder mener mange selskaper fortsatt famler med å forstå det praktiske potensialet i maskinlæring og kvantedatamaskiner, men mener sektorer som transport, logistikk og energi må ta i bruk slike verktøy om kort tid: – Det gir gode forutsetninger for min karriere.",
       "published": "2026-07-06T06:58:02Z"
-    },
-    {
-      "id": "f89f0e5e9889261e4911503a1bf4779ec56d96ee",
-      "title": "– Mentalt krevende å kvalitetssikre KI-generert innhold",
-      "link": "https://www.kode24.no/artikkel/mentalt-krevende-a-kvalitetssikre-ki-generert-innhold/266697",
-      "source": "Kode24",
-      "summary": "Sintef har fulgt åtte team i seks nordiske selskaper, som alle satser tungt på bruk av KI. Nils Brede Moe fant tre måter å øke gevisten – og tre barrierer.",
-      "published": "2026-07-06T04:00:00Z"
-    },
-    {
-      "id": "c073ba9eb1aee42f46bc4b1e691dca2df5ef070b",
-      "title": "FN-rapport: Avslører strømforbruket til KI-tjenester",
-      "link": "https://www.kode24.no/artikkel/fn-rapport-avslorer-stromforbruket-til-ki-tjenester/267150",
-      "source": "Kode24",
-      "summary": "En ny FN-rapport avslører strømforbruket og miljøavtrykket til ulike KI-tjenester.",
-      "published": "2026-07-03T07:46:45Z"
     },
     {
       "id": "bfea07974bf2f5b9386fdcb9512bf160ce0d80c1",
