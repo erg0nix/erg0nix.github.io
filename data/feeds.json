@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-07-14T08:12:33.794655Z",
+  "generated_at": "2026-07-15T08:19:52.223196Z",
   "items": [
+    {
+      "id": "57835ddf8c66c6e2b64b08b9e8b318a94af14fc0",
+      "title": "Varmt på jobben? Dette har du rett på",
+      "link": "https://www.kode24.no/artikkel/varmt-pa-jobben-dette-har-du-rett-pa/267542",
+      "source": "Kode24",
+      "summary": "Det kan bli varme dager for de som må jobbe under hetebølgen, men du har ikke rett til å gå hjem.",
+      "published": "2026-07-15T07:00:00Z"
+    },
+    {
+      "id": "f3521f2f26f9da375bd5171c7dfb98202fceed4e",
+      "title": "– Ikke vær teknologisky",
+      "link": "https://www.kode24.no/artikkel/ikke-vaer-teknologisky/267436",
+      "source": "Kode24",
+      "summary": "– Et stort tema og frykt er at KI kommer til å «ta jobber», fjerne behovet for utviklere, men det tror jeg ikke kommer til å skje, sier sommerkoder Alexander Owren Elton.",
+      "published": "2026-07-15T05:00:00Z"
+    },
+    {
+      "id": "e71afb32ef52be57587d1355f44675e8883e821b",
+      "title": "VM «take over» på LinkedIn",
+      "link": "https://www.kode24.no/artikkel/vm-take-over-pa-linkedin/267514",
+      "source": "Kode24",
+      "summary": "Hvis du har vært på LinkedIn i dag, så har du nok sett det. Folk deler følelsene sine etter den store VM-bragden. Også på det profesjonelle nettverket. Fotballen er overalt.",
+      "published": "2026-07-14T12:27:00Z"
+    },
+    {
+      "id": "c0685de1750514fcc9719a11773b364065fbb605",
+      "title": "Datatilsynet varslet etter IT-svikt",
+      "link": "https://www.kode24.no/artikkel/datatilsynet-varslet-etter-it-svikt/267502",
+      "source": "Kode24",
+      "summary": "Datatilsynet er varslet etter at en teknisk svikt hos en IT-leverandør til Flekkefjord Sparebank.",
+      "published": "2026-07-14T08:06:16Z"
+    },
+    {
+      "id": "06672feb28fefd5f38ffaef9dd6a4180d234776e",
+      "title": "– Det er utrolig vanskelig å kontrollere",
+      "link": "https://www.kode24.no/artikkel/det-er-utrolig-vanskelig-a-kontrollere/267478",
+      "source": "Kode24",
+      "summary": "SNL-redaktør bekymret for KI-feilsiteringer.",
+      "published": "2026-07-14T07:23:46Z"
+    },
     {
       "id": "16314e90d5969e72845266e7526e22150b6899b9",
       "title": "– Det vanskeligste er å sette seg inn i bedrifters eksisterende løsninger",
@@ -166,14 +206,6 @@
       "published": "2026-07-08T07:00:18Z"
     },
     {
-      "id": "b477bed7cffd56834c8812396f0a06a06c7403a1",
-      "title": "– Fotball har flere mulige utfall enn det finnes atomer i universet",
-      "link": "https://www.kode24.no/artikkel/fotball-har-flere-mulige-utfall-enn-det-finnes-atomer-i-universet/267218",
-      "source": "Kode24",
-      "summary": "Kunstig intelligens gjør det nå mulig å samle inn data fra kamper over hele verden på en måte man aldri før har sett før.",
-      "published": "2026-07-08T05:00:00Z"
-    },
-    {
       "id": "80bb8a1ea960e93bbe7d42dcb58bda29304503ee",
       "title": "Q1 2026 Innovation Graph update: Open source collaboration is accelerating worldwide",
       "link": "https://github.blog/news-insights/policy-news-and-insights/q1-2026-innovation-graph-update-open-source-collaboration-is-accelerating-worldwide/",
@@ -181,38 +213,6 @@
       "summary": "New Innovation Graph data shows global developer communities growing faster than ever, with collaboration reaching new highs across many economies. The post Q1 2026 Innovation Graph update: Open source collaboration is accelerating worldwide appeared first on The GitHub Blog.",
       "published": "2026-07-07T16:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2026/07/outbound_collaboration_innovation_graph.png?resize=1024%2C500"
-    },
-    {
-      "id": "59e9f5475e0d35254650140a2a15e125348fef16",
-      "title": "FN-sjefen med sterk KI-advarsel",
-      "link": "https://www.kode24.no/artikkel/fn-sjefen-med-sterk-ki-advarsel/267233",
-      "source": "Kode24",
-      "summary": "FNs generalsekretær António Guterres advarer om farene ved kunstig intelligens.",
-      "published": "2026-07-07T12:28:34Z"
-    },
-    {
-      "id": "17109a45686dc8080314ec64f6ffcd83449e3b08",
-      "title": "Microsoft sier opp 4800 ansatte",
-      "link": "https://www.kode24.no/artikkel/microsoft-sier-opp-4800-ansatte/267206",
-      "source": "Kode24",
-      "summary": "De fleste av stillingskuttene skjer i Microsofts Xbox-avdeling og i organisasjonene for kommersielt salg.",
-      "published": "2026-07-07T08:49:02Z"
-    },
-    {
-      "id": "e9a9eb9fd134b98f3009addb923b6e450791cb3a",
-      "title": "Norske bøker brukes til å trene KI – vekker bekymring i bokbransjen",
-      "link": "https://www.kode24.no/artikkel/norske-boker-brukes-til-a-trene-ki-vekker-bekymring-i-bokbransjen/267194",
-      "source": "Kode24",
-      "summary": "Norske bøker brukt til å trene KI-modeller.",
-      "published": "2026-07-07T07:28:13Z"
-    },
-    {
-      "id": "d9d8d3c04a48bbe61e4441cebf4af5bab544889d",
-      "title": "Produkt-ledere tar over for team-lederere: Sånn følger de nå opp team-helsa",
-      "link": "https://www.kode24.no/artikkel/produkt-ledere-tar-over-for-team-lederere-sann-folger-de-na-opp-team-helsa/266894",
-      "source": "Kode24",
-      "summary": "– Mange team gjennomfører teamhelsesjekker, men får lite ut av dem fordi resultatene ikke følges opp, skriver coach Håvard Holje i SpareBank 1 Utvikling, og viser deg hvordan.",
-      "published": "2026-07-07T05:00:00Z"
     },
     {
       "id": "bfea07974bf2f5b9386fdcb9512bf160ce0d80c1",
