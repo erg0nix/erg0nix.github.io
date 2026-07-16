@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-07-15T08:19:52.223196Z",
+  "generated_at": "2026-07-16T08:19:11.216214Z",
   "items": [
+    {
+      "id": "0dc75b809c367e6cc5d52ba64f137383ccc3bd20",
+      "title": "Stort samarbeid mellom Nvidia og Kawasaki Heavy Industries",
+      "link": "https://www.kode24.no/artikkel/stort-samarbeid-mellom-nvidia-og-kawasaki-heavy-industries/267587",
+      "source": "Kode24",
+      "summary": "KI-giganten Nvidia skal utvikle roboter for japansk skipsbygging.",
+      "published": "2026-07-16T06:50:23Z"
+    },
+    {
+      "id": "da5c1d6918622d59d57f2e272ccb222fa8954dbc",
+      "title": "GitHub for Beginners: Your roadmap to mastering the GitHub essentials",
+      "link": "https://github.blog/developer-skills/github/github-for-beginners-your-roadmap-to-mastering-the-github-essentials/",
+      "source": "GitHub Blog",
+      "summary": "New to GitHub? This beginner's guide explains version control, repositories, and pull requests—plus everything else you need to start working confidently on GitHub. The post GitHub for Beginners: Your roadmap to mastering the GitHub essentials appeared first on The GitHub Blog.",
+      "published": "2026-07-15T17:29:31Z"
+    },
+    {
+      "id": "63528c2eb3a3cc38962a120f4e12565c043cd86f",
+      "title": "Hva Norges VM-exit kan lære oss om data",
+      "link": "https://www.kode24.no/artikkel/hva-norges-vm-exit-kan-laere-oss-om-data/267572",
+      "source": "Kode24",
+      "summary": "– Norge tapte kvartfinalen på et tvilsomt datagrunnlag. Vet du om du kan stole på ditt?",
+      "published": "2026-07-15T12:55:52Z"
+    },
+    {
+      "id": "da7eb331c86de4f17365a1143e921800e1fbf1c8",
+      "title": "4 av 10 studenter velger KI framfor pensumbøker",
+      "link": "https://www.kode24.no/artikkel/4-av-10-studenter-velger-ki-framfor-pensumboker/267558",
+      "source": "Kode24",
+      "summary": "Pensumboken står fremdeles sterkt, men kunstig intelligens er på få år blitt studentenes nest mest foretrukne læringsverktøy.",
+      "published": "2026-07-15T10:12:01Z"
+    },
     {
       "id": "57835ddf8c66c6e2b64b08b9e8b318a94af14fc0",
       "title": "Varmt på jobben? Dette har du rett på",
@@ -182,30 +214,6 @@
       "published": "2026-07-08T11:14:31Z"
     },
     {
-      "id": "10cf3541ebe48de74809b2161e55fcee58ef6ca7",
-      "title": "– For oss handler sommerprosjektene om mer enn rekruttering",
-      "link": "https://www.kode24.no/artikkel/for-oss-handler-sommerprosjektene-om-mer-enn-rekruttering/267269",
-      "source": "Kode24",
-      "summary": "Sommerstudentene er i gang hos Kantega Hver sommer inviterer Kantega studenter inn i ekte prosjekter, ekte fagmiljøer og ekte problemstillinger.",
-      "published": "2026-07-08T10:18:41Z"
-    },
-    {
-      "id": "6d5b6091cf105db24b4354ecb032d423878fed88",
-      "title": "Apple tapte i EU-domstolen",
-      "link": "https://www.kode24.no/artikkel/apple-tapte-i-eu-domstolen/267256",
-      "source": "Kode24",
-      "summary": "EU-domstolen har avvist Apples forsøk på å unngå unionens konkurranseregler, melder nyhetsbyrået AFP.",
-      "published": "2026-07-08T09:12:22Z"
-    },
-    {
-      "id": "12aaf5d11f895a4fd232c49119c85e92b7cc5715",
-      "title": "Forlater OpenAI etter ni år",
-      "link": "https://www.kode24.no/artikkel/forlater-openai-etter-ni-ar/267243",
-      "source": "Kode24",
-      "summary": "OpenAIs sjefs-futurist forlater selskapet etter ni år: – Datamaskiner kunne ennå ikke snakke eller tenke. Nå er jeg 34 år, har familie og en to år gammel sønn, og datamaskiner kan løse vitenskapelige problemer helt i forskningsfronten.",
-      "published": "2026-07-08T07:00:18Z"
-    },
-    {
       "id": "80bb8a1ea960e93bbe7d42dcb58bda29304503ee",
       "title": "Q1 2026 Innovation Graph update: Open source collaboration is accelerating worldwide",
       "link": "https://github.blog/news-insights/policy-news-and-insights/q1-2026-innovation-graph-update-open-source-collaboration-is-accelerating-worldwide/",
@@ -239,15 +247,6 @@
       "summary": "Explore how the Open Source Program Office uses GitHub’s new license compliance product to manage open source dependencies at scale. The post How GitHub maintains compliance for open source dependencies appeared first on The GitHub Blog.",
       "published": "2026-06-30T17:28:16Z",
       "image": "https://github.blog/wp-content/uploads/2026/06/613757407-388b97bc-ca84-416a-aac5-72e4924e5dc8.png?resize=936%2C504"
-    },
-    {
-      "id": "7c038b846d005972a9a16381267b330ba41c933b",
-      "title": "Highlights from Git 2.55",
-      "link": "https://github.blog/open-source/git/highlights-from-git-2-55/",
-      "source": "GitHub Blog",
-      "summary": "The open source Git project just released Git 2.55. Here is GitHub’s look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.55 appeared first on The GitHub Blog.",
-      "published": "2026-06-29T17:25:25Z",
-      "image": "https://github.blog/wp-content/uploads/2026/06/Screenshot-2026-06-25-at-6.36.16-PM.png?resize=1024%2C256"
     },
     {
       "id": "7ae1dda67f7f810e6d77f7a3e7778ae9abd39902",
