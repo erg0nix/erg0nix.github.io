@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-07-16T08:19:11.216214Z",
+  "generated_at": "2026-07-17T08:15:11.571255Z",
   "items": [
+    {
+      "id": "28f4a7cfdb37c60d3c8bf09d24a42f3e8b0faceb",
+      "title": "Etterlyser mer nasjonal og strategisk tenkning",
+      "link": "https://www.kode24.no/artikkel/etterlyser-mer-nasjonal-og-strategisk-tenkning/267640",
+      "source": "Kode24",
+      "summary": "Høyre og SV vil innføre et nasjonalt konsesjonssystem for datasentre. De mener etableringene må vurderes opp mot kraftbehov og hva Norge får igjen.",
+      "published": "2026-07-17T06:38:52Z"
+    },
+    {
+      "id": "1a2f845741f897368c2b09177713eb16ad480a45",
+      "title": "AWS skapte trøbbel for norske aviser",
+      "link": "https://www.kode24.no/artikkel/aws-skapte-trobbel-for-norske-aviser/267630",
+      "source": "Kode24",
+      "summary": "Flere Schibsted-aviser var nede torsdag morgen. Feil hos AWS.",
+      "published": "2026-07-16T12:26:07Z"
+    },
+    {
+      "id": "4b3a18a16eb1c923be7529d002da61882da50006",
+      "title": "Lanserer maskinvare: – Ikke slik vi hadde forventet",
+      "link": "https://www.kode24.no/artikkel/lanserer-maskinvare-ikke-slik-vi-hadde-forventet/267601",
+      "source": "Kode24",
+      "summary": "OpenAI lanserer maskinvare – et produkt utviklet for å bruke sammen med språkmodellen til selskapet, Codex: – Et samarbeid i begrenset opplag.",
+      "published": "2026-07-16T09:38:36Z"
+    },
     {
       "id": "0dc75b809c367e6cc5d52ba64f137383ccc3bd20",
       "title": "Stort samarbeid mellom Nvidia og Kawasaki Heavy Industries",
@@ -164,22 +188,6 @@
       "published": "2026-07-09T08:46:12Z"
     },
     {
-      "id": "eef432d59c2ca69f0b37c46a76a572056e1888cc",
-      "title": "Skatteetaten advarer mot epost-svindel",
-      "link": "https://www.kode24.no/artikkel/skatteetaten-advarer-mot-epost-svindel/267325",
-      "source": "Kode24",
-      "summary": "Skatteetatens avsenderadresse blir misbrukt i en stor svindelbølge. Etaten kommer med en klar oppfordring til de rammede.",
-      "published": "2026-07-09T07:15:42Z"
-    },
-    {
-      "id": "4631454b53dbfac0b7b0016dc14e4a6cb7b9e658",
-      "title": "Løser utfordringer hos Kreftforeningen",
-      "link": "https://www.kode24.no/artikkel/loser-utfordringer-hos-kreftforeningen-1/267303",
-      "source": "Kode24",
-      "summary": "Det er mye spennende i vente i Bouvet i sommer. Studententene løser utfordringer hos Kreftforeningen, UD og Stavanger universitetssjukehus.",
-      "published": "2026-07-09T05:00:00Z"
-    },
-    {
       "id": "128aa769206b1b591776b426baec397f2aba62b7",
       "title": "Automating cross-repo documentation with GitHub Agentic Workflows",
       "link": "https://github.blog/ai-and-ml/github-copilot/automating-cross-repo-documentation-with-github-agentic-workflows/",
@@ -204,14 +212,6 @@
       "summary": "Go from an empty repository to a live custom domain with HTTPS in about 14 minutes, without manually editing a single DNS record. The post How GitHub Copilot enables zero DNS configuration for GitHub Pages appeared first on The GitHub Blog.",
       "published": "2026-07-08T16:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2026/07/Screenshot-2026-07-07-at-3.42.14-PM.png?resize=721%2C266"
-    },
-    {
-      "id": "7ff8e28c486f7de77407bb4f7c71f6b23d990e4a",
-      "title": "Skaper overskrifter i USA – klippet er falskt",
-      "link": "https://www.kode24.no/artikkel/skaper-overskrifter-i-usa-klippet-er-falskt/267282",
-      "source": "Kode24",
-      "summary": "Den virale videoen av Erling Braut Haaland er basert på en video av den kinesiske komikeren Jin Long. Eksperter fastslår at videoen av fotballspilleren er KI-generert.",
-      "published": "2026-07-08T11:14:31Z"
     },
     {
       "id": "80bb8a1ea960e93bbe7d42dcb58bda29304503ee",
