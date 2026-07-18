@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-07-17T08:15:11.571255Z",
+  "generated_at": "2026-07-18T07:57:25.000062Z",
   "items": [
+    {
+      "id": "3d797cd58491fd6515986a8eab39c231ac68ecbb",
+      "title": "The cost of saying yes has changed",
+      "link": "https://github.blog/engineering/the-cost-of-saying-yes-has-changed/",
+      "source": "GitHub Blog",
+      "summary": "The cost of writing code dropped; the cost of owning it didn't. A framework for deciding which changes are actually cheap in the AI era. The post The cost of saying yes has changed appeared first on The GitHub Blog.",
+      "published": "2026-07-17T16:46:47Z"
+    },
+    {
+      "id": "070cf958238f91ce3e14d504b4a159cb684250d5",
+      "title": "– Et hel-automatisert svar hadde jo gjort jobben bedre",
+      "link": "https://www.kode24.no/artikkel/et-hel-automatisert-svar-hadde-jo-gjort-jobben-bedre/267675",
+      "source": "Kode24",
+      "summary": "Kundeservicen til Komplett.no brukte et svar fra en chatbot til å svare en kunde, men ble ferska da de glemte å fjerne informasjon fra boten. – Det viser jo at de ikke bryr seg så mye om kunden, men later som om de gjør det.",
+      "published": "2026-07-17T13:08:22Z"
+    },
+    {
+      "id": "6fe101766aa0e9a3991832ba017115b7720be6db",
+      "title": "– Vi trenger et regnskap for koden ingen forstår",
+      "link": "https://www.kode24.no/artikkel/vi-trenger-et-regnskap-for-koden-ingen-forstar/267663",
+      "source": "Kode24",
+      "summary": "Flaskehalseffekten og kvelningsfornemmelsen er reell. Situasjonen er ikke helt ny, da man alltid har hatt kode ingen helt tør å ta i. Men agentisk koding gjør problemet mye mer akutt.",
+      "published": "2026-07-17T10:11:22Z"
+    },
+    {
+      "id": "2e547f7fd2f462b10f5f70511551176ed0f20f05",
+      "title": "Slik beregnes folkemengden",
+      "link": "https://www.kode24.no/artikkel/slik-beregnes-folkemengden/267651",
+      "source": "Kode24",
+      "summary": "Hvor mange var egentlig på Slottsplassen? Slik anslår Oslo kommune at 150.000 møtte opp.",
+      "published": "2026-07-17T07:12:02Z"
+    },
     {
       "id": "28f4a7cfdb37c60d3c8bf09d24a42f3e8b0faceb",
       "title": "Etterlyser mer nasjonal og strategisk tenkning",
@@ -155,14 +187,6 @@
       "published": "2026-07-10T07:41:14Z"
     },
     {
-      "id": "8cdf7829c4bc2634409b8b51156ecb9e0eaad135",
-      "title": "– Ikke nødvendig med smartbrilleregler i helsevesenet",
-      "link": "https://www.kode24.no/artikkel/ikke-nodvendig-med-smartbrilleregler-i-helsevesenet/267364",
-      "source": "Kode24",
-      "summary": "Pasienter kan bli usikre og miste tillit hvis de møter helsepersonell som bruker KI-briller, mener SV. Helseministeren ser derimot ingen grunn til å innføre særregler.",
-      "published": "2026-07-10T07:22:47Z"
-    },
-    {
       "id": "e997c3a1a6799acc0388d2f49159bdf12489e70f",
       "title": "How GitHub gave every repository a durable owner",
       "link": "https://github.blog/security/application-security/how-github-gave-every-repository-a-durable-owner/",
@@ -170,22 +194,6 @@
       "summary": "GitHub had over 14,000 repositories. Fewer than half had clear ownership. Here's how we gave every active repository a validated owner in under 45 days, archived the rest, and made ownership the foundation for everything that followed. The post How GitHub gave every repository a durable owner...",
       "published": "2026-07-09T16:29:37Z",
       "image": "https://github.blog/wp-content/uploads/2026/07/CleanShot-2026-07-09-at-12.21.43@2x.png?resize=683%2C1024"
-    },
-    {
-      "id": "dd4da88a8f6fc901cbd0be7a216df5febc932091",
-      "title": "Økokrim frykter datasentre kan brukes til hvitvasking",
-      "link": "https://www.kode24.no/artikkel/okokrim-frykter-datasentre-kan-brukes-til-hvitvasking/267350",
-      "source": "Kode24",
-      "summary": "Datasentre kan gi stor økonomisk profitt, noe som gjør dem attraktive for hvitvasking, advarer Økokrim-sjef Pål Lønseth.",
-      "published": "2026-07-09T09:34:27Z"
-    },
-    {
-      "id": "b17d5048d158545abb18c0681ee97dd3da1edbf4",
-      "title": "Vanskeligste problemet innen robotikk",
-      "link": "https://www.kode24.no/artikkel/vanskeligste-problemet-innen-robotikk/267336",
-      "source": "Kode24",
-      "summary": "Kina ønsker å løse det vanskeligste problemet innen robotikk – å lage hender.",
-      "published": "2026-07-09T08:46:12Z"
     },
     {
       "id": "128aa769206b1b591776b426baec397f2aba62b7",
@@ -238,15 +246,6 @@
       "summary": "These six free settings will not make your project unhackable. Nothing will. What they will do is close the easy doors. Turn these on, and your project will be meaningfully harder to attack than it was before. The post 6 security settings every GitHub maintainer should enable this week appeared...",
       "published": "2026-07-01T15:59:29Z",
       "image": "https://github.blog/wp-content/uploads/2026/06/Screenshot-2026-06-30-at-3.28.09-PM.png?resize=1024%2C374"
-    },
-    {
-      "id": "80162d42fbf5403a8e5d700c60b0f72bb0959104",
-      "title": "How GitHub maintains compliance for open source dependencies",
-      "link": "https://github.blog/enterprise-software/governance-and-compliance/how-github-maintains-compliance-for-open-source-dependencies/",
-      "source": "GitHub Blog",
-      "summary": "Explore how the Open Source Program Office uses GitHub’s new license compliance product to manage open source dependencies at scale. The post How GitHub maintains compliance for open source dependencies appeared first on The GitHub Blog.",
-      "published": "2026-06-30T17:28:16Z",
-      "image": "https://github.blog/wp-content/uploads/2026/06/613757407-388b97bc-ca84-416a-aac5-72e4924e5dc8.png?resize=936%2C504"
     },
     {
       "id": "7ae1dda67f7f810e6d77f7a3e7778ae9abd39902",
