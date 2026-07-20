@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-07-19T08:24:00.019227Z",
+  "generated_at": "2026-07-20T09:20:44.928497Z",
   "items": [
+    {
+      "id": "d9851c5e00e426e4f81053af4ba385088db59e63",
+      "title": "– Slutt å telle kontordager",
+      "link": "https://www.kode24.no/artikkel/slutt-a-telle-kontordager/267708",
+      "source": "Kode24",
+      "summary": "Hybrid- og fjernarbeid har gjort samarbeid vanskelig, mener 7 av 10 arbeidsgivere i en kartlegging fra Randstad. Selskapet mener løsningen ikke er å telle antall dager man er på kontoret.",
+      "published": "2026-07-20T07:03:09Z"
+    },
+    {
+      "id": "2328880813f9e152f68e5f2da6bec42a9db6b113",
+      "title": "To dømt for ett av Storbritannias største datainnbrudd noensinne",
+      "link": "https://www.kode24.no/artikkel/to-domt-for-ett-av-storbritannias-storste-datainnbrudd-noensinne/267694",
+      "source": "Kode24",
+      "summary": "To briter er dømt til fem og et halvt års fengsel for dataangrep mot Transport for London (TfL) i 2024. Angrepet er et av Storbritannias største datainnbrudd noensinne.",
+      "published": "2026-07-20T06:14:06Z"
+    },
     {
       "id": "3d797cd58491fd6515986a8eab39c231ac68ecbb",
       "title": "The cost of saying yes has changed",
@@ -169,22 +185,6 @@
       "summary": "How migrating Copilot code review to shared Unix-style code exploration tools reduced review cost by reshaping agent workflows around pull request evidence. The post Better tools made Copilot code review worse. Here’s how we actually improved it. appeared first on The GitHub Blog.",
       "published": "2026-07-10T15:57:47Z",
       "image": "https://github.blog/wp-content/uploads/2026/07/1.png?resize=1024%2C478"
-    },
-    {
-      "id": "f357b7a6e91fde09cd8345902692091c50c6e9e6",
-      "title": "– I strid med EUs regler",
-      "link": "https://www.kode24.no/artikkel/i-strid-med-eus-regler/267407",
-      "source": "Kode24",
-      "summary": "EU til Meta: Gjør Instagram og Facebook mindre avhengighetsskapende.",
-      "published": "2026-07-10T11:16:47Z"
-    },
-    {
-      "id": "dc54fcf6b08f851ef851e453a64e3be7cc7c4482",
-      "title": "Nytt fra Next.js, GitHub og Safari",
-      "link": "https://www.kode24.no/artikkel/nytt-fra-nextjs-github-og-safari/267381",
-      "source": "Kode24",
-      "summary": "Et stort fokus i Next.js 16.3 har vært å gjøre nettsider laget med Next mer responsive. Samtidig forteller GitHub hvordan de håndterer en eksplosiv vekst i sikkerhetsvarsler, mens Safari åpner for kraftigere KI-assistenter med en ny MCP-server for webutviklere.",
-      "published": "2026-07-10T07:41:14Z"
     },
     {
       "id": "e997c3a1a6799acc0388d2f49159bdf12489e70f",
