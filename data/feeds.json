@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-07-20T09:20:44.928497Z",
+  "generated_at": "2026-07-21T08:34:16.257839Z",
   "items": [
+    {
+      "id": "d16956036c5ceaecc6a568872ecd12e0e3917995",
+      "title": "Krever at tek-selskapene bekjemper kriminalitet",
+      "link": "https://www.kode24.no/artikkel/krever-at-tek-selskapene-bekjemper-kriminalitet/267793",
+      "source": "Kode24",
+      "summary": "Justis- og beredskapsminister Astri Aas-Hansen (Ap) mener teknologigigantene må ta grep mot organisert kriminalitet.",
+      "published": "2026-07-21T07:09:47Z"
+    },
+    {
+      "id": "9397da851e41baca1decb311122a8a030bf2b6fd",
+      "title": "Kina ypper til KI-kappløp: Trump vurderer sanksjoner",
+      "link": "https://www.kode24.no/artikkel/kina-ypper-til-ki-kapplop-trump-vurderer-sanksjoner/267777",
+      "source": "Kode24",
+      "summary": "Kinesiske selskap lanserer KI-toppmodeller som er åpne for alle. Én av dem måtte stenge for nye brukere på grunn av for stor pågang, og får kritikk for sensur.",
+      "published": "2026-07-21T04:00:00Z"
+    },
+    {
+      "id": "2b878eae38600b38389ce01cc40bfebd77283aac",
+      "title": "$100 million for open source: A milestone built by the community",
+      "link": "https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community/",
+      "source": "GitHub Blog",
+      "summary": "Celebrating $100 million contributed by the community to the people who build and sustain open source every day. The post $100 million for open source: A milestone built by the community appeared first on The GitHub Blog.",
+      "published": "2026-07-20T16:00:00Z"
+    },
+    {
+      "id": "4d671cd3b9b9306732a1a2b497d23b9085304fdb",
+      "title": "Rekordmange søkte på bankens sommerprogam",
+      "link": "https://www.kode24.no/artikkel/rekordmange-sokte-pa-bankens-sommerprogam/267722",
+      "source": "Kode24",
+      "summary": "Sommerstudentene som slapp til hos SpareBank 1 Utvikling jobber med prosjekter innen boligsparing, antihvitvask og tilgjengeliggjøring av API-er.",
+      "published": "2026-07-20T10:58:17Z"
+    },
+    {
+      "id": "8c144bd0adbe9046c0786dfd50f4546e2de2c9bc",
+      "title": "Krever konsesjonskrav for datasentre: Tung sier nei",
+      "link": "https://www.kode24.no/artikkel/krever-konsesjonskrav-for-datasentre-tung-sier-nei/267744",
+      "source": "Kode24",
+      "summary": "Digitaliseringsminister Karianne Tung (Ap) vil ikke innføre et konsesjonssystem for datasentre, til tross for press fra Høyre, SV og Rødt.",
+      "published": "2026-07-20T08:46:42Z"
+    },
     {
       "id": "d9851c5e00e426e4f81053af4ba385088db59e63",
       "title": "– Slutt å telle kontordager",
@@ -146,38 +186,6 @@
       "published": "2026-07-14T07:23:46Z"
     },
     {
-      "id": "16314e90d5969e72845266e7526e22150b6899b9",
-      "title": "– Det vanskeligste er å sette seg inn i bedrifters eksisterende løsninger",
-      "link": "https://www.kode24.no/artikkel/det-vanskeligste-er-a-sette-seg-inn-i-bedrifters-eksisterende-losninger/267463",
-      "source": "Kode24",
-      "summary": "Jakob Aune er sommerstudent i Sparebank 1 Utvikling. Ikke alt er like enkelt.",
-      "published": "2026-07-14T04:00:00Z"
-    },
-    {
-      "id": "94defc3d4eff2b725a553cc0a090850cee57805a",
-      "title": "Her kan du ro en siste gang 🚣🏼",
-      "link": "https://www.kode24.no/artikkel/her-kan-du-ro-en-siste-gang/267441",
-      "source": "Kode24",
-      "summary": "– Det har vært veldig gøy å se hva landslaget har fått til, så da roingen tok helt av, var det bare passende å lage noe gøy på internett, sier utvikler Magnus Fjelldal.",
-      "published": "2026-07-13T10:22:22Z"
-    },
-    {
-      "id": "9b4248e25eb04bdf71e6df1c2223927c35bf6155",
-      "title": "KI-søk kan true Wikipedias modell",
-      "link": "https://www.kode24.no/artikkel/ki-sok-kan-true-wikipedias-modell/267420",
-      "source": "Kode24",
-      "summary": "Fin ingress, ikke for lang, ikke for kort, akkurat passe lang.",
-      "published": "2026-07-13T06:28:50Z"
-    },
-    {
-      "id": "6457847d80c5f7106a9b0c6005ce035b9e03e45a",
-      "title": "Slik løste de Altinn 3-overgangen",
-      "link": "https://www.kode24.no/artikkel/slik-loste-de-altinn-3-overgangen/267392",
-      "source": "Kode24",
-      "summary": "Altinn 3-fristen og en avansert arkitektur som gjør en kritisk dataflyt sporbar.",
-      "published": "2026-07-13T05:00:00Z"
-    },
-    {
       "id": "9987c173fa65b620c74b3fa3dbb51cebc3a8247c",
       "title": "Better tools made Copilot code review worse. Here’s how we actually improved it.",
       "link": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/",
@@ -237,15 +245,6 @@
       "source": "GitHub Blog",
       "summary": "GitHub had 20,000+ secret scanning alerts across 15,000 repositories. Here's how we separated signal from noise, built remediation workflows, and reached inbox zero in nine months. The post How GitHub used secret scanning to reach inbox zero appeared first on The GitHub Blog.",
       "published": "2026-07-02T16:00:00Z"
-    },
-    {
-      "id": "9296ace9e3392002e6f89e347d629cc89c701346",
-      "title": "6 security settings every GitHub maintainer should enable this week",
-      "link": "https://github.blog/security/6-security-settings-every-github-maintainer-should-enable-this-week/",
-      "source": "GitHub Blog",
-      "summary": "These six free settings will not make your project unhackable. Nothing will. What they will do is close the easy doors. Turn these on, and your project will be meaningfully harder to attack than it was before. The post 6 security settings every GitHub maintainer should enable this week appeared...",
-      "published": "2026-07-01T15:59:29Z",
-      "image": "https://github.blog/wp-content/uploads/2026/06/Screenshot-2026-06-30-at-3.28.09-PM.png?resize=1024%2C374"
     },
     {
       "id": "7ae1dda67f7f810e6d77f7a3e7778ae9abd39902",
