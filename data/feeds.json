@@ -1,6 +1,55 @@
 {
-  "generated_at": "2026-07-21T08:34:16.257839Z",
+  "generated_at": "2026-07-22T08:33:38.792261Z",
   "items": [
+    {
+      "id": "42585f856e6981f6caa12f269b0333d33c4b224f",
+      "title": "Frankrike innfører 15-års aldersgrense for sosiale medier",
+      "link": "https://www.kode24.no/artikkel/frankrike-innforer-15-ars-aldersgrense-for-sosiale-medier/267923",
+      "source": "Kode24",
+      "summary": "Frankrike blir i september trolig det første landet i Europa som innfører 15-års aldersgrense for sosiale medier. Det har de folkevalgte i Paris bestemt.",
+      "published": "2026-07-22T08:00:00Z"
+    },
+    {
+      "id": "6bdef22942f6cbe71c7c77f275325eebae3bc090",
+      "title": "KI-verktøy hacket konkurrent på eget initiativ",
+      "link": "https://www.kode24.no/artikkel/ki-verktoy-hacket-konkurrent-pa-eget-initiativ/267888",
+      "source": "Kode24",
+      "summary": "KI-selskapet Hugging Face oppdaget i forrige uke at systemet deres var hacket. Det viste seg å være et KI-system fra OpenAI som sto bak.",
+      "published": "2026-07-22T06:59:10Z"
+    },
+    {
+      "id": "e0c8d9a3503cd7c6178445ff03cf600864b10250",
+      "title": "Utvikler robot som letter krevende offshore-arbeid",
+      "link": "https://www.kode24.no/artikkel/utvikler-robot-som-letter-krevende-offshore-arbeid/267828",
+      "source": "Kode24",
+      "summary": "NTNU-student John Gøthesen kunne lite om roboter, men denne sommeren videreutvikler han blastBot. Med dybdekamera og 3D-visualisering skal vedlikeholds-roboten bli enklere og tryggere å styre.",
+      "published": "2026-07-22T04:00:00Z"
+    },
+    {
+      "id": "64630609b608950ca3d6011c5713cbc8984ce511",
+      "title": "How to build interactive experiences with canvases",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases/",
+      "source": "GitHub Blog",
+      "summary": "Canvases turn AI into interactive workspaces where you can visualize information, explore workflows, and take action across complex tasks. The post How to build interactive experiences with canvases appeared first on The GitHub Blog.",
+      "published": "2026-07-21T16:00:00Z",
+      "image": "https://github.blog/wp-content/uploads/2026/07/1-issues.png?resize=1024%2C562"
+    },
+    {
+      "id": "2673ddd6faf9572308ae75be195a8ea53abba036",
+      "title": "Vil utvikle nye materialer til framtidens databrikker",
+      "link": "https://www.kode24.no/artikkel/vil-utvikle-nye-materialer-til-framtidens-databrikker/267804",
+      "source": "Kode24",
+      "summary": "Jeff Bezos og den britiske regjeringen investerer store summer i den britiske oppstartsbedriften CuspAI. Verden trenger materialer som ennå ikke eksisterer, sier grunnlegger.",
+      "published": "2026-07-21T11:00:00Z"
+    },
+    {
+      "id": "87f2aa9f28a44d5da42b6b9c0317c2a45217e247",
+      "title": "Søkerrekord: Hyrer inn juniorer framfor konsulenter",
+      "link": "https://www.kode24.no/artikkel/sokerrekord-hyrer-inn-juniorer-framfor-konsulenter/267759",
+      "source": "Kode24",
+      "summary": "Bymiljøetaten lyste ut faste stillinger for juniorer og fikk rekordmange søkere. – Konsulenter tar med seg kompetansen sin når oppdraget er ferdig, sier seksjonssjef.",
+      "published": "2026-07-21T09:00:00Z"
+    },
     {
       "id": "d16956036c5ceaecc6a568872ecd12e0e3917995",
       "title": "Krever at tek-selskapene bekjemper kriminalitet",
@@ -146,46 +195,6 @@
       "published": "2026-07-15T10:12:01Z"
     },
     {
-      "id": "57835ddf8c66c6e2b64b08b9e8b318a94af14fc0",
-      "title": "Varmt på jobben? Dette har du rett på",
-      "link": "https://www.kode24.no/artikkel/varmt-pa-jobben-dette-har-du-rett-pa/267542",
-      "source": "Kode24",
-      "summary": "Det kan bli varme dager for de som må jobbe under hetebølgen, men du har ikke rett til å gå hjem.",
-      "published": "2026-07-15T07:00:00Z"
-    },
-    {
-      "id": "f3521f2f26f9da375bd5171c7dfb98202fceed4e",
-      "title": "– Ikke vær teknologisky",
-      "link": "https://www.kode24.no/artikkel/ikke-vaer-teknologisky/267436",
-      "source": "Kode24",
-      "summary": "– Et stort tema og frykt er at KI kommer til å «ta jobber», fjerne behovet for utviklere, men det tror jeg ikke kommer til å skje, sier sommerkoder Alexander Owren Elton.",
-      "published": "2026-07-15T05:00:00Z"
-    },
-    {
-      "id": "e71afb32ef52be57587d1355f44675e8883e821b",
-      "title": "VM «take over» på LinkedIn",
-      "link": "https://www.kode24.no/artikkel/vm-take-over-pa-linkedin/267514",
-      "source": "Kode24",
-      "summary": "Hvis du har vært på LinkedIn i dag, så har du nok sett det. Folk deler følelsene sine etter den store VM-bragden. Også på det profesjonelle nettverket. Fotballen er overalt.",
-      "published": "2026-07-14T12:27:00Z"
-    },
-    {
-      "id": "c0685de1750514fcc9719a11773b364065fbb605",
-      "title": "Datatilsynet varslet etter IT-svikt",
-      "link": "https://www.kode24.no/artikkel/datatilsynet-varslet-etter-it-svikt/267502",
-      "source": "Kode24",
-      "summary": "Datatilsynet er varslet etter at en teknisk svikt hos en IT-leverandør til Flekkefjord Sparebank.",
-      "published": "2026-07-14T08:06:16Z"
-    },
-    {
-      "id": "06672feb28fefd5f38ffaef9dd6a4180d234776e",
-      "title": "– Det er utrolig vanskelig å kontrollere",
-      "link": "https://www.kode24.no/artikkel/det-er-utrolig-vanskelig-a-kontrollere/267478",
-      "source": "Kode24",
-      "summary": "SNL-redaktør bekymret for KI-feilsiteringer.",
-      "published": "2026-07-14T07:23:46Z"
-    },
-    {
       "id": "9987c173fa65b620c74b3fa3dbb51cebc3a8247c",
       "title": "Better tools made Copilot code review worse. Here’s how we actually improved it.",
       "link": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/",
@@ -237,14 +246,6 @@
       "summary": "New Innovation Graph data shows global developer communities growing faster than ever, with collaboration reaching new highs across many economies. The post Q1 2026 Innovation Graph update: Open source collaboration is accelerating worldwide appeared first on The GitHub Blog.",
       "published": "2026-07-07T16:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2026/07/outbound_collaboration_innovation_graph.png?resize=1024%2C500"
-    },
-    {
-      "id": "bfea07974bf2f5b9386fdcb9512bf160ce0d80c1",
-      "title": "How GitHub used secret scanning to reach inbox zero",
-      "link": "https://github.blog/security/application-security/how-github-used-secret-scanning-to-reach-inbox-zero/",
-      "source": "GitHub Blog",
-      "summary": "GitHub had 20,000+ secret scanning alerts across 15,000 repositories. Here's how we separated signal from noise, built remediation workflows, and reached inbox zero in nine months. The post How GitHub used secret scanning to reach inbox zero appeared first on The GitHub Blog.",
-      "published": "2026-07-02T16:00:00Z"
     },
     {
       "id": "7ae1dda67f7f810e6d77f7a3e7778ae9abd39902",
