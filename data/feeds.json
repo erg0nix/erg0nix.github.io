@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-07-22T08:33:38.792261Z",
+  "generated_at": "2026-07-23T08:35:17.991918Z",
   "items": [
+    {
+      "id": "ce311273faa0dc3d8651fec2193e719da11d5a6d",
+      "title": "Konklusjonen er klar: Ingen av talene er skrevet med KI",
+      "link": "https://www.kode24.no/artikkel/konklusjonen-er-klar-ingen-av-talene-er-skrevet-med-ki/268020",
+      "source": "Kode24",
+      "summary": "Et australsk selskap har gått gjennom en bunke av pave Leo XIVs taler med KI-gjenkjenning. Ingen av dem var skrevet med hjelp av kunstig intelligens.",
+      "published": "2026-07-23T06:34:59Z"
+    },
+    {
+      "id": "d227b1712479d42b72aa948cfa57392797f1307c",
+      "title": "Praktiske grep for å redusere konsekvensene av KI-bruk",
+      "link": "https://www.kode24.no/artikkel/praktiske-grep-for-a-redusere-konsekvensene-av-ki-bruk/267947",
+      "source": "Kode24",
+      "summary": "Magnus Elden fikk kritikk for å kun skrive om KI-problemer og ikke komme med løsninger. – La meg forsøke å korrigere det, skriver han.",
+      "published": "2026-07-23T04:00:00Z"
+    },
+    {
+      "id": "38f75d8d50e05af9b86d465349b86aa0367e36c2",
+      "title": "Copilot vs. raw API access: What are you actually paying for?",
+      "link": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for/",
+      "source": "GitHub Blog",
+      "summary": "Copilot now bills usage at listed API rates. Compare direct model access with the coding workflow, policy, and harness work around it. The post Copilot vs. raw API access: What are you actually paying for? appeared first on The GitHub Blog.",
+      "published": "2026-07-22T19:00:00Z"
+    },
+    {
+      "id": "15397416e1781d8c76b0fb9913bb7b094251b84b",
+      "title": "Next chapter: Restructuring GitHub’s bug bounty program",
+      "link": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
+      "source": "GitHub Blog",
+      "summary": "GitHub is making some significant changes to its bug bounty program, shifting its focus to give researchers a better experience working with the GitHub team. The post Next chapter: Restructuring GitHub’s bug bounty program appeared first on The GitHub Blog.",
+      "published": "2026-07-22T16:00:00Z"
+    },
+    {
+      "id": "d325d2e68fa564d0f398a923b054fcb09adc8fbf",
+      "title": "Professorer skremte over at KI-verktøy gjennomførte dataangrep på egenhånd",
+      "link": "https://www.kode24.no/artikkel/professorer-skremte-over-at-ki-verktoy-gjennomforte-dataangrep-pa-egenhand/268026",
+      "source": "Kode24",
+      "summary": "– Skremmende, sier professor om at KI-modeller på egen hånd hacket seg gjennom sikkerhetsbarrierer og inn på systemene til et annet KI-selskap.",
+      "published": "2026-07-22T13:19:53Z"
+    },
+    {
+      "id": "d365f1265f8a8bca62df79cd3e21bab228f689c5",
+      "title": "PST advarer: Algoritmer eksponerer unge for høyreekstremisme",
+      "link": "https://www.kode24.no/artikkel/pst-advarer-algoritmer-eksponerer-unge-for-hoyreekstremisme/267814",
+      "source": "Kode24",
+      "summary": "Stadig flere ungdommer blir del av høyreekstreme miljøer gjennom sosiale medier. PST peker på algoritmer som en av faktorene.",
+      "published": "2026-07-22T09:28:58Z"
+    },
     {
       "id": "42585f856e6981f6caa12f269b0333d33c4b224f",
       "title": "Frankrike innfører 15-års aldersgrense for sosiale medier",
@@ -155,44 +203,12 @@
       "published": "2026-07-16T12:26:07Z"
     },
     {
-      "id": "4b3a18a16eb1c923be7529d002da61882da50006",
-      "title": "Lanserer maskinvare: – Ikke slik vi hadde forventet",
-      "link": "https://www.kode24.no/artikkel/lanserer-maskinvare-ikke-slik-vi-hadde-forventet/267601",
-      "source": "Kode24",
-      "summary": "OpenAI lanserer maskinvare – et produkt utviklet for å bruke sammen med språkmodellen til selskapet, Codex: – Et samarbeid i begrenset opplag.",
-      "published": "2026-07-16T09:38:36Z"
-    },
-    {
-      "id": "0dc75b809c367e6cc5d52ba64f137383ccc3bd20",
-      "title": "Stort samarbeid mellom Nvidia og Kawasaki Heavy Industries",
-      "link": "https://www.kode24.no/artikkel/stort-samarbeid-mellom-nvidia-og-kawasaki-heavy-industries/267587",
-      "source": "Kode24",
-      "summary": "KI-giganten Nvidia skal utvikle roboter for japansk skipsbygging.",
-      "published": "2026-07-16T06:50:23Z"
-    },
-    {
       "id": "da5c1d6918622d59d57f2e272ccb222fa8954dbc",
       "title": "GitHub for Beginners: Your roadmap to mastering the GitHub essentials",
       "link": "https://github.blog/developer-skills/github/github-for-beginners-your-roadmap-to-mastering-the-github-essentials/",
       "source": "GitHub Blog",
       "summary": "New to GitHub? This beginner's guide explains version control, repositories, and pull requests—plus everything else you need to start working confidently on GitHub. The post GitHub for Beginners: Your roadmap to mastering the GitHub essentials appeared first on The GitHub Blog.",
       "published": "2026-07-15T17:29:31Z"
-    },
-    {
-      "id": "63528c2eb3a3cc38962a120f4e12565c043cd86f",
-      "title": "Hva Norges VM-exit kan lære oss om data",
-      "link": "https://www.kode24.no/artikkel/hva-norges-vm-exit-kan-laere-oss-om-data/267572",
-      "source": "Kode24",
-      "summary": "– Norge tapte kvartfinalen på et tvilsomt datagrunnlag. Vet du om du kan stole på ditt?",
-      "published": "2026-07-15T12:55:52Z"
-    },
-    {
-      "id": "da7eb331c86de4f17365a1143e921800e1fbf1c8",
-      "title": "4 av 10 studenter velger KI framfor pensumbøker",
-      "link": "https://www.kode24.no/artikkel/4-av-10-studenter-velger-ki-framfor-pensumboker/267558",
-      "source": "Kode24",
-      "summary": "Pensumboken står fremdeles sterkt, men kunstig intelligens er på få år blitt studentenes nest mest foretrukne læringsverktøy.",
-      "published": "2026-07-15T10:12:01Z"
     },
     {
       "id": "9987c173fa65b620c74b3fa3dbb51cebc3a8247c",
@@ -228,24 +244,6 @@
       "source": "GitHub Blog",
       "summary": "In June, we experienced six incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: June 2026 appeared first on The GitHub Blog.",
       "published": "2026-07-08T19:35:51Z"
-    },
-    {
-      "id": "5b95ced4ae3e20a2a540beda82a6b2fb0c9c3a23",
-      "title": "How GitHub Copilot enables zero DNS configuration for GitHub Pages",
-      "link": "https://github.blog/ai-and-ml/github-copilot/how-github-copilot-enables-zero-dns-configuration-for-github-pages/",
-      "source": "GitHub Blog",
-      "summary": "Go from an empty repository to a live custom domain with HTTPS in about 14 minutes, without manually editing a single DNS record. The post How GitHub Copilot enables zero DNS configuration for GitHub Pages appeared first on The GitHub Blog.",
-      "published": "2026-07-08T16:00:00Z",
-      "image": "https://github.blog/wp-content/uploads/2026/07/Screenshot-2026-07-07-at-3.42.14-PM.png?resize=721%2C266"
-    },
-    {
-      "id": "80bb8a1ea960e93bbe7d42dcb58bda29304503ee",
-      "title": "Q1 2026 Innovation Graph update: Open source collaboration is accelerating worldwide",
-      "link": "https://github.blog/news-insights/policy-news-and-insights/q1-2026-innovation-graph-update-open-source-collaboration-is-accelerating-worldwide/",
-      "source": "GitHub Blog",
-      "summary": "New Innovation Graph data shows global developer communities growing faster than ever, with collaboration reaching new highs across many economies. The post Q1 2026 Innovation Graph update: Open source collaboration is accelerating worldwide appeared first on The GitHub Blog.",
-      "published": "2026-07-07T16:00:00Z",
-      "image": "https://github.blog/wp-content/uploads/2026/07/outbound_collaboration_innovation_graph.png?resize=1024%2C500"
     },
     {
       "id": "7ae1dda67f7f810e6d77f7a3e7778ae9abd39902",
