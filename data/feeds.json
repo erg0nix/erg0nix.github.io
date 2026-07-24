@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-07-23T08:35:17.991918Z",
+  "generated_at": "2026-07-24T08:31:36.421624Z",
   "items": [
+    {
+      "id": "14c1ae2c200e2ba11aef8852c31cdba78d2f787b",
+      "title": "Måtte ta grep for kunne leve som KI-veganer",
+      "link": "https://www.kode24.no/artikkel/matte-ta-grep-for-kunne-leve-som-ki-veganer/267873",
+      "source": "Kode24",
+      "summary": "2,5 måneder ut i Johannes Brodwalls KI-prostestaksjon, sykler han rundt Oslofjorden og er superfornøyd med sitt eget valg.",
+      "published": "2026-07-24T06:30:00Z"
+    },
+    {
+      "id": "97ce646a133c9fa3bbb36e472265d520b1a6789d",
+      "title": "– Kode er ikke nok",
+      "link": "https://www.kode24.no/artikkel/kode-er-ikke-nok/267938",
+      "source": "Kode24",
+      "summary": "— Det er crazy bananas-tider med KI. Nå får endringsviljen kjørt seg, skriver ansvarlig redaktør Hilde Schjerve.",
+      "published": "2026-07-24T04:00:00Z"
+    },
+    {
+      "id": "7e3a48214c7b02c977df3cbf5bac4bf9b1a35a76",
+      "title": "The case for a cooldown: Why Dependabot now waits before issuing version updates",
+      "link": "https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/",
+      "source": "GitHub Blog",
+      "summary": "A new default three-day cooldown delays version update pull requests so maintainers and security researchers can address findings in a release before it gets into your code. The post The case for a cooldown: Why Dependabot now waits before issuing version updates appeared first on The GitHub Blog.",
+      "published": "2026-07-23T16:00:00Z"
+    },
+    {
+      "id": "4bbcf31389b14cc270603cb7c9a34f5029870f05",
+      "title": "Disse studiene har høyt snitt i år",
+      "link": "https://www.kode24.no/artikkel/disse-studiene-har-hoyt-snitt-i-ar/268123",
+      "source": "Kode24",
+      "summary": "Om man vil utdanne seg innen koding og utvikling, må man for mange studier ha høyt snitt. Se oversikten her.",
+      "published": "2026-07-23T12:55:35Z"
+    },
+    {
+      "id": "c2f1636e00a3dec1d73b0ed1e7de0ae02da53128",
+      "title": "Google får gigantbot fra EU for regelbrudd",
+      "link": "https://www.kode24.no/artikkel/google-far-gigantbot-fra-eu-for-regelbrudd/268106",
+      "source": "Kode24",
+      "summary": "EU-kommisjonen ilegger Google bøter på totalt 890 millioner euro, blant annet for ulovlig favorisering av egne tjenester.",
+      "published": "2026-07-23T10:27:15Z"
+    },
+    {
+      "id": "62289a449eae758fcb1e1a74f70c1dabd729f6c5",
+      "title": "Kvinneandelen til IKT-studier har økt",
+      "link": "https://www.kode24.no/artikkel/kvinneandelen-til-ikt-studier-har-okt/268010",
+      "source": "Kode24",
+      "summary": "– Det er bra andelen kvinner innen IKT øker noe. Vi trenger flere flinke IKT-eksperter, og da må det rekrutteres fra hele befolkningen, sier Elisabet Line Haugsbø, president i Tekna.",
+      "published": "2026-07-23T09:56:44Z"
+    },
     {
       "id": "ce311273faa0dc3d8651fec2193e719da11d5a6d",
       "title": "Konklusjonen er klar: Ingen av talene er skrevet med KI",
@@ -163,46 +211,6 @@
       "published": "2026-07-17T16:46:47Z"
     },
     {
-      "id": "070cf958238f91ce3e14d504b4a159cb684250d5",
-      "title": "– Et hel-automatisert svar hadde jo gjort jobben bedre",
-      "link": "https://www.kode24.no/artikkel/et-hel-automatisert-svar-hadde-jo-gjort-jobben-bedre/267675",
-      "source": "Kode24",
-      "summary": "Kundeservicen til Komplett.no brukte et svar fra en chatbot til å svare en kunde, men ble ferska da de glemte å fjerne informasjon fra boten. – Det viser jo at de ikke bryr seg så mye om kunden, men later som om de gjør det.",
-      "published": "2026-07-17T13:08:22Z"
-    },
-    {
-      "id": "6fe101766aa0e9a3991832ba017115b7720be6db",
-      "title": "– Vi trenger et regnskap for koden ingen forstår",
-      "link": "https://www.kode24.no/artikkel/vi-trenger-et-regnskap-for-koden-ingen-forstar/267663",
-      "source": "Kode24",
-      "summary": "Flaskehalseffekten og kvelningsfornemmelsen er reell. Situasjonen er ikke helt ny, da man alltid har hatt kode ingen helt tør å ta i. Men agentisk koding gjør problemet mye mer akutt.",
-      "published": "2026-07-17T10:11:22Z"
-    },
-    {
-      "id": "2e547f7fd2f462b10f5f70511551176ed0f20f05",
-      "title": "Slik beregnes folkemengden",
-      "link": "https://www.kode24.no/artikkel/slik-beregnes-folkemengden/267651",
-      "source": "Kode24",
-      "summary": "Hvor mange var egentlig på Slottsplassen? Slik anslår Oslo kommune at 150.000 møtte opp.",
-      "published": "2026-07-17T07:12:02Z"
-    },
-    {
-      "id": "28f4a7cfdb37c60d3c8bf09d24a42f3e8b0faceb",
-      "title": "Etterlyser mer nasjonal og strategisk tenkning",
-      "link": "https://www.kode24.no/artikkel/etterlyser-mer-nasjonal-og-strategisk-tenkning/267640",
-      "source": "Kode24",
-      "summary": "Høyre og SV vil innføre et nasjonalt konsesjonssystem for datasentre. De mener etableringene må vurderes opp mot kraftbehov og hva Norge får igjen.",
-      "published": "2026-07-17T06:38:52Z"
-    },
-    {
-      "id": "1a2f845741f897368c2b09177713eb16ad480a45",
-      "title": "AWS skapte trøbbel for norske aviser",
-      "link": "https://www.kode24.no/artikkel/aws-skapte-trobbel-for-norske-aviser/267630",
-      "source": "Kode24",
-      "summary": "Flere Schibsted-aviser var nede torsdag morgen. Feil hos AWS.",
-      "published": "2026-07-16T12:26:07Z"
-    },
-    {
       "id": "da5c1d6918622d59d57f2e272ccb222fa8954dbc",
       "title": "GitHub for Beginners: Your roadmap to mastering the GitHub essentials",
       "link": "https://github.blog/developer-skills/github/github-for-beginners-your-roadmap-to-mastering-the-github-essentials/",
@@ -236,14 +244,6 @@
       "summary": "Explore how the Aspire team turns merged product changes into SME-reviewed docs pull requests, closing the gap between release and documentation. The post Automating cross-repo documentation with GitHub Agentic Workflows appeared first on The GitHub Blog.",
       "published": "2026-07-08T21:11:56Z",
       "image": "https://github.blog/wp-content/uploads/2026/07/diagram.png?resize=1024%2C355"
-    },
-    {
-      "id": "fe629e1504972b24779e50433c5eb8e06af74a41",
-      "title": "GitHub availability report: June 2026",
-      "link": "https://github.blog/news-insights/company-news/github-availability-report-june-2026/",
-      "source": "GitHub Blog",
-      "summary": "In June, we experienced six incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: June 2026 appeared first on The GitHub Blog.",
-      "published": "2026-07-08T19:35:51Z"
     },
     {
       "id": "7ae1dda67f7f810e6d77f7a3e7778ae9abd39902",
