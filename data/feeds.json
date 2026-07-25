@@ -1,6 +1,14 @@
 {
-  "generated_at": "2026-07-24T08:31:36.421624Z",
+  "generated_at": "2026-07-25T08:10:29.558835Z",
   "items": [
+    {
+      "id": "cce08f7dfd19850cf94e2a92486392fd3cc29b9e",
+      "title": "Local-first: appene som ikke venter på serveren",
+      "link": "https://www.kode24.no/artikkel/local-first-appene-som-ikke-venter-pa-serveren/268154",
+      "source": "Kode24",
+      "summary": "Gammelt nytt! Æsj! Dette innlegget er ment for de som ennå ikke har fått med seg hva local-first/sync-motor er og hvordan det i hovedsak fungerer.",
+      "published": "2026-07-24T08:28:19Z"
+    },
     {
       "id": "14c1ae2c200e2ba11aef8852c31cdba78d2f787b",
       "title": "Måtte ta grep for kunne leve som KI-veganer",
@@ -193,14 +201,6 @@
       "source": "Kode24",
       "summary": "Hybrid- og fjernarbeid har gjort samarbeid vanskelig, mener 7 av 10 arbeidsgivere i en kartlegging fra Randstad. Selskapet mener løsningen ikke er å telle antall dager man er på kontoret.",
       "published": "2026-07-20T07:03:09Z"
-    },
-    {
-      "id": "2328880813f9e152f68e5f2da6bec42a9db6b113",
-      "title": "To dømt for ett av Storbritannias største datainnbrudd noensinne",
-      "link": "https://www.kode24.no/artikkel/to-domt-for-ett-av-storbritannias-storste-datainnbrudd-noensinne/267694",
-      "source": "Kode24",
-      "summary": "To briter er dømt til fem og et halvt års fengsel for dataangrep mot Transport for London (TfL) i 2024. Angrepet er et av Storbritannias største datainnbrudd noensinne.",
-      "published": "2026-07-20T06:14:06Z"
     },
     {
       "id": "3d797cd58491fd6515986a8eab39c231ac68ecbb",
