@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-07-26T08:32:02.437209Z",
+  "generated_at": "2026-07-27T09:57:26.654008Z",
   "items": [
+    {
+      "id": "bc2a5224798d9412750158ae6ae7e93182d5a490",
+      "title": "Utvikler skatte-kalkulator for krypto",
+      "link": "https://www.kode24.no/artikkel/utvikler-skatte-kalkulator-for-krypto/267969",
+      "source": "Kode24",
+      "summary": "Et tverrfaglig team i Skatteetaten jobber med å utvikle en skattekalkulator for krypto. – Krypto og skatt kan være litt forvirrende, så vi håper at vår løsning skal gjøre det lett å gjøre rett!",
+      "published": "2026-07-27T09:00:00Z"
+    },
+    {
+      "id": "50305a514d0af9ec20480a5836a20c7275c54166",
+      "title": "Tenåring trekker søksmål om sosiale medier-avhengighet",
+      "link": "https://www.kode24.no/artikkel/tenaring-trekker-soksmal-om-sosiale-medier-avhengighet/268193",
+      "source": "Kode24",
+      "summary": "En 15 år gammel gutt fra USA trekker søksmålet sitt mot Meta. Han har tidligere inngått forlik med YouTube, TikTok og Snapchat.",
+      "published": "2026-07-27T07:10:01Z"
+    },
+    {
+      "id": "c3f64cbd9e43cc16969a9786e6fb3b21850d74bf",
+      "title": "Oppdaget KI-hacking av konkurrent først etter en uke",
+      "link": "https://www.kode24.no/artikkel/oppdaget-ki-hacking-av-konkurrent-forst-etter-en-uke/268180",
+      "source": "Kode24",
+      "summary": "To KI-modeller fra OpenAI gjennomførte et dataangrep mot teknologiselskapet Hugging Face over flere dager, uten at OpenAI oppdaget det.",
+      "published": "2026-07-27T06:33:46Z"
+    },
+    {
+      "id": "eb58ac5650851e07c303e8f31532ac69e789b951",
+      "title": "Dette gjør Stø for å kutte i KI-regninga",
+      "link": "https://www.kode24.no/artikkel/dette-gjor-sto-for-a-kutte-i-ki-regninga/267877",
+      "source": "Kode24",
+      "summary": "Kostnadene for å bruke KI-verktøy har eksplodert. I Stø økes token-budsjettene, samtidig som de jobber med å bruke modellene smartere.",
+      "published": "2026-07-27T04:00:00Z"
+    },
     {
       "id": "cce08f7dfd19850cf94e2a92486392fd3cc29b9e",
       "title": "Local-first: appene som ikke venter på serveren",
@@ -163,44 +195,12 @@
       "published": "2026-07-21T07:09:47Z"
     },
     {
-      "id": "9397da851e41baca1decb311122a8a030bf2b6fd",
-      "title": "Kina ypper til KI-kappløp: Trump vurderer sanksjoner",
-      "link": "https://www.kode24.no/artikkel/kina-ypper-til-ki-kapplop-trump-vurderer-sanksjoner/267777",
-      "source": "Kode24",
-      "summary": "Kinesiske selskap lanserer KI-toppmodeller som er åpne for alle. Én av dem måtte stenge for nye brukere på grunn av for stor pågang, og får kritikk for sensur.",
-      "published": "2026-07-21T04:00:00Z"
-    },
-    {
       "id": "2b878eae38600b38389ce01cc40bfebd77283aac",
       "title": "$100 million for open source: A milestone built by the community",
       "link": "https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community/",
       "source": "GitHub Blog",
       "summary": "Celebrating $100 million contributed by the community to the people who build and sustain open source every day. The post $100 million for open source: A milestone built by the community appeared first on The GitHub Blog.",
       "published": "2026-07-20T16:00:00Z"
-    },
-    {
-      "id": "4d671cd3b9b9306732a1a2b497d23b9085304fdb",
-      "title": "Rekordmange søkte på bankens sommerprogam",
-      "link": "https://www.kode24.no/artikkel/rekordmange-sokte-pa-bankens-sommerprogam/267722",
-      "source": "Kode24",
-      "summary": "Sommerstudentene som slapp til hos SpareBank 1 Utvikling jobber med prosjekter innen boligsparing, antihvitvask og tilgjengeliggjøring av API-er.",
-      "published": "2026-07-20T10:58:17Z"
-    },
-    {
-      "id": "8c144bd0adbe9046c0786dfd50f4546e2de2c9bc",
-      "title": "Krever konsesjonskrav for datasentre: Tung sier nei",
-      "link": "https://www.kode24.no/artikkel/krever-konsesjonskrav-for-datasentre-tung-sier-nei/267744",
-      "source": "Kode24",
-      "summary": "Digitaliseringsminister Karianne Tung (Ap) vil ikke innføre et konsesjonssystem for datasentre, til tross for press fra Høyre, SV og Rødt.",
-      "published": "2026-07-20T08:46:42Z"
-    },
-    {
-      "id": "d9851c5e00e426e4f81053af4ba385088db59e63",
-      "title": "– Slutt å telle kontordager",
-      "link": "https://www.kode24.no/artikkel/slutt-a-telle-kontordager/267708",
-      "source": "Kode24",
-      "summary": "Hybrid- og fjernarbeid har gjort samarbeid vanskelig, mener 7 av 10 arbeidsgivere i en kartlegging fra Randstad. Selskapet mener løsningen ikke er å telle antall dager man er på kontoret.",
-      "published": "2026-07-20T07:03:09Z"
     },
     {
       "id": "3d797cd58491fd6515986a8eab39c231ac68ecbb",
