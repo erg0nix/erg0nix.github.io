@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-07-28T08:39:03.592945Z",
+  "generated_at": "2026-07-29T08:45:42.184158Z",
   "items": [
+    {
+      "id": "333627952a52cf126b6a6df8d85552ed67f8894f",
+      "title": "Girl Tech Norge med Tekna-samarbeid",
+      "link": "https://www.kode24.no/artikkel/girl-tech-norge-med-tekna-samarbeid/268333",
+      "source": "Kode24",
+      "summary": "Et nytt partnerskap med Tekna skal gi flere jenter i 5. klasse muligheten til å lære om realfag og teknologi i praksis. – Skal hjelpe oss med å nå økt aktivitet, sier leder i Girl Tech Norge.",
+      "published": "2026-07-29T04:00:00Z"
+    },
+    {
+      "id": "a057e8524089ba77db21a1f72b69e96841e39696",
+      "title": "Disrupting supply chain attacks on npm and GitHub Actions",
+      "link": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
+      "source": "GitHub Blog",
+      "summary": "Explore the changes we've shipped across npm and GitHub Actions over the past few months to disrupt supply chain attack techniques and limit their impact. The post Disrupting supply chain attacks on npm and GitHub Actions appeared first on The GitHub Blog.",
+      "published": "2026-07-28T16:00:00Z"
+    },
+    {
+      "id": "ccd48a935652967b8ca7482d3a1c98b22ba146a9",
+      "title": "Visa kutter 2600 ansatte",
+      "link": "https://www.kode24.no/artikkel/visa-kutter-2600-ansatte/268364",
+      "source": "Kode24",
+      "summary": "Hovedsaklig teknologi- og produksjonsavdelingene blir rammet når Visa skal kvitte seg med rundt 2600 stillinger.",
+      "published": "2026-07-28T13:44:19Z"
+    },
+    {
+      "id": "24403b02f6cebbeb2298a82f2db949bc3e2f6c08",
+      "title": "Mega-datasenter møter motstand",
+      "link": "https://www.kode24.no/artikkel/mega-datasenter-moter-motstand/268265",
+      "source": "Kode24",
+      "summary": "Over 3500 har signert underskriftskampanjen mot et gigantisk datasenter som planlegges i utkanten av Melbourne i Australia. Motstanden startet på sosiale medier.",
+      "published": "2026-07-28T12:00:00Z"
+    },
+    {
+      "id": "93b6ee3245f85be5b5ef8969b99d333dc52b768c",
+      "title": "Derfor slet alt fra NRK til Xbox med tekniske problemer",
+      "link": "https://www.kode24.no/artikkel/derfor-slet-alt-fra-nrk-til-xbox-med-tekniske-problemer/268281",
+      "source": "Kode24",
+      "summary": "Xbox, Telenor, NRK og Sparebanken Norge slet mandag ettermiddag med tekniske problemer. Samtidig hadde også Microsoft-tjenester utfordringer.",
+      "published": "2026-07-28T09:27:49Z"
+    },
+    {
+      "id": "e2d6dded86f6bf9b3e8b9fd213902554e6f4ae57",
+      "title": "Nvidia-ansatt pågrepet for smugling av ettertraktet databrikke",
+      "link": "https://www.kode24.no/artikkel/nvidia-ansatt-pagrepet-for-smugling-av-ettertraktet-databrikke/268294",
+      "source": "Kode24",
+      "summary": "En ansatt i det amerikanske teknologiselskapet Nvidia er pågrepet på Taiwan for å ha deltatt i smugling av databrikker til Kina, sier en informert kilde til AFP.",
+      "published": "2026-07-28T08:48:36Z"
+    },
     {
       "id": "1ea0645142375c803fdebf9ae38ea71df116ce3a",
       "title": "Runes ferieprosjekt: Jailbreake Kindle",
@@ -163,46 +211,6 @@
       "published": "2026-07-22T16:00:00Z"
     },
     {
-      "id": "d325d2e68fa564d0f398a923b054fcb09adc8fbf",
-      "title": "Professorer skremte over at KI-verktøy gjennomførte dataangrep på egenhånd",
-      "link": "https://www.kode24.no/artikkel/professorer-skremte-over-at-ki-verktoy-gjennomforte-dataangrep-pa-egenhand/268026",
-      "source": "Kode24",
-      "summary": "– Skremmende, sier professor om at KI-modeller på egen hånd hacket seg gjennom sikkerhetsbarrierer og inn på systemene til et annet KI-selskap.",
-      "published": "2026-07-22T13:19:53Z"
-    },
-    {
-      "id": "d365f1265f8a8bca62df79cd3e21bab228f689c5",
-      "title": "PST advarer: Algoritmer eksponerer unge for høyreekstremisme",
-      "link": "https://www.kode24.no/artikkel/pst-advarer-algoritmer-eksponerer-unge-for-hoyreekstremisme/267814",
-      "source": "Kode24",
-      "summary": "Stadig flere ungdommer blir del av høyreekstreme miljøer gjennom sosiale medier. PST peker på algoritmer som en av faktorene.",
-      "published": "2026-07-22T09:28:58Z"
-    },
-    {
-      "id": "42585f856e6981f6caa12f269b0333d33c4b224f",
-      "title": "Frankrike innfører 15-års aldersgrense for sosiale medier",
-      "link": "https://www.kode24.no/artikkel/frankrike-innforer-15-ars-aldersgrense-for-sosiale-medier/267923",
-      "source": "Kode24",
-      "summary": "Frankrike blir i september trolig det første landet i Europa som innfører 15-års aldersgrense for sosiale medier. Det har de folkevalgte i Paris bestemt.",
-      "published": "2026-07-22T08:00:00Z"
-    },
-    {
-      "id": "6bdef22942f6cbe71c7c77f275325eebae3bc090",
-      "title": "KI-verktøy hacket konkurrent på eget initiativ",
-      "link": "https://www.kode24.no/artikkel/ki-verktoy-hacket-konkurrent-pa-eget-initiativ/267888",
-      "source": "Kode24",
-      "summary": "KI-selskapet Hugging Face oppdaget i forrige uke at systemet deres var hacket. Det viste seg å være et KI-system fra OpenAI som sto bak.",
-      "published": "2026-07-22T06:59:10Z"
-    },
-    {
-      "id": "e0c8d9a3503cd7c6178445ff03cf600864b10250",
-      "title": "Utvikler robot som letter krevende offshore-arbeid",
-      "link": "https://www.kode24.no/artikkel/utvikler-robot-som-letter-krevende-offshore-arbeid/267828",
-      "source": "Kode24",
-      "summary": "NTNU-student John Gøthesen kunne lite om roboter, men denne sommeren videreutvikler han blastBot. Med dybdekamera og 3D-visualisering skal vedlikeholds-roboten bli enklere og tryggere å styre.",
-      "published": "2026-07-22T04:00:00Z"
-    },
-    {
       "id": "64630609b608950ca3d6011c5713cbc8984ce511",
       "title": "How to build interactive experiences with canvases",
       "link": "https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases/",
@@ -234,15 +242,6 @@
       "source": "GitHub Blog",
       "summary": "New to GitHub? This beginner's guide explains version control, repositories, and pull requests—plus everything else you need to start working confidently on GitHub. The post GitHub for Beginners: Your roadmap to mastering the GitHub essentials appeared first on The GitHub Blog.",
       "published": "2026-07-15T17:29:31Z"
-    },
-    {
-      "id": "9987c173fa65b620c74b3fa3dbb51cebc3a8247c",
-      "title": "Better tools made Copilot code review worse. Here’s how we actually improved it.",
-      "link": "https://github.blog/ai-and-ml/github-copilot/better-tools-made-copilot-code-review-worse-heres-how-we-actually-improved-it/",
-      "source": "GitHub Blog",
-      "summary": "How migrating Copilot code review to shared Unix-style code exploration tools reduced review cost by reshaping agent workflows around pull request evidence. The post Better tools made Copilot code review worse. Here’s how we actually improved it. appeared first on The GitHub Blog.",
-      "published": "2026-07-10T15:57:47Z",
-      "image": "https://github.blog/wp-content/uploads/2026/07/1.png?resize=1024%2C478"
     },
     {
       "id": "7ae1dda67f7f810e6d77f7a3e7778ae9abd39902",
