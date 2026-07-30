@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-07-29T08:45:42.184158Z",
+  "generated_at": "2026-07-30T08:31:39.915326Z",
   "items": [
+    {
+      "id": "9e0126d1b3388a9b3233bcbcfa77fdc2b1fba953",
+      "title": "«Hugging Face»-appen misbrukes til å lage deepfakes",
+      "link": "https://www.kode24.no/artikkel/hugging-face-appen-misbrukes-til-a-lage-deepfakes/268437",
+      "source": "Kode24",
+      "summary": "Åpen kildekode-biblioteket for KI-modeller misbrukes til å lage deepfakes av kvinner og barn uten samtykke, ifølge forskere.",
+      "published": "2026-07-30T04:00:00Z"
+    },
+    {
+      "id": "85204338426288794c4064a6ec9471c39d4118b1",
+      "title": "Tame Dependabot: Group your updates, slow the cadence, keep security fast",
+      "link": "https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/",
+      "source": "GitHub Blog",
+      "summary": "Dependabot keeps your dependencies current, but its defaults can flood your repository with pull requests. Here's how grouping updates, slowing the cadence, and keeping security fixes fast cut the noise on a Microsoft open source project. The post Tame Dependabot: Group your updates, slow the...",
+      "published": "2026-07-29T16:00:00Z"
+    },
+    {
+      "id": "a78c9e3dd72c931a490f53fc45541e2298c03437",
+      "title": "Modellen som hacket seg selv fri – og så hacket Hugging Face",
+      "link": "https://www.kode24.no/artikkel/modellen-som-hacket-seg-selv-fri-og-sa-hacket-hugging-face/268439",
+      "source": "Kode24",
+      "summary": "– Vi trenger ikke lenger en «human error» for at et KI-system kan gå «rogue», skriver Rashid Sultan i Sopra Steria. Her deler han to lærdommer etter at OpenAIs KI hacket et annet selskap nylig.",
+      "published": "2026-07-29T12:25:00Z"
+    },
+    {
+      "id": "2f5a7db7566ddaaec9a1889ef7a3b1f2b5fd80ee",
+      "title": "BMW skal kutte 8000 stillinger",
+      "link": "https://www.kode24.no/artikkel/bmw-skal-kutte-8000-stillinger/268421",
+      "source": "Kode24",
+      "summary": "Bilprodusenten BMW vil tilby nesten halvparten av sine tyske ansatte sluttpakker. Utviklingsavdelingen skal være utsatt.",
+      "published": "2026-07-29T09:40:16Z"
+    },
+    {
+      "id": "c3f5b9898a1d02627b59180fae2fb4283252b639",
+      "title": "– Behovet for å «styre tempoet» kan bli avgjørende",
+      "link": "https://www.kode24.no/artikkel/behovet-for-a-styre-tempoet-kan-bli-avgjorende/268384",
+      "source": "Kode24",
+      "summary": "OpenAI-sjefen, Sam Altman sier det kan bli behov for å sakke ned tempoet til KI-utviklingen, slik at verden er forberedt.",
+      "published": "2026-07-29T07:12:39Z"
+    },
     {
       "id": "333627952a52cf126b6a6df8d85552ed67f8894f",
       "title": "Girl Tech Norge med Tekna-samarbeid",
@@ -163,38 +203,6 @@
       "published": "2026-07-23T12:55:35Z"
     },
     {
-      "id": "c2f1636e00a3dec1d73b0ed1e7de0ae02da53128",
-      "title": "Google får gigantbot fra EU for regelbrudd",
-      "link": "https://www.kode24.no/artikkel/google-far-gigantbot-fra-eu-for-regelbrudd/268106",
-      "source": "Kode24",
-      "summary": "EU-kommisjonen ilegger Google bøter på totalt 890 millioner euro, blant annet for ulovlig favorisering av egne tjenester.",
-      "published": "2026-07-23T10:27:15Z"
-    },
-    {
-      "id": "62289a449eae758fcb1e1a74f70c1dabd729f6c5",
-      "title": "Kvinneandelen til IKT-studier har økt",
-      "link": "https://www.kode24.no/artikkel/kvinneandelen-til-ikt-studier-har-okt/268010",
-      "source": "Kode24",
-      "summary": "– Det er bra andelen kvinner innen IKT øker noe. Vi trenger flere flinke IKT-eksperter, og da må det rekrutteres fra hele befolkningen, sier Elisabet Line Haugsbø, president i Tekna.",
-      "published": "2026-07-23T09:56:44Z"
-    },
-    {
-      "id": "ce311273faa0dc3d8651fec2193e719da11d5a6d",
-      "title": "Konklusjonen er klar: Ingen av talene er skrevet med KI",
-      "link": "https://www.kode24.no/artikkel/konklusjonen-er-klar-ingen-av-talene-er-skrevet-med-ki/268020",
-      "source": "Kode24",
-      "summary": "Et australsk selskap har gått gjennom en bunke av pave Leo XIVs taler med KI-gjenkjenning. Ingen av dem var skrevet med hjelp av kunstig intelligens.",
-      "published": "2026-07-23T06:34:59Z"
-    },
-    {
-      "id": "d227b1712479d42b72aa948cfa57392797f1307c",
-      "title": "Praktiske grep for å redusere konsekvensene av KI-bruk",
-      "link": "https://www.kode24.no/artikkel/praktiske-grep-for-a-redusere-konsekvensene-av-ki-bruk/267947",
-      "source": "Kode24",
-      "summary": "Magnus Elden fikk kritikk for å kun skrive om KI-problemer og ikke komme med løsninger. – La meg forsøke å korrigere det, skriver han.",
-      "published": "2026-07-23T04:00:00Z"
-    },
-    {
       "id": "38f75d8d50e05af9b86d465349b86aa0367e36c2",
       "title": "Copilot vs. raw API access: What are you actually paying for?",
       "link": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for/",
@@ -234,14 +242,6 @@
       "source": "GitHub Blog",
       "summary": "The cost of writing code dropped; the cost of owning it didn't. A framework for deciding which changes are actually cheap in the AI era. The post The cost of saying yes has changed appeared first on The GitHub Blog.",
       "published": "2026-07-17T16:46:47Z"
-    },
-    {
-      "id": "da5c1d6918622d59d57f2e272ccb222fa8954dbc",
-      "title": "GitHub for Beginners: Your roadmap to mastering the GitHub essentials",
-      "link": "https://github.blog/developer-skills/github/github-for-beginners-your-roadmap-to-mastering-the-github-essentials/",
-      "source": "GitHub Blog",
-      "summary": "New to GitHub? This beginner's guide explains version control, repositories, and pull requests—plus everything else you need to start working confidently on GitHub. The post GitHub for Beginners: Your roadmap to mastering the GitHub essentials appeared first on The GitHub Blog.",
-      "published": "2026-07-15T17:29:31Z"
     },
     {
       "id": "7ae1dda67f7f810e6d77f7a3e7778ae9abd39902",
