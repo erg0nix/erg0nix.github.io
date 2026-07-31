@@ -1,6 +1,47 @@
 {
-  "generated_at": "2026-07-30T08:31:39.915326Z",
+  "generated_at": "2026-07-31T08:53:41.607224Z",
   "items": [
+    {
+      "id": "1214700f42cffcce5356166b68ad6012f44b14bb",
+      "title": "EU med megasatsing på KI-fabrikker",
+      "link": "https://www.kode24.no/artikkel/eu-med-megasatsing-pa-ki-fabrikker/268549",
+      "source": "Kode24",
+      "summary": "EU øker innsatsen i KI-kappløpet med USA og Kina og går inn med kjempesatsing på 110 milliarder kroner til sju gigafabrikker.",
+      "published": "2026-07-31T06:15:00Z"
+    },
+    {
+      "id": "ce519b41c213f5a2a370821b50b2a35b00c203be",
+      "title": "– Jeg liker ikke hjemme­kontor. Er jeg narsissist?",
+      "link": "https://www.kode24.no/artikkel/jeg-liker-ikke-hjemmekontor-er-jeg-narsissist/268401",
+      "source": "Kode24",
+      "summary": "– Kontoret er KI-alderens leirbål, skriver ansvarlig redaktør Hilde Schjerve i ukas nyhetsbrev.",
+      "published": "2026-07-31T04:00:00Z"
+    },
+    {
+      "id": "173cf5d592eaec5e2b033511d6297d8e7e257d9e",
+      "title": "Stacked sessions and pull requests in the GitHub Copilot app",
+      "link": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app/",
+      "source": "GitHub Blog",
+      "summary": "Learn how I modernized an old codebase of mine using stacked sessions and pull requests in the GitHub Copilot app. The post Stacked sessions and pull requests in the GitHub Copilot app appeared first on The GitHub Blog.",
+      "published": "2026-07-30T17:30:24Z",
+      "image": "https://github.blog/wp-content/uploads/2026/07/608818417-096042e4-9ace-4575-877d-a18926371bc2.png?resize=488%2C297"
+    },
+    {
+      "id": "5759f64df512c7b22e6f64f999fe33da4abe2a31",
+      "title": "KI-kodet Kirke­jakten­­­-app: 16 agenter jobber sammen",
+      "link": "https://www.kode24.no/artikkel/ki-kodet-kirkejakten-app-16-agenter-jobber-sammen/268229",
+      "source": "Kode24",
+      "summary": "IT-rådgiver Asbjørn Moen lagde stolpejakt-aktig app med Claude. Likevel har han selv brukt over 150 arbeidstimer til produksjon, vedlikehold og godkjenning av nye bilder.",
+      "published": "2026-07-30T12:00:00Z"
+    },
+    {
+      "id": "449bc643fc52a0b34d6cf511470229cbc3b11cdf",
+      "title": "– Min nye produktsjef er en lærende agent",
+      "link": "https://www.kode24.no/artikkel/min-nye-produktsjef-er-en-laerende-agent/268398",
+      "source": "Kode24",
+      "summary": "– KI-verktøyene har gjort kodingen raskere. Men vet du om du bygger det rette?, spør Marina Santos Haugen. Slik fungerer produktsjef-agenten hun lagde.",
+      "published": "2026-07-30T08:00:00Z"
+    },
     {
       "id": "9e0126d1b3388a9b3233bcbcfa77fdc2b1fba953",
       "title": "«Hugging Face»-appen misbrukes til å lage deepfakes",
@@ -163,44 +204,12 @@
       "published": "2026-07-27T04:00:00Z"
     },
     {
-      "id": "cce08f7dfd19850cf94e2a92486392fd3cc29b9e",
-      "title": "Local-first: appene som ikke venter på serveren",
-      "link": "https://www.kode24.no/artikkel/local-first-appene-som-ikke-venter-pa-serveren/268154",
-      "source": "Kode24",
-      "summary": "Gammelt nytt! Æsj! Dette innlegget er ment for de som ennå ikke har fått med seg hva local-first/sync-motor er og hvordan det i hovedsak fungerer.",
-      "published": "2026-07-24T08:28:19Z"
-    },
-    {
-      "id": "14c1ae2c200e2ba11aef8852c31cdba78d2f787b",
-      "title": "Måtte ta grep for kunne leve som KI-veganer",
-      "link": "https://www.kode24.no/artikkel/matte-ta-grep-for-kunne-leve-som-ki-veganer/267873",
-      "source": "Kode24",
-      "summary": "2,5 måneder ut i Johannes Brodwalls KI-prostestaksjon, sykler han rundt Oslofjorden og er superfornøyd med sitt eget valg.",
-      "published": "2026-07-24T06:30:00Z"
-    },
-    {
-      "id": "97ce646a133c9fa3bbb36e472265d520b1a6789d",
-      "title": "– Kode er ikke nok",
-      "link": "https://www.kode24.no/artikkel/kode-er-ikke-nok/267938",
-      "source": "Kode24",
-      "summary": "— Det er crazy bananas-tider med KI. Nå får endringsviljen kjørt seg, skriver ansvarlig redaktør Hilde Schjerve.",
-      "published": "2026-07-24T04:00:00Z"
-    },
-    {
       "id": "7e3a48214c7b02c977df3cbf5bac4bf9b1a35a76",
       "title": "The case for a cooldown: Why Dependabot now waits before issuing version updates",
       "link": "https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/",
       "source": "GitHub Blog",
       "summary": "A new default three-day cooldown delays version update pull requests so maintainers and security researchers can address findings in a release before it gets into your code. The post The case for a cooldown: Why Dependabot now waits before issuing version updates appeared first on The GitHub Blog.",
       "published": "2026-07-23T16:00:00Z"
-    },
-    {
-      "id": "4bbcf31389b14cc270603cb7c9a34f5029870f05",
-      "title": "Disse studiene har høyt snitt i år",
-      "link": "https://www.kode24.no/artikkel/disse-studiene-har-hoyt-snitt-i-ar/268123",
-      "source": "Kode24",
-      "summary": "Om man vil utdanne seg innen koding og utvikling, må man for mange studier ha høyt snitt. Se oversikten her.",
-      "published": "2026-07-23T12:55:35Z"
     },
     {
       "id": "38f75d8d50e05af9b86d465349b86aa0367e36c2",
@@ -234,14 +243,6 @@
       "source": "GitHub Blog",
       "summary": "Celebrating $100 million contributed by the community to the people who build and sustain open source every day. The post $100 million for open source: A milestone built by the community appeared first on The GitHub Blog.",
       "published": "2026-07-20T16:00:00Z"
-    },
-    {
-      "id": "3d797cd58491fd6515986a8eab39c231ac68ecbb",
-      "title": "The cost of saying yes has changed",
-      "link": "https://github.blog/engineering/the-cost-of-saying-yes-has-changed/",
-      "source": "GitHub Blog",
-      "summary": "The cost of writing code dropped; the cost of owning it didn't. A framework for deciding which changes are actually cheap in the AI era. The post The cost of saying yes has changed appeared first on The GitHub Blog.",
-      "published": "2026-07-17T16:46:47Z"
     },
     {
       "id": "7ae1dda67f7f810e6d77f7a3e7778ae9abd39902",
