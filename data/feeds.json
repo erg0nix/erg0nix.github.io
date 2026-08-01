@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-07-31T08:53:41.607224Z",
+  "generated_at": "2026-08-01T08:25:07.504795Z",
   "items": [
+    {
+      "id": "2af39012e41f6d74012c22183ae2ae5114900a2f",
+      "title": "Don’t stop early: Case-folding source code at memory speed",
+      "link": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
+      "source": "GitHub Blog",
+      "summary": "How a branch-free loop and byte-space arithmetic let GitHub case-fold every byte of code search at >45 GiB/s on a single core. The post Don’t stop early: Case-folding source code at memory speed appeared first on The GitHub Blog.",
+      "published": "2026-07-31T16:00:00Z"
+    },
+    {
+      "id": "f6826518c80a7a465130a03cb06dac5eccbd4d62",
+      "title": "Aleksandra på KI-landslag for Norge: Bruker KI lite til koding privat",
+      "link": "https://www.kode24.no/artikkel/aleksandra-pa-ki-landslag-for-norge-bruker-ki-lite-til-koding-privat/268535",
+      "source": "Kode24",
+      "summary": "For første gang skal fire norske videregående elever konkurrere i kunstig intelligens internasjonalt. – Lykkelig og veldig nervøs, sier Aleksandra Streltsova.",
+      "published": "2026-07-31T12:00:00Z"
+    },
+    {
+      "id": "cd1f96c2879f609a710efd4bb7b251919cde50a4",
+      "title": "Tysk domstol: KI-musikkselskap brøt opphavsretten",
+      "link": "https://www.kode24.no/artikkel/tysk-domstol-ki-musikkselskap-brot-opphavsretten/268606",
+      "source": "Kode24",
+      "summary": "Tingretten i München slo fredag fast at KI-musikkselskapet Suno har krenket opphavsretten.",
+      "published": "2026-07-31T10:41:12Z"
+    },
+    {
+      "id": "bdd5679d002330a1097b5c6cd89dc3c0e4a28e9c",
+      "title": "–Jeg bruker KI mest av alt som en privatlærer",
+      "link": "https://www.kode24.no/artikkel/jeg-bruker-ki-mest-av-alt-som-en-privatlaerer/268247",
+      "source": "Kode24",
+      "summary": "Helmer Rusten bruker KI veldig mye i jobben hos Hydro. KI er blitt privatlæreren hans.",
+      "published": "2026-07-31T09:00:00Z"
+    },
+    {
+      "id": "5ad44fce65436b0216ec49e81695accc6e83ee1a",
+      "title": "Nå kan KI-skvip rapporteres på LinkedIn",
+      "link": "https://www.kode24.no/artikkel/na-kan-ki-skvip-rapporteres-pa-linkedin/268575",
+      "source": "Kode24",
+      "summary": "Det sosiale mediet tar flere grep for å sile unna elendige KI-tekster. Brukere frykter misbruk av funksjonen som lar deg rapportere mulig KI-søppel.",
+      "published": "2026-07-31T09:00:00Z"
+    },
     {
       "id": "1214700f42cffcce5356166b68ad6012f44b14bb",
       "title": "EU med megasatsing på KI-fabrikker",
@@ -172,38 +212,6 @@
       "published": "2026-07-27T12:18:44Z"
     },
     {
-      "id": "bc2a5224798d9412750158ae6ae7e93182d5a490",
-      "title": "Utvikler skatte-kalkulator for krypto",
-      "link": "https://www.kode24.no/artikkel/utvikler-skatte-kalkulator-for-krypto/267969",
-      "source": "Kode24",
-      "summary": "Et tverrfaglig team i Skatteetaten jobber med å utvikle en skattekalkulator for krypto. – Krypto og skatt kan være litt forvirrende, så vi håper at vår løsning skal gjøre det lett å gjøre rett!",
-      "published": "2026-07-27T09:00:00Z"
-    },
-    {
-      "id": "50305a514d0af9ec20480a5836a20c7275c54166",
-      "title": "Tenåring trekker søksmål om sosiale medier-avhengighet",
-      "link": "https://www.kode24.no/artikkel/tenaring-trekker-soksmal-om-sosiale-medier-avhengighet/268193",
-      "source": "Kode24",
-      "summary": "En 15 år gammel gutt fra USA trekker søksmålet sitt mot Meta. Han har tidligere inngått forlik med YouTube, TikTok og Snapchat.",
-      "published": "2026-07-27T07:10:01Z"
-    },
-    {
-      "id": "c3f64cbd9e43cc16969a9786e6fb3b21850d74bf",
-      "title": "Oppdaget KI-hacking av konkurrent først etter en uke",
-      "link": "https://www.kode24.no/artikkel/oppdaget-ki-hacking-av-konkurrent-forst-etter-en-uke/268180",
-      "source": "Kode24",
-      "summary": "To KI-modeller fra OpenAI gjennomførte et dataangrep mot teknologiselskapet Hugging Face over flere dager, uten at OpenAI oppdaget det.",
-      "published": "2026-07-27T06:33:46Z"
-    },
-    {
-      "id": "eb58ac5650851e07c303e8f31532ac69e789b951",
-      "title": "Dette gjør Stø for å kutte i KI-regninga",
-      "link": "https://www.kode24.no/artikkel/dette-gjor-sto-for-a-kutte-i-ki-regninga/267877",
-      "source": "Kode24",
-      "summary": "Kostnadene for å bruke KI-verktøy har eksplodert. I Stø økes token-budsjettene, samtidig som de jobber med å bruke modellene smartere.",
-      "published": "2026-07-27T04:00:00Z"
-    },
-    {
       "id": "7e3a48214c7b02c977df3cbf5bac4bf9b1a35a76",
       "title": "The case for a cooldown: Why Dependabot now waits before issuing version updates",
       "link": "https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/",
@@ -235,14 +243,6 @@
       "summary": "Canvases turn AI into interactive workspaces where you can visualize information, explore workflows, and take action across complex tasks. The post How to build interactive experiences with canvases appeared first on The GitHub Blog.",
       "published": "2026-07-21T16:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2026/07/1-issues.png?resize=1024%2C562"
-    },
-    {
-      "id": "2b878eae38600b38389ce01cc40bfebd77283aac",
-      "title": "$100 million for open source: A milestone built by the community",
-      "link": "https://github.blog/open-source/maintainers/100-million-for-open-source-a-milestone-built-by-the-community/",
-      "source": "GitHub Blog",
-      "summary": "Celebrating $100 million contributed by the community to the people who build and sustain open source every day. The post $100 million for open source: A milestone built by the community appeared first on The GitHub Blog.",
-      "published": "2026-07-20T16:00:00Z"
     },
     {
       "id": "7ae1dda67f7f810e6d77f7a3e7778ae9abd39902",
