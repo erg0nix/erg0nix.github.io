@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-08-02T08:28:06.794524Z",
+  "generated_at": "2026-08-03T09:52:07.893851Z",
   "items": [
+    {
+      "id": "a61afd1df77f4069be78a45c5712204b33a11bf4",
+      "title": "Problemer med innlogging for flere offentlige tjenester",
+      "link": "https://www.kode24.no/artikkel/problemer-med-innlogging-for-flere-offentlige-tjenester/268649",
+      "source": "Kode24",
+      "summary": "En rekke offentlige tjenester er rammet av innloggingsproblemer, melder Digitaliseringsdirektoratet (Digdir).",
+      "published": "2026-08-03T07:06:15Z"
+    },
+    {
+      "id": "af376743043aebcd9606de0aafcdbda9cef06bba",
+      "title": "Nå må KI merkes i EU. Norge henger langt etter",
+      "link": "https://www.kode24.no/artikkel/na-ma-ki-merkes-i-eu-norge-henger-langt-etter/268632",
+      "source": "Kode24",
+      "summary": "– Deepfakes og KI-generert eller KI-manipulert tekst publisert i saker av offentlig interesse, må være tydelig merket. Brukere må også informeres når de samhandler med et interaktivt KI-system, melder EU-kommisjonen.",
+      "published": "2026-08-03T06:38:23Z"
+    },
     {
       "id": "2af39012e41f6d74012c22183ae2ae5114900a2f",
       "title": "Don’t stop early: Case-folding source code at memory speed",
@@ -194,22 +210,6 @@
       "source": "GitHub Blog",
       "summary": "New to the GitHub Copilot app? Learn how to start projects, work with AI agents, explore canvases, and streamline your development workflow. The post GitHub Copilot app for Beginners: Getting started appeared first on The GitHub Blog.",
       "published": "2026-07-27T16:00:00Z"
-    },
-    {
-      "id": "6f7cd0f74c13ca2e341c0538a717ec5bd5b24a3b",
-      "title": "Nvidia-topp advarer mot lukket kildekode og skaper ny allianse",
-      "link": "https://www.kode24.no/artikkel/nvidia-topp-advarer-mot-lukket-kildekode-og-skaper-ny-allianse/268224",
-      "source": "Kode24",
-      "summary": "– Åpne modeller styrker nettsikkerhet og muliggjør suverenitet, uttaler Jensen Huang. Utvikler er ikke imponert.",
-      "published": "2026-07-27T13:57:56Z"
-    },
-    {
-      "id": "a0f29cd2149c2f985693f3e291728cb640434245",
-      "title": "Store kutt i Patreon",
-      "link": "https://www.kode24.no/artikkel/store-kutt-i-patreon/268208",
-      "source": "Kode24",
-      "summary": "San Francisco-selskapet Patreon sier opp 93 ansatte, som tilsvarer 20 prosent av arbeidsstyrken.",
-      "published": "2026-07-27T12:18:44Z"
     },
     {
       "id": "7e3a48214c7b02c977df3cbf5bac4bf9b1a35a76",
