@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-08-03T09:52:07.893851Z",
+  "generated_at": "2026-08-04T08:42:24.971189Z",
   "items": [
+    {
+      "id": "2900b6fb97ce13d1e7c9d7f0b1d85cbb6757bdae",
+      "title": "Digdir-problemene skyldtes angrep",
+      "link": "https://www.kode24.no/artikkel/digdir-problemene-skyldtes-angrep/268720",
+      "source": "Kode24",
+      "summary": "Tok ned en rekke tjenester i lang tid.",
+      "published": "2026-08-04T06:36:27Z"
+    },
+    {
+      "id": "89ababccda41b70eae03fa6a8798d863d4d82100",
+      "title": "Norske utvikleres lønn i 2026: Her tjener de over millionen",
+      "link": "https://www.kode24.no/artikkel/norske-utvikleres-lonn-i-2026-her-tjener-de-over-millionen/268687",
+      "source": "Kode24",
+      "summary": "For første gang passerer Oslo-utviklerne over én million kroner i året.",
+      "published": "2026-08-04T03:00:00Z"
+    },
+    {
+      "id": "4bc5134155ba4ab566178fa0b703ab54b43bc03b",
+      "title": "Advarer mot KI sin «eksplosjon av løsninger – og dermed av feil»",
+      "link": "https://www.kode24.no/artikkel/advarer-mot-ki-sin-eksplosjon-av-losninger-og-dermed-av-feil/268666",
+      "source": "Kode24",
+      "summary": "– KI forsterker både det vi kan, og konsekvensene av det vi ikke forstår, advarer Mikael Åsbjørnsson-Stensland.",
+      "published": "2026-08-03T10:19:56Z"
+    },
     {
       "id": "a61afd1df77f4069be78a45c5712204b33a11bf4",
       "title": "Problemer med innlogging for flere offentlige tjenester",
@@ -42,19 +66,19 @@
       "published": "2026-07-31T10:41:12Z"
     },
     {
-      "id": "bdd5679d002330a1097b5c6cd89dc3c0e4a28e9c",
-      "title": "–Jeg bruker KI mest av alt som en privatlærer",
-      "link": "https://www.kode24.no/artikkel/jeg-bruker-ki-mest-av-alt-som-en-privatlaerer/268247",
-      "source": "Kode24",
-      "summary": "Helmer Rusten bruker KI veldig mye i jobben hos Hydro. KI er blitt privatlæreren hans.",
-      "published": "2026-07-31T09:00:00Z"
-    },
-    {
       "id": "5ad44fce65436b0216ec49e81695accc6e83ee1a",
       "title": "Nå kan KI-skvip rapporteres på LinkedIn",
       "link": "https://www.kode24.no/artikkel/na-kan-ki-skvip-rapporteres-pa-linkedin/268575",
       "source": "Kode24",
       "summary": "Det sosiale mediet tar flere grep for å sile unna elendige KI-tekster. Brukere frykter misbruk av funksjonen som lar deg rapportere mulig KI-søppel.",
+      "published": "2026-07-31T09:00:00Z"
+    },
+    {
+      "id": "bdd5679d002330a1097b5c6cd89dc3c0e4a28e9c",
+      "title": "– Jeg bruker KI mest av alt som en privatlærer",
+      "link": "https://www.kode24.no/artikkel/jeg-bruker-ki-mest-av-alt-som-en-privatlaerer/268247",
+      "source": "Kode24",
+      "summary": "Helmer Rusten bruker KI veldig mye i jobben hos Hydro. KI er blitt privatlæreren hans.",
       "published": "2026-07-31T09:00:00Z"
     },
     {
@@ -169,30 +193,6 @@
       "source": "Kode24",
       "summary": "Over 3500 har signert underskriftskampanjen mot et gigantisk datasenter som planlegges i utkanten av Melbourne i Australia. Motstanden startet på sosiale medier.",
       "published": "2026-07-28T12:00:00Z"
-    },
-    {
-      "id": "93b6ee3245f85be5b5ef8969b99d333dc52b768c",
-      "title": "Derfor slet alt fra NRK til Xbox med tekniske problemer",
-      "link": "https://www.kode24.no/artikkel/derfor-slet-alt-fra-nrk-til-xbox-med-tekniske-problemer/268281",
-      "source": "Kode24",
-      "summary": "Xbox, Telenor, NRK og Sparebanken Norge slet mandag ettermiddag med tekniske problemer. Samtidig hadde også Microsoft-tjenester utfordringer.",
-      "published": "2026-07-28T09:27:49Z"
-    },
-    {
-      "id": "e2d6dded86f6bf9b3e8b9fd213902554e6f4ae57",
-      "title": "Nvidia-ansatt pågrepet for smugling av ettertraktet databrikke",
-      "link": "https://www.kode24.no/artikkel/nvidia-ansatt-pagrepet-for-smugling-av-ettertraktet-databrikke/268294",
-      "source": "Kode24",
-      "summary": "En ansatt i det amerikanske teknologiselskapet Nvidia er pågrepet på Taiwan for å ha deltatt i smugling av databrikker til Kina, sier en informert kilde til AFP.",
-      "published": "2026-07-28T08:48:36Z"
-    },
-    {
-      "id": "1ea0645142375c803fdebf9ae38ea71df116ce3a",
-      "title": "Runes ferieprosjekt: Jailbreake Kindle",
-      "link": "https://www.kode24.no/artikkel/runes-ferieprosjekt-jailbreake-kindle/268064",
-      "source": "Kode24",
-      "summary": "Nerder tar aldri helt ferie, mener Rune Borge Kalleberg. Her gir han tips til hvordan trikse litt med lesebrettet ditt.",
-      "published": "2026-07-28T04:00:00Z"
     },
     {
       "id": "686e1c507b84c9a894f460449b89e4cedf3a2c75",
