@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-08-04T08:42:24.971189Z",
+  "generated_at": "2026-08-05T08:40:41.812105Z",
   "items": [
+    {
+      "id": "246cfa7b6e7799e89ab6a54ea3f912b08464e2c6",
+      "title": "Anthropic flytter trolig inn i Tydal",
+      "link": "https://www.kode24.no/artikkel/anthropic-flytter-trolig-inn-i-tydal/268841",
+      "source": "Kode24",
+      "summary": "Den foreløpig hemmelige kunden til Tydal Data Center er trolig avslørt.",
+      "published": "2026-08-05T07:48:02Z"
+    },
+    {
+      "id": "7fcdebcf9fb60b146347162b7429793dd06497cc",
+      "title": "Norsk Tipping nede etter nok et angrep",
+      "link": "https://www.kode24.no/artikkel/norsk-tipping-nede-etter-nok-et-angrep/268826",
+      "source": "Kode24",
+      "summary": "– Det er et tilsvarende angrep som vi opplevde i helgen.",
+      "published": "2026-08-05T06:41:15Z"
+    },
+    {
+      "id": "6ba9a0393208a83e962f159573b98ba6555edefa",
+      "title": "Lager båtspill med Finn-Erik (5): «Mye jobb for pappa»",
+      "link": "https://www.kode24.no/artikkel/lager-batspill-med-finn-erik-5-mye-jobb-for-pappa/268799",
+      "source": "Kode24",
+      "summary": "– Nesten umulig å holde tritt med kravspesifikasjonen fra den fem år gamle kunden, avslører Torbjørn Kristoffersen.",
+      "published": "2026-08-05T03:00:00Z"
+    },
+    {
+      "id": "00b3e9274b23040c6b1f638fae6745fe0bbacc33",
+      "title": "How the GitHub legal team used Copilot CLI to streamline their workflows",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows/",
+      "source": "GitHub Blog",
+      "summary": "Learn how to build tools to simplify how you work—without writing a single line of code. The post How the GitHub legal team used Copilot CLI to streamline their workflows appeared first on The GitHub Blog.",
+      "published": "2026-08-04T19:02:34Z"
+    },
+    {
+      "id": "43b984c42763c8874691b599df25f8762f5031d0",
+      "title": "Turn one giant AI-generated pull request to a reviewable stack",
+      "link": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack/",
+      "source": "GitHub Blog",
+      "summary": "Instead of one huge, un-reviewable pull request, teach coding agents to decompose work into a clean, ordered stack with GitHub stacked pull requests. The post Turn one giant AI-generated pull request to a reviewable stack appeared first on The GitHub Blog.",
+      "published": "2026-08-04T16:47:18Z",
+      "image": "https://github.blog/wp-content/uploads/2026/08/pr-size-counter.gif?resize=1024%2C260"
+    },
+    {
+      "id": "ddb01294595e5cebbbb55d1900a67386eb5c5e34",
+      "title": "Problemene er løst, over ett døgn senere",
+      "link": "https://www.kode24.no/artikkel/problemene-er-lost-over-ett-dogn-senere/268785",
+      "source": "Kode24",
+      "summary": "Nå skal alle offentlige tjenester fungere normalt for alle, lover Digdir.",
+      "published": "2026-08-04T12:59:49Z"
+    },
+    {
+      "id": "7445a9aba05f55b2d58d8dcd4ee1b7bd9240889f",
+      "title": "Trønder-datasenter går fra krypto til KI, for 45 milliarder kroner",
+      "link": "https://www.kode24.no/artikkel/tronder-datasenter-gar-fra-krypto-til-ki-for-45-milliarder-kroner/268771",
+      "source": "Kode24",
+      "summary": "– Ved ferdigstillelse forventes Tydal å være Norges største operative KI-datasenter og blant Europas største KI-datasentre, melder Tydal Data Center.",
+      "published": "2026-08-04T12:24:50Z"
+    },
+    {
+      "id": "29331b0ff323c3df35ea417cb4b2da51b2dcb732",
+      "title": "Mener Googles KI-svar er full av feil om norske nettbutikker",
+      "link": "https://www.kode24.no/artikkel/mener-googles-ki-svar-er-full-av-feil-om-norske-nettbutikker/268743",
+      "source": "Kode24",
+      "summary": "– Det vi fant var en blanding av konkrete faktafeil, motstridende opplysninger og mangelfulle vurderinger, skriver nettbutikk-eier Ivar Olai Nordvik, som frykter konsekvensene.",
+      "published": "2026-08-04T09:33:53Z"
+    },
     {
       "id": "2900b6fb97ce13d1e7c9d7f0b1d85cbb6757bdae",
       "title": "Digdir-problemene skyldtes angrep",
@@ -139,60 +204,12 @@
       "published": "2026-07-29T16:00:00Z"
     },
     {
-      "id": "a78c9e3dd72c931a490f53fc45541e2298c03437",
-      "title": "Modellen som hacket seg selv fri – og så hacket Hugging Face",
-      "link": "https://www.kode24.no/artikkel/modellen-som-hacket-seg-selv-fri-og-sa-hacket-hugging-face/268439",
-      "source": "Kode24",
-      "summary": "– Vi trenger ikke lenger en «human error» for at et KI-system kan gå «rogue», skriver Rashid Sultan i Sopra Steria. Her deler han to lærdommer etter at OpenAIs KI hacket et annet selskap nylig.",
-      "published": "2026-07-29T12:25:00Z"
-    },
-    {
-      "id": "2f5a7db7566ddaaec9a1889ef7a3b1f2b5fd80ee",
-      "title": "BMW skal kutte 8000 stillinger",
-      "link": "https://www.kode24.no/artikkel/bmw-skal-kutte-8000-stillinger/268421",
-      "source": "Kode24",
-      "summary": "Bilprodusenten BMW vil tilby nesten halvparten av sine tyske ansatte sluttpakker. Utviklingsavdelingen skal være utsatt.",
-      "published": "2026-07-29T09:40:16Z"
-    },
-    {
-      "id": "c3f5b9898a1d02627b59180fae2fb4283252b639",
-      "title": "– Behovet for å «styre tempoet» kan bli avgjørende",
-      "link": "https://www.kode24.no/artikkel/behovet-for-a-styre-tempoet-kan-bli-avgjorende/268384",
-      "source": "Kode24",
-      "summary": "OpenAI-sjefen, Sam Altman sier det kan bli behov for å sakke ned tempoet til KI-utviklingen, slik at verden er forberedt.",
-      "published": "2026-07-29T07:12:39Z"
-    },
-    {
-      "id": "333627952a52cf126b6a6df8d85552ed67f8894f",
-      "title": "Girl Tech Norge med Tekna-samarbeid",
-      "link": "https://www.kode24.no/artikkel/girl-tech-norge-med-tekna-samarbeid/268333",
-      "source": "Kode24",
-      "summary": "Et nytt partnerskap med Tekna skal gi flere jenter i 5. klasse muligheten til å lære om realfag og teknologi i praksis. – Skal hjelpe oss med å nå økt aktivitet, sier leder i Girl Tech Norge.",
-      "published": "2026-07-29T04:00:00Z"
-    },
-    {
       "id": "a057e8524089ba77db21a1f72b69e96841e39696",
       "title": "Disrupting supply chain attacks on npm and GitHub Actions",
       "link": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
       "source": "GitHub Blog",
       "summary": "Explore the changes we've shipped across npm and GitHub Actions over the past few months to disrupt supply chain attack techniques and limit their impact. The post Disrupting supply chain attacks on npm and GitHub Actions appeared first on The GitHub Blog.",
       "published": "2026-07-28T16:00:00Z"
-    },
-    {
-      "id": "ccd48a935652967b8ca7482d3a1c98b22ba146a9",
-      "title": "Visa kutter 2600 ansatte",
-      "link": "https://www.kode24.no/artikkel/visa-kutter-2600-ansatte/268364",
-      "source": "Kode24",
-      "summary": "Hovedsaklig teknologi- og produksjonsavdelingene blir rammet når Visa skal kvitte seg med rundt 2600 stillinger.",
-      "published": "2026-07-28T13:44:19Z"
-    },
-    {
-      "id": "24403b02f6cebbeb2298a82f2db949bc3e2f6c08",
-      "title": "Mega-datasenter møter motstand",
-      "link": "https://www.kode24.no/artikkel/mega-datasenter-moter-motstand/268265",
-      "source": "Kode24",
-      "summary": "Over 3500 har signert underskriftskampanjen mot et gigantisk datasenter som planlegges i utkanten av Melbourne i Australia. Motstanden startet på sosiale medier.",
-      "published": "2026-07-28T12:00:00Z"
     },
     {
       "id": "686e1c507b84c9a894f460449b89e4cedf3a2c75",
@@ -226,23 +243,6 @@
       "source": "GitHub Blog",
       "summary": "Copilot now bills usage at listed API rates. Compare direct model access with the coding workflow, policy, and harness work around it. The post Copilot vs. raw API access: What are you actually paying for? appeared first on The GitHub Blog.",
       "published": "2026-07-22T19:00:00Z"
-    },
-    {
-      "id": "15397416e1781d8c76b0fb9913bb7b094251b84b",
-      "title": "Next chapter: Restructuring GitHub’s bug bounty program",
-      "link": "https://github.blog/security/next-chapter-restructuring-githubs-bug-bounty-program/",
-      "source": "GitHub Blog",
-      "summary": "GitHub is making some significant changes to its bug bounty program, shifting its focus to give researchers a better experience working with the GitHub team. The post Next chapter: Restructuring GitHub’s bug bounty program appeared first on The GitHub Blog.",
-      "published": "2026-07-22T16:00:00Z"
-    },
-    {
-      "id": "64630609b608950ca3d6011c5713cbc8984ce511",
-      "title": "How to build interactive experiences with canvases",
-      "link": "https://github.blog/ai-and-ml/github-copilot/how-to-build-interactive-experiences-with-canvases/",
-      "source": "GitHub Blog",
-      "summary": "Canvases turn AI into interactive workspaces where you can visualize information, explore workflows, and take action across complex tasks. The post How to build interactive experiences with canvases appeared first on The GitHub Blog.",
-      "published": "2026-07-21T16:00:00Z",
-      "image": "https://github.blog/wp-content/uploads/2026/07/1-issues.png?resize=1024%2C562"
     },
     {
       "id": "7ae1dda67f7f810e6d77f7a3e7778ae9abd39902",
