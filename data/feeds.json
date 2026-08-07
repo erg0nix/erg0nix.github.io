@@ -1,12 +1,76 @@
 {
-  "generated_at": "2026-08-06T08:41:58.075920Z",
+  "generated_at": "2026-08-07T07:20:30.119040Z",
   "items": [
+    {
+      "id": "b37996a97daffa78a4cf51767aff09bcbb8b0feb",
+      "title": "– Ta inn nyutdanna, selv om det er dyrtid!",
+      "link": "https://www.kode24.no/artikkel/ta-inn-nyutdanna-selv-om-det-er-dyrtid/268701",
+      "source": "Kode24",
+      "summary": "Sommerkoder Fredrik Sarai i Kantega minner bransjen på at vi fortsatt trenger folk framover.",
+      "published": "2026-08-07T06:30:00Z"
+    },
+    {
+      "id": "359ec0de640b7d2c493dd56a77bf2aa0b32e98e1",
+      "title": "– Jeg er knapt på kontoret i høst",
+      "link": "https://www.kode24.no/artikkel/jeg-er-knapt-pa-kontoret-i-host/268964",
+      "source": "Kode24",
+      "summary": "Småbarnspappa Ole Petter vil gjerne forklare deg hvorfor han og mange andre svikter som kolleger akkurat nå.",
+      "published": "2026-08-07T03:00:00Z"
+    },
+    {
+      "id": "22dbed91411be391f1ab0082c9b57699e81d4e3d",
+      "title": "A guide to slash commands in the GitHub Copilot app",
+      "link": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app/",
+      "source": "GitHub Blog",
+      "summary": "Go beyond chat in the GitHub Copilot app with these slash commands. They'll help you plan, collaborate, automate, and customize your dev workflow. The post A guide to slash commands in the GitHub Copilot app appeared first on The GitHub Blog.",
+      "published": "2026-08-06T19:49:34Z"
+    },
+    {
+      "id": "89bcbe6bc2be231f2ca05aa0b20aefece7b5a4d8",
+      "title": "How we took malware advisories beyond npm",
+      "link": "https://github.blog/security/supply-chain-security/how-we-took-malware-advisories-beyond-npm/",
+      "source": "GitHub Blog",
+      "summary": "GitHub malware advisories no longer stop at npm. Here's how we wired OpenSSF's malicious-packages data into the Advisory Database, and why we built the pipeline paranoid. The post How we took malware advisories beyond npm appeared first on The GitHub Blog.",
+      "published": "2026-08-06T16:51:12Z"
+    },
+    {
+      "id": "4750b157dda28a11a8b40354a7f1eaa8f21509d8",
+      "title": "Flere med master synes det er vanskelig å få jobb",
+      "link": "https://www.kode24.no/artikkel/flere-med-master-synes-det-er-vanskelig-a-fa-jobb/269078",
+      "source": "Kode24",
+      "summary": "Ledigheten øker også blant dem med teknologisk utdanning, ifølge ny rapport. Institutt utelukker ikke at KI tar jobber.",
+      "published": "2026-08-06T14:25:46Z"
+    },
+    {
+      "id": "c549e84d5385e75522fd61250cf0c6b35ab71652",
+      "title": "Jose går fra Alphalens til People Made Machines",
+      "link": "https://www.kode24.no/artikkel/jose-gar-fra-alphalens-til-people-made-machines/269046",
+      "source": "Kode24",
+      "summary": "– Han kunne valgt hvem som helst. Vi er veldig takknemlige for at han valgte oss, sier daglig leder, Alf Ruben Kvamme.",
+      "published": "2026-08-06T12:00:00Z"
+    },
+    {
+      "id": "695ec9643c28115882fe834183e3090e360ab724",
+      "title": "Datatilsynet undersøker dataangrepet mot Ryde",
+      "link": "https://www.kode24.no/artikkel/datatilsynet-undersoker-dataangrepet-mot-ryde/269031",
+      "source": "Kode24",
+      "summary": "Elsparkesykkel-selskapet har sendt avviksmelding til staten etter at millioner av kunder fikk dataen sin kompromittert.",
+      "published": "2026-08-06T10:52:06Z"
+    },
+    {
+      "id": "07079adbd484f6eb901fbda6ffc68c01bbe90f8c",
+      "title": "Til Las Vegas etter bluetooth-avsløring: – Helt surrealistisk!",
+      "link": "https://www.kode24.no/artikkel/til-las-vegas-etter-bluetooth-avsloring-helt-surrealistisk/268908",
+      "source": "Kode24",
+      "summary": "NTNU-studentene fant ut at de kunne lure kontrollen til insulinpumper. Fredag foredrar de om cybersikkerhet på DEF CON i USA.",
+      "published": "2026-08-06T09:00:00Z"
+    },
     {
       "id": "af6eed4472d9e3e5b2c51156abdb851362fb49dc",
       "title": "4,5 millioner kontoer i flere land rammet av datainnbruddet mot Ryde",
       "link": "https://www.kode24.no/artikkel/45-millioner-kontoer-i-flere-land-rammet-av-datainnbruddet-mot-ryde/268989",
       "source": "Kode24",
-      "summary": "Samtlige brukere av tjenestene til elsparkesykkelselskapet Ryde ble onsdag rammet av et datainnbrudd.",
+      "summary": "Samtlige brukere av tjenestene til elsparkesykkelselskapet Ryde ble rammet av et datainnbrudd.",
       "published": "2026-08-06T07:19:54Z"
     },
     {
@@ -131,60 +195,12 @@
       "published": "2026-08-03T10:19:56Z"
     },
     {
-      "id": "a61afd1df77f4069be78a45c5712204b33a11bf4",
-      "title": "Problemer med innlogging for flere offentlige tjenester",
-      "link": "https://www.kode24.no/artikkel/problemer-med-innlogging-for-flere-offentlige-tjenester/268649",
-      "source": "Kode24",
-      "summary": "En rekke offentlige tjenester er rammet av innloggingsproblemer, melder Digitaliseringsdirektoratet (Digdir).",
-      "published": "2026-08-03T07:06:15Z"
-    },
-    {
-      "id": "af376743043aebcd9606de0aafcdbda9cef06bba",
-      "title": "Nå må KI merkes i EU. Norge henger langt etter",
-      "link": "https://www.kode24.no/artikkel/na-ma-ki-merkes-i-eu-norge-henger-langt-etter/268632",
-      "source": "Kode24",
-      "summary": "– Deepfakes og KI-generert eller KI-manipulert tekst publisert i saker av offentlig interesse, må være tydelig merket. Brukere må også informeres når de samhandler med et interaktivt KI-system, melder EU-kommisjonen.",
-      "published": "2026-08-03T06:38:23Z"
-    },
-    {
       "id": "2af39012e41f6d74012c22183ae2ae5114900a2f",
       "title": "Don’t stop early: Case-folding source code at memory speed",
       "link": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
       "source": "GitHub Blog",
       "summary": "How a branch-free loop and byte-space arithmetic let GitHub case-fold every byte of code search at >45 GiB/s on a single core. The post Don’t stop early: Case-folding source code at memory speed appeared first on The GitHub Blog.",
       "published": "2026-07-31T16:00:00Z"
-    },
-    {
-      "id": "f6826518c80a7a465130a03cb06dac5eccbd4d62",
-      "title": "Aleksandra på KI-landslag for Norge: Bruker KI lite til koding privat",
-      "link": "https://www.kode24.no/artikkel/aleksandra-pa-ki-landslag-for-norge-bruker-ki-lite-til-koding-privat/268535",
-      "source": "Kode24",
-      "summary": "For første gang skal fire norske videregående elever konkurrere i kunstig intelligens internasjonalt. – Lykkelig og veldig nervøs, sier Aleksandra Streltsova.",
-      "published": "2026-07-31T12:00:00Z"
-    },
-    {
-      "id": "cd1f96c2879f609a710efd4bb7b251919cde50a4",
-      "title": "Tysk domstol: KI-musikkselskap brøt opphavsretten",
-      "link": "https://www.kode24.no/artikkel/tysk-domstol-ki-musikkselskap-brot-opphavsretten/268606",
-      "source": "Kode24",
-      "summary": "Tingretten i München slo fredag fast at KI-musikkselskapet Suno har krenket opphavsretten.",
-      "published": "2026-07-31T10:41:12Z"
-    },
-    {
-      "id": "5ad44fce65436b0216ec49e81695accc6e83ee1a",
-      "title": "Nå kan KI-skvip rapporteres på LinkedIn",
-      "link": "https://www.kode24.no/artikkel/na-kan-ki-skvip-rapporteres-pa-linkedin/268575",
-      "source": "Kode24",
-      "summary": "Det sosiale mediet tar flere grep for å sile unna elendige KI-tekster. Brukere frykter misbruk av funksjonen som lar deg rapportere mulig KI-søppel.",
-      "published": "2026-07-31T09:00:00Z"
-    },
-    {
-      "id": "bdd5679d002330a1097b5c6cd89dc3c0e4a28e9c",
-      "title": "– Jeg bruker KI mest av alt som en privatlærer",
-      "link": "https://www.kode24.no/artikkel/jeg-bruker-ki-mest-av-alt-som-en-privatlaerer/268247",
-      "source": "Kode24",
-      "summary": "Helmer Rusten bruker KI veldig mye i jobben hos Hydro. KI er blitt privatlæreren hans.",
-      "published": "2026-07-31T09:00:00Z"
     },
     {
       "id": "173cf5d592eaec5e2b033511d6297d8e7e257d9e",
@@ -227,22 +243,6 @@
       "source": "GitHub Blog",
       "summary": "New to the GitHub Copilot app? Learn how to start projects, work with AI agents, explore canvases, and streamline your development workflow. The post GitHub Copilot app for Beginners: Getting started appeared first on The GitHub Blog.",
       "published": "2026-07-27T16:00:00Z"
-    },
-    {
-      "id": "7e3a48214c7b02c977df3cbf5bac4bf9b1a35a76",
-      "title": "The case for a cooldown: Why Dependabot now waits before issuing version updates",
-      "link": "https://github.blog/security/supply-chain-security/the-case-for-a-cooldown-why-dependabot-now-waits-before-issuing-version-updates/",
-      "source": "GitHub Blog",
-      "summary": "A new default three-day cooldown delays version update pull requests so maintainers and security researchers can address findings in a release before it gets into your code. The post The case for a cooldown: Why Dependabot now waits before issuing version updates appeared first on The GitHub Blog.",
-      "published": "2026-07-23T16:00:00Z"
-    },
-    {
-      "id": "38f75d8d50e05af9b86d465349b86aa0367e36c2",
-      "title": "Copilot vs. raw API access: What are you actually paying for?",
-      "link": "https://github.blog/ai-and-ml/github-copilot/copilot-vs-raw-api-access-what-are-you-actually-paying-for/",
-      "source": "GitHub Blog",
-      "summary": "Copilot now bills usage at listed API rates. Compare direct model access with the coding workflow, policy, and harness work around it. The post Copilot vs. raw API access: What are you actually paying for? appeared first on The GitHub Blog.",
-      "published": "2026-07-22T19:00:00Z"
     },
     {
       "id": "7ae1dda67f7f810e6d77f7a3e7778ae9abd39902",
