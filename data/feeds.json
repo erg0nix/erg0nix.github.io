@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-08-07T07:20:30.119040Z",
+  "generated_at": "2026-08-08T06:58:41.962537Z",
   "items": [
+    {
+      "id": "f649da7c096756d4107279c9914b5250769b7081",
+      "title": "Henter hjem tre medaljer fra KI-OL i Kasakhstan",
+      "link": "https://www.kode24.no/artikkel/henter-hjem-tre-medaljer-fra-ki-ol-i-kasakhstan/268263",
+      "source": "Kode24",
+      "summary": "Norges lag tar med seg både sølv og bronse i sin første deltakelse i den internasjonale KI-olympiaden.",
+      "published": "2026-08-07T15:48:45Z"
+    },
+    {
+      "id": "17d6639a3753d840d7fbada51e497223d190998a",
+      "title": "Den mest forhatte CSS-funksjonen i år",
+      "link": "https://www.kode24.no/artikkel/den-mest-forhatte-css-funksjonen-i-ar/269149",
+      "source": "Kode24",
+      "summary": "Foreløpig går CSS-folka mot KI-strømmen. Wide Gamut Colors overtar plassen som det folk liker aller dårligst i 2026.",
+      "published": "2026-08-07T11:36:34Z"
+    },
+    {
+      "id": "a011375b63f8c392bf8017e2698d61fe8068c137",
+      "title": "Apoteker over hele landet hadde IT-problemer – igjen",
+      "link": "https://www.kode24.no/artikkel/apoteker-over-hele-landet-hadde-it-problemer-igjen-1/269130",
+      "source": "Kode24",
+      "summary": "Systemet som henter ut resepter var nede i hele landet fredag. Feilen viste seg å være vanskelig å rette, opplyser Apotekforeningen.",
+      "published": "2026-08-07T08:20:12Z"
+    },
+    {
+      "id": "75f34b4522a890637f0cf8e8404b313fb92182d2",
+      "title": "Meta må betale milliardsum for å beskytte barn",
+      "link": "https://www.kode24.no/artikkel/meta-ma-betale-milliardsum-for-a-beskytte-barn/269096",
+      "source": "Kode24",
+      "summary": "Amerikansk domstol pålegger Meta å betale et beløp tilsvarende mer enn 5 milliarder kroner for skade som plattformens sosiale medier påfører barn.",
+      "published": "2026-08-07T06:45:11Z"
+    },
     {
       "id": "b37996a97daffa78a4cf51767aff09bcbb8b0feb",
       "title": "– Ta inn nyutdanna, selv om det er dyrtid!",
@@ -161,38 +193,6 @@
       "source": "Kode24",
       "summary": "– Ved ferdigstillelse forventes Tydal å være Norges største operative KI-datasenter og blant Europas største KI-datasentre, melder Tydal Data Center.",
       "published": "2026-08-04T12:24:50Z"
-    },
-    {
-      "id": "29331b0ff323c3df35ea417cb4b2da51b2dcb732",
-      "title": "Mener Googles KI-svar er full av feil om norske nettbutikker",
-      "link": "https://www.kode24.no/artikkel/mener-googles-ki-svar-er-full-av-feil-om-norske-nettbutikker/268743",
-      "source": "Kode24",
-      "summary": "– Det vi fant var en blanding av konkrete faktafeil, motstridende opplysninger og mangelfulle vurderinger, skriver nettbutikk-eier Ivar Olai Nordvik, som frykter konsekvensene.",
-      "published": "2026-08-04T09:33:53Z"
-    },
-    {
-      "id": "2900b6fb97ce13d1e7c9d7f0b1d85cbb6757bdae",
-      "title": "Digdir-problemene skyldtes angrep",
-      "link": "https://www.kode24.no/artikkel/digdir-problemene-skyldtes-angrep/268720",
-      "source": "Kode24",
-      "summary": "Tok ned en rekke tjenester i lang tid.",
-      "published": "2026-08-04T06:36:27Z"
-    },
-    {
-      "id": "89ababccda41b70eae03fa6a8798d863d4d82100",
-      "title": "Norske utvikleres lønn i 2026: Her tjener de over millionen",
-      "link": "https://www.kode24.no/artikkel/norske-utvikleres-lonn-i-2026-her-tjener-de-over-millionen/268687",
-      "source": "Kode24",
-      "summary": "For første gang passerer Oslo-utviklerne over én million kroner i året.",
-      "published": "2026-08-04T03:00:00Z"
-    },
-    {
-      "id": "4bc5134155ba4ab566178fa0b703ab54b43bc03b",
-      "title": "Advarer mot KI sin «eksplosjon av løsninger – og dermed av feil»",
-      "link": "https://www.kode24.no/artikkel/advarer-mot-ki-sin-eksplosjon-av-losninger-og-dermed-av-feil/268666",
-      "source": "Kode24",
-      "summary": "– KI forsterker både det vi kan, og konsekvensene av det vi ikke forstår, advarer Mikael Åsbjørnsson-Stensland.",
-      "published": "2026-08-03T10:19:56Z"
     },
     {
       "id": "2af39012e41f6d74012c22183ae2ae5114900a2f",
