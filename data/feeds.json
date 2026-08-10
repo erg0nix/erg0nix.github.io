@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-08-09T07:00:53.924376Z",
+  "generated_at": "2026-08-10T07:47:01.539684Z",
   "items": [
+    {
+      "id": "63598de3623ff3cae648c17e15cd69736555f81d",
+      "title": "Få KI til å velge tilfeldige tall med scripts og skills",
+      "link": "https://www.kode24.no/artikkel/fa-ki-til-a-velge-tilfeldige-tall-med-scripts-og-skills/268871",
+      "source": "Kode24",
+      "summary": "Da Tomas Hensrud Gulla lot språkmodeller velge tilfeldige tall, ble det alt annet enn tilfeldig. Heldigvis har han en løsning du kan bruke til mye.",
+      "published": "2026-08-10T06:00:00Z"
+    },
+    {
+      "id": "e1408653f476115fb961babd32721bb71df64b21",
+      "title": "Bachelor eller master i 2026: Så mye høyere er lønna",
+      "link": "https://www.kode24.no/artikkel/bachelor-eller-master-i-2026-sa-mye-hoyere-er-lonna/269143",
+      "source": "Kode24",
+      "summary": "Lønnsforskjellen mellom norske utviklere med bachelor- og master-grad er høyere enn du kanskje tror.",
+      "published": "2026-08-10T03:00:00Z"
+    },
     {
       "id": "f649da7c096756d4107279c9914b5250769b7081",
       "title": "Henter hjem tre medaljer fra KI-OL i Kasakhstan",
@@ -177,22 +193,6 @@
       "summary": "Instead of one huge, un-reviewable pull request, teach coding agents to decompose work into a clean, ordered stack with GitHub stacked pull requests. The post Turn one giant AI-generated pull request to a reviewable stack appeared first on The GitHub Blog.",
       "published": "2026-08-04T16:47:18Z",
       "image": "https://github.blog/wp-content/uploads/2026/08/pr-size-counter.gif?resize=1024%2C260"
-    },
-    {
-      "id": "ddb01294595e5cebbbb55d1900a67386eb5c5e34",
-      "title": "Problemene er løst, over ett døgn senere",
-      "link": "https://www.kode24.no/artikkel/problemene-er-lost-over-ett-dogn-senere/268785",
-      "source": "Kode24",
-      "summary": "Nå skal alle offentlige tjenester fungere normalt for alle, lover Digdir.",
-      "published": "2026-08-04T12:59:49Z"
-    },
-    {
-      "id": "7445a9aba05f55b2d58d8dcd4ee1b7bd9240889f",
-      "title": "Trønder-datasenter går fra krypto til KI, for 45 milliarder kroner",
-      "link": "https://www.kode24.no/artikkel/tronder-datasenter-gar-fra-krypto-til-ki-for-45-milliarder-kroner/268771",
-      "source": "Kode24",
-      "summary": "– Ved ferdigstillelse forventes Tydal å være Norges største operative KI-datasenter og blant Europas største KI-datasentre, melder Tydal Data Center.",
-      "published": "2026-08-04T12:24:50Z"
     },
     {
       "id": "2af39012e41f6d74012c22183ae2ae5114900a2f",
