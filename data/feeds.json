@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-08-10T07:47:01.539684Z",
+  "generated_at": "2026-08-11T07:12:47.219597Z",
   "items": [
+    {
+      "id": "365b25742557e39d21e8ce71e4da2d33232fc812",
+      "title": "Advarer: Norske språkmodeller er lettere å lure",
+      "link": "https://www.kode24.no/artikkel/advarer-norske-sprakmodeller-er-lettere-a-lure/269246",
+      "source": "Kode24",
+      "summary": "Norske modeller er flinkere på norsk, men har én stor svakhet, konkluderer Simula etter å ha testet dem.",
+      "published": "2026-08-11T07:00:00Z"
+    },
+    {
+      "id": "f85ad8480851e002b93bd71e53859db81bdeb35a",
+      "title": "Frykter at algoritmer bidrar til skillet mellom norske jenter og gutter",
+      "link": "https://www.kode24.no/artikkel/frykter-at-algoritmer-bidrar-til-skillet-mellom-norske-jenter-og-gutter/269303",
+      "source": "Kode24",
+      "summary": "– Kjønnsforskjellene er gjennomgående, melder Medietilsynet etter fersk rapport om unges mediebruk.",
+      "published": "2026-08-11T06:39:10Z"
+    },
+    {
+      "id": "c67e2e0b3fbeba838c77988c362045ea00e4e50b",
+      "title": "Mener folk bør være mer bekymret for smartdingsene sine",
+      "link": "https://www.kode24.no/artikkel/mener-folk-bor-vaere-mer-bekymret-for-smartdingsene-sine/268664",
+      "source": "Kode24",
+      "summary": "Folk er overraskende lite kritisk til å slippe teknologiselskaper over egen terskel, mener OsloMet-forsker Helene Fiane Teigen. Nå har hun skrevet doktorgrad, inspirert av samboerens dings-samling.",
+      "published": "2026-08-11T03:00:00Z"
+    },
+    {
+      "id": "1cd9faee1a346b2bba7bc6395321ced89b01fba5",
+      "title": "Using the GitHub Copilot SDK for Java",
+      "link": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java/",
+      "source": "GitHub Blog",
+      "summary": "Enterprise Java developers have a new superpower—drive GitHub Copilot from idiomatic Java code with annotations, virtual threads, and more. The post Using the GitHub Copilot SDK for Java appeared first on The GitHub Blog.",
+      "published": "2026-08-10T19:30:00Z",
+      "image": "https://github.blog/wp-content/uploads/2026/08/figure-01-app-flow-diagram.png?resize=1024%2C173"
+    },
+    {
+      "id": "473a099c4e74f33e85da50022bfa88cff5f2d3c1",
+      "title": "– Du er ikke klar for KI",
+      "link": "https://www.kode24.no/artikkel/du-er-ikke-klar-for-ki/269253",
+      "source": "Kode24",
+      "summary": "Arendalsgata i Oslo har våknet opp til liv denne uken. Alt fra pubquiz til KI-fordrag er hovedstadens svar på Arendalsuka på Sørlandet.",
+      "published": "2026-08-10T13:55:21Z"
+    },
+    {
+      "id": "eaf9e4bc1812624d7ff9964596ed1d7b955c19f9",
+      "title": "Fagforbundet vil ha nasjonal skylagring etter kommune-angrep",
+      "link": "https://www.kode24.no/artikkel/fagforbundet-vil-ha-nasjonal-skylagring-etter-kommune-angrep/269260",
+      "source": "Kode24",
+      "summary": "Tusenvis av innbyggere er rammet av dataangrepet mot Lørenskog kommune, der blant annet pasientjournaler ble lekket. Fagforbundet ber om nasjonal skylagring.",
+      "published": "2026-08-10T12:46:00Z"
+    },
+    {
+      "id": "c82a93884f1e0627b14cd4607e2f5c21b148c25a",
+      "title": "Lanserer nye, norske språkmodeller",
+      "link": "https://www.kode24.no/artikkel/lanserer-nye-norske-sprakmodeller/269224",
+      "source": "Kode24",
+      "summary": "Nå er de første språkmodellene trent på opphavsrettsbeskyttet tekst fra norske aviser lansert, på nynorsk og bokmål. – Viktig verktøy for å utvikle og ta i bruk kunstig intelligens på norsk, sier digitaliseringsministeren.",
+      "published": "2026-08-10T10:56:13Z"
+    },
+    {
+      "id": "3b1f7bb5b34142a5c386bc97ee53f0705a3a7835",
+      "title": "Rekordinteresse for TENK: Nær 1000 jenter deltok",
+      "link": "https://www.kode24.no/artikkel/rekordinteresse-for-tenk-naer-1000-jenter-deltok/269203",
+      "source": "Kode24",
+      "summary": "Det startet som et initiativ av Isabell Ringnes i 2017, og har utviklet seg til et landsdekkende arrangement. Nærmere 1000 jenter i alderen 13–19 år deltok på årets TENK Tech Camp.",
+      "published": "2026-08-10T09:41:57Z"
+    },
     {
       "id": "63598de3623ff3cae648c17e15cd69736555f81d",
       "title": "Få KI til å velge tilfeldige tall med scripts og skills",
@@ -122,62 +187,6 @@
       "published": "2026-08-06T07:19:54Z"
     },
     {
-      "id": "0c5e81afec97233ec9a3db54afc46ea5219818b6",
-      "title": "OpenAI og Anthropic-modeller brøt testgrenser",
-      "link": "https://www.kode24.no/artikkel/openai-og-anthropic-modeller-brot-testgrenser/268971",
-      "source": "Kode24",
-      "summary": "I det mest alvorlige tilfellet prøvde en agent å sette en ondsinnet kode inn i et åpent kildekode-prosjekt, ifølge Storbritannias KI-sikkerhetsinstitutt (AISI).",
-      "published": "2026-08-06T06:53:29Z"
-    },
-    {
-      "id": "d527aedb308469f92a5e3b67ec3ef3715fbd4549",
-      "title": "Advarer mot å tro at «human in the loop» er nok",
-      "link": "https://www.kode24.no/artikkel/advarer-mot-a-tro-at-human-in-the-loop-er-nok/268942",
-      "source": "Kode24",
-      "summary": "– Hva i huleste? Jeg var jo personen inni denne loopen! skriver Henriette Kopstad, etter å ha opplevd hvordan KI-koding fort spinner ut av kontroll.",
-      "published": "2026-08-06T03:00:00Z"
-    },
-    {
-      "id": "754926b7dd20e7d30b83bd00b7d496c6343f165e",
-      "title": "Codeberg forbyr vibbekode – mange reagerer",
-      "link": "https://www.kode24.no/artikkel/codeberg-forbyr-vibbekode-mange-reagerer/268916",
-      "source": "Kode24",
-      "summary": "Vibbekode-forbud hos GitHub-konkurrent, skalering av komponenter med linjehøyde og ikke la deg lure av JSON, i ukas ForrigeUke.",
-      "published": "2026-08-05T11:31:47Z"
-    },
-    {
-      "id": "6bef408818cec501a05a2cf49cc8c3b1eed39739",
-      "title": "\"Tjukk i huet\"-utspill gir Tangen finaleplass til ukritisk-pris",
-      "link": "https://www.kode24.no/artikkel/tjukk-i-huet-utspill-gir-tangen-finaleplass-til-ukritisk-pris/268854",
-      "source": "Kode24",
-      "summary": "– Kritiske spørsmål om KI er ikke et tegn på teknologifiendtlighet, sier Humanistisk Ungdom om oljefondsjefens kommentar til kode24 i vår.",
-      "published": "2026-08-05T08:27:08Z"
-    },
-    {
-      "id": "246cfa7b6e7799e89ab6a54ea3f912b08464e2c6",
-      "title": "Anthropic flytter trolig inn i Tydal",
-      "link": "https://www.kode24.no/artikkel/anthropic-flytter-trolig-inn-i-tydal/268841",
-      "source": "Kode24",
-      "summary": "Den foreløpig hemmelige kunden til Tydal Data Center er trolig avslørt, men datasenteret vil fortsatt ikke si noe.",
-      "published": "2026-08-05T07:48:02Z"
-    },
-    {
-      "id": "7fcdebcf9fb60b146347162b7429793dd06497cc",
-      "title": "Norsk Tipping nede etter nok et angrep",
-      "link": "https://www.kode24.no/artikkel/norsk-tipping-nede-etter-nok-et-angrep/268826",
-      "source": "Kode24",
-      "summary": "– Det er et tilsvarende angrep som vi opplevde i helgen.",
-      "published": "2026-08-05T06:41:15Z"
-    },
-    {
-      "id": "6ba9a0393208a83e962f159573b98ba6555edefa",
-      "title": "Lager båtspill med Finn-Erik (5): «Mye jobb for pappa»",
-      "link": "https://www.kode24.no/artikkel/lager-batspill-med-finn-erik-5-mye-jobb-for-pappa/268799",
-      "source": "Kode24",
-      "summary": "– Nesten umulig å holde tritt med kravspesifikasjonen fra den fem år gamle kunden, avslører Torbjørn Kristoffersen.",
-      "published": "2026-08-05T03:00:00Z"
-    },
-    {
       "id": "00b3e9274b23040c6b1f638fae6745fe0bbacc33",
       "title": "How the GitHub legal team used Copilot CLI to streamline their workflows",
       "link": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows/",
@@ -235,14 +244,6 @@
       "summary": "A practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software without chasing every new AI tool. The post The harness is all you need (mostly) appeared first on The GitHub Blog.",
       "published": "2026-07-27T18:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2026/07/prototype.png?resize=1024%2C760"
-    },
-    {
-      "id": "dea6623dad003e69cd700b7c7c19f0d1bb493cb0",
-      "title": "GitHub Copilot app for Beginners: Getting started",
-      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-getting-started/",
-      "source": "GitHub Blog",
-      "summary": "New to the GitHub Copilot app? Learn how to start projects, work with AI agents, explore canvases, and streamline your development workflow. The post GitHub Copilot app for Beginners: Getting started appeared first on The GitHub Blog.",
-      "published": "2026-07-27T16:00:00Z"
     },
     {
       "id": "7ae1dda67f7f810e6d77f7a3e7778ae9abd39902",
