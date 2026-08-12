@@ -1,12 +1,61 @@
 {
-  "generated_at": "2026-08-11T07:12:47.219597Z",
+  "generated_at": "2026-08-12T07:36:57.221900Z",
   "items": [
     {
-      "id": "365b25742557e39d21e8ce71e4da2d33232fc812",
-      "title": "Advarer: Norske språkmodeller er lettere å lure",
-      "link": "https://www.kode24.no/artikkel/advarer-norske-sprakmodeller-er-lettere-a-lure/269246",
+      "id": "857dca5f521356ef3820fb491ae80cf32b6b3536",
+      "title": "Oljefondet sårbart for KI-boble",
+      "link": "https://www.kode24.no/artikkel/oljefondet-sarbart-for-ki-boble/269397",
       "source": "Kode24",
-      "summary": "Norske modeller er flinkere på norsk, men har én stor svakhet, konkluderer Simula etter å ha testet dem.",
+      "summary": "– Effekten vil være veldig stor, fordi så mye av fondet er linket opp i de aksjene, sier oljefondsjef Nicolai Tangen.",
+      "published": "2026-08-12T06:26:26Z"
+    },
+    {
+      "id": "846b27f7259c6132b44e6e8cc79e6f29dc199df6",
+      "title": "Slo 6.000 andre søkere: – Konkurransen er beinhard",
+      "link": "https://www.kode24.no/artikkel/slo-6000-andre-sokere-konkurransen-er-beinhard/269328",
+      "source": "Kode24",
+      "summary": "Studentene som fikk jobbe i Oljefondet i sommer forteller om et hardt arbeidsmarked for unge utviklere.",
+      "published": "2026-08-12T03:00:00Z"
+    },
+    {
+      "id": "39deb504caedeca4d10d3f6dd4759ff92957b526",
+      "title": "From coder to orchestrator: How agents shift the role of a developer",
+      "link": "https://github.blog/developer-skills/career-growth/from-coder-to-orchestrator-how-agents-shift-the-role-of-a-developer/",
+      "source": "GitHub Blog",
+      "summary": "Developers are owning more of the delivery system around code, not just code itself. Join us during GitHub Universe to meet other devs, learn something new, and explore what's next. The post From coder to orchestrator: How agents shift the role of a developer appeared first on The GitHub Blog.",
+      "published": "2026-08-11T18:38:17Z",
+      "image": "https://github.blog/wp-content/uploads/2026/08/Screenshot-2026-08-11-at-10.43.51-AM.png?resize=281%2C300"
+    },
+    {
+      "id": "45be18b7a462eda364bc0cff6cc6455592ab317f",
+      "title": "Ut mot Zuckerbergs KI-manifest: – Forstår ikke hvordan man lever",
+      "link": "https://www.kode24.no/artikkel/ut-mot-zuckerbergs-ki-manifest-forstar-ikke-hvordan-man-lever/269348",
+      "source": "Kode24",
+      "summary": "Meta-sjef Mark Zuckerberg ønsker at alle skal få superintelligente agenter. – En KI-framtid med strømlinjeformede og helt tomme relasjoner, mener kritikerne.",
+      "published": "2026-08-11T13:10:06Z"
+    },
+    {
+      "id": "7fed2e7bc325cc02256e06a6b8bb39420aeb28c1",
+      "title": "Ny KI-sjef i Forte: – Konsulenter må bruke KI som kollega",
+      "link": "https://www.kode24.no/artikkel/ny-ki-sjef-i-forte-konsulenter-ma-bruke-ki-som-kollega/269358",
+      "source": "Kode24",
+      "summary": "Guro Vassend tar med seg data-kompetansen fra Knowit til Forte, og tror KI vil endre bransjen hennes.",
+      "published": "2026-08-11T10:51:38Z"
+    },
+    {
+      "id": "2f3fa6306eb13e9a48b176c79374fee06473eee0",
+      "title": "Unge føler seg mindre verdsatt med KI",
+      "link": "https://www.kode24.no/artikkel/unge-foler-seg-mindre-verdsatt-med-ki/269298",
+      "source": "Kode24",
+      "summary": "Arbeidslivsbarometeret viser at KI tar over stadig flere oppgaver, og at unge føler på svakere mestring.",
+      "published": "2026-08-11T07:36:57Z"
+    },
+    {
+      "id": "365b25742557e39d21e8ce71e4da2d33232fc812",
+      "title": "Forsking: Norske språkmodeller er mer imøte­kommende",
+      "link": "https://www.kode24.no/artikkel/forsking-norske-sprakmodeller-er-mer-imotekommende/269246",
+      "source": "Kode24",
+      "summary": "Norske modeller er flinkere på norsk, men tilpasningen har en pris, konkluderer Simula etter å ha testet dem.",
       "published": "2026-08-11T07:00:00Z"
     },
     {
@@ -147,46 +196,6 @@
       "published": "2026-08-06T16:51:12Z"
     },
     {
-      "id": "4750b157dda28a11a8b40354a7f1eaa8f21509d8",
-      "title": "Flere med master synes det er vanskelig å få jobb",
-      "link": "https://www.kode24.no/artikkel/flere-med-master-synes-det-er-vanskelig-a-fa-jobb/269078",
-      "source": "Kode24",
-      "summary": "Ledigheten øker også blant dem med teknologisk utdanning, ifølge ny rapport. Institutt utelukker ikke at KI tar jobber.",
-      "published": "2026-08-06T14:25:46Z"
-    },
-    {
-      "id": "c549e84d5385e75522fd61250cf0c6b35ab71652",
-      "title": "Jose går fra Alphalens til People Made Machines",
-      "link": "https://www.kode24.no/artikkel/jose-gar-fra-alphalens-til-people-made-machines/269046",
-      "source": "Kode24",
-      "summary": "– Han kunne valgt hvem som helst. Vi er veldig takknemlige for at han valgte oss, sier daglig leder, Alf Ruben Kvamme.",
-      "published": "2026-08-06T12:00:00Z"
-    },
-    {
-      "id": "695ec9643c28115882fe834183e3090e360ab724",
-      "title": "Datatilsynet undersøker dataangrepet mot Ryde",
-      "link": "https://www.kode24.no/artikkel/datatilsynet-undersoker-dataangrepet-mot-ryde/269031",
-      "source": "Kode24",
-      "summary": "Elsparkesykkel-selskapet har sendt avviksmelding til staten etter at millioner av kunder fikk dataen sin kompromittert.",
-      "published": "2026-08-06T10:52:06Z"
-    },
-    {
-      "id": "07079adbd484f6eb901fbda6ffc68c01bbe90f8c",
-      "title": "Til Las Vegas etter bluetooth-avsløring: – Helt surrealistisk!",
-      "link": "https://www.kode24.no/artikkel/til-las-vegas-etter-bluetooth-avsloring-helt-surrealistisk/268908",
-      "source": "Kode24",
-      "summary": "NTNU-studentene fant ut at de kunne lure kontrollen til insulinpumper. Fredag foredrar de om cybersikkerhet på DEF CON i USA.",
-      "published": "2026-08-06T09:00:00Z"
-    },
-    {
-      "id": "af6eed4472d9e3e5b2c51156abdb851362fb49dc",
-      "title": "4,5 millioner kontoer i flere land rammet av datainnbruddet mot Ryde",
-      "link": "https://www.kode24.no/artikkel/45-millioner-kontoer-i-flere-land-rammet-av-datainnbruddet-mot-ryde/268989",
-      "source": "Kode24",
-      "summary": "Samtlige brukere av tjenestene til elsparkesykkelselskapet Ryde ble rammet av et datainnbrudd.",
-      "published": "2026-08-06T07:19:54Z"
-    },
-    {
       "id": "00b3e9274b23040c6b1f638fae6745fe0bbacc33",
       "title": "How the GitHub legal team used Copilot CLI to streamline their workflows",
       "link": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows/",
@@ -235,15 +244,6 @@
       "source": "GitHub Blog",
       "summary": "Explore the changes we've shipped across npm and GitHub Actions over the past few months to disrupt supply chain attack techniques and limit their impact. The post Disrupting supply chain attacks on npm and GitHub Actions appeared first on The GitHub Blog.",
       "published": "2026-07-28T16:00:00Z"
-    },
-    {
-      "id": "686e1c507b84c9a894f460449b89e4cedf3a2c75",
-      "title": "The harness is all you need (mostly)",
-      "link": "https://github.blog/ai-and-ml/github-copilot/the-harness-is-all-you-need-mostly/",
-      "source": "GitHub Blog",
-      "summary": "A practical GitHub Copilot workflow for prototyping, planning, implementing, and reviewing software without chasing every new AI tool. The post The harness is all you need (mostly) appeared first on The GitHub Blog.",
-      "published": "2026-07-27T18:00:00Z",
-      "image": "https://github.blog/wp-content/uploads/2026/07/prototype.png?resize=1024%2C760"
     },
     {
       "id": "7ae1dda67f7f810e6d77f7a3e7778ae9abd39902",
