@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-08-12T07:36:57.221900Z",
+  "generated_at": "2026-08-13T07:38:36.732594Z",
   "items": [
+    {
+      "id": "613f376d474e6d44ef0a8141a2784d4e8b6d5a46",
+      "title": "Fagene med høyest og lavest lønn: – Bransje under trykk",
+      "link": "https://www.kode24.no/artikkel/fagene-med-hoyest-og-lavest-lonn-bransje-under-trykk/269473",
+      "source": "Kode24",
+      "summary": "Frontend, UX og design havner igjen på bunnen av lønnsstatistikken. – Det er arbeidsgivers marked, forteller UX-er Tone Nordbø.",
+      "published": "2026-08-13T03:00:00Z"
+    },
+    {
+      "id": "c30f5722f60759d82e14f57d372f9add9adf7505",
+      "title": "GitHub availability report: July 2026",
+      "link": "https://github.blog/news-insights/company-news/github-availability-report-july-2026/",
+      "source": "GitHub Blog",
+      "summary": "In July, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: July 2026 appeared first on The GitHub Blog.",
+      "published": "2026-08-12T22:17:32Z"
+    },
+    {
+      "id": "e630d71c740baa1a9371c085c588e041560a3fa3",
+      "title": "Write your first prompt with the GitHub Copilot app",
+      "link": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app/",
+      "source": "GitHub Blog",
+      "summary": "Learn how to write your first prompt in the GitHub Copilot app, choose the right context and model, and start your first task with confidence. The post Write your first prompt with the GitHub Copilot app appeared first on The GitHub Blog.",
+      "published": "2026-08-12T19:00:00Z"
+    },
+    {
+      "id": "d447ea8b42d9494c68b57d01c6611fda615a401c",
+      "title": "Your contributors are AI-first now. Is your project?",
+      "link": "https://github.blog/open-source/maintainers/your-contributors-are-ai-first-now-is-your-project/",
+      "source": "GitHub Blog",
+      "summary": "AI contributors are already in your queue. AutoGPT maintainer Nicholas Tindle shares the repo instructions, gates, and boundaries that keep maintainers in control. The post Your contributors are AI-first now. Is your project? appeared first on The GitHub Blog.",
+      "published": "2026-08-12T18:00:08Z"
+    },
+    {
+      "id": "233959ae565ac163f0d7e3f63b7356102ded4a5c",
+      "title": "Meta-briller forbys i rettsalen i England",
+      "link": "https://www.kode24.no/artikkel/meta-briller-forbys-i-rettsalen-i-england/269459",
+      "source": "Kode24",
+      "summary": "Metabriller er blitt forbudt i domstoler i England og Wales. Nå er det ikke lenger lov å gå inn i rettsbygninger med brillene – de vil bli konfiskert.",
+      "published": "2026-08-12T13:38:37Z"
+    },
+    {
+      "id": "3ec29714f5c7c5234a5c59faa12ed10beef24356",
+      "title": "Få jobber for utviklere på datasentre",
+      "link": "https://www.kode24.no/artikkel/fa-jobber-for-utviklere-pa-datasentre/269457",
+      "source": "Kode24",
+      "summary": "Hvem jobber egentlig på et datasenter? Ikke utviklere, i alle fall, ifølge fersk forsking. – Det er ikke nødvendigvis bedre for norsk IT-næring om et datasenter ligger i Norge.",
+      "published": "2026-08-12T13:35:59Z"
+    },
+    {
+      "id": "57021f592e89d2c9e9a5643d95de744470027bbf",
+      "title": "Aplia-gründer til Coretrek, hvor KI skal utfordre hyllevare",
+      "link": "https://www.kode24.no/artikkel/aplia-gruender-til-coretrek-hvor-ki-skal-utfordre-hyllevare/269373",
+      "source": "Kode24",
+      "summary": "– Mange bedrifter tvinges i dag til å endre sine egne arbeidsprosesser for å passe inn i et rigid standardsystem, sier Benjamin Selmer, som vil gjøre det motsatte.",
+      "published": "2026-08-12T12:55:00Z"
+    },
+    {
+      "id": "3a3686bb9f4977f76160e3103dda2d9abc431013",
+      "title": "Advarer mot KI som vet at den testes",
+      "link": "https://www.kode24.no/artikkel/advarer-mot-ki-som-vet-at-den-testes/269419",
+      "source": "Kode24",
+      "summary": "– KI-modeller har rømt fra testmiljøene i sommer. Etter min mening er ikke problemet bare lekk isolasjon, men at modellene kan gjennomskue selve testen, melder Jasvinder Sadana.",
+      "published": "2026-08-12T11:00:44Z"
+    },
+    {
+      "id": "27d2e96234fc5b1dbdf115aa2edae50e10140206",
+      "title": "Spotify straffer KI-musikk",
+      "link": "https://www.kode24.no/artikkel/spotify-straffer-ki-musikk/269437",
+      "source": "Kode24",
+      "summary": "Snart merker Spotify profilene til KI-artister, og stenger musikken deres ute fra anbefalinger.",
+      "published": "2026-08-12T08:29:45Z"
+    },
     {
       "id": "857dca5f521356ef3820fb491ae80cf32b6b3536",
       "title": "Oljefondet sårbart for KI-boble",
@@ -132,54 +204,6 @@
       "published": "2026-08-10T03:00:00Z"
     },
     {
-      "id": "f649da7c096756d4107279c9914b5250769b7081",
-      "title": "Henter hjem tre medaljer fra KI-OL i Kasakhstan",
-      "link": "https://www.kode24.no/artikkel/henter-hjem-tre-medaljer-fra-ki-ol-i-kasakhstan/268263",
-      "source": "Kode24",
-      "summary": "Norges lag tar med seg både sølv og bronse i sin første deltakelse i den internasjonale KI-olympiaden.",
-      "published": "2026-08-07T15:48:45Z"
-    },
-    {
-      "id": "17d6639a3753d840d7fbada51e497223d190998a",
-      "title": "Den mest forhatte CSS-funksjonen i år",
-      "link": "https://www.kode24.no/artikkel/den-mest-forhatte-css-funksjonen-i-ar/269149",
-      "source": "Kode24",
-      "summary": "Foreløpig går CSS-folka mot KI-strømmen. Wide Gamut Colors overtar plassen som det folk liker aller dårligst i 2026.",
-      "published": "2026-08-07T11:36:34Z"
-    },
-    {
-      "id": "a011375b63f8c392bf8017e2698d61fe8068c137",
-      "title": "Apoteker over hele landet hadde IT-problemer – igjen",
-      "link": "https://www.kode24.no/artikkel/apoteker-over-hele-landet-hadde-it-problemer-igjen-1/269130",
-      "source": "Kode24",
-      "summary": "Systemet som henter ut resepter var nede i hele landet fredag. Feilen viste seg å være vanskelig å rette, opplyser Apotekforeningen.",
-      "published": "2026-08-07T08:20:12Z"
-    },
-    {
-      "id": "75f34b4522a890637f0cf8e8404b313fb92182d2",
-      "title": "Meta må betale milliardsum for å beskytte barn",
-      "link": "https://www.kode24.no/artikkel/meta-ma-betale-milliardsum-for-a-beskytte-barn/269096",
-      "source": "Kode24",
-      "summary": "Amerikansk domstol pålegger Meta å betale et beløp tilsvarende mer enn 5 milliarder kroner for skade som plattformens sosiale medier påfører barn.",
-      "published": "2026-08-07T06:45:11Z"
-    },
-    {
-      "id": "b37996a97daffa78a4cf51767aff09bcbb8b0feb",
-      "title": "– Ta inn nyutdanna, selv om det er dyrtid!",
-      "link": "https://www.kode24.no/artikkel/ta-inn-nyutdanna-selv-om-det-er-dyrtid/268701",
-      "source": "Kode24",
-      "summary": "Sommerkoder Fredrik Sarai i Kantega minner bransjen på at vi fortsatt trenger folk framover.",
-      "published": "2026-08-07T06:30:00Z"
-    },
-    {
-      "id": "359ec0de640b7d2c493dd56a77bf2aa0b32e98e1",
-      "title": "– Jeg er knapt på kontoret i høst",
-      "link": "https://www.kode24.no/artikkel/jeg-er-knapt-pa-kontoret-i-host/268964",
-      "source": "Kode24",
-      "summary": "Småbarnspappa Ole Petter vil gjerne forklare deg hvorfor han og mange andre svikter som kolleger akkurat nå.",
-      "published": "2026-08-07T03:00:00Z"
-    },
-    {
       "id": "22dbed91411be391f1ab0082c9b57699e81d4e3d",
       "title": "A guide to slash commands in the GitHub Copilot app",
       "link": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app/",
@@ -219,31 +243,6 @@
       "source": "GitHub Blog",
       "summary": "How a branch-free loop and byte-space arithmetic let GitHub case-fold every byte of code search at >45 GiB/s on a single core. The post Don’t stop early: Case-folding source code at memory speed appeared first on The GitHub Blog.",
       "published": "2026-07-31T16:00:00Z"
-    },
-    {
-      "id": "173cf5d592eaec5e2b033511d6297d8e7e257d9e",
-      "title": "Stacked sessions and pull requests in the GitHub Copilot app",
-      "link": "https://github.blog/ai-and-ml/github-copilot/stacked-sessions-and-pull-requests-in-the-github-copilot-app/",
-      "source": "GitHub Blog",
-      "summary": "Learn how I modernized an old codebase of mine using stacked sessions and pull requests in the GitHub Copilot app. The post Stacked sessions and pull requests in the GitHub Copilot app appeared first on The GitHub Blog.",
-      "published": "2026-07-30T17:30:24Z",
-      "image": "https://github.blog/wp-content/uploads/2026/07/608818417-096042e4-9ace-4575-877d-a18926371bc2.png?resize=488%2C297"
-    },
-    {
-      "id": "85204338426288794c4064a6ec9471c39d4118b1",
-      "title": "Tame Dependabot: Group your updates, slow the cadence, keep security fast",
-      "link": "https://github.blog/security/supply-chain-security/tame-dependabot-group-your-updates-slow-the-cadence-keep-security-fast/",
-      "source": "GitHub Blog",
-      "summary": "Dependabot keeps your dependencies current, but its defaults can flood your repository with pull requests. Here's how grouping updates, slowing the cadence, and keeping security fixes fast cut the noise on a Microsoft open source project. The post Tame Dependabot: Group your updates, slow the...",
-      "published": "2026-07-29T16:00:00Z"
-    },
-    {
-      "id": "a057e8524089ba77db21a1f72b69e96841e39696",
-      "title": "Disrupting supply chain attacks on npm and GitHub Actions",
-      "link": "https://github.blog/security/supply-chain-security/disrupting-supply-chain-attacks-on-npm-and-github-actions/",
-      "source": "GitHub Blog",
-      "summary": "Explore the changes we've shipped across npm and GitHub Actions over the past few months to disrupt supply chain attack techniques and limit their impact. The post Disrupting supply chain attacks on npm and GitHub Actions appeared first on The GitHub Blog.",
-      "published": "2026-07-28T16:00:00Z"
     },
     {
       "id": "7ae1dda67f7f810e6d77f7a3e7778ae9abd39902",
