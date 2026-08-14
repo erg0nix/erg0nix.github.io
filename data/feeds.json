@@ -1,6 +1,63 @@
 {
-  "generated_at": "2026-08-13T07:38:36.732594Z",
+  "generated_at": "2026-08-14T07:36:27.829278Z",
   "items": [
+    {
+      "id": "916d8b2ce1cc91d0e59a44ceafa8b6b277d1a3ba",
+      "title": "– Vi får mer av alt, men ingenting blir bedre",
+      "link": "https://www.kode24.no/artikkel/vi-far-mer-av-alt-men-ingenting-blir-bedre/269632",
+      "source": "Kode24",
+      "summary": "– Den KI-drevne drittifiseringen av alt rundt oss fortsetter i svimlende fart, skriver Ole Petter, som etterlyser faktiske gevinster.",
+      "published": "2026-08-14T03:00:00Z"
+    },
+    {
+      "id": "9831afcaad6cd3eab87682e35843d46ce4fb82b1",
+      "title": "Your guide to GitHub Universe 2026 is here: The schedule just launched!",
+      "link": "https://github.blog/news-insights/company-news/your-guide-to-github-universe-2026-is-here-the-schedule-just-launched/",
+      "source": "GitHub Blog",
+      "summary": "The GitHub Universe session catalog is live. Explore interactive workshops, community talks, demos, and panels. Plus, register before August 19 to save $300. The post Your guide to GitHub Universe 2026 is here: The schedule just launched! appeared first on The GitHub Blog.",
+      "published": "2026-08-13T19:00:00Z"
+    },
+    {
+      "id": "e718212bc83ece853ce6a019473335422cce112f",
+      "title": "What 50 open source projects taught us about security in the AI era",
+      "link": "https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/",
+      "source": "GitHub Blog",
+      "summary": "See how the open source projects in Session 4 of the GitHub Secure Open Source Fund combined AI-assisted workflows, maintainer expertise, GitHub security tools, expert guidance, and funding to improve project security. The post What 50 open source projects taught us about security in the AI era...",
+      "published": "2026-08-13T16:00:00Z",
+      "image": "https://github.blog/wp-content/uploads/2026/08/openclaw.png?resize=1920%2C1080"
+    },
+    {
+      "id": "ab0ecff50125df3e190698a2d7c72697ed7177fd",
+      "title": "Sleit med nedetid, fant 16 år gammel SQLite-feil",
+      "link": "https://www.kode24.no/artikkel/sleit-med-nedetid-fant-16-ar-gammel-sqlite-feil/269461",
+      "source": "Kode24",
+      "summary": "Seks måneders graving tok det selskapet Tailscale å finne feilen i SQLite. Slik gjorde de det.",
+      "published": "2026-08-13T12:27:58Z"
+    },
+    {
+      "id": "3c2c7aa19d611b0180563bdb7a018ecdea4fe73b",
+      "title": "DNB strammer inn hjemme­kontor",
+      "link": "https://www.kode24.no/artikkel/dnb-strammer-inn-hjemmekontor/269584",
+      "source": "Kode24",
+      "summary": "Nå er utgangspunktet at alle ansatte jobber på kontoret, hver dag, hele uka.",
+      "published": "2026-08-13T10:42:28Z"
+    },
+    {
+      "id": "f84cc9af92abba2b421f8816d36b6285cbda85c9",
+      "title": "EU gir tommel opp for norsk 15-årsgrense i sosiale medier",
+      "link": "https://www.kode24.no/artikkel/eu-gir-tommel-opp-for-norsk-15-arsgrense-i-sosiale-medier/269567",
+      "source": "Kode24",
+      "summary": "Så lenge loven ikke legger plikter på tilbydere av sosiale medier.",
+      "published": "2026-08-13T09:32:29Z"
+    },
+    {
+      "id": "1bc1aba6fd7845918347db06f1dd397b555cf7ce",
+      "title": "Norske Jaws Deploy vil ta jafs av Octopus Deploy",
+      "link": "https://www.kode24.no/artikkel/norske-jaws-deploy-vil-ta-jafs-av-octopus-deploy/269530",
+      "source": "Kode24",
+      "summary": "– På et tidspunkt spurte vi oss selv hvorfor vi skulle fortsette å betale stadig mer for et produkt som samtidig hadde blitt større og mer komplisert enn det vi faktisk trengte, forteller gründeren.",
+      "published": "2026-08-13T07:56:12Z"
+    },
     {
       "id": "613f376d474e6d44ef0a8141a2784d4e8b6d5a46",
       "title": "Fagene med høyest og lavest lønn: – Bransje under trykk",
@@ -164,46 +221,6 @@
       "published": "2026-08-10T13:55:21Z"
     },
     {
-      "id": "eaf9e4bc1812624d7ff9964596ed1d7b955c19f9",
-      "title": "Fagforbundet vil ha nasjonal skylagring etter kommune-angrep",
-      "link": "https://www.kode24.no/artikkel/fagforbundet-vil-ha-nasjonal-skylagring-etter-kommune-angrep/269260",
-      "source": "Kode24",
-      "summary": "Tusenvis av innbyggere er rammet av dataangrepet mot Lørenskog kommune, der blant annet pasientjournaler ble lekket. Fagforbundet ber om nasjonal skylagring.",
-      "published": "2026-08-10T12:46:00Z"
-    },
-    {
-      "id": "c82a93884f1e0627b14cd4607e2f5c21b148c25a",
-      "title": "Lanserer nye, norske språkmodeller",
-      "link": "https://www.kode24.no/artikkel/lanserer-nye-norske-sprakmodeller/269224",
-      "source": "Kode24",
-      "summary": "Nå er de første språkmodellene trent på opphavsrettsbeskyttet tekst fra norske aviser lansert, på nynorsk og bokmål. – Viktig verktøy for å utvikle og ta i bruk kunstig intelligens på norsk, sier digitaliseringsministeren.",
-      "published": "2026-08-10T10:56:13Z"
-    },
-    {
-      "id": "3b1f7bb5b34142a5c386bc97ee53f0705a3a7835",
-      "title": "Rekordinteresse for TENK: Nær 1000 jenter deltok",
-      "link": "https://www.kode24.no/artikkel/rekordinteresse-for-tenk-naer-1000-jenter-deltok/269203",
-      "source": "Kode24",
-      "summary": "Det startet som et initiativ av Isabell Ringnes i 2017, og har utviklet seg til et landsdekkende arrangement. Nærmere 1000 jenter i alderen 13–19 år deltok på årets TENK Tech Camp.",
-      "published": "2026-08-10T09:41:57Z"
-    },
-    {
-      "id": "63598de3623ff3cae648c17e15cd69736555f81d",
-      "title": "Få KI til å velge tilfeldige tall med scripts og skills",
-      "link": "https://www.kode24.no/artikkel/fa-ki-til-a-velge-tilfeldige-tall-med-scripts-og-skills/268871",
-      "source": "Kode24",
-      "summary": "Da Tomas Hensrud Gulla lot språkmodeller velge tilfeldige tall, ble det alt annet enn tilfeldig. Heldigvis har han en løsning du kan bruke til mye.",
-      "published": "2026-08-10T06:00:00Z"
-    },
-    {
-      "id": "e1408653f476115fb961babd32721bb71df64b21",
-      "title": "Bachelor eller master i 2026: Så mye høyere er lønna",
-      "link": "https://www.kode24.no/artikkel/bachelor-eller-master-i-2026-sa-mye-hoyere-er-lonna/269143",
-      "source": "Kode24",
-      "summary": "Lønnsforskjellen mellom norske utviklere med bachelor- og master-grad er høyere enn du kanskje tror.",
-      "published": "2026-08-10T03:00:00Z"
-    },
-    {
       "id": "22dbed91411be391f1ab0082c9b57699e81d4e3d",
       "title": "A guide to slash commands in the GitHub Copilot app",
       "link": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app/",
@@ -226,23 +243,6 @@
       "source": "GitHub Blog",
       "summary": "Learn how to build tools to simplify how you work—without writing a single line of code. The post How the GitHub legal team used Copilot CLI to streamline their workflows appeared first on The GitHub Blog.",
       "published": "2026-08-04T19:02:34Z"
-    },
-    {
-      "id": "43b984c42763c8874691b599df25f8762f5031d0",
-      "title": "Turn one giant AI-generated pull request to a reviewable stack",
-      "link": "https://github.blog/engineering/turn-one-giant-ai-generated-pull-request-to-a-reviewable-stack/",
-      "source": "GitHub Blog",
-      "summary": "Instead of one huge, un-reviewable pull request, teach coding agents to decompose work into a clean, ordered stack with GitHub stacked pull requests. The post Turn one giant AI-generated pull request to a reviewable stack appeared first on The GitHub Blog.",
-      "published": "2026-08-04T16:47:18Z",
-      "image": "https://github.blog/wp-content/uploads/2026/08/pr-size-counter.gif?resize=1024%2C260"
-    },
-    {
-      "id": "2af39012e41f6d74012c22183ae2ae5114900a2f",
-      "title": "Don’t stop early: Case-folding source code at memory speed",
-      "link": "https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/",
-      "source": "GitHub Blog",
-      "summary": "How a branch-free loop and byte-space arithmetic let GitHub case-fold every byte of code search at >45 GiB/s on a single core. The post Don’t stop early: Case-folding source code at memory speed appeared first on The GitHub Blog.",
-      "published": "2026-07-31T16:00:00Z"
     },
     {
       "id": "7ae1dda67f7f810e6d77f7a3e7778ae9abd39902",
