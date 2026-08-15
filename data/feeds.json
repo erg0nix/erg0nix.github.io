@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-08-14T07:36:27.829278Z",
+  "generated_at": "2026-08-15T06:42:00.935595Z",
   "items": [
+    {
+      "id": "605d809e9e78d2aefbc0a1a8d7f9924c3fb910e3",
+      "title": "How to bring your software delivery workflow into GitHub with agent apps",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/",
+      "source": "GitHub Blog",
+      "summary": "See how four GitHub agent apps can help you scope, secure, roll out, and ship a feature across the SDLC–all without leaving GitHub. The post How to bring your software delivery workflow into GitHub with agent apps appeared first on The GitHub Blog.",
+      "published": "2026-08-14T16:00:00Z"
+    },
+    {
+      "id": "b7f28db0bb647548b4610950331add038d809a03",
+      "title": "Sats får kjeft for å kreve bilde av kundene",
+      "link": "https://www.kode24.no/artikkel/sats-far-kjeft-for-a-kreve-bilde-av-kundene/269717",
+      "source": "Kode24",
+      "summary": "– Flere klagere oppgir at de anser behandlingen som obligatorisk, eller at de er usikre på hva protestordningen innebærer, melder Datatilsynet.",
+      "published": "2026-08-14T10:45:41Z"
+    },
+    {
+      "id": "6a4ff961da2fda8882f8ae549f6031d938899f66",
+      "title": "Ta Sommer­quizen 2026!",
+      "link": "https://www.kode24.no/artikkel/ta-sommerquizen-2026/268411",
+      "source": "Kode24",
+      "summary": "Har du fått med deg disse snakkisene i sommer? Ta kode24s quiz og vinn premie!",
+      "published": "2026-08-14T10:13:42Z"
+    },
+    {
+      "id": "65656e33b27af5ef6ebad97458ffbb69d5b6dc02",
+      "title": "Fjerna KI-plakater fra Fiskebryggen i Bergen",
+      "link": "https://www.kode24.no/artikkel/fjerna-ki-plakater-fra-fiskebryggen-i-bergen/269655",
+      "source": "Kode24",
+      "summary": "Forsker på «KI-søppel» er bekymret for byens omdømme. Nå er plakatene som møtte all verdens turister tatt ned.",
+      "published": "2026-08-14T07:38:24Z"
+    },
+    {
+      "id": "2f931b8368ed464712f8738a821b348f98d43e27",
+      "title": "Norske skoler advarer mot å kjøpe Macbook Neo",
+      "link": "https://www.kode24.no/artikkel/norske-skoler-advarer-mot-a-kjope-macbook-neo/269676",
+      "source": "Kode24",
+      "summary": "Macbook Neo er ikke kraftig nok for mange studenter og elever, mener fylkeskommunen i Akershus, Østfold og Buskerud.",
+      "published": "2026-08-14T07:37:36Z"
+    },
+    {
+      "id": "bfdffff211abd9dc8d348752a0155676ff292c30",
+      "title": "Den farligste agent­feilen ser ut som en vellykket kjøring",
+      "link": "https://www.kode24.no/artikkel/den-farligste-agentfeilen-ser-ut-som-en-vellykket-kjoring/269558",
+      "source": "Kode24",
+      "summary": "Håvard Bartnes advarer mot fellene som gjør det vanskelig å være «human in the loop».",
+      "published": "2026-08-14T07:06:26Z"
+    },
     {
       "id": "916d8b2ce1cc91d0e59a44ceafa8b6b277d1a3ba",
       "title": "– Vi får mer av alt, men ingenting blir bedre",
@@ -172,38 +220,6 @@
       "published": "2026-08-11T10:51:38Z"
     },
     {
-      "id": "2f3fa6306eb13e9a48b176c79374fee06473eee0",
-      "title": "Unge føler seg mindre verdsatt med KI",
-      "link": "https://www.kode24.no/artikkel/unge-foler-seg-mindre-verdsatt-med-ki/269298",
-      "source": "Kode24",
-      "summary": "Arbeidslivsbarometeret viser at KI tar over stadig flere oppgaver, og at unge føler på svakere mestring.",
-      "published": "2026-08-11T07:36:57Z"
-    },
-    {
-      "id": "365b25742557e39d21e8ce71e4da2d33232fc812",
-      "title": "Forsking: Norske språkmodeller er mer imøte­kommende",
-      "link": "https://www.kode24.no/artikkel/forsking-norske-sprakmodeller-er-mer-imotekommende/269246",
-      "source": "Kode24",
-      "summary": "Norske modeller er flinkere på norsk, men tilpasningen har en pris, konkluderer Simula etter å ha testet dem.",
-      "published": "2026-08-11T07:00:00Z"
-    },
-    {
-      "id": "f85ad8480851e002b93bd71e53859db81bdeb35a",
-      "title": "Frykter at algoritmer bidrar til skillet mellom norske jenter og gutter",
-      "link": "https://www.kode24.no/artikkel/frykter-at-algoritmer-bidrar-til-skillet-mellom-norske-jenter-og-gutter/269303",
-      "source": "Kode24",
-      "summary": "– Kjønnsforskjellene er gjennomgående, melder Medietilsynet etter fersk rapport om unges mediebruk.",
-      "published": "2026-08-11T06:39:10Z"
-    },
-    {
-      "id": "c67e2e0b3fbeba838c77988c362045ea00e4e50b",
-      "title": "Mener folk bør være mer bekymret for smartdingsene sine",
-      "link": "https://www.kode24.no/artikkel/mener-folk-bor-vaere-mer-bekymret-for-smartdingsene-sine/268664",
-      "source": "Kode24",
-      "summary": "Folk er overraskende lite kritisk til å slippe teknologiselskaper over egen terskel, mener OsloMet-forsker Helene Fiane Teigen. Nå har hun skrevet doktorgrad, inspirert av samboerens dings-samling.",
-      "published": "2026-08-11T03:00:00Z"
-    },
-    {
       "id": "1cd9faee1a346b2bba7bc6395321ced89b01fba5",
       "title": "Using the GitHub Copilot SDK for Java",
       "link": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java/",
@@ -211,14 +227,6 @@
       "summary": "Enterprise Java developers have a new superpower—drive GitHub Copilot from idiomatic Java code with annotations, virtual threads, and more. The post Using the GitHub Copilot SDK for Java appeared first on The GitHub Blog.",
       "published": "2026-08-10T19:30:00Z",
       "image": "https://github.blog/wp-content/uploads/2026/08/figure-01-app-flow-diagram.png?resize=1024%2C173"
-    },
-    {
-      "id": "473a099c4e74f33e85da50022bfa88cff5f2d3c1",
-      "title": "– Du er ikke klar for KI",
-      "link": "https://www.kode24.no/artikkel/du-er-ikke-klar-for-ki/269253",
-      "source": "Kode24",
-      "summary": "Arendalsgata i Oslo har våknet opp til liv denne uken. Alt fra pubquiz til KI-fordrag er hovedstadens svar på Arendalsuka på Sørlandet.",
-      "published": "2026-08-10T13:55:21Z"
     },
     {
       "id": "22dbed91411be391f1ab0082c9b57699e81d4e3d",
@@ -235,14 +243,6 @@
       "source": "GitHub Blog",
       "summary": "GitHub malware advisories no longer stop at npm. Here's how we wired OpenSSF's malicious-packages data into the Advisory Database, and why we built the pipeline paranoid. The post How we took malware advisories beyond npm appeared first on The GitHub Blog.",
       "published": "2026-08-06T16:51:12Z"
-    },
-    {
-      "id": "00b3e9274b23040c6b1f638fae6745fe0bbacc33",
-      "title": "How the GitHub legal team used Copilot CLI to streamline their workflows",
-      "link": "https://github.blog/ai-and-ml/github-copilot/how-the-github-legal-team-used-copilot-cli-to-streamline-their-workflows/",
-      "source": "GitHub Blog",
-      "summary": "Learn how to build tools to simplify how you work—without writing a single line of code. The post How the GitHub legal team used Copilot CLI to streamline their workflows appeared first on The GitHub Blog.",
-      "published": "2026-08-04T19:02:34Z"
     },
     {
       "id": "7ae1dda67f7f810e6d77f7a3e7778ae9abd39902",
