@@ -1,12 +1,69 @@
 {
-  "generated_at": "2026-08-17T07:01:26.649415Z",
+  "generated_at": "2026-08-18T06:48:51.303014Z",
   "items": [
+    {
+      "id": "991446cc868c18c82c12dcf4da2d44f26e664d31",
+      "title": "Lokker utviklere med hjemmekontor",
+      "link": "https://www.kode24.no/artikkel/lokker-utviklere-med-hjemmekontor/269731",
+      "source": "Kode24",
+      "summary": "SkyeTech søker utviklere som vil ha «frihet, hjemmekontor og høy innovasjonstakt» etter DNB-innstrammingen. Fleksibilitet er fortsatt viktig, sier rekruttere.",
+      "published": "2026-08-18T03:00:00Z"
+    },
+    {
+      "id": "59590c5eac8768a1e9f876add821e252d80242dd",
+      "title": "How canvases make agentic workflows visible, steerable, and cost-efficient",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/",
+      "source": "GitHub Blog",
+      "summary": "Chat is great for intent, but agent work gets lost in the scroll. Here is how I use canvases with my agentic workflows—and why your workflow also deserves a canvas. The post How canvases make agentic workflows visible, steerable, and cost-efficient appeared first on The GitHub Blog.",
+      "published": "2026-08-17T16:00:00Z",
+      "image": "https://github.blog/wp-content/uploads/2026/08/623371402-ddb0772d-e566-4895-b030-6be9b0fe304c.png?resize=1024%2C312"
+    },
+    {
+      "id": "3d1de324a36525a764b269f35fcecf5cb21c3da5",
+      "title": "Ønsker bruk av KI-detektorer på studier",
+      "link": "https://www.kode24.no/artikkel/onsker-bruk-av-ki-detektorer-pa-studier/269875",
+      "source": "Kode24",
+      "summary": "Professor Jill Walker Rettberg ved Universitetet i Bergen (UiB) mener man bør bruke KI-detektorer på studenttekster.",
+      "published": "2026-08-17T13:00:00Z"
+    },
+    {
+      "id": "fe43893d19c943a7e5100bb1c69c9dc03709c7ef",
+      "title": "Derfor lager de app uten konto, inn­logging og sporing",
+      "link": "https://www.kode24.no/artikkel/derfor-lager-de-app-uten-konto-innlogging-og-sporing/269657",
+      "source": "Kode24",
+      "summary": "– Prisen for å ikke samle inn persondata er reell, forteller Even Hauger, som ikke har tjent en krone. Likevel nekter StreamGate å spore brukerne sine.",
+      "published": "2026-08-17T11:30:00Z"
+    },
+    {
+      "id": "df0ddf2367bf3020ebe724c67f51cd27c86d2785",
+      "title": "Måling: KI-boter tar over internettet",
+      "link": "https://www.kode24.no/artikkel/maling-ki-boter-tar-over-internettet/269844",
+      "source": "Kode24",
+      "summary": "Bot-er og KI-agenter står for mer enn halvparten av all internett-trafikk i verden, ifølge Cloudflare-måling. – En KI-agent vil fort kunne lese tusenvis av websider, påpeker professor.",
+      "published": "2026-08-17T09:27:21Z"
+    },
+    {
+      "id": "8f6b314db4ccd328f9435b89ec55f13b47f0092a",
+      "title": "Dømt for å ha brukt KI til å lage overgrepsbilder",
+      "link": "https://www.kode24.no/artikkel/domt-for-a-ha-brukt-ki-til-a-lage-overgrepsbilder/269830",
+      "source": "Kode24",
+      "summary": "En mann i 30-årene er dømt til fengsel etter at han brukte kunstig intelligensteknologi til å lage bilder av seksuelle overgrep mot barn. Mannen har i flere år jobbet i IT-bransjen.",
+      "published": "2026-08-17T08:42:50Z"
+    },
+    {
+      "id": "f41480e3ad2e53e7394913a0632d224e399e57b6",
+      "title": "Studentdata kan være på avveie etter hackerangrep",
+      "link": "https://www.kode24.no/artikkel/studentdata-kan-vaere-pa-avveie-etter-hackerangrep/269815",
+      "source": "Kode24",
+      "summary": "Studentsamskipnaden vet ikke hvem som angrep dem, og legger inn sperrer for å hindre at dataangrep skjer igjen.",
+      "published": "2026-08-17T06:26:43Z"
+    },
     {
       "id": "7e17aa151ef1342796fe42685b791bd3e4ae8a3c",
       "title": "Sier opp fast UX-jobb for å bli komiker",
       "link": "https://www.kode24.no/artikkel/sier-opp-fast-ux-jobb-for-a-bli-komiker/269536",
       "source": "Kode24",
-      "summary": "Taume Dery (32) har fått nok av skjerm, KI og coorporate-livet. – Det er kanskje bare nå jeg har sjansen til å gjøre dumme valg.",
+      "summary": "Taume Dery (32) har fått nok av skjerm, KI og corporate-livet. – Det er kanskje bare nå jeg har sjansen til å gjøre dumme valg.",
       "published": "2026-08-17T03:00:00Z"
     },
     {
@@ -132,10 +189,10 @@
     },
     {
       "id": "e630d71c740baa1a9371c085c588e041560a3fa3",
-      "title": "Write your first prompt with the GitHub Copilot app",
+      "title": "GitHub Copilot app for Beginners: Write your first prompt",
       "link": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app/",
       "source": "GitHub Blog",
-      "summary": "Learn how to write your first prompt in the GitHub Copilot app, choose the right context and model, and start your first task with confidence. The post Write your first prompt with the GitHub Copilot app appeared first on The GitHub Blog.",
+      "summary": "Learn how to write your first prompt in the GitHub Copilot app, choose the right context and model, and start your first task with confidence. The post GitHub Copilot app for Beginners: Write your first prompt appeared first on The GitHub Blog.",
       "published": "2026-08-12T19:00:00Z"
     },
     {
@@ -163,46 +220,6 @@
       "published": "2026-08-12T13:35:59Z"
     },
     {
-      "id": "57021f592e89d2c9e9a5643d95de744470027bbf",
-      "title": "Aplia-gründer til Coretrek, hvor KI skal utfordre hyllevare",
-      "link": "https://www.kode24.no/artikkel/aplia-gruender-til-coretrek-hvor-ki-skal-utfordre-hyllevare/269373",
-      "source": "Kode24",
-      "summary": "– Mange bedrifter tvinges i dag til å endre sine egne arbeidsprosesser for å passe inn i et rigid standardsystem, sier Benjamin Selmer, som vil gjøre det motsatte.",
-      "published": "2026-08-12T12:55:00Z"
-    },
-    {
-      "id": "3a3686bb9f4977f76160e3103dda2d9abc431013",
-      "title": "Advarer mot KI som vet at den testes",
-      "link": "https://www.kode24.no/artikkel/advarer-mot-ki-som-vet-at-den-testes/269419",
-      "source": "Kode24",
-      "summary": "– KI-modeller har rømt fra testmiljøene i sommer. Etter min mening er ikke problemet bare lekk isolasjon, men at modellene kan gjennomskue selve testen, melder Jasvinder Sadana.",
-      "published": "2026-08-12T11:00:44Z"
-    },
-    {
-      "id": "27d2e96234fc5b1dbdf115aa2edae50e10140206",
-      "title": "Spotify straffer KI-musikk",
-      "link": "https://www.kode24.no/artikkel/spotify-straffer-ki-musikk/269437",
-      "source": "Kode24",
-      "summary": "Snart merker Spotify profilene til KI-artister, og stenger musikken deres ute fra anbefalinger.",
-      "published": "2026-08-12T08:29:45Z"
-    },
-    {
-      "id": "857dca5f521356ef3820fb491ae80cf32b6b3536",
-      "title": "Oljefondet sårbart for KI-boble",
-      "link": "https://www.kode24.no/artikkel/oljefondet-sarbart-for-ki-boble/269397",
-      "source": "Kode24",
-      "summary": "– Effekten vil være veldig stor, fordi så mye av fondet er linket opp i de aksjene, sier oljefondsjef Nicolai Tangen.",
-      "published": "2026-08-12T06:26:26Z"
-    },
-    {
-      "id": "846b27f7259c6132b44e6e8cc79e6f29dc199df6",
-      "title": "Slo 6.000 andre søkere: – Konkurransen er beinhard",
-      "link": "https://www.kode24.no/artikkel/slo-6000-andre-sokere-konkurransen-er-beinhard/269328",
-      "source": "Kode24",
-      "summary": "Studentene som fikk jobbe i Oljefondet i sommer forteller om et hardt arbeidsmarked for unge utviklere.",
-      "published": "2026-08-12T03:00:00Z"
-    },
-    {
       "id": "39deb504caedeca4d10d3f6dd4759ff92957b526",
       "title": "From coder to orchestrator: How agents shift the role of a developer",
       "link": "https://github.blog/developer-skills/career-growth/from-coder-to-orchestrator-how-agents-shift-the-role-of-a-developer/",
@@ -210,14 +227,6 @@
       "summary": "Developers are owning more of the delivery system around code, not just code itself. Join us during GitHub Universe to meet other devs, learn something new, and explore what's next. The post From coder to orchestrator: How agents shift the role of a developer appeared first on The GitHub Blog.",
       "published": "2026-08-11T18:38:17Z",
       "image": "https://github.blog/wp-content/uploads/2026/08/Screenshot-2026-08-11-at-10.43.51-AM.png?resize=281%2C300"
-    },
-    {
-      "id": "45be18b7a462eda364bc0cff6cc6455592ab317f",
-      "title": "Ut mot Zuckerbergs KI-manifest: – Forstår ikke hvordan man lever",
-      "link": "https://www.kode24.no/artikkel/ut-mot-zuckerbergs-ki-manifest-forstar-ikke-hvordan-man-lever/269348",
-      "source": "Kode24",
-      "summary": "Meta-sjef Mark Zuckerberg ønsker at alle skal få superintelligente agenter. – En KI-framtid med strømlinjeformede og helt tomme relasjoner, mener kritikerne.",
-      "published": "2026-08-11T13:10:06Z"
     },
     {
       "id": "1cd9faee1a346b2bba7bc6395321ced89b01fba5",
@@ -235,14 +244,6 @@
       "source": "GitHub Blog",
       "summary": "Go beyond chat in the GitHub Copilot app with these slash commands. They'll help you plan, collaborate, automate, and customize your dev workflow. The post A guide to slash commands in the GitHub Copilot app appeared first on The GitHub Blog.",
       "published": "2026-08-06T19:49:34Z"
-    },
-    {
-      "id": "89bcbe6bc2be231f2ca05aa0b20aefece7b5a4d8",
-      "title": "How we took malware advisories beyond npm",
-      "link": "https://github.blog/security/supply-chain-security/how-we-took-malware-advisories-beyond-npm/",
-      "source": "GitHub Blog",
-      "summary": "GitHub malware advisories no longer stop at npm. Here's how we wired OpenSSF's malicious-packages data into the Advisory Database, and why we built the pipeline paranoid. The post How we took malware advisories beyond npm appeared first on The GitHub Blog.",
-      "published": "2026-08-06T16:51:12Z"
     },
     {
       "id": "7ae1dda67f7f810e6d77f7a3e7778ae9abd39902",
