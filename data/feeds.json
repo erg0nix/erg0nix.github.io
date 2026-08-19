@@ -1,12 +1,52 @@
 {
-  "generated_at": "2026-08-18T06:48:51.303014Z",
+  "generated_at": "2026-08-19T06:49:22.669413Z",
   "items": [
+    {
+      "id": "9eab41a003930f39804ee5a7998665ffca9a0ba2",
+      "title": "Koding er best utan KI",
+      "link": "https://www.kode24.no/artikkel/koding-er-best-utan-ki/269978",
+      "source": "Kode24",
+      "summary": "– Bra for naturen, bra for arbeidaren og bra for kunden, skriv Nils Norman Haukås.",
+      "published": "2026-08-19T03:00:00Z"
+    },
+    {
+      "id": "b6d667c55f501084fa059a046d75d187d1b20abc",
+      "title": "Kjøpte justisdep.no, ba om 75.000,- for å gi det fra seg",
+      "link": "https://www.kode24.no/artikkel/kjopte-justisdepno-ba-om-75000-for-a-gi-det-fra-seg/269991",
+      "source": "Kode24",
+      "summary": "Justisdepartementet reagerte, og nå er domenet slettet.",
+      "published": "2026-08-18T12:19:35Z"
+    },
+    {
+      "id": "47382e0a6f5dc34904fa34908a5d0ffd1f0c6c0d",
+      "title": "Klager inn Tripletex: – Låser inn kundene",
+      "link": "https://www.kode24.no/artikkel/klager-inn-tripletex-laser-inn-kundene/269564",
+      "source": "Kode24",
+      "summary": "– Tripletex låser kundene inn i systemet og tjener på å gjøre eksport vanskelig, mener Greg Taube, som forfekter åpne data.",
+      "published": "2026-08-18T08:53:39Z"
+    },
+    {
+      "id": "84eb5240550e8f0d76cc69ee47b808b1ced99350",
+      "title": "Forsvaret med egen data-grunnlov",
+      "link": "https://www.kode24.no/artikkel/forsvaret-med-egen-data-grunnlov/269957",
+      "source": "Kode24",
+      "summary": "Egne data-regler skal gjøre det lettere for Forsvaret å bytte leverandører i framtida. Offentlig sektor bør følge etter, mener statsråd.",
+      "published": "2026-08-18T07:50:51Z"
+    },
+    {
+      "id": "c4312227bc50f93708b63ec9f44f5bd3e56699ce",
+      "title": "Foreldres skjermtid påvirker barns språk",
+      "link": "https://www.kode24.no/artikkel/foreldres-skjermtid-pavirker-barns-sprak/269944",
+      "source": "Kode24",
+      "summary": "Foreldrens skjermbruk kan påvirke mer enn barnets egen skjermtid, hevder forskere.",
+      "published": "2026-08-18T06:20:00Z"
+    },
     {
       "id": "991446cc868c18c82c12dcf4da2d44f26e664d31",
       "title": "Lokker utviklere med hjemmekontor",
       "link": "https://www.kode24.no/artikkel/lokker-utviklere-med-hjemmekontor/269731",
       "source": "Kode24",
-      "summary": "SkyeTech søker utviklere som vil ha «frihet, hjemmekontor og høy innovasjonstakt» etter DNB-innstrammingen. Fleksibilitet er fortsatt viktig, sier rekruttere.",
+      "summary": "SkyeTec søker utviklere som vil ha «frihet, hjemmekontor og høy innovasjonstakt» etter DNB-innstrammingen. Fleksibilitet er fortsatt viktig, sier rekruttere.",
       "published": "2026-08-18T03:00:00Z"
     },
     {
@@ -156,30 +196,6 @@
       "published": "2026-08-13T10:42:28Z"
     },
     {
-      "id": "f84cc9af92abba2b421f8816d36b6285cbda85c9",
-      "title": "EU gir tommel opp for norsk 15-årsgrense i sosiale medier",
-      "link": "https://www.kode24.no/artikkel/eu-gir-tommel-opp-for-norsk-15-arsgrense-i-sosiale-medier/269567",
-      "source": "Kode24",
-      "summary": "Så lenge loven ikke legger plikter på tilbydere av sosiale medier.",
-      "published": "2026-08-13T09:32:29Z"
-    },
-    {
-      "id": "1bc1aba6fd7845918347db06f1dd397b555cf7ce",
-      "title": "Norske Jaws Deploy vil ta jafs av Octopus Deploy",
-      "link": "https://www.kode24.no/artikkel/norske-jaws-deploy-vil-ta-jafs-av-octopus-deploy/269530",
-      "source": "Kode24",
-      "summary": "– På et tidspunkt spurte vi oss selv hvorfor vi skulle fortsette å betale stadig mer for et produkt som samtidig hadde blitt større og mer komplisert enn det vi faktisk trengte, forteller gründeren.",
-      "published": "2026-08-13T07:56:12Z"
-    },
-    {
-      "id": "613f376d474e6d44ef0a8141a2784d4e8b6d5a46",
-      "title": "Fagene med høyest og lavest lønn: – Bransje under trykk",
-      "link": "https://www.kode24.no/artikkel/fagene-med-hoyest-og-lavest-lonn-bransje-under-trykk/269473",
-      "source": "Kode24",
-      "summary": "Frontend, UX og design havner igjen på bunnen av lønnsstatistikken. – Det er arbeidsgivers marked, forteller UX-er Tone Nordbø.",
-      "published": "2026-08-13T03:00:00Z"
-    },
-    {
       "id": "c30f5722f60759d82e14f57d372f9add9adf7505",
       "title": "GitHub availability report: July 2026",
       "link": "https://github.blog/news-insights/company-news/github-availability-report-july-2026/",
@@ -202,22 +218,6 @@
       "source": "GitHub Blog",
       "summary": "AI contributors are already in your queue. AutoGPT maintainer Nicholas Tindle shares the repo instructions, gates, and boundaries that keep maintainers in control. The post Your contributors are AI-first now. Is your project? appeared first on The GitHub Blog.",
       "published": "2026-08-12T18:00:08Z"
-    },
-    {
-      "id": "233959ae565ac163f0d7e3f63b7356102ded4a5c",
-      "title": "Meta-briller forbys i rettsalen i England",
-      "link": "https://www.kode24.no/artikkel/meta-briller-forbys-i-rettsalen-i-england/269459",
-      "source": "Kode24",
-      "summary": "Metabriller er blitt forbudt i domstoler i England og Wales. Nå er det ikke lenger lov å gå inn i rettsbygninger med brillene – de vil bli konfiskert.",
-      "published": "2026-08-12T13:38:37Z"
-    },
-    {
-      "id": "3ec29714f5c7c5234a5c59faa12ed10beef24356",
-      "title": "Få jobber for utviklere på datasentre",
-      "link": "https://www.kode24.no/artikkel/fa-jobber-for-utviklere-pa-datasentre/269457",
-      "source": "Kode24",
-      "summary": "Hvem jobber egentlig på et datasenter? Ikke utviklere, i alle fall, ifølge fersk forsking. – Det er ikke nødvendigvis bedre for norsk IT-næring om et datasenter ligger i Norge.",
-      "published": "2026-08-12T13:35:59Z"
     },
     {
       "id": "39deb504caedeca4d10d3f6dd4759ff92957b526",
