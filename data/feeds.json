@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-08-19T06:49:22.669413Z",
+  "generated_at": "2026-08-20T06:51:16.536267Z",
   "items": [
+    {
+      "id": "a44e13d0f93db83efa2c0fd09ae4b2f2d02523a2",
+      "title": "Hjemmekontor-debatten: – Er det de ansatte som har spurt om dette?",
+      "link": "https://www.kode24.no/artikkel/hjemmekontor-debatten-er-det-de-ansatte-som-har-spurt-om-dette/270128",
+      "source": "Kode24",
+      "summary": "– Min tanke, som leder, er at hjemmekontor best løses lokalt mellom leder og ansatt, mener Tekna-presidenten.",
+      "published": "2026-08-20T03:00:00Z"
+    },
+    {
+      "id": "8c066a472bd8adfd2cd011656133f0f1b730520d",
+      "title": "GitHub Copilot app for Beginners: Managing your work",
+      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/",
+      "source": "GitHub Blog",
+      "summary": "If you’re juggling multiple Copilot sessions, use the My work pane to track what's in flight, what's done, and what's next. The post GitHub Copilot app for Beginners: Managing your work appeared first on The GitHub Blog.",
+      "published": "2026-08-19T17:50:23Z"
+    },
+    {
+      "id": "732f54336a7e2c085a38f45f6a31f5e915afd0ec",
+      "title": "LaTeX og Zola: Kirill starter for seg selv og får velge stacken selv",
+      "link": "https://www.kode24.no/artikkel/latex-og-zola-kirill-starter-for-seg-selv-og-far-velge-stacken-selv/270031",
+      "source": "Kode24",
+      "summary": "Fedora, KDE, Nginx, LaTeX og Zola – her er stacken Kirill Miazine valgte da han endelig kunne velge helt selv.",
+      "published": "2026-08-19T11:33:18Z"
+    },
+    {
+      "id": "50045e1e4752ef4e43d69f84009c925f98886ccd",
+      "title": "Raser mot håndheving av SoMe-aldersgrense: – Logrer for EU",
+      "link": "https://www.kode24.no/artikkel/raser-mot-handheving-av-some-aldersgrense-logrer-for-eu/270108",
+      "source": "Kode24",
+      "summary": "– Hele denne saken er oppsiktsvekkende, sier stortingsrepresentant Maren Grøthe.",
+      "published": "2026-08-19T11:32:35Z"
+    },
+    {
+      "id": "651ec3182460f2376adef889ab17d7484bc46b29",
+      "title": "Morten (52) går til Twoday etter åtte år som frilanser",
+      "link": "https://www.kode24.no/artikkel/morten-52-gar-til-twoday-etter-atte-ar-som-frilanser/270061",
+      "source": "Kode24",
+      "summary": "– Jeg trivdes godt som frilanser og skulle egentlig bare se hva som fantes av muligheter der ute, forteller Morten Østbye.",
+      "published": "2026-08-19T08:01:54Z"
+    },
+    {
+      "id": "c7fcc4c83e195405d1da31870325add26c01bc01",
+      "title": "Nytt mega-søksmål mot Meta",
+      "link": "https://www.kode24.no/artikkel/nytt-mega-soksmal-mot-meta/270087",
+      "source": "Kode24",
+      "summary": "Amerikanske stater mener Facebook-eieren bidrar til en mental helse-krise for barn.",
+      "published": "2026-08-19T06:48:10Z"
+    },
     {
       "id": "9eab41a003930f39804ee5a7998665ffca9a0ba2",
       "title": "Koding er best utan KI",
@@ -8,6 +56,14 @@
       "source": "Kode24",
       "summary": "– Bra for naturen, bra for arbeidaren og bra for kunden, skriv Nils Norman Haukås.",
       "published": "2026-08-19T03:00:00Z"
+    },
+    {
+      "id": "631b5540cda67c2e2ccfa0923359d21a3ef42d89",
+      "title": "Go 1.27 is released",
+      "link": "https://go.dev/blog/go1.27",
+      "source": "Go Blog",
+      "summary": "Go 1.27 adds generic methods, encoding/json/v2 package, uuid package, faster memory allocation, goroutine leak profiles, and more.",
+      "published": "2026-08-19T00:00:00Z"
     },
     {
       "id": "b6d667c55f501084fa059a046d75d187d1b20abc",
@@ -139,30 +195,6 @@
       "published": "2026-08-14T07:38:24Z"
     },
     {
-      "id": "2f931b8368ed464712f8738a821b348f98d43e27",
-      "title": "Norske skoler advarer mot å kjøpe Macbook Neo",
-      "link": "https://www.kode24.no/artikkel/norske-skoler-advarer-mot-a-kjope-macbook-neo/269676",
-      "source": "Kode24",
-      "summary": "Macbook Neo er ikke kraftig nok for mange studenter og elever, mener fylkeskommunen i Akershus, Østfold og Buskerud.",
-      "published": "2026-08-14T07:37:36Z"
-    },
-    {
-      "id": "bfdffff211abd9dc8d348752a0155676ff292c30",
-      "title": "Den farligste agent­feilen ser ut som en vellykket kjøring",
-      "link": "https://www.kode24.no/artikkel/den-farligste-agentfeilen-ser-ut-som-en-vellykket-kjoring/269558",
-      "source": "Kode24",
-      "summary": "Håvard Bartnes advarer mot fellene som gjør det vanskelig å være «human in the loop».",
-      "published": "2026-08-14T07:06:26Z"
-    },
-    {
-      "id": "916d8b2ce1cc91d0e59a44ceafa8b6b277d1a3ba",
-      "title": "– Vi får mer av alt, men ingenting blir bedre",
-      "link": "https://www.kode24.no/artikkel/vi-far-mer-av-alt-men-ingenting-blir-bedre/269632",
-      "source": "Kode24",
-      "summary": "– Den KI-drevne drittifiseringen av alt rundt oss fortsetter i svimlende fart, skriver Ole Petter, som etterlyser faktiske gevinster.",
-      "published": "2026-08-14T03:00:00Z"
-    },
-    {
       "id": "9831afcaad6cd3eab87682e35843d46ce4fb82b1",
       "title": "Your guide to GitHub Universe 2026 is here: The schedule just launched!",
       "link": "https://github.blog/news-insights/company-news/your-guide-to-github-universe-2026-is-here-the-schedule-just-launched/",
@@ -178,22 +210,6 @@
       "summary": "See how the open source projects in Session 4 of the GitHub Secure Open Source Fund combined AI-assisted workflows, maintainer expertise, GitHub security tools, expert guidance, and funding to improve project security. The post What 50 open source projects taught us about security in the AI era...",
       "published": "2026-08-13T16:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2026/08/openclaw.png?resize=1920%2C1080"
-    },
-    {
-      "id": "ab0ecff50125df3e190698a2d7c72697ed7177fd",
-      "title": "Sleit med nedetid, fant 16 år gammel SQLite-feil",
-      "link": "https://www.kode24.no/artikkel/sleit-med-nedetid-fant-16-ar-gammel-sqlite-feil/269461",
-      "source": "Kode24",
-      "summary": "Seks måneders graving tok det selskapet Tailscale å finne feilen i SQLite. Slik gjorde de det.",
-      "published": "2026-08-13T12:27:58Z"
-    },
-    {
-      "id": "3c2c7aa19d611b0180563bdb7a018ecdea4fe73b",
-      "title": "DNB strammer inn hjemme­kontor",
-      "link": "https://www.kode24.no/artikkel/dnb-strammer-inn-hjemmekontor/269584",
-      "source": "Kode24",
-      "summary": "Nå er utgangspunktet at alle ansatte jobber på kontoret, hver dag, hele uka.",
-      "published": "2026-08-13T10:42:28Z"
     },
     {
       "id": "c30f5722f60759d82e14f57d372f9add9adf7505",
@@ -236,14 +252,6 @@
       "summary": "Enterprise Java developers have a new superpower—drive GitHub Copilot from idiomatic Java code with annotations, virtual threads, and more. The post Using the GitHub Copilot SDK for Java appeared first on The GitHub Blog.",
       "published": "2026-08-10T19:30:00Z",
       "image": "https://github.blog/wp-content/uploads/2026/08/figure-01-app-flow-diagram.png?resize=1024%2C173"
-    },
-    {
-      "id": "22dbed91411be391f1ab0082c9b57699e81d4e3d",
-      "title": "A guide to slash commands in the GitHub Copilot app",
-      "link": "https://github.blog/ai-and-ml/github-copilot/a-guide-to-slash-commands-in-the-github-copilot-app/",
-      "source": "GitHub Blog",
-      "summary": "Go beyond chat in the GitHub Copilot app with these slash commands. They'll help you plan, collaborate, automate, and customize your dev workflow. The post A guide to slash commands in the GitHub Copilot app appeared first on The GitHub Blog.",
-      "published": "2026-08-06T19:49:34Z"
     },
     {
       "id": "7ae1dda67f7f810e6d77f7a3e7778ae9abd39902",
@@ -321,15 +329,6 @@
       "summary": "Go 1.25 includes a new experimental garbage collector, Green Tea.",
       "published": "2025-10-29T00:00:00Z",
       "image": "https://go.dev/blog/greenteagc/marksweep-007.png"
-    },
-    {
-      "id": "57ecc16f936f3b31542341b521c5c27fb57352ab",
-      "title": "Flight Recorder in Go 1.25",
-      "link": "https://go.dev/blog/flight-recorder",
-      "source": "Go Blog",
-      "summary": "Go 1.25 introduces a new tool in the diagnostic toolbox, flight recording.",
-      "published": "2025-09-26T00:00:00Z",
-      "image": "https://go.dev/blog/flight-recorder/flight_recorder_1.png"
     }
   ]
 }
