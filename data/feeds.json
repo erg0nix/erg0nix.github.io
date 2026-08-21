@@ -1,6 +1,63 @@
 {
-  "generated_at": "2026-08-20T06:51:16.536267Z",
+  "generated_at": "2026-08-21T06:52:07.391602Z",
   "items": [
+    {
+      "id": "673897b0709b5fe7ce145a083c2f8f33d92bde4e",
+      "title": "– KI har blitt ledelsens nye syndebukk",
+      "link": "https://www.kode24.no/artikkel/ki-har-blitt-ledelsens-nye-syndebukk/270222",
+      "source": "Kode24",
+      "summary": "– Fra å rettferdiggjøre nedbemanninger, kan KI nå rettferdiggjøre alt fra digre omorganiseringer til kontormandater, skriver Ole Petter i ukas nyhetsbrev.",
+      "published": "2026-08-21T03:00:00Z"
+    },
+    {
+      "id": "dc7f9fd0bcd56298010962d8403a21ca001d253f",
+      "title": "The August 17 outage, and the work ahead",
+      "link": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
+      "source": "GitHub Blog",
+      "summary": "An update on the August 17 outage and the steps we're taking to improve reliability. The post The August 17 outage, and the work ahead appeared first on The GitHub Blog.",
+      "published": "2026-08-20T18:36:11Z",
+      "image": "https://github.blog/wp-content/uploads/2026/08/blog-post-aug-17-outage-1.png?resize=1024%2C576"
+    },
+    {
+      "id": "698ff1a1df59fa35baa1c7492145d3e0ca5fce29",
+      "title": "Frykter KI-skvip, men lar KI skrive artikler om KI",
+      "link": "https://www.kode24.no/artikkel/frykter-ki-skvip-men-lar-ki-skrive-artikler-om-ki/269973",
+      "source": "Kode24",
+      "summary": "– Når modellene blir enda bedre, og beskrivelsen av de ulike rollene blir enda skarpere, ser jeg ikke bort fra at aksepten øker, skriver Altom.ai-skaper Ole Haraldseth.",
+      "published": "2026-08-20T13:16:07Z"
+    },
+    {
+      "id": "a95c30ed1bd5ef3c7581ade79413632c7e4d0ae6",
+      "title": "Har ingen ambisjoner om å gjøre Norge digitalt selvforsynt",
+      "link": "https://www.kode24.no/artikkel/har-ingen-ambisjoner-om-a-gjore-norge-digitalt-selvforsynt/270173",
+      "source": "Kode24",
+      "summary": "SV og Rødt er kritisk til amerikansk IT-løsning på universiteter. Men regjeringen forsvarer innføringen.",
+      "published": "2026-08-20T09:17:20Z"
+    },
+    {
+      "id": "e7ac1299bab50601f32c7e95bb309fb6409971c5",
+      "title": "Rødt vil stoppe nye datasentre: – Kan ikke bli Europas minnepinne",
+      "link": "https://www.kode24.no/artikkel/rodt-vil-stoppe-nye-datasentre-kan-ikke-bli-europas-minnepinne/270192",
+      "source": "Kode24",
+      "summary": "Rødt inviterer til forlik om ny datasenterpolitikk.",
+      "published": "2026-08-20T07:17:50Z"
+    },
+    {
+      "id": "c5eb7e95676b83c9fddb2d6ed9d9d71a70d9afa6",
+      "title": "4 av 10 sjefer vil ha mindre hjemmekontor",
+      "link": "https://www.kode24.no/artikkel/4-av-10-sjefer-vil-ha-mindre-hjemmekontor/270179",
+      "source": "Kode24",
+      "summary": "– Bedriftsledere i NHO mener arbeidsplassen er viktig for å bygge en god bedriftskultur. Da er det viktig å møtes, sier arbeidslivsdirektør Nina Melsom i NHO.",
+      "published": "2026-08-20T07:10:38Z"
+    },
+    {
+      "id": "0f1d71a7a1753c7d2a9e57d4d5a910b4b5890667",
+      "title": "Slår sammen NOVA-selskapene til ett – viser til KI",
+      "link": "https://www.kode24.no/artikkel/slar-sammen-nova-selskapene-til-ett-viser-til-ki/270157",
+      "source": "Kode24",
+      "summary": "Over 500 ansatte samles under ett navn, og blant annet KI-behovet skal være én av driverne.",
+      "published": "2026-08-20T06:32:47Z"
+    },
     {
       "id": "a44e13d0f93db83efa2c0fd09ae4b2f2d02523a2",
       "title": "Hjemmekontor-debatten: – Er det de ansatte som har spurt om dette?",
@@ -139,60 +196,12 @@
       "published": "2026-08-17T09:27:21Z"
     },
     {
-      "id": "8f6b314db4ccd328f9435b89ec55f13b47f0092a",
-      "title": "Dømt for å ha brukt KI til å lage overgrepsbilder",
-      "link": "https://www.kode24.no/artikkel/domt-for-a-ha-brukt-ki-til-a-lage-overgrepsbilder/269830",
-      "source": "Kode24",
-      "summary": "En mann i 30-årene er dømt til fengsel etter at han brukte kunstig intelligensteknologi til å lage bilder av seksuelle overgrep mot barn. Mannen har i flere år jobbet i IT-bransjen.",
-      "published": "2026-08-17T08:42:50Z"
-    },
-    {
-      "id": "f41480e3ad2e53e7394913a0632d224e399e57b6",
-      "title": "Studentdata kan være på avveie etter hackerangrep",
-      "link": "https://www.kode24.no/artikkel/studentdata-kan-vaere-pa-avveie-etter-hackerangrep/269815",
-      "source": "Kode24",
-      "summary": "Studentsamskipnaden vet ikke hvem som angrep dem, og legger inn sperrer for å hindre at dataangrep skjer igjen.",
-      "published": "2026-08-17T06:26:43Z"
-    },
-    {
-      "id": "7e17aa151ef1342796fe42685b791bd3e4ae8a3c",
-      "title": "Sier opp fast UX-jobb for å bli komiker",
-      "link": "https://www.kode24.no/artikkel/sier-opp-fast-ux-jobb-for-a-bli-komiker/269536",
-      "source": "Kode24",
-      "summary": "Taume Dery (32) har fått nok av skjerm, KI og corporate-livet. – Det er kanskje bare nå jeg har sjansen til å gjøre dumme valg.",
-      "published": "2026-08-17T03:00:00Z"
-    },
-    {
       "id": "605d809e9e78d2aefbc0a1a8d7f9924c3fb910e3",
       "title": "How to bring your software delivery workflow into GitHub with agent apps",
       "link": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/",
       "source": "GitHub Blog",
       "summary": "See how four GitHub agent apps can help you scope, secure, roll out, and ship a feature across the SDLC–all without leaving GitHub. The post How to bring your software delivery workflow into GitHub with agent apps appeared first on The GitHub Blog.",
       "published": "2026-08-14T16:00:00Z"
-    },
-    {
-      "id": "b7f28db0bb647548b4610950331add038d809a03",
-      "title": "Sats får kjeft for å kreve bilde av kundene",
-      "link": "https://www.kode24.no/artikkel/sats-far-kjeft-for-a-kreve-bilde-av-kundene/269717",
-      "source": "Kode24",
-      "summary": "– Flere klagere oppgir at de anser behandlingen som obligatorisk, eller at de er usikre på hva protestordningen innebærer, melder Datatilsynet.",
-      "published": "2026-08-14T10:45:41Z"
-    },
-    {
-      "id": "6a4ff961da2fda8882f8ae549f6031d938899f66",
-      "title": "Ta Sommer­quizen 2026!",
-      "link": "https://www.kode24.no/artikkel/ta-sommerquizen-2026/268411",
-      "source": "Kode24",
-      "summary": "Har du fått med deg disse snakkisene i sommer? Ta kode24s quiz og vinn premie!",
-      "published": "2026-08-14T10:13:42Z"
-    },
-    {
-      "id": "65656e33b27af5ef6ebad97458ffbb69d5b6dc02",
-      "title": "Fjerna KI-plakater fra Fiskebryggen i Bergen",
-      "link": "https://www.kode24.no/artikkel/fjerna-ki-plakater-fra-fiskebryggen-i-bergen/269655",
-      "source": "Kode24",
-      "summary": "Forsker på «KI-søppel» er bekymret for byens omdømme. Nå er plakatene som møtte all verdens turister tatt ned.",
-      "published": "2026-08-14T07:38:24Z"
     },
     {
       "id": "9831afcaad6cd3eab87682e35843d46ce4fb82b1",
@@ -243,15 +252,6 @@
       "summary": "Developers are owning more of the delivery system around code, not just code itself. Join us during GitHub Universe to meet other devs, learn something new, and explore what's next. The post From coder to orchestrator: How agents shift the role of a developer appeared first on The GitHub Blog.",
       "published": "2026-08-11T18:38:17Z",
       "image": "https://github.blog/wp-content/uploads/2026/08/Screenshot-2026-08-11-at-10.43.51-AM.png?resize=281%2C300"
-    },
-    {
-      "id": "1cd9faee1a346b2bba7bc6395321ced89b01fba5",
-      "title": "Using the GitHub Copilot SDK for Java",
-      "link": "https://github.blog/engineering/using-the-github-copilot-sdk-for-java/",
-      "source": "GitHub Blog",
-      "summary": "Enterprise Java developers have a new superpower—drive GitHub Copilot from idiomatic Java code with annotations, virtual threads, and more. The post Using the GitHub Copilot SDK for Java appeared first on The GitHub Blog.",
-      "published": "2026-08-10T19:30:00Z",
-      "image": "https://github.blog/wp-content/uploads/2026/08/figure-01-app-flow-diagram.png?resize=1024%2C173"
     },
     {
       "id": "7ae1dda67f7f810e6d77f7a3e7778ae9abd39902",
