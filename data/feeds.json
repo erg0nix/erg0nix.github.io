@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-08-21T06:52:07.391602Z",
+  "generated_at": "2026-08-22T06:44:18.453623Z",
   "items": [
+    {
+      "id": "959e75333d6e2527d5ebc35f13c4f7ae847138fa",
+      "title": "Reagerer på KI-video hos NRK",
+      "link": "https://www.kode24.no/artikkel/reagerer-pa-ki-video-hos-nrk/270342",
+      "source": "Kode24",
+      "summary": "Flere har klaget på illustrasjonene i den nye dokumentarserien til NRK, melder Journalisten. – Vi tester ny teknologi, svarer kanalen.",
+      "published": "2026-08-21T12:51:23Z"
+    },
+    {
+      "id": "7f33e170b970e5a355a319da70b392ecd148c0b4",
+      "title": "Norgespris: Færre sjekker prisen, flere kjøper smarthus",
+      "link": "https://www.kode24.no/artikkel/norgespris-faerre-sjekker-prisen-flere-kjoper-smarthus/269905",
+      "source": "Kode24",
+      "summary": "Salg av smarte strømsparings-dingser har på ingen måte gått nedover, selv om nordmenn har hatt Norgespris i snart ett år.",
+      "published": "2026-08-21T10:23:35Z"
+    },
+    {
+      "id": "f3ba01efa34861e35517576c268b68defc774873",
+      "title": "Tar inn 31 nyutdanna: «Vårt ansvar»",
+      "link": "https://www.kode24.no/artikkel/tar-inn-31-nyutdanna-vart-ansvar/270294",
+      "source": "Kode24",
+      "summary": "– Vi må ta vare på ferske teknologer i en tid preget av rask utvikling innen kunstig intelligens, mener Twoday, og ansetter 31 av dem.",
+      "published": "2026-08-21T08:54:15Z"
+    },
+    {
+      "id": "a5044bded6b2ab04df5ef59fa64be1382be90d9e",
+      "title": "Domeneshop sliter, mange nettsider rammes",
+      "link": "https://www.kode24.no/artikkel/domeneshop-sliter-mange-nettsider-rammes/270268",
+      "source": "Kode24",
+      "summary": "Domeneshop har store driftsforstyrrelser denne uka, og blant annet Sikkerhetsfestivalen ble rammet. Årsaken er hardware-feil i serverparken deres.",
+      "published": "2026-08-21T07:10:00Z"
+    },
+    {
+      "id": "52408e5368b1dd81ebe4ee67f1e6d673b189cd37",
+      "title": "Mange klager på forsikrings­selskaper, starter tilsyn",
+      "link": "https://www.kode24.no/artikkel/mange-klager-pa-forsikringsselskaper-starter-tilsyn/270258",
+      "source": "Kode24",
+      "summary": "Datatilsynet har fått flere klager på at forsikringsselskaper henter helseopplysninger om folk i skadesaker. Nå går de åtte selskap nærmere i sømmene.",
+      "published": "2026-08-21T06:43:16Z"
+    },
     {
       "id": "673897b0709b5fe7ce145a083c2f8f33d92bde4e",
       "title": "– KI har blitt ledelsens nye syndebukk",
@@ -147,22 +187,6 @@
       "published": "2026-08-18T07:50:51Z"
     },
     {
-      "id": "c4312227bc50f93708b63ec9f44f5bd3e56699ce",
-      "title": "Foreldres skjermtid påvirker barns språk",
-      "link": "https://www.kode24.no/artikkel/foreldres-skjermtid-pavirker-barns-sprak/269944",
-      "source": "Kode24",
-      "summary": "Foreldrens skjermbruk kan påvirke mer enn barnets egen skjermtid, hevder forskere.",
-      "published": "2026-08-18T06:20:00Z"
-    },
-    {
-      "id": "991446cc868c18c82c12dcf4da2d44f26e664d31",
-      "title": "Lokker utviklere med hjemmekontor",
-      "link": "https://www.kode24.no/artikkel/lokker-utviklere-med-hjemmekontor/269731",
-      "source": "Kode24",
-      "summary": "SkyeTec søker utviklere som vil ha «frihet, hjemmekontor og høy innovasjonstakt» etter DNB-innstrammingen. Fleksibilitet er fortsatt viktig, sier rekruttere.",
-      "published": "2026-08-18T03:00:00Z"
-    },
-    {
       "id": "59590c5eac8768a1e9f876add821e252d80242dd",
       "title": "How canvases make agentic workflows visible, steerable, and cost-efficient",
       "link": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/",
@@ -170,30 +194,6 @@
       "summary": "Chat is great for intent, but agent work gets lost in the scroll. Here is how I use canvases with my agentic workflows—and why your workflow also deserves a canvas. The post How canvases make agentic workflows visible, steerable, and cost-efficient appeared first on The GitHub Blog.",
       "published": "2026-08-17T16:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2026/08/623371402-ddb0772d-e566-4895-b030-6be9b0fe304c.png?resize=1024%2C312"
-    },
-    {
-      "id": "3d1de324a36525a764b269f35fcecf5cb21c3da5",
-      "title": "Ønsker bruk av KI-detektorer på studier",
-      "link": "https://www.kode24.no/artikkel/onsker-bruk-av-ki-detektorer-pa-studier/269875",
-      "source": "Kode24",
-      "summary": "Professor Jill Walker Rettberg ved Universitetet i Bergen (UiB) mener man bør bruke KI-detektorer på studenttekster.",
-      "published": "2026-08-17T13:00:00Z"
-    },
-    {
-      "id": "fe43893d19c943a7e5100bb1c69c9dc03709c7ef",
-      "title": "Derfor lager de app uten konto, inn­logging og sporing",
-      "link": "https://www.kode24.no/artikkel/derfor-lager-de-app-uten-konto-innlogging-og-sporing/269657",
-      "source": "Kode24",
-      "summary": "– Prisen for å ikke samle inn persondata er reell, forteller Even Hauger, som ikke har tjent en krone. Likevel nekter StreamGate å spore brukerne sine.",
-      "published": "2026-08-17T11:30:00Z"
-    },
-    {
-      "id": "df0ddf2367bf3020ebe724c67f51cd27c86d2785",
-      "title": "Måling: KI-boter tar over internettet",
-      "link": "https://www.kode24.no/artikkel/maling-ki-boter-tar-over-internettet/269844",
-      "source": "Kode24",
-      "summary": "Bot-er og KI-agenter står for mer enn halvparten av all internett-trafikk i verden, ifølge Cloudflare-måling. – En KI-agent vil fort kunne lese tusenvis av websider, påpeker professor.",
-      "published": "2026-08-17T09:27:21Z"
     },
     {
       "id": "605d809e9e78d2aefbc0a1a8d7f9924c3fb910e3",
