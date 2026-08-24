@@ -1,6 +1,14 @@
 {
-  "generated_at": "2026-08-23T06:46:01.337407Z",
+  "generated_at": "2026-08-24T07:03:49.831866Z",
   "items": [
+    {
+      "id": "a127160c8a93eb6d4ca73c0e17e34f463dd2b256",
+      "title": "7 av 10 utviklere har fortsatt hjemme­kontor",
+      "link": "https://www.kode24.no/artikkel/7-av-10-utviklere-har-fortsatt-hjemmekontor/270130",
+      "source": "Kode24",
+      "summary": "Ikke endra seg på fire år, tross «office first»-regler. For strengere regler betyr ikke alltid mindre hjemmekontor, tror forsker.",
+      "published": "2026-08-24T03:00:00Z"
+    },
     {
       "id": "959e75333d6e2527d5ebc35f13c4f7ae847138fa",
       "title": "Reagerer på KI-video hos NRK",
@@ -177,14 +185,6 @@
       "source": "Kode24",
       "summary": "– Tripletex låser kundene inn i systemet og tjener på å gjøre eksport vanskelig, mener Greg Taube, som forfekter åpne data.",
       "published": "2026-08-18T08:53:39Z"
-    },
-    {
-      "id": "84eb5240550e8f0d76cc69ee47b808b1ced99350",
-      "title": "Forsvaret med egen data-grunnlov",
-      "link": "https://www.kode24.no/artikkel/forsvaret-med-egen-data-grunnlov/269957",
-      "source": "Kode24",
-      "summary": "Egne data-regler skal gjøre det lettere for Forsvaret å bytte leverandører i framtida. Offentlig sektor bør følge etter, mener statsråd.",
-      "published": "2026-08-18T07:50:51Z"
     },
     {
       "id": "59590c5eac8768a1e9f876add821e252d80242dd",
