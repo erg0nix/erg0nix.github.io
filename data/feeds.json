@@ -1,21 +1,126 @@
 {
-  "generated_at": "2026-08-26T06:54:20.137549Z",
+  "generated_at": "2026-08-27T17:28:03.213649Z",
   "items": [
+    {
+      "id": "b28b99cd97ea0244d8c9f534a4c33b0f04aac052",
+      "title": "OpenClaw went viral. Meet the maintainers building and securing it.",
+      "link": "https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/",
+      "source": "GitHub Blog",
+      "summary": "OpenClaw is the fastest-growing project in GitHub history. Peter Steinberger and several maintainers share what they learned in the project's first six months. The post OpenClaw went viral. Meet the maintainers building and securing it. appeared first on The GitHub Blog.",
+      "published": "2026-08-27T16:00:00Z",
+      "image": "https://github.blog/wp-content/uploads/2026/02/header.jpg?resize=1024%2C538"
+    },
+    {
+      "id": "3c45ffe1bd58233fd1f80543be1e7d81820dc0ea",
+      "title": "Digdir: – Det er ikke staten de trenger å være urolige for",
+      "link": "https://www.kode24.no/artikkel/digdir-det-er-ikke-staten-de-trenger-a-vaere-urolige-for/270303",
+      "source": "Kode24",
+      "summary": "Private IT-aktører bør være mer bekymret for kunstig intelligens enn at staten skal gå dem i næringen, mener Digdir. – Ganske arrogant, svarer TEK Norge.",
+      "published": "2026-08-27T11:10:15Z"
+    },
+    {
+      "id": "3cda33829ca96fff0d15e6efd0993044719610ad",
+      "title": "Digdir vil ikke si om de bruker Cloudflare",
+      "link": "https://www.kode24.no/artikkel/digdir-vil-ikke-si-om-de-bruker-cloudflare/270918",
+      "source": "Kode24",
+      "summary": "– Vi forstår at spørsmål knyttet til sikkerhetssystemer og tekniske tiltak blir stilt, men vi vil ikke gå i detalj, forteller de til kode24.",
+      "published": "2026-08-27T08:38:17Z"
+    },
+    {
+      "id": "dc7469c055b52b3a7f17e0fdaf94f73bdf1747e3",
+      "title": "Digdir: – Alle løsninger fungerer normalt",
+      "link": "https://www.kode24.no/artikkel/digdir-alle-losninger-fungerer-normalt/270877",
+      "source": "Kode24",
+      "summary": "Etter flere dagers DDOS-angrep, friskmelder Digdir tjenester torsdag ettermiddag. Men det er fortsatt noen driftsforstyrrelser.",
+      "published": "2026-08-27T07:12:02Z"
+    },
+    {
+      "id": "1c82cacd708baf4da97b41feae250c49e4d9ed10",
+      "title": "Meta betaler 156 milliarder kroner etter forlik",
+      "link": "https://www.kode24.no/artikkel/meta-betaler-156-milliarder-kroner-etter-forlik/270895",
+      "source": "Kode24",
+      "summary": "Må punge ut og gjøre endringer i plattformene for å beskytte unge brukere.",
+      "published": "2026-08-27T07:05:56Z"
+    },
+    {
+      "id": "1c18b848431a6048c3c2614ac7f0fed8acf31fcf",
+      "title": "Bill Gates advarer mot KI",
+      "link": "https://www.kode24.no/artikkel/bill-gates-advarer-mot-ki/270873",
+      "source": "Kode24",
+      "summary": "Ser en rekke problemer, som vanskelig jobbmarked, og mener verden ikke forbereder seg godt nok.",
+      "published": "2026-08-27T06:44:36Z"
+    },
+    {
+      "id": "9d3992c75a89eb8efb39dc02882b39c753ec4ddb",
+      "title": "Gir seks uker ferie: – Vil si det har lønt seg",
+      "link": "https://www.kode24.no/artikkel/gir-seks-uker-ferie-vil-si-det-har-lont-seg/270648",
+      "source": "Kode24",
+      "summary": "Sopra Steria, Fink og Bekk gir sine ansatte seks uker ferie. Mens Atea gir utviklere fri for å jobbe frivillig.",
+      "published": "2026-08-27T03:00:00Z"
+    },
+    {
+      "id": "c8665e3302856e9a27536c92fbccf3ccd9e52be3",
+      "title": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
+      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/",
+      "source": "GitHub Blog",
+      "summary": "Managing library updates can be tedious at times. Learn how the GitHub Copilot app can handle this type of repetitive task. The post GitHub Copilot app for Beginners: Automate Dependabot pull request triage appeared first on The GitHub Blog.",
+      "published": "2026-08-26T20:12:53Z"
+    },
+    {
+      "id": "2644f8aca43125a58a6ffd2e33afd40d44a6a8b7",
+      "title": "Gir 10.000 kroner for å finne en frontend-er i 2026",
+      "link": "https://www.kode24.no/artikkel/gir-10000-kroner-for-a-finne-en-frontend-er-i-2026/270544",
+      "source": "Kode24",
+      "summary": "Folio lover finnerlønn til den som finner den rette kandidaten, til tross for at jobbannonser nå kan få hundrevis av søkere.",
+      "published": "2026-08-26T12:03:36Z"
+    },
+    {
+      "id": "f2e6309a90b5aa13aee000a3a6ac176cb20bd572",
+      "title": "Tre nye til forsvar-startup: – Samler de skarpeste hodene",
+      "link": "https://www.kode24.no/artikkel/tre-nye-til-forsvar-startup-samler-de-skarpeste-hodene/270830",
+      "source": "Kode24",
+      "summary": "Stendr har ansatt tre utviklere som skal drive forsvarsteknologien fremover, med KI.",
+      "published": "2026-08-26T11:05:04Z"
+    },
+    {
+      "id": "7004a1219ebdb1686ecfbe9331ac92ce3e34589f",
+      "title": "Ny Mac Mini lansert: Markedesføres som KI-maskin",
+      "link": "https://www.kode24.no/artikkel/ny-mac-mini-lansert-markedesfores-som-ki-maskin/270790",
+      "source": "Kode24",
+      "summary": "Apple har lansert nye Mac Mini med angivelig fire ganger raskere KI-ytelse enn forgjengeren.",
+      "published": "2026-08-26T08:59:27Z"
+    },
+    {
+      "id": "6f37f80090ec918d8ac4565d25c9c66ee575480b",
+      "title": "Derfor gikk GitHub ned: Antall commits har dobla seg",
+      "link": "https://www.kode24.no/artikkel/derfor-gikk-github-ned-antall-commits-har-dobla-seg/270804",
+      "source": "Kode24",
+      "summary": "Post mortem etter GitHub-nedetid, Bun skrives om i Rust og ny CSS, i ukas ForrigeUke.",
+      "published": "2026-08-26T08:56:04Z"
+    },
     {
       "id": "0726e1710c8d3ac000756fd1962d97ac3a85cc41",
       "title": "DDOS-angrepet pågår på fjerde dag: – Begynner å bli kritisk",
       "link": "https://www.kode24.no/artikkel/ddos-angrepet-pagar-pa-fjerde-dag-begynner-a-bli-kritisk/270774",
       "source": "Kode24",
-      "summary": "Tjenestene skal være stabile til tross for at angrepene fortsetter, men blant annet ID-porten er nede.",
+      "summary": "Tjenestene skal være stabile til tross for at angrepene fortsetter, men blant annet ID-porten er begrensa.",
       "published": "2026-08-26T06:17:37Z"
     },
     {
       "id": "0aebf4a2e2642ba9ba552723a4043b7c9efb55ba",
-      "title": "Hos Nav bestemmer teamene regler for hjemme­kontor",
-      "link": "https://www.kode24.no/artikkel/hos-nav-bestemmer-teamene-regler-for-hjemmekontor/270500",
+      "title": "Nav-teamet styrer selv hjemme­kontor",
+      "link": "https://www.kode24.no/artikkel/nav-teamet-styrer-selv-hjemmekontor/270500",
       "source": "Kode24",
       "summary": "– Et påbud om faste kontordager, vedtatt på toppen, behandler alle likt og treffer derfor ingen godt, mener Jan Kåre Solbakken og Hans Kristian Flaatten i Nav, som får bestemme selv.",
       "published": "2026-08-26T03:00:00Z"
+    },
+    {
+      "id": "ee432ae628f758dad07db2ae5c7b653b90b15f5e",
+      "title": "Generic Methods",
+      "link": "https://go.dev/blog/generic-methods",
+      "source": "Go Blog",
+      "summary": "Go 1.27 adds generic methods—a highly desired language feature.",
+      "published": "2026-08-26T00:00:00Z"
     },
     {
       "id": "3ff5f1f57f405f2b42eefa144db500942d2f13e4",
@@ -99,86 +204,6 @@
       "published": "2026-08-24T20:56:32Z"
     },
     {
-      "id": "ffea6e0a3900e106de624f165b5991df1e0ba7a1",
-      "title": "Se bildene fra Sikkerhets­festivalen 2026",
-      "link": "https://www.kode24.no/artikkel/se-bildene-fra-sikkerhetsfestivalen-2026/270467",
-      "source": "Kode24",
-      "summary": "KI-trussel, sol og festival-foredragmørke. Bli med til Lillehammer.",
-      "published": "2026-08-24T14:08:03Z"
-    },
-    {
-      "id": "a3f8c10c2270e88554afa5b9ce0383e96e8c8fde",
-      "title": "KI holder sikkerhets­ledere våkne om natta",
-      "link": "https://www.kode24.no/artikkel/ki-holder-sikkerhetsledere-vakne-om-natta/270433",
-      "source": "Kode24",
-      "summary": "Kunstig intelligens og tredjepartsrisiko er det 90 norske sikkerhetsledere, eksperter, rådgivere og toppledere bekymrer seg mest for for tida.",
-      "published": "2026-08-24T12:06:23Z"
-    },
-    {
-      "id": "e74eeea827cf07e3edf545079ca1e25a8df2534e",
-      "title": "– Kapital­istene ødela internett",
-      "link": "https://www.kode24.no/artikkel/kapitalistene-odela-internett/270358",
-      "source": "Kode24",
-      "summary": "– Jeg savner ideen om at ingen eide internett, skriver Anders Fredrikson. – Og jeg tror vi burde vært langt mer opptatt av å bevare det.",
-      "published": "2026-08-24T10:59:40Z"
-    },
-    {
-      "id": "2800e3e53b08c12af8f2ffd780a52e2fde14e6b2",
-      "title": "David (27) til Glitni – ser etter flere",
-      "link": "https://www.kode24.no/artikkel/david-27-til-glitni-ser-etter-flere/270393",
-      "source": "Kode24",
-      "summary": "– Ser etter folk som trives i grenselandet mellom data engineering og analytics engineering, melder Glitni Consulting, og har funnet en.",
-      "published": "2026-08-24T09:43:42Z"
-    },
-    {
-      "id": "c4a76725e926a6a380ce3fd05a7466aee9e0ed4a",
-      "title": "Vil forby smartbriller på norske skoler – SV går enda lenger",
-      "link": "https://www.kode24.no/artikkel/vil-forby-smartbriller-pa-norske-skoler-sv-gar-enda-lenger/270419",
-      "source": "Kode24",
-      "summary": "Kunnskapsminister Kari Nessa Nordtun vil ha brillene ut av skolen, mens SV vil ha brillene ut av landet.",
-      "published": "2026-08-24T07:52:27Z"
-    },
-    {
-      "id": "893a1af7efc9f3a948e01303d69271da9f678872",
-      "title": "Bare 1 av 4 nordmenn støtter satsning på datasentre",
-      "link": "https://www.kode24.no/artikkel/bare-1-av-4-nordmenn-stotter-satsning-pa-datasentre/270402",
-      "source": "Kode24",
-      "summary": "– Undersøkelsen viser at datasenternæringen har en betydelig tillitsutfordring.",
-      "published": "2026-08-24T07:42:07Z"
-    },
-    {
-      "id": "2296ce8e54f2cca0a30cbd1a3b96cde9134d36fa",
-      "title": "Nytt DDoS-angrep: ID-porten og Altinn nede siden søndag",
-      "link": "https://www.kode24.no/artikkel/nytt-ddos-angrep-id-porten-og-altinn-nede-siden-sondag/270380",
-      "source": "Kode24",
-      "summary": "– Vår driftspartner Vivicta bekrefter at det dreier seg om et tjenestenektangrep",
-      "published": "2026-08-24T06:46:40Z"
-    },
-    {
-      "id": "a127160c8a93eb6d4ca73c0e17e34f463dd2b256",
-      "title": "7 av 10 utviklere har fortsatt hjemme­kontor",
-      "link": "https://www.kode24.no/artikkel/7-av-10-utviklere-har-fortsatt-hjemmekontor/270130",
-      "source": "Kode24",
-      "summary": "Ikke endra seg på fire år, tross «office first»-regler. For strengere regler betyr ikke alltid mindre hjemmekontor, tror forsker.",
-      "published": "2026-08-24T03:00:00Z"
-    },
-    {
-      "id": "959e75333d6e2527d5ebc35f13c4f7ae847138fa",
-      "title": "Reagerer på KI-video hos NRK",
-      "link": "https://www.kode24.no/artikkel/reagerer-pa-ki-video-hos-nrk/270342",
-      "source": "Kode24",
-      "summary": "Flere har klaget på illustrasjonene i den nye dokumentarserien til NRK, melder Journalisten. – Vi tester ny teknologi, svarer kanalen.",
-      "published": "2026-08-21T12:51:23Z"
-    },
-    {
-      "id": "7f33e170b970e5a355a319da70b392ecd148c0b4",
-      "title": "Norgespris: Færre sjekker prisen, flere kjøper smarthus",
-      "link": "https://www.kode24.no/artikkel/norgespris-faerre-sjekker-prisen-flere-kjoper-smarthus/269905",
-      "source": "Kode24",
-      "summary": "Salg av smarte strømsparings-dingser har på ingen måte gått nedover, selv om nordmenn har hatt Norgespris i snart ett år.",
-      "published": "2026-08-21T10:23:35Z"
-    },
-    {
       "id": "dc7f9fd0bcd56298010962d8403a21ca001d253f",
       "title": "The August 17 outage, and the work ahead",
       "link": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
@@ -236,22 +261,6 @@
       "summary": "See how the open source projects in Session 4 of the GitHub Secure Open Source Fund combined AI-assisted workflows, maintainer expertise, GitHub security tools, expert guidance, and funding to improve project security. The post What 50 open source projects taught us about security in the AI era...",
       "published": "2026-08-13T16:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2026/08/openclaw.png?resize=1920%2C1080"
-    },
-    {
-      "id": "c30f5722f60759d82e14f57d372f9add9adf7505",
-      "title": "GitHub availability report: July 2026",
-      "link": "https://github.blog/news-insights/company-news/github-availability-report-july-2026/",
-      "source": "GitHub Blog",
-      "summary": "In July, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: July 2026 appeared first on The GitHub Blog.",
-      "published": "2026-08-12T22:17:32Z"
-    },
-    {
-      "id": "e630d71c740baa1a9371c085c588e041560a3fa3",
-      "title": "GitHub Copilot app for Beginners: Write your first prompt",
-      "link": "https://github.blog/ai-and-ml/github-copilot/write-your-first-prompt-with-the-github-copilot-app/",
-      "source": "GitHub Blog",
-      "summary": "Learn how to write your first prompt in the GitHub Copilot app, choose the right context and model, and start your first task with confidence. The post GitHub Copilot app for Beginners: Write your first prompt appeared first on The GitHub Blog.",
-      "published": "2026-08-12T19:00:00Z"
     },
     {
       "id": "7ae1dda67f7f810e6d77f7a3e7778ae9abd39902",
@@ -320,15 +329,6 @@
       "source": "Go Blog",
       "summary": "Happy Birthday, Go!",
       "published": "2025-11-14T00:00:00Z"
-    },
-    {
-      "id": "577a5afee18bb2d538f868ac979bc42e4339a172",
-      "title": "The Green Tea Garbage Collector",
-      "link": "https://go.dev/blog/greenteagc",
-      "source": "Go Blog",
-      "summary": "Go 1.25 includes a new experimental garbage collector, Green Tea.",
-      "published": "2025-10-29T00:00:00Z",
-      "image": "https://go.dev/blog/greenteagc/marksweep-007.png"
     }
   ]
 }
