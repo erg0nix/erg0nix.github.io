@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-08-27T17:28:03.213649Z",
+  "generated_at": "2026-08-28T18:21:47.331496Z",
   "items": [
+    {
+      "id": "33d0f3e740c1b9cd2c9cd9eacc7233e4e671e361",
+      "title": "Åtte nye til Computas i Trondheim: – Vi var utsolgt",
+      "link": "https://www.kode24.no/artikkel/atte-nye-til-computas-i-trondheim-vi-var-utsolgt/271065",
+      "source": "Kode24",
+      "summary": "Computas i Trondheim melder om så stor etterspørsel at de trengte flere folk.",
+      "published": "2026-08-28T13:31:29Z"
+    },
+    {
+      "id": "bc494384cdcebe3826d16cccdeb87ba89f14fdd9",
+      "title": "Kinesisk KI presser Nvidias brikke-monopol",
+      "link": "https://www.kode24.no/artikkel/kinesisk-ki-presser-nvidias-brikke-monopol/271013",
+      "source": "Kode24",
+      "summary": "En KI-modell som går utelukkende på kinesiske mikrobrikker utfordrer Nvidias monopol. – Kan gjøre KI billigere for alle, sier norsk KI-ekspert.",
+      "published": "2026-08-28T11:04:44Z"
+    },
+    {
+      "id": "b9ba4940c254676e00862a2646049252ec1ce7b6",
+      "title": "Tekna: – Han var en døråpner for norske teknologi­bedrifter",
+      "link": "https://www.kode24.no/artikkel/tekna-han-var-en-dorapner-for-norske-teknologibedrifter/270990",
+      "source": "Kode24",
+      "summary": "IT-bransjen takker for Hans Majestet Kong Haralds mangeårige innsats.",
+      "published": "2026-08-28T08:53:58Z"
+    },
+    {
+      "id": "294d0b8f57e4ac81595f707a27e342f665cd5a48",
+      "title": "Slik sørger statsmaktene over kongens død på nett",
+      "link": "https://www.kode24.no/artikkel/slik-sorger-statsmaktene-over-kongens-dod-pa-nett/270972",
+      "source": "Kode24",
+      "summary": "Nettsidene til statsmaktene preges av svarte farger etter kong Haralds død, og Kongehuset.no gikk ned for å gjøre endringer.",
+      "published": "2026-08-28T07:06:43Z"
+    },
+    {
+      "id": "57d053942422c4fb453730a1530e7c18a46a3b6c",
+      "title": "Vet ikke om angrepet var guttestreker eller statsterror: – Absurd",
+      "link": "https://www.kode24.no/artikkel/vet-ikke-om-angrepet-var-guttestreker-eller-statsterror-absurd/270952",
+      "source": "Kode24",
+      "summary": "– Uansett om det var Russland eller nabogutten denne gangen, var det jo greit at det var Altinn og MinID de angrep, skriver Ole Petter i ukas nyhetsbrev.",
+      "published": "2026-08-28T03:00:00Z"
+    },
     {
       "id": "b28b99cd97ea0244d8c9f534a4c33b0f04aac052",
       "title": "OpenClaw went viral. Meet the maintainers building and securing it.",
@@ -154,46 +194,6 @@
       "source": "Kode24",
       "summary": "– Dette betyr også noe lavere IT-ambisjoner, som påvirker IT-organisasjonen, bekrefter selskapet.",
       "published": "2026-08-25T11:28:16Z"
-    },
-    {
-      "id": "711491d27b8041d5aa5b0aba773748eb7c2c81f6",
-      "title": "Forbyr KI på CTF: – Veldig bra",
-      "link": "https://www.kode24.no/artikkel/forbyr-ki-pa-ctf-veldig-bra/270583",
-      "source": "Kode24",
-      "summary": "De som har råd til mest tokens og de beste KI-modellene vinner mest. Men KI-forbud er vanskelig å håndheve, innrømmer CTF-arrangøren på Sikkerhetsfestivalen.",
-      "published": "2026-08-25T09:43:30Z"
-    },
-    {
-      "id": "4bf9441be8a832481946efab7ec211d874c91191",
-      "title": "Computas ansetter tre utviklere: – Områder som etterspørres av stadig flere",
-      "link": "https://www.kode24.no/artikkel/computas-ansetter-tre-utviklere-omrader-som-ettersporres-av-stadig-flere/270599",
-      "source": "Kode24",
-      "summary": "Computas ansetter Niros Manoharan, Zohaib Butt og Andreas Løyning Vu.",
-      "published": "2026-08-25T08:52:48Z"
-    },
-    {
-      "id": "9d57962033b692f0180dfd25ebedb2436ba64a0e",
-      "title": "Linus Torvalds fiksa feil med KI",
-      "link": "https://www.kode24.no/artikkel/linus-torvalds-fiksa-feil-med-ki/270632",
-      "source": "Kode24",
-      "summary": "Linux-pappaen pressa KI-en hardt for å finne den godt gjemte kjernefeilen.",
-      "published": "2026-08-25T08:36:22Z"
-    },
-    {
-      "id": "5def778a08385c94d0126071b9ed16cef62c7ee8",
-      "title": "Digdir: Dataangrepet fortsetter med full styrke",
-      "link": "https://www.kode24.no/artikkel/digdir-dataangrepet-fortsetter-med-full-styrke/270567",
-      "source": "Kode24",
-      "summary": "Digitaliseringsdirektoratet klarte å holde løsningene sine delvis i drift gjennom natta. Men datanangrepet pågår fortsatt.",
-      "published": "2026-08-25T06:24:03Z"
-    },
-    {
-      "id": "3caa945680e01957b09b016d59b3897e50bffc72",
-      "title": "Næringslivet går hardt ut mot offentlige app-planer: – Uforståelig",
-      "link": "https://www.kode24.no/artikkel/naeringslivet-gar-hardt-ut-mot-offentlige-app-planer-uforstaelig/269877",
-      "source": "Kode24",
-      "summary": "Den kommende tjenesteplattformen for kommunene vil gå private aktører i næringen, frykter bedriftene selv. KS lover «bred dialog».",
-      "published": "2026-08-25T03:00:00Z"
     },
     {
       "id": "35bd1c2a7300c14121f203754614d2afb754e6e0",
