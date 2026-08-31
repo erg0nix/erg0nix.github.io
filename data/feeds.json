@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-08-30T11:33:03.942890Z",
+  "generated_at": "2026-08-31T13:07:01.781149Z",
   "items": [
+    {
+      "id": "688d35bd51bec55da592d80f9936dccc1cbdcaae",
+      "title": "KI-genererte filmer har nådd kinosalen: – Noen oppgaver og fag vil forsvinne",
+      "link": "https://www.kode24.no/artikkel/ki-genererte-filmer-har-nadd-kinosalen-noen-oppgaver-og-fag-vil-forsvinne/270438",
+      "source": "Kode24",
+      "summary": "Kunstig intelligens endrer hvordan vi forteller historier på, og bransjen til dem som forteller dem. – Det er helt naivt å late som noe annet, tror norsk regissør.",
+      "published": "2026-08-31T11:31:20Z"
+    },
+    {
+      "id": "e7cf199feac3892826b836b9dc987f45a0906d7d",
+      "title": "IBM saksøker norsk statlig IT-selskap",
+      "link": "https://www.kode24.no/artikkel/ibm-saksoker-norsk-statlig-it-selskap/271113",
+      "source": "Kode24",
+      "summary": "IBM saksøker Hemit for å holde tilbake flere millioner kroner, mens Hemit mener IBMs leveranser ikke holder mål, melder Digi.",
+      "published": "2026-08-31T09:38:33Z"
+    },
+    {
+      "id": "2c4e6476bcd3694d5516b74599dc32b2535bfe2b",
+      "title": "Vår nye konge om KI: – Vil revolusjonere vår måte å leve på",
+      "link": "https://www.kode24.no/artikkel/var-nye-konge-om-ki-vil-revolusjonere-var-mate-a-leve-pa/270914",
+      "source": "Kode24",
+      "summary": "Kong Harald snakket om KI allerede i 2017, mens vår nye kong Haakon tror teknologien vil påvirke oss på måter vi ennå ikke forstår.",
+      "published": "2026-08-31T08:03:37Z"
+    },
+    {
+      "id": "ea2d2a45e1bd80ab07b9b1ace92f5a13e30bf723",
+      "title": "DDOS-angrep mot Sikt",
+      "link": "https://www.kode24.no/artikkel/ddos-angrep-mot-sikt/271093",
+      "source": "Kode24",
+      "summary": "Ifølge Khrono påstår en russisk hackergruppe at de har utført tjenestenektangrep mot Feide, Educloud, Sikt, fsweb, Samordna opptak og Universitetet i Oslo.",
+      "published": "2026-08-31T06:24:43Z"
+    },
+    {
+      "id": "00c530bff0b697375e918e5e5119d4f79233386d",
+      "title": "Pressfire.no kutter sporing: – Fuck normen",
+      "link": "https://www.kode24.no/artikkel/pressfireno-kutter-sporing-fuck-normen/271023",
+      "source": "Kode24",
+      "summary": "– Er en nettside gratis, er det du som er valutaen, skriver Pressfire-redaktør Erik Fossum. – Jeg liker det ikke. Så jeg tenkte at det var på tide å gjøre noe nytt.",
+      "published": "2026-08-31T03:00:00Z"
+    },
     {
       "id": "33d0f3e740c1b9cd2c9cd9eacc7233e4e671e361",
       "title": "Åtte nye til Computas i Trondheim: – Vi var utsolgt",
@@ -139,22 +179,6 @@
       "published": "2026-08-26T08:56:04Z"
     },
     {
-      "id": "0726e1710c8d3ac000756fd1962d97ac3a85cc41",
-      "title": "DDOS-angrepet pågår på fjerde dag: – Begynner å bli kritisk",
-      "link": "https://www.kode24.no/artikkel/ddos-angrepet-pagar-pa-fjerde-dag-begynner-a-bli-kritisk/270774",
-      "source": "Kode24",
-      "summary": "Tjenestene skal være stabile til tross for at angrepene fortsetter, men blant annet ID-porten er begrensa.",
-      "published": "2026-08-26T06:17:37Z"
-    },
-    {
-      "id": "0aebf4a2e2642ba9ba552723a4043b7c9efb55ba",
-      "title": "Nav-teamet styrer selv hjemme­kontor",
-      "link": "https://www.kode24.no/artikkel/nav-teamet-styrer-selv-hjemmekontor/270500",
-      "source": "Kode24",
-      "summary": "– Et påbud om faste kontordager, vedtatt på toppen, behandler alle likt og treffer derfor ingen godt, mener Jan Kåre Solbakken og Hans Kristian Flaatten i Nav, som får bestemme selv.",
-      "published": "2026-08-26T03:00:00Z"
-    },
-    {
       "id": "ee432ae628f758dad07db2ae5c7b653b90b15f5e",
       "title": "Generic Methods",
       "link": "https://go.dev/blog/generic-methods",
@@ -170,30 +194,6 @@
       "summary": "These are the lessons we learned evaluating LLMs for real-world secret scanning. The post How to evaluate LLMs before production appeared first on The GitHub Blog.",
       "published": "2026-08-25T21:35:11Z",
       "image": "https://github.blog/wp-content/uploads/2026/08/633085615-8fa1a231-a731-4c36-b53d-007d212d811d-1.png?resize=1024%2C441"
-    },
-    {
-      "id": "3199ce8f2a68b1beee13b3bf373b92ac973a6e62",
-      "title": "Datatilsynet om DDOS-angrepene: – Dette er ikke guttestreker",
-      "link": "https://www.kode24.no/artikkel/datatilsynet-om-ddos-angrepene-dette-er-ikke-guttestreker/270684",
-      "source": "Kode24",
-      "summary": "Digdir sliter for andre dag på rad. – Trolig bevisste handlinger fra en aktør for å skape uro, sier Datatilsynet-rådgiver, som er enig i at Russland kan stå bak.",
-      "published": "2026-08-25T13:17:15Z"
-    },
-    {
-      "id": "27ac3628566757ffc4e2c94a4aeef86a853467e4",
-      "title": "Tung vurderer å regulere smartbriller",
-      "link": "https://www.kode24.no/artikkel/tung-vurderer-a-regulere-smartbriller/270708",
-      "source": "Kode24",
-      "summary": "Ser for seg å regulere konkrete bruksområder, mens SV vil at regjeringen går enda lenger.",
-      "published": "2026-08-25T11:58:38Z"
-    },
-    {
-      "id": "ea568c33d2aed3f608f0c37e9748797fe7f9ac94",
-      "title": "OBOS ned­bemanner, kan ramme utviklere",
-      "link": "https://www.kode24.no/artikkel/obos-nedbemanner-kan-ramme-utviklere/270686",
-      "source": "Kode24",
-      "summary": "– Dette betyr også noe lavere IT-ambisjoner, som påvirker IT-organisasjonen, bekrefter selskapet.",
-      "published": "2026-08-25T11:28:16Z"
     },
     {
       "id": "35bd1c2a7300c14121f203754614d2afb754e6e0",
