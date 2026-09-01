@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-08-31T13:07:01.781149Z",
+  "generated_at": "2026-09-01T11:21:03.073993Z",
   "items": [
+    {
+      "id": "e7157fae62445258a5dd2bdeb70c3d77ffde2121",
+      "title": "To nye til Arktaria: – Holder ikke at du bare er god faglig",
+      "link": "https://www.kode24.no/artikkel/to-nye-til-arktaria-holder-ikke-at-du-bare-er-god-faglig/271186",
+      "source": "Kode24",
+      "summary": "Jens Markussen og Øyvind Bjerkvik er nye utviklere hos Arktaria, men skal ikke bare være utviklere.",
+      "published": "2026-09-01T06:48:18Z"
+    },
+    {
+      "id": "e10a1d6cb3efb2ae0e062d55fe67c471bed7e908",
+      "title": "Advarer om ukontrollert KI-bruk i kommunene",
+      "link": "https://www.kode24.no/artikkel/advarer-om-ukontrollert-ki-bruk-i-kommunene/270636",
+      "source": "Kode24",
+      "summary": "Datatilsynet får flere avviksmeldinger om at KI-agenter med for mye tilgang blir som «digitale spøkelser» og virus.",
+      "published": "2026-09-01T03:00:00Z"
+    },
     {
       "id": "688d35bd51bec55da592d80f9936dccc1cbdcaae",
       "title": "KI-genererte filmer har nådd kinosalen: – Noen oppgaver og fag vil forsvinne",
@@ -161,22 +177,6 @@
       "source": "Kode24",
       "summary": "Stendr har ansatt tre utviklere som skal drive forsvarsteknologien fremover, med KI.",
       "published": "2026-08-26T11:05:04Z"
-    },
-    {
-      "id": "7004a1219ebdb1686ecfbe9331ac92ce3e34589f",
-      "title": "Ny Mac Mini lansert: Markedesføres som KI-maskin",
-      "link": "https://www.kode24.no/artikkel/ny-mac-mini-lansert-markedesfores-som-ki-maskin/270790",
-      "source": "Kode24",
-      "summary": "Apple har lansert nye Mac Mini med angivelig fire ganger raskere KI-ytelse enn forgjengeren.",
-      "published": "2026-08-26T08:59:27Z"
-    },
-    {
-      "id": "6f37f80090ec918d8ac4565d25c9c66ee575480b",
-      "title": "Derfor gikk GitHub ned: Antall commits har dobla seg",
-      "link": "https://www.kode24.no/artikkel/derfor-gikk-github-ned-antall-commits-har-dobla-seg/270804",
-      "source": "Kode24",
-      "summary": "Post mortem etter GitHub-nedetid, Bun skrives om i Rust og ny CSS, i ukas ForrigeUke.",
-      "published": "2026-08-26T08:56:04Z"
     },
     {
       "id": "ee432ae628f758dad07db2ae5c7b653b90b15f5e",
