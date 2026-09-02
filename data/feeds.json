@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-09-01T11:21:03.073993Z",
+  "generated_at": "2026-09-02T10:55:18.816930Z",
   "items": [
+    {
+      "id": "b8b0c9561c73acbbc5e5b9e888a7cc41ba44fde1",
+      "title": "Over 300 mister jobben i Posten Bring",
+      "link": "https://www.kode24.no/artikkel/over-300-mister-jobben-i-posten-bring/271431",
+      "source": "Kode24",
+      "summary": "KI-bruk står sentralt hos Posten Bring når nedbemanning står på døra. Konsernsjefen opplyser om at nedbemanning ville bli nødvendig for å nå målet om kostnadskutt på 25 prosent.",
+      "published": "2026-09-02T10:31:41Z"
+    },
+    {
+      "id": "84276e1e9a0121f5c2f1f44a1423c8dcc44dea0f",
+      "title": "Javazone 2026 er i gang – kan bli værende i Lillestrøm",
+      "link": "https://www.kode24.no/artikkel/javazone-2026-er-i-gang-kan-bli-vaerende-i-lillestrom/271355",
+      "source": "Kode24",
+      "summary": "3.300 utviklere samles for historiens andre Javazone på Lillestrøm, og det kan bli flere.",
+      "published": "2026-09-02T09:03:16Z"
+    },
+    {
+      "id": "853f3ebdd9e86c860c04bf906d4b6e847605f11f",
+      "title": "Dropbox rammet av dataangrep",
+      "link": "https://www.kode24.no/artikkel/dropbox-rammet-av-dataangrep/271345",
+      "source": "Kode24",
+      "summary": "Rundt 5000 Dropbox-kontoer rammet av dataangrep der hackerne fikk tilgang til lagrede filer hos omtrent en tredjedel av brukerne.",
+      "published": "2026-09-02T08:07:14Z"
+    },
+    {
+      "id": "202f515792e286051a2c17f4d8cc7c2773ca2f5d",
+      "title": "EmLogic ansetter fem rett fra studiet: – Må utvikle kompetansen",
+      "link": "https://www.kode24.no/artikkel/emlogic-ansetter-fem-rett-fra-studiet-ma-utvikle-kompetansen/271201",
+      "source": "Kode24",
+      "summary": "– For oss handler dette om mer enn rekruttering, forteller embedded-selskapet om sine nye utviklere.",
+      "published": "2026-09-02T07:07:26Z"
+    },
+    {
+      "id": "89581c54f4604a2b9a1eb8e1082ba7517bc24b43",
+      "title": "USA-selskaper gir cyber-etterretning til det offentlige Norge",
+      "link": "https://www.kode24.no/artikkel/usa-selskaper-gir-cyber-etterretning-til-det-offentlige-norge/270218",
+      "source": "Kode24",
+      "summary": "To av tre selskap som skal bidra til cybersikkerheten er amerikanske. – USA er ledende på en rekke områder, sier DFØ.",
+      "published": "2026-09-02T03:00:00Z"
+    },
+    {
+      "id": "9ca9f02c3341fab06c9c0d74d6d161e4fa3276c0",
+      "title": "Ut mot «Chat Control»: – Går for langt",
+      "link": "https://www.kode24.no/artikkel/ut-mot-chat-control-gar-for-langt/271106",
+      "source": "Kode24",
+      "summary": "Datatilsynet åtvarar mot eit av grepa EU-kommisjonen ønsker for å stanse overgrep mot barn på internett. – Vil ha massive og inngripande konsekvensar.",
+      "published": "2026-09-01T10:45:08Z"
+    },
+    {
+      "id": "dd1a7390be37165418fa3ae9172b2f157ed1e3f7",
+      "title": "Microsoft-brukere opplever problemer",
+      "link": "https://www.kode24.no/artikkel/microsoft-brukere-opplever-problemer/271260",
+      "source": "Kode24",
+      "summary": "Microsoft 365-brukere sliter blant annet med Copilot, OneDrive og Teams verden rundt.",
+      "published": "2026-09-01T10:00:51Z"
+    },
+    {
+      "id": "750162794974454e64858607ed67ca9a0f827629",
+      "title": "DNB-trøbbel: Saldoen ble borte, trodde han ble svindlet",
+      "link": "https://www.kode24.no/artikkel/dnb-trobbel-saldoen-ble-borte-trodde-han-ble-svindlet/271224",
+      "source": "Kode24",
+      "summary": "DNB-kunder opplever feil med saldoen, melder blant annet VG.",
+      "published": "2026-09-01T09:02:59Z"
+    },
+    {
+      "id": "25c2371bc30b8b4f4af07499994259eec3d91752",
+      "title": "Sondres KI-agent bestiller mat på Oda",
+      "link": "https://www.kode24.no/artikkel/sondres-ki-agent-bestiller-mat-pa-oda/271108",
+      "source": "Kode24",
+      "summary": "– Men agenten får ikke frie tøyler, skriver Sondre Andersen. Slik bygget hobbyutvikleren en privat KI-agent som skal fjerne hverdagsfriksjonen for familien.",
+      "published": "2026-09-01T08:28:55Z"
+    },
     {
       "id": "e7157fae62445258a5dd2bdeb70c3d77ffde2121",
       "title": "To nye til Arktaria: – Holder ikke at du bare er god faglig",
@@ -90,14 +162,6 @@
       "published": "2026-08-28T07:06:43Z"
     },
     {
-      "id": "57d053942422c4fb453730a1530e7c18a46a3b6c",
-      "title": "Vet ikke om angrepet var guttestreker eller statsterror: – Absurd",
-      "link": "https://www.kode24.no/artikkel/vet-ikke-om-angrepet-var-guttestreker-eller-statsterror-absurd/270952",
-      "source": "Kode24",
-      "summary": "– Uansett om det var Russland eller nabogutten denne gangen, var det jo greit at det var Altinn og MinID de angrep, skriver Ole Petter i ukas nyhetsbrev.",
-      "published": "2026-08-28T03:00:00Z"
-    },
-    {
       "id": "b28b99cd97ea0244d8c9f534a4c33b0f04aac052",
       "title": "OpenClaw went viral. Meet the maintainers building and securing it.",
       "link": "https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/",
@@ -107,76 +171,12 @@
       "image": "https://github.blog/wp-content/uploads/2026/02/header.jpg?resize=1024%2C538"
     },
     {
-      "id": "3c45ffe1bd58233fd1f80543be1e7d81820dc0ea",
-      "title": "Digdir: – Det er ikke staten de trenger å være urolige for",
-      "link": "https://www.kode24.no/artikkel/digdir-det-er-ikke-staten-de-trenger-a-vaere-urolige-for/270303",
-      "source": "Kode24",
-      "summary": "Private IT-aktører bør være mer bekymret for kunstig intelligens enn at staten skal gå dem i næringen, mener Digdir. – Ganske arrogant, svarer TEK Norge.",
-      "published": "2026-08-27T11:10:15Z"
-    },
-    {
-      "id": "3cda33829ca96fff0d15e6efd0993044719610ad",
-      "title": "Digdir vil ikke si om de bruker Cloudflare",
-      "link": "https://www.kode24.no/artikkel/digdir-vil-ikke-si-om-de-bruker-cloudflare/270918",
-      "source": "Kode24",
-      "summary": "– Vi forstår at spørsmål knyttet til sikkerhetssystemer og tekniske tiltak blir stilt, men vi vil ikke gå i detalj, forteller de til kode24.",
-      "published": "2026-08-27T08:38:17Z"
-    },
-    {
-      "id": "dc7469c055b52b3a7f17e0fdaf94f73bdf1747e3",
-      "title": "Digdir: – Alle løsninger fungerer normalt",
-      "link": "https://www.kode24.no/artikkel/digdir-alle-losninger-fungerer-normalt/270877",
-      "source": "Kode24",
-      "summary": "Etter flere dagers DDOS-angrep, friskmelder Digdir tjenester torsdag ettermiddag. Men det er fortsatt noen driftsforstyrrelser.",
-      "published": "2026-08-27T07:12:02Z"
-    },
-    {
-      "id": "1c82cacd708baf4da97b41feae250c49e4d9ed10",
-      "title": "Meta betaler 156 milliarder kroner etter forlik",
-      "link": "https://www.kode24.no/artikkel/meta-betaler-156-milliarder-kroner-etter-forlik/270895",
-      "source": "Kode24",
-      "summary": "Må punge ut og gjøre endringer i plattformene for å beskytte unge brukere.",
-      "published": "2026-08-27T07:05:56Z"
-    },
-    {
-      "id": "1c18b848431a6048c3c2614ac7f0fed8acf31fcf",
-      "title": "Bill Gates advarer mot KI",
-      "link": "https://www.kode24.no/artikkel/bill-gates-advarer-mot-ki/270873",
-      "source": "Kode24",
-      "summary": "Ser en rekke problemer, som vanskelig jobbmarked, og mener verden ikke forbereder seg godt nok.",
-      "published": "2026-08-27T06:44:36Z"
-    },
-    {
-      "id": "9d3992c75a89eb8efb39dc02882b39c753ec4ddb",
-      "title": "Gir seks uker ferie: – Vil si det har lønt seg",
-      "link": "https://www.kode24.no/artikkel/gir-seks-uker-ferie-vil-si-det-har-lont-seg/270648",
-      "source": "Kode24",
-      "summary": "Sopra Steria, Fink og Bekk gir sine ansatte seks uker ferie. Mens Atea gir utviklere fri for å jobbe frivillig.",
-      "published": "2026-08-27T03:00:00Z"
-    },
-    {
       "id": "c8665e3302856e9a27536c92fbccf3ccd9e52be3",
       "title": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
       "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/",
       "source": "GitHub Blog",
       "summary": "Managing library updates can be tedious at times. Learn how the GitHub Copilot app can handle this type of repetitive task. The post GitHub Copilot app for Beginners: Automate Dependabot pull request triage appeared first on The GitHub Blog.",
       "published": "2026-08-26T20:12:53Z"
-    },
-    {
-      "id": "2644f8aca43125a58a6ffd2e33afd40d44a6a8b7",
-      "title": "Gir 10.000 kroner for å finne en frontend-er i 2026",
-      "link": "https://www.kode24.no/artikkel/gir-10000-kroner-for-a-finne-en-frontend-er-i-2026/270544",
-      "source": "Kode24",
-      "summary": "Folio lover finnerlønn til den som finner den rette kandidaten, til tross for at jobbannonser nå kan få hundrevis av søkere.",
-      "published": "2026-08-26T12:03:36Z"
-    },
-    {
-      "id": "f2e6309a90b5aa13aee000a3a6ac176cb20bd572",
-      "title": "Tre nye til forsvar-startup: – Samler de skarpeste hodene",
-      "link": "https://www.kode24.no/artikkel/tre-nye-til-forsvar-startup-samler-de-skarpeste-hodene/270830",
-      "source": "Kode24",
-      "summary": "Stendr har ansatt tre utviklere som skal drive forsvarsteknologien fremover, med KI.",
-      "published": "2026-08-26T11:05:04Z"
     },
     {
       "id": "ee432ae628f758dad07db2ae5c7b653b90b15f5e",
