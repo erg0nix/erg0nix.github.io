@@ -1,6 +1,55 @@
 {
-  "generated_at": "2026-09-02T10:55:18.816930Z",
+  "generated_at": "2026-09-03T10:54:10.919730Z",
   "items": [
+    {
+      "id": "1081269165c6f63c1496c8768e4b30e92370bb2f",
+      "title": "GDPR gir deg rett til dataene dine, men ikke til å forstå dem",
+      "link": "https://www.kode24.no/artikkel/gdpr-gir-deg-rett-til-dataene-dine-men-ikke-til-a-forsta-dem/271080",
+      "source": "Kode24",
+      "summary": "Martin Kåsamoen Larsen krevde dataen sin, men fikk et salig rot fra alle. Nå gir han ut verktøyet han trengte for å rydde opp.",
+      "published": "2026-09-03T08:07:13Z"
+    },
+    {
+      "id": "9b639e0f18185bb57d39639e88a72b445d64678e",
+      "title": "Én av fem barn utsatt for seksuelle overgrep på nett",
+      "link": "https://www.kode24.no/artikkel/en-av-fem-barn-utsatt-for-seksuelle-overgrep-pa-nett/271480",
+      "source": "Kode24",
+      "summary": "– Stadig flere yngre blir rammet, sier generalsekretær Maria Greenberg Bergheim i Unicef Norge.",
+      "published": "2026-09-03T07:54:22Z"
+    },
+    {
+      "id": "31f30b5b73ea7fcf8cbb017009801edbc6356979",
+      "title": "Både Apple og Google følger Trumps «Lake America»-ordre",
+      "link": "https://www.kode24.no/artikkel/bade-apple-og-google-folger-trumps-lake-america-ordre/271466",
+      "source": "Kode24",
+      "summary": "Men bare 14 prosent av amerikanerne støtter navneendringen.",
+      "published": "2026-09-03T07:38:34Z"
+    },
+    {
+      "id": "b353cc06609f12ac858ab8f401453726b16c28e0",
+      "title": "Anine har en KI-kollega som heter Olaf",
+      "link": "https://www.kode24.no/artikkel/anine-har-en-ki-kollega-som-heter-olaf/271133",
+      "source": "Kode24",
+      "summary": "Snøkam sin KI-kollega Olaf gjør alt fra utvikling til HMS: – Han ringte meg en kveld og sa jeg ikke måtte sitte så lenge å jobbe, forteller Ukas Koder Anine Aarvold Harto.",
+      "published": "2026-09-03T04:00:00Z"
+    },
+    {
+      "id": "d64fc60e04825ca4b46fc0ad5293c73cb3b09ac1",
+      "title": "Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my!",
+      "link": "https://github.blog/ai-and-ml/decoding-the-new-ai-lingo-loops-harnesses-squads-hill-climbing-oh-my/",
+      "source": "GitHub Blog",
+      "summary": "From loop engineering to harnesses, squads, and open weights, the GitHub Podcast breaks down the AI terms showing up in developer conversations. The post Decoding the new AI lingo: Loops, harnesses, squads, hill climbing… oh my! appeared first on The GitHub Blog.",
+      "published": "2026-09-02T21:00:00Z"
+    },
+    {
+      "id": "b1844f5bda75e9cf299ef7ca549f348cdb0182b2",
+      "title": "How we make AI coding more cost efficient without sacrificing task quality",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
+      "source": "GitHub Blog",
+      "summary": "Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task. The post How we make AI coding more cost efficient without sacrificing task quality appeared first on The GitHub Blog.",
+      "published": "2026-09-02T18:00:00Z",
+      "image": "https://github.blog/wp-content/uploads/2026/09/Blog-Graphic-01.png?resize=1024%2C329"
+    },
     {
       "id": "b8b0c9561c73acbbc5e5b9e888a7cc41ba44fde1",
       "title": "Over 300 mister jobben i Posten Bring",
@@ -40,6 +89,15 @@
       "source": "Kode24",
       "summary": "To av tre selskap som skal bidra til cybersikkerheten er amerikanske. – USA er ledende på en rekke områder, sier DFØ.",
       "published": "2026-09-02T03:00:00Z"
+    },
+    {
+      "id": "21402bd7afe2afa5863f341631d48c0b563c80da",
+      "title": "Goroutine Leak Profiles",
+      "link": "https://go.dev/blog/goroutine-leak-profiles",
+      "source": "Go Blog",
+      "summary": "Go 1.27 includes new goroutine leak profiles.",
+      "published": "2026-09-02T00:00:00Z",
+      "image": "https://go.dev/blog/goroutine-leak-profiles/gc-original.svg"
     },
     {
       "id": "9ca9f02c3341fab06c9c0d74d6d161e4fa3276c0",
@@ -130,38 +188,6 @@
       "published": "2026-08-31T03:00:00Z"
     },
     {
-      "id": "33d0f3e740c1b9cd2c9cd9eacc7233e4e671e361",
-      "title": "Åtte nye til Computas i Trondheim: – Vi var utsolgt",
-      "link": "https://www.kode24.no/artikkel/atte-nye-til-computas-i-trondheim-vi-var-utsolgt/271065",
-      "source": "Kode24",
-      "summary": "Computas i Trondheim melder om så stor etterspørsel at de trengte flere folk.",
-      "published": "2026-08-28T13:31:29Z"
-    },
-    {
-      "id": "bc494384cdcebe3826d16cccdeb87ba89f14fdd9",
-      "title": "Kinesisk KI presser Nvidias brikke-monopol",
-      "link": "https://www.kode24.no/artikkel/kinesisk-ki-presser-nvidias-brikke-monopol/271013",
-      "source": "Kode24",
-      "summary": "En KI-modell som går utelukkende på kinesiske mikrobrikker utfordrer Nvidias monopol. – Kan gjøre KI billigere for alle, sier norsk KI-ekspert.",
-      "published": "2026-08-28T11:04:44Z"
-    },
-    {
-      "id": "b9ba4940c254676e00862a2646049252ec1ce7b6",
-      "title": "Tekna: – Han var en døråpner for norske teknologi­bedrifter",
-      "link": "https://www.kode24.no/artikkel/tekna-han-var-en-dorapner-for-norske-teknologibedrifter/270990",
-      "source": "Kode24",
-      "summary": "IT-bransjen takker for Hans Majestet Kong Haralds mangeårige innsats.",
-      "published": "2026-08-28T08:53:58Z"
-    },
-    {
-      "id": "294d0b8f57e4ac81595f707a27e342f665cd5a48",
-      "title": "Slik sørger statsmaktene over kongens død på nett",
-      "link": "https://www.kode24.no/artikkel/slik-sorger-statsmaktene-over-kongens-dod-pa-nett/270972",
-      "source": "Kode24",
-      "summary": "Nettsidene til statsmaktene preges av svarte farger etter kong Haralds død, og Kongehuset.no gikk ned for å gjøre endringer.",
-      "published": "2026-08-28T07:06:43Z"
-    },
-    {
       "id": "b28b99cd97ea0244d8c9f534a4c33b0f04aac052",
       "title": "OpenClaw went viral. Meet the maintainers building and securing it.",
       "link": "https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/",
@@ -246,23 +272,6 @@
       "published": "2026-08-14T16:00:00Z"
     },
     {
-      "id": "9831afcaad6cd3eab87682e35843d46ce4fb82b1",
-      "title": "Your guide to GitHub Universe 2026 is here: The schedule just launched!",
-      "link": "https://github.blog/news-insights/company-news/your-guide-to-github-universe-2026-is-here-the-schedule-just-launched/",
-      "source": "GitHub Blog",
-      "summary": "The GitHub Universe session catalog is live. Explore interactive workshops, community talks, demos, and panels. Plus, register before August 19 to save $300. The post Your guide to GitHub Universe 2026 is here: The schedule just launched! appeared first on The GitHub Blog.",
-      "published": "2026-08-13T19:00:00Z"
-    },
-    {
-      "id": "e718212bc83ece853ce6a019473335422cce112f",
-      "title": "What 50 open source projects taught us about security in the AI era",
-      "link": "https://github.blog/open-source/maintainers/what-50-open-source-projects-taught-us-about-security-in-the-ai-era/",
-      "source": "GitHub Blog",
-      "summary": "See how the open source projects in Session 4 of the GitHub Secure Open Source Fund combined AI-assisted workflows, maintainer expertise, GitHub security tools, expert guidance, and funding to improve project security. The post What 50 open source projects taught us about security in the AI era...",
-      "published": "2026-08-13T16:00:00Z",
-      "image": "https://github.blog/wp-content/uploads/2026/08/openclaw.png?resize=1920%2C1080"
-    },
-    {
       "id": "7ae1dda67f7f810e6d77f7a3e7778ae9abd39902",
       "title": "Introducing the pkg.go.dev API",
       "link": "https://go.dev/blog/pkgsite-api",
@@ -321,14 +330,6 @@
       "summary": "The 2025 Go Developer Survey results, focused on developer sentiment towards Go, use cases, challenges, and developer environments.",
       "published": "2026-01-21T00:00:00Z",
       "image": "https://go.dev/blog/survey2025/where.svg"
-    },
-    {
-      "id": "0ea1e6845fb72fccd664b752f5ee51bd9c6de569",
-      "title": "Go’s Sweet 16",
-      "link": "https://go.dev/blog/16years",
-      "source": "Go Blog",
-      "summary": "Happy Birthday, Go!",
-      "published": "2025-11-14T00:00:00Z"
     }
   ]
 }
