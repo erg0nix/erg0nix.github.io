@@ -1,6 +1,70 @@
 {
-  "generated_at": "2026-09-03T10:54:10.919730Z",
+  "generated_at": "2026-09-04T10:54:18.089873Z",
   "items": [
+    {
+      "id": "330e0520f115c31abdb9b3bbd7de035334c24d64",
+      "title": "KI-trøbbel for Kripos: Bruker tid på å finne folk som ikke finnes",
+      "link": "https://www.kode24.no/artikkel/ki-trobbel-for-kripos-bruker-tid-pa-a-finne-folk-som-ikke-finnes/267267",
+      "source": "Kode24",
+      "summary": "I sommer ble en nordmann dømt til fengsel for 8.000 KI-genererte seksualiserte bilder av barn. Slike vanskelige saker blir stadig vanligere, forteller Kripos.",
+      "published": "2026-09-04T08:56:14Z"
+    },
+    {
+      "id": "d165f82dab000db5fd1a62f93ed91f9e40e68927",
+      "title": "Derfor bør du prøve splitter nye «flex-wrap: balance»",
+      "link": "https://www.kode24.no/artikkel/derfor-bor-du-prove-splitter-nye-flex-wrap-balance/271499",
+      "source": "Kode24",
+      "summary": "Se hvordan du bruker den nye CSS-verdien, hvordan verifisering av epost-adresser snart kan gjøres i nettleseren og hvordan Zod 4.5 bruker mye mindre minne, i ukas ForrigeUke.",
+      "published": "2026-09-04T08:34:41Z"
+    },
+    {
+      "id": "c8e78311efc9d69634aa4b48de5777495ee4a937",
+      "title": "Dustin stengt ned etter datainnbrudd",
+      "link": "https://www.kode24.no/artikkel/dustin-stengt-ned-etter-datainnbrudd/271581",
+      "source": "Kode24",
+      "summary": "Nettbutikken undersøker et mulig innbrudd, som kan ha sendt personlig data på avveie.",
+      "published": "2026-09-04T06:41:30Z"
+    },
+    {
+      "id": "2b5890828e7f15a31e45da1e838d360a014b7691",
+      "title": "Nav med KI-generert stand: «Ekstremt dårlig idé»",
+      "link": "https://www.kode24.no/artikkel/nav-med-ki-generert-stand-ekstremt-darlig-ide/271557",
+      "source": "Kode24",
+      "summary": "Nav stilte på Javazone med KI-generert stand, og mange reagerer. – For KI-innhold er søppel, skriver Ole Petter i ukas nyhetsbrev, etter flere liknende saker på samme uke.",
+      "published": "2026-09-04T03:00:00Z"
+    },
+    {
+      "id": "34770178b42e00e479a31de04f7590929374b624",
+      "title": "GitHub Copilot app for Beginners: Run several agents at once",
+      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/",
+      "source": "GitHub Blog",
+      "summary": "Learn how to run parallel agents in the GitHub Copilot app, and experience the moment it stops feeling scary and starts feeling powerful. The post GitHub Copilot app for Beginners: Run several agents at once appeared first on The GitHub Blog.",
+      "published": "2026-09-03T16:00:00Z"
+    },
+    {
+      "id": "6ade06b423e84c6871dc468022a2b2d5a94f2e1c",
+      "title": "Raser mot KrF-emojier: – Tror ikke Jesus hadde likt KI",
+      "link": "https://www.kode24.no/artikkel/raser-mot-krf-emojier-tror-ikke-jesus-hadde-likt-ki/271468",
+      "source": "Kode24",
+      "summary": "KrF får kritikk for KI-emojier, og Orkla for KI-bestemor. – Jeg tror ikke Jesus hadde likt KI, sier illustratør Flu Hartberg.",
+      "published": "2026-09-03T12:33:19Z"
+    },
+    {
+      "id": "df9f7329b3267e7d884b431c77b55b0760ce6809",
+      "title": "Posten Bring håper KI vil få IT-kutt i havn",
+      "link": "https://www.kode24.no/artikkel/posten-bring-haper-ki-vil-fa-it-kutt-i-havn/271532",
+      "source": "Kode24",
+      "summary": "Bekrefter at IT er en del av kostnadskuttene, men tror KI vil føre til færre konsulenter og billigere tjenester.",
+      "published": "2026-09-03T11:30:58Z"
+    },
+    {
+      "id": "9c3e37c66e3ac15e9f59c32b37c49721c1f6392e",
+      "title": "Knowit går fra fire til ett navn: – Ikke KI som truer oss",
+      "link": "https://www.kode24.no/artikkel/knowit-gar-fra-fire-til-ett-navn-ikke-ki-som-truer-oss/271507",
+      "source": "Kode24",
+      "summary": "Knowit Solutions og Knowit Experience blir Knowit Norge. Og den nye norgessjefen er mer redd gammeldagse konsulenter enn KI.",
+      "published": "2026-09-03T09:43:41Z"
+    },
     {
       "id": "1081269165c6f63c1496c8768e4b30e92370bb2f",
       "title": "GDPR gir deg rett til dataene dine, men ikke til å forstå dem",
@@ -132,62 +196,6 @@
       "published": "2026-09-01T08:28:55Z"
     },
     {
-      "id": "e7157fae62445258a5dd2bdeb70c3d77ffde2121",
-      "title": "To nye til Arktaria: – Holder ikke at du bare er god faglig",
-      "link": "https://www.kode24.no/artikkel/to-nye-til-arktaria-holder-ikke-at-du-bare-er-god-faglig/271186",
-      "source": "Kode24",
-      "summary": "Jens Markussen og Øyvind Bjerkvik er nye utviklere hos Arktaria, men skal ikke bare være utviklere.",
-      "published": "2026-09-01T06:48:18Z"
-    },
-    {
-      "id": "e10a1d6cb3efb2ae0e062d55fe67c471bed7e908",
-      "title": "Advarer om ukontrollert KI-bruk i kommunene",
-      "link": "https://www.kode24.no/artikkel/advarer-om-ukontrollert-ki-bruk-i-kommunene/270636",
-      "source": "Kode24",
-      "summary": "Datatilsynet får flere avviksmeldinger om at KI-agenter med for mye tilgang blir som «digitale spøkelser» og virus.",
-      "published": "2026-09-01T03:00:00Z"
-    },
-    {
-      "id": "688d35bd51bec55da592d80f9936dccc1cbdcaae",
-      "title": "KI-genererte filmer har nådd kinosalen: – Noen oppgaver og fag vil forsvinne",
-      "link": "https://www.kode24.no/artikkel/ki-genererte-filmer-har-nadd-kinosalen-noen-oppgaver-og-fag-vil-forsvinne/270438",
-      "source": "Kode24",
-      "summary": "Kunstig intelligens endrer hvordan vi forteller historier på, og bransjen til dem som forteller dem. – Det er helt naivt å late som noe annet, tror norsk regissør.",
-      "published": "2026-08-31T11:31:20Z"
-    },
-    {
-      "id": "e7cf199feac3892826b836b9dc987f45a0906d7d",
-      "title": "IBM saksøker norsk statlig IT-selskap",
-      "link": "https://www.kode24.no/artikkel/ibm-saksoker-norsk-statlig-it-selskap/271113",
-      "source": "Kode24",
-      "summary": "IBM saksøker Hemit for å holde tilbake flere millioner kroner, mens Hemit mener IBMs leveranser ikke holder mål, melder Digi.",
-      "published": "2026-08-31T09:38:33Z"
-    },
-    {
-      "id": "2c4e6476bcd3694d5516b74599dc32b2535bfe2b",
-      "title": "Vår nye konge om KI: – Vil revolusjonere vår måte å leve på",
-      "link": "https://www.kode24.no/artikkel/var-nye-konge-om-ki-vil-revolusjonere-var-mate-a-leve-pa/270914",
-      "source": "Kode24",
-      "summary": "Kong Harald snakket om KI allerede i 2017, mens vår nye kong Haakon tror teknologien vil påvirke oss på måter vi ennå ikke forstår.",
-      "published": "2026-08-31T08:03:37Z"
-    },
-    {
-      "id": "ea2d2a45e1bd80ab07b9b1ace92f5a13e30bf723",
-      "title": "DDOS-angrep mot Sikt",
-      "link": "https://www.kode24.no/artikkel/ddos-angrep-mot-sikt/271093",
-      "source": "Kode24",
-      "summary": "Ifølge Khrono påstår en russisk hackergruppe at de har utført tjenestenektangrep mot Feide, Educloud, Sikt, fsweb, Samordna opptak og Universitetet i Oslo.",
-      "published": "2026-08-31T06:24:43Z"
-    },
-    {
-      "id": "00c530bff0b697375e918e5e5119d4f79233386d",
-      "title": "Pressfire.no kutter sporing: – Fuck normen",
-      "link": "https://www.kode24.no/artikkel/pressfireno-kutter-sporing-fuck-normen/271023",
-      "source": "Kode24",
-      "summary": "– Er en nettside gratis, er det du som er valutaen, skriver Pressfire-redaktør Erik Fossum. – Jeg liker det ikke. Så jeg tenkte at det var på tide å gjøre noe nytt.",
-      "published": "2026-08-31T03:00:00Z"
-    },
-    {
       "id": "b28b99cd97ea0244d8c9f534a4c33b0f04aac052",
       "title": "OpenClaw went viral. Meet the maintainers building and securing it.",
       "link": "https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/",
@@ -262,14 +270,6 @@
       "summary": "Chat is great for intent, but agent work gets lost in the scroll. Here is how I use canvases with my agentic workflows—and why your workflow also deserves a canvas. The post How canvases make agentic workflows visible, steerable, and cost-efficient appeared first on The GitHub Blog.",
       "published": "2026-08-17T16:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2026/08/623371402-ddb0772d-e566-4895-b030-6be9b0fe304c.png?resize=1024%2C312"
-    },
-    {
-      "id": "605d809e9e78d2aefbc0a1a8d7f9924c3fb910e3",
-      "title": "How to bring your software delivery workflow into GitHub with agent apps",
-      "link": "https://github.blog/ai-and-ml/github-copilot/how-to-bring-your-software-delivery-workflow-into-github-with-agent-apps/",
-      "source": "GitHub Blog",
-      "summary": "See how four GitHub agent apps can help you scope, secure, roll out, and ship a feature across the SDLC–all without leaving GitHub. The post How to bring your software delivery workflow into GitHub with agent apps appeared first on The GitHub Blog.",
-      "published": "2026-08-14T16:00:00Z"
     },
     {
       "id": "7ae1dda67f7f810e6d77f7a3e7778ae9abd39902",
