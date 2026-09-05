@@ -1,6 +1,31 @@
 {
-  "generated_at": "2026-09-04T10:54:18.089873Z",
+  "generated_at": "2026-09-05T10:13:59.284477Z",
   "items": [
+    {
+      "id": "22227696811376731c303d21481fc09ddcfc2c97",
+      "title": "Nye DDOS-angrep: Norge må bli sikrere, mener NSM",
+      "link": "https://www.kode24.no/artikkel/nye-ddos-angrep-norge-ma-bli-sikrere-mener-nsm/271705",
+      "source": "Kode24",
+      "summary": "– Virksomheter i Norge må sørge for reserveløsninger og må øve på hvordan de håndterer denne typen hendelser, sier NSM etter flere DDOS-angrep.",
+      "published": "2026-09-04T17:05:49Z"
+    },
+    {
+      "id": "de9c8e6cebd779381d6309c486b77b9acf2cab83",
+      "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
+      "link": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
+      "source": "GitHub Blog",
+      "summary": "In controlled offline evaluations, HydraFusion’s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated workflow cost. Now available as a research preview in GitHub Copilot. The post Project HydraFusion: Frontier quality via multi-model orchestration...",
+      "published": "2026-09-04T16:04:14Z",
+      "image": "https://github.blog/wp-content/uploads/2026/09/HydraFusion_architecture_02.png?resize=1024%2C334"
+    },
+    {
+      "id": "7731e989da76bea59f3f3840c3f5148f4b0698b6",
+      "title": "– Ingen sporing er ingenting å være stolt av",
+      "link": "https://www.kode24.no/artikkel/ingen-sporing-er-ingenting-a-vaere-stolt-av/271463",
+      "source": "Kode24",
+      "summary": "– Å være indie er nobelt, men bra for journalistikken er det ikke, skriver ansvarlig redaktør i kode24, Hilde Schjerve.",
+      "published": "2026-09-04T10:51:37Z"
+    },
     {
       "id": "330e0520f115c31abdb9b3bbd7de035334c24d64",
       "title": "KI-trøbbel for Kripos: Bruker tid på å finne folk som ikke finnes",
@@ -180,22 +205,6 @@
       "published": "2026-09-01T10:00:51Z"
     },
     {
-      "id": "750162794974454e64858607ed67ca9a0f827629",
-      "title": "DNB-trøbbel: Saldoen ble borte, trodde han ble svindlet",
-      "link": "https://www.kode24.no/artikkel/dnb-trobbel-saldoen-ble-borte-trodde-han-ble-svindlet/271224",
-      "source": "Kode24",
-      "summary": "DNB-kunder opplever feil med saldoen, melder blant annet VG.",
-      "published": "2026-09-01T09:02:59Z"
-    },
-    {
-      "id": "25c2371bc30b8b4f4af07499994259eec3d91752",
-      "title": "Sondres KI-agent bestiller mat på Oda",
-      "link": "https://www.kode24.no/artikkel/sondres-ki-agent-bestiller-mat-pa-oda/271108",
-      "source": "Kode24",
-      "summary": "– Men agenten får ikke frie tøyler, skriver Sondre Andersen. Slik bygget hobbyutvikleren en privat KI-agent som skal fjerne hverdagsfriksjonen for familien.",
-      "published": "2026-09-01T08:28:55Z"
-    },
-    {
       "id": "b28b99cd97ea0244d8c9f534a4c33b0f04aac052",
       "title": "OpenClaw went viral. Meet the maintainers building and securing it.",
       "link": "https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/",
@@ -261,15 +270,6 @@
       "source": "Go Blog",
       "summary": "Go 1.27 adds generic methods, encoding/json/v2 package, uuid package, faster memory allocation, goroutine leak profiles, and more.",
       "published": "2026-08-19T00:00:00Z"
-    },
-    {
-      "id": "59590c5eac8768a1e9f876add821e252d80242dd",
-      "title": "How canvases make agentic workflows visible, steerable, and cost-efficient",
-      "link": "https://github.blog/ai-and-ml/github-copilot/how-canvases-make-agentic-workflows-visible-steerable-and-cost-efficient/",
-      "source": "GitHub Blog",
-      "summary": "Chat is great for intent, but agent work gets lost in the scroll. Here is how I use canvases with my agentic workflows—and why your workflow also deserves a canvas. The post How canvases make agentic workflows visible, steerable, and cost-efficient appeared first on The GitHub Blog.",
-      "published": "2026-08-17T16:00:00Z",
-      "image": "https://github.blog/wp-content/uploads/2026/08/623371402-ddb0772d-e566-4895-b030-6be9b0fe304c.png?resize=1024%2C312"
     },
     {
       "id": "7ae1dda67f7f810e6d77f7a3e7778ae9abd39902",
