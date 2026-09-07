@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-09-06T10:34:33.009656Z",
+  "generated_at": "2026-09-07T11:58:43.775727Z",
   "items": [
+    {
+      "id": "40d344b9b636c047bd93df2d719a775492b52a37",
+      "title": "Asker kommune vinner anti-pris for KI-bommert",
+      "link": "https://www.kode24.no/artikkel/asker-kommune-vinner-anti-pris-for-ki-bommert/271735",
+      "source": "Kode24",
+      "summary": "Tenkekassa 2026 går til Asker kommune, etter bruk av en KI-oppdikta dom i vedtak.",
+      "published": "2026-09-07T09:07:50Z"
+    },
+    {
+      "id": "d3c7a1e85537b1caf5b9be6349af58110a9a90cd",
+      "title": "Regner med nye angrep under kongens begravelse",
+      "link": "https://www.kode24.no/artikkel/regner-med-nye-angrep-under-kongens-begravelse/271721",
+      "source": "Kode24",
+      "summary": "– Tjenestenektangrep vil jeg si er så å si 99 prosent eller mer garantert. Det vil fortsette, sier sikkerhetsekspert Lars Eirik Berg.",
+      "published": "2026-09-07T06:21:52Z"
+    },
+    {
+      "id": "f0ad6e3257261d6dca506e6a498c793f2aa61592",
+      "title": "1 av 2 norske utviklere genererer det meste eller alt med KI",
+      "link": "https://www.kode24.no/artikkel/1-av-2-norske-utviklere-genererer-det-meste-eller-alt-med-ki/271449",
+      "source": "Kode24",
+      "summary": "Samtidig er 81 prosent bekymra for feil de aldri oppdager, viser kode24s tall. – For hvis så mye kode blir generert, har man da kontroll på det som kommer ut?",
+      "published": "2026-09-07T03:00:00Z"
+    },
     {
       "id": "22227696811376731c303d21481fc09ddcfc2c97",
       "title": "Nye DDOS-angrep: Norge må bli sikrere, mener NSM",
@@ -172,14 +196,6 @@
       "published": "2026-09-02T07:07:26Z"
     },
     {
-      "id": "89581c54f4604a2b9a1eb8e1082ba7517bc24b43",
-      "title": "USA-selskaper gir cyber-etterretning til det offentlige Norge",
-      "link": "https://www.kode24.no/artikkel/usa-selskaper-gir-cyber-etterretning-til-det-offentlige-norge/270218",
-      "source": "Kode24",
-      "summary": "To av tre selskap som skal bidra til cybersikkerheten er amerikanske. – USA er ledende på en rekke områder, sier DFØ.",
-      "published": "2026-09-02T03:00:00Z"
-    },
-    {
       "id": "21402bd7afe2afa5863f341631d48c0b563c80da",
       "title": "Goroutine Leak Profiles",
       "link": "https://go.dev/blog/goroutine-leak-profiles",
@@ -187,22 +203,6 @@
       "summary": "Go 1.27 includes new goroutine leak profiles.",
       "published": "2026-09-02T00:00:00Z",
       "image": "https://go.dev/blog/goroutine-leak-profiles/gc-original.svg"
-    },
-    {
-      "id": "9ca9f02c3341fab06c9c0d74d6d161e4fa3276c0",
-      "title": "Ut mot «Chat Control»: – Går for langt",
-      "link": "https://www.kode24.no/artikkel/ut-mot-chat-control-gar-for-langt/271106",
-      "source": "Kode24",
-      "summary": "Datatilsynet åtvarar mot eit av grepa EU-kommisjonen ønsker for å stanse overgrep mot barn på internett. – Vil ha massive og inngripande konsekvensar.",
-      "published": "2026-09-01T10:45:08Z"
-    },
-    {
-      "id": "dd1a7390be37165418fa3ae9172b2f157ed1e3f7",
-      "title": "Microsoft-brukere opplever problemer",
-      "link": "https://www.kode24.no/artikkel/microsoft-brukere-opplever-problemer/271260",
-      "source": "Kode24",
-      "summary": "Microsoft 365-brukere sliter blant annet med Copilot, OneDrive og Teams verden rundt.",
-      "published": "2026-09-01T10:00:51Z"
     },
     {
       "id": "b28b99cd97ea0244d8c9f534a4c33b0f04aac052",
