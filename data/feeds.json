@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-09-08T10:54:00.098556Z",
+  "generated_at": "2026-09-09T10:58:44.251499Z",
   "items": [
+    {
+      "id": "60ac5d10fe7236f310397737b5eca1c98f757382",
+      "title": "Reagerer på KI-bilde av kong Harald: – Hvem er det der!?",
+      "link": "https://www.kode24.no/artikkel/reagerer-pa-ki-bilde-av-kong-harald-hvem-er-det-der/271933",
+      "source": "Kode24",
+      "summary": "Spenst Jessheim avlyste gruppetimer med et KI-generert bilde av kong Harald, og er ikke alene om å høste kritikk.",
+      "published": "2026-09-09T09:10:58Z"
+    },
+    {
+      "id": "86c7478da3bf0e5f494a2167e079ea673dc9a713",
+      "title": "Hackere stjeler Claude-tokens fra brukerne",
+      "link": "https://www.kode24.no/artikkel/hackere-stjeler-claude-tokens-fra-brukerne/271929",
+      "source": "Kode24",
+      "summary": "Kommentarene hagler på Reddit etter at hackere har begynt å stjele Claude-tokens.",
+      "published": "2026-09-09T08:49:51Z"
+    },
+    {
+      "id": "a524d6945f0729d0535d765e0f2c2b7c135f7f78",
+      "title": "Testa Headroom: Skal kutte KI-regninga, men økte Marina sin",
+      "link": "https://www.kode24.no/artikkel/testa-headroom-skal-kutte-ki-regninga-men-okte-marina-sin/271935",
+      "source": "Kode24",
+      "summary": "Da Marina Santos Haugen testa Headroom, fant hun noe overraskende: – Headroom er bygget for klienter som ikke cacher. Og det blir stadig færre av dem.",
+      "published": "2026-09-09T07:55:27Z"
+    },
+    {
+      "id": "a9467ded22d502356ddb477bd0f62df620d64702",
+      "title": "Daniel gjen­oppliver NRKs Superia",
+      "link": "https://www.kode24.no/artikkel/daniel-gjenoppliver-nrks-superia/270023",
+      "source": "Kode24",
+      "summary": "Mange år etter nedleggelsen av NRKs spillverden, vil Daniel Christensen tilbake til barndomsminnet. – Så jeg gravde meg ned i et kaninhull.",
+      "published": "2026-09-09T03:00:00Z"
+    },
+    {
+      "id": "530d148ddf11488789d926ea1a320f5a8ef4a562",
+      "title": "– Våre nye juniorer er Codex og Copilot",
+      "link": "https://www.kode24.no/artikkel/vare-nye-juniorer-er-codex-og-copilot/271644",
+      "source": "Kode24",
+      "summary": "Glow fikk i fjor to nye juniorutviklere, Codex og Copilot, sa Morten Andersen-Gott på Javazone. Men han tror ikke KI tar fra juniorer jobben, likevel.",
+      "published": "2026-09-08T13:29:29Z"
+    },
+    {
+      "id": "ff7dbb446c0d9b1418bc5c8a97c149c98feed8cf",
+      "title": "Derfor snakker alle om Metas StyleX",
+      "link": "https://www.kode24.no/artikkel/derfor-snakker-alle-om-metas-stylex/271895",
+      "source": "Kode24",
+      "summary": "Et nytt KI-vennlig alternativ til CSS, et nytt browser-API i React og TanStack + Vercel = sant, i ukas ForrigeUke.",
+      "published": "2026-09-08T11:12:14Z"
+    },
     {
       "id": "0e989362cecdad2928682c6dbfe841cba2c30756",
       "title": "Flere års utvikling bak VGs minneside for kong Harald",
@@ -123,60 +171,12 @@
       "published": "2026-09-04T06:41:30Z"
     },
     {
-      "id": "2b5890828e7f15a31e45da1e838d360a014b7691",
-      "title": "Nav med KI-generert stand: «Ekstremt dårlig idé»",
-      "link": "https://www.kode24.no/artikkel/nav-med-ki-generert-stand-ekstremt-darlig-ide/271557",
-      "source": "Kode24",
-      "summary": "Nav stilte på Javazone med KI-generert stand, og mange reagerer. – For KI-innhold er søppel, skriver Ole Petter i ukas nyhetsbrev, etter flere liknende saker på samme uke.",
-      "published": "2026-09-04T03:00:00Z"
-    },
-    {
       "id": "34770178b42e00e479a31de04f7590929374b624",
       "title": "GitHub Copilot app for Beginners: Run several agents at once",
       "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-run-several-agents-at-once/",
       "source": "GitHub Blog",
       "summary": "Learn how to run parallel agents in the GitHub Copilot app, and experience the moment it stops feeling scary and starts feeling powerful. The post GitHub Copilot app for Beginners: Run several agents at once appeared first on The GitHub Blog.",
       "published": "2026-09-03T16:00:00Z"
-    },
-    {
-      "id": "6ade06b423e84c6871dc468022a2b2d5a94f2e1c",
-      "title": "Raser mot KrF-emojier: – Tror ikke Jesus hadde likt KI",
-      "link": "https://www.kode24.no/artikkel/raser-mot-krf-emojier-tror-ikke-jesus-hadde-likt-ki/271468",
-      "source": "Kode24",
-      "summary": "KrF får kritikk for KI-emojier, og Orkla for KI-bestemor. – Jeg tror ikke Jesus hadde likt KI, sier illustratør Flu Hartberg.",
-      "published": "2026-09-03T12:33:19Z"
-    },
-    {
-      "id": "df9f7329b3267e7d884b431c77b55b0760ce6809",
-      "title": "Posten Bring håper KI vil få IT-kutt i havn",
-      "link": "https://www.kode24.no/artikkel/posten-bring-haper-ki-vil-fa-it-kutt-i-havn/271532",
-      "source": "Kode24",
-      "summary": "Bekrefter at IT er en del av kostnadskuttene, men tror KI vil føre til færre konsulenter og billigere tjenester.",
-      "published": "2026-09-03T11:30:58Z"
-    },
-    {
-      "id": "9c3e37c66e3ac15e9f59c32b37c49721c1f6392e",
-      "title": "Knowit går fra fire til ett navn: – Ikke KI som truer oss",
-      "link": "https://www.kode24.no/artikkel/knowit-gar-fra-fire-til-ett-navn-ikke-ki-som-truer-oss/271507",
-      "source": "Kode24",
-      "summary": "Knowit Solutions og Knowit Experience blir Knowit Norge. Og den nye norgessjefen er mer redd gammeldagse konsulenter enn KI.",
-      "published": "2026-09-03T09:43:41Z"
-    },
-    {
-      "id": "1081269165c6f63c1496c8768e4b30e92370bb2f",
-      "title": "GDPR gir deg rett til dataene dine, men ikke til å forstå dem",
-      "link": "https://www.kode24.no/artikkel/gdpr-gir-deg-rett-til-dataene-dine-men-ikke-til-a-forsta-dem/271080",
-      "source": "Kode24",
-      "summary": "Martin Kåsamoen Larsen krevde dataen sin, men fikk et salig rot fra alle. Nå gir han ut verktøyet han trengte for å rydde opp.",
-      "published": "2026-09-03T08:07:13Z"
-    },
-    {
-      "id": "9b639e0f18185bb57d39639e88a72b445d64678e",
-      "title": "Én av fem barn utsatt for seksuelle overgrep på nett",
-      "link": "https://www.kode24.no/artikkel/en-av-fem-barn-utsatt-for-seksuelle-overgrep-pa-nett/271480",
-      "source": "Kode24",
-      "summary": "– Stadig flere yngre blir rammet, sier generalsekretær Maria Greenberg Bergheim i Unicef Norge.",
-      "published": "2026-09-03T07:54:22Z"
     },
     {
       "id": "d64fc60e04825ca4b46fc0ad5293c73cb3b09ac1",
