@@ -1,6 +1,55 @@
 {
-  "generated_at": "2026-09-09T10:58:44.251499Z",
+  "generated_at": "2026-09-10T10:55:51.243366Z",
   "items": [
+    {
+      "id": "461837577229db947f1e63a48a38ac7e0e70294a",
+      "title": "Forskere advarer: – KI kan drepe oss",
+      "link": "https://www.kode24.no/artikkel/forskere-advarer-ki-kan-drepe-oss/272053",
+      "source": "Kode24",
+      "summary": "Forskere i Anthropic mener kunstig intelligens kan utrydde menneskeheten i løpet av tiåret. Én av dem har nå sagt opp jobben i protest.",
+      "published": "2026-09-10T09:02:43Z"
+    },
+    {
+      "id": "96d1b35013edf597f0ebf6c84e3a74ff012cb866",
+      "title": "Shopify kjøper Tailwind",
+      "link": "https://www.kode24.no/artikkel/shopify-kjoper-tailwind/272061",
+      "source": "Kode24",
+      "summary": "Etter å ha sparka utviklerne fordi alle brukerne var KI, har de nå funnet en trygg havn.",
+      "published": "2026-09-10T08:18:49Z"
+    },
+    {
+      "id": "85803bd102fceea58642fc91c39521fd8d84021b",
+      "title": "Nå kommer smartbrille- og datasenter-debatten tilbake",
+      "link": "https://www.kode24.no/artikkel/na-kommer-smartbrille-og-datasenter-debatten-tilbake/272040",
+      "source": "Kode24",
+      "summary": "Borgfreden i Norge er over, og politikerne kan diskutere igjen.",
+      "published": "2026-09-10T06:53:23Z"
+    },
+    {
+      "id": "8392da1da64b1e29f2a0d7e9f7431ff6ecebb85e",
+      "title": "Norske KI-kodere kan vente stor ryddejobb, enda høyere regning",
+      "link": "https://www.kode24.no/artikkel/norske-ki-kodere-kan-vente-stor-ryddejobb-enda-hoyere-regning/271893",
+      "source": "Kode24",
+      "summary": "Det spår de fire ekspertene kode24 snakker med, om konsekvensene av at halvparten av norsk kode nå er KI-generert.",
+      "published": "2026-09-10T03:00:00Z"
+    },
+    {
+      "id": "36c7aff9ab1463b135595d70facf271c9215d0d5",
+      "title": "GitHub availability report: August 2026",
+      "link": "https://github.blog/news-insights/company-news/github-availability-report-august-2026/",
+      "source": "GitHub Blog",
+      "summary": "In August, we experienced five incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: August 2026 appeared first on The GitHub Blog.",
+      "published": "2026-09-10T02:05:17Z",
+      "image": "https://github.blog/wp-content/uploads/2026/09/Actions-Run-Start_delay.png?resize=1024%2C509"
+    },
+    {
+      "id": "5d8896b4f0f0ab4953fd81c901ccd78ef686ac98",
+      "title": "Slipper ny Elon Musk-dokumentar: «Ekstremt farlig»",
+      "link": "https://www.kode24.no/artikkel/slipper-ny-elon-musk-dokumentar-ekstremt-farlig/271994",
+      "source": "Kode24",
+      "summary": "Alex Gibneys eksplosive dokumentar om Elon Musk skal ikke være nådig.",
+      "published": "2026-09-09T11:40:12Z"
+    },
     {
       "id": "60ac5d10fe7236f310397737b5eca1c98f757382",
       "title": "Reagerer på KI-bilde av kong Harald: – Hvem er det der!?",
@@ -122,14 +171,6 @@
       "published": "2026-09-07T03:00:00Z"
     },
     {
-      "id": "22227696811376731c303d21481fc09ddcfc2c97",
-      "title": "Nye DDOS-angrep: Norge må bli sikrere, mener NSM",
-      "link": "https://www.kode24.no/artikkel/nye-ddos-angrep-norge-ma-bli-sikrere-mener-nsm/271705",
-      "source": "Kode24",
-      "summary": "– Virksomheter i Norge må sørge for reserveløsninger og må øve på hvordan de håndterer denne typen hendelser, sier NSM etter flere DDOS-angrep.",
-      "published": "2026-09-04T17:05:49Z"
-    },
-    {
       "id": "de9c8e6cebd779381d6309c486b77b9acf2cab83",
       "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
       "link": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
@@ -137,38 +178,6 @@
       "summary": "In controlled offline evaluations, HydraFusion’s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated workflow cost. Now available as a research preview in GitHub Copilot. The post Project HydraFusion: Frontier quality via multi-model orchestration...",
       "published": "2026-09-04T16:04:14Z",
       "image": "https://github.blog/wp-content/uploads/2026/09/HydraFusion_architecture_02.png?resize=1024%2C334"
-    },
-    {
-      "id": "7731e989da76bea59f3f3840c3f5148f4b0698b6",
-      "title": "– Ingen sporing er ingenting å være stolt av",
-      "link": "https://www.kode24.no/artikkel/ingen-sporing-er-ingenting-a-vaere-stolt-av/271463",
-      "source": "Kode24",
-      "summary": "– Å være indie er nobelt, men bra for journalistikken er det ikke, skriver ansvarlig redaktør i kode24, Hilde Schjerve.",
-      "published": "2026-09-04T10:51:37Z"
-    },
-    {
-      "id": "330e0520f115c31abdb9b3bbd7de035334c24d64",
-      "title": "KI-trøbbel for Kripos: Bruker tid på å finne folk som ikke finnes",
-      "link": "https://www.kode24.no/artikkel/ki-trobbel-for-kripos-bruker-tid-pa-a-finne-folk-som-ikke-finnes/267267",
-      "source": "Kode24",
-      "summary": "I sommer ble en nordmann dømt til fengsel for 8.000 KI-genererte seksualiserte bilder av barn. Slike vanskelige saker blir stadig vanligere, forteller Kripos.",
-      "published": "2026-09-04T08:56:14Z"
-    },
-    {
-      "id": "d165f82dab000db5fd1a62f93ed91f9e40e68927",
-      "title": "Derfor bør du prøve splitter nye «flex-wrap: balance»",
-      "link": "https://www.kode24.no/artikkel/derfor-bor-du-prove-splitter-nye-flex-wrap-balance/271499",
-      "source": "Kode24",
-      "summary": "Se hvordan du bruker den nye CSS-verdien, hvordan verifisering av epost-adresser snart kan gjøres i nettleseren og hvordan Zod 4.5 bruker mye mindre minne, i ukas ForrigeUke.",
-      "published": "2026-09-04T08:34:41Z"
-    },
-    {
-      "id": "c8e78311efc9d69634aa4b48de5777495ee4a937",
-      "title": "Dustin stengt ned etter datainnbrudd",
-      "link": "https://www.kode24.no/artikkel/dustin-stengt-ned-etter-datainnbrudd/271581",
-      "source": "Kode24",
-      "summary": "Nettbutikken undersøker et mulig innbrudd, som kan ha sendt personlig data på avveie.",
-      "published": "2026-09-04T06:41:30Z"
     },
     {
       "id": "34770178b42e00e479a31de04f7590929374b624",
@@ -254,14 +263,6 @@
       "summary": "An update on the August 17 outage and the steps we're taking to improve reliability. The post The August 17 outage, and the work ahead appeared first on The GitHub Blog.",
       "published": "2026-08-20T18:36:11Z",
       "image": "https://github.blog/wp-content/uploads/2026/08/blog-post-aug-17-outage-1.png?resize=1024%2C576"
-    },
-    {
-      "id": "8c066a472bd8adfd2cd011656133f0f1b730520d",
-      "title": "GitHub Copilot app for Beginners: Managing your work",
-      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-managing-your-work/",
-      "source": "GitHub Blog",
-      "summary": "If you’re juggling multiple Copilot sessions, use the My work pane to track what's in flight, what's done, and what's next. The post GitHub Copilot app for Beginners: Managing your work appeared first on The GitHub Blog.",
-      "published": "2026-08-19T17:50:23Z"
     },
     {
       "id": "631b5540cda67c2e2ccfa0923359d21a3ef42d89",
