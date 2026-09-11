@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-09-10T10:55:51.243366Z",
+  "generated_at": "2026-09-11T10:53:33.750272Z",
   "items": [
+    {
+      "id": "c7d33c539f1e15979de5937cac235c3624c4d4d4",
+      "title": "Advarer utviklere av hybrid-apper mot iPhone Duo",
+      "link": "https://www.kode24.no/artikkel/advarer-utviklere-av-hybrid-apper-mot-iphone-duo/272182",
+      "source": "Kode24",
+      "summary": "– Om man har Flutter-, React Native- eller \"pixel perfect\"-apper, tror jeg det blir vanskelig å lage noe som fungerer skikkelig godt på iPhone Duo, sier Petter Klingen Wright.",
+      "published": "2026-09-11T08:09:07Z"
+    },
+    {
+      "id": "a6d81c777e24e81debac485150614797898bacd6",
+      "title": "Lørenskog skal ha brukt 26 dager på å reagere på varsel om datainnbrudd",
+      "link": "https://www.kode24.no/artikkel/lorenskog-skal-ha-brukt-26-dager-pa-a-reagere-pa-varsel-om-datainnbrudd/272167",
+      "source": "Kode24",
+      "summary": "Legger frem rapport: – Det er klart at hvis man hadde hatt folk som er trent og er vant til å jobbe med dette, så kunne angrepet vært redusert.",
+      "published": "2026-09-11T06:36:46Z"
+    },
+    {
+      "id": "87e1a3b538af4439550bee2984ccd924473b7abd",
+      "title": "Karianne Tung på vei ut av regjering",
+      "link": "https://www.kode24.no/artikkel/karianne-tung-pa-vei-ut-av-regjering/272153",
+      "source": "Kode24",
+      "summary": "Torgeir Micaelsen tar trolig over som digitaliserings- og forvaltningsminister.",
+      "published": "2026-09-11T06:28:40Z"
+    },
+    {
+      "id": "cbe507e30be39a0b7a97a23546eecfd0aa685e38",
+      "title": "– Naivt å tro at Norge trenger like mange utviklere framover",
+      "link": "https://www.kode24.no/artikkel/naivt-a-tro-at-norge-trenger-like-mange-utviklere-framover/272131",
+      "source": "Kode24",
+      "summary": "– Og naivt å tro at ikke færre folk i arbeid er hele poenget med selskapene som selger oss disse agentene, skriver Ole Petter i ukas nyhetsbrev om våre nye KI-tall.",
+      "published": "2026-09-11T03:00:00Z"
+    },
+    {
+      "id": "3ce1fd85cc1776a1b7e0e5e988f828464d22716a",
+      "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
+      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/",
+      "source": "GitHub Blog",
+      "summary": "Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app. The post GitHub Copilot app for Beginners: Using the diff, terminal, and browser appeared first on The GitHub Blog.",
+      "published": "2026-09-10T21:31:19Z"
+    },
+    {
+      "id": "63b79b71ad4da2098273bb0d228e22be27816f37",
+      "title": "Tonje (24) sitt dilemma: Fortsette i KI-fart, eller bremse ned for å lære",
+      "link": "https://www.kode24.no/artikkel/tonje-24-sitt-dilemma-fortsette-i-ki-fart-eller-bremse-ned-for-a-laere/271824",
+      "source": "Kode24",
+      "summary": "– Det er en vanskelig dragkamp jeg tror mange unge kjenner seg igjen i, sier Computas-utvikler, masterstudent og Ukas Koder Tonje Halse.",
+      "published": "2026-09-10T10:59:12Z"
+    },
+    {
+      "id": "fea68f42219faf46430fc25c8f53131a702501ab",
+      "title": "Oslo-skoler forbyr smartbriller: – Vil ikke la barna bli statister i Metas datainnsamling",
+      "link": "https://www.kode24.no/artikkel/oslo-skoler-forbyr-smartbriller-vil-ikke-la-barna-bli-statister-i-metas-datainnsamling/272099",
+      "source": "Kode24",
+      "summary": "Nå krever byråden at regjeringen også får ut fingeren.",
+      "published": "2026-09-10T10:57:01Z"
+    },
     {
       "id": "461837577229db947f1e63a48a38ac7e0e70294a",
       "title": "Forskere advarer: – KI kan drepe oss",
@@ -123,54 +179,6 @@
       "published": "2026-09-08T06:33:25Z"
     },
     {
-      "id": "c6b6804af667db22675f8a3a04880290fdd81dac",
-      "title": "Vil begrense utviklere: – De som leser dette, vil ikke like det",
-      "link": "https://www.kode24.no/artikkel/vil-begrense-utviklere-de-som-leser-dette-vil-ikke-like-det/270528",
-      "source": "Kode24",
-      "summary": "Mens sikkerhetsfolk flest bekymrer seg for KI og tredjeparter, er Tanya Janca mer bekymret for den enkelte utvikler. Og tror løsningen kan være ubehagelig for dem.",
-      "published": "2026-09-08T03:00:00Z"
-    },
-    {
-      "id": "d85a5a7f903650f06e770b113654423c760880fd",
-      "title": "Kjøpte domene, krevde 10 millioner kroner",
-      "link": "https://www.kode24.no/artikkel/kjopte-domene-krevde-10-millioner-kroner/271749",
-      "source": "Kode24",
-      "summary": "Dagen etter at Saipem og Subsea 7 annonserte sammenslåing, registrerte en privatperson saipem7.no.",
-      "published": "2026-09-07T13:25:17Z"
-    },
-    {
-      "id": "0d32a7afcb13e6863a82e0f16285b13edb102303",
-      "title": "Jarle lager 80-tallsspill, for å bli en bedre utvikler",
-      "link": "https://www.kode24.no/artikkel/jarle-lager-80-tallsspill-for-a-bli-en-bedre-utvikler/271301",
-      "source": "Kode24",
-      "summary": "– Frustrerende mens man holder på, veldig givende når det virker, skriver CTO Jarle Adolfsen om å bygge en spillmotor fra bunn.",
-      "published": "2026-09-07T11:04:37Z"
-    },
-    {
-      "id": "40d344b9b636c047bd93df2d719a775492b52a37",
-      "title": "Asker kommune vinner anti-pris for KI-bommert",
-      "link": "https://www.kode24.no/artikkel/asker-kommune-vinner-anti-pris-for-ki-bommert/271735",
-      "source": "Kode24",
-      "summary": "Tenkekassa 2026 går til Asker kommune, etter bruk av en KI-oppdikta dom i vedtak.",
-      "published": "2026-09-07T09:07:50Z"
-    },
-    {
-      "id": "d3c7a1e85537b1caf5b9be6349af58110a9a90cd",
-      "title": "Regner med nye angrep under kongens begravelse",
-      "link": "https://www.kode24.no/artikkel/regner-med-nye-angrep-under-kongens-begravelse/271721",
-      "source": "Kode24",
-      "summary": "– Tjenestenektangrep vil jeg si er så å si 99 prosent eller mer garantert. Det vil fortsette, sier sikkerhetsekspert Lars Eirik Berg.",
-      "published": "2026-09-07T06:21:52Z"
-    },
-    {
-      "id": "f0ad6e3257261d6dca506e6a498c793f2aa61592",
-      "title": "1 av 2 norske utviklere genererer det meste eller alt med KI",
-      "link": "https://www.kode24.no/artikkel/1-av-2-norske-utviklere-genererer-det-meste-eller-alt-med-ki/271449",
-      "source": "Kode24",
-      "summary": "Samtidig er 81 prosent bekymra for feil de aldri oppdager, viser kode24s tall. – For hvis så mye kode blir generert, har man da kontroll på det som kommer ut?",
-      "published": "2026-09-07T03:00:00Z"
-    },
-    {
       "id": "de9c8e6cebd779381d6309c486b77b9acf2cab83",
       "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
       "link": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
@@ -254,15 +262,6 @@
       "source": "GitHub Blog",
       "summary": "We built a plugin for the GitHub Accessibility Scanner to make sure your alt text is actually accessible. Here's how it works. The post Your alt text passes automated checks. That doesn’t mean it’s any good. appeared first on The GitHub Blog.",
       "published": "2026-08-24T20:56:32Z"
-    },
-    {
-      "id": "dc7f9fd0bcd56298010962d8403a21ca001d253f",
-      "title": "The August 17 outage, and the work ahead",
-      "link": "https://github.blog/news-insights/company-news/the-august-17-outage-and-the-work-ahead/",
-      "source": "GitHub Blog",
-      "summary": "An update on the August 17 outage and the steps we're taking to improve reliability. The post The August 17 outage, and the work ahead appeared first on The GitHub Blog.",
-      "published": "2026-08-20T18:36:11Z",
-      "image": "https://github.blog/wp-content/uploads/2026/08/blog-post-aug-17-outage-1.png?resize=1024%2C576"
     },
     {
       "id": "631b5540cda67c2e2ccfa0923359d21a3ef42d89",
