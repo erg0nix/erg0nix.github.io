@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-09-11T10:53:33.750272Z",
+  "generated_at": "2026-09-12T10:20:58.131788Z",
   "items": [
+    {
+      "id": "d01781d00770cfb89ceeafdbfb92c8d313d6d989",
+      "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
+      "link": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/",
+      "source": "GitHub Blog",
+      "summary": "If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team. The post Marketing ops as code: Automating events from planning to follow-up on GitHub appeared first on The GitHub Blog.",
+      "published": "2026-09-11T18:26:10Z"
+    },
+    {
+      "id": "9facbac791bb145145ac19d905faa49eecb2f58a",
+      "title": "KI-briller er en uting, sier den nye digitaliserings­ministeren",
+      "link": "https://www.kode24.no/artikkel/ki-briller-er-en-uting-sier-den-nye-digitaliseringsministeren/272275",
+      "source": "Kode24",
+      "summary": "Micaelsen legger i sine innledende ord til pressen vekt på at kunstig intelligens også har mange negative sider, og at det trengs tydelige rammer for teknologien.",
+      "published": "2026-09-11T12:57:53Z"
+    },
+    {
+      "id": "28affbba152abef59bf33bf14dae712180c5acee",
+      "title": "– Jo, å kutte sporing er noe å være stolt av",
+      "link": "https://www.kode24.no/artikkel/jo-a-kutte-sporing-er-noe-a-vaere-stolt-av/272251",
+      "source": "Kode24",
+      "summary": "– Når Schjerve forsøker å redusere dette til en naiv misforståelse av medieøkonomi fra et «lite indieprosjekt», reagerer jeg litt, skriver Erik Fossum i Pressfire.",
+      "published": "2026-09-11T12:48:35Z"
+    },
+    {
+      "id": "875ae6a57502d609822424be2b6cec3c4a96301f",
+      "title": "IT-ekspert om ny minister: – Jeg ser bare oppsider",
+      "link": "https://www.kode24.no/artikkel/it-ekspert-om-ny-minister-jeg-ser-bare-oppsider/272224",
+      "source": "Kode24",
+      "summary": "Torgeir Waterhouse er fornøyd med navnebror Torgeir Micaelsen, mens Tekna håper han setter ned foten for smartbriller – noe forgjengeren Karianne Tung fikk kritikk for.",
+      "published": "2026-09-11T11:51:54Z"
+    },
+    {
+      "id": "60e2729cf5f4945a98988d5a4f3ed149a34c2373",
+      "title": "Sintef er bransjens mest populære arbeidsplass",
+      "link": "https://www.kode24.no/artikkel/sintef-er-bransjens-mest-populaere-arbeidsplass/272115",
+      "source": "Kode24",
+      "summary": "Sintef topper årets Young Professional Attraction Index (YPAI) blant unge IT-profesjonelle. Mens Bekk er nykommer blant selskapene som klatrer mest.",
+      "published": "2026-09-11T11:23:09Z"
+    },
+    {
+      "id": "53ab8016443a644e24667c67b53cbfe55d96f63d",
+      "title": "Torgeir Micaelsen er vår nye digitaliserings­minister",
+      "link": "https://www.kode24.no/artikkel/torgeir-micaelsen-er-var-nye-digitaliseringsminister/272209",
+      "source": "Kode24",
+      "summary": "Torgeir Micaelsen tar over som digitaliserings- og forvaltningsminister for Karianne Tung.",
+      "published": "2026-09-11T10:08:51Z"
+    },
     {
       "id": "c7d33c539f1e15979de5937cac235c3624c4d4d4",
       "title": "Advarer utviklere av hybrid-apper mot iPhone Duo",
@@ -139,46 +187,6 @@
       "published": "2026-09-09T03:00:00Z"
     },
     {
-      "id": "530d148ddf11488789d926ea1a320f5a8ef4a562",
-      "title": "– Våre nye juniorer er Codex og Copilot",
-      "link": "https://www.kode24.no/artikkel/vare-nye-juniorer-er-codex-og-copilot/271644",
-      "source": "Kode24",
-      "summary": "Glow fikk i fjor to nye juniorutviklere, Codex og Copilot, sa Morten Andersen-Gott på Javazone. Men han tror ikke KI tar fra juniorer jobben, likevel.",
-      "published": "2026-09-08T13:29:29Z"
-    },
-    {
-      "id": "ff7dbb446c0d9b1418bc5c8a97c149c98feed8cf",
-      "title": "Derfor snakker alle om Metas StyleX",
-      "link": "https://www.kode24.no/artikkel/derfor-snakker-alle-om-metas-stylex/271895",
-      "source": "Kode24",
-      "summary": "Et nytt KI-vennlig alternativ til CSS, et nytt browser-API i React og TanStack + Vercel = sant, i ukas ForrigeUke.",
-      "published": "2026-09-08T11:12:14Z"
-    },
-    {
-      "id": "0e989362cecdad2928682c6dbfe841cba2c30756",
-      "title": "Flere års utvikling bak VGs minneside for kong Harald",
-      "link": "https://www.kode24.no/artikkel/flere-ars-utvikling-bak-vgs-minneside-for-kong-harald/271816",
-      "source": "Kode24",
-      "summary": "Over 300.000 mennesker har tent lys for kong Harald på VGs minneside, som på høyden måtte takle over tusen nye lys i minuttet.",
-      "published": "2026-09-08T09:03:20Z"
-    },
-    {
-      "id": "8a6de348dacb44de4217914fc3a863a1cdce786f",
-      "title": "Dustin har ikke funnet data på avveie, åpner igjen snart",
-      "link": "https://www.kode24.no/artikkel/dustin-har-ikke-funnet-data-pa-avveie-apner-igjen-snart/271870",
-      "source": "Kode24",
-      "summary": "Dustin jobber fortsatt døgnet rundt etter det trolige angrepet.",
-      "published": "2026-09-08T08:29:12Z"
-    },
-    {
-      "id": "4cc78c2af89aef96f78f1a0a158f4ada52cfde95",
-      "title": "– En håndfull menn har nesten ubegrensa makt over KI",
-      "link": "https://www.kode24.no/artikkel/en-handfull-menn-har-nesten-ubegrensa-makt-over-ki/271856",
-      "source": "Kode24",
-      "summary": "– Jeg ber om en total mobilisering for å få på plass garantier for sikkerheten rundt KI før det er for sent, sa FNs høykommissær for menneskerettigheter, Volker Türk.",
-      "published": "2026-09-08T06:33:25Z"
-    },
-    {
       "id": "de9c8e6cebd779381d6309c486b77b9acf2cab83",
       "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
       "link": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
@@ -254,14 +262,6 @@
       "summary": "These are the lessons we learned evaluating LLMs for real-world secret scanning. The post How to evaluate LLMs before production appeared first on The GitHub Blog.",
       "published": "2026-08-25T21:35:11Z",
       "image": "https://github.blog/wp-content/uploads/2026/08/633085615-8fa1a231-a731-4c36-b53d-007d212d811d-1.png?resize=1024%2C441"
-    },
-    {
-      "id": "35bd1c2a7300c14121f203754614d2afb754e6e0",
-      "title": "Your alt text passes automated checks. That doesn’t mean it’s any good.",
-      "link": "https://github.blog/engineering/user-experience/your-alt-text-passes-automated-checks-that-doesnt-mean-its-any-good/",
-      "source": "GitHub Blog",
-      "summary": "We built a plugin for the GitHub Accessibility Scanner to make sure your alt text is actually accessible. Here's how it works. The post Your alt text passes automated checks. That doesn’t mean it’s any good. appeared first on The GitHub Blog.",
-      "published": "2026-08-24T20:56:32Z"
     },
     {
       "id": "631b5540cda67c2e2ccfa0923359d21a3ef42d89",
