@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-09-13T11:21:52.903653Z",
+  "generated_at": "2026-09-14T12:14:14.760816Z",
   "items": [
+    {
+      "id": "5c3566c0a72af418d2d4ec3367720d936bd6ce0b",
+      "title": "Irritert over manglende svar på jobbsøknader, bygger Matchboks",
+      "link": "https://www.kode24.no/artikkel/irritert-over-manglende-svar-pa-jobbsoknader-bygger-matchboks/272391",
+      "source": "Kode24",
+      "summary": "– Jobbsøking er en feedback-loop uten feedback, mener Ole Joar Moi, som nå lanserer det han mener er løsningen.",
+      "published": "2026-09-14T11:07:46Z"
+    },
+    {
+      "id": "906879dbea40ecbd7f8be066f8eda1e99da6a2d7",
+      "title": "Regjeringen advarer mot smarttelefon og sosiale medier for barn",
+      "link": "https://www.kode24.no/artikkel/regjeringen-advarer-mot-smarttelefon-og-sosiale-medier-for-barn/272365",
+      "source": "Kode24",
+      "summary": "I regjeringens ferske anbefalinger om skjermbruk for barn og unge, advarer de mot Tiktok, Youtube og Snapchat. Og mot å gi smarte telefoner til barn.",
+      "published": "2026-09-14T08:30:20Z"
+    },
+    {
+      "id": "ed07fe2849524f42ca5ea7c0946af60d8b87db56",
+      "title": "– Ville vært ubetenksomt å gå på børs nå",
+      "link": "https://www.kode24.no/artikkel/ville-vaert-ubetenksomt-a-ga-pa-bors-na/272343",
+      "source": "Kode24",
+      "summary": "OpenAI-sjefen sier at de neppe går på børs med det første, likevel.",
+      "published": "2026-09-14T07:23:21Z"
+    },
+    {
+      "id": "614834cb22f80084d40eefff6365a090ebcd29c2",
+      "title": "Trump skeptisk til KI-regulering",
+      "link": "https://www.kode24.no/artikkel/trump-skeptisk-til-ki-regulering/272325",
+      "source": "Kode24",
+      "summary": "– Det er mange svært negative krefter som tar opp ting de ikke burde ta opp, og de trekker fram ting som ikke kommer til å skje.",
+      "published": "2026-09-14T06:39:12Z"
+    },
+    {
+      "id": "c10267d0a4c6a337e672feb208e9356149e16625",
+      "title": "OpenAI-agenter angrep RubyGems",
+      "link": "https://www.kode24.no/artikkel/openai-agenter-angrep-rubygems/272309",
+      "source": "Kode24",
+      "summary": "To måneder før det nå kjente Hugging Face-angrepet.",
+      "published": "2026-09-14T06:31:57Z"
+    },
+    {
+      "id": "20091411d8557563da02436467d0d83a7413acff",
+      "title": "Anthropic-sjefen: – Vi må senke tempoet",
+      "link": "https://www.kode24.no/artikkel/anthropic-sjefen-vi-ma-senke-tempoet/272293",
+      "source": "Kode24",
+      "summary": "Viser til at KI er i ferd med å utvikle seg selv, og bryter ut av testmiljøene.",
+      "published": "2026-09-14T06:23:18Z"
+    },
+    {
+      "id": "4d0248c5b34eda69d860170318ff6dc5e5447b85",
+      "title": "Studenten Vilde skuffa av bransjen: – Ansetter bare seniorer",
+      "link": "https://www.kode24.no/artikkel/studenten-vilde-skuffa-av-bransjen-ansetter-bare-seniorer/271692",
+      "source": "Kode24",
+      "summary": "Student Vilde Berlin Kalleberg kom hjem fra Sikkerhetsfestivalen med masse merch, men ingen jobbtilbud. For mens bedriftene heier på juniorer, ansetter de seniorer.",
+      "published": "2026-09-14T03:00:00Z"
+    },
     {
       "id": "d01781d00770cfb89ceeafdbfb92c8d313d6d989",
       "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
@@ -122,22 +178,6 @@
       "published": "2026-09-10T08:18:49Z"
     },
     {
-      "id": "85803bd102fceea58642fc91c39521fd8d84021b",
-      "title": "Nå kommer smartbrille- og datasenter-debatten tilbake",
-      "link": "https://www.kode24.no/artikkel/na-kommer-smartbrille-og-datasenter-debatten-tilbake/272040",
-      "source": "Kode24",
-      "summary": "Borgfreden i Norge er over, og politikerne kan diskutere igjen.",
-      "published": "2026-09-10T06:53:23Z"
-    },
-    {
-      "id": "8392da1da64b1e29f2a0d7e9f7431ff6ecebb85e",
-      "title": "Norske KI-kodere kan vente stor ryddejobb, enda høyere regning",
-      "link": "https://www.kode24.no/artikkel/norske-ki-kodere-kan-vente-stor-ryddejobb-enda-hoyere-regning/271893",
-      "source": "Kode24",
-      "summary": "Det spår de fire ekspertene kode24 snakker med, om konsekvensene av at halvparten av norsk kode nå er KI-generert.",
-      "published": "2026-09-10T03:00:00Z"
-    },
-    {
       "id": "36c7aff9ab1463b135595d70facf271c9215d0d5",
       "title": "GitHub availability report: August 2026",
       "link": "https://github.blog/news-insights/company-news/github-availability-report-august-2026/",
@@ -145,46 +185,6 @@
       "summary": "In August, we experienced five incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: August 2026 appeared first on The GitHub Blog.",
       "published": "2026-09-10T02:05:17Z",
       "image": "https://github.blog/wp-content/uploads/2026/09/Actions-Run-Start_delay.png?resize=1024%2C509"
-    },
-    {
-      "id": "5d8896b4f0f0ab4953fd81c901ccd78ef686ac98",
-      "title": "Slipper ny Elon Musk-dokumentar: «Ekstremt farlig»",
-      "link": "https://www.kode24.no/artikkel/slipper-ny-elon-musk-dokumentar-ekstremt-farlig/271994",
-      "source": "Kode24",
-      "summary": "Alex Gibneys eksplosive dokumentar om Elon Musk skal ikke være nådig.",
-      "published": "2026-09-09T11:40:12Z"
-    },
-    {
-      "id": "60ac5d10fe7236f310397737b5eca1c98f757382",
-      "title": "Reagerer på KI-bilde av kong Harald: – Hvem er det der!?",
-      "link": "https://www.kode24.no/artikkel/reagerer-pa-ki-bilde-av-kong-harald-hvem-er-det-der/271933",
-      "source": "Kode24",
-      "summary": "Spenst Jessheim avlyste gruppetimer med et KI-generert bilde av kong Harald, og er ikke alene om å høste kritikk.",
-      "published": "2026-09-09T09:10:58Z"
-    },
-    {
-      "id": "86c7478da3bf0e5f494a2167e079ea673dc9a713",
-      "title": "Hackere stjeler Claude-tokens fra brukerne",
-      "link": "https://www.kode24.no/artikkel/hackere-stjeler-claude-tokens-fra-brukerne/271929",
-      "source": "Kode24",
-      "summary": "Kommentarene hagler på Reddit etter at hackere har begynt å stjele Claude-tokens.",
-      "published": "2026-09-09T08:49:51Z"
-    },
-    {
-      "id": "a524d6945f0729d0535d765e0f2c2b7c135f7f78",
-      "title": "Testa Headroom: Skal kutte KI-regninga, men økte Marina sin",
-      "link": "https://www.kode24.no/artikkel/testa-headroom-skal-kutte-ki-regninga-men-okte-marina-sin/271935",
-      "source": "Kode24",
-      "summary": "Da Marina Santos Haugen testa Headroom, fant hun noe overraskende: – Headroom er bygget for klienter som ikke cacher. Og det blir stadig færre av dem.",
-      "published": "2026-09-09T07:55:27Z"
-    },
-    {
-      "id": "a9467ded22d502356ddb477bd0f62df620d64702",
-      "title": "Daniel gjen­oppliver NRKs Superia",
-      "link": "https://www.kode24.no/artikkel/daniel-gjenoppliver-nrks-superia/270023",
-      "source": "Kode24",
-      "summary": "Mange år etter nedleggelsen av NRKs spillverden, vil Daniel Christensen tilbake til barndomsminnet. – Så jeg gravde meg ned i et kaninhull.",
-      "published": "2026-09-09T03:00:00Z"
     },
     {
       "id": "de9c8e6cebd779381d6309c486b77b9acf2cab83",
