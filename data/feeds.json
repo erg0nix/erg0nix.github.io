@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-09-14T12:14:14.760816Z",
+  "generated_at": "2026-09-15T11:22:49.216317Z",
   "items": [
+    {
+      "id": "2e007276593fb3d08bfad6cb42c07b4a68118a2c",
+      "title": "6,2 TB fra Dustin lekket, Nav og Statnett rammet",
+      "link": "https://www.kode24.no/artikkel/62-tb-fra-dustin-lekket-nav-og-statnett-rammet/272503",
+      "source": "Kode24",
+      "summary": "Hackergruppe tilbyr over 1 million Dustin-kunder for nedlasting. – Vi ser alvorlig på saken, forteller Statnett.",
+      "published": "2026-09-15T08:28:12Z"
+    },
+    {
+      "id": "7490ada2448827ff8a1dc67c05dcbafe045b93c9",
+      "title": "Palantir-utvikler til norske Stendr",
+      "link": "https://www.kode24.no/artikkel/palantir-utvikler-til-norske-stendr/272458",
+      "source": "Kode24",
+      "summary": "– Jeg har jobbet med disse problemstillingene på begge sider av Atlanteren i 13 år, og jeg tror Stendr har mye å bidra med, sier Michael Kattouf.",
+      "published": "2026-09-15T07:01:46Z"
+    },
+    {
+      "id": "e5f20a0e849520254224fc4bca0e80bd5e9fa9f3",
+      "title": "Bruker personlige KI-kontoer på jobb",
+      "link": "https://www.kode24.no/artikkel/bruker-personlige-ki-kontoer-pa-jobb/267301",
+      "source": "Kode24",
+      "summary": "Ringerike kommune jobber med å sikre seg mot ukontrollert KI-bruk, med 2.200 ansatte. – Det er en lang og tung prosess, sier IT-sjefen.",
+      "published": "2026-09-15T03:00:00Z"
+    },
+    {
+      "id": "8955911c48308c875aef8e9ac02c140f3705d1fb",
+      "title": "Nye angrep mot Feide og Stortinget",
+      "link": "https://www.kode24.no/artikkel/nye-angrep-mot-feide-og-stortinget/272440",
+      "source": "Kode24",
+      "summary": "Russiske hackere hevder å stå bak det som skal være en DDOS-angrep mot stortinget.no, ifølge VG. Også Feide ble angrepet mandag.",
+      "published": "2026-09-14T13:28:44Z"
+    },
     {
       "id": "5c3566c0a72af418d2d4ec3367720d936bd6ce0b",
       "title": "Irritert over manglende svar på jobbsøknader, bygger Matchboks",
@@ -144,38 +176,6 @@
       "source": "GitHub Blog",
       "summary": "Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app. The post GitHub Copilot app for Beginners: Using the diff, terminal, and browser appeared first on The GitHub Blog.",
       "published": "2026-09-10T21:31:19Z"
-    },
-    {
-      "id": "63b79b71ad4da2098273bb0d228e22be27816f37",
-      "title": "Tonje (24) sitt dilemma: Fortsette i KI-fart, eller bremse ned for å lære",
-      "link": "https://www.kode24.no/artikkel/tonje-24-sitt-dilemma-fortsette-i-ki-fart-eller-bremse-ned-for-a-laere/271824",
-      "source": "Kode24",
-      "summary": "– Det er en vanskelig dragkamp jeg tror mange unge kjenner seg igjen i, sier Computas-utvikler, masterstudent og Ukas Koder Tonje Halse.",
-      "published": "2026-09-10T10:59:12Z"
-    },
-    {
-      "id": "fea68f42219faf46430fc25c8f53131a702501ab",
-      "title": "Oslo-skoler forbyr smartbriller: – Vil ikke la barna bli statister i Metas datainnsamling",
-      "link": "https://www.kode24.no/artikkel/oslo-skoler-forbyr-smartbriller-vil-ikke-la-barna-bli-statister-i-metas-datainnsamling/272099",
-      "source": "Kode24",
-      "summary": "Nå krever byråden at regjeringen også får ut fingeren.",
-      "published": "2026-09-10T10:57:01Z"
-    },
-    {
-      "id": "461837577229db947f1e63a48a38ac7e0e70294a",
-      "title": "Forskere advarer: – KI kan drepe oss",
-      "link": "https://www.kode24.no/artikkel/forskere-advarer-ki-kan-drepe-oss/272053",
-      "source": "Kode24",
-      "summary": "Forskere i Anthropic mener kunstig intelligens kan utrydde menneskeheten i løpet av tiåret. Én av dem har nå sagt opp jobben i protest.",
-      "published": "2026-09-10T09:02:43Z"
-    },
-    {
-      "id": "96d1b35013edf597f0ebf6c84e3a74ff012cb866",
-      "title": "Shopify kjøper Tailwind",
-      "link": "https://www.kode24.no/artikkel/shopify-kjoper-tailwind/272061",
-      "source": "Kode24",
-      "summary": "Etter å ha sparka utviklerne fordi alle brukerne var KI, har de nå funnet en trygg havn.",
-      "published": "2026-09-10T08:18:49Z"
     },
     {
       "id": "36c7aff9ab1463b135595d70facf271c9215d0d5",
