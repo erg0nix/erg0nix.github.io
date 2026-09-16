@@ -1,12 +1,76 @@
 {
-  "generated_at": "2026-09-15T11:22:49.216317Z",
+  "generated_at": "2026-09-16T11:07:39.483133Z",
   "items": [
     {
-      "id": "2e007276593fb3d08bfad6cb42c07b4a68118a2c",
-      "title": "6,2 TB fra Dustin lekket, Nav og Statnett rammet",
-      "link": "https://www.kode24.no/artikkel/62-tb-fra-dustin-lekket-nav-og-statnett-rammet/272503",
+      "id": "63db1160875fe5f0c7abd763f263d8c748e9b991",
+      "title": "Anthropic, OpenAI og Google samarbeider om KI-sikkerhet",
+      "link": "https://www.kode24.no/artikkel/anthropic-openai-og-google-samarbeider-om-ki-sikkerhet/272677",
       "source": "Kode24",
-      "summary": "Hackergruppe tilbyr over 1 million Dustin-kunder for nedlasting. – Vi ser alvorlig på saken, forteller Statnett.",
+      "summary": "Samtidig kommer EU på banen og vil bidra.",
+      "published": "2026-09-16T10:51:49Z"
+    },
+    {
+      "id": "ae4c0f293006bca1764640eab10333f1a93574ab",
+      "title": "– Å bruke KI er som å gå med en bloddiamant",
+      "link": "https://www.kode24.no/artikkel/a-bruke-ki-er-som-a-ga-med-en-bloddiamant/272533",
+      "source": "Kode24",
+      "summary": "Etikkforsker mener måten kunstig intelligens trenes på, gjør teknologien uetisk.",
+      "published": "2026-09-16T09:21:34Z"
+    },
+    {
+      "id": "1ed0f23cd6a2e755dd3849aef2f8eb98d3e4e6cc",
+      "title": "– Vibbekodere blir ufrivillige CTO-er",
+      "link": "https://www.kode24.no/artikkel/vibbekodere-blir-ufrivillige-cto-er/272433",
+      "source": "Kode24",
+      "summary": "Kjell-Vidar Åhman Teig ser stadig oftere hvordan vibbekoda løsninger blir brukt av store organisasjoner, og advarer mot konsekvensene. – Er du klar for å ta ansvaret for den?",
+      "published": "2026-09-16T09:20:14Z"
+    },
+    {
+      "id": "fcb0e5e8a314f2348f45fc7f33dac9e15961930b",
+      "title": "Digitaliserings-ministeren vurderer brilleforbud",
+      "link": "https://www.kode24.no/artikkel/digitaliserings-ministeren-vurderer-brilleforbud/272610",
+      "source": "Kode24",
+      "summary": "– Jeg er veldig urolig for at vi introduserer ny, kroppsnær teknologi i kombinasjon med KI, som muliggjør sensorer, videoer og lyd der folk blir filmet eller blir tatt opptak av uten at de vet det.",
+      "published": "2026-09-16T06:47:06Z"
+    },
+    {
+      "id": "1e6b5069c42e23734b26173b7d1104dd8f15da90",
+      "title": "Støre tar KI-advarsler på alvor",
+      "link": "https://www.kode24.no/artikkel/store-tar-ki-advarsler-pa-alvor/272590",
+      "source": "Kode24",
+      "summary": "– Hadde det vært tre ledere av selskaper fra militærindustrien som sa de var i ferd med å miste kontroll på det de produserte, så hadde vi jo grepet inn, sier statsminister Jonas Gahr Støre (Ap) om den siste tidens dommedags-profetier.",
+      "published": "2026-09-16T06:30:27Z"
+    },
+    {
+      "id": "e49b3f71a88bd048ebf7a665ef88e59199cbc497",
+      "title": "Advarer mot å forby smartbriller: – Mye kraft i AR",
+      "link": "https://www.kode24.no/artikkel/advarer-mot-a-forby-smartbriller-mye-kraft-i-ar/272536",
+      "source": "Kode24",
+      "summary": "– Teknologer må forstå det, i stedet for å forby det, skriver CTO Tor Gjøsæter om smartbriller. For han fikk øya opp for AR-teknologi i 2008.",
+      "published": "2026-09-16T03:00:00Z"
+    },
+    {
+      "id": "00fcb65499a8cfee35bec50f7510ae35a5e4820c",
+      "title": "React 19.3 er ute: – Gleder meg mest til View­Transitions",
+      "link": "https://www.kode24.no/artikkel/react-193-er-ute-gleder-meg-mest-til-viewtransitions/272565",
+      "source": "Kode24",
+      "summary": "React 19.3, kostnaden av et rammeverk og 30 ganger raskere sammenslåing av Tailwind-klasser, i ukas ForrigeUke.",
+      "published": "2026-09-15T13:33:30Z"
+    },
+    {
+      "id": "9c4a62bf98e559a23fa93406304ffb419795403a",
+      "title": "– Viktig med felles norsk ordforråd om KI",
+      "link": "https://www.kode24.no/artikkel/viktig-med-felles-norsk-ordforrad-om-ki/272180",
+      "source": "Kode24",
+      "summary": "Teknologirådets KI-ordliste ble oppdatert forrige uke. Allerede nå vurderes nye begreper som «rogue AI», «modell-fatigue» og «meat proxy» til den neste oppdateringen.",
+      "published": "2026-09-15T12:45:23Z"
+    },
+    {
+      "id": "2e007276593fb3d08bfad6cb42c07b4a68118a2c",
+      "title": "1 million Dustin-kunder lekket, Nav og Statnett rammet",
+      "link": "https://www.kode24.no/artikkel/1-million-dustin-kunder-lekket-nav-og-statnett-rammet/272503",
+      "source": "Kode24",
+      "summary": "Hackergruppe tilbyr 6,2 TB data fra Dustin-angrepet for nedlasting. – Vi ser alvorlig på saken, forteller Statnett, mens Nav har informert sine ansatte.",
       "published": "2026-09-15T08:28:12Z"
     },
     {
@@ -104,70 +168,6 @@
       "source": "Kode24",
       "summary": "Micaelsen legger i sine innledende ord til pressen vekt på at kunstig intelligens også har mange negative sider, og at det trengs tydelige rammer for teknologien.",
       "published": "2026-09-11T12:57:53Z"
-    },
-    {
-      "id": "28affbba152abef59bf33bf14dae712180c5acee",
-      "title": "– Jo, å kutte sporing er noe å være stolt av",
-      "link": "https://www.kode24.no/artikkel/jo-a-kutte-sporing-er-noe-a-vaere-stolt-av/272251",
-      "source": "Kode24",
-      "summary": "– Når Schjerve forsøker å redusere dette til en naiv misforståelse av medieøkonomi fra et «lite indieprosjekt», reagerer jeg litt, skriver Erik Fossum i Pressfire.",
-      "published": "2026-09-11T12:48:35Z"
-    },
-    {
-      "id": "875ae6a57502d609822424be2b6cec3c4a96301f",
-      "title": "IT-ekspert om ny minister: – Jeg ser bare oppsider",
-      "link": "https://www.kode24.no/artikkel/it-ekspert-om-ny-minister-jeg-ser-bare-oppsider/272224",
-      "source": "Kode24",
-      "summary": "Torgeir Waterhouse er fornøyd med navnebror Torgeir Micaelsen, mens Tekna håper han setter ned foten for smartbriller – noe forgjengeren Karianne Tung fikk kritikk for.",
-      "published": "2026-09-11T11:51:54Z"
-    },
-    {
-      "id": "60e2729cf5f4945a98988d5a4f3ed149a34c2373",
-      "title": "Sintef er bransjens mest populære arbeidsplass",
-      "link": "https://www.kode24.no/artikkel/sintef-er-bransjens-mest-populaere-arbeidsplass/272115",
-      "source": "Kode24",
-      "summary": "Sintef topper årets Young Professional Attraction Index (YPAI) blant unge IT-profesjonelle. Mens Bekk er nykommer blant selskapene som klatrer mest.",
-      "published": "2026-09-11T11:23:09Z"
-    },
-    {
-      "id": "53ab8016443a644e24667c67b53cbfe55d96f63d",
-      "title": "Torgeir Micaelsen er vår nye digitaliserings­minister",
-      "link": "https://www.kode24.no/artikkel/torgeir-micaelsen-er-var-nye-digitaliseringsminister/272209",
-      "source": "Kode24",
-      "summary": "Torgeir Micaelsen tar over som digitaliserings- og forvaltningsminister for Karianne Tung.",
-      "published": "2026-09-11T10:08:51Z"
-    },
-    {
-      "id": "c7d33c539f1e15979de5937cac235c3624c4d4d4",
-      "title": "Advarer utviklere av hybrid-apper mot iPhone Duo",
-      "link": "https://www.kode24.no/artikkel/advarer-utviklere-av-hybrid-apper-mot-iphone-duo/272182",
-      "source": "Kode24",
-      "summary": "– Om man har Flutter-, React Native- eller \"pixel perfect\"-apper, tror jeg det blir vanskelig å lage noe som fungerer skikkelig godt på iPhone Duo, sier Petter Klingen Wright.",
-      "published": "2026-09-11T08:09:07Z"
-    },
-    {
-      "id": "a6d81c777e24e81debac485150614797898bacd6",
-      "title": "Lørenskog skal ha brukt 26 dager på å reagere på varsel om datainnbrudd",
-      "link": "https://www.kode24.no/artikkel/lorenskog-skal-ha-brukt-26-dager-pa-a-reagere-pa-varsel-om-datainnbrudd/272167",
-      "source": "Kode24",
-      "summary": "Legger frem rapport: – Det er klart at hvis man hadde hatt folk som er trent og er vant til å jobbe med dette, så kunne angrepet vært redusert.",
-      "published": "2026-09-11T06:36:46Z"
-    },
-    {
-      "id": "87e1a3b538af4439550bee2984ccd924473b7abd",
-      "title": "Karianne Tung på vei ut av regjering",
-      "link": "https://www.kode24.no/artikkel/karianne-tung-pa-vei-ut-av-regjering/272153",
-      "source": "Kode24",
-      "summary": "Torgeir Micaelsen tar trolig over som digitaliserings- og forvaltningsminister.",
-      "published": "2026-09-11T06:28:40Z"
-    },
-    {
-      "id": "cbe507e30be39a0b7a97a23546eecfd0aa685e38",
-      "title": "– Naivt å tro at Norge trenger like mange utviklere framover",
-      "link": "https://www.kode24.no/artikkel/naivt-a-tro-at-norge-trenger-like-mange-utviklere-framover/272131",
-      "source": "Kode24",
-      "summary": "– Og naivt å tro at ikke færre folk i arbeid er hele poenget med selskapene som selger oss disse agentene, skriver Ole Petter i ukas nyhetsbrev om våre nye KI-tall.",
-      "published": "2026-09-11T03:00:00Z"
     },
     {
       "id": "3ce1fd85cc1776a1b7e0e5e988f828464d22716a",
