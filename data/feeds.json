@@ -1,6 +1,63 @@
 {
-  "generated_at": "2026-09-16T11:07:39.483133Z",
+  "generated_at": "2026-09-17T11:16:44.845942Z",
   "items": [
+    {
+      "id": "4d833ec45ebfcc63384423dadce00a32372a20de",
+      "title": "Ber utviklere fortsatt bruke KI, tross varsler",
+      "link": "https://www.kode24.no/artikkel/ber-utviklere-fortsatt-bruke-ki-tross-varsler/272802",
+      "source": "Kode24",
+      "summary": "Computas' nye KI-sjef ber utviklere møte dommedags-varsler med fatning. – Vårt ansvar handler om hva vi gjør med teknologien når den nå er her, skriver Rune Hovland.",
+      "published": "2026-09-17T10:43:17Z"
+    },
+    {
+      "id": "fdac04e0758a674cc38fd634d45c482703c52014",
+      "title": "– Norge setter av 10 ganger mer kraft til datasentre enn vi trenger",
+      "link": "https://www.kode24.no/artikkel/norge-setter-av-10-ganger-mer-kraft-til-datasentre-enn-vi-trenger/272717",
+      "source": "Kode24",
+      "summary": "Lars Erik Finholt har regna ut hvor mye strøm vi trenger om hele Norge bruker KI. Det er mye mindre enn vi setter av til nye datasentre. – Så hva får Norge igjen for kraften?",
+      "published": "2026-09-17T07:49:12Z"
+    },
+    {
+      "id": "f4f6bf6880040d80cdacdf347e60be52277d3589",
+      "title": "FN-sjefen slår KI-alarm",
+      "link": "https://www.kode24.no/artikkel/fn-sjefen-slar-ki-alarm/272757",
+      "source": "Kode24",
+      "summary": "– Vi har ikke råd til å ignorere bekymringer som er blitt reist.",
+      "published": "2026-09-17T06:42:11Z"
+    },
+    {
+      "id": "518d832975d69b5078e7a1e0183b837a9ff08941",
+      "title": "Varslere strengere regler for datasentre",
+      "link": "https://www.kode24.no/artikkel/varslere-strengere-regler-for-datasentre/272744",
+      "source": "Kode24",
+      "summary": "– Hvis denne næringen skal ha legitimitet og oppslutning framover, som den fortjener, så er det viktig at lokalsamfunnene også ser at verdier blir igjen i vårt eget land.",
+      "published": "2026-09-17T06:38:20Z"
+    },
+    {
+      "id": "34516815e59e739f038934aec7e6bb7b18c41ce5",
+      "title": "– Kan være krevende å være kvinne i kode-verden",
+      "link": "https://www.kode24.no/artikkel/kan-vaere-krevende-a-vaere-kvinne-i-kode-verden/272415",
+      "source": "Kode24",
+      "summary": "– Prøv å lage ekstra plass til dine kvinnelige kollegaer, slik at vi blir inkludert på skikkelig, sier Ukas Koder, Amalie Rege.",
+      "published": "2026-09-17T03:00:00Z"
+    },
+    {
+      "id": "82be70aa9732ff1b11f2c3d54becb6bb39508de5",
+      "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
+      "link": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
+      "source": "GitHub Blog",
+      "summary": "A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took. The post Migrating the GitHub Copilot runtime to Rust, using Copilot appeared first on The GitHub Blog.",
+      "published": "2026-09-17T00:26:43Z",
+      "image": "https://github.blog/wp-content/uploads/2026/09/architecture-before-after.svg?resize=1024,512"
+    },
+    {
+      "id": "2b81b243e18838c3e871aea0b479873fac5a544b",
+      "title": "2.000 utviklere samla i Spektrum",
+      "link": "https://www.kode24.no/artikkel/2000-utviklere-samla-i-spektrum/272670",
+      "source": "Kode24",
+      "summary": "NDC Oslo 2026 er i gang, som første konferanse i Spektrum siden hallen ble oppgradert.",
+      "published": "2026-09-16T11:37:52Z"
+    },
     {
       "id": "63db1160875fe5f0c7abd763f263d8c748e9b991",
       "title": "Anthropic, OpenAI og Google samarbeider om KI-sikkerhet",
@@ -48,6 +105,14 @@
       "source": "Kode24",
       "summary": "– Teknologer må forstå det, i stedet for å forby det, skriver CTO Tor Gjøsæter om smartbriller. For han fikk øya opp for AR-teknologi i 2008.",
       "published": "2026-09-16T03:00:00Z"
+    },
+    {
+      "id": "5fe29c284785b3a6438653df4d76bf2f24a4160b",
+      "title": "Size-Specialized Memory Allocation",
+      "link": "https://go.dev/blog/size-specialized-allocations",
+      "source": "Go Blog",
+      "summary": "Go 1.27 improves performance of small allocations using size-specialized allocation functions.",
+      "published": "2026-09-16T00:00:00Z"
     },
     {
       "id": "00fcb65499a8cfee35bec50f7510ae35a5e4820c",
@@ -114,60 +179,12 @@
       "published": "2026-09-14T08:30:20Z"
     },
     {
-      "id": "ed07fe2849524f42ca5ea7c0946af60d8b87db56",
-      "title": "– Ville vært ubetenksomt å gå på børs nå",
-      "link": "https://www.kode24.no/artikkel/ville-vaert-ubetenksomt-a-ga-pa-bors-na/272343",
-      "source": "Kode24",
-      "summary": "OpenAI-sjefen sier at de neppe går på børs med det første, likevel.",
-      "published": "2026-09-14T07:23:21Z"
-    },
-    {
-      "id": "614834cb22f80084d40eefff6365a090ebcd29c2",
-      "title": "Trump skeptisk til KI-regulering",
-      "link": "https://www.kode24.no/artikkel/trump-skeptisk-til-ki-regulering/272325",
-      "source": "Kode24",
-      "summary": "– Det er mange svært negative krefter som tar opp ting de ikke burde ta opp, og de trekker fram ting som ikke kommer til å skje.",
-      "published": "2026-09-14T06:39:12Z"
-    },
-    {
-      "id": "c10267d0a4c6a337e672feb208e9356149e16625",
-      "title": "OpenAI-agenter angrep RubyGems",
-      "link": "https://www.kode24.no/artikkel/openai-agenter-angrep-rubygems/272309",
-      "source": "Kode24",
-      "summary": "To måneder før det nå kjente Hugging Face-angrepet.",
-      "published": "2026-09-14T06:31:57Z"
-    },
-    {
-      "id": "20091411d8557563da02436467d0d83a7413acff",
-      "title": "Anthropic-sjefen: – Vi må senke tempoet",
-      "link": "https://www.kode24.no/artikkel/anthropic-sjefen-vi-ma-senke-tempoet/272293",
-      "source": "Kode24",
-      "summary": "Viser til at KI er i ferd med å utvikle seg selv, og bryter ut av testmiljøene.",
-      "published": "2026-09-14T06:23:18Z"
-    },
-    {
-      "id": "4d0248c5b34eda69d860170318ff6dc5e5447b85",
-      "title": "Studenten Vilde skuffa av bransjen: – Ansetter bare seniorer",
-      "link": "https://www.kode24.no/artikkel/studenten-vilde-skuffa-av-bransjen-ansetter-bare-seniorer/271692",
-      "source": "Kode24",
-      "summary": "Student Vilde Berlin Kalleberg kom hjem fra Sikkerhetsfestivalen med masse merch, men ingen jobbtilbud. For mens bedriftene heier på juniorer, ansetter de seniorer.",
-      "published": "2026-09-14T03:00:00Z"
-    },
-    {
       "id": "d01781d00770cfb89ceeafdbfb92c8d313d6d989",
       "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
       "link": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/",
       "source": "GitHub Blog",
       "summary": "If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team. The post Marketing ops as code: Automating events from planning to follow-up on GitHub appeared first on The GitHub Blog.",
       "published": "2026-09-11T18:26:10Z"
-    },
-    {
-      "id": "9facbac791bb145145ac19d905faa49eecb2f58a",
-      "title": "KI-briller er en uting, sier den nye digitaliserings­ministeren",
-      "link": "https://www.kode24.no/artikkel/ki-briller-er-en-uting-sier-den-nye-digitaliseringsministeren/272275",
-      "source": "Kode24",
-      "summary": "Micaelsen legger i sine innledende ord til pressen vekt på at kunstig intelligens også har mange negative sider, og at det trengs tydelige rammer for teknologien.",
-      "published": "2026-09-11T12:57:53Z"
     },
     {
       "id": "3ce1fd85cc1776a1b7e0e5e988f828464d22716a",
@@ -255,15 +272,6 @@
       "published": "2026-08-26T00:00:00Z"
     },
     {
-      "id": "3ff5f1f57f405f2b42eefa144db500942d2f13e4",
-      "title": "How to evaluate LLMs before production",
-      "link": "https://github.blog/ai-and-ml/llms/how-to-evaluate-llms-before-production/",
-      "source": "GitHub Blog",
-      "summary": "These are the lessons we learned evaluating LLMs for real-world secret scanning. The post How to evaluate LLMs before production appeared first on The GitHub Blog.",
-      "published": "2026-08-25T21:35:11Z",
-      "image": "https://github.blog/wp-content/uploads/2026/08/633085615-8fa1a231-a731-4c36-b53d-007d212d811d-1.png?resize=1024%2C441"
-    },
-    {
       "id": "631b5540cda67c2e2ccfa0923359d21a3ef42d89",
       "title": "Go 1.27 is released",
       "link": "https://go.dev/blog/go1.27",
@@ -321,15 +329,6 @@
       "source": "Go Blog",
       "summary": "Go 1.26 adds a new garbage collector, cgo overhead reduction, experimental simd/archsimd package, experimental runtime/secret package, and more.",
       "published": "2026-02-10T00:00:00Z"
-    },
-    {
-      "id": "27a1ea166fc2a10fe1932a8430150324117a626c",
-      "title": "Results from the 2025 Go Developer Survey",
-      "link": "https://go.dev/blog/survey2025",
-      "source": "Go Blog",
-      "summary": "The 2025 Go Developer Survey results, focused on developer sentiment towards Go, use cases, challenges, and developer environments.",
-      "published": "2026-01-21T00:00:00Z",
-      "image": "https://go.dev/blog/survey2025/where.svg"
     }
   ]
 }
