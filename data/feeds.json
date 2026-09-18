@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-09-17T11:16:44.845942Z",
+  "generated_at": "2026-09-18T10:50:11.876823Z",
   "items": [
+    {
+      "id": "7fb6206d8d6acac202e45e12792dccdaee180885",
+      "title": "Kong Charles ba KI-ledere ta grep for å unngå katastrofe",
+      "link": "https://www.kode24.no/artikkel/kong-charles-ba-ki-ledere-ta-grep-for-a-unnga-katastrofe/272869",
+      "source": "Kode24",
+      "summary": "Den britiske kongen advarer noen av verdens fremste KI-selskaper mot å miste kontrollen over utviklingen av kunstig intelligens.",
+      "published": "2026-09-18T06:27:10Z"
+    },
+    {
+      "id": "17b3c77cd988d9a1876fe1fd9b2ca1ee4492fb95",
+      "title": "Over halvparten av norske utviklere føler på ubehag rundt KI",
+      "link": "https://www.kode24.no/artikkel/over-halvparten-av-norske-utviklere-foler-pa-ubehag-rundt-ki/272841",
+      "source": "Kode24",
+      "summary": "– Det er litt sjukt, men jeg skjønner dem godt, skriver Ole Petter, etter ei uke full av dommedags-profetier.",
+      "published": "2026-09-18T03:00:00Z"
+    },
     {
       "id": "4d833ec45ebfcc63384423dadce00a32372a20de",
       "title": "Ber utviklere fortsatt bruke KI, tross varsler",
@@ -161,22 +177,6 @@
       "source": "Kode24",
       "summary": "Russiske hackere hevder å stå bak det som skal være en DDOS-angrep mot stortinget.no, ifølge VG. Også Feide ble angrepet mandag.",
       "published": "2026-09-14T13:28:44Z"
-    },
-    {
-      "id": "5c3566c0a72af418d2d4ec3367720d936bd6ce0b",
-      "title": "Irritert over manglende svar på jobbsøknader, bygger Matchboks",
-      "link": "https://www.kode24.no/artikkel/irritert-over-manglende-svar-pa-jobbsoknader-bygger-matchboks/272391",
-      "source": "Kode24",
-      "summary": "– Jobbsøking er en feedback-loop uten feedback, mener Ole Joar Moi, som nå lanserer det han mener er løsningen.",
-      "published": "2026-09-14T11:07:46Z"
-    },
-    {
-      "id": "906879dbea40ecbd7f8be066f8eda1e99da6a2d7",
-      "title": "Regjeringen advarer mot smarttelefon og sosiale medier for barn",
-      "link": "https://www.kode24.no/artikkel/regjeringen-advarer-mot-smarttelefon-og-sosiale-medier-for-barn/272365",
-      "source": "Kode24",
-      "summary": "I regjeringens ferske anbefalinger om skjermbruk for barn og unge, advarer de mot Tiktok, Youtube og Snapchat. Og mot å gi smarte telefoner til barn.",
-      "published": "2026-09-14T08:30:20Z"
     },
     {
       "id": "d01781d00770cfb89ceeafdbfb92c8d313d6d989",
