@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-09-18T10:50:11.876823Z",
+  "generated_at": "2026-09-19T10:33:41.310998Z",
   "items": [
+    {
+      "id": "ef0eebbc283b8f8ab6aa3c847ce00ac1ff0d6bc0",
+      "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
+      "link": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/",
+      "source": "GitHub Blog",
+      "summary": "We dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast. The post Should you read the code, is RAG dead, and did Skills kill MCP? appeared first on The GitHub Blog.",
+      "published": "2026-09-18T15:00:00Z"
+    },
+    {
+      "id": "d3c7d2ed9d9cb9a50930b80ae70d677e30f23fe0",
+      "title": "Etterforsker seksuell trakassering ved bruk av smartbriller",
+      "link": "https://www.kode24.no/artikkel/etterforsker-seksuell-trakassering-ved-bruk-av-smartbriller/272988",
+      "source": "Kode24",
+      "summary": "En sak om seksuell trakassering med smartbriller etterforskes nå av politiet i Paris, samtidig som flere forretninger i Frankrike vil forby bruk av brillene.",
+      "published": "2026-09-18T12:32:55Z"
+    },
+    {
+      "id": "0b0f93a31da0bee55af8a0e2fcfee311c6007bd9",
+      "title": "Computas satser videre på nyutdannede",
+      "link": "https://www.kode24.no/artikkel/computas-satser-videre-pa-nyutdannede/272953",
+      "source": "Kode24",
+      "summary": "Computas har ansatt ni nyutdannede til sin NXT-avdeling i Oslo. Flere av dem er allerede ute på kundeprosjekter.",
+      "published": "2026-09-18T11:59:12Z"
+    },
+    {
+      "id": "fb96f4acac49229cbebd29e0b4e2f54190424807",
+      "title": "Statsråden setter IAM-innføring på vent",
+      "link": "https://www.kode24.no/artikkel/statsraden-setter-iam-innforing-pa-vent/272899",
+      "source": "Kode24",
+      "summary": "Den forrige kunnskapsministeren feilinformerte Stortinget om antall personopplysninger som ble rammet. Den nye setter innføringen av identitets- og tilgangsstyringen på vent. Rødt jubler.",
+      "published": "2026-09-18T10:31:34Z"
+    },
+    {
+      "id": "5c443d568f9d4d20b19caebfa539b7459719c5f5",
+      "title": "Utvikleren i 2031: KI tvinger fram nye grep i utdanningen",
+      "link": "https://www.kode24.no/artikkel/utvikleren-i-2031-ki-tvinger-fram-nye-grep-i-utdanningen/272774",
+      "source": "Kode24",
+      "summary": "Ferske studenter skal ut i arbeidslivet i 2031. Hvordan utdanne dem til en framtid ingen vet hvordan ser ut? Universitetene må tenke nytt, mener lektor i informatikk.",
+      "published": "2026-09-18T09:09:00Z"
+    },
     {
       "id": "7fb6206d8d6acac202e45e12792dccdaee180885",
       "title": "Kong Charles ba KI-ledere ta grep for å unngå katastrofe",
@@ -147,38 +187,6 @@
       "published": "2026-09-15T12:45:23Z"
     },
     {
-      "id": "2e007276593fb3d08bfad6cb42c07b4a68118a2c",
-      "title": "1 million Dustin-kunder lekket, Nav og Statnett rammet",
-      "link": "https://www.kode24.no/artikkel/1-million-dustin-kunder-lekket-nav-og-statnett-rammet/272503",
-      "source": "Kode24",
-      "summary": "Hackergruppe tilbyr 6,2 TB data fra Dustin-angrepet for nedlasting. – Vi ser alvorlig på saken, forteller Statnett, mens Nav har informert sine ansatte.",
-      "published": "2026-09-15T08:28:12Z"
-    },
-    {
-      "id": "7490ada2448827ff8a1dc67c05dcbafe045b93c9",
-      "title": "Palantir-utvikler til norske Stendr",
-      "link": "https://www.kode24.no/artikkel/palantir-utvikler-til-norske-stendr/272458",
-      "source": "Kode24",
-      "summary": "– Jeg har jobbet med disse problemstillingene på begge sider av Atlanteren i 13 år, og jeg tror Stendr har mye å bidra med, sier Michael Kattouf.",
-      "published": "2026-09-15T07:01:46Z"
-    },
-    {
-      "id": "e5f20a0e849520254224fc4bca0e80bd5e9fa9f3",
-      "title": "Bruker personlige KI-kontoer på jobb",
-      "link": "https://www.kode24.no/artikkel/bruker-personlige-ki-kontoer-pa-jobb/267301",
-      "source": "Kode24",
-      "summary": "Ringerike kommune jobber med å sikre seg mot ukontrollert KI-bruk, med 2.200 ansatte. – Det er en lang og tung prosess, sier IT-sjefen.",
-      "published": "2026-09-15T03:00:00Z"
-    },
-    {
-      "id": "8955911c48308c875aef8e9ac02c140f3705d1fb",
-      "title": "Nye angrep mot Feide og Stortinget",
-      "link": "https://www.kode24.no/artikkel/nye-angrep-mot-feide-og-stortinget/272440",
-      "source": "Kode24",
-      "summary": "Russiske hackere hevder å stå bak det som skal være en DDOS-angrep mot stortinget.no, ifølge VG. Også Feide ble angrepet mandag.",
-      "published": "2026-09-14T13:28:44Z"
-    },
-    {
       "id": "d01781d00770cfb89ceeafdbfb92c8d313d6d989",
       "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
       "link": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/",
@@ -254,14 +262,6 @@
       "summary": "OpenClaw is the fastest-growing project in GitHub history. Peter Steinberger and several maintainers share what they learned in the project's first six months. The post OpenClaw went viral. Meet the maintainers building and securing it. appeared first on The GitHub Blog.",
       "published": "2026-08-27T16:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2026/02/header.jpg?resize=1024%2C538"
-    },
-    {
-      "id": "c8665e3302856e9a27536c92fbccf3ccd9e52be3",
-      "title": "GitHub Copilot app for Beginners: Automate Dependabot pull request triage",
-      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-automate-dependabot-pull-request-triage/",
-      "source": "GitHub Blog",
-      "summary": "Managing library updates can be tedious at times. Learn how the GitHub Copilot app can handle this type of repetitive task. The post GitHub Copilot app for Beginners: Automate Dependabot pull request triage appeared first on The GitHub Blog.",
-      "published": "2026-08-26T20:12:53Z"
     },
     {
       "id": "ee432ae628f758dad07db2ae5c7b653b90b15f5e",
