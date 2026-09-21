@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-09-20T10:56:21.258377Z",
+  "generated_at": "2026-09-21T12:22:14.674616Z",
   "items": [
+    {
+      "id": "118b45858fdba56ad1d816a8bfecbc45c3d11ccc",
+      "title": "Dårlig KI-kode? Kanskje problemet er metoden",
+      "link": "https://www.kode24.no/artikkel/darlig-ki-kode-kanskje-problemet-er-metoden/272968",
+      "source": "Kode24",
+      "summary": "– Det er denne diskusjonen jeg savner: Ikke hvor mye kode KI får lov til å skrive, men hvordan utviklingsmetoden bør se ut når KI kan skrive mesteparten av den, skriver Lars Rinnan.",
+      "published": "2026-09-21T10:44:40Z"
+    },
+    {
+      "id": "fccf41cd03d379c65b833715e52268ddc15f9b4e",
+      "title": "OpenAI og Microsoft innrømmer innholds-tyveri og «doom loop»",
+      "link": "https://www.kode24.no/artikkel/openai-og-microsoft-innrommer-innholds-tyveri-og-doom-loop/273063",
+      "source": "Kode24",
+      "summary": "Microsoft kaller treningsmaterialet for «det største tyveriet av arbeidskraft i menneskehetens historie», avslører dokumenter. Nå kan tyveriet grave deres egen grav.",
+      "published": "2026-09-21T08:12:17Z"
+    },
+    {
+      "id": "c52224d8b364f297a14b8c4e47391bb30f52c5ec",
+      "title": "Stor uenighet om dommedag-varsler",
+      "link": "https://www.kode24.no/artikkel/stor-uenighet-om-dommedag-varsler/273043",
+      "source": "Kode24",
+      "summary": "KI-«gudfar» tror det er 10 prosent sjanse for at KI dreper menneskeheten. – Komplett løgn, sier Nvidia sjef Jensen Huang om narrativet om dommedag.",
+      "published": "2026-09-21T06:23:13Z"
+    },
+    {
+      "id": "176cc619a2ae01c878e4d971500f92e6f4d241a0",
+      "title": "– De som virkelig får til KI, jobber først tregere",
+      "link": "https://www.kode24.no/artikkel/de-som-virkelig-far-til-ki-jobber-forst-tregere/271210",
+      "source": "Kode24",
+      "summary": "Utviklere må få tid til å lære seg teknologien skikkelig, sammen, konkluderer Sintef og Knowit etter lang forskning.",
+      "published": "2026-09-21T03:00:00Z"
+    },
     {
       "id": "ef0eebbc283b8f8ab6aa3c847ce00ac1ff0d6bc0",
       "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
@@ -147,44 +179,12 @@
       "published": "2026-09-16T06:47:06Z"
     },
     {
-      "id": "1e6b5069c42e23734b26173b7d1104dd8f15da90",
-      "title": "Støre tar KI-advarsler på alvor",
-      "link": "https://www.kode24.no/artikkel/store-tar-ki-advarsler-pa-alvor/272590",
-      "source": "Kode24",
-      "summary": "– Hadde det vært tre ledere av selskaper fra militærindustrien som sa de var i ferd med å miste kontroll på det de produserte, så hadde vi jo grepet inn, sier statsminister Jonas Gahr Støre (Ap) om den siste tidens dommedags-profetier.",
-      "published": "2026-09-16T06:30:27Z"
-    },
-    {
-      "id": "e49b3f71a88bd048ebf7a665ef88e59199cbc497",
-      "title": "Advarer mot å forby smartbriller: – Mye kraft i AR",
-      "link": "https://www.kode24.no/artikkel/advarer-mot-a-forby-smartbriller-mye-kraft-i-ar/272536",
-      "source": "Kode24",
-      "summary": "– Teknologer må forstå det, i stedet for å forby det, skriver CTO Tor Gjøsæter om smartbriller. For han fikk øya opp for AR-teknologi i 2008.",
-      "published": "2026-09-16T03:00:00Z"
-    },
-    {
       "id": "5fe29c284785b3a6438653df4d76bf2f24a4160b",
       "title": "Size-Specialized Memory Allocation",
       "link": "https://go.dev/blog/size-specialized-allocations",
       "source": "Go Blog",
       "summary": "Go 1.27 improves performance of small allocations using size-specialized allocation functions.",
       "published": "2026-09-16T00:00:00Z"
-    },
-    {
-      "id": "00fcb65499a8cfee35bec50f7510ae35a5e4820c",
-      "title": "React 19.3 er ute: – Gleder meg mest til View­Transitions",
-      "link": "https://www.kode24.no/artikkel/react-193-er-ute-gleder-meg-mest-til-viewtransitions/272565",
-      "source": "Kode24",
-      "summary": "React 19.3, kostnaden av et rammeverk og 30 ganger raskere sammenslåing av Tailwind-klasser, i ukas ForrigeUke.",
-      "published": "2026-09-15T13:33:30Z"
-    },
-    {
-      "id": "9c4a62bf98e559a23fa93406304ffb419795403a",
-      "title": "– Viktig med felles norsk ordforråd om KI",
-      "link": "https://www.kode24.no/artikkel/viktig-med-felles-norsk-ordforrad-om-ki/272180",
-      "source": "Kode24",
-      "summary": "Teknologirådets KI-ordliste ble oppdatert forrige uke. Allerede nå vurderes nye begreper som «rogue AI», «modell-fatigue» og «meat proxy» til den neste oppdateringen.",
-      "published": "2026-09-15T12:45:23Z"
     },
     {
       "id": "d01781d00770cfb89ceeafdbfb92c8d313d6d989",
