@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-09-21T12:22:14.674616Z",
+  "generated_at": "2026-09-22T11:13:22.523610Z",
   "items": [
+    {
+      "id": "447e39c9db0566bd22ac85489134c45f5fd9be36",
+      "title": "Sikt avviser dårlig sikkerhet i Felles IAM",
+      "link": "https://www.kode24.no/artikkel/sikt-avviser-darlig-sikkerhet-i-felles-iam/272835",
+      "source": "Kode24",
+      "summary": "UiO-professor mener økonomien har trumfet sikkerheten i arbeidet med IT-system for universiteter. Det nekter forvaltningsorganet Sikt for.",
+      "published": "2026-09-22T09:27:08Z"
+    },
+    {
+      "id": "b920327d9134aa995ee06d682487408be672600f",
+      "title": "DNB forbyr ansatte å bruke smartbriller",
+      "link": "https://www.kode24.no/artikkel/dnb-forbyr-ansatte-a-bruke-smartbriller/273153",
+      "source": "Kode24",
+      "summary": "– Vi ønsker et arbeidsmiljø der ansatte slipper å lure på om kolleger eller andre bruker teknologi som kan filme dem.",
+      "published": "2026-09-22T06:43:10Z"
+    },
+    {
+      "id": "47bbeec56ad4f5837b35b9937ce9d71f14f4a42f",
+      "title": "Støre og Stubb vil sikre internasjonal kontroll over KI",
+      "link": "https://www.kode24.no/artikkel/store-og-stubb-vil-sikre-internasjonal-kontroll-over-ki/273139",
+      "source": "Kode24",
+      "summary": "– Vi må få bedre kontroll på de mest avanserte KI-modellene, sier Jonas Gahr Støre, som sammen med Finlands president vil få kontroll.",
+      "published": "2026-09-22T06:31:46Z"
+    },
+    {
+      "id": "693977bdf940f00adfe34355bd5d282e5e10a000",
+      "title": "Pappaperm-prosjektet Zenframe: – Gått over all forventning",
+      "link": "https://www.kode24.no/artikkel/pappaperm-prosjektet-zenframe-gatt-over-all-forventning/272093",
+      "source": "Kode24",
+      "summary": "Anders Storebø bygde en digital familiekalender for å få hverdagen til å gå opp under pappapermen. Nå har han kunder i flere land.",
+      "published": "2026-09-22T03:00:00Z"
+    },
+    {
+      "id": "7b1e976fccd35daa18fc95010d0c191aa21f912a",
+      "title": "Norske datasentres strømforbruk nesten firedoblet på tre år",
+      "link": "https://www.kode24.no/artikkel/norske-datasentres-stromforbruk-nesten-firedoblet-pa-tre-ar/273122",
+      "source": "Kode24",
+      "summary": "Nye tall viser eksplosiv vekst. – – Nå må vi dra i nødbremsen, mener SV.",
+      "published": "2026-09-21T13:32:12Z"
+    },
+    {
+      "id": "77be9782fc9219e00b4553fc3b11155c1dbe8192",
+      "title": "Rekordbot til Google etter norsk avsløring: «En merkedag»",
+      "link": "https://www.kode24.no/artikkel/rekordbot-til-google-etter-norsk-avsloring-en-merkedag/273089",
+      "source": "Kode24",
+      "summary": "Forbrukerrådet slo i 2018 fast hvordan Android-brukere etter deres syn ble manipulert til kontinuerlig sporing. Nå kommer boten.",
+      "published": "2026-09-21T11:21:42Z"
+    },
     {
       "id": "118b45858fdba56ad1d816a8bfecbc45c3d11ccc",
       "title": "Dårlig KI-kode? Kanskje problemet er metoden",
@@ -122,14 +170,6 @@
       "published": "2026-09-17T06:38:20Z"
     },
     {
-      "id": "34516815e59e739f038934aec7e6bb7b18c41ce5",
-      "title": "– Kan være krevende å være kvinne i kode-verden",
-      "link": "https://www.kode24.no/artikkel/kan-vaere-krevende-a-vaere-kvinne-i-kode-verden/272415",
-      "source": "Kode24",
-      "summary": "– Prøv å lage ekstra plass til dine kvinnelige kollegaer, slik at vi blir inkludert på skikkelig, sier Ukas Koder, Amalie Rege.",
-      "published": "2026-09-17T03:00:00Z"
-    },
-    {
       "id": "82be70aa9732ff1b11f2c3d54becb6bb39508de5",
       "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
       "link": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
@@ -137,46 +177,6 @@
       "summary": "A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took. The post Migrating the GitHub Copilot runtime to Rust, using Copilot appeared first on The GitHub Blog.",
       "published": "2026-09-17T00:26:43Z",
       "image": "https://github.blog/wp-content/uploads/2026/09/architecture-before-after.svg?resize=1024,512"
-    },
-    {
-      "id": "2b81b243e18838c3e871aea0b479873fac5a544b",
-      "title": "2.000 utviklere samla i Spektrum",
-      "link": "https://www.kode24.no/artikkel/2000-utviklere-samla-i-spektrum/272670",
-      "source": "Kode24",
-      "summary": "NDC Oslo 2026 er i gang, som første konferanse i Spektrum siden hallen ble oppgradert.",
-      "published": "2026-09-16T11:37:52Z"
-    },
-    {
-      "id": "63db1160875fe5f0c7abd763f263d8c748e9b991",
-      "title": "Anthropic, OpenAI og Google samarbeider om KI-sikkerhet",
-      "link": "https://www.kode24.no/artikkel/anthropic-openai-og-google-samarbeider-om-ki-sikkerhet/272677",
-      "source": "Kode24",
-      "summary": "Samtidig kommer EU på banen og vil bidra.",
-      "published": "2026-09-16T10:51:49Z"
-    },
-    {
-      "id": "ae4c0f293006bca1764640eab10333f1a93574ab",
-      "title": "– Å bruke KI er som å gå med en bloddiamant",
-      "link": "https://www.kode24.no/artikkel/a-bruke-ki-er-som-a-ga-med-en-bloddiamant/272533",
-      "source": "Kode24",
-      "summary": "Etikkforsker mener måten kunstig intelligens trenes på, gjør teknologien uetisk.",
-      "published": "2026-09-16T09:21:34Z"
-    },
-    {
-      "id": "1ed0f23cd6a2e755dd3849aef2f8eb98d3e4e6cc",
-      "title": "– Vibbekodere blir ufrivillige CTO-er",
-      "link": "https://www.kode24.no/artikkel/vibbekodere-blir-ufrivillige-cto-er/272433",
-      "source": "Kode24",
-      "summary": "Kjell-Vidar Åhman Teig ser stadig oftere hvordan vibbekoda løsninger blir brukt av store organisasjoner, og advarer mot konsekvensene. – Er du klar for å ta ansvaret for den?",
-      "published": "2026-09-16T09:20:14Z"
-    },
-    {
-      "id": "fcb0e5e8a314f2348f45fc7f33dac9e15961930b",
-      "title": "Digitaliserings-ministeren vurderer brilleforbud",
-      "link": "https://www.kode24.no/artikkel/digitaliserings-ministeren-vurderer-brilleforbud/272610",
-      "source": "Kode24",
-      "summary": "– Jeg er veldig urolig for at vi introduserer ny, kroppsnær teknologi i kombinasjon med KI, som muliggjør sensorer, videoer og lyd der folk blir filmet eller blir tatt opptak av uten at de vet det.",
-      "published": "2026-09-16T06:47:06Z"
     },
     {
       "id": "5fe29c284785b3a6438653df4d76bf2f24a4160b",
