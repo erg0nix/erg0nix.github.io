@@ -1,6 +1,38 @@
 {
-  "generated_at": "2026-09-22T11:13:22.523610Z",
+  "generated_at": "2026-09-23T11:05:01.860325Z",
   "items": [
+    {
+      "id": "e564427ba7625c822911842f334a32f7320079f1",
+      "title": "Går ut mot regulering av KI: – Må styrke forsvar, ikke begrense teknologi",
+      "link": "https://www.kode24.no/artikkel/gar-ut-mot-regulering-av-ki-ma-styrke-forsvar-ikke-begrense-teknologi/273197",
+      "source": "Kode24",
+      "summary": "Zack Korman jobber daglig med sikkerhet for KI-agenter, men tror hverken på dommedag eller regulering.",
+      "published": "2026-09-23T08:48:19Z"
+    },
+    {
+      "id": "6d2a9a1b694eb8f5fabb38f6fa634f8eb3d7f4cc",
+      "title": "Trump døper KI om til SI: – Det er superintelligens",
+      "link": "https://www.kode24.no/artikkel/trump-doper-ki-om-til-si-det-er-superintelligens/273224",
+      "source": "Kode24",
+      "summary": "Trump endret navnet, Støre fant KI-enighet med Mamdani, og FN-sjefen kom med advarsel om barn. Slik åpnet FNs generalforsamling.",
+      "published": "2026-09-23T07:33:55Z"
+    },
+    {
+      "id": "9c83d3743ef857486a11a50cc13a117af3d9c38a",
+      "title": "1 av 5 norske utviklere par­­programmerer: – Det var mer før",
+      "link": "https://www.kode24.no/artikkel/1-av-5-norske-utviklere-parprogrammerer-det-var-mer-for/272521",
+      "source": "Kode24",
+      "summary": "Utviklerne i Norgesgruppen Data setter heller opp agenter sammen enn å parprogrammere. Det er de ikke alene om, viser kode24s tall.",
+      "published": "2026-09-23T03:00:00Z"
+    },
+    {
+      "id": "aeadbf2a4d6cebba2b22885f3319cca44434a03e",
+      "title": "Aftenposten: SV vil begrense KI, men bruker det mest",
+      "link": "https://www.kode24.no/artikkel/aftenposten-sv-vil-begrense-ki-men-bruker-det-mest/267945",
+      "source": "Kode24",
+      "summary": "112 av 325 stortingsforslag har det siste året inneholder KI-generert tekst, ifølge en kartlegging Aftenposten har gjort. SV bruker KI mest.",
+      "published": "2026-09-22T11:00:19Z"
+    },
     {
       "id": "447e39c9db0566bd22ac85489134c45f5fd9be36",
       "title": "Sikt avviser dårlig sikkerhet i Felles IAM",
@@ -136,38 +168,6 @@
       "source": "Kode24",
       "summary": "– Det er litt sjukt, men jeg skjønner dem godt, skriver Ole Petter, etter ei uke full av dommedags-profetier.",
       "published": "2026-09-18T03:00:00Z"
-    },
-    {
-      "id": "4d833ec45ebfcc63384423dadce00a32372a20de",
-      "title": "Ber utviklere fortsatt bruke KI, tross varsler",
-      "link": "https://www.kode24.no/artikkel/ber-utviklere-fortsatt-bruke-ki-tross-varsler/272802",
-      "source": "Kode24",
-      "summary": "Computas' nye KI-sjef ber utviklere møte dommedags-varsler med fatning. – Vårt ansvar handler om hva vi gjør med teknologien når den nå er her, skriver Rune Hovland.",
-      "published": "2026-09-17T10:43:17Z"
-    },
-    {
-      "id": "fdac04e0758a674cc38fd634d45c482703c52014",
-      "title": "– Norge setter av 10 ganger mer kraft til datasentre enn vi trenger",
-      "link": "https://www.kode24.no/artikkel/norge-setter-av-10-ganger-mer-kraft-til-datasentre-enn-vi-trenger/272717",
-      "source": "Kode24",
-      "summary": "Lars Erik Finholt har regna ut hvor mye strøm vi trenger om hele Norge bruker KI. Det er mye mindre enn vi setter av til nye datasentre. – Så hva får Norge igjen for kraften?",
-      "published": "2026-09-17T07:49:12Z"
-    },
-    {
-      "id": "f4f6bf6880040d80cdacdf347e60be52277d3589",
-      "title": "FN-sjefen slår KI-alarm",
-      "link": "https://www.kode24.no/artikkel/fn-sjefen-slar-ki-alarm/272757",
-      "source": "Kode24",
-      "summary": "– Vi har ikke råd til å ignorere bekymringer som er blitt reist.",
-      "published": "2026-09-17T06:42:11Z"
-    },
-    {
-      "id": "518d832975d69b5078e7a1e0183b837a9ff08941",
-      "title": "Varslere strengere regler for datasentre",
-      "link": "https://www.kode24.no/artikkel/varslere-strengere-regler-for-datasentre/272744",
-      "source": "Kode24",
-      "summary": "– Hvis denne næringen skal ha legitimitet og oppslutning framover, som den fortjener, så er det viktig at lokalsamfunnene også ser at verdier blir igjen i vårt eget land.",
-      "published": "2026-09-17T06:38:20Z"
     },
     {
       "id": "82be70aa9732ff1b11f2c3d54becb6bb39508de5",
