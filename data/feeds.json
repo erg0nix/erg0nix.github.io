@@ -1,6 +1,63 @@
 {
-  "generated_at": "2026-09-23T11:05:01.860325Z",
+  "generated_at": "2026-09-24T11:22:43.372383Z",
   "items": [
+    {
+      "id": "5a215c4d1f1d1059098b54d27361b77433e55c4b",
+      "title": "USAs diplomater har fått ordre om å si SI",
+      "link": "https://www.kode24.no/artikkel/usas-diplomater-har-fatt-ordre-om-a-si-si/273364",
+      "source": "Kode24",
+      "summary": "Si superintelligens, ikke kunstig intelligens. Det er ordren som USAs utenriksdepartement har gitt til sine diplomater når de skal snakke om KI.",
+      "published": "2026-09-24T07:16:04Z"
+    },
+    {
+      "id": "3086ef1009ddeac69b0cc302f7b731669c8d74a2",
+      "title": "Anthropic og OpenAI ber FN om hjelp",
+      "link": "https://www.kode24.no/artikkel/anthropic-og-openai-ber-fn-om-hjelp/273348",
+      "source": "Kode24",
+      "summary": "Talte i sikkerhetsrådet samme døgn som det kom meldinger om at OpenAIs agenter har hacka Australias helsevesen.",
+      "published": "2026-09-24T06:35:49Z"
+    },
+    {
+      "id": "a3bf8c9620cc136802a5948344daa09737c76e36",
+      "title": "Forsvarer par­program­mering: – Gjør deg gladere og mer effektiv",
+      "link": "https://www.kode24.no/artikkel/forsvarer-parprogrammering-gjor-deg-gladere-og-mer-effektiv/272825",
+      "source": "Kode24",
+      "summary": "Ryan Healey slår et slag for å programmere i par, selv om kunstig intelligens er blitt mange utvikleres nye «kollega». – Vi pusher rett til master.",
+      "published": "2026-09-24T03:00:00Z"
+    },
+    {
+      "id": "c24f1ba8a80eacf7a801c0d00036b04e3bd18753",
+      "title": "Rendering huge pull requests in the GitHub Copilot app",
+      "link": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/",
+      "source": "GitHub Blog",
+      "summary": "How we rebuilt the diff surface in the GitHub Copilot app to open a million-line pull request with hundreds of inline review comments. The post Rendering huge pull requests in the GitHub Copilot app appeared first on The GitHub Blog.",
+      "published": "2026-09-23T18:29:49Z"
+    },
+    {
+      "id": "0c80d82fb62238d0b2c528fcc7d232e98052951f",
+      "title": "Developers want more efficient software. Here’s what over 1000 GitHub users told us they need.",
+      "link": "https://github.blog/news-insights/research/developers-want-more-efficient-software-heres-what-over-1000-github-users-told-us-they-need/",
+      "source": "GitHub Blog",
+      "summary": "New research from GitHub and Yale Program on Climate Change Communication finds strong demand for tools, measurement, and practical guidance that can help developers reduce wasted compute. The post Developers want more efficient software. Here’s what over 1000 GitHub users told us they need....",
+      "published": "2026-09-23T13:00:00Z",
+      "image": "https://github.blog/wp-content/uploads/2026/09/Screenshot-2026-09-22-at-6.34.24-PM.png?resize=1024%2C623"
+    },
+    {
+      "id": "1f781db1462700ede705b01bd02519fbcba5b2f4",
+      "title": "Derfor snakker alle om Jev",
+      "link": "https://www.kode24.no/artikkel/derfor-snakker-alle-om-jev/273270",
+      "source": "Kode24",
+      "summary": "– Jev åpner for å bruke KI til ting vi hittil ikke har hatt en god løsning for, skriver Marius Waldal, om den nye typesikre modellen Jev. – Dette er stort!",
+      "published": "2026-09-23T12:40:50Z"
+    },
+    {
+      "id": "ae9201e1387623d43aa67bbbff9fc6e85b87be4b",
+      "title": "Vil bruke 94 millioner kroner på presis tid",
+      "link": "https://www.kode24.no/artikkel/vil-bruke-94-millioner-kroner-pa-presis-tid/273303",
+      "source": "Kode24",
+      "summary": "– At klokken er riktig og sporbar, er helt avgjørende for svært mange samfunnskritiske funksjoner i Norge og resten av Europa, sier næringsministeren.",
+      "published": "2026-09-23T12:06:57Z"
+    },
     {
       "id": "e564427ba7625c822911842f334a32f7320079f1",
       "title": "Går ut mot regulering av KI: – Må styrke forsvar, ikke begrense teknologi",
@@ -130,46 +187,6 @@
       "published": "2026-09-18T12:32:55Z"
     },
     {
-      "id": "0b0f93a31da0bee55af8a0e2fcfee311c6007bd9",
-      "title": "Computas satser videre på nyutdannede",
-      "link": "https://www.kode24.no/artikkel/computas-satser-videre-pa-nyutdannede/272953",
-      "source": "Kode24",
-      "summary": "Computas har ansatt ni nyutdannede til sin NXT-avdeling i Oslo. Flere av dem er allerede ute på kundeprosjekter.",
-      "published": "2026-09-18T11:59:12Z"
-    },
-    {
-      "id": "fb96f4acac49229cbebd29e0b4e2f54190424807",
-      "title": "Statsråden setter IAM-innføring på vent",
-      "link": "https://www.kode24.no/artikkel/statsraden-setter-iam-innforing-pa-vent/272899",
-      "source": "Kode24",
-      "summary": "Den forrige kunnskapsministeren feilinformerte Stortinget om antall personopplysninger som ble rammet. Den nye setter innføringen av identitets- og tilgangsstyringen på vent. Rødt jubler.",
-      "published": "2026-09-18T10:31:34Z"
-    },
-    {
-      "id": "5c443d568f9d4d20b19caebfa539b7459719c5f5",
-      "title": "Utvikleren i 2031: KI tvinger fram nye grep i utdanningen",
-      "link": "https://www.kode24.no/artikkel/utvikleren-i-2031-ki-tvinger-fram-nye-grep-i-utdanningen/272774",
-      "source": "Kode24",
-      "summary": "Ferske studenter skal ut i arbeidslivet i 2031. Hvordan utdanne dem til en framtid ingen vet hvordan ser ut? Universitetene må tenke nytt, mener lektor i informatikk.",
-      "published": "2026-09-18T09:09:00Z"
-    },
-    {
-      "id": "7fb6206d8d6acac202e45e12792dccdaee180885",
-      "title": "Kong Charles ba KI-ledere ta grep for å unngå katastrofe",
-      "link": "https://www.kode24.no/artikkel/kong-charles-ba-ki-ledere-ta-grep-for-a-unnga-katastrofe/272869",
-      "source": "Kode24",
-      "summary": "Den britiske kongen advarer noen av verdens fremste KI-selskaper mot å miste kontrollen over utviklingen av kunstig intelligens.",
-      "published": "2026-09-18T06:27:10Z"
-    },
-    {
-      "id": "17b3c77cd988d9a1876fe1fd9b2ca1ee4492fb95",
-      "title": "Over halvparten av norske utviklere føler på ubehag rundt KI",
-      "link": "https://www.kode24.no/artikkel/over-halvparten-av-norske-utviklere-foler-pa-ubehag-rundt-ki/272841",
-      "source": "Kode24",
-      "summary": "– Det er litt sjukt, men jeg skjønner dem godt, skriver Ole Petter, etter ei uke full av dommedags-profetier.",
-      "published": "2026-09-18T03:00:00Z"
-    },
-    {
       "id": "82be70aa9732ff1b11f2c3d54becb6bb39508de5",
       "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
       "link": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
@@ -237,15 +254,6 @@
       "published": "2026-09-02T21:00:00Z"
     },
     {
-      "id": "b1844f5bda75e9cf299ef7ca549f348cdb0182b2",
-      "title": "How we make AI coding more cost efficient without sacrificing task quality",
-      "link": "https://github.blog/ai-and-ml/github-copilot/how-we-make-ai-coding-more-cost-efficient-without-sacrificing-task-quality/",
-      "source": "GitHub Blog",
-      "summary": "Why shorter outputs can cost more, and how GitHub Copilot reduces wasted work across the complete coding task. The post How we make AI coding more cost efficient without sacrificing task quality appeared first on The GitHub Blog.",
-      "published": "2026-09-02T18:00:00Z",
-      "image": "https://github.blog/wp-content/uploads/2026/09/Blog-Graphic-01.png?resize=1024%2C329"
-    },
-    {
       "id": "21402bd7afe2afa5863f341631d48c0b563c80da",
       "title": "Goroutine Leak Profiles",
       "link": "https://go.dev/blog/goroutine-leak-profiles",
@@ -253,15 +261,6 @@
       "summary": "Go 1.27 includes new goroutine leak profiles.",
       "published": "2026-09-02T00:00:00Z",
       "image": "https://go.dev/blog/goroutine-leak-profiles/gc-original.svg"
-    },
-    {
-      "id": "b28b99cd97ea0244d8c9f534a4c33b0f04aac052",
-      "title": "OpenClaw went viral. Meet the maintainers building and securing it.",
-      "link": "https://github.blog/open-source/maintainers/openclaw-went-viral-meet-the-maintainers-building-and-securing-it/",
-      "source": "GitHub Blog",
-      "summary": "OpenClaw is the fastest-growing project in GitHub history. Peter Steinberger and several maintainers share what they learned in the project's first six months. The post OpenClaw went viral. Meet the maintainers building and securing it. appeared first on The GitHub Blog.",
-      "published": "2026-08-27T16:00:00Z",
-      "image": "https://github.blog/wp-content/uploads/2026/02/header.jpg?resize=1024%2C538"
     },
     {
       "id": "ee432ae628f758dad07db2ae5c7b653b90b15f5e",
