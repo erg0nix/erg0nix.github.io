@@ -1,6 +1,47 @@
 {
-  "generated_at": "2026-09-25T11:28:07.284533Z",
+  "generated_at": "2026-09-26T11:03:07.924796Z",
   "items": [
+    {
+      "id": "752e6709eebce7845f60c086565c42b62d7ed515",
+      "title": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
+      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/",
+      "source": "GitHub Blog",
+      "summary": "Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and more time getting work done. The post GitHub Copilot app for Beginners: How to build custom workflows with canvases appeared first on...",
+      "published": "2026-09-25T18:00:00Z"
+    },
+    {
+      "id": "7f41c2b722158bc8dd61055a679e8218048f5124",
+      "title": "Improving site performance by shipping more CSS",
+      "link": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
+      "source": "GitHub Blog",
+      "summary": "How we fully migrated github.com away from CSS-in-JS. The post Improving site performance by shipping more CSS appeared first on The GitHub Blog.",
+      "published": "2026-09-25T15:00:00Z",
+      "image": "https://github.blog/wp-content/uploads/2026/09/625328348-91f668f6-2565-492d-aa76-632d429fb4ba.png?resize=1024%2C966"
+    },
+    {
+      "id": "2c688bab9eb21d7b55808f77d053014eec540f2c",
+      "title": "Regjering og arbeidsliv inngår KI-avtale",
+      "link": "https://www.kode24.no/artikkel/regjering-og-arbeidsliv-inngar-ki-avtale/273630",
+      "source": "Kode24",
+      "summary": "Partene i arbeidslivet og regjeringen møtes for å signere en intensjonsavtale om kunstig intelligens. – Medlemmer opplever daglig utfordringer og muligheter, sier Unio.",
+      "published": "2026-09-25T12:51:09Z"
+    },
+    {
+      "id": "69b9c25249d90558a8e12fb5020a79679f38175d",
+      "title": "– SaaS-lisenser ødelegger moderne utvikling",
+      "link": "https://www.kode24.no/artikkel/saas-lisenser-odelegger-moderne-utvikling/273613",
+      "source": "Kode24",
+      "summary": "– Utviklere som bygger neste generasjons programvare for nettet, bør ikke fortsette å beskytte utdaterte lisensmodeller med kompleks kode – de bør rives ned, skriver Pål Lind.",
+      "published": "2026-09-25T12:21:58Z"
+    },
+    {
+      "id": "bf443aa014ab65333169f50df039d3c163556c8b",
+      "title": "8 av 10 store norske selskap bruker KI",
+      "link": "https://www.kode24.no/artikkel/8-av-10-store-norske-selskap-bruker-ki/273556",
+      "source": "Kode24",
+      "summary": "Og folk flest bruker det også bare mer og mer, viser nye tall fra SSB.",
+      "published": "2026-09-25T11:06:55Z"
+    },
     {
       "id": "1813df376f21205e82682f3e6e675e47dd998b9f",
       "title": "Nito-nestleder trekker seg",
@@ -181,30 +222,6 @@
       "published": "2026-09-22T09:27:08Z"
     },
     {
-      "id": "b920327d9134aa995ee06d682487408be672600f",
-      "title": "DNB forbyr ansatte å bruke smartbriller",
-      "link": "https://www.kode24.no/artikkel/dnb-forbyr-ansatte-a-bruke-smartbriller/273153",
-      "source": "Kode24",
-      "summary": "– Vi ønsker et arbeidsmiljø der ansatte slipper å lure på om kolleger eller andre bruker teknologi som kan filme dem.",
-      "published": "2026-09-22T06:43:10Z"
-    },
-    {
-      "id": "47bbeec56ad4f5837b35b9937ce9d71f14f4a42f",
-      "title": "Støre og Stubb vil sikre internasjonal kontroll over KI",
-      "link": "https://www.kode24.no/artikkel/store-og-stubb-vil-sikre-internasjonal-kontroll-over-ki/273139",
-      "source": "Kode24",
-      "summary": "– Vi må få bedre kontroll på de mest avanserte KI-modellene, sier Jonas Gahr Støre, som sammen med Finlands president vil få kontroll.",
-      "published": "2026-09-22T06:31:46Z"
-    },
-    {
-      "id": "693977bdf940f00adfe34355bd5d282e5e10a000",
-      "title": "Pappaperm-prosjektet Zenframe: – Gått over all forventning",
-      "link": "https://www.kode24.no/artikkel/pappaperm-prosjektet-zenframe-gatt-over-all-forventning/272093",
-      "source": "Kode24",
-      "summary": "Anders Storebø bygde en digital familiekalender for å få hverdagen til å gå opp under pappapermen. Nå har han kunder i flere land.",
-      "published": "2026-09-22T03:00:00Z"
-    },
-    {
       "id": "ef0eebbc283b8f8ab6aa3c847ce00ac1ff0d6bc0",
       "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
       "link": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/",
@@ -244,24 +261,6 @@
       "source": "GitHub Blog",
       "summary": "Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app. The post GitHub Copilot app for Beginners: Using the diff, terminal, and browser appeared first on The GitHub Blog.",
       "published": "2026-09-10T21:31:19Z"
-    },
-    {
-      "id": "36c7aff9ab1463b135595d70facf271c9215d0d5",
-      "title": "GitHub availability report: August 2026",
-      "link": "https://github.blog/news-insights/company-news/github-availability-report-august-2026/",
-      "source": "GitHub Blog",
-      "summary": "In August, we experienced five incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: August 2026 appeared first on The GitHub Blog.",
-      "published": "2026-09-10T02:05:17Z",
-      "image": "https://github.blog/wp-content/uploads/2026/09/Actions-Run-Start_delay.png?resize=1024%2C509"
-    },
-    {
-      "id": "de9c8e6cebd779381d6309c486b77b9acf2cab83",
-      "title": "Project HydraFusion: Frontier quality via multi-model orchestration",
-      "link": "https://github.blog/ai-and-ml/github-copilot/project-hydrafusion-frontier-quality-via-multi-model-orchestration/",
-      "source": "GitHub Blog",
-      "summary": "In controlled offline evaluations, HydraFusion’s selective coding workflows matched or exceeded the evaluated Opus 5 baseline while reducing estimated workflow cost. Now available as a research preview in GitHub Copilot. The post Project HydraFusion: Frontier quality via multi-model orchestration...",
-      "published": "2026-09-04T16:04:14Z",
-      "image": "https://github.blog/wp-content/uploads/2026/09/HydraFusion_architecture_02.png?resize=1024%2C334"
     },
     {
       "id": "21402bd7afe2afa5863f341631d48c0b563c80da",
