@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-09-27T11:42:06.678391Z",
+  "generated_at": "2026-09-28T13:19:03.514005Z",
   "items": [
+    {
+      "id": "40f43f8de44ce8f4c930431f354ad33df84d51f3",
+      "title": "Nye verktøy skal hindre KI-agenter i å løpe løpsk",
+      "link": "https://www.kode24.no/artikkel/nye-verktoy-skal-hindre-ki-agenter-i-a-lope-lopsk/273725",
+      "source": "Kode24",
+      "summary": "Nvidia har lansert to verktøy for å beskytte mot innbrudd fra såkalte KI-agenter, Nvidia Sentry og Open Shell.",
+      "published": "2026-09-28T12:11:29Z"
+    },
+    {
+      "id": "2f95e734aee1d8ac474fa2ee6e263e60cf533746",
+      "title": "Slik skal regjeringen sikre universell utforming",
+      "link": "https://www.kode24.no/artikkel/slik-skal-regjeringen-sikre-universell-utforming/273719",
+      "source": "Kode24",
+      "summary": "Mer kunnskap er Ap-regjeringens store grep for å sikre at personer med funksjonsnedsetting ikke faller bakpå digitalt.",
+      "published": "2026-09-28T11:43:43Z"
+    },
+    {
+      "id": "9f2940b83df4e2697f39bc6036c0cd569d7bf6c4",
+      "title": "– Du får 1.000 kroner hvis du hacker agenten min",
+      "link": "https://www.kode24.no/artikkel/du-far-1000-kroner-hvis-du-hacker-agenten-min/273173",
+      "source": "Kode24",
+      "summary": "Thomas Hansen mener å ha løsningen på KI-sikkerhet, og er så sikker i sin sak at han utfordrer deg til å knekke den.",
+      "published": "2026-09-28T08:25:20Z"
+    },
+    {
+      "id": "f7267ec80bcf69a3bf398e194f8db9cd020a9c24",
+      "title": "OpenAI-agenter har lekket bilder som folk har lastet opp",
+      "link": "https://www.kode24.no/artikkel/openai-agenter-har-lekket-bilder-som-folk-har-lastet-opp/273684",
+      "source": "Kode24",
+      "summary": "KI-giganten sier at autonome agenter fra selskapet har lekket bilder som folk hadde lastet opp til ChatGPT.",
+      "published": "2026-09-28T06:45:49Z"
+    },
+    {
+      "id": "0506aad9419e3865697e17c49374bd49949f7b8f",
+      "title": "OpenAI stanser trening av nye KI-modeller",
+      "link": "https://www.kode24.no/artikkel/openai-stanser-trening-av-nye-ki-modeller/273662",
+      "source": "Kode24",
+      "summary": "OpenAI har satt treningen av de nyeste KI-modellene på pause etter at KI-agenter gikk utover instruksene på amerikanske myndigheters nettsteder.",
+      "published": "2026-09-28T06:33:45Z"
+    },
+    {
+      "id": "19346c4d4adfa953f634eae3dbc885c30724f1b7",
+      "title": "Fersk tech-festival boikotter Meta",
+      "link": "https://www.kode24.no/artikkel/fersk-tech-festival-boikotter-meta/271061",
+      "source": "Kode24",
+      "summary": "Ansiktsgjenkjenning i smartbriller var dråpen som fikk Trondheim Tech Port til å droppe annonsekroner på Facebook og Instagram.",
+      "published": "2026-09-28T03:00:00Z"
+    },
     {
       "id": "752e6709eebce7845f60c086565c42b62d7ed515",
       "title": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
@@ -172,54 +220,6 @@
       "source": "Kode24",
       "summary": "– Jev åpner for å bruke KI til ting vi hittil ikke har hatt en god løsning for, skriver Marius Waldal, om den nye typesikre modellen Jev. – Dette er stort!",
       "published": "2026-09-23T12:40:50Z"
-    },
-    {
-      "id": "ae9201e1387623d43aa67bbbff9fc6e85b87be4b",
-      "title": "Vil bruke 94 millioner kroner på presis tid",
-      "link": "https://www.kode24.no/artikkel/vil-bruke-94-millioner-kroner-pa-presis-tid/273303",
-      "source": "Kode24",
-      "summary": "– At klokken er riktig og sporbar, er helt avgjørende for svært mange samfunnskritiske funksjoner i Norge og resten av Europa, sier næringsministeren.",
-      "published": "2026-09-23T12:06:57Z"
-    },
-    {
-      "id": "e564427ba7625c822911842f334a32f7320079f1",
-      "title": "Går ut mot regulering av KI: – Må styrke forsvar, ikke begrense teknologi",
-      "link": "https://www.kode24.no/artikkel/gar-ut-mot-regulering-av-ki-ma-styrke-forsvar-ikke-begrense-teknologi/273197",
-      "source": "Kode24",
-      "summary": "Zack Korman jobber daglig med sikkerhet for KI-agenter, men tror hverken på dommedag eller regulering.",
-      "published": "2026-09-23T08:48:19Z"
-    },
-    {
-      "id": "6d2a9a1b694eb8f5fabb38f6fa634f8eb3d7f4cc",
-      "title": "Trump døper KI om til SI: – Det er superintelligens",
-      "link": "https://www.kode24.no/artikkel/trump-doper-ki-om-til-si-det-er-superintelligens/273224",
-      "source": "Kode24",
-      "summary": "Trump endret navnet, Støre fant KI-enighet med Mamdani, og FN-sjefen kom med advarsel om barn. Slik åpnet FNs generalforsamling.",
-      "published": "2026-09-23T07:33:55Z"
-    },
-    {
-      "id": "9c83d3743ef857486a11a50cc13a117af3d9c38a",
-      "title": "1 av 5 norske utviklere par­­programmerer: – Det var mer før",
-      "link": "https://www.kode24.no/artikkel/1-av-5-norske-utviklere-parprogrammerer-det-var-mer-for/272521",
-      "source": "Kode24",
-      "summary": "Utviklerne i Norgesgruppen Data setter heller opp agenter sammen enn å parprogrammere. Det er de ikke alene om, viser kode24s tall.",
-      "published": "2026-09-23T03:00:00Z"
-    },
-    {
-      "id": "aeadbf2a4d6cebba2b22885f3319cca44434a03e",
-      "title": "Aftenposten: SV vil begrense KI, men bruker det mest",
-      "link": "https://www.kode24.no/artikkel/aftenposten-sv-vil-begrense-ki-men-bruker-det-mest/267945",
-      "source": "Kode24",
-      "summary": "112 av 325 stortingsforslag har det siste året inneholder KI-generert tekst, ifølge en kartlegging Aftenposten har gjort. SV bruker KI mest.",
-      "published": "2026-09-22T11:00:19Z"
-    },
-    {
-      "id": "447e39c9db0566bd22ac85489134c45f5fd9be36",
-      "title": "Sikt avviser dårlig sikkerhet i Felles IAM",
-      "link": "https://www.kode24.no/artikkel/sikt-avviser-darlig-sikkerhet-i-felles-iam/272835",
-      "source": "Kode24",
-      "summary": "UiO-professor mener økonomien har trumfet sikkerheten i arbeidet med IT-system for universiteter. Det nekter forvaltningsorganet Sikt for.",
-      "published": "2026-09-22T09:27:08Z"
     },
     {
       "id": "ef0eebbc283b8f8ab6aa3c847ce00ac1ff0d6bc0",
