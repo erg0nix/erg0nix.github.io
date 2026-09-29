@@ -1,6 +1,72 @@
 {
-  "generated_at": "2026-09-28T13:19:03.514005Z",
+  "generated_at": "2026-09-29T12:25:15.055636Z",
   "items": [
+    {
+      "id": "4aacca2618e1b44cb9ecf6e61855f0d42a2adf43",
+      "title": "Anthropic advarer mot egen KI: Kan nekte å bli slått av",
+      "link": "https://www.kode24.no/artikkel/anthropic-advarer-mot-egen-ki-kan-nekte-a-bli-slatt-av/273842",
+      "source": "Kode24",
+      "summary": "Tekselskapet vil på børs. Samtidig advarer de investorer mot sin egen teknologi.",
+      "published": "2026-09-29T09:45:04Z"
+    },
+    {
+      "id": "42e333586acacdd343c3d944f4a3d26a5aff67bc",
+      "title": "– Ikke ta for lett på typene, ellers gjør KI-agenten det",
+      "link": "https://www.kode24.no/artikkel/ikke-ta-for-lett-pa-typene-ellers-gjor-ki-agenten-det/271282",
+      "source": "Kode24",
+      "summary": "– AI-agenter trenger strenge rammer for hva de skal få lov til å gjøre, og da ble det viktig å få orden på typene, skriver Kurt Lekanger om prosjektet han holder på med.",
+      "published": "2026-09-29T08:30:00Z"
+    },
+    {
+      "id": "469ae5912bd10dad9a592496083a3700f9e35095",
+      "title": "KI-toppene samles til møte i Det hvite hus",
+      "link": "https://www.kode24.no/artikkel/ki-toppene-samles-til-mote-i-det-hvite-hus/273796",
+      "source": "Kode24",
+      "summary": "Blant andre Metas Mark Zuckerberg og Anthropic-sjef Dario Amodei skal diskutere KI-sikkerhet med president Donald Trump.",
+      "published": "2026-09-29T07:31:38Z"
+    },
+    {
+      "id": "d281180b83a0bc385b396ac38ab6634ecf26f06a",
+      "title": "OpenAI sier unnskyld til Australia for sikkerhetsbrudd",
+      "link": "https://www.kode24.no/artikkel/openai-sier-unnskyld-til-australia-for-sikkerhetsbrudd/273781",
+      "source": "Kode24",
+      "summary": "Teknologigiganten er i hardt vær. Nå setter den en ny KI-modell på pause og får Florida-kritikk.",
+      "published": "2026-09-29T07:10:47Z"
+    },
+    {
+      "id": "2c7314c73d375adc8a89ab19df20b99317b94572",
+      "title": "15 prosent av utviklere frykter KI tar jobben deres",
+      "link": "https://www.kode24.no/artikkel/15-prosent-av-utviklere-frykter-ki-tar-jobben-deres/272738",
+      "source": "Kode24",
+      "summary": "Og enda flere tror andre utviklere kan miste jobben. Men Marianne Melhoos tror ikke kunstig intelligens truer yrket hennes riktig ennå.",
+      "published": "2026-09-29T03:00:00Z"
+    },
+    {
+      "id": "ff868aacb6cad104d1746f1f545d67609be426c7",
+      "title": "How we found 24 Android vulnerabilities using our open source AI security agent",
+      "link": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/",
+      "source": "GitHub Blog",
+      "summary": "A look at the targeted AI taskflows behind these findings, the critical Android bugs they uncovered, and how to run the same open-source agent on your own app. The post How we found 24 Android vulnerabilities using our open source AI security agent appeared first on The GitHub Blog.",
+      "published": "2026-09-28T19:00:00Z",
+      "image": "https://github.blog/wp-content/uploads/2026/08/633863693-a990bd2a-bccb-49ad-a71b-1492598801cf.png?resize=1024%2C244"
+    },
+    {
+      "id": "a71e76b52c1418e7595f04e9ca0cac9db76b45dc",
+      "title": "Highlights from Git 2.56",
+      "link": "https://github.blog/open-source/git/highlights-from-git-2-56/",
+      "source": "GitHub Blog",
+      "summary": "The open source Git project just released Git 2.56. Here is GitHub's look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.56 appeared first on The GitHub Blog.",
+      "published": "2026-09-28T17:23:33Z",
+      "image": "https://github.blog/wp-content/uploads/2026/09/657850736-08c69f71-39c2-42ed-b793-cc07f6d29a89.png?resize=1024%2C597"
+    },
+    {
+      "id": "eca2b5bb6570570529586b899b93239cdab82279",
+      "title": "NSM advarer om Citrix-feil: Oppdater nå!",
+      "link": "https://www.kode24.no/artikkel/nsm-advarer-om-citrix-feil-oppdater-na/273766",
+      "source": "Kode24",
+      "summary": "Nasjonal sikkerhetsmyndighet varsler om at to kritiske feil har blitt utnyttet i Citrix Netscaler.",
+      "published": "2026-09-28T13:15:26Z"
+    },
     {
       "id": "40f43f8de44ce8f4c930431f354ad33df84d51f3",
       "title": "Nye verktøy skal hindre KI-agenter i å løpe løpsk",
@@ -149,46 +215,6 @@
       "published": "2026-09-24T11:20:48Z"
     },
     {
-      "id": "ababfa15cd9c2e41e4f211fd683e947dbb69f5b6",
-      "title": "Nkom varsler vedtak i BankID-saken",
-      "link": "https://www.kode24.no/artikkel/nkom-varsler-vedtak-i-bankid-saken/273390",
-      "source": "Kode24",
-      "summary": "Nasjonal kommunikasjons­myndighet er ikke fornøyd med hvordan seks tidligere BankID-utstedere opererte. Men BankID kan fortsatt brukes som normalt.",
-      "published": "2026-09-24T07:54:02Z"
-    },
-    {
-      "id": "6474a5883568e503c4ae5b7737a170c9c6b3200a",
-      "title": "Sjekka 19 digitale helseløysingar: Ingen fylte alle lovkrava",
-      "link": "https://www.kode24.no/artikkel/sjekka-19-digitale-helseloysingar-ingen-fylte-alle-lovkrava/273176",
-      "source": "Kode24",
-      "summary": "750.000 nordmenn møter barrierar når dei skal bestille legetimar og fornye reseptar, viser fersk rapport frå Uu-tilsynet. – Både venta og nedslåande.",
-      "published": "2026-09-24T07:42:06Z"
-    },
-    {
-      "id": "5a215c4d1f1d1059098b54d27361b77433e55c4b",
-      "title": "USAs diplomater har fått ordre om å si SI",
-      "link": "https://www.kode24.no/artikkel/usas-diplomater-har-fatt-ordre-om-a-si-si/273364",
-      "source": "Kode24",
-      "summary": "Si superintelligens, ikke kunstig intelligens. Det er ordren som USAs utenriksdepartement har gitt til sine diplomater når de skal snakke om KI.",
-      "published": "2026-09-24T07:16:04Z"
-    },
-    {
-      "id": "3086ef1009ddeac69b0cc302f7b731669c8d74a2",
-      "title": "Anthropic og OpenAI ber FN om hjelp",
-      "link": "https://www.kode24.no/artikkel/anthropic-og-openai-ber-fn-om-hjelp/273348",
-      "source": "Kode24",
-      "summary": "Talte i sikkerhetsrådet samme døgn som det kom meldinger om at OpenAIs agenter har hacka Australias helsevesen.",
-      "published": "2026-09-24T06:35:49Z"
-    },
-    {
-      "id": "a3bf8c9620cc136802a5948344daa09737c76e36",
-      "title": "Forsvarer par­program­mering: – Gjør deg gladere og mer effektiv",
-      "link": "https://www.kode24.no/artikkel/forsvarer-parprogrammering-gjor-deg-gladere-og-mer-effektiv/272825",
-      "source": "Kode24",
-      "summary": "Ryan Healey slår et slag for å programmere i par, selv om kunstig intelligens er blitt mange utvikleres nye «kollega». – Vi pusher rett til master.",
-      "published": "2026-09-24T03:00:00Z"
-    },
-    {
       "id": "5f61ad9456076ac1e6a0dc6efbb9dd7b11a8cb69",
       "title": "Platform-independent SIMD in Go",
       "link": "https://go.dev/blog/simd-experiment",
@@ -214,14 +240,6 @@
       "image": "https://github.blog/wp-content/uploads/2026/09/Screenshot-2026-09-22-at-6.34.24-PM.png?resize=1024%2C623"
     },
     {
-      "id": "1f781db1462700ede705b01bd02519fbcba5b2f4",
-      "title": "Derfor snakker alle om Jev",
-      "link": "https://www.kode24.no/artikkel/derfor-snakker-alle-om-jev/273270",
-      "source": "Kode24",
-      "summary": "– Jev åpner for å bruke KI til ting vi hittil ikke har hatt en god løsning for, skriver Marius Waldal, om den nye typesikre modellen Jev. – Dette er stort!",
-      "published": "2026-09-23T12:40:50Z"
-    },
-    {
       "id": "ef0eebbc283b8f8ab6aa3c847ce00ac1ff0d6bc0",
       "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
       "link": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/",
@@ -245,22 +263,6 @@
       "source": "Go Blog",
       "summary": "Go 1.27 improves performance of small allocations using size-specialized allocation functions.",
       "published": "2026-09-16T00:00:00Z"
-    },
-    {
-      "id": "d01781d00770cfb89ceeafdbfb92c8d313d6d989",
-      "title": "Marketing ops as code: Automating events from planning to follow-up on GitHub",
-      "link": "https://github.blog/ai-and-ml/github-copilot/marketing-ops-as-code-automating-events-from-planning-to-follow-up-on-github/",
-      "source": "GitHub Blog",
-      "summary": "If you can write down how you do your work, you can automate it. Here's what I did to support GitHub's APAC marketing team. The post Marketing ops as code: Automating events from planning to follow-up on GitHub appeared first on The GitHub Blog.",
-      "published": "2026-09-11T18:26:10Z"
-    },
-    {
-      "id": "3ce1fd85cc1776a1b7e0e5e988f828464d22716a",
-      "title": "GitHub Copilot app for Beginners: Using the diff, terminal, and browser",
-      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-using-the-diff-terminal-and-browser/",
-      "source": "GitHub Blog",
-      "summary": "Checking agent-generated code usually means hopping between tabs. Learn how to view diffs, run terminal commands, and preview web apps side by side in the GitHub Copilot app. The post GitHub Copilot app for Beginners: Using the diff, terminal, and browser appeared first on The GitHub Blog.",
-      "published": "2026-09-10T21:31:19Z"
     },
     {
       "id": "21402bd7afe2afa5863f341631d48c0b563c80da",
