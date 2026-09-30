@@ -1,6 +1,70 @@
 {
-  "generated_at": "2026-09-29T12:25:15.055636Z",
+  "generated_at": "2026-09-30T12:10:36.101728Z",
   "items": [
+    {
+      "id": "ae48521fe559949373274fe7231580f562b4a0eb",
+      "title": "Anklager KI-selskaper for å blåse opp verdien før børsnotering",
+      "link": "https://www.kode24.no/artikkel/anklager-ki-selskaper-for-a-blase-opp-verdien-for-borsnotering/273964",
+      "source": "Kode24",
+      "summary": "OpenAI og Anthropic sprer nå løgner om farer knyttet til KI for å blåse opp verdien før børsnotering, hevder lederen for selskapet som nå bygger opp EUs åpne KI-modell.",
+      "published": "2026-09-30T10:09:31Z"
+    },
+    {
+      "id": "a0599f35d2d8f13ff01c1a9849e1763ec7759972",
+      "title": "Advarer mot å velge feil modell: «Dyreste ordet i hele kode­basen»",
+      "link": "https://www.kode24.no/artikkel/advarer-mot-a-velge-feil-modell-dyreste-ordet-i-hele-kodebasen/273470",
+      "source": "Kode24",
+      "summary": "– Dere kan betale flaggskip-pris for oppgaver en rimelig variant ville løst like greit, advarer Jasvinder Sadana.",
+      "published": "2026-09-30T08:45:42Z"
+    },
+    {
+      "id": "967e4fa78cffabb1489c2d175adc318a3822a5d8",
+      "title": "Vil ha full datasenter­stopp inntil regelverk er på plass",
+      "link": "https://www.kode24.no/artikkel/vil-ha-full-datasenterstopp-inntil-regelverk-er-pa-plass/273928",
+      "source": "Kode24",
+      "summary": "SV og Rødt mener regjeringen må få på plass strengere regler for datasentre før man kan etablere flere. – Grep for å sikre digital suverenitet.",
+      "published": "2026-09-30T07:41:18Z"
+    },
+    {
+      "id": "c1195ad7ec8381d5ea56390a9d0ea0506046e8ac",
+      "title": "Tek-toppene enige om frivillig KI-regulering",
+      "link": "https://www.kode24.no/artikkel/tek-toppene-enige-om-frivillig-ki-regulering/273906",
+      "source": "Kode24",
+      "summary": "Teknologitoppene har bedt på sine knær om å bli begrenset av lovverk. Nå er de enige med USAs president om en «moralsk bindende» selvregulering.",
+      "published": "2026-09-30T06:54:53Z"
+    },
+    {
+      "id": "1171f2e1727ecf72a5de45a9e5c971a1cc0825e4",
+      "title": "IT-bransjen om jobb­frykt: De mest erfarne kan slappe mest av",
+      "link": "https://www.kode24.no/artikkel/it-bransjen-om-jobbfrykt-de-mest-erfarne-kan-slappe-mest-av/272951",
+      "source": "Kode24",
+      "summary": "540 nordmenn har mistet programvare-jobb på et halvt år. Men tek-organisasjoner beroliger utviklere som frykter KI skal ta jobben fra dem. – Vil fremdeles trenge folk som kan kode.",
+      "published": "2026-09-30T03:00:00Z"
+    },
+    {
+      "id": "27163e30bd00b7ba02c6e1d9b11e71f4b46525e4",
+      "title": "Developer policy update: Transparency, state policy, and what’s ahead",
+      "link": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/",
+      "source": "GitHub Blog",
+      "summary": "Explore GitHub’s latest transparency data and learn more about policy updates affecting developers and open source. The post Developer policy update: Transparency, state policy, and what’s ahead appeared first on The GitHub Blog.",
+      "published": "2026-09-29T15:00:00Z"
+    },
+    {
+      "id": "645f4c70fb8d90d56964ebafb4ccffdfc2bf8c66",
+      "title": "Nesten all norsk datasenter­kapasitet eies av utlendinger",
+      "link": "https://www.kode24.no/artikkel/nesten-all-norsk-datasenterkapasitet-eies-av-utlendinger/273889",
+      "source": "Kode24",
+      "summary": "En ny rapport fra Teknologirådet viser at over 90 prosent av kapasiteten ved norske datasentre har utenlandske eiere. Utfordrer både nasjonal sikkerhet og økonomi, mener rådet.",
+      "published": "2026-09-29T13:41:58Z"
+    },
+    {
+      "id": "05d98257063c74eb45ce7b2d125c9c76695aa2f7",
+      "title": "Safina trakk seg fra toppledelsen. Slik skal Nito erstatte henne",
+      "link": "https://www.kode24.no/artikkel/safina-trakk-seg-fra-toppledelsen-slik-skal-nito-erstatte-henne/273826",
+      "source": "Kode24",
+      "summary": "Nestlederen anklaget presidenten for samarbeidsproblemer. Tirsdag kaller hovedstyret inn til ekstraordinær kongress, og et hovedstyremedlem trekker seg.",
+      "published": "2026-09-29T13:34:17Z"
+    },
     {
       "id": "4aacca2618e1b44cb9ecf6e61855f0d42a2adf43",
       "title": "Anthropic advarer mot egen KI: Kan nekte å bli slått av",
@@ -141,54 +205,6 @@
       "published": "2026-09-25T12:51:09Z"
     },
     {
-      "id": "69b9c25249d90558a8e12fb5020a79679f38175d",
-      "title": "– SaaS-lisenser ødelegger moderne utvikling",
-      "link": "https://www.kode24.no/artikkel/saas-lisenser-odelegger-moderne-utvikling/273613",
-      "source": "Kode24",
-      "summary": "– Utviklere som bygger neste generasjons programvare for nettet, bør ikke fortsette å beskytte utdaterte lisensmodeller med kompleks kode – de bør rives ned, skriver Pål Lind.",
-      "published": "2026-09-25T12:21:58Z"
-    },
-    {
-      "id": "bf443aa014ab65333169f50df039d3c163556c8b",
-      "title": "8 av 10 store norske selskap bruker KI",
-      "link": "https://www.kode24.no/artikkel/8-av-10-store-norske-selskap-bruker-ki/273556",
-      "source": "Kode24",
-      "summary": "Og folk flest bruker det også bare mer og mer, viser nye tall fra SSB.",
-      "published": "2026-09-25T11:06:55Z"
-    },
-    {
-      "id": "1813df376f21205e82682f3e6e675e47dd998b9f",
-      "title": "Nito-nestleder trekker seg",
-      "link": "https://www.kode24.no/artikkel/nito-nestleder-trekker-seg/273493",
-      "source": "Kode24",
-      "summary": "Safina de Klerk trekker fram rolleforståelse og kjønnsutfordringer i forhold til president Kjetil Lein. – Leit at vi ikke klarte å finne veien videre sammen, sier han.",
-      "published": "2026-09-25T08:25:31Z"
-    },
-    {
-      "id": "66f43c8279048e75649faf4dfd7980125af43d47",
-      "title": "Ut mot Trumps KI-omdøping: – Super­intelligens finnes ikke ennå",
-      "link": "https://www.kode24.no/artikkel/ut-mot-trumps-ki-omdoping-superintelligens-finnes-ikke-enna/273384",
-      "source": "Kode24",
-      "summary": "Donald Trump tvinger USAs statsapparat til å bytte navn på kunstig intelligens til superintelligens. – KI blir ikke mer intelligent av å bli kalt for super, sier KI-professor.",
-      "published": "2026-09-25T07:34:58Z"
-    },
-    {
-      "id": "5435a0054e1679f974acb41646aac08281ab2e98",
-      "title": "FBI hacka, sensitive data stjålet",
-      "link": "https://www.kode24.no/artikkel/fbi-hacka-sensitive-data-stjalet/273455",
-      "source": "Kode24",
-      "summary": "Hevder å sitte på flere gigabyte med data, blant annet om de ansatte.",
-      "published": "2026-09-25T06:26:40Z"
-    },
-    {
-      "id": "61737a62b1b88b06fdbeb4eddbd52b86bd0e3f44",
-      "title": "– Når krangla du sist om tabs mot mellomrom?",
-      "link": "https://www.kode24.no/artikkel/nar-krangla-du-sist-om-tabs-mot-mellomrom/273412",
-      "source": "Kode24",
-      "summary": "– Diskusjoner så vanlige at de ble memer, har nå praktisk talt forsvunnet, mimrer Ole Petter i ukas nyhetsbrev.",
-      "published": "2026-09-25T03:00:00Z"
-    },
-    {
       "id": "7ebdbc9cad4bf9ecd48974021095514454e5bf0f",
       "title": "When chat is the wrong UI",
       "link": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/",
@@ -205,14 +221,6 @@
       "summary": "In this blog post, I explain how to use the new fuzzing taskflow based on the GitHub Security Lab Taskflow Agent AI framework. The post AI-powered fuzzing with the GitHub Security Lab Taskflow Agent appeared first on The GitHub Blog.",
       "published": "2026-09-24T18:26:12Z",
       "image": "https://github.blog/wp-content/uploads/2026/08/Screenshot-2026-09-23-at-3.16.38-PM.png?resize=1024%2C453"
-    },
-    {
-      "id": "97694c938bbe51b327653e499da1d8389cb482b5",
-      "title": "– «CEO of Prompts» er kanskje den ærlige tittelen min",
-      "link": "https://www.kode24.no/artikkel/ceo-of-prompts-er-kanskje-den-aerlige-tittelen-min/272935",
-      "source": "Kode24",
-      "summary": "Appen Bjørnar Hoff bygger på fritida, hadde tidligere krevd et helt team. Det bød på noen overraskelser, og en åpenbaring.",
-      "published": "2026-09-24T11:20:48Z"
     },
     {
       "id": "5f61ad9456076ac1e6a0dc6efbb9dd7b11a8cb69",
@@ -246,15 +254,6 @@
       "source": "GitHub Blog",
       "summary": "We dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast. The post Should you read the code, is RAG dead, and did Skills kill MCP? appeared first on The GitHub Blog.",
       "published": "2026-09-18T15:00:00Z"
-    },
-    {
-      "id": "82be70aa9732ff1b11f2c3d54becb6bb39508de5",
-      "title": "Migrating the GitHub Copilot runtime to Rust, using Copilot",
-      "link": "https://github.blog/ai-and-ml/generative-ai/migrating-the-github-copilot-runtime-to-rust-using-copilot/",
-      "source": "GitHub Blog",
-      "summary": "A rewrite this size wasn't affordable before agents. Here's what porting the Copilot agent runtime to 800,000 lines of production Rust actually took. The post Migrating the GitHub Copilot runtime to Rust, using Copilot appeared first on The GitHub Blog.",
-      "published": "2026-09-17T00:26:43Z",
-      "image": "https://github.blog/wp-content/uploads/2026/09/architecture-before-after.svg?resize=1024,512"
     },
     {
       "id": "5fe29c284785b3a6438653df4d76bf2f24a4160b",
