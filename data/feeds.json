@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-09-30T12:10:36.101728Z",
+  "generated_at": "2026-10-01T12:44:34.017849Z",
   "items": [
+    {
+      "id": "92eb5b7a924be7ee6ebb49aee465039d43645e50",
+      "title": "Får alternativ nobelpris for kamp mot ukontrollert KI",
+      "link": "https://www.kode24.no/artikkel/far-alternativ-nobelpris-for-kamp-mot-ukontrollert-ki/274091",
+      "source": "Kode24",
+      "summary": "KI-forskeren Timnit Gebru er blant dem som i år blir tildelt Right Livelihood-prisen, kjent som den alternative nobelprisen.",
+      "published": "2026-10-01T12:20:30Z"
+    },
+    {
+      "id": "82b211ec50fe33dcb7e606def0abcf68628b3ef7",
+      "title": "– Regjeringen må nå gå fra KI-ambisjon til handling",
+      "link": "https://www.kode24.no/artikkel/regjeringen-ma-na-ga-fra-ki-ambisjon-til-handling/274063",
+      "source": "Kode24",
+      "summary": "– Regjeringen tar et viktig KI-grep. Nå må vi også styrke den digitale handlefriheten, skriver Virkes Endre Dingsør og Hanne Lystad.",
+      "published": "2026-10-01T08:38:09Z"
+    },
+    {
+      "id": "7d70061766ca4babb5219b07ae98f181fa80d9a0",
+      "title": "Rettsavgjørelse opphevet på grunn av mistanke om KI-bruk",
+      "link": "https://www.kode24.no/artikkel/rettsavgjorelse-opphevet-pa-grunn-av-mistanke-om-ki-bruk/274053",
+      "source": "Kode24",
+      "summary": "Gulating lagmannsrett har opphevet en tingrettskjennelse fordi det er mistanke om at den er skrevet med bruk av kunstig intelligens (KI).",
+      "published": "2026-10-01T06:50:02Z"
+    },
+    {
+      "id": "d690d2c1b49f506b93b35177b6521cd5f8ca9265",
+      "title": "KI-forsker Inga Strümke får Akademikerprisen",
+      "link": "https://www.kode24.no/artikkel/ki-forsker-inga-struemke-far-akademikerprisen/274039",
+      "source": "Kode24",
+      "summary": "Forsker og formidler Inga Strümke hedres for sitt bidrag til at folk tenker kritisk rundt kunstig intelligens. – Helt ubeskrivelig!",
+      "published": "2026-10-01T05:57:09Z"
+    },
+    {
+      "id": "3949d60e9703d5edd614d486a4ebd7a250d30907",
+      "title": "Dette bør utviklere gjøre for å finte KI og få seg jobb",
+      "link": "https://www.kode24.no/artikkel/dette-bor-utviklere-gjore-for-a-finte-ki-og-fa-seg-jobb/273869",
+      "source": "Kode24",
+      "summary": "Juniorer sliter med å få utviklerjobber, mens de erfarne er stadig mer etterspurt. Her er jobbtipsene fra IT-bransjen.",
+      "published": "2026-10-01T03:00:00Z"
+    },
+    {
+      "id": "4f50cfe4061c46e40f8d2fd5e0dd332af6bb3256",
+      "title": "Ville utfordre Facebook: Nå har Hudd nedbemannet",
+      "link": "https://www.kode24.no/artikkel/ville-utfordre-facebook-na-har-hudd-nedbemannet/274004",
+      "source": "Kode24",
+      "summary": "Det norske sosiale mediet skulle utfordre hegemoniet til Meta. Nå sliter de med økonomien og har kuttet tre ansatte og 10-15 konsulenter.",
+      "published": "2026-09-30T13:26:22Z"
+    },
+    {
+      "id": "adc4b8992ed4ee8a39c481f31f266b6a76f49797",
+      "title": "Vil bruke 120 millioner kr på KI-tiltak og ny helsechat",
+      "link": "https://www.kode24.no/artikkel/vil-bruke-120-millioner-kr-pa-ki-tiltak-og-ny-helsechat/273988",
+      "source": "Kode24",
+      "summary": "Ny helsechat skal komme i løpet av neste år, og egen KI-statistikk skal lages for Norge.",
+      "published": "2026-09-30T11:41:03Z"
+    },
     {
       "id": "ae48521fe559949373274fe7231580f562b4a0eb",
       "title": "Anklager KI-selskaper for å blåse opp verdien før børsnotering",
@@ -132,54 +188,6 @@
       "published": "2026-09-28T13:15:26Z"
     },
     {
-      "id": "40f43f8de44ce8f4c930431f354ad33df84d51f3",
-      "title": "Nye verktøy skal hindre KI-agenter i å løpe løpsk",
-      "link": "https://www.kode24.no/artikkel/nye-verktoy-skal-hindre-ki-agenter-i-a-lope-lopsk/273725",
-      "source": "Kode24",
-      "summary": "Nvidia har lansert to verktøy for å beskytte mot innbrudd fra såkalte KI-agenter, Nvidia Sentry og Open Shell.",
-      "published": "2026-09-28T12:11:29Z"
-    },
-    {
-      "id": "2f95e734aee1d8ac474fa2ee6e263e60cf533746",
-      "title": "Slik skal regjeringen sikre universell utforming",
-      "link": "https://www.kode24.no/artikkel/slik-skal-regjeringen-sikre-universell-utforming/273719",
-      "source": "Kode24",
-      "summary": "Mer kunnskap er Ap-regjeringens store grep for å sikre at personer med funksjonsnedsetting ikke faller bakpå digitalt.",
-      "published": "2026-09-28T11:43:43Z"
-    },
-    {
-      "id": "9f2940b83df4e2697f39bc6036c0cd569d7bf6c4",
-      "title": "– Du får 1.000 kroner hvis du hacker agenten min",
-      "link": "https://www.kode24.no/artikkel/du-far-1000-kroner-hvis-du-hacker-agenten-min/273173",
-      "source": "Kode24",
-      "summary": "Thomas Hansen mener å ha løsningen på KI-sikkerhet, og er så sikker i sin sak at han utfordrer deg til å knekke den.",
-      "published": "2026-09-28T08:25:20Z"
-    },
-    {
-      "id": "f7267ec80bcf69a3bf398e194f8db9cd020a9c24",
-      "title": "OpenAI-agenter har lekket bilder som folk har lastet opp",
-      "link": "https://www.kode24.no/artikkel/openai-agenter-har-lekket-bilder-som-folk-har-lastet-opp/273684",
-      "source": "Kode24",
-      "summary": "KI-giganten sier at autonome agenter fra selskapet har lekket bilder som folk hadde lastet opp til ChatGPT.",
-      "published": "2026-09-28T06:45:49Z"
-    },
-    {
-      "id": "0506aad9419e3865697e17c49374bd49949f7b8f",
-      "title": "OpenAI stanser trening av nye KI-modeller",
-      "link": "https://www.kode24.no/artikkel/openai-stanser-trening-av-nye-ki-modeller/273662",
-      "source": "Kode24",
-      "summary": "OpenAI har satt treningen av de nyeste KI-modellene på pause etter at KI-agenter gikk utover instruksene på amerikanske myndigheters nettsteder.",
-      "published": "2026-09-28T06:33:45Z"
-    },
-    {
-      "id": "19346c4d4adfa953f634eae3dbc885c30724f1b7",
-      "title": "Fersk tech-festival boikotter Meta",
-      "link": "https://www.kode24.no/artikkel/fersk-tech-festival-boikotter-meta/271061",
-      "source": "Kode24",
-      "summary": "Ansiktsgjenkjenning i smartbriller var dråpen som fikk Trondheim Tech Port til å droppe annonsekroner på Facebook og Instagram.",
-      "published": "2026-09-28T03:00:00Z"
-    },
-    {
       "id": "752e6709eebce7845f60c086565c42b62d7ed515",
       "title": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
       "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/",
@@ -195,14 +203,6 @@
       "summary": "How we fully migrated github.com away from CSS-in-JS. The post Improving site performance by shipping more CSS appeared first on The GitHub Blog.",
       "published": "2026-09-25T15:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2026/09/625328348-91f668f6-2565-492d-aa76-632d429fb4ba.png?resize=1024%2C966"
-    },
-    {
-      "id": "2c688bab9eb21d7b55808f77d053014eec540f2c",
-      "title": "Regjering og arbeidsliv inngår KI-avtale",
-      "link": "https://www.kode24.no/artikkel/regjering-og-arbeidsliv-inngar-ki-avtale/273630",
-      "source": "Kode24",
-      "summary": "Partene i arbeidslivet og regjeringen møtes for å signere en intensjonsavtale om kunstig intelligens. – Medlemmer opplever daglig utfordringer og muligheter, sier Unio.",
-      "published": "2026-09-25T12:51:09Z"
     },
     {
       "id": "7ebdbc9cad4bf9ecd48974021095514454e5bf0f",
