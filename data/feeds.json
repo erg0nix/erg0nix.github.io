@@ -1,6 +1,70 @@
 {
-  "generated_at": "2026-10-01T12:44:34.017849Z",
+  "generated_at": "2026-10-02T12:08:35.983417Z",
   "items": [
+    {
+      "id": "bf13e39e22235ffe79550a55acfb7120f95abad1",
+      "title": "Vy IT blir Vy Teknologi",
+      "link": "https://www.kode24.no/artikkel/vy-it-blir-vy-teknologi/272543",
+      "source": "Kode24",
+      "summary": "– Skal vi lage gode løsninger, må vi forstå hvordan arbeidet vårt henger sammen, sier Synne Markmanrud, som håper omorganiseringen gjør det enklere.",
+      "published": "2026-10-02T10:30:00Z"
+    },
+    {
+      "id": "9051ba74eab465fc5f10c615e998cfb937a12f14",
+      "title": "Arnstein lager app­butikken Windows aldri fikk",
+      "link": "https://www.kode24.no/artikkel/arnstein-lager-appbutikken-windows-aldri-fikk/273553",
+      "source": "Kode24",
+      "summary": "– At vi fortsatt installerer programmer på Windows som i 2006, handler ikke om teknologi, skriver Arnstein Skåra, som nå gir ut løsningen med WinGet.",
+      "published": "2026-10-02T08:30:00Z"
+    },
+    {
+      "id": "fb5ae55bc4f9439e0912f0933b1fe5e4df72ac85",
+      "title": "Signerte KI-avtale med partene i norsk arbeidsliv",
+      "link": "https://www.kode24.no/artikkel/signerte-ki-avtale-med-partene-i-norsk-arbeidsliv/274163",
+      "source": "Kode24",
+      "summary": "Regjeringen og åtte organisasjoner har fredag forpliktet seg til å samarbeide om hvordan kunstig intelligens skal innføres og brukes i Norge.",
+      "published": "2026-10-02T07:15:08Z"
+    },
+    {
+      "id": "25dbf4104b1153710d52dd0cd386d98568791e70",
+      "title": "Domeneboom i Slovenia etter Trumps KI-ordre",
+      "link": "https://www.kode24.no/artikkel/domeneboom-i-slovenia-etter-trumps-ki-ordre/274161",
+      "source": "Kode24",
+      "summary": "Etter at USAs president Donald Trump gikk inn for å kalle kunstig intelligens for superintelligens, merker Slovenia at flere vil registrere nettsider i landet, der nettadresser slutter på «.si».",
+      "published": "2026-10-02T06:51:33Z"
+    },
+    {
+      "id": "9725c8f9f1ebf9a0211f673d56f6ee286745fe4e",
+      "title": "16-åring pågrepet i Spania – mistenkt for omfattende hacking",
+      "link": "https://www.kode24.no/artikkel/16-aring-pagrepet-i-spania-mistenkt-for-omfattende-hacking/274147",
+      "source": "Kode24",
+      "summary": "En 16-åring pågrepet i Alicante mistenkes for å ha hatt en lederrolle i en hackergruppe som knyttes til om lag tusen dataangrep.",
+      "published": "2026-10-02T06:42:36Z"
+    },
+    {
+      "id": "97de0a84d31becd3d15afd94bc48405ce0c95e94",
+      "title": "– At verda skal gå under er ikkje noko nytt",
+      "link": "https://www.kode24.no/artikkel/at-verda-skal-ga-under-er-ikkje-noko-nytt/274131",
+      "source": "Kode24",
+      "summary": "– Dommedagen let vente på seg. Det gjer ikkje konsekvensane KI har for utviklarane, skriv kode24-journalist Silje Rognsvåg.",
+      "published": "2026-10-02T03:00:00Z"
+    },
+    {
+      "id": "6010758c5f12e8389c145cc32f67107745ed686f",
+      "title": "Aksjonerer mot Palantir i Gandalf-kapper",
+      "link": "https://www.kode24.no/artikkel/aksjonerer-mot-palantir-i-gandalf-kapper/274028",
+      "source": "Kode24",
+      "summary": "Tech mot folkemord og Tech Action Group er blant gruppene som torsdag demonstrerte mot Palantir utenfor Tolletaten.",
+      "published": "2026-10-01T15:33:53Z"
+    },
+    {
+      "id": "414863117fa4cfc32be2ed3ba41b46b325025885",
+      "title": "10 technical talks I’m excited about at GitHub Universe 2026",
+      "link": "https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026/",
+      "source": "GitHub Blog",
+      "summary": "From verifying AI-written code to securing npm dependencies, these are the sessions I’m building my Universe agenda around. The post 10 technical talks I’m excited about at GitHub Universe 2026 appeared first on The GitHub Blog.",
+      "published": "2026-10-01T15:07:16Z"
+    },
     {
       "id": "92eb5b7a924be7ee6ebb49aee465039d43645e50",
       "title": "Får alternativ nobelpris for kamp mot ukontrollert KI",
@@ -114,54 +178,6 @@
       "published": "2026-09-29T13:41:58Z"
     },
     {
-      "id": "05d98257063c74eb45ce7b2d125c9c76695aa2f7",
-      "title": "Safina trakk seg fra toppledelsen. Slik skal Nito erstatte henne",
-      "link": "https://www.kode24.no/artikkel/safina-trakk-seg-fra-toppledelsen-slik-skal-nito-erstatte-henne/273826",
-      "source": "Kode24",
-      "summary": "Nestlederen anklaget presidenten for samarbeidsproblemer. Tirsdag kaller hovedstyret inn til ekstraordinær kongress, og et hovedstyremedlem trekker seg.",
-      "published": "2026-09-29T13:34:17Z"
-    },
-    {
-      "id": "4aacca2618e1b44cb9ecf6e61855f0d42a2adf43",
-      "title": "Anthropic advarer mot egen KI: Kan nekte å bli slått av",
-      "link": "https://www.kode24.no/artikkel/anthropic-advarer-mot-egen-ki-kan-nekte-a-bli-slatt-av/273842",
-      "source": "Kode24",
-      "summary": "Tekselskapet vil på børs. Samtidig advarer de investorer mot sin egen teknologi.",
-      "published": "2026-09-29T09:45:04Z"
-    },
-    {
-      "id": "42e333586acacdd343c3d944f4a3d26a5aff67bc",
-      "title": "– Ikke ta for lett på typene, ellers gjør KI-agenten det",
-      "link": "https://www.kode24.no/artikkel/ikke-ta-for-lett-pa-typene-ellers-gjor-ki-agenten-det/271282",
-      "source": "Kode24",
-      "summary": "– AI-agenter trenger strenge rammer for hva de skal få lov til å gjøre, og da ble det viktig å få orden på typene, skriver Kurt Lekanger om prosjektet han holder på med.",
-      "published": "2026-09-29T08:30:00Z"
-    },
-    {
-      "id": "469ae5912bd10dad9a592496083a3700f9e35095",
-      "title": "KI-toppene samles til møte i Det hvite hus",
-      "link": "https://www.kode24.no/artikkel/ki-toppene-samles-til-mote-i-det-hvite-hus/273796",
-      "source": "Kode24",
-      "summary": "Blant andre Metas Mark Zuckerberg og Anthropic-sjef Dario Amodei skal diskutere KI-sikkerhet med president Donald Trump.",
-      "published": "2026-09-29T07:31:38Z"
-    },
-    {
-      "id": "d281180b83a0bc385b396ac38ab6634ecf26f06a",
-      "title": "OpenAI sier unnskyld til Australia for sikkerhetsbrudd",
-      "link": "https://www.kode24.no/artikkel/openai-sier-unnskyld-til-australia-for-sikkerhetsbrudd/273781",
-      "source": "Kode24",
-      "summary": "Teknologigiganten er i hardt vær. Nå setter den en ny KI-modell på pause og får Florida-kritikk.",
-      "published": "2026-09-29T07:10:47Z"
-    },
-    {
-      "id": "2c7314c73d375adc8a89ab19df20b99317b94572",
-      "title": "15 prosent av utviklere frykter KI tar jobben deres",
-      "link": "https://www.kode24.no/artikkel/15-prosent-av-utviklere-frykter-ki-tar-jobben-deres/272738",
-      "source": "Kode24",
-      "summary": "Og enda flere tror andre utviklere kan miste jobben. Men Marianne Melhoos tror ikke kunstig intelligens truer yrket hennes riktig ennå.",
-      "published": "2026-09-29T03:00:00Z"
-    },
-    {
       "id": "ff868aacb6cad104d1746f1f545d67609be426c7",
       "title": "How we found 24 Android vulnerabilities using our open source AI security agent",
       "link": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/",
@@ -178,14 +194,6 @@
       "summary": "The open source Git project just released Git 2.56. Here is GitHub's look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.56 appeared first on The GitHub Blog.",
       "published": "2026-09-28T17:23:33Z",
       "image": "https://github.blog/wp-content/uploads/2026/09/657850736-08c69f71-39c2-42ed-b793-cc07f6d29a89.png?resize=1024%2C597"
-    },
-    {
-      "id": "eca2b5bb6570570529586b899b93239cdab82279",
-      "title": "NSM advarer om Citrix-feil: Oppdater nå!",
-      "link": "https://www.kode24.no/artikkel/nsm-advarer-om-citrix-feil-oppdater-na/273766",
-      "source": "Kode24",
-      "summary": "Nasjonal sikkerhetsmyndighet varsler om at to kritiske feil har blitt utnyttet i Citrix Netscaler.",
-      "published": "2026-09-28T13:15:26Z"
     },
     {
       "id": "752e6709eebce7845f60c086565c42b62d7ed515",
@@ -246,14 +254,6 @@
       "summary": "New research from GitHub and Yale Program on Climate Change Communication finds strong demand for tools, measurement, and practical guidance that can help developers reduce wasted compute. The post Developers want more efficient software. Here’s what over 1,000 GitHub users told us they need....",
       "published": "2026-09-23T13:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2026/09/Screenshot-2026-09-22-at-6.34.24-PM.png?resize=1024%2C623"
-    },
-    {
-      "id": "ef0eebbc283b8f8ab6aa3c847ce00ac1ff0d6bc0",
-      "title": "Should you read the code, is RAG dead, and did Skills kill MCP?",
-      "link": "https://github.blog/ai-and-ml/should-you-read-the-code-is-rag-dead-and-did-skills-kill-mcp/",
-      "source": "GitHub Blog",
-      "summary": "We dive into these questions and other AI hot takes on the latest episode of the GitHub Podcast. The post Should you read the code, is RAG dead, and did Skills kill MCP? appeared first on The GitHub Blog.",
-      "published": "2026-09-18T15:00:00Z"
     },
     {
       "id": "5fe29c284785b3a6438653df4d76bf2f24a4160b",
