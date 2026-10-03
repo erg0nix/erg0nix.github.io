@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-10-02T12:08:35.983417Z",
+  "generated_at": "2026-10-03T11:19:30.255002Z",
   "items": [
+    {
+      "id": "0632dd0e98b9e33970eee0eacf57d4632a0e8a95",
+      "title": "AI is changing developer work. Here are three skills to strengthen.",
+      "link": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/",
+      "source": "GitHub Blog",
+      "summary": "Learn to direct AI agents, critically review their output, and keep technical judgment at the center of your workflow. The post AI is changing developer work. Here are three skills to strengthen. appeared first on The GitHub Blog.",
+      "published": "2026-10-02T15:00:00Z"
+    },
+    {
+      "id": "8d49562cde9ab3d2a8c7b3900dce5027d3f3d819",
+      "title": "Dette er boktober-tipsene til utviklere",
+      "link": "https://www.kode24.no/artikkel/dette-er-boktober-tipsene-til-utviklere/267512",
+      "source": "Kode24",
+      "summary": "Eirik Vassenden ved UiB utfordrer utviklere til å lese i det minste en tynn bok i løpet av oktober. Her er hans lesetips.",
+      "published": "2026-10-02T12:26:00Z"
+    },
+    {
+      "id": "3c0cc01ed6b4e710945c64cbbf89a1394f133e6a",
+      "title": "Universitet rammet av hackerangrep – 200.000 kan være berørt",
+      "link": "https://www.kode24.no/artikkel/universitet-rammet-av-hackerangrep-200000-kan-vaere-berort/274226",
+      "source": "Kode24",
+      "summary": "Danmarks Tekniske Universitet (DTU) har blitt utsatt for et hackerangrep. Informasjon om 200.000 studenter og ansatte kan ha blitt stjålet i angrepet.",
+      "published": "2026-10-02T12:16:08Z"
+    },
     {
       "id": "bf13e39e22235ffe79550a55acfb7120f95abad1",
       "title": "Vy IT blir Vy Teknologi",
@@ -48,6 +72,14 @@
       "source": "Kode24",
       "summary": "– Dommedagen let vente på seg. Det gjer ikkje konsekvensane KI har for utviklarane, skriv kode24-journalist Silje Rognsvåg.",
       "published": "2026-10-02T03:00:00Z"
+    },
+    {
+      "id": "14b0cf090f778bb176ae38df8e64ae1cc27eda78",
+      "title": "Arch-specific SIMD in Go",
+      "link": "https://go.dev/blog/archsimd",
+      "source": "Go Blog",
+      "summary": "Go 1.27 introduces experimental arch-specific SIMD vector APIs",
+      "published": "2026-10-02T00:00:00Z"
     },
     {
       "id": "6010758c5f12e8389c145cc32f67107745ed686f",
@@ -154,28 +186,12 @@
       "published": "2026-09-30T06:54:53Z"
     },
     {
-      "id": "1171f2e1727ecf72a5de45a9e5c971a1cc0825e4",
-      "title": "IT-bransjen om jobb­frykt: De mest erfarne kan slappe mest av",
-      "link": "https://www.kode24.no/artikkel/it-bransjen-om-jobbfrykt-de-mest-erfarne-kan-slappe-mest-av/272951",
-      "source": "Kode24",
-      "summary": "540 nordmenn har mistet programvare-jobb på et halvt år. Men tek-organisasjoner beroliger utviklere som frykter KI skal ta jobben fra dem. – Vil fremdeles trenge folk som kan kode.",
-      "published": "2026-09-30T03:00:00Z"
-    },
-    {
       "id": "27163e30bd00b7ba02c6e1d9b11e71f4b46525e4",
       "title": "Developer policy update: Transparency, state policy, and what’s ahead",
       "link": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/",
       "source": "GitHub Blog",
       "summary": "Explore GitHub’s latest transparency data and learn more about policy updates affecting developers and open source. The post Developer policy update: Transparency, state policy, and what’s ahead appeared first on The GitHub Blog.",
       "published": "2026-09-29T15:00:00Z"
-    },
-    {
-      "id": "645f4c70fb8d90d56964ebafb4ccffdfc2bf8c66",
-      "title": "Nesten all norsk datasenter­kapasitet eies av utlendinger",
-      "link": "https://www.kode24.no/artikkel/nesten-all-norsk-datasenterkapasitet-eies-av-utlendinger/273889",
-      "source": "Kode24",
-      "summary": "En ny rapport fra Teknologirådet viser at over 90 prosent av kapasiteten ved norske datasentre har utenlandske eiere. Utfordrer både nasjonal sikkerhet og økonomi, mener rådet.",
-      "published": "2026-09-29T13:41:58Z"
     },
     {
       "id": "ff868aacb6cad104d1746f1f545d67609be426c7",
@@ -247,15 +263,6 @@
       "published": "2026-09-23T18:29:49Z"
     },
     {
-      "id": "0c80d82fb62238d0b2c528fcc7d232e98052951f",
-      "title": "Developers want more efficient software. Here’s what over 1,000 GitHub users told us they need.",
-      "link": "https://github.blog/news-insights/research/developers-want-more-efficient-software-heres-what-over-1000-github-users-told-us-they-need/",
-      "source": "GitHub Blog",
-      "summary": "New research from GitHub and Yale Program on Climate Change Communication finds strong demand for tools, measurement, and practical guidance that can help developers reduce wasted compute. The post Developers want more efficient software. Here’s what over 1,000 GitHub users told us they need....",
-      "published": "2026-09-23T13:00:00Z",
-      "image": "https://github.blog/wp-content/uploads/2026/09/Screenshot-2026-09-22-at-6.34.24-PM.png?resize=1024%2C623"
-    },
-    {
       "id": "5fe29c284785b3a6438653df4d76bf2f24a4160b",
       "title": "Size-Specialized Memory Allocation",
       "link": "https://go.dev/blog/size-specialized-allocations",
@@ -321,15 +328,6 @@
       "source": "Go Blog",
       "summary": "A description of some of the recent changes to do allocations on the stack instead of the heap.",
       "published": "2026-02-27T00:00:00Z"
-    },
-    {
-      "id": "da0de1cb530d005fcd81b7886c89d308ce375756",
-      "title": "Using go fix to modernize Go code",
-      "link": "https://go.dev/blog/gofix",
-      "source": "Go Blog",
-      "summary": "Go 1.26 includes a new implementation of go fix that can help you use more modern features of Go.",
-      "published": "2026-02-17T00:00:00Z",
-      "image": "https://go.dev/blog/gofix-analysis-facts.svg"
     }
   ]
 }
