@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-10-04T12:00:07.166912Z",
+  "generated_at": "2026-10-05T14:01:59.948944Z",
   "items": [
+    {
+      "id": "6d50e8fd240fd871bbaaa74502b45335d589e700",
+      "title": "Småbarns­foreldre går til startup",
+      "link": "https://www.kode24.no/artikkel/smabarnsforeldre-gar-til-startup/274257",
+      "source": "Kode24",
+      "summary": "Den ene får folk til å forstå hverandre. Den andre får maskiner til å gjette riktig. I september begynte Kristin Haga og André Kramer Orten i Arktaria.",
+      "published": "2026-10-05T11:16:00Z"
+    },
+    {
+      "id": "f0a6e437a822b910f916bc101d98efefcd33207d",
+      "title": "Cloudflare-sjefen støtter Omarchy, mener å ikke vite hva DHH står for",
+      "link": "https://www.kode24.no/artikkel/cloudflare-sjefen-stotter-omarchy-mener-a-ikke-vite-hva-dhh-star-for/274320",
+      "source": "Kode24",
+      "summary": "Den kontroversielle skaperen David Heinemeier Hansson håver inn millioner til Linux-en sin, mens de som gir pengene får kritikk.",
+      "published": "2026-10-05T09:24:16Z"
+    },
+    {
+      "id": "14279ed13482a169cb7a3588a057aa0889d5311a",
+      "title": "SV vil få Norge til å vrake Palantir",
+      "link": "https://www.kode24.no/artikkel/sv-vil-fa-norge-til-a-vrake-palantir/274287",
+      "source": "Kode24",
+      "summary": "– Selskapet har veldig mange problematiske sider, sier SVs Marthe Hammer.",
+      "published": "2026-10-05T07:20:01Z"
+    },
+    {
+      "id": "784a168ddbdaa43a63b9e1bc3420bfaf2ee432a6",
+      "title": "Vil forby smart­briller – noen steder, midlertidig",
+      "link": "https://www.kode24.no/artikkel/vil-forby-smartbriller-noen-steder-midlertidig/274268",
+      "source": "Kode24",
+      "summary": "Regjeringen går inn for et forbud på enkelte steder, for en begrensa tid.",
+      "published": "2026-10-05T06:55:01Z"
+    },
+    {
+      "id": "3dd29a6ee9d7bfe5509f70fd52fb4f4ba00eb889",
+      "title": "Utfordrer til KI-hvit oktober: – En faste for sinnet ditt!",
+      "link": "https://www.kode24.no/artikkel/utfordrer-til-ki-hvit-oktober-en-faste-for-sinnet-ditt/274196",
+      "source": "Kode24",
+      "summary": "– Klarer du deg en måned uten LLM-er, utfordrer KI-veganeren i den nasjonale sikkerhetsmåneden. Han håper flere blir med på «No sloptober».",
+      "published": "2026-10-05T03:00:00Z"
+    },
     {
       "id": "0632dd0e98b9e33970eee0eacf57d4632a0e8a95",
       "title": "AI is changing developer work. Here are three skills to strengthen.",
@@ -144,46 +184,6 @@
       "source": "Kode24",
       "summary": "Det norske sosiale mediet skulle utfordre hegemoniet til Meta. Nå sliter de med økonomien og har kuttet tre ansatte og 10-15 konsulenter.",
       "published": "2026-09-30T13:26:22Z"
-    },
-    {
-      "id": "adc4b8992ed4ee8a39c481f31f266b6a76f49797",
-      "title": "Vil bruke 120 millioner kr på KI-tiltak og ny helsechat",
-      "link": "https://www.kode24.no/artikkel/vil-bruke-120-millioner-kr-pa-ki-tiltak-og-ny-helsechat/273988",
-      "source": "Kode24",
-      "summary": "Ny helsechat skal komme i løpet av neste år, og egen KI-statistikk skal lages for Norge.",
-      "published": "2026-09-30T11:41:03Z"
-    },
-    {
-      "id": "ae48521fe559949373274fe7231580f562b4a0eb",
-      "title": "Anklager KI-selskaper for å blåse opp verdien før børsnotering",
-      "link": "https://www.kode24.no/artikkel/anklager-ki-selskaper-for-a-blase-opp-verdien-for-borsnotering/273964",
-      "source": "Kode24",
-      "summary": "OpenAI og Anthropic sprer nå løgner om farer knyttet til KI for å blåse opp verdien før børsnotering, hevder lederen for selskapet som nå bygger opp EUs åpne KI-modell.",
-      "published": "2026-09-30T10:09:31Z"
-    },
-    {
-      "id": "a0599f35d2d8f13ff01c1a9849e1763ec7759972",
-      "title": "Advarer mot å velge feil modell: «Dyreste ordet i hele kode­basen»",
-      "link": "https://www.kode24.no/artikkel/advarer-mot-a-velge-feil-modell-dyreste-ordet-i-hele-kodebasen/273470",
-      "source": "Kode24",
-      "summary": "– Dere kan betale flaggskip-pris for oppgaver en rimelig variant ville løst like greit, advarer Jasvinder Sadana.",
-      "published": "2026-09-30T08:45:42Z"
-    },
-    {
-      "id": "967e4fa78cffabb1489c2d175adc318a3822a5d8",
-      "title": "Vil ha full datasenter­stopp inntil regelverk er på plass",
-      "link": "https://www.kode24.no/artikkel/vil-ha-full-datasenterstopp-inntil-regelverk-er-pa-plass/273928",
-      "source": "Kode24",
-      "summary": "SV og Rødt mener regjeringen må få på plass strengere regler for datasentre før man kan etablere flere. – Grep for å sikre digital suverenitet.",
-      "published": "2026-09-30T07:41:18Z"
-    },
-    {
-      "id": "c1195ad7ec8381d5ea56390a9d0ea0506046e8ac",
-      "title": "Tek-toppene enige om frivillig KI-regulering",
-      "link": "https://www.kode24.no/artikkel/tek-toppene-enige-om-frivillig-ki-regulering/273906",
-      "source": "Kode24",
-      "summary": "Teknologitoppene har bedt på sine knær om å bli begrenset av lovverk. Nå er de enige med USAs president om en «moralsk bindende» selvregulering.",
-      "published": "2026-09-30T06:54:53Z"
     },
     {
       "id": "27163e30bd00b7ba02c6e1d9b11e71f4b46525e4",
