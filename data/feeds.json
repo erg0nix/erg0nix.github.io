@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-10-05T14:01:59.948944Z",
+  "generated_at": "2026-10-06T13:01:29.385568Z",
   "items": [
+    {
+      "id": "fe2230ce01b3d10cb7fdff41583341e5e34f1599",
+      "title": "Én av seks må gå i DNB-avdeling: – Blir sikkert mye fortvilelse",
+      "link": "https://www.kode24.no/artikkel/en-av-seks-ma-ga-i-dnb-avdeling-blir-sikkert-mye-fortvilelse/274425",
+      "source": "Kode24",
+      "summary": "Teknas tillitsvalgte i DNB mener banken burde se an KI-effekten før de kutter i bemanningen. – Men DNB har det travelt, sier Geir Jarle Ness.",
+      "published": "2026-10-06T09:29:18Z"
+    },
+    {
+      "id": "fc1195a66ab1a68a9f6b6bda7d0a26eb39f01c1a",
+      "title": "400 DNB-ansatte skal ut før jul: – Vanskelig å se hvordan det kan gjøres skikkelig",
+      "link": "https://www.kode24.no/artikkel/400-dnb-ansatte-skal-ut-for-jul-vanskelig-a-se-hvordan-det-kan-gjores-skikkelig/274431",
+      "source": "Kode24",
+      "summary": "Finansforbundet reagerer både på at KI skal erstatte folk, og at folka må være ute allerede før jul.",
+      "published": "2026-10-06T08:31:31Z"
+    },
+    {
+      "id": "356c13163f76b1973fc3d4a8e7dd7953e2dea985",
+      "title": "DNB ned­bemanner 400 innen tek­nologi, viser til KI-koding",
+      "link": "https://www.kode24.no/artikkel/dnb-nedbemanner-400-innen-teknologi-viser-til-ki-koding/274407",
+      "source": "Kode24",
+      "summary": "DNB erstatter utviklere med agenter, melder selskapet i en børsmelding.",
+      "published": "2026-10-06T07:24:02Z"
+    },
+    {
+      "id": "25723e2f89ae3d09299e5dc884d2db4d571fd371",
+      "title": "MobilePay-navnet forsvinner: Vipps får 13 millioner brukere",
+      "link": "https://www.kode24.no/artikkel/mobilepay-navnet-forsvinner-vipps-far-13-millioner-brukere/274392",
+      "source": "Kode24",
+      "summary": "– Siden fusjonen har vi vært ett selskap med én felles app, men med to forskjellige navn. Nå tar vi det siste steget.",
+      "published": "2026-10-06T06:38:01Z"
+    },
+    {
+      "id": "ae91ca15032691ac58c0c7d38eda0041d4cf3519",
+      "title": "Mener utviklere må utdannes mer nå enn før",
+      "link": "https://www.kode24.no/artikkel/mener-utviklere-ma-utdannes-mer-na-enn-for/273594",
+      "source": "Kode24",
+      "summary": "– Må lære seg både håndtverket og hvordan de jobber med KI som et verktøy, ikke en løsning, skriver Knut Eide Løkhammer, som frykter en generasjon utviklere som lover mer enn de holder.",
+      "published": "2026-10-06T03:00:00Z"
+    },
+    {
+      "id": "ee3fc94a6f021a19634516c08960c939e06fe7ac",
+      "title": "ReviewBench: An open benchmark for AI code review",
+      "link": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
+      "source": "GitHub Blog",
+      "summary": "We’re launching ReviewBench, a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, calibrated evaluation, and production-aligned metrics. The post ReviewBench: An open benchmark for AI code review appeared first on The GitHub Blog.",
+      "published": "2026-10-05T15:59:40Z"
+    },
+    {
+      "id": "a8131eafbc2891f9af4ad34f3958e6dd2b3acc53",
+      "title": "NSM får 189 millioner mer for å sikre Norge",
+      "link": "https://www.kode24.no/artikkel/nsm-far-189-millioner-mer-for-a-sikre-norge/274372",
+      "source": "Kode24",
+      "summary": "– Det er dessverre grunn til å tro at mengden dataangrep bare vil øke fremover, sier ministeren.",
+      "published": "2026-10-05T12:46:27Z"
+    },
     {
       "id": "6d50e8fd240fd871bbaaa74502b45335d589e700",
       "title": "Småbarns­foreldre går til startup",
@@ -138,54 +194,6 @@
       "published": "2026-10-01T15:07:16Z"
     },
     {
-      "id": "92eb5b7a924be7ee6ebb49aee465039d43645e50",
-      "title": "Får alternativ nobelpris for kamp mot ukontrollert KI",
-      "link": "https://www.kode24.no/artikkel/far-alternativ-nobelpris-for-kamp-mot-ukontrollert-ki/274091",
-      "source": "Kode24",
-      "summary": "KI-forskeren Timnit Gebru er blant dem som i år blir tildelt Right Livelihood-prisen, kjent som den alternative nobelprisen.",
-      "published": "2026-10-01T12:20:30Z"
-    },
-    {
-      "id": "82b211ec50fe33dcb7e606def0abcf68628b3ef7",
-      "title": "– Regjeringen må nå gå fra KI-ambisjon til handling",
-      "link": "https://www.kode24.no/artikkel/regjeringen-ma-na-ga-fra-ki-ambisjon-til-handling/274063",
-      "source": "Kode24",
-      "summary": "– Regjeringen tar et viktig KI-grep. Nå må vi også styrke den digitale handlefriheten, skriver Virkes Endre Dingsør og Hanne Lystad.",
-      "published": "2026-10-01T08:38:09Z"
-    },
-    {
-      "id": "7d70061766ca4babb5219b07ae98f181fa80d9a0",
-      "title": "Rettsavgjørelse opphevet på grunn av mistanke om KI-bruk",
-      "link": "https://www.kode24.no/artikkel/rettsavgjorelse-opphevet-pa-grunn-av-mistanke-om-ki-bruk/274053",
-      "source": "Kode24",
-      "summary": "Gulating lagmannsrett har opphevet en tingrettskjennelse fordi det er mistanke om at den er skrevet med bruk av kunstig intelligens (KI).",
-      "published": "2026-10-01T06:50:02Z"
-    },
-    {
-      "id": "d690d2c1b49f506b93b35177b6521cd5f8ca9265",
-      "title": "KI-forsker Inga Strümke får Akademikerprisen",
-      "link": "https://www.kode24.no/artikkel/ki-forsker-inga-struemke-far-akademikerprisen/274039",
-      "source": "Kode24",
-      "summary": "Forsker og formidler Inga Strümke hedres for sitt bidrag til at folk tenker kritisk rundt kunstig intelligens. – Helt ubeskrivelig!",
-      "published": "2026-10-01T05:57:09Z"
-    },
-    {
-      "id": "3949d60e9703d5edd614d486a4ebd7a250d30907",
-      "title": "Dette bør utviklere gjøre for å finte KI og få seg jobb",
-      "link": "https://www.kode24.no/artikkel/dette-bor-utviklere-gjore-for-a-finte-ki-og-fa-seg-jobb/273869",
-      "source": "Kode24",
-      "summary": "Juniorer sliter med å få utviklerjobber, mens de erfarne er stadig mer etterspurt. Her er jobbtipsene fra IT-bransjen.",
-      "published": "2026-10-01T03:00:00Z"
-    },
-    {
-      "id": "4f50cfe4061c46e40f8d2fd5e0dd332af6bb3256",
-      "title": "Ville utfordre Facebook: Nå har Hudd nedbemannet",
-      "link": "https://www.kode24.no/artikkel/ville-utfordre-facebook-na-har-hudd-nedbemannet/274004",
-      "source": "Kode24",
-      "summary": "Det norske sosiale mediet skulle utfordre hegemoniet til Meta. Nå sliter de med økonomien og har kuttet tre ansatte og 10-15 konsulenter.",
-      "published": "2026-09-30T13:26:22Z"
-    },
-    {
       "id": "27163e30bd00b7ba02c6e1d9b11e71f4b46525e4",
       "title": "Developer policy update: Transparency, state policy, and what’s ahead",
       "link": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/",
@@ -253,14 +261,6 @@
       "source": "Go Blog",
       "summary": "Go 1.27 adds an experimental platform-agnostic SIMD API",
       "published": "2026-09-24T00:00:00Z"
-    },
-    {
-      "id": "c24f1ba8a80eacf7a801c0d00036b04e3bd18753",
-      "title": "Rendering huge pull requests in the GitHub Copilot app",
-      "link": "https://github.blog/engineering/user-experience/rendering-huge-pull-requests-in-the-github-copilot-app/",
-      "source": "GitHub Blog",
-      "summary": "How we rebuilt the diff surface in the GitHub Copilot app to open a million-line pull request with hundreds of inline review comments. The post Rendering huge pull requests in the GitHub Copilot app appeared first on The GitHub Blog.",
-      "published": "2026-09-23T18:29:49Z"
     },
     {
       "id": "5fe29c284785b3a6438653df4d76bf2f24a4160b",
