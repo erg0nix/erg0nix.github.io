@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-10-06T13:01:29.385568Z",
+  "generated_at": "2026-10-07T12:55:56.024367Z",
   "items": [
+    {
+      "id": "8654ae7b2e1afa496e14b252f76233dc5855521a",
+      "title": "Oda-sjef kritisk til kvinnemangel i Oljefondets KI-team",
+      "link": "https://www.kode24.no/artikkel/oda-sjef-kritisk-til-kvinnemangel-i-oljefondets-ki-team/274613",
+      "source": "Kode24",
+      "summary": "Oljefondsjefen synes det er «kleint» at de ikke har kvinner i KI-teamet sitt, og Kine Dahl i Oda-nettverket er enig: – Vi bistår gjerne!",
+      "published": "2026-10-07T11:53:43Z"
+    },
+    {
+      "id": "0d5ebe108cef3ce7d6ea18813c6d8fe01e1e06ac",
+      "title": "Nito jubler, Tekna sukker: Gir millioner for flere IT-studenter",
+      "link": "https://www.kode24.no/artikkel/nito-jubler-tekna-sukker-gir-millioner-for-flere-it-studenter/274561",
+      "source": "Kode24",
+      "summary": "Regjeringen satser stort på realfag og teknologi i årets statsbudsjett. Mens Nito jubler, mener Tekna at regjeringen starter i feil ende.",
+      "published": "2026-10-07T09:26:19Z"
+    },
+    {
+      "id": "6554ba6eb5eead13fa23155c902fd96efd15f03e",
+      "title": "Regjeringen tar til orde for «ansvarlege» KI-kutt i staten",
+      "link": "https://www.kode24.no/artikkel/regjeringen-tar-til-orde-for-ansvarlege-ki-kutt-i-staten/274547",
+      "source": "Kode24",
+      "summary": "I fjor ville regjeringa at digitalisering, KI og roboter skulle erstatte meir arbeidskraft. No tek dei til orde for å innføre den på «ein ansvarleg og verdiskapande måte».",
+      "published": "2026-10-07T09:12:11Z"
+    },
+    {
+      "id": "5e5ac21b3aacfe58742ab661ec9ed7da2480855e",
+      "title": "«Dusjekurs» for IT-studenter skaper reaksjoner",
+      "link": "https://www.kode24.no/artikkel/dusjekurs-for-it-studenter-skaper-reaksjoner/274516",
+      "source": "Kode24",
+      "summary": "Et kurs i sosial kompetanse har fått kallenavnet «dusjkurset» blant informatikkstudenter ved Linköpings universitet. Flere studenter mener emnet forsterker stereotypier om utviklere.",
+      "published": "2026-10-07T08:57:44Z"
+    },
+    {
+      "id": "68886e44e9ec3711f828e041537b077095be34a9",
+      "title": "Statsbudsjettet: Slik vil de styrke sikkerheten med 1,4 milliard kroner",
+      "link": "https://www.kode24.no/artikkel/statsbudsjettet-slik-vil-de-styrke-sikkerheten-med-14-milliard-kroner/274192",
+      "source": "Kode24",
+      "summary": "Rundt 1,4 milliarder kroner skal neste år gå til å få fortgang i KI i staten, skifte ut teknologi og styrke den digitale sikkerheten, om regjeringen får det som den vil.",
+      "published": "2026-10-07T07:44:44Z"
+    },
+    {
+      "id": "d6357eff67b8eef0884decffdc62e10256346e45",
+      "title": "Mener datasentre gir liten samfunnsnytte",
+      "link": "https://www.kode24.no/artikkel/mener-datasentre-gir-liten-samfunnsnytte/274520",
+      "source": "Kode24",
+      "summary": "Datasenterpolitikken er feilslått og må endres, mener Teknologirådet, som sier ingen har vurdert om veksten i antall sentre er for samfunnets beste.",
+      "published": "2026-10-07T07:18:55Z"
+    },
+    {
+      "id": "f76de7c724c5c181fc7d6124fb78e8d7d8367a0a",
+      "title": "479 søkte på 4 junior­stillinger: – Bekrefter hvor tøft det har blitt",
+      "link": "https://www.kode24.no/artikkel/479-sokte-pa-4-juniorstillinger-bekrefter-hvor-toft-det-har-blitt/274329",
+      "source": "Kode24",
+      "summary": "Tet Digital ansetter nyutdannede og får hundrevis av søknader. Tekna mener det bekrefter hvor vanskelig det har blitt å få juniorjobb i IT-bransjen.",
+      "published": "2026-10-07T03:00:00Z"
+    },
+    {
+      "id": "1515a8a3065709418de84416d7136b4f74806a9c",
+      "title": "Building Git infrastructure for agent-scale development",
+      "link": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
+      "source": "GitHub Blog",
+      "summary": "We're rebuilding GitHub's Git infrastructure while GitHub keeps running, creating a foundation for agent-scale software development. The post Building Git infrastructure for agent-scale development appeared first on The GitHub Blog.",
+      "published": "2026-10-06T20:57:56Z"
+    },
+    {
+      "id": "9953ec4096d7669b1b0f6ca27f2497f2ff8c2f70",
+      "title": "Reagerer på DNB-kutt: – Ser ut til å gå fort i svingene",
+      "link": "https://www.kode24.no/artikkel/reagerer-pa-dnb-kutt-ser-ut-til-a-ga-fort-i-svingene/274485",
+      "source": "Kode24",
+      "summary": "DNB skal kutte 400 stillinger før jul, på grunn av KI. Nito og Tekna ber selskapet om å ikke forhaste seg.",
+      "published": "2026-10-06T13:06:52Z"
+    },
     {
       "id": "fe2230ce01b3d10cb7fdff41583341e5e34f1599",
       "title": "Én av seks må gå i DNB-avdeling: – Blir sikkert mye fortvilelse",
@@ -114,76 +186,12 @@
       "published": "2026-10-02T12:26:00Z"
     },
     {
-      "id": "3c0cc01ed6b4e710945c64cbbf89a1394f133e6a",
-      "title": "Universitet rammet av hackerangrep – 200.000 kan være berørt",
-      "link": "https://www.kode24.no/artikkel/universitet-rammet-av-hackerangrep-200000-kan-vaere-berort/274226",
-      "source": "Kode24",
-      "summary": "Danmarks Tekniske Universitet (DTU) har blitt utsatt for et hackerangrep. Informasjon om 200.000 studenter og ansatte kan ha blitt stjålet i angrepet.",
-      "published": "2026-10-02T12:16:08Z"
-    },
-    {
-      "id": "bf13e39e22235ffe79550a55acfb7120f95abad1",
-      "title": "Vy IT blir Vy Teknologi",
-      "link": "https://www.kode24.no/artikkel/vy-it-blir-vy-teknologi/272543",
-      "source": "Kode24",
-      "summary": "– Skal vi lage gode løsninger, må vi forstå hvordan arbeidet vårt henger sammen, sier Synne Markmanrud, som håper omorganiseringen gjør det enklere.",
-      "published": "2026-10-02T10:30:00Z"
-    },
-    {
-      "id": "9051ba74eab465fc5f10c615e998cfb937a12f14",
-      "title": "Arnstein lager app­butikken Windows aldri fikk",
-      "link": "https://www.kode24.no/artikkel/arnstein-lager-appbutikken-windows-aldri-fikk/273553",
-      "source": "Kode24",
-      "summary": "– At vi fortsatt installerer programmer på Windows som i 2006, handler ikke om teknologi, skriver Arnstein Skåra, som nå gir ut løsningen med WinGet.",
-      "published": "2026-10-02T08:30:00Z"
-    },
-    {
-      "id": "fb5ae55bc4f9439e0912f0933b1fe5e4df72ac85",
-      "title": "Signerte KI-avtale med partene i norsk arbeidsliv",
-      "link": "https://www.kode24.no/artikkel/signerte-ki-avtale-med-partene-i-norsk-arbeidsliv/274163",
-      "source": "Kode24",
-      "summary": "Regjeringen og åtte organisasjoner har fredag forpliktet seg til å samarbeide om hvordan kunstig intelligens skal innføres og brukes i Norge.",
-      "published": "2026-10-02T07:15:08Z"
-    },
-    {
-      "id": "25dbf4104b1153710d52dd0cd386d98568791e70",
-      "title": "Domeneboom i Slovenia etter Trumps KI-ordre",
-      "link": "https://www.kode24.no/artikkel/domeneboom-i-slovenia-etter-trumps-ki-ordre/274161",
-      "source": "Kode24",
-      "summary": "Etter at USAs president Donald Trump gikk inn for å kalle kunstig intelligens for superintelligens, merker Slovenia at flere vil registrere nettsider i landet, der nettadresser slutter på «.si».",
-      "published": "2026-10-02T06:51:33Z"
-    },
-    {
-      "id": "9725c8f9f1ebf9a0211f673d56f6ee286745fe4e",
-      "title": "16-åring pågrepet i Spania – mistenkt for omfattende hacking",
-      "link": "https://www.kode24.no/artikkel/16-aring-pagrepet-i-spania-mistenkt-for-omfattende-hacking/274147",
-      "source": "Kode24",
-      "summary": "En 16-åring pågrepet i Alicante mistenkes for å ha hatt en lederrolle i en hackergruppe som knyttes til om lag tusen dataangrep.",
-      "published": "2026-10-02T06:42:36Z"
-    },
-    {
-      "id": "97de0a84d31becd3d15afd94bc48405ce0c95e94",
-      "title": "– At verda skal gå under er ikkje noko nytt",
-      "link": "https://www.kode24.no/artikkel/at-verda-skal-ga-under-er-ikkje-noko-nytt/274131",
-      "source": "Kode24",
-      "summary": "– Dommedagen let vente på seg. Det gjer ikkje konsekvensane KI har for utviklarane, skriv kode24-journalist Silje Rognsvåg.",
-      "published": "2026-10-02T03:00:00Z"
-    },
-    {
       "id": "14b0cf090f778bb176ae38df8e64ae1cc27eda78",
       "title": "Arch-specific SIMD in Go",
       "link": "https://go.dev/blog/archsimd",
       "source": "Go Blog",
       "summary": "Go 1.27 introduces experimental arch-specific SIMD vector APIs",
       "published": "2026-10-02T00:00:00Z"
-    },
-    {
-      "id": "6010758c5f12e8389c145cc32f67107745ed686f",
-      "title": "Aksjonerer mot Palantir i Gandalf-kapper",
-      "link": "https://www.kode24.no/artikkel/aksjonerer-mot-palantir-i-gandalf-kapper/274028",
-      "source": "Kode24",
-      "summary": "Tech mot folkemord og Tech Action Group er blant gruppene som torsdag demonstrerte mot Palantir utenfor Tolletaten.",
-      "published": "2026-10-01T15:33:53Z"
     },
     {
       "id": "414863117fa4cfc32be2ed3ba41b46b325025885",
@@ -244,15 +252,6 @@
       "summary": "What is a developer to do when they need something more tangible than a chat box? Enter canvases. The post When chat is the wrong UI appeared first on The GitHub Blog.",
       "published": "2026-09-24T20:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2026/09/validation.png?resize=1024%2C389"
-    },
-    {
-      "id": "20316653b2b0bf7fbffc356112d8d366436be5d0",
-      "title": "AI-powered fuzzing with the GitHub Security Lab Taskflow Agent",
-      "link": "https://github.blog/security/application-security/ai-powered-fuzzing-with-the-github-security-lab-taskflow-agent/",
-      "source": "GitHub Blog",
-      "summary": "In this blog post, I explain how to use the new fuzzing taskflow based on the GitHub Security Lab Taskflow Agent AI framework. The post AI-powered fuzzing with the GitHub Security Lab Taskflow Agent appeared first on The GitHub Blog.",
-      "published": "2026-09-24T18:26:12Z",
-      "image": "https://github.blog/wp-content/uploads/2026/08/Screenshot-2026-09-23-at-3.16.38-PM.png?resize=1024%2C453"
     },
     {
       "id": "5f61ad9456076ac1e6a0dc6efbb9dd7b11a8cb69",
