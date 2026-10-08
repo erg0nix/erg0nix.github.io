@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-10-07T12:55:56.024367Z",
+  "generated_at": "2026-10-08T13:04:09.474102Z",
   "items": [
+    {
+      "id": "c10599bd11afb3a721ef6fa33507935db70768a4",
+      "title": "Forte styrker KI-satsingen – henter fra Sopra Steria",
+      "link": "https://www.kode24.no/artikkel/forte-styrker-ki-satsingen-henter-fra-sopra-steria/274711",
+      "source": "Kode24",
+      "summary": "KI-eksperten Håkan Silfvernagel bytter ut Sopra Steria med Forte.",
+      "published": "2026-10-08T11:18:53Z"
+    },
+    {
+      "id": "c43fda62bd94ba1d7881de9eee4e4f557c49c16f",
+      "title": "Datapioner er død: Hjalp Apollo til månen",
+      "link": "https://www.kode24.no/artikkel/datapioner-er-dod-hjalp-apollo-til-manen/274700",
+      "source": "Kode24",
+      "summary": "Margaret Hamilton ledet teamet som programmerte de første datamaskinene som fraktet en mann til månen. Nå er hun død, 90 år gammel.",
+      "published": "2026-10-08T10:06:51Z"
+    },
+    {
+      "id": "88c37c1dfc06fffdd0d2c7bfee0f2495943dbfce",
+      "title": "Fire seniorer til Computas i Trondheim",
+      "link": "https://www.kode24.no/artikkel/fire-seniorer-til-computas-i-trondheim/274683",
+      "source": "Kode24",
+      "summary": "Teknologiselskapet er fortsatt i vekst, og henter to fra Bouvet, en fra Knowit og en fra Brilliant.",
+      "published": "2026-10-08T08:01:30Z"
+    },
+    {
+      "id": "1d6900e713ed7564e7acd52849746782534d20a3",
+      "title": "Sånn tredobla Claude farta på nettsida på to uker",
+      "link": "https://www.kode24.no/artikkel/sann-tredobla-claude-farta-pa-nettsida-pa-to-uker/274664",
+      "source": "Kode24",
+      "summary": "Claudes vei mot raskere nettsider, når routeren mangler API-et du trenger og props er ikke et designsystem, i ukas ForrigeUke.",
+      "published": "2026-10-08T06:51:48Z"
+    },
+    {
+      "id": "40ac28cfb21b6f94e2e6bf49849fe79c924d1903",
+      "title": "Vil utdanne juniorer som kan gå rett inn i seniorjobber",
+      "link": "https://www.kode24.no/artikkel/vil-utdanne-juniorer-som-kan-ga-rett-inn-i-seniorjobber/274291",
+      "source": "Kode24",
+      "summary": "Utviklerjobbene blir færre for juniorene, viser KI-indeksen. Nå bør utdanningene trene dem så godt opp i KI at de kan gå rett inn i seniorstillinger, mener forskere.",
+      "published": "2026-10-08T03:00:00Z"
+    },
+    {
+      "id": "3902c431970b627ea2f12e6a5f983ba2877f3a57",
+      "title": "Secret protection must scale with software",
+      "link": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/",
+      "source": "GitHub Blog",
+      "summary": "Developers aren’t becoming more careless; they’re being outpaced. The tools that let developers create more software should also take on more of the work of protecting it. The post Secret protection must scale with software appeared first on The GitHub Blog.",
+      "published": "2026-10-07T17:45:34Z"
+    },
     {
       "id": "8654ae7b2e1afa496e14b252f76233dc5855521a",
       "title": "Oda-sjef kritisk til kvinnemangel i Oljefondets KI-team",
@@ -138,52 +186,12 @@
       "published": "2026-10-05T11:16:00Z"
     },
     {
-      "id": "f0a6e437a822b910f916bc101d98efefcd33207d",
-      "title": "Cloudflare-sjefen støtter Omarchy, mener å ikke vite hva DHH står for",
-      "link": "https://www.kode24.no/artikkel/cloudflare-sjefen-stotter-omarchy-mener-a-ikke-vite-hva-dhh-star-for/274320",
-      "source": "Kode24",
-      "summary": "Den kontroversielle skaperen David Heinemeier Hansson håver inn millioner til Linux-en sin, mens de som gir pengene får kritikk.",
-      "published": "2026-10-05T09:24:16Z"
-    },
-    {
-      "id": "14279ed13482a169cb7a3588a057aa0889d5311a",
-      "title": "SV vil få Norge til å vrake Palantir",
-      "link": "https://www.kode24.no/artikkel/sv-vil-fa-norge-til-a-vrake-palantir/274287",
-      "source": "Kode24",
-      "summary": "– Selskapet har veldig mange problematiske sider, sier SVs Marthe Hammer.",
-      "published": "2026-10-05T07:20:01Z"
-    },
-    {
-      "id": "784a168ddbdaa43a63b9e1bc3420bfaf2ee432a6",
-      "title": "Vil forby smart­briller – noen steder, midlertidig",
-      "link": "https://www.kode24.no/artikkel/vil-forby-smartbriller-noen-steder-midlertidig/274268",
-      "source": "Kode24",
-      "summary": "Regjeringen går inn for et forbud på enkelte steder, for en begrensa tid.",
-      "published": "2026-10-05T06:55:01Z"
-    },
-    {
-      "id": "3dd29a6ee9d7bfe5509f70fd52fb4f4ba00eb889",
-      "title": "Utfordrer til KI-hvit oktober: – En faste for sinnet ditt!",
-      "link": "https://www.kode24.no/artikkel/utfordrer-til-ki-hvit-oktober-en-faste-for-sinnet-ditt/274196",
-      "source": "Kode24",
-      "summary": "– Klarer du deg en måned uten LLM-er, utfordrer KI-veganeren i den nasjonale sikkerhetsmåneden. Han håper flere blir med på «No sloptober».",
-      "published": "2026-10-05T03:00:00Z"
-    },
-    {
       "id": "0632dd0e98b9e33970eee0eacf57d4632a0e8a95",
       "title": "AI is changing developer work. Here are three skills to strengthen.",
       "link": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/",
       "source": "GitHub Blog",
       "summary": "Learn to direct AI agents, critically review their output, and keep technical judgment at the center of your workflow. The post AI is changing developer work. Here are three skills to strengthen. appeared first on The GitHub Blog.",
       "published": "2026-10-02T15:00:00Z"
-    },
-    {
-      "id": "8d49562cde9ab3d2a8c7b3900dce5027d3f3d819",
-      "title": "Dette er boktober-tipsene til utviklere",
-      "link": "https://www.kode24.no/artikkel/dette-er-boktober-tipsene-til-utviklere/267512",
-      "source": "Kode24",
-      "summary": "Eirik Vassenden ved UiB utfordrer utviklere til å lese i det minste en tynn bok i løpet av oktober. Her er hans lesetips.",
-      "published": "2026-10-02T12:26:00Z"
     },
     {
       "id": "14b0cf090f778bb176ae38df8e64ae1cc27eda78",
@@ -243,15 +251,6 @@
       "summary": "How we fully migrated github.com away from CSS-in-JS. The post Improving site performance by shipping more CSS appeared first on The GitHub Blog.",
       "published": "2026-09-25T15:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2026/09/625328348-91f668f6-2565-492d-aa76-632d429fb4ba.png?resize=1024%2C966"
-    },
-    {
-      "id": "7ebdbc9cad4bf9ecd48974021095514454e5bf0f",
-      "title": "When chat is the wrong UI",
-      "link": "https://github.blog/ai-and-ml/github-copilot/when-chat-is-the-wrong-ui/",
-      "source": "GitHub Blog",
-      "summary": "What is a developer to do when they need something more tangible than a chat box? Enter canvases. The post When chat is the wrong UI appeared first on The GitHub Blog.",
-      "published": "2026-09-24T20:00:00Z",
-      "image": "https://github.blog/wp-content/uploads/2026/09/validation.png?resize=1024%2C389"
     },
     {
       "id": "5f61ad9456076ac1e6a0dc6efbb9dd7b11a8cb69",
