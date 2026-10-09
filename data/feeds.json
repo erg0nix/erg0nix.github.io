@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-10-08T13:04:09.474102Z",
+  "generated_at": "2026-10-09T12:50:37.159940Z",
   "items": [
+    {
+      "id": "0ca92052fe2af5f30fa362d677dcfb3b77452e90",
+      "title": "– Ledere: Slutt å spørre om utviklerne deres bruker KI!",
+      "link": "https://www.kode24.no/artikkel/ledere-slutt-a-sporre-om-utviklerne-deres-bruker-ki/274885",
+      "source": "Kode24",
+      "summary": "– Spør heller om dere har testene, spesifikasjonene og tilliten som gjør at de kan bruke den på alvor, skriver Truong Van Thanh Le, etter å ha bytta en diger plattform på et par måneder.",
+      "published": "2026-10-09T11:47:14Z"
+    },
+    {
+      "id": "37ae3bd80172a757dd1494ce4200df7cc7a0adcb",
+      "title": "kode24s regler for kommentar­felt",
+      "link": "https://www.kode24.no/artikkel/kode24s-regler-for-kommentarfelt/274800",
+      "source": "Kode24",
+      "summary": "Vi heier på en fri og åpen debatt i kommentarfeltene under artikler på kode24.no. Men hvis du vil delta, må du følge reglene våre.",
+      "published": "2026-10-09T11:23:07Z"
+    },
+    {
+      "id": "8a5ad27eb3216c3f147654668e4c54177abe94e9",
+      "title": "– Norske bedrifter bør tenke kvante nå",
+      "link": "https://www.kode24.no/artikkel/norske-bedrifter-bor-tenke-kvante-na/266037",
+      "source": "Kode24",
+      "summary": "– Venter vi til kvanteteknologien er blitt hverdag, har vi kanskje brukt opp tiden vi trengte for å lære den. Og den tiden kan være kortere enn mange tror, skriver Neda Maria Kaizumi.",
+      "published": "2026-10-09T09:13:04Z"
+    },
+    {
+      "id": "c8b0e4e2be5c84bc932d96219c3036ac9c1feaba",
+      "title": "Nå kan du kjøpe utvikler-verktøyene til Spotify",
+      "link": "https://www.kode24.no/artikkel/na-kan-du-kjope-utvikler-verktoyene-til-spotify/274846",
+      "source": "Kode24",
+      "summary": "Spotify har lansert et nytt nettsted som skal gjøre selskapets interne teknologi tilgjengelig for andre utviklere.",
+      "published": "2026-10-09T08:39:00Z"
+    },
+    {
+      "id": "17a8688af144da24e25793a76b43e4b6ba2b5156",
+      "title": "Trump erklærer alle som sier AI i stedet for SI som fiender",
+      "link": "https://www.kode24.no/artikkel/trump-erklaerer-alle-som-sier-ai-i-stedet-for-si-som-fiender/274831",
+      "source": "Kode24",
+      "summary": "Samtidig planlegger SpaceXAI å bytte navn til SpaceXSI, mens OpenAI fortsetter som før.",
+      "published": "2026-10-09T07:04:34Z"
+    },
+    {
+      "id": "96a64eb3c2a8b8c22b80d8138dd010ddba4a9138",
+      "title": "Elon Musk fikk National Medal of Science av Trump: «Nasjonalskatt»",
+      "link": "https://www.kode24.no/artikkel/elon-musk-fikk-national-medal-of-science-av-trump-nasjonalskatt/274817",
+      "source": "Kode24",
+      "summary": "Trump kalte Musk for en «nasjonalskatt» og «vår tids Thomas Edison» da han overrakte medaljen.",
+      "published": "2026-10-09T06:37:03Z"
+    },
+    {
+      "id": "7000d48b3cd8465771485eed756467a226f85beb",
+      "title": "Togstans og nødnummer nede etter Telenor-trøbbel",
+      "link": "https://www.kode24.no/artikkel/togstans-og-nodnummer-nede-etter-telenor-trobbel/274803",
+      "source": "Kode24",
+      "summary": "Nkom har varslet tilsyn etter hendelsen, som skapte trøbbel over hele landet torsdag.",
+      "published": "2026-10-09T06:24:28Z"
+    },
+    {
+      "id": "fc2d6c8b302b972907fc7bfbc85004ba30a8511e",
+      "title": "Norge har fått sin første KI-nedbemanning av utviklere. Det blir neppe den siste",
+      "link": "https://www.kode24.no/artikkel/norge-har-fatt-sin-forste-ki-nedbemanning-av-utviklere-det-blir-neppe-den-siste/274772",
+      "source": "Kode24",
+      "summary": "– DNB-saken er er et vannskille i norsk utviklerbransje, skriver Ole Petter i ukas nyhetsbrev. – For nå ser andre selskaper at dette er innafor i Norge, også.",
+      "published": "2026-10-09T03:00:00Z"
+    },
+    {
+      "id": "8df75a4103237d86bfae81d269de24842e7353d5",
+      "title": "How one bug bounty researcher chooses the features they investigate",
+      "link": "https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/",
+      "source": "GitHub Blog",
+      "summary": "As we kick off Cybersecurity Awareness Month, the GitHub Bug Bounty team spotlights @vaib25vicky, exploring their methodology, techniques, and experiences hacking on GitHub. The post How one bug bounty researcher chooses the features they investigate appeared first on The GitHub Blog.",
+      "published": "2026-10-08T17:02:52Z"
+    },
     {
       "id": "c10599bd11afb3a721ef6fa33507935db70768a4",
       "title": "Forte styrker KI-satsingen – henter fra Sopra Steria",
@@ -114,76 +186,12 @@
       "published": "2026-10-06T20:57:56Z"
     },
     {
-      "id": "9953ec4096d7669b1b0f6ca27f2497f2ff8c2f70",
-      "title": "Reagerer på DNB-kutt: – Ser ut til å gå fort i svingene",
-      "link": "https://www.kode24.no/artikkel/reagerer-pa-dnb-kutt-ser-ut-til-a-ga-fort-i-svingene/274485",
-      "source": "Kode24",
-      "summary": "DNB skal kutte 400 stillinger før jul, på grunn av KI. Nito og Tekna ber selskapet om å ikke forhaste seg.",
-      "published": "2026-10-06T13:06:52Z"
-    },
-    {
-      "id": "fe2230ce01b3d10cb7fdff41583341e5e34f1599",
-      "title": "Én av seks må gå i DNB-avdeling: – Blir sikkert mye fortvilelse",
-      "link": "https://www.kode24.no/artikkel/en-av-seks-ma-ga-i-dnb-avdeling-blir-sikkert-mye-fortvilelse/274425",
-      "source": "Kode24",
-      "summary": "Teknas tillitsvalgte i DNB mener banken burde se an KI-effekten før de kutter i bemanningen. – Men DNB har det travelt, sier Geir Jarle Ness.",
-      "published": "2026-10-06T09:29:18Z"
-    },
-    {
-      "id": "fc1195a66ab1a68a9f6b6bda7d0a26eb39f01c1a",
-      "title": "400 DNB-ansatte skal ut før jul: – Vanskelig å se hvordan det kan gjøres skikkelig",
-      "link": "https://www.kode24.no/artikkel/400-dnb-ansatte-skal-ut-for-jul-vanskelig-a-se-hvordan-det-kan-gjores-skikkelig/274431",
-      "source": "Kode24",
-      "summary": "Finansforbundet reagerer både på at KI skal erstatte folk, og at folka må være ute allerede før jul.",
-      "published": "2026-10-06T08:31:31Z"
-    },
-    {
-      "id": "356c13163f76b1973fc3d4a8e7dd7953e2dea985",
-      "title": "DNB ned­bemanner 400 innen tek­nologi, viser til KI-koding",
-      "link": "https://www.kode24.no/artikkel/dnb-nedbemanner-400-innen-teknologi-viser-til-ki-koding/274407",
-      "source": "Kode24",
-      "summary": "DNB erstatter utviklere med agenter, melder selskapet i en børsmelding.",
-      "published": "2026-10-06T07:24:02Z"
-    },
-    {
-      "id": "25723e2f89ae3d09299e5dc884d2db4d571fd371",
-      "title": "MobilePay-navnet forsvinner: Vipps får 13 millioner brukere",
-      "link": "https://www.kode24.no/artikkel/mobilepay-navnet-forsvinner-vipps-far-13-millioner-brukere/274392",
-      "source": "Kode24",
-      "summary": "– Siden fusjonen har vi vært ett selskap med én felles app, men med to forskjellige navn. Nå tar vi det siste steget.",
-      "published": "2026-10-06T06:38:01Z"
-    },
-    {
-      "id": "ae91ca15032691ac58c0c7d38eda0041d4cf3519",
-      "title": "Mener utviklere må utdannes mer nå enn før",
-      "link": "https://www.kode24.no/artikkel/mener-utviklere-ma-utdannes-mer-na-enn-for/273594",
-      "source": "Kode24",
-      "summary": "– Må lære seg både håndtverket og hvordan de jobber med KI som et verktøy, ikke en løsning, skriver Knut Eide Løkhammer, som frykter en generasjon utviklere som lover mer enn de holder.",
-      "published": "2026-10-06T03:00:00Z"
-    },
-    {
       "id": "ee3fc94a6f021a19634516c08960c939e06fe7ac",
       "title": "ReviewBench: An open benchmark for AI code review",
       "link": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
       "source": "GitHub Blog",
       "summary": "We’re launching ReviewBench, a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, calibrated evaluation, and production-aligned metrics. The post ReviewBench: An open benchmark for AI code review appeared first on The GitHub Blog.",
       "published": "2026-10-05T15:59:40Z"
-    },
-    {
-      "id": "a8131eafbc2891f9af4ad34f3958e6dd2b3acc53",
-      "title": "NSM får 189 millioner mer for å sikre Norge",
-      "link": "https://www.kode24.no/artikkel/nsm-far-189-millioner-mer-for-a-sikre-norge/274372",
-      "source": "Kode24",
-      "summary": "– Det er dessverre grunn til å tro at mengden dataangrep bare vil øke fremover, sier ministeren.",
-      "published": "2026-10-05T12:46:27Z"
-    },
-    {
-      "id": "6d50e8fd240fd871bbaaa74502b45335d589e700",
-      "title": "Småbarns­foreldre går til startup",
-      "link": "https://www.kode24.no/artikkel/smabarnsforeldre-gar-til-startup/274257",
-      "source": "Kode24",
-      "summary": "Den ene får folk til å forstå hverandre. Den andre får maskiner til å gjette riktig. I september begynte Kristin Haga og André Kramer Orten i Arktaria.",
-      "published": "2026-10-05T11:16:00Z"
     },
     {
       "id": "0632dd0e98b9e33970eee0eacf57d4632a0e8a95",
@@ -242,15 +250,6 @@
       "source": "GitHub Blog",
       "summary": "Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and more time getting work done. The post GitHub Copilot app for Beginners: How to build custom workflows with canvases appeared first on...",
       "published": "2026-09-25T18:00:00Z"
-    },
-    {
-      "id": "7f41c2b722158bc8dd61055a679e8218048f5124",
-      "title": "Improving site performance by shipping more CSS",
-      "link": "https://github.blog/engineering/architecture-optimization/improving-site-performance-by-shipping-more-css/",
-      "source": "GitHub Blog",
-      "summary": "How we fully migrated github.com away from CSS-in-JS. The post Improving site performance by shipping more CSS appeared first on The GitHub Blog.",
-      "published": "2026-09-25T15:00:00Z",
-      "image": "https://github.blog/wp-content/uploads/2026/09/625328348-91f668f6-2565-492d-aa76-632d429fb4ba.png?resize=1024%2C966"
     },
     {
       "id": "5f61ad9456076ac1e6a0dc6efbb9dd7b11a8cb69",
