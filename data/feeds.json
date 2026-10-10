@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-10-09T12:50:37.159940Z",
+  "generated_at": "2026-10-10T12:08:48.923058Z",
   "items": [
+    {
+      "id": "11af9c2aa16f2162068891769f3130044319c482",
+      "title": "Ping sendt med brevdue selges: – Bør havne i norske hender",
+      "link": "https://www.kode24.no/artikkel/ping-sendt-med-brevdue-selges-bor-havne-i-norske-hender/274909",
+      "source": "Kode24",
+      "summary": "– Vi implementerte Internett over brevdue (RFC1149) i 2001. 25 år senere kan en av pakkene fra eksperimentet bli din! skriver Peter N. M. Hansteen.",
+      "published": "2026-10-10T03:00:00Z"
+    },
+    {
+      "id": "e3bcf97f7de2ad009c502c0f32d71ae94436564e",
+      "title": "Hack the World: Why hackathons are still the best place to learn to build",
+      "link": "https://github.blog/developer-skills/career-growth/hack-the-world-why-hackathons-are-still-the-best-place-to-learn-to-build/",
+      "source": "GitHub Blog",
+      "summary": "The barriers to building software have collapsed. Today, anyone can build. Hackathons are a great place to start learning. The post Hack the World: Why hackathons are still the best place to learn to build appeared first on The GitHub Blog.",
+      "published": "2026-10-09T16:00:00Z"
+    },
     {
       "id": "0ca92052fe2af5f30fa362d677dcfb3b77452e90",
       "title": "– Ledere: Slutt å spørre om utviklerne deres bruker KI!",
@@ -170,14 +186,6 @@
       "published": "2026-10-07T07:18:55Z"
     },
     {
-      "id": "f76de7c724c5c181fc7d6124fb78e8d7d8367a0a",
-      "title": "479 søkte på 4 junior­stillinger: – Bekrefter hvor tøft det har blitt",
-      "link": "https://www.kode24.no/artikkel/479-sokte-pa-4-juniorstillinger-bekrefter-hvor-toft-det-har-blitt/274329",
-      "source": "Kode24",
-      "summary": "Tet Digital ansetter nyutdannede og får hundrevis av søknader. Tekna mener det bekrefter hvor vanskelig det har blitt å få juniorjobb i IT-bransjen.",
-      "published": "2026-10-07T03:00:00Z"
-    },
-    {
       "id": "1515a8a3065709418de84416d7136b4f74806a9c",
       "title": "Building Git infrastructure for agent-scale development",
       "link": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
@@ -242,14 +250,6 @@
       "summary": "The open source Git project just released Git 2.56. Here is GitHub's look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.56 appeared first on The GitHub Blog.",
       "published": "2026-09-28T17:23:33Z",
       "image": "https://github.blog/wp-content/uploads/2026/09/657850736-08c69f71-39c2-42ed-b793-cc07f6d29a89.png?resize=1024%2C597"
-    },
-    {
-      "id": "752e6709eebce7845f60c086565c42b62d7ed515",
-      "title": "GitHub Copilot app for Beginners: How to build custom workflows with canvases",
-      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-build-custom-workflows-with-canvases/",
-      "source": "GitHub Blog",
-      "summary": "Describe the interface you need in plain English, then let the agent build a live surface you can both use and update—so you spend less time adapting to tools and more time getting work done. The post GitHub Copilot app for Beginners: How to build custom workflows with canvases appeared first on...",
-      "published": "2026-09-25T18:00:00Z"
     },
     {
       "id": "5f61ad9456076ac1e6a0dc6efbb9dd7b11a8cb69",
