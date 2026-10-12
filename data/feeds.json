@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-10-11T12:22:41.112520Z",
+  "generated_at": "2026-10-12T14:51:06.235976Z",
   "items": [
+    {
+      "id": "b44581c07bfa0fa1ccca148a2f73a1217d24d331",
+      "title": "Deno dør etter Cloudflare-oppkjøp",
+      "link": "https://www.kode24.no/artikkel/deno-dor-etter-cloudflare-oppkjop/275033",
+      "source": "Kode24",
+      "summary": "– Utviklingen fra Deno til Deno Deploy til celld forklarer hvorfor dette gir mening for oss, mener skaperen.",
+      "published": "2026-10-12T11:38:44Z"
+    },
+    {
+      "id": "cc95bfeacd8d90b53f13a3a874c08661d7c5dd1e",
+      "title": "JPro satser i Bergen: TV 2-veteran første ansatt",
+      "link": "https://www.kode24.no/artikkel/jpro-satser-i-bergen-tv-2-veteran-forste-ansatt/274967",
+      "source": "Kode24",
+      "summary": "Thomas Aalén (52) går til JPro etter over 20 år i TV 2-systemet. Han blir selskapets første ansatte i Bergen.",
+      "published": "2026-10-12T09:36:30Z"
+    },
+    {
+      "id": "09a173966f0a8a5d2e052c24630ab11db4a56e41",
+      "title": "– Sløsing av skatte­penger å ikke bygge egne ting i Norge",
+      "link": "https://www.kode24.no/artikkel/slosing-av-skattepenger-a-ikke-bygge-egne-ting-i-norge/275000",
+      "source": "Kode24",
+      "summary": "– Vi må hindre at Norge blir et digitalt U-land ved å bygge opp vår egen infrastruktur og sikre vår egen suverenitet, sier Rødt-leder Marie Sneve Martinussen.",
+      "published": "2026-10-12T07:59:09Z"
+    },
+    {
+      "id": "4d0ff31fc96c80d663fb1c853d28712fab868bb7",
+      "title": "Datatilsynet gir Xandr rekordgebyr på 92 millioner",
+      "link": "https://www.kode24.no/artikkel/datatilsynet-gir-xandr-rekordgebyr-pa-92-millioner/274963",
+      "source": "Kode24",
+      "summary": "– Bruddene i denne saken er svært alvorlige, sier Datatilsynet, om gebyret til Microsoft-selskapet.",
+      "published": "2026-10-12T07:44:19Z"
+    },
+    {
+      "id": "f7949a1ec15fc1495f5b09d00ea71998256f2a6d",
+      "title": "Telia kutter 150 stillinger i Norge",
+      "link": "https://www.kode24.no/artikkel/telia-kutter-150-stillinger-i-norge/274936",
+      "source": "Kode24",
+      "summary": "– Vi har full forståelse for at dette er veldig krevende for dem som berøres og deres kolleger.",
+      "published": "2026-10-12T06:26:39Z"
+    },
+    {
+      "id": "5795bf7998e618fd8d9364f79f7fe0286ca99610",
+      "title": "UU-tester 271 nettsider. Bare 11 klarte seg et helt år",
+      "link": "https://www.kode24.no/artikkel/uu-tester-271-nettsider-bare-11-klarte-seg-et-helt-ar/274753",
+      "source": "Kode24",
+      "summary": "– Universell utforming er ikke noe man «blir ferdig med», sier Tobias Andersen som står bak UU-highscore-liste for norske nettsider.",
+      "published": "2026-10-12T03:00:00Z"
+    },
     {
       "id": "11af9c2aa16f2162068891769f3130044319c482",
       "title": "Ping sendt med brevdue selges: – Bør havne i norske hender",
@@ -136,54 +184,6 @@
       "source": "GitHub Blog",
       "summary": "Developers aren’t becoming more careless; they’re being outpaced. The tools that let developers create more software should also take on more of the work of protecting it. The post Secret protection must scale with software appeared first on The GitHub Blog.",
       "published": "2026-10-07T17:45:34Z"
-    },
-    {
-      "id": "8654ae7b2e1afa496e14b252f76233dc5855521a",
-      "title": "Oda-sjef kritisk til kvinnemangel i Oljefondets KI-team",
-      "link": "https://www.kode24.no/artikkel/oda-sjef-kritisk-til-kvinnemangel-i-oljefondets-ki-team/274613",
-      "source": "Kode24",
-      "summary": "Oljefondsjefen synes det er «kleint» at de ikke har kvinner i KI-teamet sitt, og Kine Dahl i Oda-nettverket er enig: – Vi bistår gjerne!",
-      "published": "2026-10-07T11:53:43Z"
-    },
-    {
-      "id": "0d5ebe108cef3ce7d6ea18813c6d8fe01e1e06ac",
-      "title": "Nito jubler, Tekna sukker: Gir millioner for flere IT-studenter",
-      "link": "https://www.kode24.no/artikkel/nito-jubler-tekna-sukker-gir-millioner-for-flere-it-studenter/274561",
-      "source": "Kode24",
-      "summary": "Regjeringen satser stort på realfag og teknologi i årets statsbudsjett. Mens Nito jubler, mener Tekna at regjeringen starter i feil ende.",
-      "published": "2026-10-07T09:26:19Z"
-    },
-    {
-      "id": "6554ba6eb5eead13fa23155c902fd96efd15f03e",
-      "title": "Regjeringen tar til orde for «ansvarlege» KI-kutt i staten",
-      "link": "https://www.kode24.no/artikkel/regjeringen-tar-til-orde-for-ansvarlege-ki-kutt-i-staten/274547",
-      "source": "Kode24",
-      "summary": "I fjor ville regjeringa at digitalisering, KI og roboter skulle erstatte meir arbeidskraft. No tek dei til orde for å innføre den på «ein ansvarleg og verdiskapande måte».",
-      "published": "2026-10-07T09:12:11Z"
-    },
-    {
-      "id": "5e5ac21b3aacfe58742ab661ec9ed7da2480855e",
-      "title": "«Dusjekurs» for IT-studenter skaper reaksjoner",
-      "link": "https://www.kode24.no/artikkel/dusjekurs-for-it-studenter-skaper-reaksjoner/274516",
-      "source": "Kode24",
-      "summary": "Et kurs i sosial kompetanse har fått kallenavnet «dusjkurset» blant informatikkstudenter ved Linköpings universitet. Flere studenter mener emnet forsterker stereotypier om utviklere.",
-      "published": "2026-10-07T08:57:44Z"
-    },
-    {
-      "id": "68886e44e9ec3711f828e041537b077095be34a9",
-      "title": "Statsbudsjettet: Slik vil de styrke sikkerheten med 1,4 milliard kroner",
-      "link": "https://www.kode24.no/artikkel/statsbudsjettet-slik-vil-de-styrke-sikkerheten-med-14-milliard-kroner/274192",
-      "source": "Kode24",
-      "summary": "Rundt 1,4 milliarder kroner skal neste år gå til å få fortgang i KI i staten, skifte ut teknologi og styrke den digitale sikkerheten, om regjeringen får det som den vil.",
-      "published": "2026-10-07T07:44:44Z"
-    },
-    {
-      "id": "d6357eff67b8eef0884decffdc62e10256346e45",
-      "title": "Mener datasentre gir liten samfunnsnytte",
-      "link": "https://www.kode24.no/artikkel/mener-datasentre-gir-liten-samfunnsnytte/274520",
-      "source": "Kode24",
-      "summary": "Datasenterpolitikken er feilslått og må endres, mener Teknologirådet, som sier ingen har vurdert om veksten i antall sentre er for samfunnets beste.",
-      "published": "2026-10-07T07:18:55Z"
     },
     {
       "id": "1515a8a3065709418de84416d7136b4f74806a9c",
