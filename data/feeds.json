@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-10-12T14:51:06.235976Z",
+  "generated_at": "2026-10-13T13:50:20.028439Z",
   "items": [
+    {
+      "id": "ad83a7fea4959a302362c94fe3f061352bdd4bec",
+      "title": "Kjøleskap hacka i Frankrike – forventer det samme i Norge",
+      "link": "https://www.kode24.no/artikkel/kjoleskap-hacka-i-frankrike-forventer-det-samme-i-norge/275087",
+      "source": "Kode24",
+      "summary": "Franske butikker må kaste tonnevis mat etter et hackerangrep mot kjøle- og fryseskap. Sikkerhetsekspert Lars Eirik Berg ber nordmenn forberede seg på det samme.",
+      "published": "2026-10-13T12:46:59Z"
+    },
+    {
+      "id": "8eac17d9600d1240647d6071d2f234a6d34c0b13",
+      "title": "Forsking: Du kan få psykiske plagar av nedbemanning",
+      "link": "https://www.kode24.no/artikkel/forsking-du-kan-fa-psykiske-plagar-av-nedbemanning/275081",
+      "source": "Kode24",
+      "summary": "For lite informasjon og for nære kollegaer som blir nedbemanna, kan føre til at du får det verre på jobb.",
+      "published": "2026-10-13T11:44:58Z"
+    },
+    {
+      "id": "f8dd8230d965188f0d6501ade95fac65f908afe1",
+      "title": "– Kommentar­feltet vårt er ikke et kloakkrør for hat og hets",
+      "link": "https://www.kode24.no/artikkel/kommentarfeltet-vart-er-ikke-et-kloakkror-for-hat-og-hets/274893",
+      "source": "Kode24",
+      "summary": "– Vi har dessverre hatt noen grove overtramp, som gjør at vi må skjerpe reglene for bruk av kommentarfeltene under artikler på kode24, skriver ansvarlig redaktør Hilde Schjerve.",
+      "published": "2026-10-13T10:43:48Z"
+    },
+    {
+      "id": "fd6b55d9ea20f2e92e4c654c177da4757be730b8",
+      "title": "«Jenter og teknologi» mister 3 millioner kroner: – Skuffende",
+      "link": "https://www.kode24.no/artikkel/jenter-og-teknologi-mister-3-millioner-kroner-skuffende/275020",
+      "source": "Kode24",
+      "summary": "Etter ni år med støtte, vil regjeringen avvikle prosjektet som skal få flere jenter inn i teknologi- og ingeniøryrker. Nå protesterer fagforeningene.",
+      "published": "2026-10-13T09:10:20Z"
+    },
+    {
+      "id": "e5c9121340c010371f12d2ee34be8bbb9d887947",
+      "title": "Epic Games skal bruke mer KI i spillutvikling",
+      "link": "https://www.kode24.no/artikkel/epic-games-skal-bruke-mer-ki-i-spillutvikling/275085",
+      "source": "Kode24",
+      "summary": "– Målet er ikke å gjøre det samme med færre folk, lover toppsjefen, rett etter å ha annonsert stor nedbemanning.",
+      "published": "2026-10-13T07:00:26Z"
+    },
+    {
+      "id": "8fcfb604f6a6d92c608c398486d325ba398282e4",
+      "title": "Utviklere trives ikke i åpent land­skap: «Alvorlig»",
+      "link": "https://www.kode24.no/artikkel/utviklere-trives-ikke-i-apent-landskap-alvorlig/270246",
+      "source": "Kode24",
+      "summary": "80 prosent sitter i et åpent kontorlandskap, men under halvparten av utviklere trives der, viser kode24s tall. – Det et alvorlig signal, sier rekrutterer.",
+      "published": "2026-10-13T03:00:00Z"
+    },
+    {
+      "id": "e22ce0ac1b8ed269546bc86213a4d65ed17c51b2",
+      "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
+      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
+      "source": "GitHub Blog",
+      "summary": "Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright. The post GitHub Copilot app for Beginners: How to teach Copilot about your codebase appeared first on The GitHub Blog.",
+      "published": "2026-10-12T17:43:59Z"
+    },
     {
       "id": "b44581c07bfa0fa1ccca148a2f73a1217d24d331",
       "title": "Deno dør etter Cloudflare-oppkjøp",
@@ -122,60 +178,12 @@
       "published": "2026-10-09T06:24:28Z"
     },
     {
-      "id": "fc2d6c8b302b972907fc7bfbc85004ba30a8511e",
-      "title": "Norge har fått sin første KI-nedbemanning av utviklere. Det blir neppe den siste",
-      "link": "https://www.kode24.no/artikkel/norge-har-fatt-sin-forste-ki-nedbemanning-av-utviklere-det-blir-neppe-den-siste/274772",
-      "source": "Kode24",
-      "summary": "– DNB-saken er er et vannskille i norsk utviklerbransje, skriver Ole Petter i ukas nyhetsbrev. – For nå ser andre selskaper at dette er innafor i Norge, også.",
-      "published": "2026-10-09T03:00:00Z"
-    },
-    {
       "id": "8df75a4103237d86bfae81d269de24842e7353d5",
       "title": "How one bug bounty researcher chooses the features they investigate",
       "link": "https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/",
       "source": "GitHub Blog",
       "summary": "As we kick off Cybersecurity Awareness Month, the GitHub Bug Bounty team spotlights @vaib25vicky, exploring their methodology, techniques, and experiences hacking on GitHub. The post How one bug bounty researcher chooses the features they investigate appeared first on The GitHub Blog.",
       "published": "2026-10-08T17:02:52Z"
-    },
-    {
-      "id": "c10599bd11afb3a721ef6fa33507935db70768a4",
-      "title": "Forte styrker KI-satsingen – henter fra Sopra Steria",
-      "link": "https://www.kode24.no/artikkel/forte-styrker-ki-satsingen-henter-fra-sopra-steria/274711",
-      "source": "Kode24",
-      "summary": "KI-eksperten Håkan Silfvernagel bytter ut Sopra Steria med Forte.",
-      "published": "2026-10-08T11:18:53Z"
-    },
-    {
-      "id": "c43fda62bd94ba1d7881de9eee4e4f557c49c16f",
-      "title": "Datapioner er død: Hjalp Apollo til månen",
-      "link": "https://www.kode24.no/artikkel/datapioner-er-dod-hjalp-apollo-til-manen/274700",
-      "source": "Kode24",
-      "summary": "Margaret Hamilton ledet teamet som programmerte de første datamaskinene som fraktet en mann til månen. Nå er hun død, 90 år gammel.",
-      "published": "2026-10-08T10:06:51Z"
-    },
-    {
-      "id": "88c37c1dfc06fffdd0d2c7bfee0f2495943dbfce",
-      "title": "Fire seniorer til Computas i Trondheim",
-      "link": "https://www.kode24.no/artikkel/fire-seniorer-til-computas-i-trondheim/274683",
-      "source": "Kode24",
-      "summary": "Teknologiselskapet er fortsatt i vekst, og henter to fra Bouvet, en fra Knowit og en fra Brilliant.",
-      "published": "2026-10-08T08:01:30Z"
-    },
-    {
-      "id": "1d6900e713ed7564e7acd52849746782534d20a3",
-      "title": "Sånn tredobla Claude farta på nettsida på to uker",
-      "link": "https://www.kode24.no/artikkel/sann-tredobla-claude-farta-pa-nettsida-pa-to-uker/274664",
-      "source": "Kode24",
-      "summary": "Claudes vei mot raskere nettsider, når routeren mangler API-et du trenger og props er ikke et designsystem, i ukas ForrigeUke.",
-      "published": "2026-10-08T06:51:48Z"
-    },
-    {
-      "id": "40ac28cfb21b6f94e2e6bf49849fe79c924d1903",
-      "title": "Vil utdanne juniorer som kan gå rett inn i seniorjobber",
-      "link": "https://www.kode24.no/artikkel/vil-utdanne-juniorer-som-kan-ga-rett-inn-i-seniorjobber/274291",
-      "source": "Kode24",
-      "summary": "Utviklerjobbene blir færre for juniorene, viser KI-indeksen. Nå bør utdanningene trene dem så godt opp i KI at de kan gå rett inn i seniorstillinger, mener forskere.",
-      "published": "2026-10-08T03:00:00Z"
     },
     {
       "id": "3902c431970b627ea2f12e6a5f983ba2877f3a57",
@@ -241,15 +249,6 @@
       "summary": "A look at the targeted AI taskflows behind these findings, the critical Android bugs they uncovered, and how to run the same open-source agent on your own app. The post How we found 24 Android vulnerabilities using our open source AI security agent appeared first on The GitHub Blog.",
       "published": "2026-09-28T19:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2026/08/633863693-a990bd2a-bccb-49ad-a71b-1492598801cf.png?resize=1024%2C244"
-    },
-    {
-      "id": "a71e76b52c1418e7595f04e9ca0cac9db76b45dc",
-      "title": "Highlights from Git 2.56",
-      "link": "https://github.blog/open-source/git/highlights-from-git-2-56/",
-      "source": "GitHub Blog",
-      "summary": "The open source Git project just released Git 2.56. Here is GitHub's look at some of the most interesting features and changes introduced since last time. The post Highlights from Git 2.56 appeared first on The GitHub Blog.",
-      "published": "2026-09-28T17:23:33Z",
-      "image": "https://github.blog/wp-content/uploads/2026/09/657850736-08c69f71-39c2-42ed-b793-cc07f6d29a89.png?resize=1024%2C597"
     },
     {
       "id": "5f61ad9456076ac1e6a0dc6efbb9dd7b11a8cb69",
