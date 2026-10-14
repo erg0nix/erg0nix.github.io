@@ -1,6 +1,70 @@
 {
-  "generated_at": "2026-10-13T13:50:20.028439Z",
+  "generated_at": "2026-10-14T11:27:48.829324Z",
   "items": [
+    {
+      "id": "ca1966718a4dd07ba61a88557094997b02393a90",
+      "title": "KI-agent sletta ny TV-serie, utsetter premiere",
+      "link": "https://www.kode24.no/artikkel/ki-agent-sletta-ny-tv-serie-utsetter-premiere/275360",
+      "source": "Kode24",
+      "summary": "– Det vi har mottatt fra produksjonen er at det har vært en teknisk feil, sier svensk TV4.",
+      "published": "2026-10-14T10:58:20Z"
+    },
+    {
+      "id": "eaa096553311c9e4986c988eeb60d653210dcb34",
+      "title": "OpenAI-ansatt arrestert for avlytting, mistenker spionasje",
+      "link": "https://www.kode24.no/artikkel/openai-ansatt-arrestert-for-avlytting-mistenker-spionasje/275336",
+      "source": "Kode24",
+      "summary": "Bilder skal vise både utstyret og den arresterte mannen som skal ha installert det.",
+      "published": "2026-10-14T10:01:04Z"
+    },
+    {
+      "id": "2d38f477a6973696773f8a5042bfa327293f5f59",
+      "title": "Unngå trege nettsider: – Jeg vil ha et ytelses­­budsjett!",
+      "link": "https://www.kode24.no/artikkel/unnga-trege-nettsider-jeg-vil-ha-et-ytelsesbudsjett/275165",
+      "source": "Kode24",
+      "summary": "– Neste gang noen ber om «bare én integrasjon til», bør svaret også inneholde hva den koster, og hvem som godkjenner den kostnaden, advarer Linas Brazauskas.",
+      "published": "2026-10-14T09:46:31Z"
+    },
+    {
+      "id": "5bbd2561fc586ea1aafc3de7be97d9dc9e7d3b07",
+      "title": "Stendr henter fra drone- og finansbransjen",
+      "link": "https://www.kode24.no/artikkel/stendr-henter-fra-drone-og-finansbransjen/275302",
+      "source": "Kode24",
+      "summary": "Forsvarsstartupen Stendr får drone- og radarekspert Erlend Kvinge Jørgensen og finansprofilen Arianit Pllana med i selskapet.",
+      "published": "2026-10-14T09:45:12Z"
+    },
+    {
+      "id": "0093cb79914b2683f875d18b11cb418b0d642d3d",
+      "title": "Casper gikk fra Twoday til reMarkable. Nå er han tilbake igjen",
+      "link": "https://www.kode24.no/artikkel/casper-gikk-fra-twoday-til-remarkable-na-er-han-tilbake-igjen/275287",
+      "source": "Kode24",
+      "summary": "Casper Brekke Sandanger starter hos Twoday igjen, med over 20 års erfaring under beltet.",
+      "published": "2026-10-14T08:00:05Z"
+    },
+    {
+      "id": "381265e576ca3a7d4281e81d450e9d0c31be3ef5",
+      "title": "Her er vinnerne av doITgirl-prisene 2026",
+      "link": "https://www.kode24.no/artikkel/her-er-vinnerne-av-doitgirl-prisene-2026/275266",
+      "source": "Kode24",
+      "summary": "Fem kvinner som gjør en innsats for større mangfold ble hedra med hver sin pris.",
+      "published": "2026-10-14T07:16:38Z"
+    },
+    {
+      "id": "514a2cd232a852a5186164b08ec2632ac7a42f1e",
+      "title": "«FermAI-paradokset»: Hvor blir det av alle appene?",
+      "link": "https://www.kode24.no/artikkel/fermai-paradokset-hvor-blir-det-av-alle-appene/275141",
+      "source": "Kode24",
+      "summary": "Hele verden vibbekoder, men vi ser ingen eksplosjon av nye tjenester. Grunnene er mange, tror Kent Inge Fagerland Simonsen og Peter N. M. Hansteen, og mener løsningen heter Solid.",
+      "published": "2026-10-14T03:00:00Z"
+    },
+    {
+      "id": "e5e7270c9b98b96daa0a604848e822d884a17829",
+      "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
+      "link": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
+      "source": "GitHub Blog",
+      "summary": "GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%. The post GitHub’s model for secret detection: Finding more secrets with less noise appeared first on The GitHub Blog.",
+      "published": "2026-10-13T17:56:33Z"
+    },
     {
       "id": "ad83a7fea4959a302362c94fe3f061352bdd4bec",
       "title": "Kjøleskap hacka i Frankrike – forventer det samme i Norge",
@@ -122,62 +186,6 @@
       "published": "2026-10-09T16:00:00Z"
     },
     {
-      "id": "0ca92052fe2af5f30fa362d677dcfb3b77452e90",
-      "title": "– Ledere: Slutt å spørre om utviklerne deres bruker KI!",
-      "link": "https://www.kode24.no/artikkel/ledere-slutt-a-sporre-om-utviklerne-deres-bruker-ki/274885",
-      "source": "Kode24",
-      "summary": "– Spør heller om dere har testene, spesifikasjonene og tilliten som gjør at de kan bruke den på alvor, skriver Truong Van Thanh Le, etter å ha bytta en diger plattform på et par måneder.",
-      "published": "2026-10-09T11:47:14Z"
-    },
-    {
-      "id": "37ae3bd80172a757dd1494ce4200df7cc7a0adcb",
-      "title": "kode24s regler for kommentar­felt",
-      "link": "https://www.kode24.no/artikkel/kode24s-regler-for-kommentarfelt/274800",
-      "source": "Kode24",
-      "summary": "Vi heier på en fri og åpen debatt i kommentarfeltene under artikler på kode24.no. Men hvis du vil delta, må du følge reglene våre.",
-      "published": "2026-10-09T11:23:07Z"
-    },
-    {
-      "id": "8a5ad27eb3216c3f147654668e4c54177abe94e9",
-      "title": "– Norske bedrifter bør tenke kvante nå",
-      "link": "https://www.kode24.no/artikkel/norske-bedrifter-bor-tenke-kvante-na/266037",
-      "source": "Kode24",
-      "summary": "– Venter vi til kvanteteknologien er blitt hverdag, har vi kanskje brukt opp tiden vi trengte for å lære den. Og den tiden kan være kortere enn mange tror, skriver Neda Maria Kaizumi.",
-      "published": "2026-10-09T09:13:04Z"
-    },
-    {
-      "id": "c8b0e4e2be5c84bc932d96219c3036ac9c1feaba",
-      "title": "Nå kan du kjøpe utvikler-verktøyene til Spotify",
-      "link": "https://www.kode24.no/artikkel/na-kan-du-kjope-utvikler-verktoyene-til-spotify/274846",
-      "source": "Kode24",
-      "summary": "Spotify har lansert et nytt nettsted som skal gjøre selskapets interne teknologi tilgjengelig for andre utviklere.",
-      "published": "2026-10-09T08:39:00Z"
-    },
-    {
-      "id": "17a8688af144da24e25793a76b43e4b6ba2b5156",
-      "title": "Trump erklærer alle som sier AI i stedet for SI som fiender",
-      "link": "https://www.kode24.no/artikkel/trump-erklaerer-alle-som-sier-ai-i-stedet-for-si-som-fiender/274831",
-      "source": "Kode24",
-      "summary": "Samtidig planlegger SpaceXAI å bytte navn til SpaceXSI, mens OpenAI fortsetter som før.",
-      "published": "2026-10-09T07:04:34Z"
-    },
-    {
-      "id": "96a64eb3c2a8b8c22b80d8138dd010ddba4a9138",
-      "title": "Elon Musk fikk National Medal of Science av Trump: «Nasjonalskatt»",
-      "link": "https://www.kode24.no/artikkel/elon-musk-fikk-national-medal-of-science-av-trump-nasjonalskatt/274817",
-      "source": "Kode24",
-      "summary": "Trump kalte Musk for en «nasjonalskatt» og «vår tids Thomas Edison» da han overrakte medaljen.",
-      "published": "2026-10-09T06:37:03Z"
-    },
-    {
-      "id": "7000d48b3cd8465771485eed756467a226f85beb",
-      "title": "Togstans og nødnummer nede etter Telenor-trøbbel",
-      "link": "https://www.kode24.no/artikkel/togstans-og-nodnummer-nede-etter-telenor-trobbel/274803",
-      "source": "Kode24",
-      "summary": "Nkom har varslet tilsyn etter hendelsen, som skapte trøbbel over hele landet torsdag.",
-      "published": "2026-10-09T06:24:28Z"
-    },
-    {
       "id": "8df75a4103237d86bfae81d269de24842e7353d5",
       "title": "How one bug bounty researcher chooses the features they investigate",
       "link": "https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/",
@@ -240,15 +248,6 @@
       "source": "GitHub Blog",
       "summary": "Explore GitHub’s latest transparency data and learn more about policy updates affecting developers and open source. The post Developer policy update: Transparency, state policy, and what’s ahead appeared first on The GitHub Blog.",
       "published": "2026-09-29T15:00:00Z"
-    },
-    {
-      "id": "ff868aacb6cad104d1746f1f545d67609be426c7",
-      "title": "How we found 24 Android vulnerabilities using our open source AI security agent",
-      "link": "https://github.blog/security/how-we-found-24-android-vulnerabilities-using-our-open-source-ai-security-agent/",
-      "source": "GitHub Blog",
-      "summary": "A look at the targeted AI taskflows behind these findings, the critical Android bugs they uncovered, and how to run the same open-source agent on your own app. The post How we found 24 Android vulnerabilities using our open source AI security agent appeared first on The GitHub Blog.",
-      "published": "2026-09-28T19:00:00Z",
-      "image": "https://github.blog/wp-content/uploads/2026/08/633863693-a990bd2a-bccb-49ad-a71b-1492598801cf.png?resize=1024%2C244"
     },
     {
       "id": "5f61ad9456076ac1e6a0dc6efbb9dd7b11a8cb69",
