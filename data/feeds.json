@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-10-14T11:27:48.829324Z",
+  "generated_at": "2026-10-15T11:04:29.877003Z",
   "items": [
+    {
+      "id": "a294e908c55bf327baedfa689e27d642fd63185a",
+      "title": "Har eget kontor: – Vi trenger det for å konsentrere oss",
+      "link": "https://www.kode24.no/artikkel/har-eget-kontor-vi-trenger-det-for-a-konsentrere-oss/275448",
+      "source": "Kode24",
+      "summary": "Utviklere flest sitter i åpent landskap. Hos Electronic Chart Centre i Stavanger har alle eget kontor. – Jeg kommer ikke på noen fordeler med åpent kontorlandskap, sier teknologisk leder.",
+      "published": "2026-10-15T10:00:00Z"
+    },
+    {
+      "id": "b914791d5b2e3873334b7779278c0b56666ce478",
+      "title": "– Når jeg vibbekoder, har jeg ikke peiling",
+      "link": "https://www.kode24.no/artikkel/nar-jeg-vibbekoder-har-jeg-ikke-peiling/275186",
+      "source": "Kode24",
+      "summary": "– KI er mest verdifull når den gjør ting jeg ikke kan selv. Men da har jeg også dårligst forutsetninger for å vite om den gjør feil, skriver Kjell-Vidar Åhman Teig.",
+      "published": "2026-10-15T08:30:00Z"
+    },
+    {
+      "id": "a6e7d864cfe0ac0b08a7f6709693435011d1afe3",
+      "title": "Åtte delstater i USA saksøker OpenAI",
+      "link": "https://www.kode24.no/artikkel/atte-delstater-i-usa-saksoker-openai/275431",
+      "source": "Kode24",
+      "summary": "Delstatene mener OpenAIs ChatGPT har påført barn skade og saksøker KI-selskapet.",
+      "published": "2026-10-15T07:14:05Z"
+    },
+    {
+      "id": "ef394916ec9e6063dbef9cfc32cc620e36be5aae",
+      "title": "Netflix nedbemanner med 1000 personer",
+      "link": "https://www.kode24.no/artikkel/netflix-nedbemanner-med-1000-personer/275412",
+      "source": "Kode24",
+      "summary": "Svak vekst gjør at Netflix sier opp 6 prosent av de ansatte – rundt 1000 personer. Teknologi er blant avdelingene som berøres.",
+      "published": "2026-10-15T06:38:20Z"
+    },
+    {
+      "id": "8efa0c44a94509e58bd7a7042045498175bd4d13",
+      "title": "– Tiden for middel­mådige utviklere er forbi",
+      "link": "https://www.kode24.no/artikkel/tiden-for-middelmadige-utviklere-er-forbi/275260",
+      "source": "Kode24",
+      "summary": "Det er stadig mer bruk for IT-arkitekter, mens utviklere må spisse kompetansen sin, mener grunnlegger av internasjonal arkitekt-organisasjon.",
+      "published": "2026-10-15T03:00:00Z"
+    },
+    {
+      "id": "ada3a6d29e91d72df3fe284c89d86c38e3c8f674",
+      "title": "GitHub availability report: September 2026",
+      "link": "https://github.blog/news-insights/company-news/github-availability-report-september-2026/",
+      "source": "GitHub Blog",
+      "summary": "In September, we experienced two incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: September 2026 appeared first on The GitHub Blog.",
+      "published": "2026-10-14T20:01:35Z",
+      "image": "https://github.blog/wp-content/uploads/2026/10/09-13-Graph-Incident5334.png?resize=1024%2C451"
+    },
+    {
+      "id": "0c37ff6588c0c58e9d9df360f1f113bafd3a3608",
+      "title": "From 2,500 requests to 24: Rebuilding star history without the stargazers",
+      "link": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/",
+      "source": "GitHub Blog",
+      "summary": "Our new repo star history API now provides trends without returning individual identities or requiring unbounded database work. These are the engineering tradeoffs we made. The post From 2,500 requests to 24: Rebuilding star history without the stargazers appeared first on The GitHub Blog.",
+      "published": "2026-10-14T19:11:33Z"
+    },
+    {
+      "id": "3b99fdfbbc21d3c6e2580050416cacdcbb00ac9e",
+      "title": "Rema 1000 kutter 130 folk, utelukker ikke at utviklere rammes",
+      "link": "https://www.kode24.no/artikkel/rema-1000-kutter-130-folk-utelukker-ikke-at-utviklere-rammes/275376",
+      "source": "Kode24",
+      "summary": "Nedbemanningen vil \"berøre flere fagområder\", svarer Rema 1000.",
+      "published": "2026-10-14T11:31:44Z"
+    },
     {
       "id": "ca1966718a4dd07ba61a88557094997b02393a90",
       "title": "KI-agent sletta ny TV-serie, utsetter premiere",
@@ -56,6 +121,15 @@
       "source": "Kode24",
       "summary": "Hele verden vibbekoder, men vi ser ingen eksplosjon av nye tjenester. Grunnene er mange, tror Kent Inge Fagerland Simonsen og Peter N. M. Hansteen, og mener løsningen heter Solid.",
       "published": "2026-10-14T03:00:00Z"
+    },
+    {
+      "id": "db0f8d9dc5233f6df4ff983631ce70f50e281914",
+      "title": "Better HTTP/1 connection reuse",
+      "link": "https://go.dev/blog/http-connection-reuse",
+      "source": "Go Blog",
+      "summary": "Go 1.27 includes a change to the HTTP client that can make programs sending many sequential HTTP/1 requests significantly faster.",
+      "published": "2026-10-14T00:00:00Z",
+      "image": "http-connection-reuse/http-cost.svg"
     },
     {
       "id": "e5e7270c9b98b96daa0a604848e822d884a17829",
@@ -130,54 +204,6 @@
       "published": "2026-10-12T11:38:44Z"
     },
     {
-      "id": "cc95bfeacd8d90b53f13a3a874c08661d7c5dd1e",
-      "title": "JPro satser i Bergen: TV 2-veteran første ansatt",
-      "link": "https://www.kode24.no/artikkel/jpro-satser-i-bergen-tv-2-veteran-forste-ansatt/274967",
-      "source": "Kode24",
-      "summary": "Thomas Aalén (52) går til JPro etter over 20 år i TV 2-systemet. Han blir selskapets første ansatte i Bergen.",
-      "published": "2026-10-12T09:36:30Z"
-    },
-    {
-      "id": "09a173966f0a8a5d2e052c24630ab11db4a56e41",
-      "title": "– Sløsing av skatte­penger å ikke bygge egne ting i Norge",
-      "link": "https://www.kode24.no/artikkel/slosing-av-skattepenger-a-ikke-bygge-egne-ting-i-norge/275000",
-      "source": "Kode24",
-      "summary": "– Vi må hindre at Norge blir et digitalt U-land ved å bygge opp vår egen infrastruktur og sikre vår egen suverenitet, sier Rødt-leder Marie Sneve Martinussen.",
-      "published": "2026-10-12T07:59:09Z"
-    },
-    {
-      "id": "4d0ff31fc96c80d663fb1c853d28712fab868bb7",
-      "title": "Datatilsynet gir Xandr rekordgebyr på 92 millioner",
-      "link": "https://www.kode24.no/artikkel/datatilsynet-gir-xandr-rekordgebyr-pa-92-millioner/274963",
-      "source": "Kode24",
-      "summary": "– Bruddene i denne saken er svært alvorlige, sier Datatilsynet, om gebyret til Microsoft-selskapet.",
-      "published": "2026-10-12T07:44:19Z"
-    },
-    {
-      "id": "f7949a1ec15fc1495f5b09d00ea71998256f2a6d",
-      "title": "Telia kutter 150 stillinger i Norge",
-      "link": "https://www.kode24.no/artikkel/telia-kutter-150-stillinger-i-norge/274936",
-      "source": "Kode24",
-      "summary": "– Vi har full forståelse for at dette er veldig krevende for dem som berøres og deres kolleger.",
-      "published": "2026-10-12T06:26:39Z"
-    },
-    {
-      "id": "5795bf7998e618fd8d9364f79f7fe0286ca99610",
-      "title": "UU-tester 271 nettsider. Bare 11 klarte seg et helt år",
-      "link": "https://www.kode24.no/artikkel/uu-tester-271-nettsider-bare-11-klarte-seg-et-helt-ar/274753",
-      "source": "Kode24",
-      "summary": "– Universell utforming er ikke noe man «blir ferdig med», sier Tobias Andersen som står bak UU-highscore-liste for norske nettsider.",
-      "published": "2026-10-12T03:00:00Z"
-    },
-    {
-      "id": "11af9c2aa16f2162068891769f3130044319c482",
-      "title": "Ping sendt med brevdue selges: – Bør havne i norske hender",
-      "link": "https://www.kode24.no/artikkel/ping-sendt-med-brevdue-selges-bor-havne-i-norske-hender/274909",
-      "source": "Kode24",
-      "summary": "– Vi implementerte Internett over brevdue (RFC1149) i 2001. 25 år senere kan en av pakkene fra eksperimentet bli din! skriver Peter N. M. Hansteen.",
-      "published": "2026-10-10T03:00:00Z"
-    },
-    {
       "id": "e3bcf97f7de2ad009c502c0f32d71ae94436564e",
       "title": "Hack the World: Why hackathons are still the best place to learn to build",
       "link": "https://github.blog/developer-skills/career-growth/hack-the-world-why-hackathons-are-still-the-best-place-to-learn-to-build/",
@@ -232,22 +258,6 @@
       "source": "Go Blog",
       "summary": "Go 1.27 introduces experimental arch-specific SIMD vector APIs",
       "published": "2026-10-02T00:00:00Z"
-    },
-    {
-      "id": "414863117fa4cfc32be2ed3ba41b46b325025885",
-      "title": "10 technical talks I’m excited about at GitHub Universe 2026",
-      "link": "https://github.blog/news-insights/company-news/10-technical-talks-im-excited-about-at-github-universe-2026/",
-      "source": "GitHub Blog",
-      "summary": "From verifying AI-written code to securing npm dependencies, these are the sessions I’m building my Universe agenda around. The post 10 technical talks I’m excited about at GitHub Universe 2026 appeared first on The GitHub Blog.",
-      "published": "2026-10-01T15:07:16Z"
-    },
-    {
-      "id": "27163e30bd00b7ba02c6e1d9b11e71f4b46525e4",
-      "title": "Developer policy update: Transparency, state policy, and what’s ahead",
-      "link": "https://github.blog/news-insights/policy-news-and-insights/developer-policy-update-transparency-state-policy-and-whats-ahead/",
-      "source": "GitHub Blog",
-      "summary": "Explore GitHub’s latest transparency data and learn more about policy updates affecting developers and open source. The post Developer policy update: Transparency, state policy, and what’s ahead appeared first on The GitHub Blog.",
-      "published": "2026-09-29T15:00:00Z"
     },
     {
       "id": "5f61ad9456076ac1e6a0dc6efbb9dd7b11a8cb69",
@@ -315,14 +325,6 @@
       "summary": "How Go 1.26's source-level inliner works, and how it can help you with self-service API migrations.",
       "published": "2026-03-10T00:00:00Z",
       "image": "https://go.dev/gopls/assets/inline-before.png"
-    },
-    {
-      "id": "58090b041f481022af2fefee6d1fd70bffe4d02e",
-      "title": "Allocating on the Stack",
-      "link": "https://go.dev/blog/allocation-optimizations",
-      "source": "Go Blog",
-      "summary": "A description of some of the recent changes to do allocations on the stack instead of the heap.",
-      "published": "2026-02-27T00:00:00Z"
     }
   ]
 }
