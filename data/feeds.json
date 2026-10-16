@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-10-15T11:04:29.877003Z",
+  "generated_at": "2026-10-16T10:59:53.801604Z",
   "items": [
+    {
+      "id": "4bba098ce11e4e6ef1698a7a3aeade58d2f4b57e",
+      "title": "Anthropic skroter Git etter kodeflom",
+      "link": "https://www.kode24.no/artikkel/anthropic-skroter-git-etter-kodeflom/275458",
+      "source": "Kode24",
+      "summary": "KI-selskapet har laget sitt eget versjonskontrollsystem, Scion. Utviklere som gjennomgår kildekoden, ser etter intensjon framfor å lese alle linjene.",
+      "published": "2026-10-16T10:29:29Z"
+    },
+    {
+      "id": "5e942109d5cb0395151184ad121369a7daee93ec",
+      "title": "Kutt kan ramme utviklere: – Vil berøre store deler av FHI",
+      "link": "https://www.kode24.no/artikkel/kutt-kan-ramme-utviklere-vil-berore-store-deler-av-fhi/275569",
+      "source": "Kode24",
+      "summary": "Folkehelseinstituttet varsler store kutt over hele linja – som kan berøre IT og utviklere, opplyser konstituert direktør.",
+      "published": "2026-10-16T08:06:17Z"
+    },
+    {
+      "id": "dc5fb7637b610c20fc2bc47bcacd16d609cc822e",
+      "title": "Apple og Nvidia donererer til Trumps ballsal",
+      "link": "https://www.kode24.no/artikkel/apple-og-nvidia-donererer-til-trumps-ballsal/275554",
+      "source": "Kode24",
+      "summary": "Nvidia er stolte, mens Apple ikke vil kommentere pengegaven sin.",
+      "published": "2026-10-16T06:32:15Z"
+    },
+    {
+      "id": "76e372368eb0d474e061abb935692b573c86b4bf",
+      "title": "– Ikke jobb mens jeg forstyrrer!",
+      "link": "https://www.kode24.no/artikkel/ikke-jobb-mens-jeg-forstyrrer/275472",
+      "source": "Kode24",
+      "summary": "– \"Jag trivs bäst i öppna landskap\" gjelder ikke for alle på kontoret. Men det finnes også gode grunner til å ikke ville tilbake til cellekontoret, skriver Hilde i ukas nyhetsbrev.",
+      "published": "2026-10-16T03:01:00Z"
+    },
+    {
+      "id": "32753c5d923d802152926bc2b92aa383cbd1c939",
+      "title": "The next developer interface is ambient intelligence",
+      "link": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/",
+      "source": "GitHub Blog",
+      "summary": "AI, agents, voice, and physical controls are shifting software development from operating tools to expressing intent—and helping developers stay focused on building. The post The next developer interface is ambient intelligence appeared first on The GitHub Blog.",
+      "published": "2026-10-15T19:39:27Z"
+    },
+    {
+      "id": "3571a14eebcbf3e8fa10efe6106e290605d4269d",
+      "title": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
+      "link": "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/",
+      "source": "GitHub Blog",
+      "summary": "Put native GitHub features to work to review outside collaborator access and archive stale repositories. The post Staying Evergreen: How we automated secure access and repo hygiene in a shared org appeared first on The GitHub Blog.",
+      "published": "2026-10-15T18:00:00Z",
+      "image": "https://github.blog/wp-content/uploads/2026/10/674986199-ee305d10-3419-4270-a829-41ed3da29fae.png?resize=528%2C221"
+    },
+    {
+      "id": "a78c29be928e81a5218248b895fd43f6e0cb2b90",
+      "title": "Shopify går native og React samler seg i Ghana",
+      "link": "https://www.kode24.no/artikkel/shopify-gar-native-og-react-samler-seg-i-ghana/275487",
+      "source": "Kode24",
+      "summary": "Meta skal ikke eie React lenger. Snart møtes nye React Foundation i Afrika og Storbritannia.",
+      "published": "2026-10-15T13:45:00Z"
+    },
+    {
+      "id": "77b05d6f428c4bea89aa5fdc976c17a1a7c0ffca",
+      "title": "Google lar deg kjøre vibbekoda Android-apper uten publisering",
+      "link": "https://www.kode24.no/artikkel/google-lar-deg-kjore-vibbekoda-android-apper-uten-publisering/275317",
+      "source": "Kode24",
+      "summary": "Den nye funksjonen er laget for bølgen av personlige apper som bygges med kunstig intelligens.",
+      "published": "2026-10-15T12:30:00Z"
+    },
     {
       "id": "a294e908c55bf327baedfa689e27d642fd63185a",
       "title": "Har eget kontor: – Vi trenger det for å konsentrere oss",
@@ -148,60 +213,12 @@
       "published": "2026-10-13T12:46:59Z"
     },
     {
-      "id": "8eac17d9600d1240647d6071d2f234a6d34c0b13",
-      "title": "Forsking: Du kan få psykiske plagar av nedbemanning",
-      "link": "https://www.kode24.no/artikkel/forsking-du-kan-fa-psykiske-plagar-av-nedbemanning/275081",
-      "source": "Kode24",
-      "summary": "For lite informasjon og for nære kollegaer som blir nedbemanna, kan føre til at du får det verre på jobb.",
-      "published": "2026-10-13T11:44:58Z"
-    },
-    {
-      "id": "f8dd8230d965188f0d6501ade95fac65f908afe1",
-      "title": "– Kommentar­feltet vårt er ikke et kloakkrør for hat og hets",
-      "link": "https://www.kode24.no/artikkel/kommentarfeltet-vart-er-ikke-et-kloakkror-for-hat-og-hets/274893",
-      "source": "Kode24",
-      "summary": "– Vi har dessverre hatt noen grove overtramp, som gjør at vi må skjerpe reglene for bruk av kommentarfeltene under artikler på kode24, skriver ansvarlig redaktør Hilde Schjerve.",
-      "published": "2026-10-13T10:43:48Z"
-    },
-    {
-      "id": "fd6b55d9ea20f2e92e4c654c177da4757be730b8",
-      "title": "«Jenter og teknologi» mister 3 millioner kroner: – Skuffende",
-      "link": "https://www.kode24.no/artikkel/jenter-og-teknologi-mister-3-millioner-kroner-skuffende/275020",
-      "source": "Kode24",
-      "summary": "Etter ni år med støtte, vil regjeringen avvikle prosjektet som skal få flere jenter inn i teknologi- og ingeniøryrker. Nå protesterer fagforeningene.",
-      "published": "2026-10-13T09:10:20Z"
-    },
-    {
-      "id": "e5c9121340c010371f12d2ee34be8bbb9d887947",
-      "title": "Epic Games skal bruke mer KI i spillutvikling",
-      "link": "https://www.kode24.no/artikkel/epic-games-skal-bruke-mer-ki-i-spillutvikling/275085",
-      "source": "Kode24",
-      "summary": "– Målet er ikke å gjøre det samme med færre folk, lover toppsjefen, rett etter å ha annonsert stor nedbemanning.",
-      "published": "2026-10-13T07:00:26Z"
-    },
-    {
-      "id": "8fcfb604f6a6d92c608c398486d325ba398282e4",
-      "title": "Utviklere trives ikke i åpent land­skap: «Alvorlig»",
-      "link": "https://www.kode24.no/artikkel/utviklere-trives-ikke-i-apent-landskap-alvorlig/270246",
-      "source": "Kode24",
-      "summary": "80 prosent sitter i et åpent kontorlandskap, men under halvparten av utviklere trives der, viser kode24s tall. – Det et alvorlig signal, sier rekrutterer.",
-      "published": "2026-10-13T03:00:00Z"
-    },
-    {
       "id": "e22ce0ac1b8ed269546bc86213a4d65ed17c51b2",
       "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
       "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
       "source": "GitHub Blog",
       "summary": "Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright. The post GitHub Copilot app for Beginners: How to teach Copilot about your codebase appeared first on The GitHub Blog.",
       "published": "2026-10-12T17:43:59Z"
-    },
-    {
-      "id": "b44581c07bfa0fa1ccca148a2f73a1217d24d331",
-      "title": "Deno dør etter Cloudflare-oppkjøp",
-      "link": "https://www.kode24.no/artikkel/deno-dor-etter-cloudflare-oppkjop/275033",
-      "source": "Kode24",
-      "summary": "– Utviklingen fra Deno til Deno Deploy til celld forklarer hvorfor dette gir mening for oss, mener skaperen.",
-      "published": "2026-10-12T11:38:44Z"
     },
     {
       "id": "e3bcf97f7de2ad009c502c0f32d71ae94436564e",
@@ -234,22 +251,6 @@
       "source": "GitHub Blog",
       "summary": "We're rebuilding GitHub's Git infrastructure while GitHub keeps running, creating a foundation for agent-scale software development. The post Building Git infrastructure for agent-scale development appeared first on The GitHub Blog.",
       "published": "2026-10-06T20:57:56Z"
-    },
-    {
-      "id": "ee3fc94a6f021a19634516c08960c939e06fe7ac",
-      "title": "ReviewBench: An open benchmark for AI code review",
-      "link": "https://github.blog/ai-and-ml/github-copilot/reviewbench-an-open-benchmark-for-ai-code-review/",
-      "source": "GitHub Blog",
-      "summary": "We’re launching ReviewBench, a benchmark for code review agents built on representative GitHub pull requests, multi-source ground truth, calibrated evaluation, and production-aligned metrics. The post ReviewBench: An open benchmark for AI code review appeared first on The GitHub Blog.",
-      "published": "2026-10-05T15:59:40Z"
-    },
-    {
-      "id": "0632dd0e98b9e33970eee0eacf57d4632a0e8a95",
-      "title": "AI is changing developer work. Here are three skills to strengthen.",
-      "link": "https://github.blog/ai-and-ml/ai-is-rewriting-the-developer-career-ladder-heres-how-to-stand-out/",
-      "source": "GitHub Blog",
-      "summary": "Learn to direct AI agents, critically review their output, and keep technical judgment at the center of your workflow. The post AI is changing developer work. Here are three skills to strengthen. appeared first on The GitHub Blog.",
-      "published": "2026-10-02T15:00:00Z"
     },
     {
       "id": "14b0cf090f778bb176ae38df8e64ae1cc27eda78",
