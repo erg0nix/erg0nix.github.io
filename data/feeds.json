@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-10-16T10:59:53.801604Z",
+  "generated_at": "2026-10-17T10:21:31.617920Z",
   "items": [
+    {
+      "id": "1ce20ba91c1e9dd1839a5fcf66eb6225238dbe5d",
+      "title": "Bytter til Computas etter å ha møtt dem på prosjekt",
+      "link": "https://www.kode24.no/artikkel/bytter-til-computas-etter-a-ha-mott-dem-pa-prosjekt/275648",
+      "source": "Kode24",
+      "summary": "– Alt jeg har hørt om henne opp igjennom årene har utelukkende vært positivt, sier Alethia Dagestad Strande sin nye sjef.",
+      "published": "2026-10-16T13:18:01Z"
+    },
+    {
+      "id": "4a95271e5acc19df9ad86c2a9f5629168a902be4",
+      "title": "Kutter ut «Jenter og teknologi», dobler til «Gutter og helsefag»",
+      "link": "https://www.kode24.no/artikkel/kutter-ut-jenter-og-teknologi-dobler-til-gutter-og-helsefag/275228",
+      "source": "Kode24",
+      "summary": "Mens «Jenter og teknologi» mister hele støtten i statsbudsjettet, dobles den for å få gutter til å velge helsefag. – Smålig, sier SV. – Vanskelig å forstå, sier NHO.",
+      "published": "2026-10-16T12:29:22Z"
+    },
     {
       "id": "4bba098ce11e4e6ef1698a7a3aeade58d2f4b57e",
       "title": "Anthropic skroter Git etter kodeflom",
@@ -32,6 +48,15 @@
       "source": "Kode24",
       "summary": "– \"Jag trivs bäst i öppna landskap\" gjelder ikke for alle på kontoret. Men det finnes også gode grunner til å ikke ville tilbake til cellekontoret, skriver Hilde i ukas nyhetsbrev.",
       "published": "2026-10-16T03:01:00Z"
+    },
+    {
+      "id": "62b23ef21dc70db30c402893e1953578ac39411c",
+      "title": "Interactive refactoring in gopls",
+      "link": "https://go.dev/blog/interactive-refactoring",
+      "source": "Go Blog",
+      "summary": "Introducing interactive refactoring in gopls and the LSP: a new capability that brings dynamic, multi-step refactorings into your favorite editor.",
+      "published": "2026-10-16T00:00:00Z",
+      "image": "https://go.dev/blog/interactive-refactoring/no-question.png"
     },
     {
       "id": "32753c5d923d802152926bc2b92aa383cbd1c939",
@@ -180,14 +205,6 @@
       "published": "2026-10-14T07:16:38Z"
     },
     {
-      "id": "514a2cd232a852a5186164b08ec2632ac7a42f1e",
-      "title": "«FermAI-paradokset»: Hvor blir det av alle appene?",
-      "link": "https://www.kode24.no/artikkel/fermai-paradokset-hvor-blir-det-av-alle-appene/275141",
-      "source": "Kode24",
-      "summary": "Hele verden vibbekoder, men vi ser ingen eksplosjon av nye tjenester. Grunnene er mange, tror Kent Inge Fagerland Simonsen og Peter N. M. Hansteen, og mener løsningen heter Solid.",
-      "published": "2026-10-14T03:00:00Z"
-    },
-    {
       "id": "db0f8d9dc5233f6df4ff983631ce70f50e281914",
       "title": "Better HTTP/1 connection reuse",
       "link": "https://go.dev/blog/http-connection-reuse",
@@ -203,14 +220,6 @@
       "source": "GitHub Blog",
       "summary": "GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%. The post GitHub’s model for secret detection: Finding more secrets with less noise appeared first on The GitHub Blog.",
       "published": "2026-10-13T17:56:33Z"
-    },
-    {
-      "id": "ad83a7fea4959a302362c94fe3f061352bdd4bec",
-      "title": "Kjøleskap hacka i Frankrike – forventer det samme i Norge",
-      "link": "https://www.kode24.no/artikkel/kjoleskap-hacka-i-frankrike-forventer-det-samme-i-norge/275087",
-      "source": "Kode24",
-      "summary": "Franske butikker må kaste tonnevis mat etter et hackerangrep mot kjøle- og fryseskap. Sikkerhetsekspert Lars Eirik Berg ber nordmenn forberede seg på det samme.",
-      "published": "2026-10-13T12:46:59Z"
     },
     {
       "id": "e22ce0ac1b8ed269546bc86213a4d65ed17c51b2",
@@ -317,15 +326,6 @@
       "summary": "Go 1.26 simplifies type construction and enhances cycle detection for certain kinds of recursive types.",
       "published": "2026-03-24T00:00:00Z",
       "image": "https://go.dev/blog/type-construction-and-cycle-detection/01.svg"
-    },
-    {
-      "id": "8a2a9a67f325fa75bc77381476c3b987b43a57ea",
-      "title": "//go:fix inline and the source-level inliner",
-      "link": "https://go.dev/blog/inliner",
-      "source": "Go Blog",
-      "summary": "How Go 1.26's source-level inliner works, and how it can help you with self-service API migrations.",
-      "published": "2026-03-10T00:00:00Z",
-      "image": "https://go.dev/gopls/assets/inline-before.png"
     }
   ]
 }
