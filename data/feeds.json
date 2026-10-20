@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-10-19T12:35:49.592224Z",
+  "generated_at": "2026-10-20T11:09:20.188551Z",
   "items": [
+    {
+      "id": "adeae0e1f356cb345b9df34118c7f531f04de047",
+      "title": "Fikk 282 angreps-meldinger i vår: – Rekordmange",
+      "link": "https://www.kode24.no/artikkel/fikk-282-angreps-meldinger-i-var-rekordmange/275968",
+      "source": "Kode24",
+      "summary": "Datatilsynet har aldri fått så mange meldinger om personopplysninger på avveie som våren 2026.",
+      "published": "2026-10-20T11:00:00Z"
+    },
+    {
+      "id": "10a81874641609003d3f6282e4e0de6979bb592b",
+      "title": "Nytt kodespråk er vanskelig for KI å forstå",
+      "link": "https://www.kode24.no/artikkel/nytt-kodesprak-er-vanskelig-for-ki-a-forsta/275925",
+      "source": "Kode24",
+      "summary": "Dominik Picheta utviklet programmeringsspråket KillSwitch med mål om å gjøre det vanskelig for språkmodeller å forstå og bruke kode.",
+      "published": "2026-10-20T09:30:00Z"
+    },
+    {
+      "id": "9000f168f2a523db703fc8232b613f45ea63ba1d",
+      "title": "Tiril er Cobriefs nye «design engineer»",
+      "link": "https://www.kode24.no/artikkel/tiril-er-cobriefs-nye-design-engineer/275818",
+      "source": "Kode24",
+      "summary": "Tiril Uggerud skal gjennom både koding og design hjelpe selskaper med anbud.",
+      "published": "2026-10-20T07:47:59Z"
+    },
+    {
+      "id": "a41593d0c859093ff6f4e775a51f4c36584b5f5c",
+      "title": "Telenor-rapport: Stadig kortere tid til å reagere på angrep",
+      "link": "https://www.kode24.no/artikkel/telenor-rapport-stadig-kortere-tid-til-a-reagere-pa-angrep/275906",
+      "source": "Kode24",
+      "summary": "Kunstig intelligens gjør at norske bedrifter har stadig kortere tid til å reagere på cyberangrep, skriver Telenor i sin nye sikkerhetsrapport.",
+      "published": "2026-10-20T07:03:55Z"
+    },
+    {
+      "id": "8ade335bc1f41f14afacf1e9dfe884f86111ce25",
+      "title": "NorForge fikk innblikk i masseangrep fra hackere: – En ny verden nå",
+      "link": "https://www.kode24.no/artikkel/norforge-fikk-innblikk-i-masseangrep-fra-hackere-en-ny-verden-na/275889",
+      "source": "Kode24",
+      "summary": "Et norskledet sikkerhetsselskap i USA advarer etter å ha sett hvordan hackere tok i bruk vanlige KI-verktøy for å utføre svært avanserte angrep.",
+      "published": "2026-10-20T06:26:24Z"
+    },
+    {
+      "id": "599741d4e38ea7522f4a5a095316d41c6f895b38",
+      "title": "– Jeg savner å være en god utvikler",
+      "link": "https://www.kode24.no/artikkel/jeg-savner-a-vaere-en-god-utvikler/275792",
+      "source": "Kode24",
+      "summary": "Elise Kristiansen er uenig i at tida for middelmådige utviklere er forbi. – For er det én ting utvikling med KI premierer, er det nettopp middelmådighet.",
+      "published": "2026-10-20T03:00:00Z"
+    },
+    {
+      "id": "88c6cef59a0bb838017b0e3c450c8dfb7929d794",
+      "title": "How to continue a GitHub Copilot app session in VS Code",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
+      "source": "GitHub Blog",
+      "summary": "Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub Blog.",
+      "published": "2026-10-19T18:47:22Z"
+    },
     {
       "id": "2d634ec8e7a4722a81e2c330c9f818d5abf6191e",
       "title": "Anthropic ansetter færre juniorer",
@@ -140,46 +196,6 @@
       "published": "2026-10-15T12:30:00Z"
     },
     {
-      "id": "a294e908c55bf327baedfa689e27d642fd63185a",
-      "title": "Har eget kontor: – Vi trenger det for å konsentrere oss",
-      "link": "https://www.kode24.no/artikkel/har-eget-kontor-vi-trenger-det-for-a-konsentrere-oss/275448",
-      "source": "Kode24",
-      "summary": "Utviklere flest sitter i åpent landskap. Hos Electronic Chart Centre i Stavanger har alle eget kontor. – Jeg kommer ikke på noen fordeler med åpent kontorlandskap, sier teknologisk leder.",
-      "published": "2026-10-15T10:00:00Z"
-    },
-    {
-      "id": "b914791d5b2e3873334b7779278c0b56666ce478",
-      "title": "– Når jeg vibbekoder, har jeg ikke peiling",
-      "link": "https://www.kode24.no/artikkel/nar-jeg-vibbekoder-har-jeg-ikke-peiling/275186",
-      "source": "Kode24",
-      "summary": "– KI er mest verdifull når den gjør ting jeg ikke kan selv. Men da har jeg også dårligst forutsetninger for å vite om den gjør feil, skriver Kjell-Vidar Åhman Teig.",
-      "published": "2026-10-15T08:30:00Z"
-    },
-    {
-      "id": "a6e7d864cfe0ac0b08a7f6709693435011d1afe3",
-      "title": "Åtte delstater i USA saksøker OpenAI",
-      "link": "https://www.kode24.no/artikkel/atte-delstater-i-usa-saksoker-openai/275431",
-      "source": "Kode24",
-      "summary": "Delstatene mener OpenAIs ChatGPT har påført barn skade og saksøker KI-selskapet.",
-      "published": "2026-10-15T07:14:05Z"
-    },
-    {
-      "id": "ef394916ec9e6063dbef9cfc32cc620e36be5aae",
-      "title": "Netflix nedbemanner med 1000 personer",
-      "link": "https://www.kode24.no/artikkel/netflix-nedbemanner-med-1000-personer/275412",
-      "source": "Kode24",
-      "summary": "Svak vekst gjør at Netflix sier opp 6 prosent av de ansatte – rundt 1000 personer. Teknologi er blant avdelingene som berøres.",
-      "published": "2026-10-15T06:38:20Z"
-    },
-    {
-      "id": "8efa0c44a94509e58bd7a7042045498175bd4d13",
-      "title": "– Tiden for middel­mådige utviklere er forbi",
-      "link": "https://www.kode24.no/artikkel/tiden-for-middelmadige-utviklere-er-forbi/275260",
-      "source": "Kode24",
-      "summary": "Det er stadig mer bruk for IT-arkitekter, mens utviklere må spisse kompetansen sin, mener grunnlegger av internasjonal arkitekt-organisasjon.",
-      "published": "2026-10-15T03:00:00Z"
-    },
-    {
       "id": "ada3a6d29e91d72df3fe284c89d86c38e3c8f674",
       "title": "GitHub availability report: September 2026",
       "link": "https://github.blog/news-insights/company-news/github-availability-report-september-2026/",
@@ -195,14 +211,6 @@
       "source": "GitHub Blog",
       "summary": "Our new repo star history API now provides trends without returning individual identities or requiring unbounded database work. These are the engineering tradeoffs we made. The post From 2,500 requests to 24: Rebuilding star history without the stargazers appeared first on The GitHub Blog.",
       "published": "2026-10-14T19:11:33Z"
-    },
-    {
-      "id": "3b99fdfbbc21d3c6e2580050416cacdcbb00ac9e",
-      "title": "Rema 1000 kutter 130 folk, utelukker ikke at utviklere rammes",
-      "link": "https://www.kode24.no/artikkel/rema-1000-kutter-130-folk-utelukker-ikke-at-utviklere-rammes/275376",
-      "source": "Kode24",
-      "summary": "Nedbemanningen vil \"berøre flere fagområder\", svarer Rema 1000.",
-      "published": "2026-10-14T11:31:44Z"
     },
     {
       "id": "db0f8d9dc5233f6df4ff983631ce70f50e281914",
@@ -252,14 +260,6 @@
       "source": "GitHub Blog",
       "summary": "Developers aren’t becoming more careless; they’re being outpaced. The tools that let developers create more software should also take on more of the work of protecting it. The post Secret protection must scale with software appeared first on The GitHub Blog.",
       "published": "2026-10-07T17:45:34Z"
-    },
-    {
-      "id": "1515a8a3065709418de84416d7136b4f74806a9c",
-      "title": "Building Git infrastructure for agent-scale development",
-      "link": "https://github.blog/engineering/architecture-optimization/building-git-infrastructure-for-agent-scale-development/",
-      "source": "GitHub Blog",
-      "summary": "We're rebuilding GitHub's Git infrastructure while GitHub keeps running, creating a foundation for agent-scale software development. The post Building Git infrastructure for agent-scale development appeared first on The GitHub Blog.",
-      "published": "2026-10-06T20:57:56Z"
     },
     {
       "id": "14b0cf090f778bb176ae38df8e64ae1cc27eda78",
