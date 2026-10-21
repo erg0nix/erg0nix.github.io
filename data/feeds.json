@@ -1,6 +1,78 @@
 {
-  "generated_at": "2026-10-20T11:09:20.188551Z",
+  "generated_at": "2026-10-21T11:25:12.769965Z",
   "items": [
+    {
+      "id": "140214f9e5d258a5b9ada2dd1c658e10c7946004",
+      "title": "Angrep i gang: PHP-sårbarheter lammer globalt",
+      "link": "https://www.kode24.no/artikkel/angrep-i-gang-php-sarbarheter-lammer-globalt/276139",
+      "source": "Kode24",
+      "summary": "To sårbarheter i PHP gjør at versjoner bør tas av internett fram til ny patch er klar onsdag klokken 16. Angrep er allerede i gang.",
+      "published": "2026-10-21T10:46:08Z"
+    },
+    {
+      "id": "c43a87b447dca6491bcb43eb1403a76ec92672ef",
+      "title": "Linux skroter kravet om KI-merking av kode",
+      "link": "https://www.kode24.no/artikkel/linux-skroter-kravet-om-ki-merking-av-kode/276097",
+      "source": "Kode24",
+      "summary": "Linus Torvalds mener utviklere bør vurderes ut fra kvaliteten på koden, ikke verktøyene de bruker. – Ser du ikke hvor utrolig dumme sånne regler hadde vært?",
+      "published": "2026-10-21T09:41:37Z"
+    },
+    {
+      "id": "6ee22cd26c8c1aae7e3d2847b36bb3c4dbd3e4b9",
+      "title": "DNB tjente 10 milliarder sist kvartal, men nedbemanner 400 folk",
+      "link": "https://www.kode24.no/artikkel/dnb-tjente-10-milliarder-sist-kvartal-men-nedbemanner-400-folk/276107",
+      "source": "Kode24",
+      "summary": "– De aller fleste har jobb og en trygg økonomi, sier DNB-sjefen, som tjener godt på dette samtidig som de står midt i en nedbemanning.",
+      "published": "2026-10-21T09:15:35Z"
+    },
+    {
+      "id": "e2a6a046139a59a35c31ee2291ec3e018f0c7b17",
+      "title": "Danske Bank lanserer egen MCP-server",
+      "link": "https://www.kode24.no/artikkel/danske-bank-lanserer-egen-mcp-server/276085",
+      "source": "Kode24",
+      "summary": "Hevder å være den første banken i Norden som legger til rette for agenter i kontoen.",
+      "published": "2026-10-21T08:14:15Z"
+    },
+    {
+      "id": "9f3fc2a335eeb755b79b9f21fb8d437f8b50358d",
+      "title": "Rapport: KI både styrker og svekker Norges forsvar mot dataangrep",
+      "link": "https://www.kode24.no/artikkel/rapport-ki-bade-styrker-og-svekker-norges-forsvar-mot-dataangrep/276066",
+      "source": "Kode24",
+      "summary": "– Økt bruk av KI er et tveegget sverd, sier Nkom-direktør John-Eivind Velure.",
+      "published": "2026-10-21T07:15:51Z"
+    },
+    {
+      "id": "7141e1d9c298c2873206737031ffb560d5a85c19",
+      "title": "Jobber fra Italia: – Alt jeg trenger er mac-en og internett",
+      "link": "https://www.kode24.no/artikkel/jobber-fra-italia-alt-jeg-trenger-er-mac-en-og-internett/275696",
+      "source": "Kode24",
+      "summary": "Mange drømmer om å ta med seg jobben til varmere strøk, men utvikler Simen har faktisk gjort det. – Det er ikke helt feil å bytte ut SATS med sykkelturer blant toskanske vinranker, sier han.",
+      "published": "2026-10-21T03:00:00Z"
+    },
+    {
+      "id": "fbec33bd28b4042ee248c464722f0a76086c4ff3",
+      "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
+      "source": "GitHub Blog",
+      "summary": "Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results. The post How 3 Java Champions are using GitHub Copilot for increased productivity appeared first on The GitHub Blog.",
+      "published": "2026-10-20T16:05:03Z"
+    },
+    {
+      "id": "438b4f17a4ec29aed8ac1f9edb3154913aecb019",
+      "title": "USA forbyr å bruke DeepSeek i staten",
+      "link": "https://www.kode24.no/artikkel/usa-forbyr-a-bruke-deepseek-i-staten/276042",
+      "source": "Kode24",
+      "summary": "USAs regjering har nedlagt forbud mot at landets myndigheter bruker kunstig intelligens fra den kinesiske KI-tjenesten DeepSeek.",
+      "published": "2026-10-20T13:49:17Z"
+    },
+    {
+      "id": "96b015467106289d56f8f8301a9d00c96eb15e3b",
+      "title": "– Vi kan ikke gamble med fremtidens ingeniører",
+      "link": "https://www.kode24.no/artikkel/vi-kan-ikke-gamble-med-fremtidens-ingeniorer/276006",
+      "source": "Kode24",
+      "summary": "Regjeringen vil gi universitetene større frihet til å forme ingeniørutdanningene. Det reagerer NITO kraftig på.",
+      "published": "2026-10-20T13:31:24Z"
+    },
     {
       "id": "adeae0e1f356cb345b9df34118c7f531f04de047",
       "title": "Fikk 282 angreps-meldinger i vår: – Rekordmange",
@@ -106,54 +178,6 @@
       "published": "2026-10-19T03:00:00Z"
     },
     {
-      "id": "1ce20ba91c1e9dd1839a5fcf66eb6225238dbe5d",
-      "title": "Bytter til Computas etter å ha møtt dem på prosjekt",
-      "link": "https://www.kode24.no/artikkel/bytter-til-computas-etter-a-ha-mott-dem-pa-prosjekt/275648",
-      "source": "Kode24",
-      "summary": "– Alt jeg har hørt om henne opp igjennom årene har utelukkende vært positivt, sier Alethia Dagestad Strande sin nye sjef.",
-      "published": "2026-10-16T13:18:01Z"
-    },
-    {
-      "id": "4a95271e5acc19df9ad86c2a9f5629168a902be4",
-      "title": "Kutter ut «Jenter og teknologi», dobler til «Gutter og helsefag»",
-      "link": "https://www.kode24.no/artikkel/kutter-ut-jenter-og-teknologi-dobler-til-gutter-og-helsefag/275228",
-      "source": "Kode24",
-      "summary": "Mens «Jenter og teknologi» mister hele støtten i statsbudsjettet, dobles den for å få gutter til å velge helsefag. – Smålig, sier SV. – Vanskelig å forstå, sier NHO.",
-      "published": "2026-10-16T12:29:22Z"
-    },
-    {
-      "id": "4bba098ce11e4e6ef1698a7a3aeade58d2f4b57e",
-      "title": "Anthropic skroter Git etter kodeflom",
-      "link": "https://www.kode24.no/artikkel/anthropic-skroter-git-etter-kodeflom/275458",
-      "source": "Kode24",
-      "summary": "KI-selskapet har laget sitt eget versjonskontrollsystem, Scion. Utviklere som gjennomgår kildekoden, ser etter intensjon framfor å lese alle linjene.",
-      "published": "2026-10-16T10:29:29Z"
-    },
-    {
-      "id": "5e942109d5cb0395151184ad121369a7daee93ec",
-      "title": "Kutt kan ramme utviklere: – Vil berøre store deler av FHI",
-      "link": "https://www.kode24.no/artikkel/kutt-kan-ramme-utviklere-vil-berore-store-deler-av-fhi/275569",
-      "source": "Kode24",
-      "summary": "Folkehelseinstituttet varsler store kutt over hele linja – som kan berøre IT og utviklere, opplyser konstituert direktør.",
-      "published": "2026-10-16T08:06:17Z"
-    },
-    {
-      "id": "dc5fb7637b610c20fc2bc47bcacd16d609cc822e",
-      "title": "Apple og Nvidia donererer til Trumps ballsal",
-      "link": "https://www.kode24.no/artikkel/apple-og-nvidia-donererer-til-trumps-ballsal/275554",
-      "source": "Kode24",
-      "summary": "Nvidia er stolte, mens Apple ikke vil kommentere pengegaven sin.",
-      "published": "2026-10-16T06:32:15Z"
-    },
-    {
-      "id": "76e372368eb0d474e061abb935692b573c86b4bf",
-      "title": "– Ikke jobb mens jeg forstyrrer!",
-      "link": "https://www.kode24.no/artikkel/ikke-jobb-mens-jeg-forstyrrer/275472",
-      "source": "Kode24",
-      "summary": "– \"Jag trivs bäst i öppna landskap\" gjelder ikke for alle på kontoret. Men det finnes også gode grunner til å ikke ville tilbake til cellekontoret, skriver Hilde i ukas nyhetsbrev.",
-      "published": "2026-10-16T03:01:00Z"
-    },
-    {
       "id": "62b23ef21dc70db30c402893e1953578ac39411c",
       "title": "Interactive refactoring in gopls",
       "link": "https://go.dev/blog/interactive-refactoring",
@@ -178,22 +202,6 @@
       "summary": "Put native GitHub features to work to review outside collaborator access and archive stale repositories. The post Staying Evergreen: How we automated secure access and repo hygiene in a shared org appeared first on The GitHub Blog.",
       "published": "2026-10-15T18:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2026/10/674986199-ee305d10-3419-4270-a829-41ed3da29fae.png?resize=528%2C221"
-    },
-    {
-      "id": "a78c29be928e81a5218248b895fd43f6e0cb2b90",
-      "title": "Shopify går native og React samler seg i Ghana",
-      "link": "https://www.kode24.no/artikkel/shopify-gar-native-og-react-samler-seg-i-ghana/275487",
-      "source": "Kode24",
-      "summary": "Meta skal ikke eie React lenger. Snart møtes nye React Foundation i Afrika og Storbritannia.",
-      "published": "2026-10-15T13:45:00Z"
-    },
-    {
-      "id": "77b05d6f428c4bea89aa5fdc976c17a1a7c0ffca",
-      "title": "Google lar deg kjøre vibbekoda Android-apper uten publisering",
-      "link": "https://www.kode24.no/artikkel/google-lar-deg-kjore-vibbekoda-android-apper-uten-publisering/275317",
-      "source": "Kode24",
-      "summary": "Den nye funksjonen er laget for bølgen av personlige apper som bygges med kunstig intelligens.",
-      "published": "2026-10-15T12:30:00Z"
     },
     {
       "id": "ada3a6d29e91d72df3fe284c89d86c38e3c8f674",
@@ -252,14 +260,6 @@
       "source": "GitHub Blog",
       "summary": "As we kick off Cybersecurity Awareness Month, the GitHub Bug Bounty team spotlights @vaib25vicky, exploring their methodology, techniques, and experiences hacking on GitHub. The post How one bug bounty researcher chooses the features they investigate appeared first on The GitHub Blog.",
       "published": "2026-10-08T17:02:52Z"
-    },
-    {
-      "id": "3902c431970b627ea2f12e6a5f983ba2877f3a57",
-      "title": "Secret protection must scale with software",
-      "link": "https://github.blog/ai-and-ml/github-copilot/secret-protection-must-scale-with-software/",
-      "source": "GitHub Blog",
-      "summary": "Developers aren’t becoming more careless; they’re being outpaced. The tools that let developers create more software should also take on more of the work of protecting it. The post Secret protection must scale with software appeared first on The GitHub Blog.",
-      "published": "2026-10-07T17:45:34Z"
     },
     {
       "id": "14b0cf090f778bb176ae38df8e64ae1cc27eda78",
