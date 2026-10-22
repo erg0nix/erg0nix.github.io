@@ -1,12 +1,68 @@
 {
-  "generated_at": "2026-10-21T11:25:12.769965Z",
+  "generated_at": "2026-10-22T11:25:09.984678Z",
   "items": [
     {
-      "id": "140214f9e5d258a5b9ada2dd1c658e10c7946004",
-      "title": "Angrep i gang: PHP-sårbarheter lammer globalt",
-      "link": "https://www.kode24.no/artikkel/angrep-i-gang-php-sarbarheter-lammer-globalt/276139",
+      "id": "3325833f5cbdaa6ccd039474bd45eacfa87c2488",
+      "title": "Slik håndterte de PHP-krisen: Sendte passord til 10.000 journalister",
+      "link": "https://www.kode24.no/artikkel/slik-handterte-de-php-krisen-sendte-passord-til-10000-journalister/276234",
       "source": "Kode24",
-      "summary": "To sårbarheter i PHP gjør at versjoner bør tas av internett fram til ny patch er klar onsdag klokken 16. Angrep er allerede i gang.",
+      "summary": "Mens Ramsalt nok ned sine tjenester, la Labrador CMS på et midlertidig sikkerhetslag for 471 publikasjoner i 20 land. – Det var en ganske hektisk dag på jobben, ja.",
+      "published": "2026-10-22T11:04:59Z"
+    },
+    {
+      "id": "4de52091257205d1a6380b9143054e14adb4111a",
+      "title": "Advarer mot KI-felle: Ber deg sette av mer tid til pull requests",
+      "link": "https://www.kode24.no/artikkel/advarer-mot-ki-felle-ber-deg-sette-av-mer-tid-til-pull-requests/275864",
+      "source": "Kode24",
+      "summary": "– PR-gjennomganger blir stadig viktigere etterhvert som bruken av KI-assistert kode øker, skriver Sercan Leylek, som også lærer masse av dem.",
+      "published": "2026-10-22T09:53:40Z"
+    },
+    {
+      "id": "1720b44df0c4b18790dfaf29ed2c9540b6a60313",
+      "title": "Epinova ansetter fire – én av dem rett fra studiet",
+      "link": "https://www.kode24.no/artikkel/epinova-ansetter-fire-en-av-dem-rett-fra-studiet/276029",
+      "source": "Kode24",
+      "summary": "Epinova styrker laget før sammenslåingen til NOVA med to testere og to utviklere. – Jeg stiller mange dumme spørsmål, sier den eneste junioren.",
+      "published": "2026-10-22T06:54:22Z"
+    },
+    {
+      "id": "1be82541919d7514db1f43185eabc2820843d643",
+      "title": "PHP-oppdatering ute: – Installer snarest!",
+      "link": "https://www.kode24.no/artikkel/php-oppdatering-ute-installer-snarest/276208",
+      "source": "Kode24",
+      "summary": "Også flere norske tjenester ble tatt av lufta før de kritiske PHP-hullene ble tetta.",
+      "published": "2026-10-22T06:09:36Z"
+    },
+    {
+      "id": "45f6debae8f011d4b7bc5979045058326d5f0324",
+      "title": "Arbeidspress og KI-tvang: Annenhver utvikler trives ikke bedre med KI",
+      "link": "https://www.kode24.no/artikkel/arbeidspress-og-ki-tvang-annenhver-utvikler-trives-ikke-bedre-med-ki/275212",
+      "source": "Kode24",
+      "summary": "Mange utviklere opplever ikke økt trivsel, men økt arbeidspress og KI-tvang, viser kode24s tall. Forskere er ikke overrasket.",
+      "published": "2026-10-22T03:00:00Z"
+    },
+    {
+      "id": "8f99f6dadd2c022890ba549ac6eb383b40753e10",
+      "title": "The bridge to agent-scale Git infrastructure",
+      "link": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
+      "source": "GitHub Blog",
+      "summary": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appeared first on The GitHub Blog.",
+      "published": "2026-10-21T16:00:00Z"
+    },
+    {
+      "id": "418ff7e22ff96175ddf6ded3a7a835d5613f086e",
+      "title": "Velg riktig modell, få lavere pris og miljøavtrykk",
+      "link": "https://www.kode24.no/artikkel/velg-riktig-modell-fa-lavere-pris-og-miljoavtrykk/274960",
+      "source": "Kode24",
+      "summary": "– Dette er ikke ment til å gi KI-skam eller å få oss tilbake til utviklerrollen ala 2022, skriver Elisabeth Karud. Men hun har noen grønne argumenter for færre tokens.",
+      "published": "2026-10-21T13:51:14Z"
+    },
+    {
+      "id": "140214f9e5d258a5b9ada2dd1c658e10c7946004",
+      "title": "PHP-sårbarheter: Labrador med ekstra sikkerhetslag på CMS",
+      "link": "https://www.kode24.no/artikkel/php-sarbarheter-labrador-med-ekstra-sikkerhetslag-pa-cms/276139",
+      "source": "Kode24",
+      "summary": "Angrepene er i gang etter at to sårbarheter i PHP ble eksponert globalt. Norske Labrador legger et ekstra sikkerhetslag på sine CMS-tjenester.",
       "published": "2026-10-21T10:46:08Z"
     },
     {
@@ -43,11 +99,19 @@
     },
     {
       "id": "7141e1d9c298c2873206737031ffb560d5a85c19",
-      "title": "Jobber fra Italia: – Alt jeg trenger er mac-en og internett",
+      "title": "Jobber fra Italia: – Alt jeg trenger er Mac-en og internett",
       "link": "https://www.kode24.no/artikkel/jobber-fra-italia-alt-jeg-trenger-er-mac-en-og-internett/275696",
       "source": "Kode24",
       "summary": "Mange drømmer om å ta med seg jobben til varmere strøk, men utvikler Simen har faktisk gjort det. – Det er ikke helt feil å bytte ut SATS med sykkelturer blant toskanske vinranker, sier han.",
       "published": "2026-10-21T03:00:00Z"
+    },
+    {
+      "id": "66d482bb5e43a968304df4cb520c3ed894188df7",
+      "title": "Help set Go's priorities for next year",
+      "link": "https://go.dev/blog/survey2026-announce",
+      "source": "Go Blog",
+      "summary": "Share your experience with Go in the 2026 Go Developer Survey, open through November 3.",
+      "published": "2026-10-21T00:00:00Z"
     },
     {
       "id": "fbec33bd28b4042ee248c464722f0a76086c4ff3",
@@ -130,54 +194,6 @@
       "published": "2026-10-19T18:47:22Z"
     },
     {
-      "id": "2d634ec8e7a4722a81e2c330c9f818d5abf6191e",
-      "title": "Anthropic ansetter færre juniorer",
-      "link": "https://www.kode24.no/artikkel/anthropic-ansetter-faerre-juniorer-1/275707",
-      "source": "Kode24",
-      "summary": "Nyansatte juniorer har sunket fra 27 prosent til bare 9 prosent.",
-      "published": "2026-10-19T11:13:45Z"
-    },
-    {
-      "id": "8c419e3494d35cea9d4a4f91da981c15f4917f60",
-      "title": "TDC 2026 i gang: – Utrolig viktig for regionen",
-      "link": "https://www.kode24.no/artikkel/tdc-2026-i-gang-utrolig-viktig-for-regionen/275754",
-      "source": "Kode24",
-      "summary": "– Konferansen bidrar med å holde teknologimiljøet i Trodheim aktivt og tilgjengelig, mener arrangørene. Se bildene!",
-      "published": "2026-10-19T11:07:12Z"
-    },
-    {
-      "id": "ebc3a973d8936642e339f82f071cb5c2a0b40d29",
-      "title": "Cyberlandslaget på sjetteplass i EM: «Veldig stolte»",
-      "link": "https://www.kode24.no/artikkel/cyberlandslaget-pa-sjetteplass-i-em-veldig-stolte/275464",
-      "source": "Kode24",
-      "summary": "Norden dominerer årets EM i cybersikkerhet. Norge har ikke klatret så høyt på mange år.",
-      "published": "2026-10-19T07:51:26Z"
-    },
-    {
-      "id": "a5135159d22bf8349d24dcb9fa45fc603f66a9e9",
-      "title": "Eks-KI-sjef hopper av for startup med Stordalen",
-      "link": "https://www.kode24.no/artikkel/eks-ki-sjef-hopper-av-for-startup-med-stordalen/275725",
-      "source": "Kode24",
-      "summary": "Simen Isaksen er ferdig i Computas og starter nytt selskap med Petter Stordalen som investor.",
-      "published": "2026-10-19T07:49:09Z"
-    },
-    {
-      "id": "ab6a7c6607e94671a59bccc5a40e026a4d4ca184",
-      "title": "Regjeringen vil ha aldersgrense også på spill som Roblox",
-      "link": "https://www.kode24.no/artikkel/regjeringen-vil-ha-aldersgrense-ogsa-pa-spill-som-roblox/275699",
-      "source": "Kode24",
-      "summary": "– Det finnes enkelte spillplattformer i dag som er litt maskert som et spill, men som egentlig er fulle av funksjoner som algoritmestyring og ulovlig markedsføring mot barn.",
-      "published": "2026-10-19T06:44:01Z"
-    },
-    {
-      "id": "62f657f683e6087557c0b06ce3c68291d6e290c8",
-      "title": "– Hvor skal vi få erfaring med plattform­utvikling?",
-      "link": "https://www.kode24.no/artikkel/hvor-skal-vi-fa-erfaring-med-plattformutvikling/275494",
-      "source": "Kode24",
-      "summary": "Unge søkere blir møtt med høye krav til plattform-jobbene. – Vi kan ikke forvente å få flere erfarne plattformutviklere hvis vi ikke lar de uerfarne få muligheten, skriver Ellen Yu.",
-      "published": "2026-10-19T03:00:00Z"
-    },
-    {
       "id": "62b23ef21dc70db30c402893e1953578ac39411c",
       "title": "Interactive refactoring in gopls",
       "link": "https://go.dev/blog/interactive-refactoring",
@@ -254,14 +270,6 @@
       "published": "2026-10-09T16:00:00Z"
     },
     {
-      "id": "8df75a4103237d86bfae81d269de24842e7353d5",
-      "title": "How one bug bounty researcher chooses the features they investigate",
-      "link": "https://github.blog/security/how-one-bug-bounty-researcher-chooses-the-features-they-investigate/",
-      "source": "GitHub Blog",
-      "summary": "As we kick off Cybersecurity Awareness Month, the GitHub Bug Bounty team spotlights @vaib25vicky, exploring their methodology, techniques, and experiences hacking on GitHub. The post How one bug bounty researcher chooses the features they investigate appeared first on The GitHub Blog.",
-      "published": "2026-10-08T17:02:52Z"
-    },
-    {
       "id": "14b0cf090f778bb176ae38df8e64ae1cc27eda78",
       "title": "Arch-specific SIMD in Go",
       "link": "https://go.dev/blog/archsimd",
@@ -317,15 +325,6 @@
       "source": "Go Blog",
       "summary": "Introducing the new programmatic API for pkg.go.dev, allowing developers to fetch package and module data directly.",
       "published": "2026-05-21T00:00:00Z"
-    },
-    {
-      "id": "a5addf8606df3e8a369a2fc506ad4a05f7e158ef",
-      "title": "Type Construction and Cycle Detection",
-      "link": "https://go.dev/blog/type-construction-and-cycle-detection",
-      "source": "Go Blog",
-      "summary": "Go 1.26 simplifies type construction and enhances cycle detection for certain kinds of recursive types.",
-      "published": "2026-03-24T00:00:00Z",
-      "image": "https://go.dev/blog/type-construction-and-cycle-detection/01.svg"
     }
   ]
 }
