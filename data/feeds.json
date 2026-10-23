@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-10-22T11:25:09.984678Z",
+  "generated_at": "2026-10-23T11:14:54.887295Z",
   "items": [
+    {
+      "id": "fa270698650cb382479775b7007d76df8e91bcfa",
+      "title": "Bekymra for flere KI-kutt: – Flere vil gjøre samme regnestykke som DNB",
+      "link": "https://www.kode24.no/artikkel/bekymra-for-flere-ki-kutt-flere-vil-gjore-samme-regnestykke-som-dnb/276342",
+      "source": "Kode24",
+      "summary": "– Spør arbeidsgiveren din hvordan dere skal ta ut gevinsten av KI, oppfordrer nestleder Arne Fredrik Håstein i Finansforbundet, etter DNB-kuttene.",
+      "published": "2026-10-23T08:26:37Z"
+    },
+    {
+      "id": "0c9b100be39b19da3a405c946912d8043a3da186",
+      "title": "Ingen tegn til hacking i Norge etter PHP-hullene",
+      "link": "https://www.kode24.no/artikkel/ingen-tegn-til-hacking-i-norge-etter-php-hullene/276317",
+      "source": "Kode24",
+      "summary": "– Men vi vet at på global basis er det tilgjengelig angrepskode som utnytter sårbarheten, og det har internasjonalt vært forsøk på å utnytte sårbarheten.",
+      "published": "2026-10-23T06:36:00Z"
+    },
+    {
+      "id": "1a622aa03d059be0c1323f9314ccef29db6264ee",
+      "title": "KI tok koden fra koderne. Nå savner de den",
+      "link": "https://www.kode24.no/artikkel/ki-tok-koden-fra-koderne-na-savner-de-den/276301",
+      "source": "Kode24",
+      "summary": "Norske utviklere forteller at agentene tar fra dem arbeidsgleden. – Det skyller en bølge av misnøye over bransjen, skriver Ole Petter i ukas nyhetsbrev.",
+      "published": "2026-10-23T03:00:00Z"
+    },
+    {
+      "id": "fd319a83ade2969d4a0f3b0e0ee05f47a0ab997c",
+      "title": "How bug bounty sharpens one researcher’s security skills",
+      "link": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/",
+      "source": "GitHub Blog",
+      "summary": "As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers. The post How bug bounty sharpens one researcher’s security skills appeared first on The GitHub Blog.",
+      "published": "2026-10-22T17:21:30Z"
+    },
+    {
+      "id": "4e883ff7e4e327568dc87213b4a3bfae101b122a",
+      "title": "Håper på 50.000 norske deltakere i NM i KI i 2027",
+      "link": "https://www.kode24.no/artikkel/haper-pa-50000-norske-deltakere-i-nm-i-ki-i-2027/276257",
+      "source": "Kode24",
+      "summary": "På nyåret får norgesmesterskapet i kunstig intelligens regionale kvalifiseringer og finale hos Oljefondet. Men alle kan delta digitalt uansett.",
+      "published": "2026-10-22T13:26:37Z"
+    },
     {
       "id": "3325833f5cbdaa6ccd039474bd45eacfa87c2488",
       "title": "Slik håndterte de PHP-krisen: Sendte passord til 10.000 journalister",
@@ -154,38 +194,6 @@
       "published": "2026-10-20T09:30:00Z"
     },
     {
-      "id": "9000f168f2a523db703fc8232b613f45ea63ba1d",
-      "title": "Tiril er Cobriefs nye «design engineer»",
-      "link": "https://www.kode24.no/artikkel/tiril-er-cobriefs-nye-design-engineer/275818",
-      "source": "Kode24",
-      "summary": "Tiril Uggerud skal gjennom både koding og design hjelpe selskaper med anbud.",
-      "published": "2026-10-20T07:47:59Z"
-    },
-    {
-      "id": "a41593d0c859093ff6f4e775a51f4c36584b5f5c",
-      "title": "Telenor-rapport: Stadig kortere tid til å reagere på angrep",
-      "link": "https://www.kode24.no/artikkel/telenor-rapport-stadig-kortere-tid-til-a-reagere-pa-angrep/275906",
-      "source": "Kode24",
-      "summary": "Kunstig intelligens gjør at norske bedrifter har stadig kortere tid til å reagere på cyberangrep, skriver Telenor i sin nye sikkerhetsrapport.",
-      "published": "2026-10-20T07:03:55Z"
-    },
-    {
-      "id": "8ade335bc1f41f14afacf1e9dfe884f86111ce25",
-      "title": "NorForge fikk innblikk i masseangrep fra hackere: – En ny verden nå",
-      "link": "https://www.kode24.no/artikkel/norforge-fikk-innblikk-i-masseangrep-fra-hackere-en-ny-verden-na/275889",
-      "source": "Kode24",
-      "summary": "Et norskledet sikkerhetsselskap i USA advarer etter å ha sett hvordan hackere tok i bruk vanlige KI-verktøy for å utføre svært avanserte angrep.",
-      "published": "2026-10-20T06:26:24Z"
-    },
-    {
-      "id": "599741d4e38ea7522f4a5a095316d41c6f895b38",
-      "title": "– Jeg savner å være en god utvikler",
-      "link": "https://www.kode24.no/artikkel/jeg-savner-a-vaere-en-god-utvikler/275792",
-      "source": "Kode24",
-      "summary": "Elise Kristiansen er uenig i at tida for middelmådige utviklere er forbi. – For er det én ting utvikling med KI premierer, er det nettopp middelmådighet.",
-      "published": "2026-10-20T03:00:00Z"
-    },
-    {
       "id": "88c6cef59a0bb838017b0e3c450c8dfb7929d794",
       "title": "How to continue a GitHub Copilot app session in VS Code",
       "link": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
@@ -260,14 +268,6 @@
       "source": "GitHub Blog",
       "summary": "Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright. The post GitHub Copilot app for Beginners: How to teach Copilot about your codebase appeared first on The GitHub Blog.",
       "published": "2026-10-12T17:43:59Z"
-    },
-    {
-      "id": "e3bcf97f7de2ad009c502c0f32d71ae94436564e",
-      "title": "Hack the World: Why hackathons are still the best place to learn to build",
-      "link": "https://github.blog/developer-skills/career-growth/hack-the-world-why-hackathons-are-still-the-best-place-to-learn-to-build/",
-      "source": "GitHub Blog",
-      "summary": "The barriers to building software have collapsed. Today, anyone can build. Hackathons are a great place to start learning. The post Hack the World: Why hackathons are still the best place to learn to build appeared first on The GitHub Blog.",
-      "published": "2026-10-09T16:00:00Z"
     },
     {
       "id": "14b0cf090f778bb176ae38df8e64ae1cc27eda78",
