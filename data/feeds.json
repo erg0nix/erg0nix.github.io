@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-10-23T11:14:54.887295Z",
+  "generated_at": "2026-10-24T10:34:06.148241Z",
   "items": [
+    {
+      "id": "913597eb4312ab9317d3b9e03b5beb346b83cab8",
+      "title": "KI fant PHP-hullene: – Gammel kode er nå lavthengende frukt",
+      "link": "https://www.kode24.no/artikkel/ki-fant-php-hullene-gammel-kode-er-na-lavthengende-frukt/276246",
+      "source": "Kode24",
+      "summary": "Først da forskere med kunstig intelligens avslørte de to sårbarhetene, fikk verden panikk. – All gammel kode med menneskelige feil er nå lavthengende frukt, advarer norsk KI-ekspert.",
+      "published": "2026-10-23T11:45:30Z"
+    },
+    {
+      "id": "09110c6f89a1e007c7893daec18290e985a7a53d",
+      "title": "Undersøker flyvende lys, fant jordnært problem med sensorer",
+      "link": "https://www.kode24.no/artikkel/undersoker-flyvende-lys-fant-jordnaert-problem-med-sensorer/275833",
+      "source": "Kode24",
+      "summary": "– Problemet finnes overalt hvor kameraer, miljøsensorer, industrielle målesystemer og menneskelige observasjoner skal brukes sammen, skriver Daniel H. Nordvik.",
+      "published": "2026-10-23T10:42:06Z"
+    },
+    {
+      "id": "022727312b167f2b9d63a9e4fb372b7e28d8aa5b",
+      "title": "Arc legges ned. Satser på KI-nettleser i stedet",
+      "link": "https://www.kode24.no/artikkel/arc-legges-ned-satser-pa-ki-nettleser-i-stedet/276331",
+      "source": "Kode24",
+      "summary": "The Browser Company peker på sikkerhetsjobbing som årsak når de legger ned utvikler-favoritt. – Mister tilliten vår, skriver utvikler på X.",
+      "published": "2026-10-23T08:49:38Z"
+    },
     {
       "id": "fa270698650cb382479775b7007d76df8e91bcfa",
       "title": "Bekymra for flere KI-kutt: – Flere vil gjøre samme regnestykke som DNB",
@@ -168,30 +192,6 @@
       "source": "Kode24",
       "summary": "USAs regjering har nedlagt forbud mot at landets myndigheter bruker kunstig intelligens fra den kinesiske KI-tjenesten DeepSeek.",
       "published": "2026-10-20T13:49:17Z"
-    },
-    {
-      "id": "96b015467106289d56f8f8301a9d00c96eb15e3b",
-      "title": "– Vi kan ikke gamble med fremtidens ingeniører",
-      "link": "https://www.kode24.no/artikkel/vi-kan-ikke-gamble-med-fremtidens-ingeniorer/276006",
-      "source": "Kode24",
-      "summary": "Regjeringen vil gi universitetene større frihet til å forme ingeniørutdanningene. Det reagerer NITO kraftig på.",
-      "published": "2026-10-20T13:31:24Z"
-    },
-    {
-      "id": "adeae0e1f356cb345b9df34118c7f531f04de047",
-      "title": "Fikk 282 angreps-meldinger i vår: – Rekordmange",
-      "link": "https://www.kode24.no/artikkel/fikk-282-angreps-meldinger-i-var-rekordmange/275968",
-      "source": "Kode24",
-      "summary": "Datatilsynet har aldri fått så mange meldinger om personopplysninger på avveie som våren 2026.",
-      "published": "2026-10-20T11:00:00Z"
-    },
-    {
-      "id": "10a81874641609003d3f6282e4e0de6979bb592b",
-      "title": "Nytt kodespråk er vanskelig for KI å forstå",
-      "link": "https://www.kode24.no/artikkel/nytt-kodesprak-er-vanskelig-for-ki-a-forsta/275925",
-      "source": "Kode24",
-      "summary": "Dominik Picheta utviklet programmeringsspråket KillSwitch med mål om å gjøre det vanskelig for språkmodeller å forstå og bruke kode.",
-      "published": "2026-10-20T09:30:00Z"
     },
     {
       "id": "88c6cef59a0bb838017b0e3c450c8dfb7929d794",
