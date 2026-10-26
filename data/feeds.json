@@ -1,6 +1,30 @@
 {
-  "generated_at": "2026-10-25T10:58:56.190911Z",
+  "generated_at": "2026-10-26T12:31:21.295735Z",
   "items": [
+    {
+      "id": "5bdac346cd1392e625a4a66ca6fd6c081dd62ade",
+      "title": "Tet testa Claude: Følte seg raskere, ingen målbar effekt",
+      "link": "https://www.kode24.no/artikkel/tet-testa-claude-folte-seg-raskere-ingen-malbar-effekt/276379",
+      "source": "Kode24",
+      "summary": "Tet Digital deler resultatene av sin KI-pilot: – Produktlederne så ikke den samme produktivitets- og kvalitetseffekten som utviklerne, skriver Stein Inge Morisbak og Marte Fritzøe.",
+      "published": "2026-10-26T10:31:20Z"
+    },
+    {
+      "id": "2817767d252ec1a09e727553aa72d39c6405f5d1",
+      "title": "Gir seg som selvstendig konsulent: – Savna å være i et fagmiljø",
+      "link": "https://www.kode24.no/artikkel/gir-seg-som-selvstendig-konsulent-savna-a-vaere-i-et-fagmiljo/276430",
+      "source": "Kode24",
+      "summary": "Twoday ansetter Ulf Seim Kavlie og Espen Eriksmoen Løke.",
+      "published": "2026-10-26T08:32:27Z"
+    },
+    {
+      "id": "2db572e57f1882e8929d4db1f04d486f0e2bb8d6",
+      "title": "Advarer mot KI-gjeld: – Utviklere må samarbeide mer",
+      "link": "https://www.kode24.no/artikkel/advarer-mot-ki-gjeld-utviklere-ma-samarbeide-mer/275254",
+      "source": "Kode24",
+      "summary": "Mens bedrifter tar av med KI-bruk for å effektivisere, samler de opp KI-gjeld, mener ekspert. Nå utfordrer hun utviklere til å samarbeide med flere fagfolk for å bli kvitt den.",
+      "published": "2026-10-26T04:00:00Z"
+    },
     {
       "id": "913597eb4312ab9317d3b9e03b5beb346b83cab8",
       "title": "KI fant PHP-hullene: – Gammel kode er nå lavthengende frukt",
@@ -154,22 +178,6 @@
       "published": "2026-10-21T08:14:15Z"
     },
     {
-      "id": "9f3fc2a335eeb755b79b9f21fb8d437f8b50358d",
-      "title": "Rapport: KI både styrker og svekker Norges forsvar mot dataangrep",
-      "link": "https://www.kode24.no/artikkel/rapport-ki-bade-styrker-og-svekker-norges-forsvar-mot-dataangrep/276066",
-      "source": "Kode24",
-      "summary": "– Økt bruk av KI er et tveegget sverd, sier Nkom-direktør John-Eivind Velure.",
-      "published": "2026-10-21T07:15:51Z"
-    },
-    {
-      "id": "7141e1d9c298c2873206737031ffb560d5a85c19",
-      "title": "Jobber fra Italia: – Alt jeg trenger er Mac-en og internett",
-      "link": "https://www.kode24.no/artikkel/jobber-fra-italia-alt-jeg-trenger-er-mac-en-og-internett/275696",
-      "source": "Kode24",
-      "summary": "Mange drømmer om å ta med seg jobben til varmere strøk, men utvikler Simen har faktisk gjort det. – Det er ikke helt feil å bytte ut SATS med sykkelturer blant toskanske vinranker, sier han.",
-      "published": "2026-10-21T03:00:00Z"
-    },
-    {
       "id": "66d482bb5e43a968304df4cb520c3ed894188df7",
       "title": "Help set Go's priorities for next year",
       "link": "https://go.dev/blog/survey2026-announce",
@@ -184,14 +192,6 @@
       "source": "GitHub Blog",
       "summary": "Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results. The post How 3 Java Champions are using GitHub Copilot for increased productivity appeared first on The GitHub Blog.",
       "published": "2026-10-20T16:05:03Z"
-    },
-    {
-      "id": "438b4f17a4ec29aed8ac1f9edb3154913aecb019",
-      "title": "USA forbyr å bruke DeepSeek i staten",
-      "link": "https://www.kode24.no/artikkel/usa-forbyr-a-bruke-deepseek-i-staten/276042",
-      "source": "Kode24",
-      "summary": "USAs regjering har nedlagt forbud mot at landets myndigheter bruker kunstig intelligens fra den kinesiske KI-tjenesten DeepSeek.",
-      "published": "2026-10-20T13:49:17Z"
     },
     {
       "id": "88c6cef59a0bb838017b0e3c450c8dfb7929d794",
