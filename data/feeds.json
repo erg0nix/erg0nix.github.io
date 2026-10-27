@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-10-26T12:31:21.295735Z",
+  "generated_at": "2026-10-27T11:49:16.910454Z",
   "items": [
+    {
+      "id": "144fe46d6f5bbf55458e9a27154af92dbbb343b8",
+      "title": "60.000 Microsoft-ansatte får tilbud om sluttpakke",
+      "link": "https://www.kode24.no/artikkel/60000-microsoft-ansatte-far-tilbud-om-sluttpakke/276568",
+      "source": "Kode24",
+      "summary": "Nekter for at runda handler om KI-kutt.",
+      "published": "2026-10-27T09:33:38Z"
+    },
+    {
+      "id": "e9d9e5c1ba3cd83d95167baf132fb1a0491c7350",
+      "title": "Norske medier tar Meta til retten: «Særdeles ugreit»",
+      "link": "https://www.kode24.no/artikkel/norske-medier-tar-meta-til-retten-saerdeles-ugreit/276548",
+      "source": "Kode24",
+      "summary": "Mener nye brukervilkårene gir Meta rett til å skrape alt innhold de produserer, også bak betalingsmurer.",
+      "published": "2026-10-27T08:01:31Z"
+    },
+    {
+      "id": "caa9b4566cd2feecde0843fe068d6e9ed631758c",
+      "title": "2 av 5 føler økt arbeids­press med KI: «Naturlig»",
+      "link": "https://www.kode24.no/artikkel/2-av-5-foler-okt-arbeidspress-med-ki-naturlig/275987",
+      "source": "Kode24",
+      "summary": "Alis Wiken Wilson elsker hvordan KI gjør henne mer effektiv, men ikke hvordan teknologien gi mindre rom for sosialisering.",
+      "published": "2026-10-27T04:00:00Z"
+    },
+    {
+      "id": "9f6671db7640a828cacd882abc0fe12ae77aa47e",
+      "title": "Hardt ut mot EU: – Vil gi dataene våre gratis til KI-selskap",
+      "link": "https://www.kode24.no/artikkel/hardt-ut-mot-eu-vil-gi-dataene-vare-gratis-til-ki-selskap/276422",
+      "source": "Kode24",
+      "summary": "Personvernorganisasjon hevder at EU-råd vil la KI-selskaper bruke person­opplysninger uten å spørre. – Endrer ikke kravene, mener advokat.",
+      "published": "2026-10-26T14:40:53Z"
+    },
+    {
+      "id": "e86a889745921c9820bfcc04331fab70215fc561",
+      "title": "Elvis-eierne saksøker Anthropic",
+      "link": "https://www.kode24.no/artikkel/elvis-eierne-saksoker-anthropic/276424",
+      "source": "Kode24",
+      "summary": "Authentic Brands Group saksøker Anthropic for angivelig å ha brukt Presleys sanger til å trene opp modellene sine uten tillatelse.",
+      "published": "2026-10-26T12:23:14Z"
+    },
     {
       "id": "5bdac346cd1392e625a4a66ca6fd6c081dd62ade",
       "title": "Tet testa Claude: Følte seg raskere, ingen målbar effekt",
@@ -24,6 +64,14 @@
       "source": "Kode24",
       "summary": "Mens bedrifter tar av med KI-bruk for å effektivisere, samler de opp KI-gjeld, mener ekspert. Nå utfordrer hun utviklere til å samarbeide med flere fagfolk for å bli kvitt den.",
       "published": "2026-10-26T04:00:00Z"
+    },
+    {
+      "id": "62b9aacb66ffa5924e892296ef40d52147daa957",
+      "title": "Our Response To The eMudhra Key Disclosure Incident",
+      "link": "https://go.dev/blog/emudhra-incident",
+      "source": "Go Blog",
+      "summary": "How the Go team responded to the eMudhra certificate compromise with our first-ever URGENT track security release.",
+      "published": "2026-10-26T00:00:00Z"
     },
     {
       "id": "913597eb4312ab9317d3b9e03b5beb346b83cab8",
@@ -94,7 +142,7 @@
       "title": "Slik håndterte de PHP-krisen: Sendte passord til 10.000 journalister",
       "link": "https://www.kode24.no/artikkel/slik-handterte-de-php-krisen-sendte-passord-til-10000-journalister/276234",
       "source": "Kode24",
-      "summary": "Mens Ramsalt nok ned sine tjenester, la Labrador CMS på et midlertidig sikkerhetslag for 471 publikasjoner i 20 land. – Det var en ganske hektisk dag på jobben, ja.",
+      "summary": "Mens Ramsalt tok ned sine tjenester, la Labrador CMS på et midlertidig sikkerhetslag for 471 publikasjoner i 20 land. – Det var en ganske hektisk dag på jobben, ja.",
       "published": "2026-10-22T11:04:59Z"
     },
     {
@@ -136,46 +184,6 @@
       "source": "GitHub Blog",
       "summary": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appeared first on The GitHub Blog.",
       "published": "2026-10-21T16:00:00Z"
-    },
-    {
-      "id": "418ff7e22ff96175ddf6ded3a7a835d5613f086e",
-      "title": "Velg riktig modell, få lavere pris og miljøavtrykk",
-      "link": "https://www.kode24.no/artikkel/velg-riktig-modell-fa-lavere-pris-og-miljoavtrykk/274960",
-      "source": "Kode24",
-      "summary": "– Dette er ikke ment til å gi KI-skam eller å få oss tilbake til utviklerrollen ala 2022, skriver Elisabeth Karud. Men hun har noen grønne argumenter for færre tokens.",
-      "published": "2026-10-21T13:51:14Z"
-    },
-    {
-      "id": "140214f9e5d258a5b9ada2dd1c658e10c7946004",
-      "title": "PHP-sårbarheter: Labrador med ekstra sikkerhetslag på CMS",
-      "link": "https://www.kode24.no/artikkel/php-sarbarheter-labrador-med-ekstra-sikkerhetslag-pa-cms/276139",
-      "source": "Kode24",
-      "summary": "Angrepene er i gang etter at to sårbarheter i PHP ble eksponert globalt. Norske Labrador legger et ekstra sikkerhetslag på sine CMS-tjenester.",
-      "published": "2026-10-21T10:46:08Z"
-    },
-    {
-      "id": "c43a87b447dca6491bcb43eb1403a76ec92672ef",
-      "title": "Linux skroter kravet om KI-merking av kode",
-      "link": "https://www.kode24.no/artikkel/linux-skroter-kravet-om-ki-merking-av-kode/276097",
-      "source": "Kode24",
-      "summary": "Linus Torvalds mener utviklere bør vurderes ut fra kvaliteten på koden, ikke verktøyene de bruker. – Ser du ikke hvor utrolig dumme sånne regler hadde vært?",
-      "published": "2026-10-21T09:41:37Z"
-    },
-    {
-      "id": "6ee22cd26c8c1aae7e3d2847b36bb3c4dbd3e4b9",
-      "title": "DNB tjente 10 milliarder sist kvartal, men nedbemanner 400 folk",
-      "link": "https://www.kode24.no/artikkel/dnb-tjente-10-milliarder-sist-kvartal-men-nedbemanner-400-folk/276107",
-      "source": "Kode24",
-      "summary": "– De aller fleste har jobb og en trygg økonomi, sier DNB-sjefen, som tjener godt på dette samtidig som de står midt i en nedbemanning.",
-      "published": "2026-10-21T09:15:35Z"
-    },
-    {
-      "id": "e2a6a046139a59a35c31ee2291ec3e018f0c7b17",
-      "title": "Danske Bank lanserer egen MCP-server",
-      "link": "https://www.kode24.no/artikkel/danske-bank-lanserer-egen-mcp-server/276085",
-      "source": "Kode24",
-      "summary": "Hevder å være den første banken i Norden som legger til rette for agenter i kontoen.",
-      "published": "2026-10-21T08:14:15Z"
     },
     {
       "id": "66d482bb5e43a968304df4cb520c3ed894188df7",
@@ -317,14 +325,6 @@
       "source": "Go Blog",
       "summary": "Go 1.27 adds generic methods, encoding/json/v2 package, uuid package, faster memory allocation, goroutine leak profiles, and more.",
       "published": "2026-08-19T00:00:00Z"
-    },
-    {
-      "id": "7ae1dda67f7f810e6d77f7a3e7778ae9abd39902",
-      "title": "Introducing the pkg.go.dev API",
-      "link": "https://go.dev/blog/pkgsite-api",
-      "source": "Go Blog",
-      "summary": "Introducing the new programmatic API for pkg.go.dev, allowing developers to fetch package and module data directly.",
-      "published": "2026-05-21T00:00:00Z"
     }
   ]
 }
