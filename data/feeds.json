@@ -1,6 +1,46 @@
 {
-  "generated_at": "2026-10-27T11:49:16.910454Z",
+  "generated_at": "2026-10-28T12:23:29.260240Z",
   "items": [
+    {
+      "id": "7b74d992ebb71d6a035838a452b86b702752b32d",
+      "title": "Gjensidige ned­bemanner 40 fra utviklings­avdelingen",
+      "link": "https://www.kode24.no/artikkel/gjensidige-nedbemanner-40-fra-utviklingsavdelingen/276671",
+      "source": "Kode24",
+      "summary": "Tross sterke resultater, gjør blant annet KI at selskapet omorganiserer. Så langt kode24 vet, er de ennå ikke i land med sluttpakker.",
+      "published": "2026-10-28T08:38:43Z"
+    },
+    {
+      "id": "933ab5715d5dbd7bc7c20fc8ebff84cd442e395b",
+      "title": "NSM hever risikonivået til nest høyeste nivå: «HØYT»",
+      "link": "https://www.kode24.no/artikkel/nsm-hever-risikonivaet-til-nest-hoyeste-niva-hoyt/276655",
+      "source": "Kode24",
+      "summary": "Nasjonal sikkerhetsmyndighet ber norske virksomheter bli enda flinkere.",
+      "published": "2026-10-28T07:20:58Z"
+    },
+    {
+      "id": "17e1b770f11094793c94e5846bde407d369cef92",
+      "title": "Her får ansatte fire­dagers­uke fremfor kutt",
+      "link": "https://www.kode24.no/artikkel/her-far-ansatte-firedagersuke-fremfor-kutt/276564",
+      "source": "Kode24",
+      "summary": "Med stor nok KI-gevinst, ga de sine ansatte firedagersuke i stedet for å sparke dem. Men teknologene må foreløpig jobbe full uke, og hverken Tekna eller Nito har noen firedagers-planer.",
+      "published": "2026-10-28T04:00:00Z"
+    },
+    {
+      "id": "5087f021860b97d376e565286db5df07ad686a82",
+      "title": "– En god utvikler har aldri vært den som skriver kode raskest",
+      "link": "https://www.kode24.no/artikkel/en-god-utvikler-har-aldri-vaert-den-som-skriver-kode-raskest/276376",
+      "source": "Kode24",
+      "summary": "– Derfor bør vi ikke bare spørre utviklere hvor mye raskere de leverer med KI, skriver Aimée Skevik, CTO i Itera.",
+      "published": "2026-10-27T13:21:04Z"
+    },
+    {
+      "id": "f5db1a60894001494d16d19d2d4b5d91ae9fb6e3",
+      "title": "CSS-Tricks er tilbake",
+      "link": "https://www.kode24.no/artikkel/css-tricks-er-tilbake/276591",
+      "source": "Kode24",
+      "summary": "Etter oppkjøpet av DigitalOcean og flere år i glemmeboka, skal sida nå tilbake til røttene.",
+      "published": "2026-10-27T11:49:59Z"
+    },
     {
       "id": "144fe46d6f5bbf55458e9a27154af92dbbb343b8",
       "title": "60.000 Microsoft-ansatte får tilbud om sluttpakke",
@@ -136,46 +176,6 @@
       "source": "Kode24",
       "summary": "På nyåret får norgesmesterskapet i kunstig intelligens regionale kvalifiseringer og finale hos Oljefondet. Men alle kan delta digitalt uansett.",
       "published": "2026-10-22T13:26:37Z"
-    },
-    {
-      "id": "3325833f5cbdaa6ccd039474bd45eacfa87c2488",
-      "title": "Slik håndterte de PHP-krisen: Sendte passord til 10.000 journalister",
-      "link": "https://www.kode24.no/artikkel/slik-handterte-de-php-krisen-sendte-passord-til-10000-journalister/276234",
-      "source": "Kode24",
-      "summary": "Mens Ramsalt tok ned sine tjenester, la Labrador CMS på et midlertidig sikkerhetslag for 471 publikasjoner i 20 land. – Det var en ganske hektisk dag på jobben, ja.",
-      "published": "2026-10-22T11:04:59Z"
-    },
-    {
-      "id": "4de52091257205d1a6380b9143054e14adb4111a",
-      "title": "Advarer mot KI-felle: Ber deg sette av mer tid til pull requests",
-      "link": "https://www.kode24.no/artikkel/advarer-mot-ki-felle-ber-deg-sette-av-mer-tid-til-pull-requests/275864",
-      "source": "Kode24",
-      "summary": "– PR-gjennomganger blir stadig viktigere etterhvert som bruken av KI-assistert kode øker, skriver Sercan Leylek, som også lærer masse av dem.",
-      "published": "2026-10-22T09:53:40Z"
-    },
-    {
-      "id": "1720b44df0c4b18790dfaf29ed2c9540b6a60313",
-      "title": "Epinova ansetter fire – én av dem rett fra studiet",
-      "link": "https://www.kode24.no/artikkel/epinova-ansetter-fire-en-av-dem-rett-fra-studiet/276029",
-      "source": "Kode24",
-      "summary": "Epinova styrker laget før sammenslåingen til NOVA med to testere og to utviklere. – Jeg stiller mange dumme spørsmål, sier den eneste junioren.",
-      "published": "2026-10-22T06:54:22Z"
-    },
-    {
-      "id": "1be82541919d7514db1f43185eabc2820843d643",
-      "title": "PHP-oppdatering ute: – Installer snarest!",
-      "link": "https://www.kode24.no/artikkel/php-oppdatering-ute-installer-snarest/276208",
-      "source": "Kode24",
-      "summary": "Også flere norske tjenester ble tatt av lufta før de kritiske PHP-hullene ble tetta.",
-      "published": "2026-10-22T06:09:36Z"
-    },
-    {
-      "id": "45f6debae8f011d4b7bc5979045058326d5f0324",
-      "title": "Arbeidspress og KI-tvang: Annenhver utvikler trives ikke bedre med KI",
-      "link": "https://www.kode24.no/artikkel/arbeidspress-og-ki-tvang-annenhver-utvikler-trives-ikke-bedre-med-ki/275212",
-      "source": "Kode24",
-      "summary": "Mange utviklere opplever ikke økt trivsel, men økt arbeidspress og KI-tvang, viser kode24s tall. Forskere er ikke overrasket.",
-      "published": "2026-10-22T03:00:00Z"
     },
     {
       "id": "8f99f6dadd2c022890ba549ac6eb383b40753e10",
