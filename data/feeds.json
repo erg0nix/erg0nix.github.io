@@ -1,6 +1,79 @@
 {
-  "generated_at": "2026-10-28T12:23:29.260240Z",
+  "generated_at": "2026-10-29T12:32:57.360707Z",
   "items": [
+    {
+      "id": "838d9911ffb4ebf32f0e072da2f05bcaf8ade474",
+      "title": "Varsler mye dyrere strøm på grunn av datasentre",
+      "link": "https://www.kode24.no/artikkel/varsler-mye-dyrere-strom-pa-grunn-av-datasentre/276831",
+      "source": "Kode24",
+      "summary": "– Hvis dagens sterke vekst av datasentre fortsetter, kan Norge stå overfor den raskeste veksten i kraftforbruk i moderne tid, advarer NVE.",
+      "published": "2026-10-29T11:35:07Z"
+    },
+    {
+      "id": "f64ca158e376f7bef2688aa43567c639ed13ab21",
+      "title": "Vil «knuse» Tripletex: Svarer med å stenge ham ute",
+      "link": "https://www.kode24.no/artikkel/vil-knuse-tripletex-svarer-med-a-stenge-ham-ute/276188",
+      "source": "Kode24",
+      "summary": "Greg Taube kjemper for mer dataportabilitet, og konkurrenten Tripletex er enig. Men nå har de utestengt ham fra API-et.",
+      "published": "2026-10-29T09:52:00Z"
+    },
+    {
+      "id": "e6e9d3e84041a6017e8054f4f7081bc2477c48a0",
+      "title": "Info om 40.000 DHS-ansatte lekka, blant annet ICE-agenter",
+      "link": "https://www.kode24.no/artikkel/info-om-40000-dhs-ansatte-lekka-blant-annet-ice-agenter/276777",
+      "source": "Kode24",
+      "summary": "– Erstatte anonymitet med ansvarlighet, sier Distributed Denial of Secrets om formålet med en søkbar database over de ansatte.",
+      "published": "2026-10-29T07:27:53Z"
+    },
+    {
+      "id": "bb8f879f9bb0ca53d6c261c75d42df7c2c9d3a39",
+      "title": "– Det er ikke gøy å jobbe på fabrikk",
+      "link": "https://www.kode24.no/artikkel/det-er-ikke-goy-a-jobbe-pa-fabrikk/276531",
+      "source": "Kode24",
+      "summary": "Utvikler Christin Gorman advarer mot en arbeidskultur der folk presses til stadig høyere tempo: – Jeg håper vi snart ser bedrifter som aktivt tar et negativt standpunkt mot KI.",
+      "published": "2026-10-29T04:00:00Z"
+    },
+    {
+      "id": "59e5d23d51ae3f7783950f45c08e5daed2a46f3d",
+      "title": "GitHub Universe 2026: Evolving every layer of the stack",
+      "link": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
+      "source": "GitHub Blog",
+      "summary": "Today, we laid out our vision for GitHub as the most comprehensive, end-to-end software delivery system in the world. The post GitHub Universe 2026: Evolving every layer of the stack appeared first on The GitHub Blog.",
+      "published": "2026-10-28T16:09:28Z"
+    },
+    {
+      "id": "abd38049b4ab7ab93230dfa1de28d488cd078bb6",
+      "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
+      "link": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
+      "source": "GitHub Blog",
+      "summary": "See how a record year of growth reached every industry, every field, and every kind of builder in the 2026 Octoverse report. The post Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents appeared first on The GitHub Blog.",
+      "published": "2026-10-28T16:07:40Z",
+      "image": "https://github.blog/wp-content/uploads/2026/10/Octoverse2026_BlogVisual_1.jpg?resize=1024%2C576"
+    },
+    {
+      "id": "3ff2eb9106796f607a23c54109577e31c241a1c9",
+      "title": "Anthropic dropper tekniske intervjuer",
+      "link": "https://www.kode24.no/artikkel/anthropic-dropper-tekniske-intervjuer/276758",
+      "source": "Kode24",
+      "summary": "– For Claude er uansett bedre enn deg, mener Anthropic-leder med åpenbar dobbeltrolle.",
+      "published": "2026-10-28T14:34:30Z"
+    },
+    {
+      "id": "de504d93ecada30c43c3dc8c04bc34c649951b58",
+      "title": "Krever full stopp av nye datasentre: – Kan komme helt ut av kontroll",
+      "link": "https://www.kode24.no/artikkel/krever-full-stopp-av-nye-datasentre-kan-komme-helt-ut-av-kontroll/276725",
+      "source": "Kode24",
+      "summary": "– Vi er alle enige om at vi trenger datalagring i Norge, men vi må ta en fot i bakken, mener Senterpartiet.",
+      "published": "2026-10-28T13:02:07Z"
+    },
+    {
+      "id": "91f0786bb4449990da0696975259bb9c36449649",
+      "title": "Forventer at Gjensidige nedbemanner uten oppsigelser",
+      "link": "https://www.kode24.no/artikkel/forventer-at-gjensidige-nedbemanner-uten-oppsigelser/276698",
+      "source": "Kode24",
+      "summary": "Finansforbundet er dessuten kritisk til bransjens KI-kjør. – Hva skjer når de har gjort seg avhengig av globale tek-leverandører, og disse så skrur opp prisene?",
+      "published": "2026-10-28T12:26:01Z"
+    },
     {
       "id": "7b74d992ebb71d6a035838a452b86b702752b32d",
       "title": "Gjensidige ned­bemanner 40 fra utviklings­avdelingen",
@@ -114,68 +187,12 @@
       "published": "2026-10-26T00:00:00Z"
     },
     {
-      "id": "913597eb4312ab9317d3b9e03b5beb346b83cab8",
-      "title": "KI fant PHP-hullene: – Gammel kode er nå lavthengende frukt",
-      "link": "https://www.kode24.no/artikkel/ki-fant-php-hullene-gammel-kode-er-na-lavthengende-frukt/276246",
-      "source": "Kode24",
-      "summary": "Først da forskere med kunstig intelligens avslørte de to sårbarhetene, fikk verden panikk. – All gammel kode med menneskelige feil er nå lavthengende frukt, advarer norsk KI-ekspert.",
-      "published": "2026-10-23T11:45:30Z"
-    },
-    {
-      "id": "09110c6f89a1e007c7893daec18290e985a7a53d",
-      "title": "Undersøker flyvende lys, fant jordnært problem med sensorer",
-      "link": "https://www.kode24.no/artikkel/undersoker-flyvende-lys-fant-jordnaert-problem-med-sensorer/275833",
-      "source": "Kode24",
-      "summary": "– Problemet finnes overalt hvor kameraer, miljøsensorer, industrielle målesystemer og menneskelige observasjoner skal brukes sammen, skriver Daniel H. Nordvik.",
-      "published": "2026-10-23T10:42:06Z"
-    },
-    {
-      "id": "022727312b167f2b9d63a9e4fb372b7e28d8aa5b",
-      "title": "Arc legges ned. Satser på KI-nettleser i stedet",
-      "link": "https://www.kode24.no/artikkel/arc-legges-ned-satser-pa-ki-nettleser-i-stedet/276331",
-      "source": "Kode24",
-      "summary": "The Browser Company peker på sikkerhetsjobbing som årsak når de legger ned utvikler-favoritt. – Mister tilliten vår, skriver utvikler på X.",
-      "published": "2026-10-23T08:49:38Z"
-    },
-    {
-      "id": "fa270698650cb382479775b7007d76df8e91bcfa",
-      "title": "Bekymra for flere KI-kutt: – Flere vil gjøre samme regnestykke som DNB",
-      "link": "https://www.kode24.no/artikkel/bekymra-for-flere-ki-kutt-flere-vil-gjore-samme-regnestykke-som-dnb/276342",
-      "source": "Kode24",
-      "summary": "– Spør arbeidsgiveren din hvordan dere skal ta ut gevinsten av KI, oppfordrer nestleder Arne Fredrik Håstein i Finansforbundet, etter DNB-kuttene.",
-      "published": "2026-10-23T08:26:37Z"
-    },
-    {
-      "id": "0c9b100be39b19da3a405c946912d8043a3da186",
-      "title": "Ingen tegn til hacking i Norge etter PHP-hullene",
-      "link": "https://www.kode24.no/artikkel/ingen-tegn-til-hacking-i-norge-etter-php-hullene/276317",
-      "source": "Kode24",
-      "summary": "– Men vi vet at på global basis er det tilgjengelig angrepskode som utnytter sårbarheten, og det har internasjonalt vært forsøk på å utnytte sårbarheten.",
-      "published": "2026-10-23T06:36:00Z"
-    },
-    {
-      "id": "1a622aa03d059be0c1323f9314ccef29db6264ee",
-      "title": "KI tok koden fra koderne. Nå savner de den",
-      "link": "https://www.kode24.no/artikkel/ki-tok-koden-fra-koderne-na-savner-de-den/276301",
-      "source": "Kode24",
-      "summary": "Norske utviklere forteller at agentene tar fra dem arbeidsgleden. – Det skyller en bølge av misnøye over bransjen, skriver Ole Petter i ukas nyhetsbrev.",
-      "published": "2026-10-23T03:00:00Z"
-    },
-    {
       "id": "fd319a83ade2969d4a0f3b0e0ee05f47a0ab997c",
       "title": "How bug bounty sharpens one researcher’s security skills",
       "link": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/",
       "source": "GitHub Blog",
       "summary": "As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers. The post How bug bounty sharpens one researcher’s security skills appeared first on The GitHub Blog.",
       "published": "2026-10-22T17:21:30Z"
-    },
-    {
-      "id": "4e883ff7e4e327568dc87213b4a3bfae101b122a",
-      "title": "Håper på 50.000 norske deltakere i NM i KI i 2027",
-      "link": "https://www.kode24.no/artikkel/haper-pa-50000-norske-deltakere-i-nm-i-ki-i-2027/276257",
-      "source": "Kode24",
-      "summary": "På nyåret får norgesmesterskapet i kunstig intelligens regionale kvalifiseringer og finale hos Oljefondet. Men alle kan delta digitalt uansett.",
-      "published": "2026-10-22T13:26:37Z"
     },
     {
       "id": "8f99f6dadd2c022890ba549ac6eb383b40753e10",
@@ -260,22 +277,6 @@
       "summary": "Go 1.27 includes a change to the HTTP client that can make programs sending many sequential HTTP/1 requests significantly faster.",
       "published": "2026-10-14T00:00:00Z",
       "image": "http-connection-reuse/http-cost.svg"
-    },
-    {
-      "id": "e5e7270c9b98b96daa0a604848e822d884a17829",
-      "title": "GitHub’s model for secret detection: Finding more secrets with less noise",
-      "link": "https://github.blog/ai-and-ml/githubs-model-for-secret-detection-finding-more-secrets-with-less-noise/",
-      "source": "GitHub Blog",
-      "summary": "GitHub’s context-aware secret classifier improves detection quality, raises weighted acceptance by 11.5%, and reduces median scan execution time by 86%. The post GitHub’s model for secret detection: Finding more secrets with less noise appeared first on The GitHub Blog.",
-      "published": "2026-10-13T17:56:33Z"
-    },
-    {
-      "id": "e22ce0ac1b8ed269546bc86213a4d65ed17c51b2",
-      "title": "GitHub Copilot app for Beginners: How to teach Copilot about your codebase",
-      "link": "https://github.blog/ai-and-ml/github-copilot/github-copilot-app-for-beginners-how-to-teach-copilot-about-your-codebase/",
-      "source": "GitHub Blog",
-      "summary": "Learn how to add custom instructions and skills to your repository, use custom agents, and connect MCP servers like Playwright. The post GitHub Copilot app for Beginners: How to teach Copilot about your codebase appeared first on The GitHub Blog.",
-      "published": "2026-10-12T17:43:59Z"
     },
     {
       "id": "14b0cf090f778bb176ae38df8e64ae1cc27eda78",
