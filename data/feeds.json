@@ -1,6 +1,70 @@
 {
-  "generated_at": "2026-10-29T12:32:57.360707Z",
+  "generated_at": "2026-10-30T12:24:27.508317Z",
   "items": [
+    {
+      "id": "3fbcb66666c655acb95f0b46e163650c8a00113b",
+      "title": "Nettsidene til Gjensidige var nede for telling",
+      "link": "https://www.kode24.no/artikkel/nettsidene-til-gjensidige-var-nede-for-telling/276992",
+      "source": "Kode24",
+      "summary": "Banken måtte fredag formiddag takle tekniske problemer.",
+      "published": "2026-10-30T11:20:57Z"
+    },
+    {
+      "id": "9b1e378d922c3549929c98c3a7d0cb9aad77d020",
+      "title": "Reddit varsler at de vil kreve innlogging",
+      "link": "https://www.kode24.no/artikkel/reddit-varsler-at-de-vil-kreve-innlogging/276962",
+      "source": "Kode24",
+      "summary": "Nettforumet Reddit går mot å kreve at medlemmene logger inn, på grunn av KI.",
+      "published": "2026-10-30T10:30:00Z"
+    },
+    {
+      "id": "4d402b5f830271dc0fd6fd2e3817eb76576b29b4",
+      "title": "– Å fortsette som før, er ikke mulig",
+      "link": "https://www.kode24.no/artikkel/a-fortsette-som-for-er-ikke-mulig/276508",
+      "source": "Kode24",
+      "summary": "– Hvis ikke du gjør det, så gjør en av konkurrentene det. Spis eller bli spist, skriver CEO Leif Arne Brandsæter i Norkart om dagens KI-koding.",
+      "published": "2026-10-30T09:05:00Z"
+    },
+    {
+      "id": "2680c291fb3f7c909387298011299a8069b038ac",
+      "title": "6 milliarder dollar stjålet i tidenes største kryptotyveri",
+      "link": "https://www.kode24.no/artikkel/6-milliarder-dollar-stjalet-i-tidenes-storste-kryptotyveri/276944",
+      "source": "Kode24",
+      "summary": "Verdens største kryptobørs Binance er utsatt for tidenes største kryptotyveri. Justisministeren er bekymret.",
+      "published": "2026-10-30T08:08:45Z"
+    },
+    {
+      "id": "33646b7341b438ba09d547c5e308ff84c74bf0ff",
+      "title": "DNB-sjefen om KI-kutt: – Vi gjør det ikke for å sparke folk",
+      "link": "https://www.kode24.no/artikkel/dnb-sjefen-om-ki-kutt-vi-gjor-det-ikke-for-a-sparke-folk/276920",
+      "source": "Kode24",
+      "summary": "DNBs konsernsjef Kjerstin Braathen forsikrer at banken fortsatt vil satse på unge ansatte, selv om kunstig intelligens fører til effektivisering og omstillinger.",
+      "published": "2026-10-30T07:59:53Z"
+    },
+    {
+      "id": "cbabc4b26321cdef737b88a65279f143ecaea37b",
+      "title": "Norske utviklere fortviler over free seating",
+      "link": "https://www.kode24.no/artikkel/norske-utviklere-fortviler-over-free-seating/276866",
+      "source": "Kode24",
+      "summary": "– Det verste som kan skje nå, er at kontorene våre blir fabrikkgulv, og utviklerne fabrikkarbeidere, skriver Ole Petter i ukas nyhetsbrev. – Free seating er et stort skritt i den retningen.",
+      "published": "2026-10-30T04:00:00Z"
+    },
+    {
+      "id": "fd8171fa0f618f8dc2cb6fb484100c1fc7f11409",
+      "title": "Bruker KI til alt, blir mye mer sliten enn før",
+      "link": "https://www.kode24.no/artikkel/bruker-ki-til-alt-blir-mye-mer-sliten-enn-for/276535",
+      "source": "Kode24",
+      "summary": "Morten Jansrud blir mer sliten av å få KI til å gjøre alt for han. – På et tidspunkt blir vi nok tvunget til å slippe taket, og la agentene styre mer av prosessen selv, tror han.",
+      "published": "2026-10-29T12:57:20Z"
+    },
+    {
+      "id": "5317dc48d61d0b5975c062cd991700bfb3e632e0",
+      "title": "Humanetiker får KI-fritak på religiøst grunnlag",
+      "link": "https://www.kode24.no/artikkel/humanetiker-far-ki-fritak-pa-religiost-grunnlag/276745",
+      "source": "Kode24",
+      "summary": "Amerikanske David Durman mener det å bruke KI får ham til å overlate tenking og beslutningstaking til andre. Det går imot hans humanistiske tankegang.",
+      "published": "2026-10-29T12:55:43Z"
+    },
     {
       "id": "838d9911ffb4ebf32f0e072da2f05bcaf8ade474",
       "title": "Varsler mye dyrere strøm på grunn av datasentre",
@@ -113,70 +177,6 @@
       "source": "Kode24",
       "summary": "Etter oppkjøpet av DigitalOcean og flere år i glemmeboka, skal sida nå tilbake til røttene.",
       "published": "2026-10-27T11:49:59Z"
-    },
-    {
-      "id": "144fe46d6f5bbf55458e9a27154af92dbbb343b8",
-      "title": "60.000 Microsoft-ansatte får tilbud om sluttpakke",
-      "link": "https://www.kode24.no/artikkel/60000-microsoft-ansatte-far-tilbud-om-sluttpakke/276568",
-      "source": "Kode24",
-      "summary": "Nekter for at runda handler om KI-kutt.",
-      "published": "2026-10-27T09:33:38Z"
-    },
-    {
-      "id": "e9d9e5c1ba3cd83d95167baf132fb1a0491c7350",
-      "title": "Norske medier tar Meta til retten: «Særdeles ugreit»",
-      "link": "https://www.kode24.no/artikkel/norske-medier-tar-meta-til-retten-saerdeles-ugreit/276548",
-      "source": "Kode24",
-      "summary": "Mener nye brukervilkårene gir Meta rett til å skrape alt innhold de produserer, også bak betalingsmurer.",
-      "published": "2026-10-27T08:01:31Z"
-    },
-    {
-      "id": "caa9b4566cd2feecde0843fe068d6e9ed631758c",
-      "title": "2 av 5 føler økt arbeids­press med KI: «Naturlig»",
-      "link": "https://www.kode24.no/artikkel/2-av-5-foler-okt-arbeidspress-med-ki-naturlig/275987",
-      "source": "Kode24",
-      "summary": "Alis Wiken Wilson elsker hvordan KI gjør henne mer effektiv, men ikke hvordan teknologien gi mindre rom for sosialisering.",
-      "published": "2026-10-27T04:00:00Z"
-    },
-    {
-      "id": "9f6671db7640a828cacd882abc0fe12ae77aa47e",
-      "title": "Hardt ut mot EU: – Vil gi dataene våre gratis til KI-selskap",
-      "link": "https://www.kode24.no/artikkel/hardt-ut-mot-eu-vil-gi-dataene-vare-gratis-til-ki-selskap/276422",
-      "source": "Kode24",
-      "summary": "Personvernorganisasjon hevder at EU-råd vil la KI-selskaper bruke person­opplysninger uten å spørre. – Endrer ikke kravene, mener advokat.",
-      "published": "2026-10-26T14:40:53Z"
-    },
-    {
-      "id": "e86a889745921c9820bfcc04331fab70215fc561",
-      "title": "Elvis-eierne saksøker Anthropic",
-      "link": "https://www.kode24.no/artikkel/elvis-eierne-saksoker-anthropic/276424",
-      "source": "Kode24",
-      "summary": "Authentic Brands Group saksøker Anthropic for angivelig å ha brukt Presleys sanger til å trene opp modellene sine uten tillatelse.",
-      "published": "2026-10-26T12:23:14Z"
-    },
-    {
-      "id": "5bdac346cd1392e625a4a66ca6fd6c081dd62ade",
-      "title": "Tet testa Claude: Følte seg raskere, ingen målbar effekt",
-      "link": "https://www.kode24.no/artikkel/tet-testa-claude-folte-seg-raskere-ingen-malbar-effekt/276379",
-      "source": "Kode24",
-      "summary": "Tet Digital deler resultatene av sin KI-pilot: – Produktlederne så ikke den samme produktivitets- og kvalitetseffekten som utviklerne, skriver Stein Inge Morisbak og Marte Fritzøe.",
-      "published": "2026-10-26T10:31:20Z"
-    },
-    {
-      "id": "2817767d252ec1a09e727553aa72d39c6405f5d1",
-      "title": "Gir seg som selvstendig konsulent: – Savna å være i et fagmiljø",
-      "link": "https://www.kode24.no/artikkel/gir-seg-som-selvstendig-konsulent-savna-a-vaere-i-et-fagmiljo/276430",
-      "source": "Kode24",
-      "summary": "Twoday ansetter Ulf Seim Kavlie og Espen Eriksmoen Løke.",
-      "published": "2026-10-26T08:32:27Z"
-    },
-    {
-      "id": "2db572e57f1882e8929d4db1f04d486f0e2bb8d6",
-      "title": "Advarer mot KI-gjeld: – Utviklere må samarbeide mer",
-      "link": "https://www.kode24.no/artikkel/advarer-mot-ki-gjeld-utviklere-ma-samarbeide-mer/275254",
-      "source": "Kode24",
-      "summary": "Mens bedrifter tar av med KI-bruk for å effektivisere, samler de opp KI-gjeld, mener ekspert. Nå utfordrer hun utviklere til å samarbeide med flere fagfolk for å bli kvitt den.",
-      "published": "2026-10-26T04:00:00Z"
     },
     {
       "id": "62b9aacb66ffa5924e892296ef40d52147daa957",
