@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-10-30T12:24:27.508317Z",
+  "generated_at": "2026-10-31T11:54:28.075424Z",
   "items": [
+    {
+      "id": "f613de1476108e4b243ed150eadc492f6c571b49",
+      "title": "Dataangrep ved UiT: – En aktør med store ressurser",
+      "link": "https://www.kode24.no/artikkel/dataangrep-ved-uit-en-aktor-med-store-ressurser/277049",
+      "source": "Kode24",
+      "summary": "Et målrettet dataangrep har blitt oppdaget ved Universitetet i Tromsø. Universitetet mener angrepet er gjort av en aktør med store ressurser.",
+      "published": "2026-10-30T14:19:32Z"
+    },
+    {
+      "id": "eb85179320c181d29b4a074999125d3fda407b72",
+      "title": "Nå kan Github-agenter dytte ut kode på ulike brancher samtidig",
+      "link": "https://www.kode24.no/artikkel/na-kan-github-agenter-dytte-ut-kode-pa-ulike-brancher-samtidig/276917",
+      "source": "Kode24",
+      "summary": "Microsoft lanserte en raskere Typescript-betaversjon, og Github skalerer for KI. Les ukas Forrige uke-spalte.",
+      "published": "2026-10-30T13:00:00Z"
+    },
     {
       "id": "3fbcb66666c655acb95f0b46e163650c8a00113b",
       "title": "Nettsidene til Gjensidige var nede for telling",
@@ -30,7 +46,7 @@
       "title": "6 milliarder dollar stjålet i tidenes største kryptotyveri",
       "link": "https://www.kode24.no/artikkel/6-milliarder-dollar-stjalet-i-tidenes-storste-kryptotyveri/276944",
       "source": "Kode24",
-      "summary": "Verdens største kryptobørs Binance er utsatt for tidenes største kryptotyveri. Justisministeren er bekymret.",
+      "summary": "Verdens største kryptobørs Binance er utsatt for tidenes største kryptotyveri. Justisministeren er bekymret. En hacket datamaskin skal være involvert.",
       "published": "2026-10-30T08:08:45Z"
     },
     {
@@ -161,22 +177,6 @@
       "source": "Kode24",
       "summary": "Med stor nok KI-gevinst, ga de sine ansatte firedagersuke i stedet for å sparke dem. Men teknologene må foreløpig jobbe full uke, og hverken Tekna eller Nito har noen firedagers-planer.",
       "published": "2026-10-28T04:00:00Z"
-    },
-    {
-      "id": "5087f021860b97d376e565286db5df07ad686a82",
-      "title": "– En god utvikler har aldri vært den som skriver kode raskest",
-      "link": "https://www.kode24.no/artikkel/en-god-utvikler-har-aldri-vaert-den-som-skriver-kode-raskest/276376",
-      "source": "Kode24",
-      "summary": "– Derfor bør vi ikke bare spørre utviklere hvor mye raskere de leverer med KI, skriver Aimée Skevik, CTO i Itera.",
-      "published": "2026-10-27T13:21:04Z"
-    },
-    {
-      "id": "f5db1a60894001494d16d19d2d4b5d91ae9fb6e3",
-      "title": "CSS-Tricks er tilbake",
-      "link": "https://www.kode24.no/artikkel/css-tricks-er-tilbake/276591",
-      "source": "Kode24",
-      "summary": "Etter oppkjøpet av DigitalOcean og flere år i glemmeboka, skal sida nå tilbake til røttene.",
-      "published": "2026-10-27T11:49:59Z"
     },
     {
       "id": "62b9aacb66ffa5924e892296ef40d52147daa957",
