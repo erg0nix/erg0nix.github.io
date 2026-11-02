@@ -1,6 +1,70 @@
 {
-  "generated_at": "2026-11-01T12:53:51.023165Z",
+  "generated_at": "2026-11-02T15:08:04.808197Z",
   "items": [
+    {
+      "id": "62e659a34d5a8301691f9d6d5970739b7d2f5657",
+      "title": "To utviklere søkte slutt­pakke fra NRK",
+      "link": "https://www.kode24.no/artikkel/to-utviklere-sokte-sluttpakke-fra-nrk/277141",
+      "source": "Kode24",
+      "summary": "Ingen av dem fikk. Men om dette betyr at NRK vil beholde alle utviklerne sine, vil ikke kanalen ut med.",
+      "published": "2026-11-02T13:15:26Z"
+    },
+    {
+      "id": "67822a8c260c8e701488a7d0fc878802aa2a50e3",
+      "title": "Ber om dine innspill til norsk KI-politikk",
+      "link": "https://www.kode24.no/artikkel/ber-om-dine-innspill-til-norsk-ki-politikk/277017",
+      "source": "Kode24",
+      "summary": "Regjeringen spør norske utviklere om hva Norges ambisjonsnivå bør være for kunstig intelligens. – Utbredt bruk av KI reiser også nye spørsmål om sikkerhet, makt og kontroll, sier Micaelsen.",
+      "published": "2026-11-02T13:14:00Z"
+    },
+    {
+      "id": "c49cf27a7ba2c4a66e3e1b5088c763a059108238",
+      "title": "OpenAI vil ikke kalle dem «datasentre» lenger",
+      "link": "https://www.kode24.no/artikkel/openai-vil-ikke-kalle-dem-datasentre-lenger/277066",
+      "source": "Kode24",
+      "summary": "OpenAI ønsker seg et nytt begrep for datasentre, i forbindelse med mellomvalget i USA.",
+      "published": "2026-11-02T10:36:43Z"
+    },
+    {
+      "id": "cda911bd76767fae657952c65e34306a3fb8958b",
+      "title": "Butikkfrysere hacka Europa rundt",
+      "link": "https://www.kode24.no/artikkel/butikkfrysere-hacka-europa-rundt/277107",
+      "source": "Kode24",
+      "summary": "Frysere og kjøleskap i matbutikker er rammet i en rekke land i Europa. Ekspert ber butikker ta kjøleskap og frysere av internett.",
+      "published": "2026-11-02T09:29:41Z"
+    },
+    {
+      "id": "b425688ca8490744605a25b43f541036315cd408",
+      "title": "Tekna krever stopp i tildeling av strøm til datasentre",
+      "link": "https://www.kode24.no/artikkel/tekna-krever-stopp-i-tildeling-av-strom-til-datasentre/277078",
+      "source": "Kode24",
+      "summary": "Dersom alle planlagte datasenterprosjekter i Statnetts kø blir realisert, kan de legge beslag på 60 prosent av Norges kraftoverskudd.",
+      "published": "2026-11-02T08:11:35Z"
+    },
+    {
+      "id": "a4517027b1c3e51acb886274df0a29d365042866",
+      "title": "Vil bruke gammel kjøpesenter-metode for datasenter-stopp",
+      "link": "https://www.kode24.no/artikkel/vil-bruke-gammel-kjopesenter-metode-for-datasenter-stopp/277068",
+      "source": "Kode24",
+      "summary": "– Vi har stanset ukontrollerte utbygginger før, og kan gjøre det igjen, sier SV, og vil kopiere kjøpesenter-stansen i 1999.",
+      "published": "2026-11-02T08:03:42Z"
+    },
+    {
+      "id": "77f411fa6bf57c23b72b6e3213c35a36afc52d00",
+      "title": "Hvem passer på vibbe­koden når utviklerne har fått sparken?",
+      "link": "https://www.kode24.no/artikkel/hvem-passer-pa-vibbekoden-nar-utviklerne-har-fatt-sparken/276823",
+      "source": "Kode24",
+      "summary": "Jeg lot KI skrive koden til en app for å fylle ut skattemeldingen min. Det den fant på underveis viser at vi fortsatt trenger utviklere.",
+      "published": "2026-11-02T04:00:00Z"
+    },
+    {
+      "id": "8ca6d53d3d9b96fa7bb62a4282ed8a1ee9e43f46",
+      "title": "Game Off 2026: The theme is SHIFT",
+      "link": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
+      "source": "GitHub Blog",
+      "summary": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The post Game Off 2026: The theme is SHIFT appeared first on The GitHub Blog.",
+      "published": "2026-11-01T21:36:00Z"
+    },
     {
       "id": "f613de1476108e4b243ed150eadc492f6c571b49",
       "title": "Dataangrep ved UiT: – En aktør med store ressurser",
@@ -106,14 +170,6 @@
       "published": "2026-10-29T07:27:53Z"
     },
     {
-      "id": "bb8f879f9bb0ca53d6c261c75d42df7c2c9d3a39",
-      "title": "– Det er ikke gøy å jobbe på fabrikk",
-      "link": "https://www.kode24.no/artikkel/det-er-ikke-goy-a-jobbe-pa-fabrikk/276531",
-      "source": "Kode24",
-      "summary": "Utvikler Christin Gorman advarer mot en arbeidskultur der folk presses til stadig høyere tempo: – Jeg håper vi snart ser bedrifter som aktivt tar et negativt standpunkt mot KI.",
-      "published": "2026-10-29T04:00:00Z"
-    },
-    {
       "id": "59e5d23d51ae3f7783950f45c08e5daed2a46f3d",
       "title": "GitHub Universe 2026: Evolving every layer of the stack",
       "link": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
@@ -129,54 +185,6 @@
       "summary": "See how a record year of growth reached every industry, every field, and every kind of builder in the 2026 Octoverse report. The post Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents appeared first on The GitHub Blog.",
       "published": "2026-10-28T16:07:40Z",
       "image": "https://github.blog/wp-content/uploads/2026/10/Octoverse2026_BlogVisual_1.jpg?resize=1024%2C576"
-    },
-    {
-      "id": "3ff2eb9106796f607a23c54109577e31c241a1c9",
-      "title": "Anthropic dropper tekniske intervjuer",
-      "link": "https://www.kode24.no/artikkel/anthropic-dropper-tekniske-intervjuer/276758",
-      "source": "Kode24",
-      "summary": "– For Claude er uansett bedre enn deg, mener Anthropic-leder med åpenbar dobbeltrolle.",
-      "published": "2026-10-28T14:34:30Z"
-    },
-    {
-      "id": "de504d93ecada30c43c3dc8c04bc34c649951b58",
-      "title": "Krever full stopp av nye datasentre: – Kan komme helt ut av kontroll",
-      "link": "https://www.kode24.no/artikkel/krever-full-stopp-av-nye-datasentre-kan-komme-helt-ut-av-kontroll/276725",
-      "source": "Kode24",
-      "summary": "– Vi er alle enige om at vi trenger datalagring i Norge, men vi må ta en fot i bakken, mener Senterpartiet.",
-      "published": "2026-10-28T13:02:07Z"
-    },
-    {
-      "id": "91f0786bb4449990da0696975259bb9c36449649",
-      "title": "Forventer at Gjensidige nedbemanner uten oppsigelser",
-      "link": "https://www.kode24.no/artikkel/forventer-at-gjensidige-nedbemanner-uten-oppsigelser/276698",
-      "source": "Kode24",
-      "summary": "Finansforbundet er dessuten kritisk til bransjens KI-kjør. – Hva skjer når de har gjort seg avhengig av globale tek-leverandører, og disse så skrur opp prisene?",
-      "published": "2026-10-28T12:26:01Z"
-    },
-    {
-      "id": "7b74d992ebb71d6a035838a452b86b702752b32d",
-      "title": "Gjensidige ned­bemanner 40 fra utviklings­avdelingen",
-      "link": "https://www.kode24.no/artikkel/gjensidige-nedbemanner-40-fra-utviklingsavdelingen/276671",
-      "source": "Kode24",
-      "summary": "Tross sterke resultater, gjør blant annet KI at selskapet omorganiserer. Så langt kode24 vet, er de ennå ikke i land med sluttpakker.",
-      "published": "2026-10-28T08:38:43Z"
-    },
-    {
-      "id": "933ab5715d5dbd7bc7c20fc8ebff84cd442e395b",
-      "title": "NSM hever risikonivået til nest høyeste nivå: «HØYT»",
-      "link": "https://www.kode24.no/artikkel/nsm-hever-risikonivaet-til-nest-hoyeste-niva-hoyt/276655",
-      "source": "Kode24",
-      "summary": "Nasjonal sikkerhetsmyndighet ber norske virksomheter bli enda flinkere.",
-      "published": "2026-10-28T07:20:58Z"
-    },
-    {
-      "id": "17e1b770f11094793c94e5846bde407d369cef92",
-      "title": "Her får ansatte fire­dagers­uke fremfor kutt",
-      "link": "https://www.kode24.no/artikkel/her-far-ansatte-firedagersuke-fremfor-kutt/276564",
-      "source": "Kode24",
-      "summary": "Med stor nok KI-gevinst, ga de sine ansatte firedagersuke i stedet for å sparke dem. Men teknologene må foreløpig jobbe full uke, og hverken Tekna eller Nito har noen firedagers-planer.",
-      "published": "2026-10-28T04:00:00Z"
     },
     {
       "id": "62b9aacb66ffa5924e892296ef40d52147daa957",
@@ -260,14 +268,6 @@
       "summary": "In September, we experienced two incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: September 2026 appeared first on The GitHub Blog.",
       "published": "2026-10-14T20:01:35Z",
       "image": "https://github.blog/wp-content/uploads/2026/10/09-13-Graph-Incident5334.png?resize=1024%2C451"
-    },
-    {
-      "id": "0c37ff6588c0c58e9d9df360f1f113bafd3a3608",
-      "title": "From 2,500 requests to 24: Rebuilding star history without the stargazers",
-      "link": "https://github.blog/engineering/architecture-optimization/from-2500-requests-to-24-rebuilding-star-history-without-the-stargazers/",
-      "source": "GitHub Blog",
-      "summary": "Our new repo star history API now provides trends without returning individual identities or requiring unbounded database work. These are the engineering tradeoffs we made. The post From 2,500 requests to 24: Rebuilding star history without the stargazers appeared first on The GitHub Blog.",
-      "published": "2026-10-14T19:11:33Z"
     },
     {
       "id": "db0f8d9dc5233f6df4ff983631ce70f50e281914",
