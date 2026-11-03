@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-11-02T15:08:04.808197Z",
+  "generated_at": "2026-11-03T13:51:48.547170Z",
   "items": [
+    {
+      "id": "4e7d77117491c82e715f8e78d38518f0051bc5aa",
+      "title": "Få norske apper klare for iPhone Duo",
+      "link": "https://www.kode24.no/artikkel/fa-norske-apper-klare-for-iphone-duo/277184",
+      "source": "Kode24",
+      "summary": "– Da jeg testet de største norske appene, ble jeg overrasket over at de færreste var tilpasset den nye formfaktoren, skriver apputvikler og iPhone Duo-eier Espen Benoni.",
+      "published": "2026-11-03T13:13:06Z"
+    },
+    {
+      "id": "b1b512f401bcc6147011f5eadf1059e2d02b8780",
+      "title": "Garry bruker nær 2 millioner kroner i året på KI-agenter",
+      "link": "https://www.kode24.no/artikkel/garry-bruker-naer-2-millioner-kroner-i-aret-pa-ki-agenter/277262",
+      "source": "Kode24",
+      "summary": "Y Combinator-sjef Garry Tan bruker opptil 200.000 dollar årlig på KI-tokens.",
+      "published": "2026-11-03T11:58:11Z"
+    },
+    {
+      "id": "32f39a34b4a59c60cbfbd7202a592df8a445ddaf",
+      "title": "SUSE kutter 1 av 10 ansatte på grunn av KI",
+      "link": "https://www.kode24.no/artikkel/suse-kutter-1-av-10-ansatte-pa-grunn-av-ki/277222",
+      "source": "Kode24",
+      "summary": "Selskapet peker på automatisering og kunstig intelligens når de skal slanke staben.",
+      "published": "2026-11-03T09:21:52Z"
+    },
+    {
+      "id": "32d2dbc81f05a0d066589d056cee24b5186f387d",
+      "title": "Advarer etter fryser­-hacking: – Beskytt ID og passord!",
+      "link": "https://www.kode24.no/artikkel/advarer-etter-fryser-hacking-beskytt-id-og-passord/277143",
+      "source": "Kode24",
+      "summary": "Butikkfrysere Europa rundt ble hacket etter stjålet passord. – Ofte den viktigste angrepsvektoren, sier Geir Aasen, som også advarer mot å miste oversikt over agenter.",
+      "published": "2026-11-03T08:49:20Z"
+    },
+    {
+      "id": "c01593ffe93b8d0467ace176e04e0962f6feb64b",
+      "title": "Nord-Korea nekter for krypto-kuppet",
+      "link": "https://www.kode24.no/artikkel/nord-korea-nekter-for-krypto-kuppet/277198",
+      "source": "Kode24",
+      "summary": "Nekter for å ha stjålet 58 milliarder kroner i kryptovaluta fra kryptobørsen Binance.",
+      "published": "2026-11-03T08:00:49Z"
+    },
+    {
+      "id": "13ee0a5e402e33549f5581d0a7c300c3d5d11296",
+      "title": "Bergenser må ut med 95.000,- for IPTV",
+      "link": "https://www.kode24.no/artikkel/bergenser-ma-ut-med-95000-for-iptv/277188",
+      "source": "Kode24",
+      "summary": "Var først uenig i forelegget, og saken endte i retten.",
+      "published": "2026-11-03T07:56:59Z"
+    },
+    {
+      "id": "39ae9ce5e3743af8a458a08bee65bcea6908737a",
+      "title": "Norge i kappløp mot USA og Kina: – Vi må bygge på styrkene vi har hjemme",
+      "link": "https://www.kode24.no/artikkel/norge-i-kapplop-mot-usa-og-kina-vi-ma-bygge-pa-styrkene-vi-har-hjemme/276523",
+      "source": "Kode24",
+      "summary": "Mens USA domineres av tek-giganter og Kina investerer enormt i kunstig intelligens, mener KI-ekspert Ishita Barua at Europas har ressursene, men har bare ikke turt å satse.",
+      "published": "2026-11-03T04:00:00Z"
+    },
     {
       "id": "62e659a34d5a8301691f9d6d5970739b7d2f5657",
       "title": "To utviklere søkte slutt­pakke fra NRK",
@@ -112,62 +168,6 @@
       "source": "Kode24",
       "summary": "Verdens største kryptobørs Binance er utsatt for tidenes største kryptotyveri. Justisministeren er bekymret. En hacket datamaskin skal være involvert.",
       "published": "2026-10-30T08:08:45Z"
-    },
-    {
-      "id": "33646b7341b438ba09d547c5e308ff84c74bf0ff",
-      "title": "DNB-sjefen om KI-kutt: – Vi gjør det ikke for å sparke folk",
-      "link": "https://www.kode24.no/artikkel/dnb-sjefen-om-ki-kutt-vi-gjor-det-ikke-for-a-sparke-folk/276920",
-      "source": "Kode24",
-      "summary": "DNBs konsernsjef Kjerstin Braathen forsikrer at banken fortsatt vil satse på unge ansatte, selv om kunstig intelligens fører til effektivisering og omstillinger.",
-      "published": "2026-10-30T07:59:53Z"
-    },
-    {
-      "id": "cbabc4b26321cdef737b88a65279f143ecaea37b",
-      "title": "Norske utviklere fortviler over free seating",
-      "link": "https://www.kode24.no/artikkel/norske-utviklere-fortviler-over-free-seating/276866",
-      "source": "Kode24",
-      "summary": "– Det verste som kan skje nå, er at kontorene våre blir fabrikkgulv, og utviklerne fabrikkarbeidere, skriver Ole Petter i ukas nyhetsbrev. – Free seating er et stort skritt i den retningen.",
-      "published": "2026-10-30T04:00:00Z"
-    },
-    {
-      "id": "fd8171fa0f618f8dc2cb6fb484100c1fc7f11409",
-      "title": "Bruker KI til alt, blir mye mer sliten enn før",
-      "link": "https://www.kode24.no/artikkel/bruker-ki-til-alt-blir-mye-mer-sliten-enn-for/276535",
-      "source": "Kode24",
-      "summary": "Morten Jansrud blir mer sliten av å få KI til å gjøre alt for han. – På et tidspunkt blir vi nok tvunget til å slippe taket, og la agentene styre mer av prosessen selv, tror han.",
-      "published": "2026-10-29T12:57:20Z"
-    },
-    {
-      "id": "5317dc48d61d0b5975c062cd991700bfb3e632e0",
-      "title": "Humanetiker får KI-fritak på religiøst grunnlag",
-      "link": "https://www.kode24.no/artikkel/humanetiker-far-ki-fritak-pa-religiost-grunnlag/276745",
-      "source": "Kode24",
-      "summary": "Amerikanske David Durman mener det å bruke KI får ham til å overlate tenking og beslutningstaking til andre. Det går imot hans humanistiske tankegang.",
-      "published": "2026-10-29T12:55:43Z"
-    },
-    {
-      "id": "838d9911ffb4ebf32f0e072da2f05bcaf8ade474",
-      "title": "Varsler mye dyrere strøm på grunn av datasentre",
-      "link": "https://www.kode24.no/artikkel/varsler-mye-dyrere-strom-pa-grunn-av-datasentre/276831",
-      "source": "Kode24",
-      "summary": "– Hvis dagens sterke vekst av datasentre fortsetter, kan Norge stå overfor den raskeste veksten i kraftforbruk i moderne tid, advarer NVE.",
-      "published": "2026-10-29T11:35:07Z"
-    },
-    {
-      "id": "f64ca158e376f7bef2688aa43567c639ed13ab21",
-      "title": "Vil «knuse» Tripletex: Svarer med å stenge ham ute",
-      "link": "https://www.kode24.no/artikkel/vil-knuse-tripletex-svarer-med-a-stenge-ham-ute/276188",
-      "source": "Kode24",
-      "summary": "Greg Taube kjemper for mer dataportabilitet, og konkurrenten Tripletex er enig. Men nå har de utestengt ham fra API-et.",
-      "published": "2026-10-29T09:52:00Z"
-    },
-    {
-      "id": "e6e9d3e84041a6017e8054f4f7081bc2477c48a0",
-      "title": "Info om 40.000 DHS-ansatte lekka, blant annet ICE-agenter",
-      "link": "https://www.kode24.no/artikkel/info-om-40000-dhs-ansatte-lekka-blant-annet-ice-agenter/276777",
-      "source": "Kode24",
-      "summary": "– Erstatte anonymitet med ansvarlighet, sier Distributed Denial of Secrets om formålet med en søkbar database over de ansatte.",
-      "published": "2026-10-29T07:27:53Z"
     },
     {
       "id": "59e5d23d51ae3f7783950f45c08e5daed2a46f3d",
