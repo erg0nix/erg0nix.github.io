@@ -1,12 +1,84 @@
 {
-  "generated_at": "2026-11-03T13:51:48.547170Z",
+  "generated_at": "2026-11-04T13:58:53.898365Z",
   "items": [
+    {
+      "id": "38b06b18952c6b327b59f729ef8f59b85e20a770",
+      "title": "Google får kritikk: Skoler som blokkerer KI kan miste søketilgang",
+      "link": "https://www.kode24.no/artikkel/google-far-kritikk-skoler-som-blokkerer-ki-kan-miste-soketilgang/277423",
+      "source": "Kode24",
+      "summary": "Skoler som velger å blokkere all KI-bruk, kan samtidig miste tilgangen til Google Søk. Det har utløst politisk kritikk i USA.",
+      "published": "2026-11-04T11:37:03Z"
+    },
+    {
+      "id": "25382f0aa40002c6518e043c1bad6844da6e170b",
+      "title": "NSM, Forsvaret, politiet og PST får seg Starlink",
+      "link": "https://www.kode24.no/artikkel/nsm-forsvaret-politiet-og-pst-far-seg-starlink/277464",
+      "source": "Kode24",
+      "summary": "Kjøper tjenester for 450 millioner fra Marlink, som bruker Elons Musks Starlink. Uheldig, mener MDG.",
+      "published": "2026-11-04T09:43:18Z"
+    },
+    {
+      "id": "77d34a5fdff830160afc5350e95d92b4d6346eda",
+      "title": "Revolut kjører kinesisk modell lokalt, til en tiendedel av prisen",
+      "link": "https://www.kode24.no/artikkel/revolut-kjorer-kinesisk-modell-lokalt-til-en-tiendedel-av-prisen/277417",
+      "source": "Kode24",
+      "summary": "Sparer mye penger på å kjøre GLM lokalt, framfor å leie modeller fra amerikanske selskaper.",
+      "published": "2026-11-04T09:22:16Z"
+    },
+    {
+      "id": "507482168d72ba65edb844257c518108b7e657c6",
+      "title": "MDG ber regjeringen ta grep etter fryserhacking",
+      "link": "https://www.kode24.no/artikkel/mdg-ber-regjeringen-ta-grep-etter-fryserhacking/277402",
+      "source": "Kode24",
+      "summary": "– Dette er nok en sak som viser at vi i Norge ikke har tatt den digitale sikkerheten på alvor, og det gjør oss sårbare.",
+      "published": "2026-11-04T07:22:54Z"
+    },
+    {
+      "id": "2410cd4b9850b78abbb5d9de966c9f3374898516",
+      "title": "Havaristen og frukt­lager kan ha blitt fryserhacket",
+      "link": "https://www.kode24.no/artikkel/havaristen-og-fruktlager-kan-ha-blitt-fryserhacket/277388",
+      "source": "Kode24",
+      "summary": "Foreløpig er ingen av tilfellene bekreftet å henge sammen med angrepene i Europa, men vi kan forvente at også Norge blir rammet.",
+      "published": "2026-11-04T07:19:26Z"
+    },
+    {
+      "id": "c5ff56da1228b033dd6a716b039a439c26e42b1a",
+      "title": "Hva skal til før vi tør å gi agentene mer ansvar?",
+      "link": "https://www.kode24.no/artikkel/hva-skal-til-for-vi-tor-a-gi-agentene-mer-ansvar/277351",
+      "source": "Kode24",
+      "summary": "Fabrikkene ble ikke mer produktive av å sette en elmotor der dampmaskinen sto, og utviklingsteam blir ikke mer produktive av å gi hver utvikler en agent. I veien står systemer agentene ikke kan se inn i, og rutiner som forutsetter at et menneske sjekker alt.",
+      "published": "2026-11-04T04:00:00Z"
+    },
+    {
+      "id": "bdad9a9970416eddebfdbe6a3503b3ade9054b00",
+      "title": "Arnis turns any place on Earth into a Minecraft world",
+      "link": "https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/",
+      "source": "GitHub Blog",
+      "summary": "Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone. The post Arnis turns any place on Earth into a Minecraft world appeared first on The GitHub Blog.",
+      "published": "2026-11-03T16:00:00Z"
+    },
+    {
+      "id": "2bfaa55bb0e7e9428a3839b18d8da49572b20554",
+      "title": "Han foreslås som ny visepresident for Nito",
+      "link": "https://www.kode24.no/artikkel/han-foreslas-som-ny-visepresident-for-nito/277373",
+      "source": "Kode24",
+      "summary": "Valgkomiteen peker på Kristian Botnen som ny nestleder i fagforeningen etter at Safina de Klerk trakk seg. Velges han, blir det to menn som på topp i Nito. I alle fall til neste år.",
+      "published": "2026-11-03T14:54:40Z"
+    },
+    {
+      "id": "0cf32bd0874055774169968fd524ccb7da455950",
+      "title": "Nicolai Tangen vinner lederpris",
+      "link": "https://www.kode24.no/artikkel/nicolai-tangen-vinner-lederpris/277315",
+      "source": "Kode24",
+      "summary": "– Han har selv sagt at alle organisasjoner trenger en «maniac» på toppen som maser om KI, skryter Atea, som kårer Nicolai Tangen til Årets digitaliseringsleder.",
+      "published": "2026-11-03T13:42:32Z"
+    },
     {
       "id": "4e7d77117491c82e715f8e78d38518f0051bc5aa",
       "title": "Få norske apper klare for iPhone Duo",
       "link": "https://www.kode24.no/artikkel/fa-norske-apper-klare-for-iphone-duo/277184",
       "source": "Kode24",
-      "summary": "– Da jeg testet de største norske appene, ble jeg overrasket over at de færreste var tilpasset den nye formfaktoren, skriver apputvikler og iPhone Duo-eier Espen Benoni.",
+      "summary": "– Da jeg testet de største norske appene, ble jeg overrasket over at de færreste var tilpasset den nye formfaktoren, skriver designer og iPhone Duo-eier Espen Benoni.",
       "published": "2026-11-03T13:13:06Z"
     },
     {
@@ -98,76 +170,12 @@
       "published": "2026-11-02T08:11:35Z"
     },
     {
-      "id": "a4517027b1c3e51acb886274df0a29d365042866",
-      "title": "Vil bruke gammel kjøpesenter-metode for datasenter-stopp",
-      "link": "https://www.kode24.no/artikkel/vil-bruke-gammel-kjopesenter-metode-for-datasenter-stopp/277068",
-      "source": "Kode24",
-      "summary": "– Vi har stanset ukontrollerte utbygginger før, og kan gjøre det igjen, sier SV, og vil kopiere kjøpesenter-stansen i 1999.",
-      "published": "2026-11-02T08:03:42Z"
-    },
-    {
-      "id": "77f411fa6bf57c23b72b6e3213c35a36afc52d00",
-      "title": "Hvem passer på vibbe­koden når utviklerne har fått sparken?",
-      "link": "https://www.kode24.no/artikkel/hvem-passer-pa-vibbekoden-nar-utviklerne-har-fatt-sparken/276823",
-      "source": "Kode24",
-      "summary": "Jeg lot KI skrive koden til en app for å fylle ut skattemeldingen min. Det den fant på underveis viser at vi fortsatt trenger utviklere.",
-      "published": "2026-11-02T04:00:00Z"
-    },
-    {
       "id": "8ca6d53d3d9b96fa7bb62a4282ed8a1ee9e43f46",
       "title": "Game Off 2026: The theme is SHIFT",
       "link": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
       "source": "GitHub Blog",
       "summary": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The post Game Off 2026: The theme is SHIFT appeared first on The GitHub Blog.",
       "published": "2026-11-01T21:36:00Z"
-    },
-    {
-      "id": "f613de1476108e4b243ed150eadc492f6c571b49",
-      "title": "Dataangrep ved UiT: – En aktør med store ressurser",
-      "link": "https://www.kode24.no/artikkel/dataangrep-ved-uit-en-aktor-med-store-ressurser/277049",
-      "source": "Kode24",
-      "summary": "Et målrettet dataangrep har blitt oppdaget ved Universitetet i Tromsø. Universitetet mener angrepet er gjort av en aktør med store ressurser.",
-      "published": "2026-10-30T14:19:32Z"
-    },
-    {
-      "id": "eb85179320c181d29b4a074999125d3fda407b72",
-      "title": "Nå kan Github-agenter dytte ut kode på ulike brancher samtidig",
-      "link": "https://www.kode24.no/artikkel/na-kan-github-agenter-dytte-ut-kode-pa-ulike-brancher-samtidig/276917",
-      "source": "Kode24",
-      "summary": "Microsoft lanserte en raskere Typescript-betaversjon, og Github skalerer for KI. Les ukas Forrige uke-spalte.",
-      "published": "2026-10-30T13:00:00Z"
-    },
-    {
-      "id": "3fbcb66666c655acb95f0b46e163650c8a00113b",
-      "title": "Nettsidene til Gjensidige var nede for telling",
-      "link": "https://www.kode24.no/artikkel/nettsidene-til-gjensidige-var-nede-for-telling/276992",
-      "source": "Kode24",
-      "summary": "Banken måtte fredag formiddag takle tekniske problemer.",
-      "published": "2026-10-30T11:20:57Z"
-    },
-    {
-      "id": "9b1e378d922c3549929c98c3a7d0cb9aad77d020",
-      "title": "Reddit varsler at de vil kreve innlogging",
-      "link": "https://www.kode24.no/artikkel/reddit-varsler-at-de-vil-kreve-innlogging/276962",
-      "source": "Kode24",
-      "summary": "Nettforumet Reddit går mot å kreve at medlemmene logger inn, på grunn av KI.",
-      "published": "2026-10-30T10:30:00Z"
-    },
-    {
-      "id": "4d402b5f830271dc0fd6fd2e3817eb76576b29b4",
-      "title": "– Å fortsette som før, er ikke mulig",
-      "link": "https://www.kode24.no/artikkel/a-fortsette-som-for-er-ikke-mulig/276508",
-      "source": "Kode24",
-      "summary": "– Hvis ikke du gjør det, så gjør en av konkurrentene det. Spis eller bli spist, skriver CEO Leif Arne Brandsæter i Norkart om dagens KI-koding.",
-      "published": "2026-10-30T09:05:00Z"
-    },
-    {
-      "id": "2680c291fb3f7c909387298011299a8069b038ac",
-      "title": "6 milliarder dollar stjålet i tidenes største kryptotyveri",
-      "link": "https://www.kode24.no/artikkel/6-milliarder-dollar-stjalet-i-tidenes-storste-kryptotyveri/276944",
-      "source": "Kode24",
-      "summary": "Verdens største kryptobørs Binance er utsatt for tidenes største kryptotyveri. Justisministeren er bekymret. En hacket datamaskin skal være involvert.",
-      "published": "2026-10-30T08:08:45Z"
     },
     {
       "id": "59e5d23d51ae3f7783950f45c08e5daed2a46f3d",
@@ -259,15 +267,6 @@
       "summary": "Put native GitHub features to work to review outside collaborator access and archive stale repositories. The post Staying Evergreen: How we automated secure access and repo hygiene in a shared org appeared first on The GitHub Blog.",
       "published": "2026-10-15T18:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2026/10/674986199-ee305d10-3419-4270-a829-41ed3da29fae.png?resize=528%2C221"
-    },
-    {
-      "id": "ada3a6d29e91d72df3fe284c89d86c38e3c8f674",
-      "title": "GitHub availability report: September 2026",
-      "link": "https://github.blog/news-insights/company-news/github-availability-report-september-2026/",
-      "source": "GitHub Blog",
-      "summary": "In September, we experienced two incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: September 2026 appeared first on The GitHub Blog.",
-      "published": "2026-10-14T20:01:35Z",
-      "image": "https://github.blog/wp-content/uploads/2026/10/09-13-Graph-Incident5334.png?resize=1024%2C451"
     },
     {
       "id": "db0f8d9dc5233f6df4ff983631ce70f50e281914",
