@@ -1,6 +1,72 @@
 {
-  "generated_at": "2026-11-05T14:20:01.958232Z",
+  "generated_at": "2026-11-06T13:56:59.361148Z",
   "items": [
+    {
+      "id": "5e82f1b2a2c4489da4e030a6e25fdea9b1c3d674",
+      "title": "Tror ikke KI-bobla sprekker: – De som tror vi slipper alt maset om KI, tar feil",
+      "link": "https://www.kode24.no/artikkel/tror-ikke-ki-bobla-sprekker-de-som-tror-vi-slipper-alt-maset-om-ki-tar-feil/277673",
+      "source": "Kode24",
+      "summary": "KI-aksjene raser på børsen, og flere mener KI-bobla sprekker. Men både investerings­direktør og KI-forsker advarer utviklere som tror KI-kjøret dermed er over.",
+      "published": "2026-11-06T13:29:45Z"
+    },
+    {
+      "id": "0080f30db951afb07442ee2da4d6bb5215906fa7",
+      "title": "Stoltenberg om KI-blodbad: – Internett overlevde dotcom-krisen",
+      "link": "https://www.kode24.no/artikkel/stoltenberg-om-ki-blodbad-internett-overlevde-dotcom-krisen/277729",
+      "source": "Kode24",
+      "summary": "Oljefondet er ned 1.500 milliarder kroner på grunn av KI-panikken på børsen. Men finansministeren tar det med ro.",
+      "published": "2026-11-06T12:45:08Z"
+    },
+    {
+      "id": "90e6db09d55d06506e34be5e4d0dacd8b49c9767",
+      "title": "Canva kutter eller flytter på 1.271 ansatte",
+      "link": "https://www.kode24.no/artikkel/canva-kutter-eller-flytter-pa-1271-ansatte/277538",
+      "source": "Kode24",
+      "summary": "Selskapet bak det grafiske verktøyet omorganiserer staben og vil ha flest mulig til Sydney i Australia. De som ikke kan, skal få seks måneder lønn og LinkedIn Premium i ett år.",
+      "published": "2026-11-06T10:33:54Z"
+    },
+    {
+      "id": "5453decc6db3f33dfd8aa99a7d1d3c018f017538",
+      "title": "«Nekter» utviklerne å håndkode: Kaller dem fabrikksjefer",
+      "link": "https://www.kode24.no/artikkel/nekter-utviklerne-a-handkode-kaller-dem-fabrikksjefer/277284",
+      "source": "Kode24",
+      "summary": "– Å si at vi ikke skal skrive kode for hånd har vært brått og vondt for mange, innrømmer produktdirektøren i Bislab.",
+      "published": "2026-11-06T10:20:53Z"
+    },
+    {
+      "id": "629574489e970aa6c4fa7668fe5c887a9fc0160c",
+      "title": "Blodbad på børsen etter KI-panikk",
+      "link": "https://www.kode24.no/artikkel/blodbad-pa-borsen-etter-ki-panikk/277659",
+      "source": "Kode24",
+      "summary": "Først falt børsen i USA, så Asia, fordi Demokratenes seier kan bety trangere tider i KI- og datasenter-bransjen. Trump raser.",
+      "published": "2026-11-06T07:49:08Z"
+    },
+    {
+      "id": "b395ad4937332b0f905243d856eb326beeeb8287",
+      "title": "Hackorama-uke: – Vi står midt i en perfekt storm av drit",
+      "link": "https://www.kode24.no/artikkel/hackorama-uke-vi-star-midt-i-en-perfekt-storm-av-drit/277637",
+      "source": "Kode24",
+      "summary": "– Samtidig som verden er på randen av krig, kan kjeltringer med KI-agenter få til mer ugang enn noen gang i historien, skriver Ole Petter i ukas nyhetsbrev.",
+      "published": "2026-11-06T04:00:00Z"
+    },
+    {
+      "id": "f333d8cce6ce4e8f411bb2c163577d0d395c25b0",
+      "title": "Inside GitHub’s new Git storage architecture",
+      "link": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
+      "source": "GitHub Blog",
+      "summary": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub’s new Git storage architecture appeared first on The GitHub Blog.",
+      "published": "2026-11-05T20:23:21Z",
+      "image": "https://github.blog/wp-content/uploads/2026/11/customer-growth.png?resize=1024%2C483"
+    },
+    {
+      "id": "0d1b605c8118e2e2c0b28d53284920cc541403d0",
+      "title": "Accessibility statements now have a home on GitHub",
+      "link": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/",
+      "source": "GitHub Blog",
+      "summary": "GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes. The post Accessibility statements now have a home on GitHub appeared first on The GitHub Blog.",
+      "published": "2026-11-05T16:00:00Z",
+      "image": "https://github.blog/wp-content/uploads/2026/11/Screenshot-2026-11-02-at-3.20.14-PM.png?resize=1024%2C680"
+    },
     {
       "id": "7a107d67cb0ce7bb667c9a0b25acf4f5bec4ae66",
       "title": "Gripr hacket: Opp mot 85.000 nordmenn rammet",
@@ -131,54 +197,6 @@
       "published": "2026-11-03T14:54:40Z"
     },
     {
-      "id": "0cf32bd0874055774169968fd524ccb7da455950",
-      "title": "Nicolai Tangen vinner lederpris",
-      "link": "https://www.kode24.no/artikkel/nicolai-tangen-vinner-lederpris/277315",
-      "source": "Kode24",
-      "summary": "– Han har selv sagt at alle organisasjoner trenger en «maniac» på toppen som maser om KI, skryter Atea, som kårer Nicolai Tangen til Årets digitaliseringsleder.",
-      "published": "2026-11-03T13:42:32Z"
-    },
-    {
-      "id": "4e7d77117491c82e715f8e78d38518f0051bc5aa",
-      "title": "Få norske apper klare for iPhone Duo",
-      "link": "https://www.kode24.no/artikkel/fa-norske-apper-klare-for-iphone-duo/277184",
-      "source": "Kode24",
-      "summary": "– Da jeg testet de største norske appene, ble jeg overrasket over at de færreste var tilpasset den nye formfaktoren, skriver designer og iPhone Duo-eier Espen Benoni.",
-      "published": "2026-11-03T13:13:06Z"
-    },
-    {
-      "id": "b1b512f401bcc6147011f5eadf1059e2d02b8780",
-      "title": "Garry bruker nær 2 millioner kroner i året på KI-agenter",
-      "link": "https://www.kode24.no/artikkel/garry-bruker-naer-2-millioner-kroner-i-aret-pa-ki-agenter/277262",
-      "source": "Kode24",
-      "summary": "Y Combinator-sjef Garry Tan bruker opptil 200.000 dollar årlig på KI-tokens.",
-      "published": "2026-11-03T11:58:11Z"
-    },
-    {
-      "id": "32f39a34b4a59c60cbfbd7202a592df8a445ddaf",
-      "title": "SUSE kutter 1 av 10 ansatte på grunn av KI",
-      "link": "https://www.kode24.no/artikkel/suse-kutter-1-av-10-ansatte-pa-grunn-av-ki/277222",
-      "source": "Kode24",
-      "summary": "Selskapet peker på automatisering og kunstig intelligens når de skal slanke staben.",
-      "published": "2026-11-03T09:21:52Z"
-    },
-    {
-      "id": "32d2dbc81f05a0d066589d056cee24b5186f387d",
-      "title": "Advarer etter fryser­-hacking: – Beskytt ID og passord!",
-      "link": "https://www.kode24.no/artikkel/advarer-etter-fryser-hacking-beskytt-id-og-passord/277143",
-      "source": "Kode24",
-      "summary": "Butikkfrysere Europa rundt ble hacket etter stjålet passord. – Ofte den viktigste angrepsvektoren, sier Geir Aasen, som også advarer mot å miste oversikt over agenter.",
-      "published": "2026-11-03T08:49:20Z"
-    },
-    {
-      "id": "c01593ffe93b8d0467ace176e04e0962f6feb64b",
-      "title": "Nord-Korea nekter for krypto-kuppet",
-      "link": "https://www.kode24.no/artikkel/nord-korea-nekter-for-krypto-kuppet/277198",
-      "source": "Kode24",
-      "summary": "Nekter for å ha stjålet 58 milliarder kroner i kryptovaluta fra kryptobørsen Binance.",
-      "published": "2026-11-03T08:00:49Z"
-    },
-    {
       "id": "8ca6d53d3d9b96fa7bb62a4282ed8a1ee9e43f46",
       "title": "Game Off 2026: The theme is SHIFT",
       "link": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
@@ -259,23 +277,6 @@
       "summary": "Introducing interactive refactoring in gopls and the LSP: a new capability that brings dynamic, multi-step refactorings into your favorite editor.",
       "published": "2026-10-16T00:00:00Z",
       "image": "https://go.dev/blog/interactive-refactoring/no-question.png"
-    },
-    {
-      "id": "32753c5d923d802152926bc2b92aa383cbd1c939",
-      "title": "The next developer interface is ambient intelligence",
-      "link": "https://github.blog/news-insights/company-news/the-next-developer-interface-is-ambient-intelligence/",
-      "source": "GitHub Blog",
-      "summary": "AI, agents, voice, and physical controls are shifting software development from operating tools to expressing intent—and helping developers stay focused on building. The post The next developer interface is ambient intelligence appeared first on The GitHub Blog.",
-      "published": "2026-10-15T19:39:27Z"
-    },
-    {
-      "id": "3571a14eebcbf3e8fa10efe6106e290605d4269d",
-      "title": "Staying Evergreen: How we automated secure access and repo hygiene in a shared org",
-      "link": "https://github.blog/engineering/platform-security/staying-evergreen-how-we-automated-secure-access-and-repo-hygiene-in-a-shared-org/",
-      "source": "GitHub Blog",
-      "summary": "Put native GitHub features to work to review outside collaborator access and archive stale repositories. The post Staying Evergreen: How we automated secure access and repo hygiene in a shared org appeared first on The GitHub Blog.",
-      "published": "2026-10-15T18:00:00Z",
-      "image": "https://github.blog/wp-content/uploads/2026/10/674986199-ee305d10-3419-4270-a829-41ed3da29fae.png?resize=528%2C221"
     },
     {
       "id": "db0f8d9dc5233f6df4ff983631ce70f50e281914",
