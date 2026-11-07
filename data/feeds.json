@@ -1,6 +1,22 @@
 {
-  "generated_at": "2026-11-06T13:56:59.361148Z",
+  "generated_at": "2026-11-07T12:41:09.177090Z",
   "items": [
+    {
+      "id": "b60d1ad958a341df2bd326fbbaee8653aa51d815",
+      "title": "Beyond code generation: A developer’s guide to agentic engineering",
+      "link": "https://github.blog/ai-and-ml/github-copilot/beyond-code-generation-a-developers-guide-to-agentic-engineering/",
+      "source": "GitHub Blog",
+      "summary": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A developer’s guide to agentic engineering appeared first on The...",
+      "published": "2026-11-06T22:15:59Z"
+    },
+    {
+      "id": "6397192bd9c2c7bddc157151aa3f941106365bf8",
+      "title": "Frykter KI-juks, men ber sensor bruke KI",
+      "link": "https://www.kode24.no/artikkel/frykter-ki-juks-men-ber-sensor-bruke-ki/277764",
+      "source": "Kode24",
+      "summary": "Regjeringens KI-utvalg vil fase ut hjemmeeksamener på grunn KI-fusk, men oppfordrer sensor til å bruke KI. – Dobbeltmoralsk, mener Norsk Studentorganisasjon (NSO).",
+      "published": "2026-11-06T14:27:52Z"
+    },
     {
       "id": "5e82f1b2a2c4489da4e030a6e25fdea9b1c3d674",
       "title": "Tror ikke KI-bobla sprekker: – De som tror vi slipper alt maset om KI, tar feil",
@@ -189,14 +205,6 @@
       "published": "2026-11-03T16:00:00Z"
     },
     {
-      "id": "2bfaa55bb0e7e9428a3839b18d8da49572b20554",
-      "title": "Han foreslås som ny visepresident for Nito",
-      "link": "https://www.kode24.no/artikkel/han-foreslas-som-ny-visepresident-for-nito/277373",
-      "source": "Kode24",
-      "summary": "Valgkomiteen peker på Kristian Botnen som ny nestleder i fagforeningen etter at Safina de Klerk trakk seg. Velges han, blir det to menn som på topp i Nito. I alle fall til neste år.",
-      "published": "2026-11-03T14:54:40Z"
-    },
-    {
       "id": "8ca6d53d3d9b96fa7bb62a4282ed8a1ee9e43f46",
       "title": "Game Off 2026: The theme is SHIFT",
       "link": "https://github.blog/open-source/gaming/game-off-2026-the-theme-is-shift/",
@@ -260,14 +268,6 @@
       "source": "GitHub Blog",
       "summary": "Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results. The post How 3 Java Champions are using GitHub Copilot for increased productivity appeared first on The GitHub Blog.",
       "published": "2026-10-20T16:05:03Z"
-    },
-    {
-      "id": "88c6cef59a0bb838017b0e3c450c8dfb7929d794",
-      "title": "How to continue a GitHub Copilot app session in VS Code",
-      "link": "https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code/",
-      "source": "GitHub Blog",
-      "summary": "Learn how to move an agent session from the GitHub Copilot app into VS Code without losing the conversation, code changes, or working context. The post How to continue a GitHub Copilot app session in VS Code appeared first on The GitHub Blog.",
-      "published": "2026-10-19T18:47:22Z"
     },
     {
       "id": "62b23ef21dc70db30c402893e1953578ac39411c",
