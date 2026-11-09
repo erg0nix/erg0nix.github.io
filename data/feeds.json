@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-11-08T12:58:19.074333Z",
+  "generated_at": "2026-11-09T15:39:06.039202Z",
   "items": [
+    {
+      "id": "8ce584221a315f28d560215e55ff486f87c89168",
+      "title": "Derfor «nekter» vi oss selv å kode for hånd",
+      "link": "https://www.kode24.no/artikkel/derfor-nekter-vi-oss-selv-a-kode-for-hand/277843",
+      "source": "Kode24",
+      "summary": "– Jeg elsker kode. Det betyr ikke at jeg må gjøre alt selv, skriver Piotr Rojek i Bislab, og forteller hvorfor de har gått helt over til KI-koding.",
+      "published": "2026-11-09T12:01:14Z"
+    },
+    {
+      "id": "b06706cfc97726890a1fafbf458756c4149e21b2",
+      "title": "Linux-skaper: Toppen av patch­-pokalypsen kan være forbi",
+      "link": "https://www.kode24.no/artikkel/linux-skaper-toppen-av-patch-pokalypsen-kan-vaere-forbi/277805",
+      "source": "Kode24",
+      "summary": "Linus Torvalds ser tegn til at den KI-promptede patch-syndefloden har passert toppen, ifølge The Register.",
+      "published": "2026-11-09T11:34:07Z"
+    },
+    {
+      "id": "2bfbaa32557e205f6f63c566a0818f1432de8f57",
+      "title": "Innfører grep mot datasentre i Norge: Bransjen reagerer",
+      "link": "https://www.kode24.no/artikkel/innforer-grep-mot-datasentre-i-norge-bransjen-reagerer/277820",
+      "source": "Kode24",
+      "summary": "Regjeringen vil innføre konsesjonsordning, og Statnett struper strømmen. Både Abelia og Norsk datasenterindustri reagerer på grepene.",
+      "published": "2026-11-09T10:33:33Z"
+    },
+    {
+      "id": "a2e822d070d6ac8cdd61c876d3e0dc61abeec4f4",
+      "title": "Stopper reservasjon av kraft til data­sentre i Norge",
+      "link": "https://www.kode24.no/artikkel/stopper-reservasjon-av-kraft-til-datasentre-i-norge/277792",
+      "source": "Kode24",
+      "summary": "Statnett setter ned foten, etter voldsom pågang.",
+      "published": "2026-11-09T08:18:57Z"
+    },
+    {
+      "id": "5312ba3a2eeb6f5229a80c811c7161b686ea2449",
+      "title": "Nvidia-sjefen har vært utro med spion­mistenkt",
+      "link": "https://www.kode24.no/artikkel/nvidia-sjefen-har-vaert-utro-med-spionmistenkt/277780",
+      "source": "Kode24",
+      "summary": "– Det finnes ingen unnskyldninger for det jeg har gjort, sier Jensen Huang, etter affære med det som kan være en kinesisk spion.",
+      "published": "2026-11-09T08:02:10Z"
+    },
+    {
+      "id": "fd23e52ff615bcb5913ffd2a1a49cd796f97652c",
+      "title": "Posten Bring skal spare med KI, uten å sparke utviklere",
+      "link": "https://www.kode24.no/artikkel/posten-bring-skal-spare-med-ki-uten-a-sparke-utviklere/277481",
+      "source": "Kode24",
+      "summary": "Posten Bring skal spare 25 prosent, bli 300 færre ansatte, og bruke KI for å komme dit. Likevel skal de få flere egne utviklere, forteller topplederne.",
+      "published": "2026-11-09T04:00:00Z"
+    },
     {
       "id": "b60d1ad958a341df2bd326fbbaee8653aa51d815",
       "title": "Beyond code generation: A developer’s guide to agentic engineering",
@@ -138,54 +186,6 @@
       "source": "Kode24",
       "summary": "Vi bruker KI for å avsløre KI, for så å bruke KI for å unngå å bli avslørt for å bruke KI. Absurditeten er komplett. KI-detektivene må finne et nytt spor.",
       "published": "2026-11-04T11:42:20Z"
-    },
-    {
-      "id": "38b06b18952c6b327b59f729ef8f59b85e20a770",
-      "title": "Google får kritikk: Skoler som blokkerer KI kan miste søketilgang",
-      "link": "https://www.kode24.no/artikkel/google-far-kritikk-skoler-som-blokkerer-ki-kan-miste-soketilgang/277423",
-      "source": "Kode24",
-      "summary": "Skoler som velger å blokkere all KI-bruk, kan samtidig miste tilgangen til Google Søk. Det har utløst politisk kritikk i USA.",
-      "published": "2026-11-04T11:37:03Z"
-    },
-    {
-      "id": "25382f0aa40002c6518e043c1bad6844da6e170b",
-      "title": "NSM, Forsvaret, politiet og PST får seg Starlink",
-      "link": "https://www.kode24.no/artikkel/nsm-forsvaret-politiet-og-pst-far-seg-starlink/277464",
-      "source": "Kode24",
-      "summary": "Kjøper tjenester for 450 millioner fra Marlink, som bruker Elons Musks Starlink. Uheldig, mener MDG.",
-      "published": "2026-11-04T09:43:18Z"
-    },
-    {
-      "id": "77d34a5fdff830160afc5350e95d92b4d6346eda",
-      "title": "Revolut kjører kinesisk modell lokalt, til en tiendedel av prisen",
-      "link": "https://www.kode24.no/artikkel/revolut-kjorer-kinesisk-modell-lokalt-til-en-tiendedel-av-prisen/277417",
-      "source": "Kode24",
-      "summary": "Sparer mye penger på å kjøre GLM lokalt, framfor å leie modeller fra amerikanske selskaper.",
-      "published": "2026-11-04T09:22:16Z"
-    },
-    {
-      "id": "507482168d72ba65edb844257c518108b7e657c6",
-      "title": "MDG ber regjeringen ta grep etter fryserhacking",
-      "link": "https://www.kode24.no/artikkel/mdg-ber-regjeringen-ta-grep-etter-fryserhacking/277402",
-      "source": "Kode24",
-      "summary": "– Dette er nok en sak som viser at vi i Norge ikke har tatt den digitale sikkerheten på alvor, og det gjør oss sårbare.",
-      "published": "2026-11-04T07:22:54Z"
-    },
-    {
-      "id": "2410cd4b9850b78abbb5d9de966c9f3374898516",
-      "title": "Havaristen og frukt­lager kan ha blitt fryserhacket",
-      "link": "https://www.kode24.no/artikkel/havaristen-og-fruktlager-kan-ha-blitt-fryserhacket/277388",
-      "source": "Kode24",
-      "summary": "Foreløpig er ingen av tilfellene bekreftet å henge sammen med angrepene i Europa, men vi kan forvente at også Norge blir rammet.",
-      "published": "2026-11-04T07:19:26Z"
-    },
-    {
-      "id": "c5ff56da1228b033dd6a716b039a439c26e42b1a",
-      "title": "Hva skal til før vi tør å gi agentene mer ansvar?",
-      "link": "https://www.kode24.no/artikkel/hva-skal-til-for-vi-tor-a-gi-agentene-mer-ansvar/277351",
-      "source": "Kode24",
-      "summary": "Fabrikkene ble ikke mer produktive av å sette en elmotor der dampmaskinen sto, og utviklingsteam blir ikke mer produktive av å gi hver utvikler en agent. I veien står systemer agentene ikke kan se inn i, og rutiner som forutsetter at et menneske sjekker alt.",
-      "published": "2026-11-04T04:00:00Z"
     },
     {
       "id": "6543454a201d076b37b1eab5bc43c35d13fb4cbb",
