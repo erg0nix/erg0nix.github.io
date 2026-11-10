@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-11-09T15:39:06.039202Z",
+  "generated_at": "2026-11-10T14:33:38.881616Z",
   "items": [
+    {
+      "id": "951d03089e027f97b34ed16ce88a8a6c85da0f68",
+      "title": "Regjeringen krever digital stresstesting av alle kommuner",
+      "link": "https://www.kode24.no/artikkel/regjeringen-krever-digital-stresstesting-av-alle-kommuner/278001",
+      "source": "Kode24",
+      "summary": "Alle norske kommuner må stressteste egen digital sikkerhet og lukke sårbarheter i systemene sine, slår regjeringen fast. Tirsdag møter de ordførere fra hele landet.",
+      "published": "2026-11-10T14:22:13Z"
+    },
+    {
+      "id": "359b111fe91c7909529898fc18d8863a4afffeeb",
+      "title": "Elvis- og Eminem-eierne raser mot Suno",
+      "link": "https://www.kode24.no/artikkel/elvis-og-eminem-eierne-raser-mot-suno/277912",
+      "source": "Kode24",
+      "summary": "– Sunos hensynsløse kappløp mot bunnen har som mål å gjøre menneskelig kreativitet overflødig, tordner rettighetshaverne til Elvis Presley og Eminem, og går til søksmål.",
+      "published": "2026-11-10T12:44:20Z"
+    },
+    {
+      "id": "7bb02bd5d4556cd521fab1985de5c819840cb4cb",
+      "title": "Mythos-modellen inn i Cisco- og IBM-produkter",
+      "link": "https://www.kode24.no/artikkel/mythos-modellen-inn-i-cisco-og-ibm-produkter/277940",
+      "source": "Kode24",
+      "summary": "Anthropics sterke sårbarhets-detektor av en modell skal inn i sikkerhetsprodukter fra tek-selskapene.",
+      "published": "2026-11-10T10:36:13Z"
+    },
+    {
+      "id": "64fc523645ff94c7ace29bb3ee1cedb5c206c568",
+      "title": "Kraftig økning av arbeidsledige IT-folk",
+      "link": "https://www.kode24.no/artikkel/kraftig-okning-av-arbeidsledige-it-folk/277720",
+      "source": "Kode24",
+      "summary": "Det er flere ledige stillinger, men også langt flere arbeidssøkere. – Vanskelig å peke på én bestemt årsak til utviklingen, sier Nav-forsker.",
+      "published": "2026-11-10T10:13:14Z"
+    },
+    {
+      "id": "48995432378539697325d2ec4c49651d6503c311",
+      "title": "ID-porten var nede i over to timer etter vedlikehold",
+      "link": "https://www.kode24.no/artikkel/id-porten-var-nede-i-over-to-timer-etter-vedlikehold/277930",
+      "source": "Kode24",
+      "summary": "Anbefalte nordmenn å heller ringe.",
+      "published": "2026-11-10T08:36:36Z"
+    },
+    {
+      "id": "6f484914be25fa68399fedce77ffbec5b136e30a",
+      "title": "Mener Iran står bak fryserhacking",
+      "link": "https://www.kode24.no/artikkel/mener-iran-star-bak-fryserhacking/277906",
+      "source": "Kode24",
+      "summary": "Og nå vil Frankrike slå tilbake.",
+      "published": "2026-11-10T08:31:01Z"
+    },
+    {
+      "id": "d02282d21e513dfd6b0154afdccdf20a6fb29780",
+      "title": "Nordmenn har brukt 8,8 milliarder tokens på Skatteetatens KI-chat",
+      "link": "https://www.kode24.no/artikkel/nordmenn-har-brukt-88-milliarder-tokens-pa-skatteetatens-ki-chat/276890",
+      "source": "Kode24",
+      "summary": "Og det bare hittil i år. Men prislappen er ikke like avskrekkende.",
+      "published": "2026-11-10T04:00:00Z"
+    },
     {
       "id": "8ce584221a315f28d560215e55ff486f87c89168",
       "title": "Derfor «nekter» vi oss selv å kode for hånd",
@@ -130,62 +186,6 @@
       "summary": "GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes. The post Accessibility statements now have a home on GitHub appeared first on The GitHub Blog.",
       "published": "2026-11-05T16:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2026/11/Screenshot-2026-11-02-at-3.20.14-PM.png?resize=1024%2C680"
-    },
-    {
-      "id": "7a107d67cb0ce7bb667c9a0b25acf4f5bec4ae66",
-      "title": "Gripr hacket: Opp mot 85.000 nordmenn rammet",
-      "link": "https://www.kode24.no/artikkel/gripr-hacket-opp-mot-85000-nordmenn-rammet/277524",
-      "source": "Kode24",
-      "summary": "Gripr, et verktøy for håndverkere, ble utsatt for dataangrep i oktober. Nå er data om alle kundene deres, og virksomhetenes kunder, på avveie.",
-      "published": "2026-11-05T12:13:30Z"
-    },
-    {
-      "id": "d50f14a0c24669daef07a944d04869f4cdac2f9e",
-      "title": "Apple bremser KI-bruk hos utviklerne: Maks 2.000 kroner dagen",
-      "link": "https://www.kode24.no/artikkel/apple-bremser-ki-bruk-hos-utviklerne-maks-2000-kroner-dagen/277600",
-      "source": "Kode24",
-      "summary": "Utviklere i Apple må redusere KI-bruken kraftig, men kan fortsatt bruke høye summer.",
-      "published": "2026-11-05T11:40:46Z"
-    },
-    {
-      "id": "24409a084376a9845ac9495e4794877b5a85d5c7",
-      "title": "Ba Claude finne hull i koden deres. Det fant den",
-      "link": "https://www.kode24.no/artikkel/ba-claude-finne-hull-i-koden-deres-det-fant-den/277568",
-      "source": "Kode24",
-      "summary": "Sercan Leylek fikk utviklerne i Fremtind til å slippe Claude løs på kodebasene deres, med en «ClaudeHack Workshop».",
-      "published": "2026-11-05T08:50:04Z"
-    },
-    {
-      "id": "18753fe012c8699a6a877f3f9b66f0f000a5509f",
-      "title": "Norad angrepet, data om over 20.000 kan være på avveie",
-      "link": "https://www.kode24.no/artikkel/norad-angrepet-data-om-over-20000-kan-vaere-pa-avveie/277566",
-      "source": "Kode24",
-      "summary": "– Vi kan ikke utelukke at navn på søkere i konfliktområder eller i autoritære stater har blitt hentet ut, sier Norad til Panorama Nyheter.",
-      "published": "2026-11-05T07:58:27Z"
-    },
-    {
-      "id": "e5f90125ad7c88a1ed5313adf3876ec3ab2c93e0",
-      "title": "Halvparten av utviklere føler seg pålagt å bruke KI",
-      "link": "https://www.kode24.no/artikkel/halvparten-av-utviklere-foler-seg-palagt-a-bruke-ki/277038",
-      "source": "Kode24",
-      "summary": "– Ikke fordi det er en uttalt regel, men fordi det har blitt standarden, sier én av dem. Men du har krav på å bli hørt om du er uenig.",
-      "published": "2026-11-05T04:00:00Z"
-    },
-    {
-      "id": "b5d96a3fd911935555797e0c60d24ba7750819ed",
-      "title": "NSR: Avverget flere dataangrep mot norske kjøleanlegg",
-      "link": "https://www.kode24.no/artikkel/nsr-avverget-flere-dataangrep-mot-norske-kjoleanlegg/277536",
-      "source": "Kode24",
-      "summary": "Næringslivets Sikkerhetsråd (NSR) sier de har avverget flere dataangrep mot norske kjøleanlegg og funnet at flere hadde eksponerte kjøleanlegg på nett.",
-      "published": "2026-11-04T14:47:14Z"
-    },
-    {
-      "id": "3d36fa45bfb8b9bc65065b5849a428964f7091ea",
-      "title": "– KI-detektivene er på feil spor",
-      "link": "https://www.kode24.no/artikkel/ki-detektivene-er-pa-feil-spor/276696",
-      "source": "Kode24",
-      "summary": "Vi bruker KI for å avsløre KI, for så å bruke KI for å unngå å bli avslørt for å bruke KI. Absurditeten er komplett. KI-detektivene må finne et nytt spor.",
-      "published": "2026-11-04T11:42:20Z"
     },
     {
       "id": "6543454a201d076b37b1eab5bc43c35d13fb4cbb",
