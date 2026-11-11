@@ -1,6 +1,70 @@
 {
-  "generated_at": "2026-11-10T14:33:38.881616Z",
+  "generated_at": "2026-11-11T13:48:52.599531Z",
   "items": [
+    {
+      "id": "2209d816935ed0bfe2d8eb7c705a374799183a9a",
+      "title": "Fra startup tilbake til konsulent: – Tar jeg med meg eierskap og fart",
+      "link": "https://www.kode24.no/artikkel/fra-startup-tilbake-til-konsulent-tar-jeg-med-meg-eierskap-og-fart/277960",
+      "source": "Kode24",
+      "summary": "Sunniva Block er tilbake i konsulenttilværelsen etter noen år i en startup.",
+      "published": "2026-11-11T12:14:00Z"
+    },
+    {
+      "id": "59b6bd09e55423c03929e4d734809faaef99ad3c",
+      "title": "FFI bruker KI, men anser dem som innside­­trusler",
+      "link": "https://www.kode24.no/artikkel/ffi-bruker-ki-men-anser-dem-som-innsidetrusler/277807",
+      "source": "Kode24",
+      "summary": "Forskere ved Forsvarets forskningsinstitutt slår fast at kunstig intelligens ikke kan stoles på. Samtidig «må» verktøyene brukes. Slik sikrer du sikkerheten rundt modellen likevel.",
+      "published": "2026-11-11T10:19:15Z"
+    },
+    {
+      "id": "1e0ba28b271e163ab20260ebcb644cdf1ec963de",
+      "title": "Iqran fra gigant til lilleputt: Gir rom for eget prosjekt",
+      "link": "https://www.kode24.no/artikkel/iqran-fra-gigant-til-lilleputt-gir-rom-for-eget-prosjekt/277882",
+      "source": "Kode24",
+      "summary": "Iqran Iftikhar går fra Capgemini til Arktaria. – Skjønte dette var rett sted da de sa jeg måtte satse på drømmen.",
+      "published": "2026-11-11T09:55:00Z"
+    },
+    {
+      "id": "12aee4fbc6b1c94cfe95353411ab5eda9a61657d",
+      "title": "Botnen er ny Nito-nestleder",
+      "link": "https://www.kode24.no/artikkel/botnen-er-ny-nito-nestleder/278052",
+      "source": "Kode24",
+      "summary": "Nitos ekstraordinære kongress valgte Kristian Botnen som ny visepresident etter at den forrige trakk seg. – Gleder meg til å ta fatt.",
+      "published": "2026-11-11T08:23:56Z"
+    },
+    {
+      "id": "a9c07da6b0e754a0e225a79876834117eb15d468",
+      "title": "GTA VI skapte 40% høyere trafikk i Norge",
+      "link": "https://www.kode24.no/artikkel/gta-vi-skapte-40-hoyere-trafikk-i-norge/278068",
+      "source": "Kode24",
+      "summary": "Nettrafikken i Norge økte kraftig etter at GTA VI ble tilgjengelig for nedlasting, forteller Telenor.",
+      "published": "2026-11-11T07:55:20Z"
+    },
+    {
+      "id": "5b3f94caffa5e17d6b1c688d3a9388c2c6bdb49c",
+      "title": "3 av 5 utviklere kler seg penere på jobb",
+      "link": "https://www.kode24.no/artikkel/3-av-5-utviklere-kler-seg-penere-pa-jobb/275102",
+      "source": "Kode24",
+      "summary": "Myten om utviklere i hettegensere stemmer ikke, viser kode24s ferske tall, og bekreftes av både en utvikler og en forsker.",
+      "published": "2026-11-11T04:00:00Z"
+    },
+    {
+      "id": "3d25d5c539161fb6b246f61ede6332a32afb77c9",
+      "title": "Git security vulnerabilities announced",
+      "link": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/",
+      "source": "GitHub Blog",
+      "summary": "Git is releasing updates addressing six security vulnerabilities affecting recursive clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git security vulnerabilities announced appeared first on The GitHub Blog.",
+      "published": "2026-11-10T18:00:00Z"
+    },
+    {
+      "id": "b7335880addf446e8d6bbc8712cd946b15dfcae1",
+      "title": "Riksrevisor-refs: Store svakheter i flere statlige IT-systemer",
+      "link": "https://www.kode24.no/artikkel/riksrevisor-refs-store-svakheter-i-flere-statlige-it-systemer/278027",
+      "source": "Kode24",
+      "summary": "Både hos Nav, Forsvarsbygg og Skatteetaten har riksrevisoren funnet store svakheter i IT-systemene. Dette har skapt stor usikkerhet rundt tallene i milliardregnskapene.",
+      "published": "2026-11-10T14:31:39Z"
+    },
     {
       "id": "951d03089e027f97b34ed16ce88a8a6c85da0f68",
       "title": "Regjeringen krever digital stresstesting av alle kommuner",
@@ -58,6 +122,15 @@
       "published": "2026-11-10T04:00:00Z"
     },
     {
+      "id": "ce9049d4911a18c8a213ae55b3901a5b1be3ecc6",
+      "title": "Go Turns 17",
+      "link": "https://go.dev/blog/17years",
+      "source": "Go Blog",
+      "summary": "Happy Birthday, Go!",
+      "published": "2026-11-10T00:00:00Z",
+      "image": "https://go.dev/blog/17years/go17.png"
+    },
+    {
       "id": "8ce584221a315f28d560215e55ff486f87c89168",
       "title": "Derfor «nekter» vi oss selv å kode for hånd",
       "link": "https://www.kode24.no/artikkel/derfor-nekter-vi-oss-selv-a-kode-for-hand/277843",
@@ -112,62 +185,6 @@
       "source": "GitHub Blog",
       "summary": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A developer’s guide to agentic engineering appeared first on The...",
       "published": "2026-11-06T22:15:59Z"
-    },
-    {
-      "id": "6397192bd9c2c7bddc157151aa3f941106365bf8",
-      "title": "Frykter KI-juks, men ber sensor bruke KI",
-      "link": "https://www.kode24.no/artikkel/frykter-ki-juks-men-ber-sensor-bruke-ki/277764",
-      "source": "Kode24",
-      "summary": "Regjeringens KI-utvalg vil fase ut hjemmeeksamener på grunn KI-fusk, men oppfordrer sensor til å bruke KI. – Dobbeltmoralsk, mener Norsk Studentorganisasjon (NSO).",
-      "published": "2026-11-06T14:27:52Z"
-    },
-    {
-      "id": "5e82f1b2a2c4489da4e030a6e25fdea9b1c3d674",
-      "title": "Tror ikke KI-bobla sprekker: – De som tror vi slipper alt maset om KI, tar feil",
-      "link": "https://www.kode24.no/artikkel/tror-ikke-ki-bobla-sprekker-de-som-tror-vi-slipper-alt-maset-om-ki-tar-feil/277673",
-      "source": "Kode24",
-      "summary": "KI-aksjene raser på børsen, og flere mener KI-bobla sprekker. Men både investerings­direktør og KI-forsker advarer utviklere som tror KI-kjøret dermed er over.",
-      "published": "2026-11-06T13:29:45Z"
-    },
-    {
-      "id": "0080f30db951afb07442ee2da4d6bb5215906fa7",
-      "title": "Stoltenberg om KI-blodbad: – Internett overlevde dotcom-krisen",
-      "link": "https://www.kode24.no/artikkel/stoltenberg-om-ki-blodbad-internett-overlevde-dotcom-krisen/277729",
-      "source": "Kode24",
-      "summary": "Oljefondet er ned 1.500 milliarder kroner på grunn av KI-panikken på børsen. Men finansministeren tar det med ro.",
-      "published": "2026-11-06T12:45:08Z"
-    },
-    {
-      "id": "90e6db09d55d06506e34be5e4d0dacd8b49c9767",
-      "title": "Canva kutter eller flytter på 1.271 ansatte",
-      "link": "https://www.kode24.no/artikkel/canva-kutter-eller-flytter-pa-1271-ansatte/277538",
-      "source": "Kode24",
-      "summary": "Selskapet bak det grafiske verktøyet omorganiserer staben og vil ha flest mulig til Sydney i Australia. De som ikke kan, skal få seks måneder lønn og LinkedIn Premium i ett år.",
-      "published": "2026-11-06T10:33:54Z"
-    },
-    {
-      "id": "5453decc6db3f33dfd8aa99a7d1d3c018f017538",
-      "title": "«Nekter» utviklerne å håndkode: Kaller dem fabrikksjefer",
-      "link": "https://www.kode24.no/artikkel/nekter-utviklerne-a-handkode-kaller-dem-fabrikksjefer/277284",
-      "source": "Kode24",
-      "summary": "– Å si at vi ikke skal skrive kode for hånd har vært brått og vondt for mange, innrømmer produktdirektøren i Bislab.",
-      "published": "2026-11-06T10:20:53Z"
-    },
-    {
-      "id": "629574489e970aa6c4fa7668fe5c887a9fc0160c",
-      "title": "Blodbad på børsen etter KI-panikk",
-      "link": "https://www.kode24.no/artikkel/blodbad-pa-borsen-etter-ki-panikk/277659",
-      "source": "Kode24",
-      "summary": "Først falt børsen i USA, så Asia, fordi Demokratenes seier kan bety trangere tider i KI- og datasenter-bransjen. Trump raser.",
-      "published": "2026-11-06T07:49:08Z"
-    },
-    {
-      "id": "b395ad4937332b0f905243d856eb326beeeb8287",
-      "title": "Hackorama-uke: – Vi står midt i en perfekt storm av drit",
-      "link": "https://www.kode24.no/artikkel/hackorama-uke-vi-star-midt-i-en-perfekt-storm-av-drit/277637",
-      "source": "Kode24",
-      "summary": "– Samtidig som verden er på randen av krig, kan kjeltringer med KI-agenter få til mer ugang enn noen gang i historien, skriver Ole Petter i ukas nyhetsbrev.",
-      "published": "2026-11-06T04:00:00Z"
     },
     {
       "id": "f333d8cce6ce4e8f411bb2c163577d0d395c25b0",
@@ -262,14 +279,6 @@
       "published": "2026-10-21T00:00:00Z"
     },
     {
-      "id": "fbec33bd28b4042ee248c464722f0a76086c4ff3",
-      "title": "How 3 Java Champions are using GitHub Copilot for increased productivity",
-      "link": "https://github.blog/ai-and-ml/github-copilot/how-3-java-champions-are-using-github-copilot-for-increased-productivity/",
-      "source": "GitHub Blog",
-      "summary": "Three Java Champions share how they use GitHub Copilot to solve problems, accelerate development, and keep humans responsible for the results. The post How 3 Java Champions are using GitHub Copilot for increased productivity appeared first on The GitHub Blog.",
-      "published": "2026-10-20T16:05:03Z"
-    },
-    {
       "id": "62b23ef21dc70db30c402893e1953578ac39411c",
       "title": "Interactive refactoring in gopls",
       "link": "https://go.dev/blog/interactive-refactoring",
@@ -319,14 +328,6 @@
       "summary": "Go 1.27 includes new goroutine leak profiles.",
       "published": "2026-09-02T00:00:00Z",
       "image": "https://go.dev/blog/goroutine-leak-profiles/gc-original.svg"
-    },
-    {
-      "id": "ee432ae628f758dad07db2ae5c7b653b90b15f5e",
-      "title": "Generic Methods",
-      "link": "https://go.dev/blog/generic-methods",
-      "source": "Go Blog",
-      "summary": "Go 1.27 adds generic methods—a highly desired language feature.",
-      "published": "2026-08-26T00:00:00Z"
     }
   ]
 }
