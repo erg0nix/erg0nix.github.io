@@ -1,6 +1,70 @@
 {
-  "generated_at": "2026-11-11T13:48:52.599531Z",
+  "generated_at": "2026-11-12T14:51:34.808734Z",
   "items": [
+    {
+      "id": "d3886ba311e2fec34efd4ccd45777c5134040189",
+      "title": "Kritisk til arbeidspress og hemmelighold rundt datasentre",
+      "link": "https://www.kode24.no/artikkel/kritisk-til-arbeidspress-og-hemmelighold-rundt-datasentre/278306",
+      "source": "Kode24",
+      "summary": "Fersk Fafo-rapport avslører høyt arbeidspress, lite utviklet partssamarbeid og utfordringer med arbeidsvilkår ved bygging av datasentre. Nito er kritisk.",
+      "published": "2026-11-12T14:49:36Z"
+    },
+    {
+      "id": "4bb243cdd4042f079fd151d42697ff5df943b9ac",
+      "title": "Jensen Huang går av etter utroskap- og spion-bråket",
+      "link": "https://www.kode24.no/artikkel/jensen-huang-gar-av-etter-utroskap-og-spion-braket/278334",
+      "source": "Kode24",
+      "summary": "Går av som president, administrerende direktør og styremedlem i Nvidia med umiddelbar virkning.",
+      "published": "2026-11-12T14:05:53Z"
+    },
+    {
+      "id": "ff874e17e1d2b6aa6830123509a09b133756cca7",
+      "title": "Når kommer junior­opprøret?",
+      "link": "https://www.kode24.no/artikkel/nar-kommer-junioropproret/278252",
+      "source": "Kode24",
+      "summary": "– Hvor lenge skal unge godta at veien inn i arbeidslivet blir stadig trangere? spør Niels Semb, og foreslår mål om at hver tiende nyansatt er en junior.",
+      "published": "2026-11-12T10:50:56Z"
+    },
+    {
+      "id": "3b9e2f3395c337a45cfccf66b6f6a9b33d1c3adf",
+      "title": "OpenAI skryter av bedre tider: «Bare» 109% i underskudd",
+      "link": "https://www.kode24.no/artikkel/openai-skryter-av-bedre-tider-bare-109-i-underskudd/278221",
+      "source": "Kode24",
+      "summary": "OpenAI går fortsatt med store tap, og rivalen Anthropic leder i bedriftsmarkedet.",
+      "published": "2026-11-12T09:40:41Z"
+    },
+    {
+      "id": "6cf41c674a80fdedfd8028ef37a998e04a848f05",
+      "title": "Advarer mot ekte data til testing, etter Navs lekkasje på GitHub",
+      "link": "https://www.kode24.no/artikkel/advarer-mot-ekte-data-til-testing-etter-navs-lekkasje-pa-github/278219",
+      "source": "Kode24",
+      "summary": "– Ikke bruk virkelige data som inneholder personopplysninger til testing! advarer Jan Sandtrø, etter NRKs avsløring av ekte data i Navs offentlige kode på GitHub.",
+      "published": "2026-11-12T09:05:26Z"
+    },
+    {
+      "id": "6954a99d49b8874d9e6e7dbb4d8c06085bed8bbf",
+      "title": "Nvidia-sjefen avslørt for enda et utroskap, kan miste jobben",
+      "link": "https://www.kode24.no/artikkel/nvidia-sjefen-avslort-for-enda-et-utroskap-kan-miste-jobben/278206",
+      "source": "Kode24",
+      "summary": "I tillegg til den spionmistenkte kvinnen, har Jensen Huang hatt et forhold til en kollega. Aksjen faller, og jobben kan ryke.",
+      "published": "2026-11-12T07:39:10Z"
+    },
+    {
+      "id": "1c8ad6d0e75ae69a084659439d2cc21221827961",
+      "title": "Fugleramme gikk viralt: «Magisk følelse»",
+      "link": "https://www.kode24.no/artikkel/fugleramme-gikk-viralt-magisk-folelse/278101",
+      "source": "Kode24",
+      "summary": "– Det aller gøyeste jeg hittil har gjort som utvikler, forteller Arne Giacomo Munthe-Kaas, etter suksessen med hobbyprosjektet «fugleramme».",
+      "published": "2026-11-12T04:00:00Z"
+    },
+    {
+      "id": "1c9ccfb084286ac8334cda869cfc98aee52aa897",
+      "title": "Lanserer første del av Felles Tjenesteplattform",
+      "link": "https://www.kode24.no/artikkel/lanserer-forste-del-av-felles-tjenesteplattform/278141",
+      "source": "Kode24",
+      "summary": "KS og KS Digital lanserer første del av Felles tjenesteplattform for offentlig sektor. Løsningen skal hindre dobbeltarbeid når kommuner kjøper velferdsteknologi.",
+      "published": "2026-11-11T13:54:47Z"
+    },
     {
       "id": "2209d816935ed0bfe2d8eb7c705a374799183a9a",
       "title": "Fra startup tilbake til konsulent: – Tar jeg med meg eierskap og fart",
@@ -106,22 +170,6 @@
       "published": "2026-11-10T08:36:36Z"
     },
     {
-      "id": "6f484914be25fa68399fedce77ffbec5b136e30a",
-      "title": "Mener Iran står bak fryserhacking",
-      "link": "https://www.kode24.no/artikkel/mener-iran-star-bak-fryserhacking/277906",
-      "source": "Kode24",
-      "summary": "Og nå vil Frankrike slå tilbake.",
-      "published": "2026-11-10T08:31:01Z"
-    },
-    {
-      "id": "d02282d21e513dfd6b0154afdccdf20a6fb29780",
-      "title": "Nordmenn har brukt 8,8 milliarder tokens på Skatteetatens KI-chat",
-      "link": "https://www.kode24.no/artikkel/nordmenn-har-brukt-88-milliarder-tokens-pa-skatteetatens-ki-chat/276890",
-      "source": "Kode24",
-      "summary": "Og det bare hittil i år. Men prislappen er ikke like avskrekkende.",
-      "published": "2026-11-10T04:00:00Z"
-    },
-    {
       "id": "ce9049d4911a18c8a213ae55b3901a5b1be3ecc6",
       "title": "Go Turns 17",
       "link": "https://go.dev/blog/17years",
@@ -129,54 +177,6 @@
       "summary": "Happy Birthday, Go!",
       "published": "2026-11-10T00:00:00Z",
       "image": "https://go.dev/blog/17years/go17.png"
-    },
-    {
-      "id": "8ce584221a315f28d560215e55ff486f87c89168",
-      "title": "Derfor «nekter» vi oss selv å kode for hånd",
-      "link": "https://www.kode24.no/artikkel/derfor-nekter-vi-oss-selv-a-kode-for-hand/277843",
-      "source": "Kode24",
-      "summary": "– Jeg elsker kode. Det betyr ikke at jeg må gjøre alt selv, skriver Piotr Rojek i Bislab, og forteller hvorfor de har gått helt over til KI-koding.",
-      "published": "2026-11-09T12:01:14Z"
-    },
-    {
-      "id": "b06706cfc97726890a1fafbf458756c4149e21b2",
-      "title": "Linux-skaper: Toppen av patch­-pokalypsen kan være forbi",
-      "link": "https://www.kode24.no/artikkel/linux-skaper-toppen-av-patch-pokalypsen-kan-vaere-forbi/277805",
-      "source": "Kode24",
-      "summary": "Linus Torvalds ser tegn til at den KI-promptede patch-syndefloden har passert toppen, ifølge The Register.",
-      "published": "2026-11-09T11:34:07Z"
-    },
-    {
-      "id": "2bfbaa32557e205f6f63c566a0818f1432de8f57",
-      "title": "Innfører grep mot datasentre i Norge: Bransjen reagerer",
-      "link": "https://www.kode24.no/artikkel/innforer-grep-mot-datasentre-i-norge-bransjen-reagerer/277820",
-      "source": "Kode24",
-      "summary": "Regjeringen vil innføre konsesjonsordning, og Statnett struper strømmen. Både Abelia og Norsk datasenterindustri reagerer på grepene.",
-      "published": "2026-11-09T10:33:33Z"
-    },
-    {
-      "id": "a2e822d070d6ac8cdd61c876d3e0dc61abeec4f4",
-      "title": "Stopper reservasjon av kraft til data­sentre i Norge",
-      "link": "https://www.kode24.no/artikkel/stopper-reservasjon-av-kraft-til-datasentre-i-norge/277792",
-      "source": "Kode24",
-      "summary": "Statnett setter ned foten, etter voldsom pågang.",
-      "published": "2026-11-09T08:18:57Z"
-    },
-    {
-      "id": "5312ba3a2eeb6f5229a80c811c7161b686ea2449",
-      "title": "Nvidia-sjefen har vært utro med spion­mistenkt",
-      "link": "https://www.kode24.no/artikkel/nvidia-sjefen-har-vaert-utro-med-spionmistenkt/277780",
-      "source": "Kode24",
-      "summary": "– Det finnes ingen unnskyldninger for det jeg har gjort, sier Jensen Huang, etter affære med det som kan være en kinesisk spion.",
-      "published": "2026-11-09T08:02:10Z"
-    },
-    {
-      "id": "fd23e52ff615bcb5913ffd2a1a49cd796f97652c",
-      "title": "Posten Bring skal spare med KI, uten å sparke utviklere",
-      "link": "https://www.kode24.no/artikkel/posten-bring-skal-spare-med-ki-uten-a-sparke-utviklere/277481",
-      "source": "Kode24",
-      "summary": "Posten Bring skal spare 25 prosent, bli 300 færre ansatte, og bruke KI for å komme dit. Likevel skal de få flere egne utviklere, forteller topplederne.",
-      "published": "2026-11-09T04:00:00Z"
     },
     {
       "id": "b60d1ad958a341df2bd326fbbaee8653aa51d815",
