@@ -1,6 +1,71 @@
 {
-  "generated_at": "2026-11-12T14:51:34.808734Z",
+  "generated_at": "2026-11-13T14:13:54.302081Z",
   "items": [
+    {
+      "id": "dad73c2f2e8aa7e78482cd2290f1d943550bdd2a",
+      "title": "Én av tre banner til KI – menn i 40-åra verst",
+      "link": "https://www.kode24.no/artikkel/en-av-tre-banner-til-ki-menn-i-40-ara-verst/278440",
+      "source": "Kode24",
+      "summary": "Men det er ikke spesielt effektivt, hevder ny rapport.",
+      "published": "2026-11-13T12:49:00Z"
+    },
+    {
+      "id": "b4130bf5cd50f5c40d3ef412bd9d5ae6d7f198d2",
+      "title": "KristenDate og Skeiv.no får bot: Viste medlemmer offentlig",
+      "link": "https://www.kode24.no/artikkel/kristendate-og-skeivno-far-bot-viste-medlemmer-offentlig/278430",
+      "source": "Kode24",
+      "summary": "Selskapet bak Kristendate og Skeiv.no må betale 140.000 kroner i overtredelsesgebyr til Datatilsynet, for å la brukeres bilde og navn ligge flere år på forsiden uten å ha fått samtykke.",
+      "published": "2026-11-13T10:07:43Z"
+    },
+    {
+      "id": "49907aef97440d4339b1889228b8f3f7bee7f792",
+      "title": "Starlink strupes i Ukraina igjen: MDG krever stans i norske kjøp",
+      "link": "https://www.kode24.no/artikkel/starlink-strupes-i-ukraina-igjen-mdg-krever-stans-i-norske-kjop/278415",
+      "source": "Kode24",
+      "summary": "Regjeringen må skrote avtalen om kjøp av Starlink-tjenester til 450 millioner kroner, mener MDG, etter at satelittselskapets tjenester igjen skal ha blitt begrenset i Ukraina.",
+      "published": "2026-11-13T08:08:27Z"
+    },
+    {
+      "id": "818a718b25f8c2e2fb989d9203c689d338f20566",
+      "title": "Outlook-problemer fortsetter, verden over",
+      "link": "https://www.kode24.no/artikkel/outlook-problemer-fortsetter-verden-over/278383",
+      "source": "Kode24",
+      "summary": "Microsoft opplyser at tiltakene som skulle løse de tekniske problemene med e-posttjenesten Outlook, ikke fungerer som forventet. Mange rammes, også i Norge.",
+      "published": "2026-11-13T07:46:36Z"
+    },
+    {
+      "id": "927252e3a62de3cc610200f06a8c95eafc70ad43",
+      "title": "Nvidia-aksjen raser, og et tredje utroskap avdekkes",
+      "link": "https://www.kode24.no/artikkel/nvidia-aksjen-raser-og-et-tredje-utroskap-avdekkes/278381",
+      "source": "Kode24",
+      "summary": "Samtidig har Donald Trump tanker om hvem som bør overta etter Jensen Huang.",
+      "published": "2026-11-13T07:44:11Z"
+    },
+    {
+      "id": "5346b2d4bb1d780eab553c217a286273ecbc49ed",
+      "title": "– Snart har vi ikke for få jobber, men for mange utviklere",
+      "link": "https://www.kode24.no/artikkel/snart-har-vi-ikke-for-fa-jobber-men-for-mange-utviklere/278351",
+      "source": "Kode24",
+      "summary": "Arbeidsledigheten vokser og vokser, mens bransjen fortsatt vil ha flere og flere IT-studenter.",
+      "published": "2026-11-13T04:00:00Z"
+    },
+    {
+      "id": "b26bd68dff7ddf822e27975d562df8b3c398e14b",
+      "title": "GitHub availability report: October 2026",
+      "link": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
+      "source": "GitHub Blog",
+      "summary": "In October, we experienced eight incidents that resulted in degraded performance across GitHub services. The post GitHub availability report: October 2026 appeared first on The GitHub Blog.",
+      "published": "2026-11-13T00:20:16Z",
+      "image": "https://github.blog/wp-content/uploads/2026/11/oct5-actions-jobs-starting-late.png?resize=1024%2C466"
+    },
+    {
+      "id": "2d4436613d2ac928eb4af643f38de1c08ce6f231",
+      "title": "Build once, run on any agent: A practical guide to agent skills",
+      "link": "https://github.blog/ai-and-ml/github-copilot/build-once-run-on-any-agent-a-practical-guide-to-agent-skills/",
+      "source": "GitHub Blog",
+      "summary": "Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them. The post Build once, run on any agent: A practical guide to agent skills appeared first on The GitHub Blog.",
+      "published": "2026-11-12T22:54:52Z"
+    },
     {
       "id": "d3886ba311e2fec34efd4ccd45777c5134040189",
       "title": "Kritisk til arbeidspress og hemmelighold rundt datasentre",
@@ -122,54 +187,6 @@
       "published": "2026-11-10T18:00:00Z"
     },
     {
-      "id": "b7335880addf446e8d6bbc8712cd946b15dfcae1",
-      "title": "Riksrevisor-refs: Store svakheter i flere statlige IT-systemer",
-      "link": "https://www.kode24.no/artikkel/riksrevisor-refs-store-svakheter-i-flere-statlige-it-systemer/278027",
-      "source": "Kode24",
-      "summary": "Både hos Nav, Forsvarsbygg og Skatteetaten har riksrevisoren funnet store svakheter i IT-systemene. Dette har skapt stor usikkerhet rundt tallene i milliardregnskapene.",
-      "published": "2026-11-10T14:31:39Z"
-    },
-    {
-      "id": "951d03089e027f97b34ed16ce88a8a6c85da0f68",
-      "title": "Regjeringen krever digital stresstesting av alle kommuner",
-      "link": "https://www.kode24.no/artikkel/regjeringen-krever-digital-stresstesting-av-alle-kommuner/278001",
-      "source": "Kode24",
-      "summary": "Alle norske kommuner må stressteste egen digital sikkerhet og lukke sårbarheter i systemene sine, slår regjeringen fast. Tirsdag møter de ordførere fra hele landet.",
-      "published": "2026-11-10T14:22:13Z"
-    },
-    {
-      "id": "359b111fe91c7909529898fc18d8863a4afffeeb",
-      "title": "Elvis- og Eminem-eierne raser mot Suno",
-      "link": "https://www.kode24.no/artikkel/elvis-og-eminem-eierne-raser-mot-suno/277912",
-      "source": "Kode24",
-      "summary": "– Sunos hensynsløse kappløp mot bunnen har som mål å gjøre menneskelig kreativitet overflødig, tordner rettighetshaverne til Elvis Presley og Eminem, og går til søksmål.",
-      "published": "2026-11-10T12:44:20Z"
-    },
-    {
-      "id": "7bb02bd5d4556cd521fab1985de5c819840cb4cb",
-      "title": "Mythos-modellen inn i Cisco- og IBM-produkter",
-      "link": "https://www.kode24.no/artikkel/mythos-modellen-inn-i-cisco-og-ibm-produkter/277940",
-      "source": "Kode24",
-      "summary": "Anthropics sterke sårbarhets-detektor av en modell skal inn i sikkerhetsprodukter fra tek-selskapene.",
-      "published": "2026-11-10T10:36:13Z"
-    },
-    {
-      "id": "64fc523645ff94c7ace29bb3ee1cedb5c206c568",
-      "title": "Kraftig økning av arbeidsledige IT-folk",
-      "link": "https://www.kode24.no/artikkel/kraftig-okning-av-arbeidsledige-it-folk/277720",
-      "source": "Kode24",
-      "summary": "Det er flere ledige stillinger, men også langt flere arbeidssøkere. – Vanskelig å peke på én bestemt årsak til utviklingen, sier Nav-forsker.",
-      "published": "2026-11-10T10:13:14Z"
-    },
-    {
-      "id": "48995432378539697325d2ec4c49651d6503c311",
-      "title": "ID-porten var nede i over to timer etter vedlikehold",
-      "link": "https://www.kode24.no/artikkel/id-porten-var-nede-i-over-to-timer-etter-vedlikehold/277930",
-      "source": "Kode24",
-      "summary": "Anbefalte nordmenn å heller ringe.",
-      "published": "2026-11-10T08:36:36Z"
-    },
-    {
       "id": "ce9049d4911a18c8a213ae55b3901a5b1be3ecc6",
       "title": "Go Turns 17",
       "link": "https://go.dev/blog/17years",
@@ -253,22 +270,6 @@
       "source": "Go Blog",
       "summary": "How the Go team responded to the eMudhra certificate compromise with our first-ever URGENT track security release.",
       "published": "2026-10-26T00:00:00Z"
-    },
-    {
-      "id": "fd319a83ade2969d4a0f3b0e0ee05f47a0ab997c",
-      "title": "How bug bounty sharpens one researcher’s security skills",
-      "link": "https://github.blog/security/how-bug-bounty-sharpens-one-researchers-security-skills/",
-      "source": "GitHub Blog",
-      "summary": "As Cybersecurity Awareness Month continues, the GitHub Bug Bounty team spotlights @r31n, diving into their research approach, favorite bug classes, and advice for aspiring hackers. The post How bug bounty sharpens one researcher’s security skills appeared first on The GitHub Blog.",
-      "published": "2026-10-22T17:21:30Z"
-    },
-    {
-      "id": "8f99f6dadd2c022890ba549ac6eb383b40753e10",
-      "title": "The bridge to agent-scale Git infrastructure",
-      "link": "https://github.blog/engineering/architecture-optimization/the-bridge-to-agent-scale-git-infrastructure/",
-      "source": "GitHub Blog",
-      "summary": "We moved a copy of 99.99999% of GitHub's repositories to Azure. Here's how per-reference quorums will bring over the rest, and how object storage lets reads scale independently. The post The bridge to agent-scale Git infrastructure appeared first on The GitHub Blog.",
-      "published": "2026-10-21T16:00:00Z"
     },
     {
       "id": "66d482bb5e43a968304df4cb520c3ed894188df7",
