@@ -1,6 +1,14 @@
 {
-  "generated_at": "2026-11-13T14:13:54.302081Z",
+  "generated_at": "2026-11-14T13:12:39.727757Z",
   "items": [
+    {
+      "id": "0864c4c756449a98e77e2539f99b3a20f3deb555",
+      "title": "KI forsterker det vi er gode på – og det vi er dårlige på",
+      "link": "https://www.kode24.no/artikkel/ki-forsterker-det-vi-er-gode-pa-og-det-vi-er-darlige-pa/278272",
+      "source": "Kode24",
+      "summary": "Debatten om KI i utviklerbransjen svinger mellom vekkelse og undergang. I Geodata har vi valgt å måle i stedet. Det vi ser, er mindre dramatisk, men er likevel krevende.",
+      "published": "2026-11-13T14:26:04Z"
+    },
     {
       "id": "dad73c2f2e8aa7e78482cd2290f1d943550bdd2a",
       "title": "Én av tre banner til KI – menn i 40-åra verst",
@@ -169,14 +177,6 @@
       "source": "Kode24",
       "summary": "Nettrafikken i Norge økte kraftig etter at GTA VI ble tilgjengelig for nedlasting, forteller Telenor.",
       "published": "2026-11-11T07:55:20Z"
-    },
-    {
-      "id": "5b3f94caffa5e17d6b1c688d3a9388c2c6bdb49c",
-      "title": "3 av 5 utviklere kler seg penere på jobb",
-      "link": "https://www.kode24.no/artikkel/3-av-5-utviklere-kler-seg-penere-pa-jobb/275102",
-      "source": "Kode24",
-      "summary": "Myten om utviklere i hettegensere stemmer ikke, viser kode24s ferske tall, og bekreftes av både en utvikler og en forsker.",
-      "published": "2026-11-11T04:00:00Z"
     },
     {
       "id": "3d25d5c539161fb6b246f61ede6332a32afb77c9",
