@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-11-15T13:40:43.152176Z",
+  "generated_at": "2026-11-16T15:14:07.392202Z",
   "items": [
+    {
+      "id": "00372b5b9a15ce75f74f092fe52628b43c2c46f5",
+      "title": "Slik sørger du for å være flyttbar når det blir krise",
+      "link": "https://www.kode24.no/artikkel/slik-sorger-du-for-a-vaere-flyttbar-nar-det-blir-krise/277045",
+      "source": "Kode24",
+      "summary": "Kan du flytte dataplattformen din dersom det blir akutt behov? Her er tips til en digital uværsdag.",
+      "published": "2026-11-16T13:09:15Z"
+    },
+    {
+      "id": "f3b9740de080ed7fbe27bf3797f4b27e5c4d48e8",
+      "title": "Ekspert­gruppe skal vurdere KI-trusler",
+      "link": "https://www.kode24.no/artikkel/ekspertgruppe-skal-vurdere-ki-trusler/278562",
+      "source": "Kode24",
+      "summary": "KI byr på både nye muligheter og nye trusler. Regjeringens svar er å sette ned en hurtigarbeidende ekspertgruppe for å vurdere hvordan teknologien kan true sikkerheten.",
+      "published": "2026-11-16T11:41:41Z"
+    },
+    {
+      "id": "02a48cbc180742cf316d2eede6ef0719e9a95e59",
+      "title": "Gartner: KI vil skape flere jobber enn den fjerner",
+      "link": "https://www.kode24.no/artikkel/gartner-ki-vil-skape-flere-jobber-enn-den-fjerner/278560",
+      "source": "Kode24",
+      "summary": "Mens mange frykter at kunstig intelligens skal gjøre dem overflødige, mener analyseselskapet at KI til slutt vil skape flere arbeidsplasser enn den erstatter.",
+      "published": "2026-11-16T11:40:49Z"
+    },
+    {
+      "id": "76a95083ae491e057f934420b33f3467ea53f9f8",
+      "title": "Derfor vil Tekna fortsatt utdanne flere IT-folk",
+      "link": "https://www.kode24.no/artikkel/derfor-vil-tekna-fortsatt-utdanne-flere-it-folk/278521",
+      "source": "Kode24",
+      "summary": "– Det har blitt vanskeligere for nyutdannede å få fotfeste i arbeidslivet, vedgår Tekna-presidenten. – Men det betyr ikke at Norge trenger mindre teknologikompetanse.",
+      "published": "2026-11-16T10:01:00Z"
+    },
+    {
+      "id": "f4aa34b7cfe921739bf5031b4cf15b2e7c4abdb3",
+      "title": "Rekordmange sårbarheter i 2026",
+      "link": "https://www.kode24.no/artikkel/rekordmange-sarbarheter-i-2026/278523",
+      "source": "Kode24",
+      "summary": "Over 100.000 sikkerhetshull er oppdaget så langt i år, over en dobling fra i fjor. Det gir utfordringer for alt fra bedrifter til åpen kildekode.",
+      "published": "2026-11-16T09:03:21Z"
+    },
+    {
+      "id": "e6829dfb55841f26aa849742703e96f9b2c4937e",
+      "title": "Staten bruker millioner på KI til egne ansatte",
+      "link": "https://www.kode24.no/artikkel/staten-bruker-millioner-pa-ki-til-egne-ansatte/276083",
+      "source": "Kode24",
+      "summary": "31 millioner skattekroner har ansattes KI-bruk i fem offentlige aktører kostet så langt i år. Og det er utviklerne som bruker mest.",
+      "published": "2026-11-16T04:00:00Z"
+    },
     {
       "id": "0864c4c756449a98e77e2539f99b3a20f3deb555",
       "title": "KI forsterker det vi er gode på – og det vi er dårlige på",
@@ -129,54 +177,6 @@
       "source": "Kode24",
       "summary": "– Det aller gøyeste jeg hittil har gjort som utvikler, forteller Arne Giacomo Munthe-Kaas, etter suksessen med hobbyprosjektet «fugleramme».",
       "published": "2026-11-12T04:00:00Z"
-    },
-    {
-      "id": "1c9ccfb084286ac8334cda869cfc98aee52aa897",
-      "title": "Lanserer første del av Felles Tjenesteplattform",
-      "link": "https://www.kode24.no/artikkel/lanserer-forste-del-av-felles-tjenesteplattform/278141",
-      "source": "Kode24",
-      "summary": "KS og KS Digital lanserer første del av Felles tjenesteplattform for offentlig sektor. Løsningen skal hindre dobbeltarbeid når kommuner kjøper velferdsteknologi.",
-      "published": "2026-11-11T13:54:47Z"
-    },
-    {
-      "id": "2209d816935ed0bfe2d8eb7c705a374799183a9a",
-      "title": "Fra startup tilbake til konsulent: – Tar jeg med meg eierskap og fart",
-      "link": "https://www.kode24.no/artikkel/fra-startup-tilbake-til-konsulent-tar-jeg-med-meg-eierskap-og-fart/277960",
-      "source": "Kode24",
-      "summary": "Sunniva Block er tilbake i konsulenttilværelsen etter noen år i en startup.",
-      "published": "2026-11-11T12:14:00Z"
-    },
-    {
-      "id": "59b6bd09e55423c03929e4d734809faaef99ad3c",
-      "title": "FFI bruker KI, men anser dem som innside­­trusler",
-      "link": "https://www.kode24.no/artikkel/ffi-bruker-ki-men-anser-dem-som-innsidetrusler/277807",
-      "source": "Kode24",
-      "summary": "Forskere ved Forsvarets forskningsinstitutt slår fast at kunstig intelligens ikke kan stoles på. Samtidig «må» verktøyene brukes. Slik sikrer du sikkerheten rundt modellen likevel.",
-      "published": "2026-11-11T10:19:15Z"
-    },
-    {
-      "id": "1e0ba28b271e163ab20260ebcb644cdf1ec963de",
-      "title": "Iqran fra gigant til lilleputt: Gir rom for eget prosjekt",
-      "link": "https://www.kode24.no/artikkel/iqran-fra-gigant-til-lilleputt-gir-rom-for-eget-prosjekt/277882",
-      "source": "Kode24",
-      "summary": "Iqran Iftikhar går fra Capgemini til Arktaria. – Skjønte dette var rett sted da de sa jeg måtte satse på drømmen.",
-      "published": "2026-11-11T09:55:00Z"
-    },
-    {
-      "id": "12aee4fbc6b1c94cfe95353411ab5eda9a61657d",
-      "title": "Botnen er ny Nito-nestleder",
-      "link": "https://www.kode24.no/artikkel/botnen-er-ny-nito-nestleder/278052",
-      "source": "Kode24",
-      "summary": "Nitos ekstraordinære kongress valgte Kristian Botnen som ny visepresident etter at den forrige trakk seg. – Gleder meg til å ta fatt.",
-      "published": "2026-11-11T08:23:56Z"
-    },
-    {
-      "id": "a9c07da6b0e754a0e225a79876834117eb15d468",
-      "title": "GTA VI skapte 40% høyere trafikk i Norge",
-      "link": "https://www.kode24.no/artikkel/gta-vi-skapte-40-hoyere-trafikk-i-norge/278068",
-      "source": "Kode24",
-      "summary": "Nettrafikken i Norge økte kraftig etter at GTA VI ble tilgjengelig for nedlasting, forteller Telenor.",
-      "published": "2026-11-11T07:55:20Z"
     },
     {
       "id": "3d25d5c539161fb6b246f61ede6332a32afb77c9",
