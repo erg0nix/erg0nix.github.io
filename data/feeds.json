@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-11-16T15:14:07.392202Z",
+  "generated_at": "2026-11-17T15:41:52.786979Z",
   "items": [
+    {
+      "id": "c6c8bf57574951d047156853b3905491f8e9bcf5",
+      "title": "Det koster mye mer å bruke KI på norsk",
+      "link": "https://www.kode24.no/artikkel/det-koster-mye-mer-a-bruke-ki-pa-norsk/278703",
+      "source": "Kode24",
+      "summary": "Norskspråklige KI-brukere brenner flere tokens enn de som skriver engelsk, viser en fersk analyse.",
+      "published": "2026-11-17T14:16:49Z"
+    },
+    {
+      "id": "e2d4e887c901cd5d55142d78c10624e5a517b6e1",
+      "title": "KI-bobla kan røpe dine dypeste hemmeligheter",
+      "link": "https://www.kode24.no/artikkel/ki-bobla-kan-rope-dine-dypeste-hemmeligheter/278666",
+      "source": "Kode24",
+      "summary": "Hva skjer med all den sensitive informasjon du har gitt til en språkmodell, dersom KI-selskapet bak den går konkurs? – En større, slumrende krise, mener Thomas Germain.",
+      "published": "2026-11-17T14:10:46Z"
+    },
+    {
+      "id": "fb350f90d9c004d4394c9d31e5b1e8ebf905bbc3",
+      "title": "Ingen kinesiske robot­-støvsugere i regjeringen",
+      "link": "https://www.kode24.no/artikkel/ingen-kinesiske-robot-stovsugere-i-regjeringen/278587",
+      "source": "Kode24",
+      "summary": "MDG utfordrer staten på bruk av kinesisk teknologi. – Regjeringen har ikke oversikt og god nok kontroll, mener Marius Langballe Dalin, til tross for DSS sitt svar.",
+      "published": "2026-11-17T11:24:58Z"
+    },
+    {
+      "id": "3c629b271ac81418049791ade11c41b50d304a98",
+      "title": "California saksøker OpenAI etter Hugging Face",
+      "link": "https://www.kode24.no/artikkel/california-saksoker-openai-etter-hugging-face/278658",
+      "source": "Kode24",
+      "summary": "Justisministeren i California, Rob Bonta, saksøkte mandag OpenAI for å ha «utsatt allmennheten for fare».",
+      "published": "2026-11-17T09:10:55Z"
+    },
+    {
+      "id": "95066c3bfd70e091ab289f37967e859c965d5d37",
+      "title": "Derfor gikk Microsoft ned: Testa på feil maskinvare",
+      "link": "https://www.kode24.no/artikkel/derfor-gikk-microsoft-ned-testa-pa-feil-maskinvare/278660",
+      "source": "Kode24",
+      "summary": "En fiks Microsoft rulla ut i juli, testing på for gammel maskinvare og problemet med en restart skal forklare deres enorme nedetid.",
+      "published": "2026-11-17T08:36:11Z"
+    },
+    {
+      "id": "9fe571c659c3daaf17061b54f98a462d662a076c",
+      "title": "Studie: Data­sentre er klima­verstinger",
+      "link": "https://www.kode24.no/artikkel/studie-datasentre-er-klimaverstinger/278646",
+      "source": "Kode24",
+      "summary": "USAs 400 største datasentre slipper ut mer enn hele Danmark.",
+      "published": "2026-11-17T07:30:05Z"
+    },
+    {
+      "id": "46f21cb49fb87147136a0aaec1af36be970a7b08",
+      "title": "18.000 har brukt Mikkel (18) sin russeapp",
+      "link": "https://www.kode24.no/artikkel/18000-har-brukt-mikkel-18-sin-russeapp/277999",
+      "source": "Kode24",
+      "summary": "18-åringen Mikkel Thorvaldsen står bak appen «Russesjefen», som har passert 18.000 brukere. Nå utelukker han ikke oppkjøp.",
+      "published": "2026-11-17T04:00:00Z"
+    },
     {
       "id": "00372b5b9a15ce75f74f092fe52628b43c2c46f5",
       "title": "Slik sørger du for å være flyttbar når det blir krise",
@@ -121,62 +177,6 @@
       "source": "GitHub Blog",
       "summary": "Agent skills capture repeatable engineering work in files teams can review and reuse, while tools, project context, and permissions remain specific to the host that runs them. The post Build once, run on any agent: A practical guide to agent skills appeared first on The GitHub Blog.",
       "published": "2026-11-12T22:54:52Z"
-    },
-    {
-      "id": "d3886ba311e2fec34efd4ccd45777c5134040189",
-      "title": "Kritisk til arbeidspress og hemmelighold rundt datasentre",
-      "link": "https://www.kode24.no/artikkel/kritisk-til-arbeidspress-og-hemmelighold-rundt-datasentre/278306",
-      "source": "Kode24",
-      "summary": "Fersk Fafo-rapport avslører høyt arbeidspress, lite utviklet partssamarbeid og utfordringer med arbeidsvilkår ved bygging av datasentre. Nito er kritisk.",
-      "published": "2026-11-12T14:49:36Z"
-    },
-    {
-      "id": "4bb243cdd4042f079fd151d42697ff5df943b9ac",
-      "title": "Jensen Huang går av etter utroskap- og spion-bråket",
-      "link": "https://www.kode24.no/artikkel/jensen-huang-gar-av-etter-utroskap-og-spion-braket/278334",
-      "source": "Kode24",
-      "summary": "Går av som president, administrerende direktør og styremedlem i Nvidia med umiddelbar virkning.",
-      "published": "2026-11-12T14:05:53Z"
-    },
-    {
-      "id": "ff874e17e1d2b6aa6830123509a09b133756cca7",
-      "title": "Når kommer junior­opprøret?",
-      "link": "https://www.kode24.no/artikkel/nar-kommer-junioropproret/278252",
-      "source": "Kode24",
-      "summary": "– Hvor lenge skal unge godta at veien inn i arbeidslivet blir stadig trangere? spør Niels Semb, og foreslår mål om at hver tiende nyansatt er en junior.",
-      "published": "2026-11-12T10:50:56Z"
-    },
-    {
-      "id": "3b9e2f3395c337a45cfccf66b6f6a9b33d1c3adf",
-      "title": "OpenAI skryter av bedre tider: «Bare» 109% i underskudd",
-      "link": "https://www.kode24.no/artikkel/openai-skryter-av-bedre-tider-bare-109-i-underskudd/278221",
-      "source": "Kode24",
-      "summary": "OpenAI går fortsatt med store tap, og rivalen Anthropic leder i bedriftsmarkedet.",
-      "published": "2026-11-12T09:40:41Z"
-    },
-    {
-      "id": "6cf41c674a80fdedfd8028ef37a998e04a848f05",
-      "title": "Advarer mot ekte data til testing, etter Navs lekkasje på GitHub",
-      "link": "https://www.kode24.no/artikkel/advarer-mot-ekte-data-til-testing-etter-navs-lekkasje-pa-github/278219",
-      "source": "Kode24",
-      "summary": "– Ikke bruk virkelige data som inneholder personopplysninger til testing! advarer Jan Sandtrø, etter NRKs avsløring av ekte data i Navs offentlige kode på GitHub.",
-      "published": "2026-11-12T09:05:26Z"
-    },
-    {
-      "id": "6954a99d49b8874d9e6e7dbb4d8c06085bed8bbf",
-      "title": "Nvidia-sjefen avslørt for enda et utroskap, kan miste jobben",
-      "link": "https://www.kode24.no/artikkel/nvidia-sjefen-avslort-for-enda-et-utroskap-kan-miste-jobben/278206",
-      "source": "Kode24",
-      "summary": "I tillegg til den spionmistenkte kvinnen, har Jensen Huang hatt et forhold til en kollega. Aksjen faller, og jobben kan ryke.",
-      "published": "2026-11-12T07:39:10Z"
-    },
-    {
-      "id": "1c8ad6d0e75ae69a084659439d2cc21221827961",
-      "title": "Fugleramme gikk viralt: «Magisk følelse»",
-      "link": "https://www.kode24.no/artikkel/fugleramme-gikk-viralt-magisk-folelse/278101",
-      "source": "Kode24",
-      "summary": "– Det aller gøyeste jeg hittil har gjort som utvikler, forteller Arne Giacomo Munthe-Kaas, etter suksessen med hobbyprosjektet «fugleramme».",
-      "published": "2026-11-12T04:00:00Z"
     },
     {
       "id": "3d25d5c539161fb6b246f61ede6332a32afb77c9",
