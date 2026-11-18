@@ -1,6 +1,64 @@
 {
-  "generated_at": "2026-11-17T15:41:52.786979Z",
+  "generated_at": "2026-11-18T15:21:34.924516Z",
   "items": [
+    {
+      "id": "6868786a6280992f6437d16ab58b71285a910b96",
+      "title": "Vipps, så har vi nytt abonne­ments­-system",
+      "link": "https://www.kode24.no/artikkel/vipps-sa-har-vi-nytt-abonnements-system/278444",
+      "source": "Kode24",
+      "summary": "CTO Martin Opstad Reistadbakk flytta kundene over til Vipps, med Claude. – Så langt har ingen blitt trukket to ganger, og ingen penger har forsvunnet.",
+      "published": "2026-11-18T10:35:00Z"
+    },
+    {
+      "id": "4a2d18d30b4bc63227876b52ccde0dc3dab35ff5",
+      "title": "Frykter én KI-modell med all makt: «Da er det over, for oss alle»",
+      "link": "https://www.kode24.no/artikkel/frykter-en-ki-modell-med-all-makt-da-er-det-over-for-oss-alle/278804",
+      "source": "Kode24",
+      "summary": "Microsoft-sjef Satya Nadella advarer mot et framtidsscenario der én AGI-modell får monopol.",
+      "published": "2026-11-18T09:53:45Z"
+    },
+    {
+      "id": "c4f09b9e618c6d14265271dae1504a0171aa6435",
+      "title": "Nato får sikkerhet fra OpenAI",
+      "link": "https://www.kode24.no/artikkel/nato-far-sikkerhet-fra-openai/278790",
+      "source": "Kode24",
+      "summary": "Får tilgang til Daybreak-plattformen for datasikkerhet.",
+      "published": "2026-11-18T08:05:28Z"
+    },
+    {
+      "id": "80801fb725e755b9182b30c5ca38d578f0afb34b",
+      "title": "Angrep mot Equinor",
+      "link": "https://www.kode24.no/artikkel/angrep-mot-equinor/278779",
+      "source": "Kode24",
+      "summary": "– Ansatte kan oppleve forstyrrelser på enkelte tjenester, forteller selskapet.",
+      "published": "2026-11-18T07:59:58Z"
+    },
+    {
+      "id": "dc6dfe89ce5b74f9ace5facf53d5e8a2d8bfe427",
+      "title": "Vil få bort junior-tittelen",
+      "link": "https://www.kode24.no/artikkel/vil-fa-bort-junior-tittelen/278626",
+      "source": "Kode24",
+      "summary": "– «Junior» sier noe om hvor lite erfaring personen har, men ingenting om hva hen faktisk skal gjøre, skriver Marielle Mortensdatter, om arbeidsmarkedet post-KI.",
+      "published": "2026-11-18T04:00:00Z"
+    },
+    {
+      "id": "df058a366be1cb165401343d8a863ab0ef944c3e",
+      "title": "Maintainers don’t need more AI bug reports. They need fixes.",
+      "link": "https://github.blog/open-source/maintainers/maintainers-dont-need-more-ai-bug-reports-they-need-fixes/",
+      "source": "GitHub Blog",
+      "summary": "In the Codename MDASH pilot, GitHub and Microsoft turned thousands of raw AI findings into 99 checked, private reports with suggested fixes for six widely used open source projects. Maintainers have already fixed more than half. The post Maintainers don’t need more AI bug reports. They need fixes....",
+      "published": "2026-11-17T18:29:29Z",
+      "image": "https://github.blog/wp-content/uploads/2026/11/01-participating-projects.png?resize=1024%2C576"
+    },
+    {
+      "id": "d21a29b79316cba48541dcf1f54db22203826992",
+      "title": "Building the Agent Host Protocol for sessions that continue across devices",
+      "link": "https://github.blog/engineering/engineering-principles/building-the-agent-host-protocol-for-sessions-that-continue-across-devices/",
+      "source": "GitHub Blog",
+      "summary": "Discover how we built the open Agent Host Protocol to keep your agent sessions accessible across editors, apps, phones, and the cloud. The post Building the Agent Host Protocol for sessions that continue across devices appeared first on The GitHub Blog.",
+      "published": "2026-11-17T18:20:40Z",
+      "image": "https://github.blog/wp-content/uploads/2026/11/ahp-protocol-state.png?resize=1024%2C512"
+    },
     {
       "id": "c6c8bf57574951d047156853b3905491f8e9bcf5",
       "title": "Det koster mye mer å bruke KI på norsk",
@@ -122,46 +180,6 @@
       "published": "2026-11-13T12:49:00Z"
     },
     {
-      "id": "b4130bf5cd50f5c40d3ef412bd9d5ae6d7f198d2",
-      "title": "KristenDate og Skeiv.no får bot: Viste medlemmer offentlig",
-      "link": "https://www.kode24.no/artikkel/kristendate-og-skeivno-far-bot-viste-medlemmer-offentlig/278430",
-      "source": "Kode24",
-      "summary": "Selskapet bak Kristendate og Skeiv.no må betale 140.000 kroner i overtredelsesgebyr til Datatilsynet, for å la brukeres bilde og navn ligge flere år på forsiden uten å ha fått samtykke.",
-      "published": "2026-11-13T10:07:43Z"
-    },
-    {
-      "id": "49907aef97440d4339b1889228b8f3f7bee7f792",
-      "title": "Starlink strupes i Ukraina igjen: MDG krever stans i norske kjøp",
-      "link": "https://www.kode24.no/artikkel/starlink-strupes-i-ukraina-igjen-mdg-krever-stans-i-norske-kjop/278415",
-      "source": "Kode24",
-      "summary": "Regjeringen må skrote avtalen om kjøp av Starlink-tjenester til 450 millioner kroner, mener MDG, etter at satelittselskapets tjenester igjen skal ha blitt begrenset i Ukraina.",
-      "published": "2026-11-13T08:08:27Z"
-    },
-    {
-      "id": "818a718b25f8c2e2fb989d9203c689d338f20566",
-      "title": "Outlook-problemer fortsetter, verden over",
-      "link": "https://www.kode24.no/artikkel/outlook-problemer-fortsetter-verden-over/278383",
-      "source": "Kode24",
-      "summary": "Microsoft opplyser at tiltakene som skulle løse de tekniske problemene med e-posttjenesten Outlook, ikke fungerer som forventet. Mange rammes, også i Norge.",
-      "published": "2026-11-13T07:46:36Z"
-    },
-    {
-      "id": "927252e3a62de3cc610200f06a8c95eafc70ad43",
-      "title": "Nvidia-aksjen raser, og et tredje utroskap avdekkes",
-      "link": "https://www.kode24.no/artikkel/nvidia-aksjen-raser-og-et-tredje-utroskap-avdekkes/278381",
-      "source": "Kode24",
-      "summary": "Samtidig har Donald Trump tanker om hvem som bør overta etter Jensen Huang.",
-      "published": "2026-11-13T07:44:11Z"
-    },
-    {
-      "id": "5346b2d4bb1d780eab553c217a286273ecbc49ed",
-      "title": "– Snart har vi ikke for få jobber, men for mange utviklere",
-      "link": "https://www.kode24.no/artikkel/snart-har-vi-ikke-for-fa-jobber-men-for-mange-utviklere/278351",
-      "source": "Kode24",
-      "summary": "Arbeidsledigheten vokser og vokser, mens bransjen fortsatt vil ha flere og flere IT-studenter.",
-      "published": "2026-11-13T04:00:00Z"
-    },
-    {
       "id": "b26bd68dff7ddf822e27975d562df8b3c398e14b",
       "title": "GitHub availability report: October 2026",
       "link": "https://github.blog/news-insights/company-news/github-availability-report-october-2026/",
@@ -183,7 +201,7 @@
       "title": "Git security vulnerabilities announced",
       "link": "https://github.blog/open-source/git/git-security-vulnerabilities-announced-7/",
       "source": "GitHub Blog",
-      "summary": "Git is releasing updates addressing six security vulnerabilities affecting recursive clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git security vulnerabilities announced appeared first on The GitHub Blog.",
+      "summary": "Git is releasing updates addressing six security vulnerabilities affecting clones, reference handling, merges, binary patches, and imports. Here is what users need to know. The post Git security vulnerabilities announced appeared first on The GitHub Blog.",
       "published": "2026-11-10T18:00:00Z"
     },
     {
@@ -245,23 +263,6 @@
       "source": "GitHub Blog",
       "summary": "GitHub’s annual month-long game jam is back for its 14th year! This November, make a game inspired by the theme SHIFT. Change gears, swap perspectives, bend reality, or just press a certain key. The post Game Off 2026: The theme is SHIFT appeared first on The GitHub Blog.",
       "published": "2026-11-01T21:36:00Z"
-    },
-    {
-      "id": "59e5d23d51ae3f7783950f45c08e5daed2a46f3d",
-      "title": "GitHub Universe 2026: Evolving every layer of the stack",
-      "link": "https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack/",
-      "source": "GitHub Blog",
-      "summary": "Today, we laid out our vision for GitHub as the most comprehensive, end-to-end software delivery system in the world. The post GitHub Universe 2026: Evolving every layer of the stack appeared first on The GitHub Blog.",
-      "published": "2026-10-28T16:09:28Z"
-    },
-    {
-      "id": "abd38049b4ab7ab93230dfa1de28d488cd078bb6",
-      "title": "Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents",
-      "link": "https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents/",
-      "source": "GitHub Blog",
-      "summary": "See how a record year of growth reached every industry, every field, and every kind of builder in the 2026 Octoverse report. The post Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents appeared first on The GitHub Blog.",
-      "published": "2026-10-28T16:07:40Z",
-      "image": "https://github.blog/wp-content/uploads/2026/10/Octoverse2026_BlogVisual_1.jpg?resize=1024%2C576"
     },
     {
       "id": "62b9aacb66ffa5924e892296ef40d52147daa957",
