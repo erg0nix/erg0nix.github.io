@@ -1,6 +1,70 @@
 {
-  "generated_at": "2026-11-18T15:21:34.924516Z",
+  "generated_at": "2026-11-19T15:27:39.766736Z",
   "items": [
+    {
+      "id": "44465ef655b88e1abcca0653b572000e4567fa10",
+      "title": "Kritisk sårbarhet funnet i Java-teknologi",
+      "link": "https://www.kode24.no/artikkel/kritisk-sarbarhet-funnet-i-java-teknologi/279034",
+      "source": "Kode24",
+      "summary": "Sikkerhetseksperter og utenlandske myndigheter slår alarm om en sårbarhet i verdens tredje største programmeringsspråk.",
+      "published": "2026-11-19T14:56:43Z"
+    },
+    {
+      "id": "5f832346cfefbae001195d27b95ee5fba411c9eb",
+      "title": "Slik laga dei Digitalt dødsbo: – Omfattande utviklingsarbeid",
+      "link": "https://www.kode24.no/artikkel/slik-laga-dei-digitalt-dodsbo-omfattande-utviklingsarbeid/278904",
+      "source": "Kode24",
+      "summary": "Den første versjonen består av åtte appar, fleire av Digdirs fellesløysingar og data frå 71 bankar og 12 forsikringsselskap.",
+      "published": "2026-11-19T12:55:18Z"
+    },
+    {
+      "id": "853661f0b8ab2f9c5d278d1d9a8cb20ba13490e3",
+      "title": "NSM advarer om kritiske feil i Nginx og BIG-IP",
+      "link": "https://www.kode24.no/artikkel/nsm-advarer-om-kritiske-feil-i-nginx-og-big-ip/278990",
+      "source": "Kode24",
+      "summary": "Nasjonal sikkerhetsmyndighet oppfordrer til å installere sikkerhetsoppdateringer for å hindre at serverne blir overtatt av hackere.",
+      "published": "2026-11-19T11:59:27Z"
+    },
+    {
+      "id": "cd593fe456ce6c99a722814cf7d9b860eb282e18",
+      "title": "1 av 3 nyansatte i 2027 er nyutdanna",
+      "link": "https://www.kode24.no/artikkel/1-av-3-nyansatte-i-2027-er-nyutdanna/278910",
+      "source": "Kode24",
+      "summary": "– kode24 spør hvorfor bransjen vil ha flere IT-studenter når juniorene ikke får jobb. Svaret ligger hos oss som er arbeidsgivere, mener Inger Johansen i Accenture, som tar grep.",
+      "published": "2026-11-19T09:48:17Z"
+    },
+    {
+      "id": "58658f7c96f49f9f8d60e8f23fd2057d54c22546",
+      "title": "Nettbil skal doble staben, ansetter to nye utviklere",
+      "link": "https://www.kode24.no/artikkel/nettbil-skal-doble-staben-ansetter-to-nye-utviklere/278862",
+      "source": "Kode24",
+      "summary": "Abenayan og William er nyansatt som utviklere i Nettbil. Selskapet skal ta hele plattformen over til Typescript, og bygge om infrastruktur, database og arktitektur.",
+      "published": "2026-11-19T07:53:25Z"
+    },
+    {
+      "id": "21e456bde36bdb5dd2be4aacf634536dbd9be97f",
+      "title": "Alle hullene og fiksene kan stå bak data-trøbbelet i USA for tida",
+      "link": "https://www.kode24.no/artikkel/alle-hullene-og-fiksene-kan-sta-bak-data-trobbelet-i-usa-for-tida/278881",
+      "source": "Kode24",
+      "summary": "Flyplasser og myndigheter opplever nedetid, men det skal ikke være snakk om angrep. Snarere tvert i mot kan det dreie seg om sikkerhetsoppdateringer.",
+      "published": "2026-11-19T07:41:01Z"
+    },
+    {
+      "id": "00f7440ed77832f794122c8d20738ae3a82255ae",
+      "title": "Bruker millioner på KI, ingen vet nøyaktig effekt",
+      "link": "https://www.kode24.no/artikkel/bruker-millioner-pa-ki-ingen-vet-noyaktig-effekt/278112",
+      "source": "Kode24",
+      "summary": "Offentlige etater har varierende resultater å vise til av all KI-bruken sin. – Den mest målbare effekten er fornøyde ansatte, sier Hans Kristian Flaatten i Nav.",
+      "published": "2026-11-19T04:00:00Z"
+    },
+    {
+      "id": "6ac533fae67977a913f76a7bb2cc351d8abca551",
+      "title": "Minnelekkasje med React Query på Next.js-servere",
+      "link": "https://www.kode24.no/artikkel/minnelekkasje-med-react-query-pa-nextjs-servere/278845",
+      "source": "Kode24",
+      "summary": "Mystisk minnelekkasje med snodig løsning, forvirrende oppførsel i skjemaer og årets State of JavaScript i ukas ForrigeUke.",
+      "published": "2026-11-18T13:49:44Z"
+    },
     {
       "id": "6868786a6280992f6437d16ab58b71285a910b96",
       "title": "Vipps, så har vi nytt abonne­ments­-system",
@@ -114,70 +178,6 @@
       "source": "Kode24",
       "summary": "18-åringen Mikkel Thorvaldsen står bak appen «Russesjefen», som har passert 18.000 brukere. Nå utelukker han ikke oppkjøp.",
       "published": "2026-11-17T04:00:00Z"
-    },
-    {
-      "id": "00372b5b9a15ce75f74f092fe52628b43c2c46f5",
-      "title": "Slik sørger du for å være flyttbar når det blir krise",
-      "link": "https://www.kode24.no/artikkel/slik-sorger-du-for-a-vaere-flyttbar-nar-det-blir-krise/277045",
-      "source": "Kode24",
-      "summary": "Kan du flytte dataplattformen din dersom det blir akutt behov? Her er tips til en digital uværsdag.",
-      "published": "2026-11-16T13:09:15Z"
-    },
-    {
-      "id": "f3b9740de080ed7fbe27bf3797f4b27e5c4d48e8",
-      "title": "Ekspert­gruppe skal vurdere KI-trusler",
-      "link": "https://www.kode24.no/artikkel/ekspertgruppe-skal-vurdere-ki-trusler/278562",
-      "source": "Kode24",
-      "summary": "KI byr på både nye muligheter og nye trusler. Regjeringens svar er å sette ned en hurtigarbeidende ekspertgruppe for å vurdere hvordan teknologien kan true sikkerheten.",
-      "published": "2026-11-16T11:41:41Z"
-    },
-    {
-      "id": "02a48cbc180742cf316d2eede6ef0719e9a95e59",
-      "title": "Gartner: KI vil skape flere jobber enn den fjerner",
-      "link": "https://www.kode24.no/artikkel/gartner-ki-vil-skape-flere-jobber-enn-den-fjerner/278560",
-      "source": "Kode24",
-      "summary": "Mens mange frykter at kunstig intelligens skal gjøre dem overflødige, mener analyseselskapet at KI til slutt vil skape flere arbeidsplasser enn den erstatter.",
-      "published": "2026-11-16T11:40:49Z"
-    },
-    {
-      "id": "76a95083ae491e057f934420b33f3467ea53f9f8",
-      "title": "Derfor vil Tekna fortsatt utdanne flere IT-folk",
-      "link": "https://www.kode24.no/artikkel/derfor-vil-tekna-fortsatt-utdanne-flere-it-folk/278521",
-      "source": "Kode24",
-      "summary": "– Det har blitt vanskeligere for nyutdannede å få fotfeste i arbeidslivet, vedgår Tekna-presidenten. – Men det betyr ikke at Norge trenger mindre teknologikompetanse.",
-      "published": "2026-11-16T10:01:00Z"
-    },
-    {
-      "id": "f4aa34b7cfe921739bf5031b4cf15b2e7c4abdb3",
-      "title": "Rekordmange sårbarheter i 2026",
-      "link": "https://www.kode24.no/artikkel/rekordmange-sarbarheter-i-2026/278523",
-      "source": "Kode24",
-      "summary": "Over 100.000 sikkerhetshull er oppdaget så langt i år, over en dobling fra i fjor. Det gir utfordringer for alt fra bedrifter til åpen kildekode.",
-      "published": "2026-11-16T09:03:21Z"
-    },
-    {
-      "id": "e6829dfb55841f26aa849742703e96f9b2c4937e",
-      "title": "Staten bruker millioner på KI til egne ansatte",
-      "link": "https://www.kode24.no/artikkel/staten-bruker-millioner-pa-ki-til-egne-ansatte/276083",
-      "source": "Kode24",
-      "summary": "31 millioner skattekroner har ansattes KI-bruk i fem offentlige aktører kostet så langt i år. Og det er utviklerne som bruker mest.",
-      "published": "2026-11-16T04:00:00Z"
-    },
-    {
-      "id": "0864c4c756449a98e77e2539f99b3a20f3deb555",
-      "title": "KI forsterker det vi er gode på – og det vi er dårlige på",
-      "link": "https://www.kode24.no/artikkel/ki-forsterker-det-vi-er-gode-pa-og-det-vi-er-darlige-pa/278272",
-      "source": "Kode24",
-      "summary": "Debatten om KI i utviklerbransjen svinger mellom vekkelse og undergang. I Geodata har vi valgt å måle i stedet. Det vi ser, er mindre dramatisk, men er likevel krevende.",
-      "published": "2026-11-13T14:26:04Z"
-    },
-    {
-      "id": "dad73c2f2e8aa7e78482cd2290f1d943550bdd2a",
-      "title": "Én av tre banner til KI – menn i 40-åra verst",
-      "link": "https://www.kode24.no/artikkel/en-av-tre-banner-til-ki-menn-i-40-ara-verst/278440",
-      "source": "Kode24",
-      "summary": "Men det er ikke spesielt effektivt, hevder ny rapport.",
-      "published": "2026-11-13T12:49:00Z"
     },
     {
       "id": "b26bd68dff7ddf822e27975d562df8b3c398e14b",
