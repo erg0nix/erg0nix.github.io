@@ -1,6 +1,14 @@
 {
-  "generated_at": "2026-11-20T15:04:46.983618Z",
+  "generated_at": "2026-11-21T14:25:00.560519Z",
   "items": [
+    {
+      "id": "05e2d4402904d395c5790cc8a73070119f40dd6b",
+      "title": "Hos Apple er «data­mus» greit, mens «mus» er vulgært",
+      "link": "https://www.kode24.no/artikkel/hos-apple-er-datamus-greit-mens-mus-er-vulgaert/278929",
+      "source": "Kode24",
+      "summary": "Helge Sverre Hessevik Liseth har gravd seg ned i Apples ordliste over støtende norske ord, og funnet flere overraskelser.",
+      "published": "2026-11-21T04:00:00Z"
+    },
     {
       "id": "4189d1d84557fe61b10f135660aff77d2e736642",
       "title": "Bruker millioner på KI-tjeneste. Stemples som «ubrukelig»",
@@ -160,14 +168,6 @@
       "source": "Kode24",
       "summary": "Microsoft-sjef Satya Nadella advarer mot et framtidsscenario der én AGI-modell får monopol.",
       "published": "2026-11-18T09:53:45Z"
-    },
-    {
-      "id": "c4f09b9e618c6d14265271dae1504a0171aa6435",
-      "title": "Nato får sikkerhet fra OpenAI",
-      "link": "https://www.kode24.no/artikkel/nato-far-sikkerhet-fra-openai/278790",
-      "source": "Kode24",
-      "summary": "Får tilgang til Daybreak-plattformen for datasikkerhet.",
-      "published": "2026-11-18T08:05:28Z"
     },
     {
       "id": "df058a366be1cb165401343d8a863ab0ef944c3e",
