@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-11-22T14:18:27.086349Z",
+  "generated_at": "2026-11-23T17:41:33.772746Z",
   "items": [
+    {
+      "id": "a98f26ea64de0094db478b5fa12de17fc1dda631",
+      "title": "Nytt dataangrep mot ID-porten",
+      "link": "https://www.kode24.no/artikkel/nytt-dataangrep-mot-id-porten/279264",
+      "source": "Kode24",
+      "summary": "Et nytt dataangrep har rammet ID-Porten og MinID, noe som fører til driftsforstyrrelser og ustabile tjenester.",
+      "published": "2026-11-23T14:39:57Z"
+    },
+    {
+      "id": "2f9020172347b5d503e55ef5d178a8ffb50573c8",
+      "title": "Jensen Huang gjeninnsettes",
+      "link": "https://www.kode24.no/artikkel/jensen-huang-gjeninnsettes/279304",
+      "source": "Kode24",
+      "summary": "Jensen Huang gjeninnsettes som toppsjef i Nvidia, opplyser selskapet.",
+      "published": "2026-11-23T14:20:08Z"
+    },
+    {
+      "id": "1faac4b847879b34e23898397298e4bcef47f830",
+      "title": "NSM advarer: Secrets og named values er trolig på avveie",
+      "link": "https://www.kode24.no/artikkel/nsm-advarer-secrets-og-named-values-er-trolig-pa-avveie/279238",
+      "source": "Kode24",
+      "summary": "Cyberangrepet mot Equinor var rettet mot en Microsoft-tjeneste for å administrere API-tjenester. Nasjonal sikkerhetsmyndighet anbefaler å rullere alle tokens og secrets.",
+      "published": "2026-11-23T10:26:05Z"
+    },
+    {
+      "id": "90f054a49e1fb02d942290612a532c13a5b574b8",
+      "title": "– Ikke bli et KI-søppelmenneske",
+      "link": "https://www.kode24.no/artikkel/ikke-bli-et-ki-soppelmenneske/279157",
+      "source": "Kode24",
+      "summary": "– KI er det beste verktøyet jeg har fått i jobben på mange år. Brukt feil kan det imidlertid fort skape mye ekstraarbeid for alle rundt deg, skriver Steinar Kollerud i Alv.",
+      "published": "2026-11-23T10:00:00Z"
+    },
+    {
+      "id": "7651d3930949b78872bde62b3ec31c711c17f40e",
+      "title": "CNN: FBI etterforsker nytt hackerangrep mot FBIs database",
+      "link": "https://www.kode24.no/artikkel/cnn-fbi-etterforsker-nytt-hackerangrep-mot-fbis-database/279197",
+      "source": "Kode24",
+      "summary": "FBIs nasjonale kriminalitetsregister (NCIC) skal ha blitt hacket for andre gang på få måneder, melder CNN.",
+      "published": "2026-11-23T09:14:29Z"
+    },
+    {
+      "id": "21d1b12b892e4a5471c25c5006601b6d6cfdd8c6",
+      "title": "Typografi­ekspert hyller Norge: – Langt bedre enn andre!",
+      "link": "https://www.kode24.no/artikkel/typografiekspert-hyller-norge-langt-bedre-enn-andre/278296",
+      "source": "Kode24",
+      "summary": "Oliver Schöndorfer mener norske virksomheter er blant de flinkeste i verden til å investere i egne skrifttyper. – For vår del var kostnaden et argument, sier NRK.",
+      "published": "2026-11-23T04:00:00Z"
+    },
     {
       "id": "05e2d4402904d395c5790cc8a73070119f40dd6b",
       "title": "Hos Apple er «data­mus» greit, mens «mus» er vulgært",
@@ -120,54 +168,6 @@
       "source": "Kode24",
       "summary": "– kode24 spør hvorfor bransjen vil ha flere IT-studenter når juniorene ikke får jobb. Svaret ligger hos oss som er arbeidsgivere, mener Inger Johansen i Accenture, som tar grep.",
       "published": "2026-11-19T09:48:17Z"
-    },
-    {
-      "id": "58658f7c96f49f9f8d60e8f23fd2057d54c22546",
-      "title": "Nettbil skal doble staben, ansetter to nye utviklere",
-      "link": "https://www.kode24.no/artikkel/nettbil-skal-doble-staben-ansetter-to-nye-utviklere/278862",
-      "source": "Kode24",
-      "summary": "Abenayan og William er nyansatt som utviklere i Nettbil. Selskapet skal ta hele plattformen over til Typescript, og bygge om infrastruktur, database og arktitektur.",
-      "published": "2026-11-19T07:53:25Z"
-    },
-    {
-      "id": "21e456bde36bdb5dd2be4aacf634536dbd9be97f",
-      "title": "Alle hullene og fiksene kan stå bak data-trøbbelet i USA for tida",
-      "link": "https://www.kode24.no/artikkel/alle-hullene-og-fiksene-kan-sta-bak-data-trobbelet-i-usa-for-tida/278881",
-      "source": "Kode24",
-      "summary": "Flyplasser og myndigheter opplever nedetid, men det skal ikke være snakk om angrep. Snarere tvert i mot kan det dreie seg om sikkerhetsoppdateringer.",
-      "published": "2026-11-19T07:41:01Z"
-    },
-    {
-      "id": "00f7440ed77832f794122c8d20738ae3a82255ae",
-      "title": "Bruker millioner på KI, ingen vet nøyaktig effekt",
-      "link": "https://www.kode24.no/artikkel/bruker-millioner-pa-ki-ingen-vet-noyaktig-effekt/278112",
-      "source": "Kode24",
-      "summary": "Offentlige etater har varierende resultater å vise til av all KI-bruken sin. – Den mest målbare effekten er fornøyde ansatte, sier Hans Kristian Flaatten i Nav.",
-      "published": "2026-11-19T04:00:00Z"
-    },
-    {
-      "id": "6ac533fae67977a913f76a7bb2cc351d8abca551",
-      "title": "Minnelekkasje med React Query på Next.js-servere",
-      "link": "https://www.kode24.no/artikkel/minnelekkasje-med-react-query-pa-nextjs-servere/278845",
-      "source": "Kode24",
-      "summary": "Mystisk minnelekkasje med snodig løsning, forvirrende oppførsel i skjemaer og årets State of JavaScript i ukas ForrigeUke.",
-      "published": "2026-11-18T13:49:44Z"
-    },
-    {
-      "id": "6868786a6280992f6437d16ab58b71285a910b96",
-      "title": "Vipps, så har vi nytt abonne­ments­-system",
-      "link": "https://www.kode24.no/artikkel/vipps-sa-har-vi-nytt-abonnements-system/278444",
-      "source": "Kode24",
-      "summary": "CTO Martin Opstad Reistadbakk flytta kundene over til Vipps, med Claude. – Så langt har ingen blitt trukket to ganger, og ingen penger har forsvunnet.",
-      "published": "2026-11-18T10:35:00Z"
-    },
-    {
-      "id": "4a2d18d30b4bc63227876b52ccde0dc3dab35ff5",
-      "title": "Frykter én KI-modell med all makt: «Da er det over, for oss alle»",
-      "link": "https://www.kode24.no/artikkel/frykter-en-ki-modell-med-all-makt-da-er-det-over-for-oss-alle/278804",
-      "source": "Kode24",
-      "summary": "Microsoft-sjef Satya Nadella advarer mot et framtidsscenario der én AGI-modell får monopol.",
-      "published": "2026-11-18T09:53:45Z"
     },
     {
       "id": "df058a366be1cb165401343d8a863ab0ef944c3e",
