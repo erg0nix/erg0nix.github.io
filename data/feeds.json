@@ -1,6 +1,55 @@
 {
-  "generated_at": "2026-11-23T17:41:33.772746Z",
+  "generated_at": "2026-11-24T17:13:20.263498Z",
   "items": [
+    {
+      "id": "b1a95c2c8264c1362bac1b78befe5d5784f94765",
+      "title": "These are the gifts developers will actually want",
+      "link": "https://github.blog/news-insights/company-news/these-are-the-gifts-developers-will-actually-want/",
+      "source": "GitHub Blog",
+      "summary": "The developer you're shopping for hasn’t shared their holiday wish list with you yet? Check out these gifts, plus our Black Friday discount all week long. The post These are the gifts developers will actually want appeared first on The GitHub Blog.",
+      "published": "2026-11-24T16:00:00Z",
+      "image": "https://github.blog/wp-content/uploads/2026/11/Universe-4-4.jpg?resize=1024%2C576"
+    },
+    {
+      "id": "bd193f26bb62217717d2311a7eb8c2413aff176b",
+      "title": "Micaelsen: – Bør ha strategier for leverandør­bytte",
+      "link": "https://www.kode24.no/artikkel/micaelsen-bor-ha-strategier-for-leverandorbytte/279253",
+      "source": "Kode24",
+      "summary": "Microsofts Outlook-problemer førte til store problemer for staten. Nå ber digitaliseringsministeren både private og offentlige aktører lage flytteplaner.",
+      "published": "2026-11-24T13:06:21Z"
+    },
+    {
+      "id": "6e4c9ac69a33b436b75c72b7d7257a4a8651eeac",
+      "title": "KI løste matte­problem, men ingen kan lese beviset",
+      "link": "https://www.kode24.no/artikkel/ki-loste-matteproblem-men-ingen-kan-lese-beviset/279365",
+      "source": "Kode24",
+      "summary": "Anthropic hevder at Claude har løst et eldgammelt matematisk problem. Men løsningen har utløst debatt om hvorvidt et bevis egentlig er verdifullt dersom det ikke kan forstås av mennesker.",
+      "published": "2026-11-24T10:50:35Z"
+    },
+    {
+      "id": "7393e99146e09ac51a1683da10c8b644a459ebd8",
+      "title": "Dette kan tidligere teknologi­­­skifter lære oss om KI og jobbene",
+      "link": "https://www.kode24.no/artikkel/dette-kan-tidligere-teknologiskifter-laere-oss-om-ki-og-jobbene/278771",
+      "source": "Kode24",
+      "summary": "– Hver ny teknologi har fått oss til å frykte for jobbene. Hva skjedde de forrige gangene, og er det annerledes nå, spør Henrik Holum i dette leserinnlegget.",
+      "published": "2026-11-24T08:55:51Z"
+    },
+    {
+      "id": "82620cb74da3e70bee5e509d4a4fad0e3c9340a5",
+      "title": "Nvidia-fest på Wall Street – Nasdaq opp 6,5 prosent",
+      "link": "https://www.kode24.no/artikkel/nvidia-fest-pa-wall-street-nasdaq-opp-65-prosent/279346",
+      "source": "Kode24",
+      "summary": "Etter nyheten om at Jensen Huang gjør comeback som toppsjef i Nvidia, steg selskapets aksjer 31,5 prosent.",
+      "published": "2026-11-24T06:50:17Z"
+    },
+    {
+      "id": "e67a396c8d536c800294fecc0691aa27287f1c16",
+      "title": "Rubberduck lokker utviklere med gratis månedskort",
+      "link": "https://www.kode24.no/artikkel/rubberduck-lokker-utviklere-med-gratis-manedskort/278689",
+      "source": "Kode24",
+      "summary": "Det lille konsulentselskapet bruker 131.000 i året på månedskort til ansatte. – Vil redusere kø-sitting på E6.",
+      "published": "2026-11-24T02:28:00Z"
+    },
     {
       "id": "a98f26ea64de0094db478b5fa12de17fc1dda631",
       "title": "Nytt dataangrep mot ID-porten",
@@ -122,52 +171,12 @@
       "published": "2026-11-20T07:15:17Z"
     },
     {
-      "id": "4414a99ca519b4baccac9b2ac39dce73f3cfeec3",
-      "title": "– Jeg orker ikke å høre om det vibbekoda hobby­prosjektet ditt",
-      "link": "https://www.kode24.no/artikkel/jeg-orker-ikke-a-hore-om-det-vibbekoda-hobbyprosjektet-ditt/279015",
-      "source": "Kode24",
-      "summary": "– Du vil ikke tro hvor mange som sliter med nøyaktig det samme som deg, og hvor mange tjenester som allerede kan løse det for deg, skriver Ole Petter i ukas nyhetsbrev.",
-      "published": "2026-11-20T04:00:00Z"
-    },
-    {
       "id": "3e0e6174df0038fc0abe2cc8435ad1356add86f6",
       "title": "The best things in open source are built together",
       "link": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
       "source": "GitHub Blog",
       "summary": "Introducing Replica and the Open Source Accessibility Framework, new open source projects for collaboration and inclusion. The post The best things in open source are built together appeared first on The GitHub Blog.",
       "published": "2026-11-19T16:00:00Z"
-    },
-    {
-      "id": "44465ef655b88e1abcca0653b572000e4567fa10",
-      "title": "Kritisk sårbarhet funnet i Java-teknologi",
-      "link": "https://www.kode24.no/artikkel/kritisk-sarbarhet-funnet-i-java-teknologi/279034",
-      "source": "Kode24",
-      "summary": "Sikkerhetseksperter og utenlandske myndigheter slår alarm om en sårbarhet i verdens tredje største programmeringsspråk.",
-      "published": "2026-11-19T14:56:43Z"
-    },
-    {
-      "id": "5f832346cfefbae001195d27b95ee5fba411c9eb",
-      "title": "Slik laga dei Digitalt dødsbo: – Omfattande utviklingsarbeid",
-      "link": "https://www.kode24.no/artikkel/slik-laga-dei-digitalt-dodsbo-omfattande-utviklingsarbeid/278904",
-      "source": "Kode24",
-      "summary": "Den første versjonen består av åtte appar, fleire av Digdirs fellesløysingar og data frå 71 bankar og 12 forsikringsselskap.",
-      "published": "2026-11-19T12:55:18Z"
-    },
-    {
-      "id": "853661f0b8ab2f9c5d278d1d9a8cb20ba13490e3",
-      "title": "NSM advarer om kritiske feil i Nginx og BIG-IP",
-      "link": "https://www.kode24.no/artikkel/nsm-advarer-om-kritiske-feil-i-nginx-og-big-ip/278990",
-      "source": "Kode24",
-      "summary": "Nasjonal sikkerhetsmyndighet oppfordrer til å installere sikkerhetsoppdateringer for å hindre at serverne blir overtatt av hackere.",
-      "published": "2026-11-19T11:59:27Z"
-    },
-    {
-      "id": "cd593fe456ce6c99a722814cf7d9b860eb282e18",
-      "title": "1 av 3 nyansatte i 2027 er nyutdanna",
-      "link": "https://www.kode24.no/artikkel/1-av-3-nyansatte-i-2027-er-nyutdanna/278910",
-      "source": "Kode24",
-      "summary": "– kode24 spør hvorfor bransjen vil ha flere IT-studenter når juniorene ikke får jobb. Svaret ligger hos oss som er arbeidsgivere, mener Inger Johansen i Accenture, som tar grep.",
-      "published": "2026-11-19T09:48:17Z"
     },
     {
       "id": "df058a366be1cb165401343d8a863ab0ef944c3e",
@@ -255,14 +264,6 @@
       "summary": "Go 1.27 introduces new encoding/json/v2 and encoding/json/jsontext packages.",
       "published": "2026-11-04T00:00:00Z",
       "image": "https://go.dev/blog/jsonv2/api.png"
-    },
-    {
-      "id": "bdad9a9970416eddebfdbe6a3503b3ade9054b00",
-      "title": "Arnis turns any place on Earth into a Minecraft world",
-      "link": "https://github.blog/open-source/maintainers/arnis-turns-any-place-on-earth-into-a-minecraft-world/",
-      "source": "GitHub Blog",
-      "summary": "Louis Erbkamm built the first prototype in his free time. Now GitHub Copilot helps him maintain it alone. The post Arnis turns any place on Earth into a Minecraft world appeared first on The GitHub Blog.",
-      "published": "2026-11-03T16:00:00Z"
     },
     {
       "id": "62b9aacb66ffa5924e892296ef40d52147daa957",
