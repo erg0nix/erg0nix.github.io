@@ -1,6 +1,70 @@
 {
-  "generated_at": "2026-11-24T17:13:20.263498Z",
+  "generated_at": "2026-11-25T16:57:19.269801Z",
   "items": [
+    {
+      "id": "557abf555abb4bb161f374bbb56f65429e9db8af",
+      "title": "Art of play in the age of AI",
+      "link": "https://github.blog/news-insights/company-news/art-of-play-in-the-age-of-ai/",
+      "source": "GitHub Blog",
+      "summary": "Now that code ships faster than ever, you have more time to spend on projects just for the fun of it. Here's what we can learn through that process as developers. The post Art of play in the age of AI appeared first on The GitHub Blog.",
+      "published": "2026-11-25T16:00:00Z"
+    },
+    {
+      "id": "0cddb692e384dae24d2adb54e57fb097e83c870d",
+      "title": "Slår et slag for mer hjemme­kontor i staten",
+      "link": "https://www.kode24.no/artikkel/slar-et-slag-for-mer-hjemmekontor-i-staten/279521",
+      "source": "Kode24",
+      "summary": "De rødgrønne budsjettkameratene foreslår mer hjemmekontor og digitale møter i offentlige etater. Reiser og klimautslipp skal dokumenteres.",
+      "published": "2026-11-25T14:16:48Z"
+    },
+    {
+      "id": "cc25936ff6ee5b38511a6db7a88fd1c704657d9f",
+      "title": "Tidal forbyr KI-musikk. Fjerner millioner av låter",
+      "link": "https://www.kode24.no/artikkel/tidal-forbyr-ki-musikk-fjerner-millioner-av-later/279502",
+      "source": "Kode24",
+      "summary": "Musikkstrømmetjenesten Tidal, som for flere har vært et alternativ til Spotify, tar nå grep mot KI-generert musikk. Fra og med 9. desember blir det forbudt med KI-låter.",
+      "published": "2026-11-25T12:26:43Z"
+    },
+    {
+      "id": "78633035d8350dfabdced8569687b9853b4c3ee3",
+      "title": "Advarer: Hackere trenger ikke avanserte verktøy lenger",
+      "link": "https://www.kode24.no/artikkel/advarer-hackere-trenger-ikke-avanserte-verktoy-lenger/279457",
+      "source": "Kode24",
+      "summary": "En hacker i Romania brukte en åpen KI-agent, en nettleser og en vanlig Mac for å finne en tilgangsnøkkel hos et finansselskap på under seks minutter. Britiske myndigheter og FBI advarer om superkjappe KI-verktøy.",
+      "published": "2026-11-25T12:00:00Z"
+    },
+    {
+      "id": "46c4ac843c43b5cdf90e195a7f90cb1464873a93",
+      "title": "Løfter fram alternativer til Microsoft: – Vet du bare om én ting, velger du den",
+      "link": "https://www.kode24.no/artikkel/lofter-fram-alternativer-til-microsoft-vet-du-bare-om-en-ting-velger-du-den/279268",
+      "source": "Kode24",
+      "summary": "– Poenget er ikke «Europa mot USA». Næringslivet trenger flere alternativer, sier Endre Dingsør i Virke.",
+      "published": "2026-11-25T10:26:41Z"
+    },
+    {
+      "id": "9297a22949188b8c8bcf557a2c3eaae7710feb13",
+      "title": "SoMe-aldersgrense funka ikke. Nå strammer Australia inn enda mer",
+      "link": "https://www.kode24.no/artikkel/some-aldersgrense-funka-ikke-na-strammer-australia-inn-enda-mer/279430",
+      "source": "Kode24",
+      "summary": "En ny lov er vedtatt i Australia som pålegger sosiale medie-plattformer å fjerne skadelig innhold og funksjoner.",
+      "published": "2026-11-25T08:43:26Z"
+    },
+    {
+      "id": "1babd7389629e0df28acb933fb173b9965f8fd88",
+      "title": "Kortvarig Nvidia-fest: KI-frykten tilbake på børsene",
+      "link": "https://www.kode24.no/artikkel/kortvarig-nvidia-fest-ki-frykten-tilbake-pa-borsene/279405",
+      "source": "Kode24",
+      "summary": "Uro rundt KI-selskapene på Wall Street påvirker handelen i Asia. De fleste asiatiske børsene falt fra start onsdag.",
+      "published": "2026-11-25T07:59:01Z"
+    },
+    {
+      "id": "26a1c8bae220a49c5c7c31eb22410fabe17d111e",
+      "title": "Lytta hjelper utviklere med kjærlighetslivet",
+      "link": "https://www.kode24.no/artikkel/lytta-hjelper-utviklere-med-kjaerlighetslivet/278932",
+      "source": "Kode24",
+      "summary": "– Forholdene våre testes av sluttbrukeren, reviewes av vennene deres, deployes rett i produksjon og får post-mortem etter bruddet, skriver Villu Sepman. Så han lagde appen Lytta.",
+      "published": "2026-11-25T04:00:00Z"
+    },
     {
       "id": "b1a95c2c8264c1362bac1b78befe5d5784f94765",
       "title": "These are the gifts developers will actually want",
@@ -115,62 +179,6 @@
       "published": "2026-11-20T12:24:23Z"
     },
     {
-      "id": "75de6b1537a168e862b7958f7c88a959bb93b3db",
-      "title": "Jobbannonse hos Apple avslørte planer om KI-agent",
-      "link": "https://www.kode24.no/artikkel/jobbannonse-hos-apple-avslorte-planer-om-ki-agent/279076",
-      "source": "Kode24",
-      "summary": "Apple jobber antageligvis med å utvikle en egen KI-agent som kan styre Macbook-en din. Det viser en jobbannonse, som nå er slettet.",
-      "published": "2026-11-20T11:52:54Z"
-    },
-    {
-      "id": "70ff88b669094602edfd105153c93e1eaffa2646",
-      "title": "5.000 bankkort stjålet fra Norwegian-kunder",
-      "link": "https://www.kode24.no/artikkel/5000-bankkort-stjalet-fra-norwegian-kunder/279082",
-      "source": "Kode24",
-      "summary": "Angrep mot underleverandør, alle kundene blir nå bedt om å sperre kortene sine.",
-      "published": "2026-11-20T10:16:10Z"
-    },
-    {
-      "id": "e4739b1b9403b7fc7935e14df28d4519fcf05e4c",
-      "title": "De som KI-kutter ansetter ofte folk tilbake, med tap",
-      "link": "https://www.kode24.no/artikkel/de-som-ki-kutter-ansetter-ofte-folk-tilbake-med-tap/278732",
-      "source": "Kode24",
-      "summary": "– DNB kutter 400 årsverk, og IT-annonsene på FINN har falt en tredjedel. Hva skyldes egentlig KI? spør Henrik D. Holum i Bspoke.",
-      "published": "2026-11-20T09:58:29Z"
-    },
-    {
-      "id": "5c9ef16839e5a87db04e222ccecf745ef7fa3582",
-      "title": "Strammer inn KI-bruken i Bergen kommune",
-      "link": "https://www.kode24.no/artikkel/strammer-inn-ki-bruken-i-bergen-kommune/278828",
-      "source": "Kode24",
-      "summary": "Bergen bystyre vil ikke forby KI-bruk, men krever bedre kildesjekk når generativ KI blir brukt til å lage tekster. Dessuten skal «vesentlig bruk» av KI merkes.",
-      "published": "2026-11-20T09:57:42Z"
-    },
-    {
-      "id": "e6d32f8017db7faba61e377281067792dd354737",
-      "title": "Computas trenger flere utviklere, ansetter Mats",
-      "link": "https://www.kode24.no/artikkel/computas-trenger-flere-utviklere-ansetter-mats/278935",
-      "source": "Kode24",
-      "summary": "Mats Holm Rosbach er nyansatt utvikler i Computas, som melder om gode tider.",
-      "published": "2026-11-20T09:52:52Z"
-    },
-    {
-      "id": "1c64d753f9dee20e4621d4c94dd42e2950e0f15a",
-      "title": "Nordmenn har høyere press på jobb enn resten av Europa",
-      "link": "https://www.kode24.no/artikkel/nordmenn-har-hoyere-press-pa-jobb-enn-resten-av-europa/278908",
-      "source": "Kode24",
-      "summary": "Selv om det norske arbeidsmiljøet er blant Europas beste, rapporterer norske arbeidstakere dårligere mentalt velvære enn EU-snittet.",
-      "published": "2026-11-20T07:44:29Z"
-    },
-    {
-      "id": "379ec03c7a8b04d863cacaed499b70ba562811e5",
-      "title": "Anthropic satt børsrekord – slo SpaceX",
-      "link": "https://www.kode24.no/artikkel/anthropic-satt-borsrekord-slo-spacex/279054",
-      "source": "Kode24",
-      "summary": "Anthropic, selskapet bak Claude, debuterte på børsen torsdag i det som er tidenes største børsnotering.",
-      "published": "2026-11-20T07:15:17Z"
-    },
-    {
       "id": "3e0e6174df0038fc0abe2cc8435ad1356add86f6",
       "title": "The best things in open source are built together",
       "link": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
@@ -246,15 +254,6 @@
       "summary": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub’s new Git storage architecture appeared first on The GitHub Blog.",
       "published": "2026-11-05T20:23:21Z",
       "image": "https://github.blog/wp-content/uploads/2026/11/customer-growth.png?resize=1024%2C483"
-    },
-    {
-      "id": "0d1b605c8118e2e2c0b28d53284920cc541403d0",
-      "title": "Accessibility statements now have a home on GitHub",
-      "link": "https://github.blog/open-source/maintainers/accessibility-statements-now-have-a-home-on-github/",
-      "source": "GitHub Blog",
-      "summary": "GitHub now highlights ACCESSIBILITY.md files and helps maintainers document accessibility goals, known barriers, supported environments, contributor expectations, and reporting processes. The post Accessibility statements now have a home on GitHub appeared first on The GitHub Blog.",
-      "published": "2026-11-05T16:00:00Z",
-      "image": "https://github.blog/wp-content/uploads/2026/11/Screenshot-2026-11-02-at-3.20.14-PM.png?resize=1024%2C680"
     },
     {
       "id": "6543454a201d076b37b1eab5bc43c35d13fb4cbb",
