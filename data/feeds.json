@@ -1,6 +1,62 @@
 {
-  "generated_at": "2026-11-25T16:57:19.269801Z",
+  "generated_at": "2026-11-26T16:36:31.017442Z",
   "items": [
+    {
+      "id": "df966436fdd94742eda4b3fec37e8d3a8ec0ca01",
+      "title": "Nordea kutter ut hjemmekontor",
+      "link": "https://www.kode24.no/artikkel/nordea-kutter-ut-hjemmekontor/279629",
+      "source": "Kode24",
+      "summary": "I høst har banken tenkt. Nå fjerner Nordea hele hybridordningen.",
+      "published": "2026-11-26T14:30:00Z"
+    },
+    {
+      "id": "5963f9b400bcaaa01573c915d403242a8e99d383",
+      "title": "Datainnbrudd hos 1Password – brukes av millioner",
+      "link": "https://www.kode24.no/artikkel/datainnbrudd-hos-1password-brukes-av-millioner/279633",
+      "source": "Kode24",
+      "summary": "1Password opplyser at en hacker har tatt seg inn i selskapets interne systemer. Kundeopplysninger er på avveie, men passordene som er lagret hos kunder er trygge.",
+      "published": "2026-11-26T12:29:44Z"
+    },
+    {
+      "id": "44fb38176c0aab393ae026c5e0f225232559701f",
+      "title": "Ekspert sår tvil om Fifa-hackergruppe",
+      "link": "https://www.kode24.no/artikkel/ekspert-sar-tvil-om-fifa-hackergruppe/279639",
+      "source": "Kode24",
+      "summary": "Det internasjonale fotballforbundet (Fifa) bekrefter at de har blitt utsatt for et dataangrep. Sikkerhetsekspert Lars Eirik Berg er i tvil om gruppa som tok på seg ansvaret.",
+      "published": "2026-11-26T11:50:12Z"
+    },
+    {
+      "id": "66133b8dd2ebfdd579df86938a4ef81ec6882c38",
+      "title": "Savner du flyt­sonen? Prøv å håndkode på fritida!",
+      "link": "https://www.kode24.no/artikkel/savner-du-flytsonen-prov-a-handkode-pa-fritida/279176",
+      "source": "Kode24",
+      "summary": "– Når stadig mer av koden jeg leverer på jobben skrives av AI, var det deilig å kode litt for hånd igjen, forteller Kurt Lekanger.",
+      "published": "2026-11-26T11:30:00Z"
+    },
+    {
+      "id": "9ae684661b641521f4070d9c45d779275ebf143e",
+      "title": "Viste fram USA-alternativer: Får ros av regjeringen",
+      "link": "https://www.kode24.no/artikkel/viste-fram-usa-alternativer-far-ros-av-regjeringen/279450",
+      "source": "Kode24",
+      "summary": "– Det er en utfordring at mange virksomheter er avhengige av de samme leverandørene. Det gjør oss sårbare, sier statssekretær Ola Pedersen til kode24.",
+      "published": "2026-11-26T09:30:00Z"
+    },
+    {
+      "id": "9c71f6d8212a252ea52b4f351a2c504b1d498d7c",
+      "title": "Musk får skyte opp 1 million datasenter-satellitter",
+      "link": "https://www.kode24.no/artikkel/musk-far-skyte-opp-1-million-datasenter-satellitter/279575",
+      "source": "Kode24",
+      "summary": "Amerikanske myndigheter har gitt SpaceX tillatelse til å sende en million satellitter opp i verdensrommet for å etablere datasentre der.",
+      "published": "2026-11-26T07:45:31Z"
+    },
+    {
+      "id": "dbbb4ebf538781e2f78f4ef29191e2f24dc58731",
+      "title": "Startet ­barsels­gruppe for KI-interesserte: – Her får vi skrudd på hjernen",
+      "link": "https://www.kode24.no/artikkel/startet-barselsgruppe-for-ki-interesserte-her-far-vi-skrudd-pa-hjernen/279492",
+      "source": "Kode24",
+      "summary": "Tora Gjengset har tatt initiativ til en møteplass for foreldre som vil lære mer om KI. – Det finnes masse barselstilbud, men dette tror jeg er noe nytt.",
+      "published": "2026-11-26T04:00:00Z"
+    },
     {
       "id": "557abf555abb4bb161f374bbb56f65429e9db8af",
       "title": "Art of play in the age of AI",
@@ -8,6 +64,14 @@
       "source": "GitHub Blog",
       "summary": "Now that code ships faster than ever, you have more time to spend on projects just for the fun of it. Here's what we can learn through that process as developers. The post Art of play in the age of AI appeared first on The GitHub Blog.",
       "published": "2026-11-25T16:00:00Z"
+    },
+    {
+      "id": "1a98b636630df16fbcede36226c16bc8bf6133ef",
+      "title": "How to choose the next safe step in application modernization",
+      "link": "https://github.blog/ai-and-ml/github-copilot/how-to-choose-the-next-safe-step-in-application-modernization/",
+      "source": "GitHub Blog",
+      "summary": "Learn how to assess a legacy application, choose a bounded modernization step, and reuse the method with a GitHub Copilot agent skill. The post How to choose the next safe step in application modernization appeared first on The GitHub Blog.",
+      "published": "2026-11-25T15:00:00Z"
     },
     {
       "id": "0cddb692e384dae24d2adb54e57fb097e83c870d",
@@ -123,62 +187,6 @@
       "published": "2026-11-23T14:39:57Z"
     },
     {
-      "id": "2f9020172347b5d503e55ef5d178a8ffb50573c8",
-      "title": "Jensen Huang gjeninnsettes",
-      "link": "https://www.kode24.no/artikkel/jensen-huang-gjeninnsettes/279304",
-      "source": "Kode24",
-      "summary": "Jensen Huang gjeninnsettes som toppsjef i Nvidia, opplyser selskapet.",
-      "published": "2026-11-23T14:20:08Z"
-    },
-    {
-      "id": "1faac4b847879b34e23898397298e4bcef47f830",
-      "title": "NSM advarer: Secrets og named values er trolig på avveie",
-      "link": "https://www.kode24.no/artikkel/nsm-advarer-secrets-og-named-values-er-trolig-pa-avveie/279238",
-      "source": "Kode24",
-      "summary": "Cyberangrepet mot Equinor var rettet mot en Microsoft-tjeneste for å administrere API-tjenester. Nasjonal sikkerhetsmyndighet anbefaler å rullere alle tokens og secrets.",
-      "published": "2026-11-23T10:26:05Z"
-    },
-    {
-      "id": "90f054a49e1fb02d942290612a532c13a5b574b8",
-      "title": "– Ikke bli et KI-søppelmenneske",
-      "link": "https://www.kode24.no/artikkel/ikke-bli-et-ki-soppelmenneske/279157",
-      "source": "Kode24",
-      "summary": "– KI er det beste verktøyet jeg har fått i jobben på mange år. Brukt feil kan det imidlertid fort skape mye ekstraarbeid for alle rundt deg, skriver Steinar Kollerud i Alv.",
-      "published": "2026-11-23T10:00:00Z"
-    },
-    {
-      "id": "7651d3930949b78872bde62b3ec31c711c17f40e",
-      "title": "CNN: FBI etterforsker nytt hackerangrep mot FBIs database",
-      "link": "https://www.kode24.no/artikkel/cnn-fbi-etterforsker-nytt-hackerangrep-mot-fbis-database/279197",
-      "source": "Kode24",
-      "summary": "FBIs nasjonale kriminalitetsregister (NCIC) skal ha blitt hacket for andre gang på få måneder, melder CNN.",
-      "published": "2026-11-23T09:14:29Z"
-    },
-    {
-      "id": "21d1b12b892e4a5471c25c5006601b6d6cfdd8c6",
-      "title": "Typografi­ekspert hyller Norge: – Langt bedre enn andre!",
-      "link": "https://www.kode24.no/artikkel/typografiekspert-hyller-norge-langt-bedre-enn-andre/278296",
-      "source": "Kode24",
-      "summary": "Oliver Schöndorfer mener norske virksomheter er blant de flinkeste i verden til å investere i egne skrifttyper. – For vår del var kostnaden et argument, sier NRK.",
-      "published": "2026-11-23T04:00:00Z"
-    },
-    {
-      "id": "05e2d4402904d395c5790cc8a73070119f40dd6b",
-      "title": "Hos Apple er «data­mus» greit, mens «mus» er vulgært",
-      "link": "https://www.kode24.no/artikkel/hos-apple-er-datamus-greit-mens-mus-er-vulgaert/278929",
-      "source": "Kode24",
-      "summary": "Helge Sverre Hessevik Liseth har gravd seg ned i Apples ordliste over støtende norske ord, og funnet flere overraskelser.",
-      "published": "2026-11-21T04:00:00Z"
-    },
-    {
-      "id": "4189d1d84557fe61b10f135660aff77d2e736642",
-      "title": "Bruker millioner på KI-tjeneste. Stemples som «ubrukelig»",
-      "link": "https://www.kode24.no/artikkel/bruker-millioner-pa-ki-tjeneste-stemples-som-ubrukelig/279097",
-      "source": "Kode24",
-      "summary": "Den nynorske KI-assistenten «Mimir» har kostet Vestland fylkeskommune nesten ti millioner kroner så langt, men greier ikke gi tydelige svar på enkle fylkes-spørsmål, skriver Bergensavisen.",
-      "published": "2026-11-20T12:24:23Z"
-    },
-    {
       "id": "3e0e6174df0038fc0abe2cc8435ad1356add86f6",
       "title": "The best things in open source are built together",
       "link": "https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/",
@@ -245,15 +253,6 @@
       "source": "GitHub Blog",
       "summary": "Writing code got faster. The work around it didn't. See how you can plan, write code, review changes, and investigate production issues with GitHub Copilot, and what work still needs your judgment. The post Beyond code generation: A developer’s guide to agentic engineering appeared first on The...",
       "published": "2026-11-06T22:15:59Z"
-    },
-    {
-      "id": "f333d8cce6ce4e8f411bb2c163577d0d395c25b0",
-      "title": "Inside GitHub’s new Git storage architecture",
-      "link": "https://github.blog/engineering/architecture-optimization/inside-githubs-new-git-storage-architecture/",
-      "source": "GitHub Blog",
-      "summary": "GitHub's new Git storage architecture is built so thousands of agents can push to a single repository at once. Here's how it works. The post Inside GitHub’s new Git storage architecture appeared first on The GitHub Blog.",
-      "published": "2026-11-05T20:23:21Z",
-      "image": "https://github.blog/wp-content/uploads/2026/11/customer-growth.png?resize=1024%2C483"
     },
     {
       "id": "6543454a201d076b37b1eab5bc43c35d13fb4cbb",
