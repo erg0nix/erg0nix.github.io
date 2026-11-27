@@ -1,6 +1,54 @@
 {
-  "generated_at": "2026-11-26T16:36:31.017442Z",
+  "generated_at": "2026-11-27T16:22:03.527199Z",
   "items": [
+    {
+      "id": "aa2a0e59f8ac23e965aa08f42cdca731eb96b61e",
+      "title": "NSM skal ansette 50 personer: – Betydelig løft",
+      "link": "https://www.kode24.no/artikkel/nsm-skal-ansette-50-personer-betydelig-loft/279778",
+      "source": "Kode24",
+      "summary": "Nasjonal sikkerhetsmyndighet skal styrke seg på operativ cybersikkerhet. Det kan skape trøbbel for resten av bransjen, melder TechWatch.",
+      "published": "2026-11-27T12:04:42Z"
+    },
+    {
+      "id": "60c53325d04750b4eba410d2090a3a44b609402c",
+      "title": "Ansatte i åpent kontorlandskap mer utsatt for mobbing",
+      "link": "https://www.kode24.no/artikkel/ansatte-i-apent-kontorlandskap-mer-utsatt-for-mobbing/279740",
+      "source": "Kode24",
+      "summary": "Mange utviklere mistrives i åpent landskap, og ny forskning viser at de også har større risiko for å bli utsatt for mobbing.",
+      "published": "2026-11-27T11:45:15Z"
+    },
+    {
+      "id": "dbbdd8d840e5ed2857046c2652334d80a1138a50",
+      "title": "Roberth Strand til Capgemini: – Får en viktig rolle",
+      "link": "https://www.kode24.no/artikkel/roberth-strand-til-capgemini-far-en-viktig-rolle/279733",
+      "source": "Kode24",
+      "summary": "– Jeg gleder meg veldig til å få ham med på laget, sier skyekspertens nye sjef.",
+      "published": "2026-11-27T11:35:23Z"
+    },
+    {
+      "id": "97b419e1075397d7d1c37c4bac72fd38fb016861",
+      "title": "Vipps ned­bemanner på grunn av KI",
+      "link": "https://www.kode24.no/artikkel/vipps-nedbemanner-pa-grunn-av-ki/279724",
+      "source": "Kode24",
+      "summary": "20 personer mister jobben i Vipps, men noen får tilbud om nye arbeidsoppgaver.",
+      "published": "2026-11-27T09:00:08Z"
+    },
+    {
+      "id": "dcc60ef57d0bcf347aa44153e2adf094c054e9e3",
+      "title": "Datasenter-drama: Tre statsråder forlot møte etter tvil om habilitet",
+      "link": "https://www.kode24.no/artikkel/datasenter-drama-tre-statsrader-forlot-mote-etter-tvil-om-habilitet/279710",
+      "source": "Kode24",
+      "summary": "Ekteskap og tidligere kolleger skaper trøbbel for statsråder som skal jobbe med datasenter-politikken.",
+      "published": "2026-11-27T08:36:11Z"
+    },
+    {
+      "id": "679391821e45921ec96371bed587a39cf13f52cd",
+      "title": "Den vanskelege suvereniteten",
+      "link": "https://www.kode24.no/artikkel/den-vanskelege-suvereniteten/279595",
+      "source": "Kode24",
+      "summary": "– Regjeringa vil ha byte plattform-strategiar, men svarar ikke tydeleg på om årsaka er at Microsoft og AWS ikkje er til å stole på lenger, skriv Silje i nyheitsbrevet denne veka.",
+      "published": "2026-11-27T04:00:00Z"
+    },
     {
       "id": "df966436fdd94742eda4b3fec37e8d3a8ec0ca01",
       "title": "Nordea kutter ut hjemmekontor",
@@ -137,54 +185,6 @@
       "summary": "The developer you're shopping for hasn’t shared their holiday wish list with you yet? Check out these gifts, plus our Black Friday discount all week long. The post These are the gifts developers will actually want appeared first on The GitHub Blog.",
       "published": "2026-11-24T16:00:00Z",
       "image": "https://github.blog/wp-content/uploads/2026/11/Universe-4-4.jpg?resize=1024%2C576"
-    },
-    {
-      "id": "bd193f26bb62217717d2311a7eb8c2413aff176b",
-      "title": "Micaelsen: – Bør ha strategier for leverandør­bytte",
-      "link": "https://www.kode24.no/artikkel/micaelsen-bor-ha-strategier-for-leverandorbytte/279253",
-      "source": "Kode24",
-      "summary": "Microsofts Outlook-problemer førte til store problemer for staten. Nå ber digitaliseringsministeren både private og offentlige aktører lage flytteplaner.",
-      "published": "2026-11-24T13:06:21Z"
-    },
-    {
-      "id": "6e4c9ac69a33b436b75c72b7d7257a4a8651eeac",
-      "title": "KI løste matte­problem, men ingen kan lese beviset",
-      "link": "https://www.kode24.no/artikkel/ki-loste-matteproblem-men-ingen-kan-lese-beviset/279365",
-      "source": "Kode24",
-      "summary": "Anthropic hevder at Claude har løst et eldgammelt matematisk problem. Men løsningen har utløst debatt om hvorvidt et bevis egentlig er verdifullt dersom det ikke kan forstås av mennesker.",
-      "published": "2026-11-24T10:50:35Z"
-    },
-    {
-      "id": "7393e99146e09ac51a1683da10c8b644a459ebd8",
-      "title": "Dette kan tidligere teknologi­­­skifter lære oss om KI og jobbene",
-      "link": "https://www.kode24.no/artikkel/dette-kan-tidligere-teknologiskifter-laere-oss-om-ki-og-jobbene/278771",
-      "source": "Kode24",
-      "summary": "– Hver ny teknologi har fått oss til å frykte for jobbene. Hva skjedde de forrige gangene, og er det annerledes nå, spør Henrik Holum i dette leserinnlegget.",
-      "published": "2026-11-24T08:55:51Z"
-    },
-    {
-      "id": "82620cb74da3e70bee5e509d4a4fad0e3c9340a5",
-      "title": "Nvidia-fest på Wall Street – Nasdaq opp 6,5 prosent",
-      "link": "https://www.kode24.no/artikkel/nvidia-fest-pa-wall-street-nasdaq-opp-65-prosent/279346",
-      "source": "Kode24",
-      "summary": "Etter nyheten om at Jensen Huang gjør comeback som toppsjef i Nvidia, steg selskapets aksjer 31,5 prosent.",
-      "published": "2026-11-24T06:50:17Z"
-    },
-    {
-      "id": "e67a396c8d536c800294fecc0691aa27287f1c16",
-      "title": "Rubberduck lokker utviklere med gratis månedskort",
-      "link": "https://www.kode24.no/artikkel/rubberduck-lokker-utviklere-med-gratis-manedskort/278689",
-      "source": "Kode24",
-      "summary": "Det lille konsulentselskapet bruker 131.000 i året på månedskort til ansatte. – Vil redusere kø-sitting på E6.",
-      "published": "2026-11-24T02:28:00Z"
-    },
-    {
-      "id": "a98f26ea64de0094db478b5fa12de17fc1dda631",
-      "title": "Nytt dataangrep mot ID-porten",
-      "link": "https://www.kode24.no/artikkel/nytt-dataangrep-mot-id-porten/279264",
-      "source": "Kode24",
-      "summary": "Et nytt dataangrep har rammet ID-Porten og MinID, noe som fører til driftsforstyrrelser og ustabile tjenester.",
-      "published": "2026-11-23T14:39:57Z"
     },
     {
       "id": "3e0e6174df0038fc0abe2cc8435ad1356add86f6",
